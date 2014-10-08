@@ -27,6 +27,7 @@ Deltakere:
 * Karoline Moe, UBO. Fagansvar: Matematikk
 * Kristin Rangnes, UBO. Fagansvar: Geofag
 
+For å pinge alle: @realfagstermer/alle
 
 Eksterne ressurser:
 * [Emnesøk](http://app.uio.no/ub/emnesok/?id=UREAL)
