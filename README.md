@@ -5,7 +5,29 @@ Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjen
 
 * [**Endringsforslag**](https://github.com/realfagstermer/realfagstermer/issues)
 
+Deltakere:
 
-Eksterne ressurser
+* [@bibliomari](https://github.com/bibliomari) :
+  Mari Lundevall, UBO. Redaksjonsleder, bibliotekar.
+* [@violabibaluba](https://github.com/violabibaluba) :
+  Viola Kuldvere, UBO. Bibliotekar.
+* [@knuthe](https://github.com/knuthe) :
+  Knut Hegna, UBO. Fagansvar: Informatikk.
+* [@mittinatten](https://github.com/mittinatten) :
+  Simon Mitternacht, UBB. Fagansvar: Fysikk, også matematikk og informatikk (+ geofag i noen måneder).
+* [@danmichaelo](https://github.com/danmichaelo) :
+  Dan Michael O. Heggø, UBO. Fagansvar: Fysikk, materialvitenskap.
+* [@superline](https://github.com/superline) :
+  Line Nybakk Akerholt, UBO. Bibliotekar, fagansvar: Astrofysikk.
+* [@BioHeidi](https://github.com/BioHeidi) :
+  Heidi Konestabo, UBO. Fagansvar: Biovitenskap.
+* [@kyrretl](https://github.com/kyrretl) :
+  Kyrre Traavik Låberg, UBO. Utvikler, biolog.
+* Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
+* Karoline Moe, UBO. Fagansvar: Matematikk
+* Kristin Rangnes, UBO. Fagansvar: Geofag
+
+
+Eksterne ressurser:
 * [Emnesøk](http://app.uio.no/ub/emnesok/?id=UREAL)
 * [LodLive](http://biblionaut.net/lodlive)
