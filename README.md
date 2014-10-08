@@ -17,7 +17,7 @@ Deltakere:
   Simon Mitternacht, UBB. Fagansvar: Fysikk, også matematikk og informatikk (+ geofag i noen måneder).
 * [@danmichaelo](https://github.com/danmichaelo) :
   Dan Michael O. Heggø, UBO. Fagansvar: Fysikk, materialvitenskap.
-* [@superline](https://github.com/superline) :
+* [@superLine](https://github.com/superLine) :
   Line Nybakk Akerholt, UBO. Bibliotekar, fagansvar: Astrofysikk.
 * [@BioHeidi](https://github.com/BioHeidi) :
   Heidi Konestabo, UBO. Fagansvar: Biovitenskap.
