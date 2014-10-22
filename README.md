@@ -23,7 +23,7 @@ Deltakere:
   Heidi Konestabo, UBO. Fagansvar: Biovitenskap.
 * [@kyrretl](https://github.com/kyrretl) :
   Kyrre Traavik Låberg, UBO. Utvikler, biolog.
-* [@hypsibius](https://github.com/hypsibius : Hege Folkestad, UBB. Fagansvar: Biologi.
+* [@Hypsibius](https://github.com/Hypsibius) : Hege Folkestad, UBB. Fagansvar: Biologi.
 * Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
 * Karoline Moe, UBO. Fagansvar: Matematikk
 * Kristin Rangnes, UBO. Fagansvar: Geofag
