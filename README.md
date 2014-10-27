@@ -14,7 +14,7 @@ Deltakere:
 * [@knuthe](https://github.com/knuthe) :
   Knut Hegna, UBO. Fagansvar: Informatikk.
 * [@mittinatten](https://github.com/mittinatten) :
-  Simon Mitternacht, UBB. Fagansvar: Fysikk, også matematikk og informatikk (+ geofag i noen måneder).
+  Simon Mitternacht, UBB. Fagansvar: Matematikk, informatikk og teoretisk fysikk.
 * [@danmichaelo](https://github.com/danmichaelo) :
   Dan Michael O. Heggø, UBO. Fagansvar: Fysikk, materialvitenskap.
 * [@superLine](https://github.com/superLine) :
