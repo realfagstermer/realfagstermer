@@ -24,6 +24,7 @@ Deltakere:
 * [@kyrretl](https://github.com/kyrretl) :
   Kyrre Traavik Låberg, UBO. Utvikler, biolog.
 * [@Hypsibius](https://github.com/Hypsibius) : Hege Folkestad, UBB. Fagansvar: Biologi.
+* [@mzyg](https://github.com/mzyg) : Marta Zygmuntowska, UBB. Geofag.
 * Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
 * Karoline Moe, UBO. Fagansvar: Matematikk
 * Kristin Rangnes, UBO. Fagansvar: Geofag
