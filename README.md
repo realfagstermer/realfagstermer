@@ -35,7 +35,7 @@ Tips:
 * Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
 * Karoline Moe, UBO. Fagansvar: Matematikk
 
-For å pinge alle: @realfagstermer/alle
+For å varsle alle: @realfagstermer/alle
 
 Eksterne ressurser:
 * [Emnesøk](http://app.uio.no/ub/emnesok/?id=UREAL)
