@@ -1,11 +1,17 @@
 Realfagstermers prosjektrom
 ==============
 
-Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjenester/emneord/realfagstermer.html). Her tester vi om *issue trackeren* (vi må finne en norsk term!) til GitHub er et egnet verktøy for å diskutere og behandle endringsforslag.
+Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjenester/emneord/realfagstermer.html). Her tester vi hvor godt egnet *issue trackeren* (norsk term, noen?) til GitHub er for å diskutere og behandle nye termer og endringer.
 
-* [**Endringsforslag**](https://github.com/realfagstermer/realfagstermer/issues)
+* [**→ Til termdiskusjonene**](https://github.com/realfagstermer/realfagstermer/issues)
 
-Deltakere:
+Tips:
+- Du [blir varslet](https://help.github.com/articles/about-notifications/) hver gang noen [nevner deg](https://github.com/blog/821). Som standard får du varslinger på epost, men du kan endre dette [i innstillingene dine](https://github.com/settings/notifications).
+ - Hvis du ønsker tilbakemeldinger fra bestemte personer, f.eks. fagreferenter i de-og-de fagene, er det lurt å [nevne dem](https://github.com/blog/821). Under finnes det en oversikt over hvem-er-hvem.
+- Du kan i tillegg velge å [følge prosjektet](https://help.github.com/articles/watching-repositories/ Watching repositories). Du vil da få varsler om alt som skjer.
+- Alle diskusjoner foregår i det samme rommet, men vi kan legge på etiketter (*labels*) for å kategorisere dem.
+
+## Deltakere:
 
 * [@bibliomari](https://github.com/bibliomari) :
   Mari Lundevall, UBO. Redaksjonsleder, bibliotekar.
