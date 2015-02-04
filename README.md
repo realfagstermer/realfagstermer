@@ -34,6 +34,7 @@ Tips:
 * [@kristinran](https://github.com/kristinran) : Kristin Rangnes, UBO. Fagansvar: Geofag
 * Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
 * Karoline Moe, UBO. Fagansvar: Matematikk
+* Bente Kathrine Rasch, UBO. Fagansvar: Farmasi
 
 For å varsle alle: @realfagstermer/alle
 
