@@ -1,7 +1,18 @@
 #!/bin/bash
-# This script is intended to be run as a cronjob.
-# It will update the Fuseki TDB store if there are new commits
-# in the Git repo.
+#
+# This script puts data to Fuseki if new commits are found in the remote git repo.
+#
+# Set RUBYENV to the value returned from `rvm env --path` to make the script find
+# the RVM environment when run as a cronjob.
+#
+# Example:
+#  10 * * * * RUBYENV=/usr/local/rvm/environments/ruby-1.9.3-p551@global /opt/realfagstermer/update-fuseki.sh
+
+cd "$( dirname "${BASH_SOURCE[0]}" )"
+
+if [ -n "$RUBYENV" ]; then
+  source "$RUBYENV"
+fi
 
 git fetch origin
 if [ -n "$(git log HEAD..origin/master --oneline)" ]; then
