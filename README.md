@@ -18,7 +18,7 @@ Tips:
 * [@violabibaluba](https://github.com/violabibaluba) :
   Viola Kuldvere, UBO. Bibliotekar.
 * [@knuthe](https://github.com/knuthe) :
-  Knut Hegna, UBO. Fagansvar: Informatikk.
+  Knut Hegna, UBO. Fagansvar: Informatikk. Utvikler av Roald og Sonja.
 * [@mittinatten](https://github.com/mittinatten) :
   Simon Mitternacht, UBB. Fagansvar: Matematikk, informatikk og teoretisk fysikk.
 * [@danmichaelo](https://github.com/danmichaelo) :
