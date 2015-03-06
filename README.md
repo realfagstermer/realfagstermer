@@ -38,6 +38,17 @@ Tips:
 
 For å varsle alle: @realfagstermer/alle
 
-Eksterne ressurser:
+## Prosjekt: Realfagstermar på nynorsk
+
+Deltakarar:
+* Maria Svendsen (biologi/kjemi)
+* [@jorgenem](https://github.com/jorgenem) : Jørgen Eriksson Midtbø (fysikk/matte)
+* [@totlevase](https://github.com/totlevase) : Vebjørn Sture (korrektur/nynorsk)
+
+Sjå óg [eigen prosjektside](https://github.com/realfagstermer/realfagstermer/wiki/Retningslinjer-for-nynorskomsetjing).
+
+
+## Eksterne ressurser
+
 * [Emnesøk](http://app.uio.no/ub/emnesok/?id=UREAL)
 * [LodLive](http://biblionaut.net/lodlive)
