@@ -5,8 +5,11 @@
 # Set RUBYENV to the value returned from `rvm env --path` to make the script find
 # the RVM environment when run as a cronjob.
 #
-# Example:
-#  10 * * * * RUBYENV=/usr/local/rvm/environments/ruby-1.9.3-p551@global /opt/realfagstermer/update-fuseki.sh
+# Example crontab:
+#
+#  PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/opt/fuseki
+#  RUBYENV=/usr/local/rvm/environments/ruby-1.9.3-p551@global
+#  10 * * * * /opt/realfagstermer/update-fuseki.sh
 
 cd "$( dirname "${BASH_SOURCE[0]}" )"
 
@@ -17,5 +20,5 @@ fi
 git fetch origin
 if [ -n "$(git log HEAD..origin/master --oneline)" ]; then
   git pull --force
-  /opt/fuseki/s-put http://localhost:3030/ds/data http://data.ub.uio.no/rt realfagstermer.ttl
+  s-put http://localhost:3030/ds/data http://data.ub.uio.no/realfagstermer realfagstermer.ttl
 fi
