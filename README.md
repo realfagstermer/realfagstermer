@@ -9,7 +9,9 @@ Tips:
 - Du [blir varslet](https://help.github.com/articles/about-notifications/) hver gang noen [nevner deg](https://github.com/blog/821). Som standard får du varslinger på epost, men du kan endre dette [i innstillingene dine](https://github.com/settings/notifications).
  - Hvis du ønsker tilbakemeldinger fra bestemte personer, f.eks. fagreferenter i de-og-de fagene, er det lurt å [nevne dem](https://github.com/blog/821). Under finnes det en oversikt over hvem-er-hvem.
 - Du kan i tillegg velge å [følge prosjektet](https://help.github.com/articles/watching-repositories/ Watching repositories). Du vil da få varsler om alt som skjer.
-- Alle diskusjoner foregår i det samme rommet, men vi kan legge på etiketter (*labels*) for å kategorisere dem.
+- Alle diskusjoner foregår i det samme rommet, men vi bruker etiketter (*labels*) for å organisering. Se [dette dokumentet](https://github.com/realfagstermer/realfagstermer/blob/master/CONTRIBUTING.md) for mer info.
+
+[![Throughput Graph](https://graphs.waffle.io/realfagstermer/realfagstermer/throughput.svg)](https://waffle.io/realfagstermer/realfagstermer/metrics)
 
 ## Deltakere:
 
@@ -46,7 +48,6 @@ Deltakarar:
 * [@totlevase](https://github.com/totlevase) : Vebjørn Sture (korrektur/nynorsk)
 
 Sjå óg [eigen prosjektside](https://github.com/realfagstermer/realfagstermer/wiki/Retningslinjer-for-nynorskomsetjing).
-
 
 ## Eksterne ressurser
 
