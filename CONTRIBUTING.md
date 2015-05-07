@@ -37,6 +37,6 @@ Forslag kan organiseres i en av følgende stadier (hvert stadium er knyttet til 
   Typisk "Ser at jeg må rydde i ...., men det er en større jobb"
 
 Når et forslag enten har blitt avslått eller implementert, lukkes det enklest ved å dra og slippe forslag
-til kolonnen "Ferdig" i Waffle. Andre arbeidsflytetiketter fjernes da automatisk og saken lukkes.
+til kolonnen "Ferdig" i Waffle. Andre arbeidsflytetiketter fjernes da automatisk og saken lukkes. Saken forsvinner automatisk fra Waffle etter noen dager, men blir arkivert på GitHub.
 
 **Ideer til bedre organisering? Kom med dem!**
