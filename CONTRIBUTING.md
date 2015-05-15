@@ -15,6 +15,11 @@ For å legge inn et forslag til et nytt emneord eller en endring i et eksisteren
   [Ping dem](https://help.github.com/articles/writing-on-github/#name-and-team-mentions-autocomplete).
   Husker du ikke brukernavnet til personen du vil pinge? Se [README](https://github.com/realfagstermer/realfagstermer/blob/master/README.md).
 
+### Språklig form
+
+* Flertall: objekter, noe om kan telles. Eks: `Sauer`, `Abelske grupper`, `Radiobølger`
+* Entall: begreper, noe som ikke kan telles. Eks: `Strålebehandling`, `Generell relativitetsteori`
+
 ### Organisering og behandling av forslag
 
 Det er først og fremst opp til emneredaksjonen å sørge for at forslagene er godt organisert,
