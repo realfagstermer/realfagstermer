@@ -6,9 +6,9 @@ Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjen
 * [**→ Til termdiskusjonene**](https://github.com/realfagstermer/realfagstermer/issues)
 
 Tips:
-- Du [blir varslet](https://help.github.com/articles/about-notifications/) hver gang noen [nevner deg](https://github.com/blog/821). Som standard får du varslinger på epost, men du kan endre dette [i innstillingene dine](https://github.com/settings/notifications).
+- Du [blir varslet](https://help.github.com/articles/about-notifications/) hver gang noen [nevner deg](https://github.com/blog/821). Du blir også varslet når det kommer nye innlegg i diskusjoner du har opprettet eller kommentert. Som standard får du varslinger på epost, men du kan endre dette [i innstillingene dine](https://github.com/settings/notifications).
  - Hvis du ønsker tilbakemeldinger fra bestemte personer, f.eks. fagreferenter i de-og-de fagene, er det lurt å [nevne dem](https://github.com/blog/821). Under finnes det en oversikt over hvem-er-hvem.
-- Du kan i tillegg velge å [følge prosjektet](https://help.github.com/articles/watching-repositories/ Watching repositories). Du vil da få varsler om alt som skjer.
+- [Watch](https://help.github.com/articles/watching-repositories/ Watching repositories) : innebærer at du får en enorm mengde varsler om absolutt alle oppdateringer i alle saker. Det ønsker du mest sannsynlig ikke :)
 - Alle diskusjoner foregår i det samme rommet, men vi bruker etiketter (*labels*) for å organisering. Se [dette dokumentet](https://github.com/realfagstermer/realfagstermer/blob/master/CONTRIBUTING.md) for mer info.
 
 [![Throughput Graph](https://graphs.waffle.io/realfagstermer/realfagstermer/throughput.svg)](https://waffle.io/realfagstermer/realfagstermer/metrics)
