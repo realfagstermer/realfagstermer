@@ -1,7 +1,7 @@
 Realfagstermers prosjektrom
 ==============
 
-Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjenester/emneord/realfagstermer.html). Her tester vi hvor godt egnet *issue trackeren* (norsk term, noen?) til GitHub er for å diskutere og behandle nye termer og endringer.
+Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjenester/emneord/realfagstermer.html). Her tester vi *issue trackeren* til GitHub som saksbehandlingssystem for å diskutere og behandle nye termer og endringer.
 
 * [**→ Til termdiskusjonene**](https://github.com/realfagstermer/realfagstermer/issues)
 
