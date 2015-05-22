@@ -18,7 +18,7 @@ For å legge inn et forslag til et nytt emneord eller en endring i et eksisteren
 ### Språklig form
 
 * Flertall: objekter, noe om kan telles. Eks: `Sauer`, `Abelske grupper`, `Radiobølger`
-* Entall: begreper, noe som ikke kan telles. Eks: `Strålebehandling`, `Generell relativitetsteori`
+* Entall: begreper/fenomener, noe som ikke kan telles. Eks: `Strålebehandling`, `Generell relativitetsteori`
 
 ### Organisering og behandling av forslag
 
