@@ -34,9 +34,10 @@ Tips:
 * [@Hypsibius](https://github.com/Hypsibius) : Hege Folkestad, UBB. Fagansvar: Biologi.
 * [@mzyg](https://github.com/mzyg) : Marta Zygmuntowska, UBB. Geofag.
 * [@kristinran](https://github.com/kristinran) : Kristin Rangnes, UBO. Fagansvar: Geofag
-* Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
 * [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) : Karoline Moe, UBO. Fagansvar: Matematikk
+* Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
 * Bente Kathrine Rasch, UBO. Fagansvar: Farmasi
+* Gro Synnøve Nesland Lindgaard, UBO/Naturhistorisk museum
 
 For å varsle alle: @realfagstermer/alle
 
