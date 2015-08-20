@@ -37,7 +37,7 @@ Tips:
 * [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) : Karoline Moe, UBO. Fagansvar: Matematikk
 * Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
 * Bente Kathrine Rasch, UBO. Fagansvar: Farmasi
-* Gro Synnøve Nesland Lindgaard, UBO/Naturhistorisk museum
+* [@grosyn](https://github.com/grosyn) : Gro Synnøve Nesland Lindgaard, UBO/Naturhistorisk museum
 
 For å varsle alle: @realfagstermer/alle
 
