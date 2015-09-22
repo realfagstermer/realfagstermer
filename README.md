@@ -35,16 +35,16 @@ Tips:
 * [@mzyg](https://github.com/mzyg) : Marta Zygmuntowska, UBB. Geofag.
 * [@kristinran](https://github.com/kristinran) : Kristin Rangnes, UBO. Fagansvar: Geofag
 * [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) : Karoline Moe, UBO. Fagansvar: Matematikk
+* [@grosyn](https://github.com/grosyn) : Gro Synnøve Nesland Lindgaard, UBO/Naturhistorisk museum
 * Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
 * Bente Kathrine Rasch, UBO. Fagansvar: Farmasi
-* [@grosyn](https://github.com/grosyn) : Gro Synnøve Nesland Lindgaard, UBO/Naturhistorisk museum
 
 For å varsle alle: @realfagstermer/alle
 
 ## Prosjekt: Realfagstermar på nynorsk
 
 Deltakarar:
-* Maria Svendsen (biologi/kjemi)
+* [@mariaksv](https://github.com/mariaksv) : Maria Svendsen (biologi/kjemi)
 * [@jorgenem](https://github.com/jorgenem) : Jørgen Eriksson Midtbø (fysikk/matte)
 * [@totlevase](https://github.com/totlevase) : Vebjørn Sture (korrektur/nynorsk)
 
