@@ -15,30 +15,40 @@ Tips:
 
 ## Deltakere:
 
+Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
+
 * [@bibliomari](https://github.com/bibliomari) :
-  Mari Lundevall, UBO. Redaksjonsleder, bibliotekar.
-* [@violabibaluba](https://github.com/violabibaluba) :
-  Viola Kuldvere, UBO. Bibliotekar.
-* [@knuthe](https://github.com/knuthe) :
-  Knut Hegna, UBO. Fagansvar: Informatikk. Utvikler av Roald og Sonja.
-* [@mittinatten](https://github.com/mittinatten) :
-  Simon Mitternacht, UBB. Fagansvar: Matematikk, informatikk og teoretisk fysikk.
-* [@danmichaelo](https://github.com/danmichaelo) :
-  Dan Michael O. Heggø, UBO. Fagansvar: Fysikk, materialvitenskap.
-* [@superLine](https://github.com/superLine) :
-  Line Nybakk Akerholt, UBO. Bibliotekar, fagansvar: Astrofysikk.
+  Mari Lundevall, redaksjonsleder og bibliotekar.
 * [@BioHeidi](https://github.com/BioHeidi) :
-  Heidi Konestabo, UBO. Fagansvar: Biovitenskap.
+  Heidi Konestabo, fagansvar for biovitenskap.
+* [@danmichaelo](https://github.com/danmichaelo) :
+  Dan Michael O. Heggø, fagansvar for fysikk og materialvitenskap, utvikler av Okapi.
+* [@grosyn](https://github.com/grosyn) :
+  Gro Synnøve Nesland Lindgaard, bibliotekar, UBO/Naturhistorisk museum.
+* [@knuthe](https://github.com/knuthe) :
+  Knut Hegna, fagansvar for informatikk, utvikler av Roald og Sonja.
+* [@kristinran](https://github.com/kristinran) :
+  Kristin Rangnes, fagansvar for geofag.
 * [@kyrretl](https://github.com/kyrretl) :
-  Kyrre Traavik Låberg, UBO. Utvikler, biolog.
-* [@Hypsibius](https://github.com/Hypsibius) : Hege Folkestad, UBB. Fagansvar: Biologi.
-* [@mzyg](https://github.com/mzyg) : Marta Zygmuntowska, UBB. Fagansvar: Geofag.
-* [@bubir](https://github.com/bubir) : Ingunn Rødland, UBB. Fagansvar: Kjemi.
-* [@kristinran](https://github.com/kristinran) : Kristin Rangnes, UBO. Fagansvar: Geofag
-* [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) : Karoline Moe, UBO. Fagansvar: Matematikk
-* [@grosyn](https://github.com/grosyn) : Gro Synnøve Nesland Lindgaard, UBO/Naturhistorisk museum
-* Tone Charlotte Gadmar, UBO. Fagansvar: Kjemi
-* Bente Kathrine Rasch, UBO. Fagansvar: Farmasi
+  Kyrre Traavik Låberg, fagansvar for biovitenskap, utvikler av emnesøket.
+* [@superLine](https://github.com/superLine) :
+  Line Nybakk Akerholt, bibliotekar, fagansvar forastrofysikk.
+* [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
+  Karoline Moe, fagansvar for matematikk.
+* [@violabibaluba](https://github.com/violabibaluba) :
+  Viola Kuldvere, bibliotekar.
+* Tone Charlotte Gadmar, fagansvar for kjemi.
+* Bente Kathrine Rasch, bibliotekar, fagansvar for farmasi.
+
+Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
+* [@bubir](https://github.com/bubir) :
+  Ingunn Rødland, fagansvar for kjemi.
+* [@Hypsibius](https://github.com/Hypsibius) :
+  Hege Folkestad, fagansvar for biovitenskap.
+* [@mittinatten](https://github.com/mittinatten) :
+  Simon Mitternacht, fagansvar for matematikk, informatikk og fysikk (teoretisk).
+* [@mzyg](https://github.com/mzyg) :
+  Marta Zygmuntowska, fagansvar for geofag.
 
 For å varsle alle: @realfagstermer/alle
 
