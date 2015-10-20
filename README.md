@@ -32,7 +32,8 @@ Tips:
 * [@kyrretl](https://github.com/kyrretl) :
   Kyrre Traavik Låberg, UBO. Utvikler, biolog.
 * [@Hypsibius](https://github.com/Hypsibius) : Hege Folkestad, UBB. Fagansvar: Biologi.
-* [@mzyg](https://github.com/mzyg) : Marta Zygmuntowska, UBB. Geofag.
+* [@mzyg](https://github.com/mzyg) : Marta Zygmuntowska, UBB. Fagansvar: Geofag.
+* [@bubir](https://github.com/bubir) : Ingunn Rødland, UBB. Fagansvar: Kjemi.
 * [@kristinran](https://github.com/kristinran) : Kristin Rangnes, UBO. Fagansvar: Geofag
 * [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) : Karoline Moe, UBO. Fagansvar: Matematikk
 * [@grosyn](https://github.com/grosyn) : Gro Synnøve Nesland Lindgaard, UBO/Naturhistorisk museum
