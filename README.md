@@ -48,7 +48,7 @@ Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
 * [@mittinatten](https://github.com/mittinatten) :
   Simon Mitternacht, fagansvar for matematikk, informatikk og fysikk (teoretisk).
 * [@mzyg](https://github.com/mzyg) :
-  Marta Zygmuntowska, fagansvar for geofag.
+  Marta Zygmuntowska, fagansvar for geofag, fysikk (anvendt) og teknologi.
 
 For å varsle alle: @realfagstermer/alle
 
