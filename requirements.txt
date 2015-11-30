@@ -1,0 +1,5 @@
+requests
+pytz
+python-dateutil
+tzlocal
+git+git://github.com/realfagstermer/roald.git
