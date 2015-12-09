@@ -1,4 +1,3 @@
-@base <http://data.ub.uio.no/> .
 @prefix cc: <http://creativecommons.org/ns#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
@@ -13,15 +12,19 @@
 @prefix void: <http://rdfs.org/ns/void#> .
 @prefix sd: <http://www.w3.org/ns/sparql-service-description#> .
 @prefix ubo: <http://data.ub.uio.no/onto#> .
+@prefix realfagstermer: <http://data.ub.uio.no/realfagstermer/> .
+@prefix tekord: <http://ntnu.no/ub/data/tekord#> .
+@prefix humord: <http://data.ub.uio.no/humord/> .
+@prefix library: <http://data.ub.uio.no/library/> .
 
-<realfagstermer> a skos:ConceptScheme, void:Dataset, sd:Graph ;
+realfagstermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     rdfs:label "Realfagstermer"@nb ;
     dcterms:title "Realfagstermer"@nb ;
     dcterms:description "Realfagstermer is a controlled, pre-coordinated subject headings vocabulary covering mainly the natural sciences, mathematics and informatics."@en,
         "Realfagstermer er et kontrollert, pre-koordinert emneordsvokabular som i hovedsak dekker naturvitenskap, matematikk og informatikk."@nb ;
-    dcterms:publisher <library/k> ;
-    dcterms:creator <library/k> ;
-    dcterms:contributor <library/d> ;
+    dcterms:publisher library:k ;
+    dcterms:creator library:k ;
+    dcterms:contributor library:d ;
     dcterms:language lexvo:eng,
         lexvo:lat,
         lexvo:nno,
@@ -30,39 +33,39 @@
     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
         <http://purl.org/nkos/nkostype/subject_heading_scheme> ;
-    void:sparqlEndpoint <sparql> ;
-    void:dataDump <dumps/realfagstermer.rdf>,
-        <dumps/realfagstermer.ttl> ;
+    void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
+    void:dataDump <http://data.ub.uio.no/dumps/realfagstermer.rdf>,
+        <http://data.ub.uio.no/dumps/realfagstermer.ttl> ;
     void:uriSpace "http://data.ub.uio.no/realfagstermer/" ;
-    void:exampleResource <realfagstermer/c012676> ;
+    void:exampleResource realfagstermer:c012676 ;
     void:vocabulary skos: , mads: .
 
-<library/k> a foaf:Organization ;
+library:k a foaf:Organization ;
     rdfs:label "University of Oslo Library"@en,
         "Universitetsbiblioteket i Oslo"@nb ;
     owl:sameAs <http://dbpedia.org/resource/University_Library_of_Oslo>,
         <http://viaf.org/viaf/155670338/>,
         <http://www.wikidata.org/entity/Q3354774> .
 
-<library/d> a foaf:Organization ;
+library:d a foaf:Organization ;
     rdfs:label "University of Bergen Library"@en ,
         "Universitetsbiblioteket i Bergen"@nb ;
     owl:sameAs <http://viaf.org/viaf/173735015> .
 
-<sparql> a sd:Service ;
-    sd:url <sparql> ;
+<http://data.ub.uio.no/sparql> a sd:Service ;
+    sd:url <http://data.ub.uio.no/sparql> ;
     sd:supportedLanguage sd:SPARQL11Query ;
     sd:feature sd:UnionDefaultGraph ;
-    sd:defaultDataset <sparql/dataset> .
+    sd:defaultDataset <http://data.ub.uio.no/sparql/dataset> .
 
-<sparql/dataset> a sd:Dataset ;
+<http://data.ub.uio.no/sparql/dataset> a sd:Dataset ;
     dcterms:title "data.ub.uio.no" ;
     dcterms:description "SPARQL endpoint for open datasets at the University of Oslo Library"@en ;
-    sd:defaultGraph <sparql/graphs/default> ;
-    sd:namedGraph <sparql/graphs/realfagstermer> .
+    sd:defaultGraph <http://data.ub.uio.no/sparql/graphs/default> ;
+    sd:namedGraph <http://data.ub.uio.no/sparql/graphs/realfagstermer> .
 
-<sparql/graphs/default> a sd:Graph .
+<http://data.ub.uio.no/sparql/graphs/default> a sd:Graph .
 
-<sparql/graphs/realfagstermer> a sd:NamedGraph ;
-    sd:name <realfagstermer> ;
-    sd:graph <realfagstermer> .
+<http://data.ub.uio.no/sparql/graphs/realfagstermer> a sd:NamedGraph ;
+    sd:name realfagstermer: ;
+    sd:graph <http://data.ub.uio.no/realfagstermer> .
