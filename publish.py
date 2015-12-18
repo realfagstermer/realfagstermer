@@ -133,7 +133,7 @@ def make():
     roald.save('realfagstermer.json')
 
     marc21options = {
-       'vocabulary': 'noubomn',
+       'vocabulary_code': 'noubomn',
        'created_by': 'NoOU'
     }
     roald.export('dist/realfagstermer.marc21.xml', format='marc21', **marc21options)
