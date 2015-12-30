@@ -58,22 +58,43 @@ def check_modification_dates(record):
         logger.warn('Got status code: %s' % (head.status_code))
         record['modified'] = False
         return record
-    record['remote_datemod'] = parse(head.headers['last-modified'])
-    if os.path.isfile(record['local_file']):
-        record['local_datemod'] = datetime.datetime.fromtimestamp(os.path.getmtime(record['local_file']))
+
+    if 'etag' in head.headers:
+        record['remote_etag'] = head.headers['etag']
+        if os.path.isfile(record['local_file'] + '.etag'):
+            with open(record['local_file'] + '.etag', 'rb') as f:
+                record['local_etag'] = f.read().strip()
+        else:
+            record['local_etag'] = '0'
+
+        logger.info('   Remote file etag: %s' % (record['remote_etag']))
+        logger.info('    Local file etag: %s' % (record['local_etag']))
+
+        if record['remote_etag'] == record['local_etag']:
+            logger.info(' -> Local data are up-to-date.')
+            record['modified'] = False
+            return record
+
+        with open(record['local_file'] + '.etag', 'wb') as f:
+            f.write(record['remote_etag'])
+
     else:
-        # use some date in the past
-        record['local_datemod'] = datetime.datetime(year=2014, month=1, day=1)
-    record['local_datemod'] = tz.normalize(tz.localize(record['local_datemod'])).astimezone(pytz.utc)
+        record['remote_datemod'] = parse(head.headers['last-modified'])
+        if os.path.isfile(record['local_file']):
+            record['local_datemod'] = datetime.datetime.fromtimestamp(os.path.getmtime(record['local_file']))
+        else:
+            # use some date in the past
+            record['local_datemod'] = datetime.datetime(year=2014, month=1, day=1)
+        record['local_datemod'] = tz.normalize(tz.localize(record['local_datemod'])).astimezone(pytz.utc)
 
-    logger.info('   Remote file modified: %s' % (record['remote_datemod'].isoformat()))
-    logger.info('    Local file modified: %s' % (record['local_datemod'].isoformat()))
+        logger.info('   Remote file modified: %s' % (record['remote_datemod'].isoformat()))
+        logger.info('    Local file modified: %s' % (record['local_datemod'].isoformat()))
 
-    # Subtract 5 minutes to account for the possibility of the clock being slightly off
-    if record['remote_datemod'] < record['local_datemod'] + datetime.timedelta(minutes=5):
-        logger.info(' -> Local data are up-to-date.')
-        record['modified'] = False
-        return record
+        # Subtract 5 minutes to account for the possibility of the clock being slightly off
+        if record['remote_datemod'] < record['local_datemod'] + datetime.timedelta(minutes=5):
+            logger.info(' -> Local data are up-to-date.')
+            record['modified'] = False
+            return record
 
     logger.info(' -> Fetching updated data...')
     fetch(record['remote_url'], record['local_file'])
