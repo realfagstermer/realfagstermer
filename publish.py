@@ -138,7 +138,7 @@ def make():
     }
     roald.export('dist/realfagstermer.marc21.xml', format='marc21', **marc21options)
     roald.export('dist/realfagstermer.ttl', format='rdfskos',
-             include=['realfagstermer.scheme.ttl'], mappings_from=['src/mumapper.rdf'])
+             include=['ubo-onto.ttl', 'realfagstermer.scheme.ttl'], mappings_from=['src/mumapper.rdf'])
 
 
 if __name__ == '__main__':

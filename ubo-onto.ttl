@@ -1,0 +1,61 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix ubo: <http://data.ub.uio.no/onto#> .
+@prefix mads: <http://www.loc.gov/mads/rdf/v1#> .
+
+ubo:Topic
+  a owl:Class ;
+  rdfs:subClassOf skos:Concept ,
+    mads:Topic ;
+  rdfs:label "Innholdsbeskrivende emne"@nb ,
+    "Topic"@en ;
+  rdfs:description "A topical subject senso stricto."@en .
+
+ubo:Place
+  a owl:Class ;
+  rdfs:subClassOf skos:Concept ,
+    mads:Geographic ;
+  rdfs:label "Sted"@nb ,
+    "Place"@en ;
+  rdfs:description "A geographic place or feature."@en .
+
+ubo:Time
+  a owl:Class ;
+  rdfs:subClassOf skos:Concept ,
+    mads:Temporal ;
+  rdfs:label "Tidsperiode"@nb ,
+    "Time period"@en ;
+  rdfs:description "A temporal entity."@en .
+
+ubo:GenreForm
+  a owl:Class ;
+  rdfs:subClassOf skos:Concept ,
+    mads:GenreForm ;
+  rdfs:label "Form/sjanger"@nb ,
+    "Form/genre"@en ;
+  rdfs:description "A genre or form."@en .
+
+ubo:CompoundConcept
+  a owl:Class ;
+  rdfs:subClassOf skos:Concept ,
+    mads:ComplexSubject ;
+  rdfs:label "Emnestreng"@nb ,
+    "Compound concept"@en ;
+  rdfs:description "A concept composed of two or more concepts from the same vocabulary."@en .
+
+ubo:VirtualCompoundConcept
+  a owl:Class ;
+  rdfs:subClassOf skos:Concept ,
+    mads:ComplexSubject ;
+  rdfs:label "Virtuell emnestreng"@nb ,
+    "Virtual compound concept"@en ;
+  rdfs:description "A compound concept used as a search guide, but indexed as separate concepts."@en .
+
+ubo:elementSymbol
+  a owl:DatatypeProperty ;
+  rdfs:domain skos:Concept ;
+  rdfs:range rdfs:Literal ;
+  rdfs:label "Kjemisk symbol"@nb ,
+    "Chemical element symbol"@en .
