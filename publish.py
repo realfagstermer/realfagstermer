@@ -129,6 +129,9 @@ def run():
         },{
             'remote_url': 'http://lambda.biblionaut.net/export.rdf',
             'local_file': 'src/lambda.rdf'
+        },{
+            'remote_url': 'https://rawgit.com/realfagstermer/prosjekt-nynorsk/master/data-verified.ttl',
+            'local_file': 'src/nynorsk.ttl'
         }
     ]
 
@@ -162,7 +165,7 @@ def make():
     }
     roald.export('dist/realfagstermer.marc21.xml', format='marc21', **marc21options)
     roald.export('dist/realfagstermer.ttl', format='rdfskos',
-             include=['realfagstermer.scheme.ttl'], mappings_from=['src/mumapper.rdf', 'src/lambda.rdf'])
+             include=['realfagstermer.scheme.ttl', 'src/nynorsk.ttl'], mappings_from=['src/mumapper.rdf', 'src/lambda.rdf'])
 
 
 if __name__ == '__main__':
