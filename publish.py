@@ -11,6 +11,7 @@ from tzlocal import get_localzone
 import pytz   # timezone in Python 3
 import argparse
 from roald import Roald
+from functools import reduce
 
 logger = logging.getLogger()
 logger.setLevel(logging.DEBUG)
@@ -63,7 +64,7 @@ def check_modification_dates(record):
         record['remote_etag'] = head.headers['etag']
         if os.path.isfile(record['local_file'] + '.etag'):
             with open(record['local_file'] + '.etag', 'rb') as f:
-                record['local_etag'] = f.read().strip()
+                record['local_etag'] = f.read().decode('utf-8').strip()
         else:
             record['local_etag'] = '0'
 
@@ -76,7 +77,7 @@ def check_modification_dates(record):
             return record
 
         with open(record['local_file'] + '.etag', 'wb') as f:
-            f.write(record['remote_etag'])
+            f.write(record['remote_etag'].encode('utf-8'))
 
     else:
         record['remote_datemod'] = parse(head.headers['last-modified'])
@@ -161,7 +162,8 @@ def make():
 
     marc21options = {
        'vocabulary_code': 'noubomn',
-       'created_by': 'NoOU'
+       'created_by': 'NoOU',
+       'mappings_from': ['src/lambda.rdf']
     }
     roald.export('dist/realfagstermer.marc21.xml', format='marc21', **marc21options)
     roald.export('dist/realfagstermer.ttl', format='rdfskos',
