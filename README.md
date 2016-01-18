@@ -65,3 +65,117 @@ Sjå óg [eigen prosjektside](https://github.com/realfagstermer/realfagstermer/w
 
 * [Emnesøk](http://app.uio.no/ub/emnesok/?id=UREAL)
 * [LodLive](http://biblionaut.net/lodlive)
+
+
+## Conversion
+
+Authority data is currently maintained in Sonja and converted to
+JSON (RoaldIII data model) using [RoaldIII](https://github.com/realfagstermer/roald).
+RoaldIII is also used to mix in mappings and translations before exporting
+RDF/SKOS and MARC21.
+
+The conversion is done by running `python publish.py`, which only
+runs a conversion if any of the source files have changed. You
+can run `python publish.py -f` to force a conversion even if no
+source files have changed (useful during development).
+
+Please see the RoaldIII repo for more details on the conversion.
+
+The RoaldIII JSON data is found in `realfagstermer.json`. This does
+not currently include data from the Nynorsk translation project.
+Complete, distributable RDF/SKOS and MARC21 files are found in the
+`dist` folder. These includes mappings and all translations.
+
+## Data model
+
+Example concept in JSON:
+
+```json
+{
+  "id": "REAL004162",
+  "type": [
+    "Topic"
+  ],
+  "created": "2014-08-25T00:00:00Z",
+  "modified": "2014-12-17T00:00:00Z",
+  "prefLabel": {
+    "nb": {
+      "value": "Cellekommunikasjon"
+    },
+    "en": {
+      "value": "Cell signalling"
+    }
+  },
+  "altLabel": {
+    "nb": [
+      {
+        "value": "Cellesignalisering"
+      }
+    ],
+    "en": [
+      {
+        "value": "Cell signaling"
+      }
+    ]
+  },
+  "hiddenLabel": {}
+},
+```
+
+Characteristics:
+
+* Realfagstermer contains only concepts, no facets, arrays or other thesaurus constructs.
+* Concept properties
+  * `id` (string): an unique identifier.
+  * `type` (array): at least one type (`Topic`, `Geographic`, `Temporal`, `FormGenre`, `CompoundHeading` or `VirtualCompoundHeading`).
+  * `created` (datetime string): a creation date.
+  * `modified` (datetime string): a modification date.
+  * `prefLabel` (language map): one preferred term per language. A preferred term for the language code `nb` is required, while others are optional.
+  * `altLabel` (language map array): any number of alternative terms per language.
+  * `hiddenLabel` (langauge map array): any number of hidden terms (not yet implemented).
+  * `editorialNote` (array): any number of editorial notes (in Bokmål only).
+  * `definition` (language map): one definition per language (currently only Bokmål though).
+  * `ddc` (string): a DDC number (these should eventually be moved to the mapping project).
+  * `msc` (string): a MSC number.
+  * `elementSymbol` (string): a chemical element symbol.
+  * `related` (array): Any number of IDs for related concepts.
+  * `broader` (array): Any number of IDs for broader concepts.
+  * `narrower` (array): Any number of IDs for narrower concepts.
+  * `component` (array): Any number of IDs for components that make up the
+    `CompoundHeading` or `VirtualCompoundHeading` (*emnestreng*). Note that concepts of
+    this type do not have their own terms, since the compound terms are generated from the concepts.
+    Example:
+
+    ```json
+    {
+      "id": "REAL014060",
+      "type": [
+        "CompoundHeading"
+      ],
+      "created": "2015-03-10T10:07:34Z",
+      "component": [
+        "REAL002845",
+        "REAL007608"
+      ]
+    }
+    ```
+
+* Term properties:
+  * `value` (string): The term value.
+  * `hasAcronym` (string): An acronym (used only if `value` is the full form).
+  * `acronymFor` (string): The full form (used only if `value` is an acronym).
+* Note that terms do not have their own IDs, so the relationship between acronyms and their
+  full form is represented by embedding. Example:
+
+  ```json
+  {
+    "prefLabel": {
+      "nb": {
+        "hasAcronym": "DCOM",
+        "value": "Distributed component object model"
+      }
+    }
+  }
+  ```
+
+  When converting to SKOS core, we simplify the model by removing term-term relationships.
