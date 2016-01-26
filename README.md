@@ -127,7 +127,7 @@ Characteristics:
 * Realfagstermer contains only concepts, no facets, arrays or other thesaurus constructs.
 * Concept properties
   * `id` (string): an unique identifier.
-  * `type` (array): at least one type (`Topic`, `Geographic`, `Temporal`, `FormGenre`, `CompoundHeading` or `VirtualCompoundHeading`).
+  * `type` (array): at least one type (`Topic`, `Geographic`, `Temporal`, `GenreForm`, `CompoundHeading` or `VirtualCompoundHeading`).
   * `created` (datetime string): a creation date.
   * `modified` (datetime string): a modification date.
   * `prefLabel` (language map): one preferred term per language. A preferred term for the language code `nb` is required, while others are optional.
