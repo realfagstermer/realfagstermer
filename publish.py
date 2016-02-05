@@ -110,25 +110,25 @@ def run():
 
     files = [
         {
-            'remote_url': 'http://app.uio.no/ub/emnesok/data/ureal/rii/idtermer.txt',
+            'remote_url': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idtermer.txt',
             'local_file': 'src/idtermer.txt'
         },{
-            'remote_url': 'http://app.uio.no/ub/emnesok/data/ureal/rii/idsteder.txt',
+            'remote_url': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idsteder.txt',
             'local_file': 'src/idsteder.txt'
         },{
-            'remote_url': 'http://app.uio.no/ub/emnesok/data/ureal/rii/idformer.txt',
+            'remote_url': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idformer.txt',
             'local_file': 'src/idformer.txt'
         },{
-            'remote_url': 'http://app.uio.no/ub/emnesok/data/ureal/rii/idtider.txt',
+            'remote_url': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idtider.txt',
             'local_file': 'src/idtider.txt'
         },{
-            'remote_url': 'http://app.uio.no/ub/emnesok/data/ureal/rii/idstrenger.txt',
+            'remote_url': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idstrenger.txt',
             'local_file': 'src/idstrenger.txt'
         },{
-            'remote_url': 'http://mapper.biblionaut.net/export.rdf',
+            'remote_url': 'https://mapper.biblionaut.net/export.rdf',
             'local_file': 'src/mumapper.rdf'
         },{
-            'remote_url': 'http://lambda.biblionaut.net/export.rdf',
+            'remote_url': 'https://lambda.biblionaut.net/export.rdf',
             'local_file': 'src/lambda.rdf'
         },{
             'remote_url': 'https://rawgit.com/realfagstermer/prosjekt-nynorsk/master/data-verified.ttl',
