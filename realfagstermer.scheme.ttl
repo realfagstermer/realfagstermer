@@ -32,7 +32,7 @@ realfagstermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     cc:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     dcterms:license <http://creativecommons.org/publicdomain/zero/1.0/> ;
     dcterms:type <http://purl.org/dc/dcmitype/Dataset>,
-        <http://purl.org/nkos/nkostype/subject_heading_scheme> ;
+        <http://w3id.org/nkos/nkostype#subject_heading_scheme> ;
     void:sparqlEndpoint <http://data.ub.uio.no/sparql> ;
     void:dataDump <http://data.ub.uio.no/dumps/realfagstermer.rdf>,
         <http://data.ub.uio.no/dumps/realfagstermer.ttl> ;
