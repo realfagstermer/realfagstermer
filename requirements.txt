@@ -2,4 +2,7 @@ requests
 pytz
 python-dateutil
 tzlocal
+git+git://github.com/danmichaelo/xmlwitch.git
+git+git://github.com/NatLibFi/Skosify.git
 git+git://github.com/realfagstermer/roald.git
+git+git://github.com/scriptotek/data_ub_tasks.git

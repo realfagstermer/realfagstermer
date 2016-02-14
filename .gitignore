@@ -1,2 +1,7 @@
 *.log
 *.pyc
+*.db
+*.etag
+*.bz2
+*.zip
+dumps/
