@@ -52,14 +52,14 @@ Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
 
 For å varsle alle: @realfagstermer/alle
 
-## Prosjekt: Realfagstermar på nynorsk
+## Prosjekt «Realfagstermar på nynorsk»
 
 Deltakarar:
 * [@mariaksv](https://github.com/mariaksv) : Maria Svendsen (biologi/kjemi)
 * [@jorgenem](https://github.com/jorgenem) : Jørgen Eriksson Midtbø (fysikk/matte)
 * [@totlevase](https://github.com/totlevase) : Vebjørn Sture (korrektur/nynorsk)
 
-Sjå óg [eigen prosjektside](https://github.com/realfagstermer/realfagstermer/wiki/Retningslinjer-for-nynorskomsetjing).
+Sjå [retningslinjer/diskusjon](https://github.com/realfagstermer/realfagstermer/wiki/Retningslinjer-for-nynorskomsetjing) og [eigen prosjektside](https://github.com/realfagstermer/prosjekt-nynorsk).
 
 ## Eksterne ressurser
 
