@@ -36,6 +36,8 @@ def task_fetch():
             'git config user.name "ubo-bot"',
             'git config user.email "danmichaelo+ubobot@gmail.com"',
             'git pull',
+            'git config --unset user.name',
+            'git config --unset user.email',
         ]
     }
     for file in [
