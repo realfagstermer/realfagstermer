@@ -93,7 +93,7 @@ def task_build():
         # 1) MARC21
         marc21options = {
             'vocabulary_code': 'noubomn',
-            'created_by': 'No-TrBIB',
+            'created_by': 'NoOU',
             'mappings_from': ['src/lambda.rdf']
         }
         roald.export('dist/%s.marc21.xml' %
