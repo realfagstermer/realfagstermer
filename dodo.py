@@ -14,8 +14,8 @@ logger = logging.getLogger(__name__)
 import data_ub_tasks
 
 config = {
-    'dumps_dir': get_var('dumps_dir', './dumps'),
-    'dumps_dir_url': get_var('dumps_dir_url'),
+    'dumps_dir': get_var('dumps_dir', '/opt/data.ub/www/default/dumps'),
+    'dumps_dir_url': get_var('dumps_dir_url', 'http://data.ub.uio.no/dumps'),
     'graph': 'http://data.ub.uio.no/realfagstermer',
     'fuseki': 'http://localhost:3030/ds',
     'basename': 'realfagstermer'
