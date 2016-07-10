@@ -197,7 +197,7 @@ def task_nynorsk_liste():
                     pass  # for now..
 
     return {
-        'doc': 'Build bokmål-nynorsk list',
+        'doc': 'Build bokmaal-nynorsk list',
         'actions': [build_table],
         'file_dep': [
             'src/nynorsk.ttl',
