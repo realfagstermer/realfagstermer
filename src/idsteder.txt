@@ -1,0 +1,3702 @@
+id= REAL030200
+te= Europa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030201
+te= Sverige
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030202
+te= Tyskland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030203
+te= Svalbard
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030204
+te= Afrika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030205
+te= Danmark
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030206
+te= Antarktis
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030207
+te= Norden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030208
+te= Oslo
+bf= Kristiania
+bf= Christiania
+tio= 2015-02-20T13:08:04Z
+tie= 2016-05-24T14:28:10Z
+
+id= REAL030209
+te= Nordsjøen
+nn= Nordsjøen
+en= North Sea
+tio= 2015-02-20T13:08:04Z
+tie= 2015-03-09T13:46:28Z
+
+id= REAL030210
+te= England
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030211
+te= Grønland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030212
+te= Australia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030213
+te= Amerika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030214
+te= Frankrike
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030215
+te= Russland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030216
+te= Italia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030217
+te= Skandinavia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030218
+te= Sveits
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030219
+te= Island
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030220
+te= Asia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030221
+te= Tropene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030222
+te= Norskehavet
+en= Norwegian Sea
+tio= 2015-02-20T13:08:04Z
+tie= 2014-11-12T00:00:00Z
+
+id= REAL030223
+te= Japan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030224
+te= Østerrike
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030225
+te= Middelhavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030226
+te= Nord-Amerika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030227
+te= Kanariøyene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030228
+te= India
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030229
+te= Irland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030230
+te= Alaska
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030231
+te= Polen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030232
+te= Spania
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030233
+te= Skottland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030234
+te= Brasil
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030235
+te= Hellas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030236
+te= Spitsbergen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030237
+te= Nordland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030238
+te= Hedmark
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030239
+te= Buskerud
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030240
+te= Telemark
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030241
+te= Stillehavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030242
+te= Harestua
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030243
+te= Etiopia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030244
+te= Oppland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030245
+te= New Zealand
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030246
+te= Østersjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030247
+te= Hordaland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030248
+te= Ungarn
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030249
+te= Portugal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030250
+te= Sør-Trøndelag
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030251
+te= Fennoskandia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030252
+te= Belgia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030253
+te= Oslofjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030254
+te= Sogn
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030255
+te= Romsdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030256
+te= Nordkalotten
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030257
+te= Færøyene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030258
+te= Mexico
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030259
+te= Estland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030260
+te= Alpene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030261
+te= Egypt
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030262
+te= Grønlandshavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030263
+te= Troms
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030264
+te= Indonesia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030265
+te= Tanzania
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030266
+te= Trøndelag
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030267
+te= Møre
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030268
+te= Vestfold
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030269
+te= Hardangervidda
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030270
+te= Østfold
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030271
+te= Madeira
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030272
+te= Romania
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030273
+te= Vesuv
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030274
+te= Tsjekkoslovakia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030275
+te= Trondheim
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030276
+te= Sentral-Afrika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030277
+te= Chile
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030278
+te= London
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030279
+te= Hawaii
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030280
+te= Skagerrak
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030281
+te= Nord-Norge
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030282
+te= Madagaskar
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030283
+te= Gardermoen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030284
+te= Amazonas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030285
+te= Bergen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030287
+te= Mali
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030288
+te= Aust-Agder
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030289
+te= Argentina
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030290
+te= Nord-Sverige
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030291
+te= Lund
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030292
+te= Jan Mayen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030293
+te= Israel
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030294
+te= Bjørnøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030295
+te= Baltikum
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030296
+te= Marokko
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030297
+te= Lappland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030298
+te= Kenya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030299
+te= Jæren
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030300
+te= Iran
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030301
+te= Dovrefjell
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030302
+te= Tsjernobyl
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030303
+te= Erice
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030304
+te= Azorene
+bf= Asorene
+en= Azores
+tio= 2015-02-20T13:08:04Z
+tie= 2015-10-14T14:12:13Z
+
+id= REAL030305
+te= Akershus
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030306
+te= Wales
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030307
+te= Tsjekkia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030308
+te= Tromsø
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030309
+te= Preussen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030310
+te= Sogn Og Fjordane
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030311
+te= Skåne
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030312
+te= Peru
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030313
+te= Nord-Atlanteren
+no= HUsk legge til Nordatlantiske område som BF. Mari 24.5.16
+tio= 2015-02-20T13:08:04Z
+tie= 2016-05-24T14:21:58Z
+
+id= REAL030314
+te= Kreta
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030315
+te= Helsinki
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030316
+te= Cambridge
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030317
+te= Arabia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030318
+te= Makaronesia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030319
+te= Latvia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030320
+te= Jotunheimen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030321
+te= Indiske Hav
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030322
+te= Atlanterhavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030323
+te= Øst-Afrika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030324
+te= Venezuela
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030325
+te= Ukraina
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030326
+te= Pyreneene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030327
+te= Palestina
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030328
+te= Bolivia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030329
+te= Bayern
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030330
+te= Vest-Agder
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030331
+te= Rondane
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030332
+te= Nord-Europa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030333
+te= Nepal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030334
+te= Libya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030335
+te= Canada
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030336
+te= Gudbrandsdalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030337
+te= Finse
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030338
+te= Ecuador
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030339
+te= Colombia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030340
+te= Bærum
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030341
+te= Burma
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030342
+te= Schlesien
+bf= Silesia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030343
+te= Kristiania
+tio= 2015-02-20T13:08:04Z
+tie= 2016-05-24T14:28:07Z
+tis= 2016-05-24T14:29:24Z
+fly= REAL030208
+
+id= REAL030344
+te= Tyrkia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030345
+te= Thailand
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030346
+te= Texas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030347
+te= Tajmyr
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030348
+te= Syria
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030349
+te= Sydney
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030350
+te= Oslomarka
+so= REAL031380
+so= REAL031379
+ut= REAL031380
+tio= 2015-02-20T13:08:04Z
+tie= 2015-03-23T13:28:27Z
+
+id= REAL030351
+te= Nordpolen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030352
+te= Lofoten
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030353
+te= Litauen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030354
+te= Helgeland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030355
+te= Golfstrømmen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030356
+te= Bulgaria
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030357
+te= Amsterdam
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030358
+te= Alta
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030359
+te= Yorkshire
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030360
+te= Vietnam
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030361
+te= Vest-Afrika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030362
+te= Tunis
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030363
+te= Sørishavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030364
+te= Sydpolen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030365
+te= Sahel
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030366
+te= Sahara
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030367
+te= Norrbotten
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030368
+te= Nigeria
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030369
+te= Namibia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030370
+te= Mongolia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030371
+te= Libanon
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030372
+te= Jordan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030373
+te= Haltenbanken
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030374
+te= Gotland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030375
+te= Falklandsøyene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030376
+te= Eurasia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030377
+te= Dovre
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030378
+te= Costa Rica
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030379
+te= Balearene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030380
+te= Wisconsin
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030381
+te= Vinje
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030382
+te= Ulvik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030383
+te= Svartehavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030384
+te= Stillehavsøyene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030385
+te= Shetland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030386
+te= Rødehavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030387
+te= Romerike
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030388
+te= Ringerike
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030389
+te= Pasvik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030390
+te= Novaja Zemlja
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030391
+te= Norrland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030392
+te= Mexicogulfen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030393
+te= Mallorca
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030394
+te= Kattegat
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030395
+te= Karpatene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030396
+te= Karmøy
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030397
+te= Jugoslavia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030398
+te= Harvard
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030399
+te= Gutulia Nasjonalpark
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030400
+te= Guinea-Bissau
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030401
+te= Great Barrier Reef
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030402
+te= Drammen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030403
+te= Cuba
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030404
+te= Bornholm
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030405
+te= Berlin
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030406
+te= Baltiske Hav
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030407
+te= Australasia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030408
+te= Asker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030409
+te= Vøringbassenget
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030410
+te= Sovjetunionen
+bf= Sovjetsamveldet
+nn= Sovjetunionen
+nn= Sovjetsamveldet
+en= Soviet Union
+tio= 2015-02-20T13:08:04Z
+tie= 2015-08-19T18:38:15Z
+
+id= REAL030411
+te= Uppsala
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030412
+te= Sumatra
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030413
+te= Stabbursdalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030414
+te= Praha
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030415
+te= Okhotskhavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030416
+te= København
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030417
+te= Kristiansand
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030418
+te= Kolahalvøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030419
+te= Jylland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030420
+te= Japanhavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030421
+te= Hamburg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030422
+te= Gøteborg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030423
+te= Filippinene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030424
+te= Elfenbenskysten
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030425
+te= Edinburgh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030426
+te= Colorado
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030427
+te= Bømlo
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030428
+te= Borneo
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030429
+te= Bamble
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030430
+te= Antillene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030431
+te= Anarjokka
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030432
+te= Abisko
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030433
+te= Tampen
+bf= Nordsjøtampen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030434
+te= Zambia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030435
+te= Vøringplatået
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030436
+te= Utah
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030437
+te= Tyrol
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030438
+te= Sør-Norge
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030439
+te= Sør-Varanger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030440
+te= Sør-England
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030441
+te= Setesdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030442
+te= Oseania
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030443
+te= Numedal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030444
+te= Missouri
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030445
+te= Malaysia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030446
+te= Luxemburg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030447
+te= Latin-Amerika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030448
+te= Langtjern
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030449
+te= Kypros
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030450
+te= Kyoto
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030451
+te= Kongsberg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030452
+te= Kongo
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030453
+te= Kaspiske Hav
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030454
+te= Karahavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030455
+te= Kansas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030456
+te= Kaledonidene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030457
+te= Irskesjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030458
+te= Iowa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030459
+te= Hvaler
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030460
+te= Nederland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030461
+te= Hardanger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030462
+te= Gulehavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030463
+te= Glomma
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030464
+te= Folldal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030465
+te= Firenze
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030466
+te= Finnmarksvidda
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030467
+te= Iberiske Halvøy
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030468
+te= Børgefjell
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030469
+te= Bøhmen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030470
+te= Bunnefjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030472
+te= Babylon
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030473
+te= Angola
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030474
+te= Algerie
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030475
+te= Yellowstone
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030476
+te= Vosges
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030477
+te= Vest-Europa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030478
+te= Ural
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030479
+te= Tyrifjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030480
+te= Tibet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030481
+te= Sørøst-Asia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030482
+te= Surnadal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030483
+te= Sunnhordland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030484
+te= Sudan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030485
+te= Stryn
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030486
+te= Stor-Elvdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030487
+te= Somalia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030488
+te= Slovakia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030489
+te= Serengeti
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030490
+te= Mellom-Europa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030491
+te= Senegal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030492
+te= Sarek
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030493
+te= Salzburg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030494
+te= Saltfjellet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030495
+te= Sachsen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030496
+te= Rocky Mountains
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030497
+te= Rana
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030498
+te= Persiabukta
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030499
+te= Oxford
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030500
+te= Oppdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030501
+te= Odda
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030502
+te= Nicaragua
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030503
+te= Nesodden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030504
+te= Moskva
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030505
+te= Mongstad
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030506
+te= Maridalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030507
+te= Manchester
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030508
+te= Malawi
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030509
+te= Lindås
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030510
+te= Lillehammer
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030511
+te= Larvik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030512
+te= Kuwait
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030513
+te= Kroatia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030514
+te= Kragerø
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030515
+te= Kaukasus
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030516
+te= Karibiske Hav
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030517
+te= Karelen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030518
+te= Kapp Verde
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030519
+te= Hong Kong
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030520
+te= Hemnes
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030521
+te= Hamar
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030522
+te= Galapagos
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030523
+te= Taiwan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030524
+te= Florida
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030525
+te= Donau
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030526
+te= Sri Lanka
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030527
+te= Bouvetøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030528
+te= Boulder
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030529
+te= Bologna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030530
+te= Birmingham
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030531
+te= Berkeley
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030532
+te= Barentsregionen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030533
+te= Baltimore
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030534
+te= Balkan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030535
+te= Appalachene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030536
+te= Los Angeles
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030537
+te= Andøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030538
+te= Andesfjellene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030539
+te= Alabama
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030540
+te= Sør-Atlanteren
+bf= Syd-Atlanteren
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030541
+te= Sør-Georgia
+bf= Syd-Georgia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030542
+te= Christiania
+tio= 2015-02-20T13:08:04Z
+tie= 2016-05-24T14:28:10Z
+tis= 2016-05-24T14:29:38Z
+fly= REAL030208
+
+id= REAL030543
+te= Øverbygd
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030544
+te= Østerrike-Ungarn
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030545
+te= Öland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030546
+te= Ås
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030547
+te= Århus
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030548
+te= Wien
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030549
+te= Våler
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030550
+te= Vågå
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030551
+te= Karibia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030552
+te= Palearktis
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030553
+te= Varangerhalvøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030554
+te= Vadehavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030555
+te= Tynset
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030556
+te= Tydal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030557
+te= Trysil
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030558
+te= Trondheimsfjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030559
+te= Tristan Da Cunha
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030560
+te= Tolga
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030561
+te= Tasmania
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030562
+te= Sør-Amerika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030563
+te= Svartisen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030564
+te= Stugusjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030565
+te= Stockholm
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030566
+te= Snåsa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030567
+te= Sicilia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030568
+te= Selbusjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030569
+te= Røros
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030570
+te= Rjukan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030571
+te= Rendalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030572
+te= Rago
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030573
+te= Porsanger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030574
+te= Pommern
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030575
+te= Polynesia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030576
+te= Polarområdene
+bf= Polarområder
+bf= Polområder
+bf= Polare strøk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030577
+te= Paris
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030578
+te= Pakistan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030579
+te= Oulu
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030580
+te= Orlando
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030581
+te= Papua New Guinea
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030582
+te= Norskekysten
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030583
+te= Nord-Afrika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030584
+te= Nord-Irland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030585
+te= New York
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030586
+te= Namsskogan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030587
+te= Målselv
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030588
+te= Mosjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030589
+te= Montpellier
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030590
+te= Moldavia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030591
+te= Minnesota
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030592
+te= Midtøsten
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030593
+te= Maryland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030594
+te= Man
+bf= Isle of Man
+en= Isle of Man
+tio= 2015-02-20T13:08:04Z
+tie= 2016-02-03T13:34:52Z
+
+id= REAL030595
+te= Malmøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030596
+te= Maldivene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030597
+te= Makedonia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030598
+te= Luster
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030599
+te= Langøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030600
+te= Kvitsjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030601
+te= Kurilene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030602
+te= Kong Karls Land
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030603
+te= Kentucky
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030604
+te= Katla
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030605
+te= Kamerun
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030606
+te= Jämtland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030607
+te= Jostedalsbreen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030608
+te= Jersey
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030609
+te= Janusfjellet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030610
+te= Jamaica
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030611
+te= Nordishavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030612
+te= Irak
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030613
+te= Indiana
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030614
+te= Hviterussland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030615
+te= Holleia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030616
+te= Hisøy
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030617
+te= Herøy
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030618
+te= Heidelberg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030619
+te= Haukelifjell
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030620
+te= Haugesund
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030621
+te= Hampshire
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030622
+te= Göttingen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030623
+te= Gjevilvatnet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030624
+te= Giessen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030625
+te= Ghana
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030626
+te= Gausdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030627
+te= Gambia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030628
+te= Fusa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030629
+te= Friggfeltet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030630
+te= Framstredet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030631
+te= Fort Rae
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030632
+te= Forollhogna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030633
+te= Folgefonna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030634
+te= Flisa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030635
+te= Fjærland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030636
+te= Finland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030637
+te= Finnavassdraget
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030638
+te= Evenstad
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030639
+te= Etna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030640
+te= Espedalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030641
+te= Engerdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030642
+te= Elverum
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030643
+te= Eiker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030644
+te= Egeerhavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030645
+te= Durham
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030646
+te= Dividal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030647
+te= Dallas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030648
+te= Calgary
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030649
+te= Børsjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030650
+te= Bykle
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030651
+te= Bygdøy
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030652
+te= Brighton
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030653
+te= Bremen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030654
+te= Bremanger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030655
+te= Boston
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030656
+te= Bogstad
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030657
+te= Blankvann
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030658
+te= Birkenes
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030659
+te= Beringstredet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030660
+te= Beringhavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030661
+te= Midthordaland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030662
+te= Benelux
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030663
+te= Beijing
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030664
+te= Batavia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030665
+te= Basel
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030666
+te= Bajkalsjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030667
+te= Bajkal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030668
+te= Auma
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030669
+te= Armenia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030670
+te= Arizona
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030671
+te= Aralsjøen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030672
+te= Antwerpen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030673
+te= Sachsen-Anhalt
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030674
+te= Andorra
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030675
+te= Alvdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030676
+te= Alnaelva
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030677
+te= Alna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030678
+te= Adriaterhavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030679
+te= Alsten
+bf= Alsta
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030680
+te= Arabiske Hav
+bf= Arabiahavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030681
+te= USA
+bf= Amerikas Forente Stater
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030682
+te= Bjerkreimvassdraget
+bf= Bjerkreimselva
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030683
+te= Kalahari
+bf= Kalahariørkenen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030684
+te= Mosambik
+bf= Moçambique
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030685
+te= Kvamshesten
+bf= Storehesten
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030686
+te= Østlandet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030687
+te= Øvre Eiker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030688
+te= Øst-Finnmark
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030689
+te= Øst-Europa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030690
+te= Øst-Asia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030691
+te= Ålborg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030692
+te= Sørlandet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030693
+te= Stavanger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030694
+te= Rogaland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030695
+te= Rennebu
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030696
+te= Okstindan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030697
+te= Java
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030698
+te= Himalaya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030699
+te= Femundsmarka
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030700
+te= Ytre Helgeland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030701
+te= Württemberg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030702
+te= Wollongong
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030703
+te= Vorma
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030704
+te= Vestlandet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030705
+te= Vesterålen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030706
+te= Vegårdsvassdraget
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030707
+te= Vegårshei
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030708
+te= Valle
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030709
+te= Valdres
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030710
+te= Utrecht
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030711
+te= Uganda
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030712
+te= Tunna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030713
+te= Trollheimen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030714
+te= Terjevann
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030715
+te= Sørøst-Europa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030716
+te= Sør-Afrika (område)
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030717
+te= Sørkedalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030718
+te= Sør-Europa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030719
+te= Sør-Asia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030720
+te= Sør-Afrika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030721
+te= Sølna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030722
+te= Szklarska Por_ba
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030723
+te= Sør-Tyskland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030724
+te= Svelvik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030725
+te= Svartberget
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030726
+te= Sunnmøre
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030727
+te= Suldalslågen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030728
+te= Suldal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030729
+te= Stråholmen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030730
+te= Strindamarka
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030731
+te= Storbritannia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030732
+te= Stonehenge
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030733
+te= Sogndal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030734
+te= Slovenia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030735
+te= Schleswig-Holstein
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030736
+te= Skjåk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030737
+te= Sigdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030738
+te= Transylvania
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030739
+te= Mellom-Amerika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030740
+te= Sibir
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030741
+te= Røyrvik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030742
+te= Rwanda
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030743
+te= Rotterdam
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030744
+te= Roma
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030745
+te= Rindal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030746
+te= Dronning Elizabeth-Øyene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030747
+te= Paraguay
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030748
+te= Odessa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030749
+te= Nøtterøy
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030750
+te= Nürnberg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030751
+te= Numedalslågen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030752
+te= Normandie
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030753
+te= Norge
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030754
+te= Nordvestpassasjen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030755
+te= Nordmarka (Klæbu)
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030756
+te= California
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030757
+te= Nord-Tyskland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030758
+te= Nordmøre
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030759
+te= Nord-Finland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030760
+te= Nord-Aurdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030761
+te= Nord-Trøndelag
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030762
+te= Nord-Fron
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030763
+te= Noordwijk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030764
+te= Nome
+de= Kommune i Telemark
+tio= 2015-02-20T13:08:04Z
+tie= 2015-10-09T18:51:38Z
+
+id= REAL030765
+te= Nissedal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030766
+te= Nilen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030767
+te= Nice
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030768
+te= Ngorongoro
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030769
+te= Newfoundland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030770
+te= Newcastle
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030771
+te= Nesna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030772
+te= Nes
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030773
+te= Natal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030774
+te= Nannestad
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030775
+te= Namibørkenen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030776
+te= München
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030777
+te= Møysalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030778
+te= Møsvatn
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030779
+te= Møsstrond
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030780
+te= Møre Og Romsdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030781
+te= Mølen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030782
+te= Murmansk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030783
+te= Montreal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030784
+te= Mombasa
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030785
+te= Minneapolis
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030786
+te= Mikronesia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030787
+te= Midt-Norge
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030788
+te= Michigan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030789
+te= Mesopotamia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030790
+te= Meldal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030791
+te= Melanesia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030792
+te= Mecklenburg-Vorpommern
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030793
+te= Masfjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030794
+te= Malvik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030795
+te= Madrid
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030796
+te= Lyon
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030797
+te= Lyngdalsvassdraget
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030798
+te= Lombardia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030799
+te= Lom
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030800
+te= Lindesnes
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030801
+te= Liguria
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030802
+te= Lierne
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030803
+te= Liege
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030804
+te= Leiden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030805
+te= Leipzig
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030806
+te= Laos
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030807
+te= Lade
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030808
+te= Labrador
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030809
+te= Kåfjord
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030810
+te= Kviteseid
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030811
+te= Kvinnherad
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030812
+te= Kvikkjokk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030813
+te= Kvam
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030814
+te= Krokskogen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030815
+te= Kristinfeltet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030816
+te= Korea
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030817
+te= Kongsvoll
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030818
+te= Komorene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030819
+te= Kjørholmane
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030820
+te= Kiruna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030821
+te= Kautokeino
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030822
+te= Kasakhstan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030823
+te= Karpacz
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030824
+te= Karlsruhe
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030825
+te= Karasjok
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030826
+te= Kamtsjatkahalvøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030827
+te= Kabodsja
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030828
+te= Junkerdalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030829
+te= Jevnaker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030830
+te= Indokina
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030831
+te= Illinois
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030832
+te= Idaho
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030833
+te= Håøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030834
+te= Håkedal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030835
+te= Hå
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030836
+te= Hurum
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030837
+te= Hornsund
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030838
+te= Hopen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030839
+te= Hol
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030840
+te= Hitra
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030841
+te= Herøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030842
+te= Bosnia-Hercegovina
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030843
+te= Hebridene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030844
+te= Hardangerfjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030846
+te= Hannover
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030847
+te= Hallingdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030848
+te= Halland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030849
+te= Haiti
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030850
+te= Haag
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030851
+te= Gullkysten
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030852
+te= Groruddalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030853
+te= Grenland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030854
+te= Greenwich
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030855
+te= Grand Canyon
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030856
+te= Gobiørkenen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030857
+te= Glittertinden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030858
+te= Gjende
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030859
+te= Gironde
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030860
+te= Gera
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030861
+te= Geilo
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030862
+te= Ganddal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030863
+te= Galdhøpiggen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030864
+te= Fåberg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030865
+te= Fyresdal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030866
+te= Fyn
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030867
+te= Frøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030868
+te= Frierfjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030869
+te= Freiburg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030870
+te= Fredrikstad
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030871
+te= Frankfurt
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030872
+te= Fogo
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030873
+te= Flåmsdalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030874
+te= Flå
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030875
+te= Flesberg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030876
+te= Finndalsfjellet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030877
+te= Finnmark
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030878
+te= Fiji
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030879
+te= Fauske
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030880
+te= Fana
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030881
+te= Fairbanks
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030882
+te= Etnavassdraget
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030883
+te= Erlangen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030884
+te= Eritrea
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030885
+te= Enare
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030886
+te= Ellesmereøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030887
+te= Eidanger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030888
+te= Dønnaterrassen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030889
+te= Dønna
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030890
+te= Dødehavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030891
+te= Dundee
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030892
+te= Dublin
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030893
+te= Drøbak
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030894
+te= Dronning Maud Land
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030895
+te= Drammenselva
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030896
+te= Drammensfjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030897
+te= Domkirkeodden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030898
+te= Dominikanske Republikk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030899
+te= Dolomittene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030900
+te= Delft
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030901
+te= Britiske Øyer
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030902
+te= Davos
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030903
+te= Davisstredet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030904
+te= Danmarkstredet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030905
+te= Dalmatia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030906
+te= Black Hills
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030907
+te= Czerniawka
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030908
+te= Connecticut
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030909
+te= Coloradofjella
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030910
+te= Kina
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030911
+te= Chemnitz
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030912
+te= Cantal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030913
+te= Canberra
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030914
+te= Bøelva
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030915
+te= Bødalsbreen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030916
+te= Bukovina
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030917
+te= Budapest
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030918
+te= Brøggerhalvøya
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030919
+te= Brussel
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030920
+te= Briksdalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030921
+te= Bretagne
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030922
+te= Brekken
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030923
+te= Breheimen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030924
+te= Braunschweig
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030925
+te= Botswana
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030926
+te= Borussia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030927
+te= Bonn
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030928
+te= Bockfjorden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030929
+te= Blekinge
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030930
+te= Biskayabukta
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030931
+te= Bindalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030932
+te= Bidjovagge
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030933
+te= Bhutan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030934
+te= Besseggen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030935
+te= Bermuda
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030937
+te= Bergslagen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030938
+te= Beograd
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030939
+te= Bengalbukta
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030940
+te= Belize
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030941
+te= Begnavassdraget
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030942
+te= Baroniet Rosendal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030943
+te= Barentshavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030944
+te= Barcelona
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030945
+te= Bangladesh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030946
+te= Bandung
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030947
+te= Balestrand
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030948
+te= Baffinbukta
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030949
+te= Baden-Württemberg
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030950
+te= Ayers Rock
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030951
+te= Averøy
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030952
+te= Aurskog-Høland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030953
+te= Aurskog
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030954
+te= Aurlandsdalen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030955
+te= Aurland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030956
+te= Assyria
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030957
+te= Aruba
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030958
+te= Arkansas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030959
+te= Arendal
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030960
+te= Apenninene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030961
+te= Andalucia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030962
+te= Anacapri
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030963
+te= Stora Alvaret
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030964
+te= Altaelva
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030965
+te= Alstahaug
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030966
+te= Alkmaar
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030967
+te= Alice Springs
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030969
+te= Alamos
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030970
+te= Akerselva
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030971
+te= Jomfruland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030972
+te= Arktis
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030973
+te= Hunsrück
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030974
+te= Mozambik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030975
+te= Helgoland
+de= Øy i Tyskland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030977
+te= Ekvatorial-Afrika
+de= Ekvatorial-Afrika, område mellom Kongo i sør og Libya i nord. Omfatter det tidligere Spansk Ekvatorial-Afrika og det tidligere Fransk Ekvatorial-Afrika. [SNL]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030978
+te= Iapetushavet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030979
+te= Io (måne)
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030980
+te= Mjølnirkrateret
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030981
+te= Vest-Tyskland
+bf= Vesttyskland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030982
+te= Pangea
+bf= Pangaea
+de= Superkontinent som eksisterte for omkring 300?200 mill. år siden og som omfattet mesteparten av den kontinentale jordskorpen. [SNL]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030983
+te= Aten
+bf= Athen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030984
+te= Aden
+de= By i Jemen
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030985
+te= Andromedagalaksen
+ba= na
+bf= M31
+bf= Messier 31
+tio= 2015-02-20T13:08:04Z
+tie= 2015-02-09T00:00:00Z
+
+id= REAL030986
+te= Arabiske Halvøy
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030987
+te= Arktisk-Alpine Områder
+bf= Arktisk-alpine strøk
+bf= Arktisk-alpin region
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030988
+te= Askja
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030989
+te= Atlantis
+de= Atlantis, en sagnøy som Platon har beskrevet i dialogene Timaios og Kritias [SNL]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030990
+te= Bamblefeltet
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030991
+te= Ceres
+ba= na
+de= Dvergplanet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030992
+te= Charon
+ba= na
+de= Plutos måne
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030993
+te= Chicxulub
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030994
+te= Egersundbassenget
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030995
+te= Ekofisk
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030996
+te= Gardermoendeltaet
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030997
+te= Gondwanaland
+bf= Gondwana
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030998
+te= Greenwichmeridianen
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030999
+te= Gullfaks
+ba= nc
+bf= Gullfaksfeltet
+no= Gullfaksfeltet (ikke selve boreplattformene). ML
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031000
+te= Hafslo
+ba= nk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031001
+te= Halleys Komet
+ba= na
+en= Halley's comet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031002
+te= Hedmarkbassenget
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031003
+te= Hekla
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031004
+te= Hildfeltet
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031005
+te= Holarktiske Region
+ba= nb
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031006
+te= Hornelenbassenget
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031007
+te= Jorda
+ba= nc
+bf= Jorden
+la= Tellus
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031008
+te= Jotundekket
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031009
+te= Jupiter
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031010
+te= Krabbetåken
+ba= na
+en= Crab nebula
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031011
+te= Krakatau
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031012
+te= Kuiperbeltet
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031013
+te= Mars
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031014
+te= Melkeveien
+ba= na
+ba= ns
+bf= Melkeveisystemet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031015
+te= Merkur
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031016
+te= Månen
+ba= na
+ba= nc
+ba= nf
+ba= ns
+de= Jordas måne
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031017
+te= Mørebassenget
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031018
+te= Nearktiske Subregion
+ba= nb
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031019
+te= Neotropiske Region
+de= Dyre- og plantegeografisk betegnelse for Sør- og Mellom-Amerika med sin særegne flora og fauna. [SNL]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031020
+te= Nullmeridianen
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031021
+te= Oriontåken
+ba= na
+en= Orion nebula
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031022
+te= Oslofeltet
+ba= nc
+ba= ne
+ba= ngh
+ba= ns
+bf= Christianiafeltet
+bf= Christianiaområdet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031023
+te= Osloriften
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031024
+te= Parismeridianen
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031025
+te= Pluto
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031026
+te= Polarområder
+tio= 2015-02-20T13:08:04Z
+tis= 2016-05-24T14:22:38Z
+fly= REAL030576
+
+id= REAL031027
+te= Saturn
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031028
+te= Seiland Nasjonalpark
+ba= nb
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031029
+te= Skjækerfjella
+ba= nb
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031030
+te= Sola
+bf= Solen
+de= Stjerne
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031031
+te= Sollia
+ba= ngh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031032
+te= Sørkedalsvassdraget
+ba= ngh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031033
+te= Subtropiske Områder
+bf= Subtropiske strøk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031034
+te= Tethys
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031035
+te= Trollfeltet
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031036
+te= Trondheimsfeltet
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031037
+te= Uranus
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031038
+te= Varangerhalvøya Nasjonalpark
+ba= nb
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031039
+te= Venus
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031040
+te= Verden
+ba= nb
+ba= ns
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031041
+te= Afghanistan
+bf= Afganistan
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031042
+te= Middelhavsområdet
+bf= Middelhavslandene
+tio= 2015-02-20T13:08:04Z
+tie= 2016-03-10T11:02:44Z
+
+id= REAL031043
+te= Boreal Sone
+ba= nk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031044
+te= Agder
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031045
+te= Blåfjella
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031046
+te= Franz Josef Land
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031047
+te= Gautefallheia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031048
+te= Gjerstadskogene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031049
+te= Guinea
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031050
+te= Hiroshima
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031051
+te= Kambodsja
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031052
+te= Narvik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031053
+te= New South Wales
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031054
+te= Nordatlantiske Område
+tio= 2015-02-20T13:08:04Z
+tie= 2016-05-24T14:21:47Z
+tis= 2016-05-24T14:19:40Z
+fly= REAL030313
+
+id= REAL031055
+te= Nord-Grønland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031056
+te= Nord-Russland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031057
+te= Reykjavik
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031058
+te= Sentral-Asia
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031059
+te= Seychellene
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031060
+te= Sørlige Afrika
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031061
+te= Sørnesset
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031062
+te= Øst-Tyskland
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031158
+te= Yucatán
+de= Delstat i Mexico
+tio= 2015-02-20T13:08:04Z
+tie= 2014-09-26T00:00:00Z
+
+id= REAL031203
+te= New Hampshire
+tio= 2015-02-20T13:08:04Z
+tie= 2014-10-15T00:00:00Z
+
+id= REAL031211
+te= Pribylovøyene
+en= Pribilof Islands
+en= Northern Fur Seal Islands
+tio= 2015-02-20T13:08:04Z
+tie= 2014-10-20T00:00:00Z
+
+id= REAL031212
+te= Christmasøya
+en= Christmas Island
+de= Øy i Indiske hav, australsk territorium (SNL)
+tio= 2015-02-20T13:08:04Z
+tie= 2014-10-20T00:00:00Z
+
+id= REAL031213
+te= Lipariske Øyer
+bf= Eoliske øyer
+en= Aeolian Islands
+en= Lipari Islands
+en= Lipari Group
+de= Lipariske øyer, vulkansk øygruppe i Italia, i Tyrrenske hav, nord for nordøsthjørnet av Sicilia, består av 7 større og 11 mindre øyer, 117 km2. (SNL)
+tio= 2015-02-20T13:08:04Z
+tie= 2014-10-20T00:00:00Z
+
+id= REAL031222
+te= Lyngsalpene
+bf= Lyngsalpan
+bf= Lyngsfjellan
+tio= 2015-02-20T13:08:04Z
+tie= 2014-10-24T00:00:00Z
+
+id= REAL031223
+te= Ryfylkeheiene
+bf= Ryfylkeheiane
+tio= 2015-02-20T13:08:04Z
+tie= 2014-10-24T00:00:00Z
+
+id= REAL031302
+te= Singapore
+tio= 2015-01-23T00:00:00Z
+tie= 2015-01-23T00:00:00Z
+
+id= REAL031303
+te= Statfjord1
+tio= 2015-01-23T00:00:00Z
+tie= 2015-01-23T00:00:00Z
+
+id= REAL031304
+te= Neptun
+en= Neptune
+de= Planet
+tio= 2015-01-26T00:00:00Z
+tie= 2015-01-26T00:00:00Z
+
+id= REAL031335
+te= Den Lokale Gruppe
+bf= Den lokale galaksehopen
+bf= Den lokale galaksegruppen
+en= Local group
+en= Local group of galaxies
+de= Den galaksehop med vel 20 medlemmer som Melkeveisystemet tilhører (SNL)
+tio= 2015-02-09T00:00:00Z
+tie= 2015-02-09T00:00:00Z
+
+id= REAL031379
+te= Østmarka
+so= REAL030350
+so= REAL031380
+tio= 2015-03-23T13:26:59Z
+tie= 2015-03-23T13:28:25Z
+
+id= REAL031380
+te= Nordmarka
+so= REAL030350
+so= REAL031379
+ot= REAL030350
+de= Åslandskap mellom tettbebyggelsen i Oslo og Hadeland.
+tio= 2015-03-23T13:27:37Z
+tie= 2015-03-23T13:28:43Z
+
+id= REAL031406
+te= Tatrafjellene
+nn= Tatrafjella
+en= Tatra mountains
+en= Tatras
+tio= 2015-03-24T15:16:27Z
+tie= 2015-03-24T15:17:06Z
+
+id= REAL031410
+te= Svealand
+tio= 2015-03-31T12:39:19Z
+tie= 2015-03-31T12:39:20Z
+
+id= REAL031429
+te= Sognefjorden
+tio= 2015-05-11T11:54:44Z
+tie= 2015-05-11T11:54:44Z
+
+id= REAL031458
+te= Benguelastrømmen
+nn= Benguelastraumen
+en= Benguela current
+tio= 2015-06-08T11:29:59Z
+tie= 2015-06-08T11:30:23Z
+
+id= REAL031466
+te= Den Norske Kyststrømmen
+bf= Norskestrømmen
+nn= Den norske kyststraumen
+nn= Norskestraumen
+en= The Norwegian Coastal Current
+en= Norwegian Current
+en= Norwegian Coastal Current
+de= Havstrøm langs norskekysten
+tio= 2015-06-12T16:21:33Z
+tie= 2015-06-12T16:24:08Z
+

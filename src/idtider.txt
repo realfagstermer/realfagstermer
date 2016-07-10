@@ -1,0 +1,143 @@
+id= REAL030178
+te= 1970-tallet
+ba= ns
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030179
+te= Barokken
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030180
+te= Opplysningstiden
+ba= nk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030181
+te= Renessansen
+ba= ne
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030182
+te= 1500-tallet
+ba= ns
+bf= Sekstende århundre
+bf= 16. århundre
+tio= 2015-02-20T13:08:04Z
+tie= 2015-08-19T19:02:57Z
+
+id= REAL030183
+te= 2000-tallet
+ba= ns
+bf= 21. århundre
+bf= Tjueførste århundre
+bf= Enogtyvende århundre
+tio= 2015-02-20T13:08:04Z
+tie= 2015-08-19T19:04:03Z
+
+id= REAL030184
+te= 1980-tallet
+ba= ns
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030185
+te= 1600-tallet
+ba= ns
+bf= Syttende århundre
+bf= 17. århundre
+tio= 2015-02-20T13:08:04Z
+tie= 2015-08-19T19:03:02Z
+
+id= REAL030186
+te= 1800-tallet
+ba= ns
+bf= Nittende århundre
+bf= 19. århundre
+tio= 2015-02-20T13:08:04Z
+tie= 2015-08-19T19:03:12Z
+
+id= REAL030187
+te= 1700-tallet
+ba= fa
+ba= ns
+bf= Attende århundre
+bf= 18. århundre
+tio= 2015-02-20T13:08:04Z
+tie= 2015-08-19T19:03:07Z
+
+id= REAL030188
+te= Folkevandringstiden
+ba= nb
+de= Periode i Europas historie, ca 400 - 600 e.Kr. [UBO]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030189
+te= Middelalderen
+ba= nc
+bf= Mellomalder
+bf= Mellomalderen
+de= Periode i Europas historie ca 500-ca 1500. Brukes også om tilsvarende periode i ikke-europeisk historie/kulturhistorie [UBO]
+tio= 2015-02-20T13:08:04Z
+tie= 2016-05-24T14:32:01Z
+
+id= REAL030190
+te= Antikken
+ba= fa
+ba= ns
+de= Antikken, den klassiske oldtid, betegnelse for epoken som var dominert av den gresk-romerske kulturkretsen, fra ca. 500 f.Kr. til ca. 500 e.Kr. [SNL]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030191
+te= Etterkrigstiden
+ba= nb
+de= Tiden etter den andre verdenskrig og fram til århundreskiftet [UBO]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030192
+te= Mellomkrigstiden
+ba= ns
+de= Tiden mellom de to verdenskriger, 1918-39 [SNL]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030193
+te= Romersk oldtid
+ba= nb
+bf= Romersk antikk
+bf= Romersk periode
+bf= Romersk tid
+de= Periode i Europas historie, ca 700 f.Kr. - 500 e.Kr. [UBO]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030194
+te= 1900-tallet
+ba= ns
+bf= 20. århundre
+bf= Tjuende århundre
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030195
+te= Bronsealder
+ba= ns
+de= Ca 1500 - 500 f.Kr. [UBO]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030196
+te= Jernalder
+ba= ns
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030197
+te= Oldtiden
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030198
+te= 1990-tallet
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030199
+te= 1400-tallet
+bf= Femtende århundre
+bf= 15. århundre
+tio= 2015-02-20T13:08:04Z
+tie= 2015-08-19T19:02:51Z
+

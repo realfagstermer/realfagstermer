@@ -1,0 +1,715 @@
+id= REAL005542
+te= Brukerveiledning
+ba= ni
+en= User guides
+tio= 2014-08-25T00:00:00Z
+
+id= REAL013442
+te= Pseudovitenskap
+ba= fa
+ba= nk
+ba= na
+ba= nb
+ba= nf
+ba= ns
+bf= Kvasivitenskap
+bf= Psevdovitenskap
+tio= 2014-08-25T00:00:00Z
+st= REAL026608
+st= REAL028789
+st= REAL031452
+
+id= REAL030064
+te= Statistikk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030065
+te= Adresselister
+bf= Adressebøker
+bf= Adressefortegnelser
+bf= Adresser
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030066
+te= Almanakker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030067
+te= Antologier
+bf= Artikkelsamlinger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030068
+te= Arbeidsbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030069
+te= Artslister
+bf= Sjekklister
+tio= 2015-02-20T13:08:04Z
+tie= 2015-10-01T11:09:19Z
+
+id= REAL030070
+te= Atlas
+bf= Verdensatlas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030071
+te= Barnelitteratur
+bf= Barnebøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030072
+te= Berggrunnskart
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030073
+te= Bestemmelseslitteratur
+bf= Bestemmelser
+bf= Bestemmelsesnøkkel
+bf= Bestemmelsesnøkler
+bf= Bestemmelsestabeller
+bf= Bestemmelsesverk
+bf= Kjenningsnøkkel
+bf= Kjenningsnøkler
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030074
+te= Bildebøker
+bf= Billedbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030075
+te= Bildeverk
+bf= Bilder
+bf= Billedverk
+bf= Billedverker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030076
+te= Brev
+bf= Brevvekslinger
+bf= Korrespondanser
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030077
+te= Eksempelsamlinger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030078
+te= Ekskursjonsguider
+bf= Ekskursjonsførere
+bf= Guider
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030079
+te= Essay
+bf= Essayer
+bf= Essays
+bf= Essaysamlinger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030080
+te= Farmakopeer
+tio= 2015-02-20T13:08:04Z
+st= REAL031476
+
+id= REAL030081
+te= Felthåndbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030082
+te= Festskrifter
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030083
+te= Formelsamlinger
+bf= Formler
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030084
+te= Fotografier
+bf= Fotobøker
+bf= Flyfotografier
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030085
+te= Grunnbøker
+bf= Introduksjonsbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030086
+te= Himmelatlas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030087
+te= Historie
+bf= Historisk fremstilling
+bf= Historisk framstilling
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030088
+te= Humor
+bf= Harsellas
+tio= 2015-02-20T13:08:04Z
+tie= 2015-02-16T00:00:00Z
+
+id= REAL030089
+te= Håndbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030090
+te= Klassifikasjonsskjemaer
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030091
+te= Laboratoriehåndbøker
+bf= Laboratoriemanualer
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030092
+te= Laboratorieoppgaver
+bf= Laboratorieøvelser
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030093
+te= Lærebøker
+bf= Læremidler
+bf= Læreverk
+bf= Innføringer
+nn= Lærebøker
+en= Textbooks
+tio= 2015-02-20T13:08:04Z
+tie= 2014-12-16T00:00:00Z
+
+id= REAL030094
+te= Læreplaner
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030095
+te= Lærerveiledninger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030096
+te= Løsningsforslag
+bf= Fasiter
+bf= Løsningsmanualer
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030097
+te= Manualer
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030098
+te= Navnelister
+bf= Navneregistre
+bf= Navneregister
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030099
+te= Oppgavesamlinger
+bf= Oppgaver
+bf= Problemsamlinger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030100
+te= Oppslagsverk
+bf= Encyclopedier
+bf= Oppslagsbøker
+bf= Oppslagsverker
+bf= Konversasjonsleksika
+bf= Leksika
+bf= Leksikon
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030101
+te= Ordbøker
+bf= Definisjonsordbøker
+bf= Fremmedordbøker
+bf= Synonymordbøker
+bf= Fagordbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030102
+te= Plansjer
+bf= Plansjeverk
+bf= Plansjeverker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030103
+te= Reisehåndbøker
+bf= Reisebøker
+bf= Reiseguider
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030104
+te= Sangbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030105
+te= Science fiction
+tio= 2015-02-20T13:08:04Z
+st= REAL031080
+st= REAL031082
+st= REAL031083
+st= REAL031084
+st= REAL031124
+st= REAL031144
+st= REAL031145
+st= REAL031166
+st= REAL031167
+st= REAL031168
+st= REAL031398
+st= REAL031558
+st= REAL031559
+
+id= REAL030106
+te= Soppfloraer
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030107
+te= Standarder
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030108
+te= Studiehåndbøker
+bf= Studieveiledninger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030109
+te= Tabeller
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030110
+te= Tegneserier
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030111
+te= Turbøker
+bf= Turguide
+bf= Turguider
+bf= Turhåndbøker
+tio= 2015-02-20T13:08:04Z
+st= REAL031254
+
+id= REAL030112
+te= Utbredelseskart
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030113
+te= Ungdomslitteratur
+bf= Ungdomsbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030114
+te= Verneplaner
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030115
+te= Årbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030116
+te= Årsmeldinger
+bf= Årsberetninger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030117
+te= Biografier
+bf= Autobiografier
+bf= Biografisamlinger
+bf= Selvbiografier
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030118
+te= Bibliografier
+bf= Bibliobibliografier
+bf= Bokfortegnelser
+bf= Litteraturlister
+en= Bibliographies
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030119
+te= Floraer
+bf= Flora
+de= Se også "bestemmelseslitteratur" under de enkelte temaer, f.eks 'planter : bestemmelseslitteratur'
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030120
+te= Kart
+bf= Temakart
+en= Maps
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030121
+te= Populærvitenskap
+bf= Populærlitteratur
+no= Unngå å bruke denne! Vi rydder.... for å skille den fra Populærvitenskap. Hvis du virkelig mener at du trenger den, send søknad i fire eksemplarer til emneredaksjonen... ML 5.6.15
+en= Popular science
+tio= 2015-02-20T13:08:04Z
+st= REAL031556
+
+id= REAL030122
+te= Samlete verker
+en= Collected works
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030123
+te= Konferanser
+bf= Symposier
+nn= Symposiar
+en= Conferences
+en= Symposia
+tio= 2015-02-20T13:08:04Z
+tie= 2016-06-22T11:47:36Z
+
+id= REAL030124
+te= Geofysiske kart
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030125
+te= Spillefilmer
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030126
+te= Kokebøker
+bf= Matoppskrifter
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030127
+te= Anatomisk atlas
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030128
+te= Breatlas
+ba= nc
+ba= ngh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030129
+te= Digitale kart
+ba= ni
+ba= ngh
+en= Digital maps
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030130
+te= Dybdekart
+ba= nb
+ba= ngh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030131
+te= Folkediktning
+ba= ngh
+bf= Eventyr
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030132
+te= Kjemiske formler
+ba= nk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030133
+te= Matematiske formler
+ba= nm
+ba= ns
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030134
+te= Strukturformler
+ba= nk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030135
+te= Frøatlas
+ba= nc
+ba= nq
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030136
+te= Geofysisk atlas
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030137
+te= Geologisk atlas
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030138
+te= Geologiske kart
+ba= nc
+ba= ngh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030139
+te= Historiske stjernekart
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030140
+te= Hydrografiske kart
+ba= ngh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030141
+te= Lovsamlinger
+ba= nb
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030142
+te= Nedbørskart
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030143
+te= Planetkart
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030145
+te= Rødlister
+ba= nb
+ba= nq
+bf= Røde lister
+no= Brukes kun for selve listene. For rødlistearter, bruk truede arter.
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030146
+te= Satkart
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030147
+te= Seismisk atlas
+ba= nc
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030148
+te= Sjøkart
+ba= na
+ba= ngh
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030149
+te= Spektralatlas
+ba= na
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030150
+te= Stofflister
+ba= nk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030151
+te= Studentrapporter
+ba= ni
+bf= In160
+bf= In165
+bf= In166
+bf= In166a
+bf= In360
+bf= In362
+bf= In364
+en= Student reports
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030152
+te= Vegetasjonskart
+ba= nk
+ba= nb
+ba= nq
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030153
+te= Viltområdekart
+ba= nk
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030154
+te= Rettskilder
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030155
+te= Forskrifter
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030156
+te= Lover
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030157
+te= Hovedoppgaver
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030158
+te= Oversiktsverker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030159
+te= Reiseskildringer
+bf= Reisebeskrivelser
+bf= Reisedagbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030160
+te= Romaner
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030161
+te= Avtaler
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030162
+te= Lisensavtaler
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030163
+te= Aviser
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030164
+te= Sitatsamlinger
+bf= Aforismer
+bf= Sitater
+bf= Sitatordbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030165
+te= Terminologi
+ba= ni
+ba= nk
+ba= nb
+ba= nc
+ba= ne
+ba= ngh
+ba= nm
+ba= nq
+ba= ns
+so= REAL030166
+en= Terminology
+de= Terminologi, de ord og uttrykk (termer) som er typiske for en virksomhet, et fag eller en vitenskap. [SNL]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030166
+te= Nomenklatur
+bf= Nomenklaturer
+so= REAL030165
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030167
+te= Dikt
+bf= Lyrikk
+bf= Poesi
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030168
+te= Skjønnlitteratur
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030169
+te= Noveller
+bf= Fortellinger
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030170
+te= Hørespill
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030171
+te= Dramatikk
+bf= Skuespill
+de= Sjanger der handlingen framstilles i dialogs form, som regel beregnet på å framføres på scenen, i fjernsynet eller på filmlerretet [UBO]
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030172
+te= Tegnefilmserier
+so= REAL030173
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030173
+te= Tegnefilmer
+so= REAL030172
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030174
+te= Tv-serier
+bf= Fjernsynsserier
+so= REAL030175
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030175
+te= Tv-programmer
+bf= Fjernsynsprogrammer
+so= REAL030174
+tio= 2015-02-20T13:08:04Z
+
+id= REAL030176
+te= Nautiske almanakker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031089
+te= Spørrebøker
+bf= Quizbøker
+tio= 2015-02-20T13:08:04Z
+
+id= REAL031111
+te= Stjernekataloger
+bf= Durchmusterung
+nn= Stjernekatalogar
+en= Star catalogues
+en= Star catalogs
+tio= 2015-02-20T13:08:04Z
+tie= 2015-05-07T14:18:23Z
+
+id= REAL031306
+te= Plantekataloger
+tio= 2015-01-26T00:00:00Z
+tie= 2015-01-26T00:00:00Z
+
+id= REAL031370
+te= Dokumentar
+en= Documentary
+tio= 2015-03-19T07:54:11Z
+tie= 2015-03-19T09:22:16Z
+
+id= REAL031371
+te= Molekylbyggesett
+tio= 2015-03-19T09:37:56Z
+tie= 2015-03-19T09:37:56Z
+
+id= REAL031428
+te= Forelesningsnotater
+so= REAL031454
+no= Brukes om andres notater fra en forelesning, altså ikke foreleserens egne.
+en= Lecture notes
+de= Notater fra forelesninger
+tio= 2015-05-07T14:03:05Z
+tie= 2015-06-04T15:44:23Z
+
+id= REAL031453
+te= Kommentarutgaver
+bf= Kommentarer
+tio= 2015-06-04T15:26:46Z
+tie= 2015-06-04T15:26:52Z
+
+id= REAL031454
+te= Forelesninger
+so= REAL031428
+no= Brukes om faktiske forelesningsmanus eller faktiske presentasjoner, ikke for dokumenter som handler om det å holde forelesninger/presentasjoner/foredrag (det har vi emneordet Presentasjonsteknikk til). ML 4.6.15
+en= Lectures
+en= Lecture transcripts
+de= Foreleserens egne manus/presentasjoner
+tio= 2015-06-04T15:44:07Z
+tie= 2015-06-04T15:47:16Z
+
+id= REAL031495
+te= Toktrapporter
+tio= 2015-09-21T11:34:36Z
+tie= 2015-09-21T11:34:36Z
+
+id= REAL031678
+te= Geokjemisk atlas
+tio= 2016-05-24T13:39:56Z
+tie= 2016-05-24T13:39:56Z
+

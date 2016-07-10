@@ -5,3 +5,8 @@
 *.bz2
 *.zip
 dumps/
+dist/realfagstermer.complete.ttl
+dist/realfagstermer_bm-nn.csv
+realfagstermer.github.io
+dist/realfagstermer.marc21.xml
+realfagstermer.json

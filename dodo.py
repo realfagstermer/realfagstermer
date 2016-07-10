@@ -17,14 +17,12 @@ config = {
     'dumps_dir': get_var('dumps_dir', '/opt/data.ub/www/default/dumps'),
     'dumps_dir_url': get_var('dumps_dir_url', 'http://data.ub.uio.no/dumps'),
     'graph': 'http://data.ub.uio.no/realfagstermer',
-    'fuseki': 'http://localhost:3030/ds',
+    'fuseki': 'http://localhost:3031/ds',
     'basename': 'realfagstermer'
 }
 
 
 def task_fetch():
-
-    logger.info('Checking for updated files')
 
     yield {
         'doc': 'Fetch remote files that have changed',
@@ -140,8 +138,8 @@ def task_build():
     }
 
 
-# def task_git_push():
-#     return data_ub_tasks.git_push_task_gen(config)
+def task_git_push():
+    return data_ub_tasks.git_push_task_gen(config)
 
 
 def task_publish_dumps():
