@@ -10,3 +10,4 @@ dist/realfagstermer_bm-nn.csv
 realfagstermer.github.io
 dist/realfagstermer.marc21.xml
 realfagstermer.json
+src/ub-onto.ttl
