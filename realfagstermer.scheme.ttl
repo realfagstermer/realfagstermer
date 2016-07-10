@@ -16,6 +16,7 @@
 @prefix tekord: <http://ntnu.no/ub/data/tekord#> .
 @prefix humord: <http://data.ub.uio.no/humord/> .
 @prefix library: <http://data.ub.uio.no/library/> .
+@prefix nkos: <http://w3id.org/nkos#> .
 
 realfagstermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     rdfs:label "Realfagstermer"@nb ;
@@ -25,6 +26,7 @@ realfagstermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     dcterms:publisher library:k ;
     dcterms:creator library:k ;
     dcterms:contributor library:d ;
+    nkos:usedBy library:k , library:d ;
     dcterms:language lexvo:eng,
         lexvo:lat,
         lexvo:nno,
