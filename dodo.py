@@ -55,7 +55,9 @@ def task_fetch():
         {'remote': 'https://lambda.biblionaut.net/export.rdf',
             'local': 'src/lambda.rdf'},
         {'remote': 'https://rawgit.com/realfagstermer/prosjekt-nynorsk/master/data-verified.ttl',
-            'local': 'src/nynorsk.ttl'}
+            'local': 'src/nynorsk.ttl'},
+        {'remote': 'https://rawgit.com/scriptotek/data_ub_ontology/master/ub-onto.ttl',
+            'local': 'src/ub-onto.ttl'}
     ]:
         yield {
             'name': file['local'],
@@ -80,7 +82,7 @@ def task_build():
 
         includes = [
             '%s.scheme.ttl' % config['basename'],
-            'ubo-onto.ttl',
+            'src/ub-onto.ttl',
             'src/nynorsk.ttl'
         ]
 
@@ -126,7 +128,7 @@ def task_build():
             'src/mumapper.rdf',
             'src/lambda.rdf',
             'src/nynorsk.ttl',
-            'ubo-onto.ttl',
+            'src/ub-onto.ttl',
             '%s.scheme.ttl' % config['basename']
         ],
         'targets': [
