@@ -112974,14 +112974,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013945
 te= Mikroelektromekaniske systemer
 ba= ni
-bf= Microscopic electrical mechanical systems
+bf= Nanoelektromekaniske systemer
 ak= MEMS
 nn= Mikroelektromekaniske system
 nn= Microscopic electrical mechanical systems
 en= Microelectromechanical systems
 en= Microscopic electrical mechanical systems
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-09T00:00:00Z
+tie= 2016-07-11T11:25:19Z
 
 id= REAL013946
 te= Fylogenetikk
@@ -115942,4 +115942,11 @@ nn= Fålekamproblem
 de= Problemet med å løse bevegelsesligningene for et klassisk system med fler enn to legemer, for eksempel flere himmellegemer som gravitasjonelt påvirker hverandre
 tio= 2016-07-08T19:58:22Z
 tie= 2016-07-08T20:00:01Z
+
+id= REAL031708
+te= Kvantemaskiner
+nn= Kvantemaskinar
+en= Quantum machines
+tio= 2016-07-11T11:26:04Z
+tie= 2016-07-11T11:26:28Z
 
