@@ -10315,9 +10315,6 @@ nn= Kjuker
 tio= 2014-08-25T00:00:00Z
 tis= 2016-07-13T14:44:42Z
 fly= REAL013223
-st= REAL022783
-st= REAL024334
-st= REAL028851
 
 id= REAL001365
 te= Akvarieplanter
@@ -102424,10 +102421,10 @@ de= Stilksporesoppgruppe
 tio= 2014-08-25T00:00:00Z
 st= REAL018490
 st= REAL022775
-st= REAL030034
 st= REAL022783
 st= REAL024334
 st= REAL028851
+st= REAL030034
 
 id= REAL013224
 te= Rustsopper
@@ -112330,17 +112327,12 @@ id= REAL013890
 te= Melkesyrebakterier
 ba= nb
 ba= ns
-bf= Probiotika
-bf= Prebiotika
 bf= Laktobakterier
+so= REAL031710
 nn= Mjølkesyrebakteriar
 nn= Laktobakteriar
-nn= Prebiotika
-nn= Prebiotikum
-nn= Probiotika
-nn= Probiotikum
 tio= 2014-08-25T00:00:00Z
-st= REAL018014
+tie= 2016-07-14T11:06:43Z
 
 id= REAL013891
 te= Bladlaver
@@ -115960,4 +115952,22 @@ nn= Kvantemaskinar
 en= Quantum machines
 tio= 2016-07-11T11:26:04Z
 tie= 2016-07-11T11:26:28Z
+
+id= REAL031709
+te= Prebiotika
+bf= Prebiotikum
+nn= Prebiotika
+nn= Prebiotikum
+de= Betegnelse brukt på stoffer som stimulerer vekst av gunstige bakterier i kroppen, f.eks. noen ufordøyelige karbohydrater.
+tio= 2016-07-14T11:05:11Z
+tie= 2016-07-14T11:09:17Z
+
+id= REAL031710
+te= Probiotika
+bf= Probiotikum
+so= REAL013890
+nn= Probiotika
+nn= Probiotikum
+tio= 2016-07-14T11:05:41Z
+tie= 2016-07-14T11:06:45Z
 
