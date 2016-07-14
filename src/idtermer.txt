@@ -5821,6 +5821,7 @@ st= REAL023650
 st= REAL025956
 st= REAL028685
 st= REAL029248
+st= REAL031711
 
 id= REAL000770
 te= Kalksteiner
@@ -10309,9 +10310,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001364
 te= Kjuker
-ba= nb
-ba= nq
-nn= Kjuker
 tio= 2014-08-25T00:00:00Z
 tis= 2016-07-13T14:44:42Z
 fly= REAL013223
@@ -58848,9 +58846,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007756
 te= Stilkkjuker
-ba= nb
-ba= nq
-nn= Stilkkjuker
 tio= 2014-08-25T00:00:00Z
 tis= 2016-07-13T14:44:59Z
 fly= REAL013223
@@ -59888,6 +59883,7 @@ st= REAL028288
 st= REAL028430
 st= REAL028500
 st= REAL031565
+st= REAL031713
 
 id= REAL007900
 te= Morener
@@ -104448,6 +104444,7 @@ st= REAL027196
 st= REAL027668
 st= REAL029869
 st= REAL030016
+st= REAL031712
 
 id= REAL013396
 te= Tropisk geometri
