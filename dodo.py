@@ -460,7 +460,7 @@ def task_stats():
             'dist/realfagstermer.complete.ttl'
         ],
         'targets': [
-            'realfagstermer.github.io/_data/stats.json'
+            'realfagstermer.github.io/_data/stats.json',
             'realfagstermer.github.io/_data/stats_current.json'
         ]
     }
