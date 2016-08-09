@@ -21,6 +21,16 @@ config = {
     'basename': 'realfagstermer'
 }
 
+DOIT_CONFIG = {
+    'default_tasks': [
+        'git-push',
+        'build-solr-json',
+        'publish-dumps',
+        'fuseki',
+        'stats',
+    ]
+}
+
 
 def task_fetch_core():
 
