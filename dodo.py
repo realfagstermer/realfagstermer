@@ -203,6 +203,10 @@ def task_build_extras():
     }
 
 
+def task_build_json():
+    return data_ub_tasks.gen_solr_json(config, 'realfagstermer')
+
+
 def task_git_push():
     return data_ub_tasks.git_push_task_gen(config)
 
