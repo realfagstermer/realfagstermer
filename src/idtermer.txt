@@ -104202,17 +104202,15 @@ st= REAL021702
 st= REAL026840
 
 id= REAL013380
-te= Lesebrett
+te= Nettbrett
 ba= ni
-bf= Nettbrett
 bf= IPad
 bf= Kindle
-nn= Lesebrett
 nn= IPad
 nn= Kindle
 nn= Nettbrett
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-16T00:00:00Z
+tie= 2016-08-09T15:14:35Z
 
 id= REAL013381
 te= Maskinvaretesting
