@@ -84,8 +84,8 @@ def task_fetch_extras():
             'local': 'src/mumapper.rdf'},
         {'remote': 'https://lambda.biblionaut.net/export.rdf',
             'local': 'src/lambda.rdf'},
-        {'remote': 'https://rawgit.com/realfagstermer/prosjekt-nynorsk/master/data-verified.ttl',
-            'local': 'src/nynorsk.ttl'},
+        #{'remote': 'https://rawgit.com/realfagstermer/prosjekt-nynorsk/master/data-verified.ttl',
+        #    'local': 'src/nynorsk.ttl'},
     ]:
         yield {
             'name': file['local'],
@@ -111,7 +111,7 @@ def task_build_core():
         includes = [
             '%s.scheme.ttl' % config['basename'],
             'src/ub-onto.ttl',
-            'src/nynorsk.ttl'
+            # 'src/nynorsk.ttl'
         ]
 
         # 1) MARC21
@@ -151,7 +151,8 @@ def task_build_core():
             'dist/%s.ttl' % config['basename'],
         ]
     }
-    
+
+
 def task_build_extras():
 
     def build(task):
@@ -164,7 +165,7 @@ def task_build_extras():
         includes = [
             '%s.scheme.ttl' % config['basename'],
             'src/ub-onto.ttl',
-            'src/nynorsk.ttl'
+            # 'src/nynorsk.ttl'
         ]
 
         mappings = [
@@ -202,7 +203,7 @@ def task_build_extras():
             'src/idstrenger.txt',
             'src/mumapper.rdf',
             'src/lambda.rdf',
-            'src/nynorsk.ttl',
+            # 'src/nynorsk.ttl',
             'src/ub-onto.ttl',
             '%s.scheme.ttl' % config['basename']
         ],
@@ -233,59 +234,59 @@ def task_fuseki():
     return data_ub_tasks.fuseki_task_gen(config, ['dist/%(basename)s.complete.ttl'])
 
 
-def task_nynorsk_liste():
+# def task_nynorsk_liste():
 
-    def build_table(task):
-        graph = Graph()
-        graph.load('dist/realfagstermer.ttl', format='turtle')
-        concepts = {}
-        for tr in graph.triples_choices((None, [rdflib.namespace.SKOS.prefLabel, rdflib.namespace.SKOS.altLabel], None)):
-            uri = str(tr[0])
-            term = tr[2].value
-            lang = tr[2].language
-            if uri not in concepts:
-                concepts[uri] = {'pref': {}, 'alt': {}}
-            if tr[1] == rdflib.namespace.SKOS.prefLabel:
-                concepts[uri]['pref'][lang] = term
-            else:
-                concepts[uri]['alt'][lang] = concepts[uri]['alt'].get(lang, []) + [term]
+#     def build_table(task):
+#         graph = Graph()
+#         graph.load('dist/realfagstermer.ttl', format='turtle')
+#         concepts = {}
+#         for tr in graph.triples_choices((None, [rdflib.namespace.SKOS.prefLabel, rdflib.namespace.SKOS.altLabel], None)):
+#             uri = str(tr[0])
+#             term = tr[2].value
+#             lang = tr[2].language
+#             if uri not in concepts:
+#                 concepts[uri] = {'pref': {}, 'alt': {}}
+#             if tr[1] == rdflib.namespace.SKOS.prefLabel:
+#                 concepts[uri]['pref'][lang] = term
+#             else:
+#                 concepts[uri]['alt'][lang] = concepts[uri]['alt'].get(lang, []) + [term]
 
-        with open('dist/realfagstermer_bm-nn.csv', 'wb') as f:
-            writer = csv.writer(f, delimiter =',', quotechar ='"',quoting=csv.QUOTE_MINIMAL)
-            writer.writerow([
-                'URI for begrepet',
-                'Foretrukket term (bokmål)',
-                'Foretrukken term (nynorsk)',
-                'Alternative termer (bokmål)',
-                'Alternative termar (nynorsk)'
-            ])
-            for k, v in concepts.items():
-                pbm = v['pref'].get('nb')
-                pnn = v['pref'].get('nn')
-                if pbm is not None and pnn is not None:
-                    abm = '|'.join(v['alt'].get('nb', []))
-                    ann = '|'.join(v['alt'].get('nn', []))
-                    writer.writerow([
-                        k.encode('utf-8'),
-                        pbm.encode('utf-8'),
-                        pnn.encode('utf-8'),
-                        abm.encode('utf-8'),
-                        ann.encode('utf-8')
-                    ])
-                else:
-                    pass  # for now..
+#         with open('dist/realfagstermer_bm-nn.csv', 'wb') as f:
+#             writer = csv.writer(f, delimiter =',', quotechar ='"',quoting=csv.QUOTE_MINIMAL)
+#             writer.writerow([
+#                 'URI for begrepet',
+#                 'Foretrukket term (bokmål)',
+#                 'Foretrukken term (nynorsk)',
+#                 'Alternative termer (bokmål)',
+#                 'Alternative termar (nynorsk)'
+#             ])
+#             for k, v in concepts.items():
+#                 pbm = v['pref'].get('nb')
+#                 pnn = v['pref'].get('nn')
+#                 if pbm is not None and pnn is not None:
+#                     abm = '|'.join(v['alt'].get('nb', []))
+#                     ann = '|'.join(v['alt'].get('nn', []))
+#                     writer.writerow([
+#                         k.encode('utf-8'),
+#                         pbm.encode('utf-8'),
+#                         pnn.encode('utf-8'),
+#                         abm.encode('utf-8'),
+#                         ann.encode('utf-8')
+#                     ])
+#                 else:
+#                     pass  # for now..
 
-    return {
-        'doc': 'Build bokmaal-nynorsk list',
-        'actions': [build_table],
-        'file_dep': [
-            'src/nynorsk.ttl',
-            'dist/realfagstermer.ttl'
-        ],
-        'targets': [
-            'dist/realfagstermer_bm-nn.csv'
-        ]
-    }
+#     return {
+#         'doc': 'Build bokmaal-nynorsk list',
+#         'actions': [build_table],
+#         'file_dep': [
+#             'src/nynorsk.ttl',
+#             'dist/realfagstermer.ttl'
+#         ],
+#         'targets': [
+#             'dist/realfagstermer_bm-nn.csv'
+#         ]
+#     }
 
 
 def task_stats():
