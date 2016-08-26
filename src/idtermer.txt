@@ -57710,7 +57710,9 @@ te= Karotenoider
 ba= nb
 ba= nm
 nn= Karotenoid
+en= Carotenoids
 tio= 2014-08-25T00:00:00Z
+tie= 2016-08-26T14:14:55Z
 
 id= REAL007603
 te= Querelle
@@ -66702,6 +66704,8 @@ te= Carotenoider
 ba= nk
 nn= Carotenoid
 tio= 2014-08-25T00:00:00Z
+tis= 2016-08-26T14:14:23Z
+fly= REAL007602
 
 id= REAL008784
 te= Datasjakk
