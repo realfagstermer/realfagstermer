@@ -62748,13 +62748,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008277
 te= Efemerider
-ba= na
-ba= nb
-ba= ngh
-nn= Efemerid
-en= Ephemerides
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-15T14:06:08Z
+tis= 2016-08-30T10:57:55Z
 
 id= REAL008278
 te= Utmarker

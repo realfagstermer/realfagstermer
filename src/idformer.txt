@@ -713,3 +713,11 @@ te= Geokjemisk atlas
 tio= 2016-05-24T13:39:56Z
 tie= 2016-05-24T13:39:56Z
 
+id= REAL031719
+te= Efemerider
+nn= Efemerid
+en= Ephemerides
+de= Tabeller over forutberegnede posisjoner for himmellegemer. Brukes også i betydningen astronomisk årbok. (SNL)
+tio= 2016-08-30T10:58:07Z
+tie= 2016-08-30T11:00:55Z
+
