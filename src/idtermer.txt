@@ -98826,9 +98826,11 @@ nn= Ikkje-støkiometri
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012848
-te= Illitter
-nn= Illittar
+te= Illitt
+nn= Illitt
+en= Illite
 tio= 2014-08-25T00:00:00Z
+tie= 2016-08-31T13:12:19Z
 
 id= REAL012849
 te= Imaginære tall
