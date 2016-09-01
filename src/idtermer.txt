@@ -3087,11 +3087,13 @@ te= Misdannelser
 ba= nb
 ba= ns
 bf= Abnormaliteter
+bf= Abnormiteter
 so= REAL002068
 nn= Misdanningar
 nn= Abnormalitetar
+nn= Abnormitetar
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-20T11:44:05Z
+tie= 2016-09-01T13:01:52Z
 
 id= REAL000416
 te= Oppstrømning
