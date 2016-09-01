@@ -113945,13 +113945,14 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL014023
 te= Ørekyte
+bf= Ørekyt
 nn= Ørekyt
 nn= Ørekyte
 en= Common minnow
 la= Phoxinus phoxinus
 dw= 597.482
 tio= 2014-08-25T00:00:00Z
-tie= 2014-11-20T00:00:00Z
+tie= 2016-09-01T10:08:03Z
 
 id= REAL014024
 te= Iso-standarder
@@ -114660,15 +114661,16 @@ tio= 2014-11-17T00:00:00Z
 tie= 2014-11-17T00:00:00Z
 
 id= REAL031251
-te= Fathead minnow
+te= Storhodet ørekyte
+bf= Knölskallelöja
+bf= Storhodet ørekyt
 nn= Storhovda ørekyte
 nn= Storhovda ørekyt
 en= Fathead minnow
 la= Pimephales promelas
-de= Svensk: Knölskallelöja
 dw= 597.482
 tio= 2014-11-20T00:00:00Z
-tie= 2014-11-20T00:00:00Z
+tie= 2016-09-01T10:05:48Z
 
 id= REAL031255
 te= Laplace-operatoren
