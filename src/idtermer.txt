@@ -3778,8 +3778,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000498
 te= Cellegenetikk
-ba= nb
-nn= Cellegenetikk
 tio= 2014-08-25T00:00:00Z
 tis= 2016-08-31T15:18:29Z
 fly= REAL000063
@@ -12875,14 +12873,9 @@ tie= 2014-10-13T00:00:00Z
 
 id= REAL001710
 te= Cestoder
-ba= nb
-nn= Cestodar
 tio= 2014-08-25T00:00:00Z
 tis= 2016-09-01T14:34:55Z
 fly= REAL013876
-st= REAL018627
-st= REAL028341
-st= REAL029601
 
 id= REAL001711
 te= Autonome systemer
@@ -38257,9 +38250,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005033
 te= Celletransport
-ba= nb
-ba= ne
-nn= Celletransport
 tio= 2014-08-25T00:00:00Z
 tis= 2016-09-01T14:03:42Z
 fly= REAL011067
@@ -45726,9 +45716,9 @@ st= REAL021794
 
 id= REAL006045
 te= Integrasjonsteori
-ba= nm
-nn= Integrasjonsteori
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-05T11:48:52Z
+fly= REAL012478
 
 id= REAL006046
 te= Bikarbonat
@@ -56867,12 +56857,16 @@ nn= Aries
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007490
-te= Xylem
+te= Vedvev
 ba= nk
 ba= nb
 ba= nq
+bf= Xylem
+so= REAL010108
 nn= Xylem
+en= Xylem
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-05T11:51:09Z
 
 id= REAL007491
 te= Hydroteknikk
@@ -62528,10 +62522,14 @@ nn= Høgfrekvent
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008242
-te= Floem
+te= Silvev
 ba= nb
+bf= Floem
+so= REAL010108
 nn= Floem
+en= Phloem
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-05T11:51:54Z
 
 id= REAL008243
 te= Generaliserte funksjoner
@@ -73581,8 +73579,6 @@ tie= 2014-09-02T00:00:00Z
 
 id= REAL009713
 te= Cellulære membraner
-ba= nk
-nn= Cellulære membranar
 tio= 2014-08-25T00:00:00Z
 tis= 2016-09-01T14:07:55Z
 fly= REAL011810
@@ -76736,8 +76732,11 @@ id= REAL010108
 te= Treanatomi
 ba= nb
 ba= nq
+so= REAL007490
+so= REAL008242
 nn= Treanatomi
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-05T11:51:55Z
 
 id= REAL010109
 te= Dialgebraer
@@ -87027,14 +87026,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011531
 te= Cephalopoder
-ba= nb
-nn= Cephalopodar
 tio= 2014-08-25T00:00:00Z
 tis= 2016-09-01T14:12:36Z
 fly= REAL012929
-st= REAL016773
-st= REAL021584
-st= REAL025007
 
 id= REAL011532
 te= Biopolymerer
@@ -94822,14 +94816,17 @@ dw= 512.55
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012478
-te= Integrasjon
+te= Integrasjon (matematikk)
 ba= ni
 ba= nm
+bf= Integrasjonsteori
 nn= Integrasjon
+nn= Integrasjonsteori
 en= Integration
 ms= 28
 dw= 515.42
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-05T11:48:40Z
 
 id= REAL012479
 te= Riemannflater
@@ -99605,11 +99602,11 @@ la= Cephalopoda
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-01T14:13:19Z
 st= REAL016658
+st= REAL016773
 st= REAL017501
 st= REAL019553
-st= REAL021995
-st= REAL016773
 st= REAL021584
+st= REAL021995
 st= REAL025007
 
 id= REAL012930
