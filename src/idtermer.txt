@@ -111901,8 +111901,12 @@ id= REAL013850
 te= Vårskrinneblom
 ba= nb
 nn= Vårskrinneblom
-la= Arabidopsis
+en= Mouseear cress
+en= Mouse-ear cress
+en= Thale cress
+la= Arabidopsis thaliana
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-05T12:05:24Z
 
 id= REAL013851
 te= Gressmark
