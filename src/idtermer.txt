@@ -78318,9 +78318,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010301
 te= Ekspansjoner
-ba= nm
-nn= Ekspansjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-07T15:00:17Z
+fly= REAL012492
 
 id= REAL010302
 te= Sosiometri
@@ -94989,16 +94989,18 @@ dw= 515.243
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012492
-te= Utvidelser
+te= Ekspansjon (matematikk)
 ba= nm
-bf= Ekspansjon (matematikk)
+bf= Utvidelser
+bf= Ekspansjoner
 nn= Utvidingar
 nn= Ekspansjon (matematikk)
+nn= Ekspansjonar
 en= Expansions
 ms= 41
 dw= 511.4
 tio= 2014-08-25T00:00:00Z
-tie= 2016-09-07T14:56:33Z
+tie= 2016-09-07T15:00:00Z
 
 id= REAL012493
 te= Fourieranalyse
