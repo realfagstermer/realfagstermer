@@ -6657,6 +6657,8 @@ te= Intracellulær trafikk
 ba= ns
 nn= Intracellulær trafikk
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-08T09:10:30Z
+fly= REAL004521
 
 id= REAL000894
 te= Kreftfremkallende stoffer
@@ -8277,7 +8279,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001105
 te= Celleregulering
 ba= nb
+bf= Cellulær kontroll
 nn= Celleregulering
+nn= Cellulær kontroll
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001106
@@ -34486,7 +34490,9 @@ id= REAL004521
 te= Intracellulær transport
 ba= nb
 ba= ns
+bf= Intracellulær trafikk
 nn= Intracellulær transport
+nn= Intracellulær trafikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004522
@@ -70365,8 +70371,12 @@ fly= REAL006857
 id= REAL009268
 te= Cellestress
 ba= nb
+bf= Cellulært stress
 nn= Cellestress
+en= Cellular stress
+en= Cell stress
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-08T09:09:02Z
 
 id= REAL009269
 te= Radioaktivitetsmålinger
@@ -91317,6 +91327,8 @@ te= Cellulær kontroll
 ba= nb
 nn= Cellulær kontroll
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-08T09:08:09Z
+fly= REAL001105
 
 id= REAL012101
 te= Proteinkinaser
