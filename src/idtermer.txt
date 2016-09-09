@@ -6654,8 +6654,6 @@ tis= 2016-06-14T14:34:12Z
 
 id= REAL000893
 te= Intracellulær trafikk
-ba= ns
-nn= Intracellulær trafikk
 tio= 2014-08-25T00:00:00Z
 tis= 2016-09-08T09:10:30Z
 fly= REAL004521
@@ -91324,8 +91322,6 @@ tie= 2015-05-05T18:37:39Z
 
 id= REAL012100
 te= Cellulær kontroll
-ba= nb
-nn= Cellulær kontroll
 tio= 2014-08-25T00:00:00Z
 tis= 2016-09-08T09:08:09Z
 fly= REAL001105

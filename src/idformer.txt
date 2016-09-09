@@ -344,9 +344,9 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030121
 te= Populærvitenskap
 bf= Populærlitteratur
-no= Unngå å bruke denne! Vi rydder.... for å skille den fra Populærvitenskap. Hvis du virkelig mener at du trenger den, send søknad i fire eksemplarer til emneredaksjonen... ML 5.6.15
 en= Popular science
 tio= 2015-02-20T13:08:04Z
+tie= 2016-09-09T10:56:41Z
 st= REAL031556
 
 id= REAL030122
