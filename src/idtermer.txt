@@ -7466,9 +7466,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000994
 te= Orientering
-ba= nb
-nn= Orientering
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-19T14:52:42Z
+fly= REAL004922
 
 id= REAL000995
 te= Hjelpestoffer
@@ -37449,7 +37449,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004922
 te= Orienteringsevne
 ba= nb
+bf= Orientering
 nn= Orienteringsevne
+nn= Orientering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004923
