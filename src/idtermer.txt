@@ -1490,10 +1490,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000195
 te= Dagliglivet
-ba= nk
-nn= Dagleglivet
 tio= 2014-08-25T00:00:00Z
-st= REAL016491
+tis= 2016-09-23T15:17:47Z
+fly= REAL001696
 
 id= REAL000196
 te= Hamiltonfunksjoner
@@ -12766,9 +12765,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001696
 te= Hverdagsliv
 ba= ngh
+bf= Dagliglivet
 nn= Kvardagsliv
+nn= Dagleglivet
 tio= 2014-08-25T00:00:00Z
 st= REAL023282
+st= REAL016491
 
 id= REAL001697
 te= Flerbrukersystemer
@@ -25955,6 +25957,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003418
 te= Tematisk kartografi
 ba= nb
+so= REAL013990
 nn= Tematisk kartografi
 tio= 2014-08-25T00:00:00Z
 
@@ -51147,10 +51150,13 @@ st= REAL022438
 st= REAL028008
 
 id= REAL006729
-te= Salt-tektonikk
+te= Salttektonikk
 ba= nc
+bf= Salt-tektonikk
+nn= Salttektonikk
 nn= Salt-tektonikk
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-23T15:30:14Z
 st= REAL018052
 
 id= REAL006730
@@ -94183,11 +94189,8 @@ st= REAL025116
 
 id= REAL012427
 te= Ordning
-nn= Ordning
-en= Order
-ms= 06
-dw= 511.33
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-23T15:16:23Z
 
 id= REAL012428
 te= Gittere
@@ -112438,8 +112441,13 @@ id= REAL013895
 te= Databasert kartframstilling
 ba= ngh
 bf= Databasert kartfremstilling
+bf= Databasert kartografi
+so= REAL013990
 nn= Databasert kartframstilling
+nn= Datastøtta kartframstilling
+en= Computer-aided cartography
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-23T15:24:15Z
 
 id= REAL013896
 te= Belysning
@@ -113613,12 +113621,12 @@ ba= na
 ba= nc
 ba= nq
 ba= ns
-bf= Databasert kartografi
-bf= Datastøttet kartografi
+so= REAL013895
+so= REAL003418
 nn= Kartografi
-nn= Databasert kartografi
-nn= Datastøtta kartografi
+en= Cartography
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-23T15:25:14Z
 st= REAL015266
 st= REAL018207
 st= REAL019378
@@ -114106,12 +114114,16 @@ en= Central Processing Unit
 tio= 2014-08-25T00:00:00Z
 
 id= REAL014030
-te= Minnerydding
-bf= Søppeltømming
+te= Minnehåndtering
+bf= Minnerydding
+bf= Søppeltømming (informatikk)
+nn= Minnehandtering
 nn= Minnerydding
-nn= Søppeltømming
+nn= Søppeltømming (informatikk)
 en= Garbage collection
+en= Memory management
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-23T15:34:27Z
 
 id= REAL014031
 te= Dysleksi
@@ -116036,4 +116048,11 @@ nn= Probiotikum
 en= Probiotics
 tio= 2016-07-14T11:05:41Z
 tie= 2016-08-30T10:19:18Z
+
+id= REAL031720
+te= Seismisk risiko
+nn= Seismisk risiko
+en= Seismic risk
+tio= 2016-09-23T15:36:03Z
+tie= 2016-09-23T15:36:20Z
 
