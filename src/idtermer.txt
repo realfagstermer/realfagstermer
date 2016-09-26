@@ -1023,9 +1023,8 @@ st= REAL020206
 
 id= REAL000138
 te= Helsestudier
-ba= ns
-nn= Helsestudium
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-26T10:11:10Z
 
 id= REAL000139
 te= Vegglus
@@ -8952,7 +8951,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001197
 te= Kjerringråd
 ba= ne
+bf= Helseråd
 nn= Kjerringråd
+nn= Helseråd
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001198
@@ -25794,9 +25795,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003396
 te= Helseråd
-ba= ne
-nn= Helseråd
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-26T10:09:31Z
+fly= REAL001197
 
 id= REAL003397
 te= Astrometri
@@ -34138,9 +34139,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004472
 te= Helsearbeid
-ba= ngh
-nn= Helsearbeid
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-26T10:10:12Z
 
 id= REAL004473
 te= Tårnteleskopet
@@ -64712,8 +64712,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008519
 te= Matressurser
 ba= nb
+bf= Matnyttige arter
+bf= Matauk
 nn= Matressursar
+nn= Matnyttige artar
+nn= Matnyttige arter
+nn= Matauk
+nn= Matauke
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-26T10:16:17Z
 
 id= REAL008520
 te= Seretonin
@@ -66599,11 +66606,17 @@ ba= nk
 ba= nb
 ba= ne
 ba= ngh
+bf= Helsestell
+so= REAL011122
 nn= Helsevesen
+nn= Helsestell
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-26T10:08:33Z
 st= REAL015261
 st= REAL021435
 st= REAL029219
+st= REAL023676
+st= REAL028926
 
 id= REAL008771
 te= Flytende helium
@@ -70638,18 +70651,15 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009301
 te= Matnyttige arter
-ba= nb
-nn= Matnyttige artar
-nn= Matnyttige arter
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-26T10:15:43Z
+fly= REAL008519
 
 id= REAL009302
 te= Helsestell
-ba= ne
-nn= Helsestell
 tio= 2014-08-25T00:00:00Z
-st= REAL023676
-st= REAL028926
+tis= 2016-09-26T10:08:13Z
+fly= REAL008770
 
 id= REAL009303
 te= Buffere
@@ -70689,9 +70699,8 @@ st= REAL019837
 
 id= REAL009308
 te= Helsetilstand
-ba= ne
-nn= Helsetilstand
 tio= 2014-08-25T00:00:00Z
+tis= 2016-09-26T10:10:39Z
 
 id= REAL009309
 te= Kvadratiske former
@@ -84134,8 +84143,10 @@ id= REAL011122
 te= Helsetjenester
 ba= ne
 ba= ngh
+so= REAL008770
 nn= Helsetenester
 tio= 2014-08-25T00:00:00Z
+tie= 2016-09-26T10:08:35Z
 
 id= REAL011123
 te= Nattergal
