@@ -343,7 +343,7 @@ def task_stats():
 
         mappingUris = {
             'agrovoc': 'http://aims.fao.org/aos/agrovoc/',
-            'ddc': 'http://data.ub.uio.no/ddc/',
+            'ddc': 'http://dewey.info/',
             'tekord': 'http://data.ub.uio.no/tekord/'
         }
 
