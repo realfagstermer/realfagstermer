@@ -116091,3 +116091,24 @@ en= Quantum measurement theory
 tio= 2016-10-02T01:01:59Z
 tie= 2016-10-02T01:03:31Z
 
+id= REAL031722
+te= Normalforkastninger
+bf= Tensjonsforkastninger
+bf= Strekkforkastninger
+ot= REAL005765
+nn= Normalforkastingar
+nn= Strekkforkastingar
+nn= Tensjonsforkastingar
+en= Normal faults
+en= Extensional faults
+tio= 2016-10-11T17:44:12Z
+tie= 2016-10-11T17:47:08Z
+
+id= REAL031723
+te= Reversforkastninger
+ot= REAL005765
+nn= Reversforkastingar
+en= Reverse faults
+tio= 2016-10-11T17:50:43Z
+tie= 2016-10-11T17:51:06Z
+
