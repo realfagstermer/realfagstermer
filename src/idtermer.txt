@@ -21515,9 +21515,11 @@ te= Dtn
 ba= ni
 no= Delay- and disruption-tolerant networking
 nn= Forseinkingstolerant nettverk
-nn= DTN
 en= Delay- and disruption-tolerant networking
 tio= 2014-08-25T00:00:00Z
+tie= 2016-10-12T14:42:31Z
+tis= 2016-10-12T14:40:34Z
+fly= REAL011998
 
 id= REAL002842
 te= Marinfysiologi
@@ -90775,8 +90777,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011998
 te= Delay- and disruption-tolerant networking
 ba= ni
+no= Delay- and disruption-tolerant networking
 nn= Delay- and disruption-tolerant networking
+nn= Forseinkingstolerant nettverk
+en= Delay- and disruption-tolerant networking
 tio= 2014-08-25T00:00:00Z
+tie= 2016-10-12T14:41:11Z
 
 id= REAL011999
 te= Metall templater
@@ -108253,8 +108259,8 @@ ba= nf
 ba= nm
 nn= Deformasjonar
 en= Deformation
-en= Stresses and strains
 tio= 2014-08-25T00:00:00Z
+tie= 2016-10-12T14:20:22Z
 
 id= REAL013598
 te= Bruer
