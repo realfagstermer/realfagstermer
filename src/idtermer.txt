@@ -25699,10 +25699,10 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-10-12T10:52:15Z
 st= REAL016504
 st= REAL016627
-st= REAL027656
-st= REAL027774
 st= REAL019451
 st= REAL024994
+st= REAL027656
+st= REAL027774
 
 id= REAL003383
 te= Trepleie
@@ -90612,6 +90612,7 @@ te= Formicidae
 ba= nb
 nn= Formicidae
 tio= 2014-08-25T00:00:00Z
+tis= 2016-10-12T13:53:04Z
 
 id= REAL011973
 te= Jiggfiske
