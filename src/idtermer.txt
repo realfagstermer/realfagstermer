@@ -21512,10 +21512,7 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002841
 te= Dtn
-ba= ni
 no= Delay- and disruption-tolerant networking
-nn= Forseinkingstolerant nettverk
-en= Delay- and disruption-tolerant networking
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-12T14:42:31Z
 tis= 2016-10-12T14:40:34Z
@@ -47354,9 +47351,17 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006262
 te= Fast jords fysikk
 ba= nm
+bf= Fast jords geofysikk
+bf= Den faste jordas geofysikk
 nn= Fastjordsfysikk
 nn= Fast jords fysikk
+nn= Fast jords geofysikk
+en= Solid earth physics
+en= Physics of the solid earth
+en= Solid earth geophysics
 tio= 2014-08-25T00:00:00Z
+tie= 2016-10-12T20:31:33Z
+st= REAL014537
 
 id= REAL006263
 te= Hard X-Ray Burst Spectrometer (HXRBS)
@@ -57436,13 +57441,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007559
 te= Fast jords geofysikk
-ba= nc
-bf= Den faste jordas geofysikk
-nn= Fast jords geofysikk
-en= Solid earth geophysics
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-11T18:27:48Z
-st= REAL014537
+tis= 2016-10-12T20:30:24Z
+fly= REAL006262
 
 id= REAL007560
 te= Vitamin-c
@@ -88686,8 +88688,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011728
 te= Chemical abstracts
-ba= nk
-nn= Chemical abstracts
 tio= 2014-08-25T00:00:00Z
 tis= 2016-10-12T15:57:58Z
 fly= REAL014053
@@ -90613,8 +90613,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011972
 te= Formicidae
-ba= nb
-nn= Formicidae
 tio= 2014-08-25T00:00:00Z
 tis= 2016-10-12T13:53:04Z
 
