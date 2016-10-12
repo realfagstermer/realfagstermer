@@ -88689,6 +88689,8 @@ te= Chemical abstracts
 ba= nk
 nn= Chemical abstracts
 tio= 2014-08-25T00:00:00Z
+tis= 2016-10-12T15:57:58Z
+fly= REAL014053
 
 id= REAL011729
 te= Spinnkoblingskonstanter
@@ -114448,7 +114450,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL014053
 te= Cas-nummer
 ba= nk
+bf= Chemical abstracts
 nn= Cas-nummer
+nn= Chemical abstracts
 en= CAS registry number
 tio= 2014-08-25T00:00:00Z
 
