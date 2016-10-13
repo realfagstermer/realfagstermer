@@ -18,7 +18,7 @@ Tips:
 Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 
 * [@bibliomari](https://github.com/bibliomari) :
-  Mari Lundevall, redaksjonsleder og bibliotekar.
+  Mari Lundevall, bibliotekar.
 * [@BioHeidi](https://github.com/BioHeidi) :
   Heidi Konestabo, fagansvar for biovitenskap.
 * [@danmichaelo](https://github.com/danmichaelo) :
@@ -36,7 +36,7 @@ Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 * [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
   Karoline Moe, fagansvar for matematikk.
 * [@violabibaluba](https://github.com/violabibaluba) :
-  Viola Kuldvere, bibliotekar.
+  Viola Kuldvere, **redaksjonsleder** og bibliotekar.
 * Tone Charlotte Gadmar, fagansvar for kjemi.
 * Bente Kathrine Rasch, bibliotekar, fagansvar for farmasi.
 
@@ -45,6 +45,8 @@ Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
   Ingunn Rødland, fagansvar for kjemi.
 * [@Hypsibius](https://github.com/Hypsibius) :
   Hege Folkestad, fagansvar for biovitenskap.
+* [@jw-geo](https://github.com/jw-geo) :
+  Johannes Wiest, student som jobber med klass av geologi.
 * [@mittinatten](https://github.com/mittinatten) :
   Simon Mitternacht, fagansvar for matematikk, informatikk og fysikk (teoretisk).
 * [@mzyg](https://github.com/mzyg) :
