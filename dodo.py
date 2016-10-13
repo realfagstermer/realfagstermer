@@ -18,7 +18,9 @@ config = {
     'dumps_dir_url': get_var('dumps_dir_url', 'http://data.ub.uio.no/dumps'),
     'graph': 'http://data.ub.uio.no/realfagstermer',
     'fuseki': 'http://localhost:3031/ds',
-    'basename': 'realfagstermer'
+    'basename': 'realfagstermer',
+    'git_user': 'ubo-bot',
+    'git_email': 'danmichaelo+ubobot@gmail.com',
 }
 
 DOIT_CONFIG = {
@@ -39,16 +41,7 @@ def task_fetch_core():
         'basename': 'fetch-core',
         'name': None
     }
-    yield {
-        'name': 'git pull',
-        'actions': [
-            'git config user.name "ubo-bot"',
-            'git config user.email "danmichaelo+ubobot@gmail.com"',
-            'git pull',
-            'git config --unset user.name',
-            'git config --unset user.email',
-        ]
-    }
+    yield data_ub_tasks.git_pull_task_gen(config)
     for file in [
         {'remote': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idtermer.txt',
             'local': 'src/idtermer.txt'},
@@ -69,6 +62,7 @@ def task_fetch_core():
                 'remote': file['remote'],
                 'etag_cache': '{}.etag'.format(file['local'])
             })],
+            'task_dep': ['fetch_core:git-pull'],
             'targets': [file['local']]
         }
 
