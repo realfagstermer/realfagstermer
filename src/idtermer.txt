@@ -22550,8 +22550,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002967
 te= Deformasjonsteori
 ba= nm
+bf= Deformering
 nn= Deformasjonsteori
+nn= Deformering
+en= Deformation theory
 tio= 2014-08-25T00:00:00Z
+tie= 2016-10-18T11:32:57Z
 
 id= REAL002968
 te= Elefantapoteket
@@ -74199,9 +74203,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009791
 te= Deformering
-ba= nm
-nn= Deformering
 tio= 2014-08-25T00:00:00Z
+tis= 2016-10-18T11:32:01Z
+fly= REAL002967
 
 id= REAL009792
 te= Artinske ringer
@@ -116189,4 +116193,25 @@ nn= Reversforkastingar
 en= Reverse faults
 tio= 2016-10-11T17:50:43Z
 tie= 2016-10-11T17:51:06Z
+
+id= REAL031725
+te= Deformasjoner (matematikk)
+nn= Deformasjonar (matematikk)
+en= Deformations (mathematics)
+tio= 2016-10-18T11:35:03Z
+tie= 2016-10-18T11:37:35Z
+
+id= REAL031726
+te= Deformasjoner (geologi)
+nn= Deformasjonar (geologi)
+en= Deformations (geology)
+tio= 2016-10-18T11:38:16Z
+tie= 2016-10-18T11:38:58Z
+
+id= REAL031727
+te= Deformasjoner (mekanikk)
+nn= Deformasjonar (mekanikk)
+en= Deformations (mechanics)
+tio= 2016-10-18T11:39:37Z
+tie= 2016-10-18T11:40:24Z
 
