@@ -127,7 +127,7 @@ def task_build_core():
 
 
     return {
-        'doc': 'Build distribution files (RDF/SKOS + MARC21XML) from source files',
+        'doc': 'Build core distribution files (JSON + TTL)',
         'basename': 'build-core',
         'actions': [build],
         'file_dep': [
@@ -186,7 +186,7 @@ def task_build_extras():
         logger.info('Wrote dist/%s.complete.ttl', config['basename'])
 
     return {
-        'doc': 'Build distribution files (RDF/SKOS + MARC21XML) from source files',
+        'doc': 'Build extra distribution files (RDF/SKOS with mappings + MARC21XML)',
         'basename': 'build-extras',
         'actions': [build],
         'file_dep': [

@@ -1152,8 +1152,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000155
 te= Hoggormer
 ba= nb
+bf= Huggormer
 nn= Hoggormar
+nn= Huggormar
+en= Vipers
+la= Vipera sp.
 tio= 2014-08-25T00:00:00Z
+tie= 2016-10-24T09:56:40Z
 
 id= REAL000156
 te= Neodarwinisme
