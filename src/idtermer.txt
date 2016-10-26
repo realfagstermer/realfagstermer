@@ -78461,7 +78461,10 @@ id= REAL010308
 te= Variasjonsmetoden
 ba= nk
 nn= Variasjonsmetoden
+en= Variational method
+de= Approksimasjonsmetode i kvantemekanikk for å finne en øvre grense for egenverdier til en kvantemekanisk observabel med et diskret spektrum
 tio= 2014-08-25T00:00:00Z
+tie= 2016-10-26T15:15:32Z
 st= REAL029195
 
 id= REAL010309
