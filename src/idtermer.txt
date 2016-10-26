@@ -43677,7 +43677,9 @@ ba= nk
 ba= nc
 ba= nf
 ba= nm
+bf= Strømninger
 nn= Strøyming
+nn= Strøymingar
 tio= 2014-08-25T00:00:00Z
 st= REAL029622
 
@@ -55782,9 +55784,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007339
 te= Flerfasesystemer
-ba= nm
-nn= Fleirfasesystem
 tio= 2014-08-25T00:00:00Z
+tis= 2016-10-26T14:34:36Z
 
 id= REAL007340
 te= Feber
@@ -80765,10 +80766,9 @@ st= REAL024370
 
 id= REAL010632
 te= Strømninger
-ba= ni
-ba= ngh
-nn= Strøymingar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-10-26T14:49:36Z
+fly= REAL005769
 
 id= REAL010633
 te= Datakvalitet
@@ -87063,9 +87063,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011521
 te= Flerfasemedier
-ba= nm
-nn= Fleirfasemedium
 tio= 2014-08-25T00:00:00Z
+tis= 2016-10-26T14:32:28Z
+fly= REAL013577
 
 id= REAL011522
 te= Svulster
@@ -108064,10 +108064,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013577
 te= Flerfasestrømning
 ba= nm
-bf= Flerfasestrøm
+bf= Tofasestrømning
+bf= Flerfasemedier
 nn= Fleirfasestrøyming
-nn= Fleirfasestraum
+nn= Tofasestrøyming
+nn= Fleirfasemedium
+en= Multiphase flow
+en= Two-phase flow
+de= Strømning av en blanding av gass, væske og/eller faste partikler, som ikke er fullstendig løst opp i hverandre
 tio= 2014-08-25T00:00:00Z
+tie= 2016-10-26T14:28:42Z
 
 id= REAL013578
 te= Naturforvaltning
