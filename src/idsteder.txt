@@ -192,7 +192,10 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030246
 te= Østersjøen
+bf= Baltiske hav
+en= Baltic Sea
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:20:42Z
 
 id= REAL030247
 te= Hordaland
@@ -446,8 +449,9 @@ te= Preussen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030310
-te= Sogn Og Fjordane
+te= Sogn og Fjordane
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:14:17Z
 
 id= REAL030311
 te= Skåne
@@ -478,6 +482,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030317
 te= Arabia
 tio= 2015-02-20T13:08:04Z
+tis= 2016-11-08T13:23:50Z
+fly= REAL030986
 
 id= REAL030318
 te= Makaronesia
@@ -492,8 +498,11 @@ te= Jotunheimen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030321
-te= Indiske Hav
+te= Indiske hav
+bf= Indiahavet
+bf= Det indiske hav
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:17:27Z
 
 id= REAL030322
 te= Atlanterhavet
@@ -669,7 +678,11 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030363
 te= Sørishavet
+en= Southern Ocean
+en= Antarctic Ocean
+en= Austral Ocean
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:21:28Z
 
 id= REAL030364
 te= Sydpolen
@@ -812,8 +825,10 @@ te= Harvard
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030399
-te= Gutulia Nasjonalpark
+te= Gutulia nasjonalpark
+en= Gutulia National Park
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:29:30Z
 
 id= REAL030400
 te= Guinea-Bissau
@@ -840,8 +855,11 @@ te= Berlin
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030406
-te= Baltiske Hav
+te= Baltiske hav
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:17:48Z
+tis= 2016-11-08T13:19:37Z
+fly= REAL030246
 
 id= REAL030407
 te= Australasia
@@ -1034,8 +1052,9 @@ te= Kongo
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030453
-te= Kaspiske Hav
+te= Kaspiske hav
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:20:15Z
 
 id= REAL030454
 te= Karahavet
@@ -1090,8 +1109,11 @@ te= Finnmarksvidda
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030467
-te= Iberiske Halvøy
+te= Iberiske halvøy
+bf= Den iberiske halvøy
+en= Iberian Peninsula
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:25:50Z
 
 id= REAL030468
 te= Børgefjell
@@ -1282,8 +1304,10 @@ te= Kaukasus
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030516
-te= Karibiske Hav
+te= Karibiske hav
+bf= Det karibiske hav
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:20:11Z
 
 id= REAL030517
 te= Karelen
@@ -1440,7 +1464,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030554
 te= Vadehavet
+en= Wadden Sea
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:21:00Z
 
 id= REAL030555
 te= Tynset
@@ -1459,8 +1485,9 @@ te= Trondheimsfjorden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030559
-te= Tristan Da Cunha
+te= Tristan da Cunha
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:14:45Z
 
 id= REAL030560
 te= Tolga
@@ -1639,6 +1666,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030602
 te= Kong Karls Land
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:33:48Z
 
 id= REAL030603
 te= Kentucky
@@ -1950,9 +1978,11 @@ bf= Alsta
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030680
-te= Arabiske Hav
+te= Arabiske hav
 bf= Arabiahavet
+bf= Det arabiske hav
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:17:42Z
 
 id= REAL030681
 te= USA
@@ -2124,8 +2154,10 @@ te= Sølna
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030722
-te= Szklarska Por_ba
+te= Szklarska Poręba
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:34:46Z
+tis= 2016-11-08T13:41:18Z
 
 id= REAL030723
 te= Sør-Tyskland
@@ -2358,8 +2390,9 @@ te= Møsstrond
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030780
-te= Møre Og Romsdal
+te= Møre og Romsdal
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:26:09Z
 
 id= REAL030781
 te= Mølen
@@ -2652,6 +2685,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030854
 te= Greenwich
 tio= 2015-02-20T13:08:04Z
+tis= 2016-11-08T13:32:43Z
 
 id= REAL030855
 te= Grand Canyon
@@ -2826,8 +2860,11 @@ te= Domkirkeodden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030898
-te= Dominikanske Republikk
+te= Dominikanske republikk
+bf= Den dominikanske republikk
+en= Dominican Republic
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:22:21Z
 
 id= REAL030899
 te= Dolomittene
@@ -2838,8 +2875,11 @@ te= Delft
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030901
-te= Britiske Øyer
+te= Britiske øyer
+bf= De britiske øyer
+en= British Isles
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:24:38Z
 
 id= REAL030902
 te= Davos
@@ -3179,15 +3219,20 @@ tio= 2015-02-20T13:08:04Z
 tie= 2015-02-09T00:00:00Z
 
 id= REAL030986
-te= Arabiske Halvøy
+te= Arabiske halvøy
 ba= nc
+bf= Den arabiske halvøy
+bf= Arabia
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:22:54Z
 
 id= REAL030987
-te= Arktisk-Alpine Områder
+te= Arktisk-alpine områder
 bf= Arktisk-alpine strøk
 bf= Arktisk-alpin region
+en= Arctic–alpine regions
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:28:24Z
 
 id= REAL030988
 te= Askja
@@ -3242,9 +3287,11 @@ bf= Gondwana
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030998
-te= Greenwichmeridianen
+te= Greenwich-meridianen
 ba= na
+bf= Nullmeridianen
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:29:45Z
 
 id= REAL030999
 te= Gullfaks
@@ -3365,8 +3412,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031020
 te= Nullmeridianen
-ba= na
 tio= 2015-02-20T13:08:04Z
+tis= 2016-11-08T13:31:28Z
+fly= REAL030998
 
 id= REAL031021
 te= Oriontåken
@@ -3437,9 +3485,10 @@ ba= ngh
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031033
-te= Subtropiske Områder
+te= Subtropiske områder
 bf= Subtropiske strøk
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:34:15Z
 
 id= REAL031034
 te= Tethys
@@ -3462,9 +3511,10 @@ ba= na
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031038
-te= Varangerhalvøya Nasjonalpark
+te= Varangerhalvøya nasjonalpark
 ba= nb
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-08T13:42:01Z
 
 id= REAL031039
 te= Venus
@@ -3598,14 +3648,16 @@ tio= 2015-02-20T13:08:04Z
 tie= 2014-10-20T00:00:00Z
 
 id= REAL031213
-te= Lipariske Øyer
+te= Lipariske øyer
 bf= Eoliske øyer
+bf= De lipariske øyer
+bf= De eoliske øyer
 en= Aeolian Islands
 en= Lipari Islands
 en= Lipari Group
 de= Lipariske øyer, vulkansk øygruppe i Italia, i Tyrrenske hav, nord for nordøsthjørnet av Sicilia, består av 7 større og 11 mindre øyer, 117 km2. (SNL)
 tio= 2015-02-20T13:08:04Z
-tie= 2014-10-20T00:00:00Z
+tie= 2016-11-08T13:25:08Z
 
 id= REAL031222
 te= Lyngsalpene
@@ -3689,7 +3741,7 @@ tio= 2015-06-08T11:29:59Z
 tie= 2015-06-08T11:30:23Z
 
 id= REAL031466
-te= Den Norske Kyststrømmen
+te= Den norske kyststrømmen
 bf= Norskestrømmen
 nn= Den norske kyststraumen
 nn= Norskestraumen
@@ -3698,7 +3750,7 @@ en= Norwegian Current
 en= Norwegian Coastal Current
 de= Havstrøm langs norskekysten
 tio= 2015-06-12T16:21:33Z
-tie= 2015-06-12T16:24:08Z
+tie= 2016-11-08T13:29:00Z
 
 id= REAL031724
 te= Oman

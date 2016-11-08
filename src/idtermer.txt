@@ -35839,9 +35839,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004697
 te= Fysisk metallurgi
-ba= nk
-nn= Fysisk metallurgi
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-08T13:12:07Z
+fly= REAL011923
 
 id= REAL004698
 te= Dynamisk binding
@@ -74388,13 +74388,14 @@ ba= nf
 ba= ngh
 ba= ns
 bf= Kulldioksid
+bf= CO2
 ak= CO2
 nn= Karbondioksid
 nn= CO2
 nn= Koldioksid
 en= Carbon dioxide
 tio= 2014-08-25T00:00:00Z
-tie= 2016-10-11T18:39:57Z
+tie= 2016-11-08T13:14:01Z
 
 id= REAL009816
 te= Plasmider
@@ -74485,10 +74486,11 @@ nn= Mykotoksikologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009825
-te= Co2-lagring
+te= CO2-lagring
 ba= nc
-nn= Co2-lagring
+nn= CO2-lagring
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-08T13:13:42Z
 
 id= REAL009826
 te= Portretter
@@ -78769,10 +78771,11 @@ nn= Imperialisme
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010350
-te= Co2-avgift
+te= CO2-avgift
 ba= ngh
-nn= Co2-avgift
+nn= CO2-avgift
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-08T13:13:28Z
 
 id= REAL010351
 te= Extensible stylesheet language transformations
@@ -90277,8 +90280,12 @@ id= REAL011923
 te= Fysikalsk metallurgi
 ba= nk
 ba= nf
+bf= Fysisk metallurgi
 nn= Fysikalsk metallurgi
+nn= Fysisk metallurgi
+en= Physical metallurgy
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-08T13:12:37Z
 st= REAL019905
 st= REAL022137
 
@@ -91784,8 +91791,9 @@ so= REAL031515
 nn= Lisp
 nn= Common lisp
 nn= T-lisp
+de= Familie av programmeringsspråk
 tio= 2014-08-25T00:00:00Z
-tie= 2016-01-07T09:31:36Z
+tie= 2016-11-08T13:26:45Z
 
 id= REAL012164
 te= Observasjon
@@ -116229,4 +116237,21 @@ nn= Deformasjonar (mekanikk)
 en= Deformations (mechanics)
 tio= 2016-10-18T11:39:37Z
 tie= 2016-10-18T11:40:24Z
+
+id= REAL031729
+te= Hydrometallurgi
+nn= Hydrometallurgi
+en= Hydrometallurgy
+de= Lære om utvinning av metaller fra råstoff ved hjelp av oppløsning og utfelling
+tio= 2016-11-08T12:50:27Z
+tie= 2016-11-08T12:59:53Z
+
+id= REAL031730
+te= Væske-væske-ekstraksjon
+ak= LLE
+nn= Væske-væske-ekstraksjon
+en= Liquid–liquid extraction
+de= Separasjonmetode som utnytter ulik løselighet i to ikke-blandbare væsker.
+tio= 2016-11-08T13:01:39Z
+tie= 2016-11-08T13:10:04Z
 
