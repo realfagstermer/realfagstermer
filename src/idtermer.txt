@@ -8130,6 +8130,8 @@ ba= ne
 ba= nm
 nn= Differensiering
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-09T16:28:18Z
+fly= REAL009262
 
 id= REAL001082
 te= Offentlig økonomi
@@ -15515,6 +15517,7 @@ bf= Seksuell dimorfisme
 nn= Kjønnsdimorfisme
 nn= Seksuell dimorfisme
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-09T16:29:29Z
 
 id= REAL002067
 te= Talekoding
@@ -16853,8 +16856,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002232
 te= Morfologisk differensiering
 ba= nb
+so= REAL009262
 nn= Morfologisk differensiering
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-09T16:28:41Z
 
 id= REAL002233
 te= Konstruktiv partikkelfysikk
@@ -51544,8 +51549,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006769
 te= Kraniet
 ba= nb
+bf= Hodeskaller
+bf= Kranium
 nn= Kraniet
+nn= Hovudskallar
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-09T16:37:57Z
 
 id= REAL006770
 te= Bysantinsk astronomi
@@ -70455,10 +70464,13 @@ st= REAL024096
 id= REAL009262
 te= Celledifferensiering
 ba= nb
+bf= Differensiering
+so= REAL002232
 nn= Celledifferensiering
+nn= Differensiering
 de= Prosess som en celletype gjennomgår i utviklingen mot en spesialisert celletype (SNL)
 tio= 2014-08-25T00:00:00Z
-tie= 2015-06-30T13:34:15Z
+tie= 2016-11-09T16:29:28Z
 
 id= REAL009263
 te= Smerter
@@ -83036,6 +83048,8 @@ te= Hodeskaller
 ba= nb
 nn= Hovudskallar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-09T16:37:47Z
+fly= REAL006769
 
 id= REAL010948
 te= Organiske borforbindelser
