@@ -10533,6 +10533,8 @@ te= Clifford-analyse
 ba= nm
 nn= Clifford-analyse
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-11T13:44:02Z
+fly= REAL009996
 
 id= REAL001397
 te= Delta
@@ -22576,6 +22578,8 @@ nn= Deformering
 en= Deformation theory
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-18T11:32:57Z
+tis= 2016-11-11T13:46:17Z
+fly= REAL031725
 
 id= REAL002968
 te= Elefantapoteket
@@ -76026,7 +76030,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009996
 te= Clifford-algebra
 ba= nm
+bf= Clifford-analyse
 nn= Clifford-algebra
+nn= Clifford-analyse
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009997
@@ -116295,8 +116301,13 @@ tie= 2016-10-11T17:51:06Z
 
 id= REAL031725
 te= Deformasjoner (matematikk)
+bf= Deformasjonsteori
+bf= Deformering
 nn= Deformasjonar (matematikk)
+nn= Deformasjonsteori
+nn= Deformering
 en= Deformations (mathematics)
+en= Deformation theory
 tio= 2016-10-18T11:35:03Z
 tie= 2016-10-18T11:37:35Z
 
@@ -116337,4 +116348,11 @@ nn= Geodynamisk modellering
 en= Geodynamic modelling
 tio= 2016-11-08T14:10:59Z
 tie= 2016-11-08T14:11:21Z
+
+id= REAL031732
+te= Fiskestimer
+nn= Fiskestimar
+en= Fish schools
+tio= 2016-11-11T13:39:26Z
+tie= 2016-11-11T13:39:52Z
 
