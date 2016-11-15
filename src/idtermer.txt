@@ -59184,11 +59184,12 @@ tio= 2014-08-25T00:00:00Z
 st= REAL028451
 
 id= REAL007785
-te= Dronninger
+te= Dronninger (Insekter)
 ba= nb
 ba= ns
 nn= Dronningar
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-14T16:17:17Z
 st= REAL026286
 
 id= REAL007786
