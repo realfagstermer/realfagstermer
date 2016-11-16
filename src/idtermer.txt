@@ -8124,11 +8124,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001080
 te= Differensiering
-ba= ni
-ba= nb
-ba= ne
-ba= nm
-nn= Differensiering
 tio= 2014-08-25T00:00:00Z
 tis= 2016-11-09T16:28:18Z
 fly= REAL009262
@@ -8208,8 +8203,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001094
 te= Prionsykdommer
 ba= nb
+bf= Kugalskap
+bf= Bovin spongiform encefalopati
+bf= Creutzfeld jakob
+ak= Bse
 nn= Prionsjukdomar
 nn= Prionsjukdommar
+nn= Kugalskap
+nn= Bovin spongiform encefalopati
+nn= Creutzfeld Jakob
+en= Mad cow disease
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001095
@@ -8602,6 +8605,7 @@ nn= Biomekanikk
 en= Biomechanics
 tio= 2014-08-25T00:00:00Z
 st= REAL026978
+st= REAL031734
 
 id= REAL001147
 te= Geomekaniske egenskaper
@@ -10530,8 +10534,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001396
 te= Clifford-analyse
-ba= nm
-nn= Clifford-analyse
 tio= 2014-08-25T00:00:00Z
 tis= 2016-11-11T13:44:02Z
 fly= REAL009996
@@ -22571,11 +22573,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002967
 te= Deformasjonsteori
-ba= nm
-bf= Deformering
-nn= Deformasjonsteori
-nn= Deformering
-en= Deformation theory
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-18T11:32:57Z
 tis= 2016-11-11T13:46:17Z
@@ -25545,6 +25542,7 @@ te= Etnobiologi
 ba= ne
 nn= Etnobiologi
 tio= 2014-08-25T00:00:00Z
+st= REAL031736
 
 id= REAL003360
 te= Sandwichkomplekser
@@ -29491,10 +29489,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003857
 te= Utstillingsteknikk
-ba= nb
-nn= Utstillingsteknikk
 tio= 2014-08-25T00:00:00Z
-st= REAL031427
+tis= 2016-11-15T10:36:02Z
+fly= REAL004359
 
 id= REAL003858
 te= Adaptiv variasjon
@@ -33311,8 +33308,11 @@ id= REAL004359
 te= Museumsteknikk
 ba= nk
 ba= nb
+bf= Utstillingsteknikk
 nn= Museumsteknikk
+nn= Utstillingsteknikk
 tio= 2014-08-25T00:00:00Z
+st= REAL031427
 
 id= REAL004360
 te= Kringkasting
@@ -52264,6 +52264,7 @@ st= REAL031095
 st= REAL031121
 st= REAL031529
 st= REAL031566
+st= REAL031735
 
 id= REAL006865
 te= Lederroller
@@ -80326,6 +80327,7 @@ st= REAL026551
 st= REAL027416
 st= REAL027731
 st= REAL028321
+st= REAL031739
 
 id= REAL010561
 te= Islamsk vitenskapshistorie
@@ -83052,8 +83054,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010946
 te= Hodeskaller
-ba= nb
-nn= Hovudskallar
 tio= 2014-08-25T00:00:00Z
 tis= 2016-11-09T16:37:47Z
 fly= REAL006769
@@ -87809,9 +87809,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011608
 te= Creutzfeld jakob
-ba= ne
-nn= Creutzfeld Jakob
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-15T09:27:10Z
+fly= REAL001094
 
 id= REAL011609
 te= Anonymitet
@@ -88556,6 +88556,7 @@ st= REAL023224
 st= REAL027296
 st= REAL028145
 st= REAL028474
+st= REAL031737
 
 id= REAL011694
 te= Bokstaver
@@ -92614,14 +92615,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012246
 te= Kugalskap
-ba= nk
-ba= nb
-bf= Bovin spongiform encefalopati
-ak= Bse
-nn= Kugalskap
-nn= Bovin spongiform encefalopati
-en= Mad cow disease
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-15T09:26:30Z
+fly= REAL001094
 
 id= REAL012248
 te= Marine plankton
@@ -99841,6 +99837,7 @@ nn= Beinfiskar
 la= Osteichthyes
 de= Klasse av fisker, fisk med kjever som ikke er bruskfisk. Inndeles i kjøttfinnefisker og strålefinnefisker
 tio= 2014-08-25T00:00:00Z
+st= REAL031733
 
 id= REAL012933
 te= Bokproduksjon
@@ -106862,6 +106859,7 @@ st= REAL028548
 st= REAL029434
 st= REAL029461
 st= REAL030031
+st= REAL031738
 
 id= REAL013491
 te= Naturvern
@@ -116356,4 +116354,13 @@ nn= Fiskestimar
 en= Fish schools
 tio= 2016-11-11T13:39:26Z
 tie= 2016-11-11T13:39:52Z
+
+id= REAL031740
+te= Dataassimilasjon
+bf= Dataassimilering
+nn= Dataassimilasjon
+en= Data assimilation
+de= Dataassimilasjon er en metode for å overføre observasjoner av forskjellige variabler inn i matematiske modeller
+tio= 2016-11-15T11:15:41Z
+tie= 2016-11-15T11:18:44Z
 
