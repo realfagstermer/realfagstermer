@@ -102549,8 +102549,10 @@ id= REAL013211
 te= Brødkorgsopper
 bf= Brødkurvsopper
 nn= Brødkorgsoppar
-la= Cyathus, Crucibulum
+en= Bird's nest fungi
+la= Nidulariaceae
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-16T16:23:27Z
 
 id= REAL013212
 te= Buksopper
@@ -103465,8 +103467,10 @@ id= REAL013289
 te= Colobusaper
 nn= Colobusapar
 nn= Colobusaper
+en= Black-and-white colobus
 la= Colobus
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-16T11:17:50Z
 
 id= REAL013290
 te= Utnyttelse
@@ -113230,9 +113234,11 @@ st= REAL021518
 id= REAL013942
 te= Bergamott
 nn= Bergamott
+la= Citrus X aurantium
 la= Citrus bergamia
 de= Medisinplante
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-16T10:30:38Z
 
 id= REAL013943
 te= Elektronenergitapspektroskopi
