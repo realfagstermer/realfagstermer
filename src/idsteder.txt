@@ -1443,8 +1443,9 @@ te= Wien
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030549
-te= Våler
+te= Våler (Østfold)
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-17T10:53:03Z
 
 id= REAL030550
 te= Vågå
@@ -1725,8 +1726,9 @@ te= Hisøy
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030617
-te= Herøy
+te= Herøy (Møre og Romsdal)
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-17T11:20:53Z
 
 id= REAL030618
 te= Heidelberg
@@ -2358,8 +2360,9 @@ te= Nesna
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030772
-te= Nes
+te= Nes (Buskerud)
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-17T11:07:30Z
 
 id= REAL030773
 te= Natal
@@ -2507,8 +2510,9 @@ te= Labrador
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030809
-te= Kåfjord
+te= Kåfjord (Troms)
 tio= 2015-02-20T13:08:04Z
+tie= 2016-11-17T11:11:45Z
 
 id= REAL030810
 te= Kviteseid
@@ -3759,4 +3763,19 @@ nn= Oman
 en= Oman
 tio= 2016-10-14T12:34:48Z
 tie= 2016-10-14T12:35:42Z
+
+id= REAL031741
+te= Våler (Hedmark)
+tio= 2016-11-17T10:54:01Z
+tie= 2016-11-17T10:54:01Z
+
+id= REAL031742
+te= Nes (Akershus)
+tio= 2016-11-17T11:08:28Z
+tie= 2016-11-17T11:08:28Z
+
+id= REAL031743
+te= Kåfjord (Finnmark)
+tio= 2016-11-17T11:12:36Z
+tie= 2016-11-17T11:12:36Z
 

@@ -10308,9 +10308,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001359
 te= Kilder
-ba= nc
-nn= Kjelder
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-17T11:17:09Z
 
 id= REAL001360
 te= Gasstrømning
@@ -21308,9 +21307,14 @@ ba= na
 ba= nf
 ba= ngh
 ba= nm
+bf= Statistisk fysikk
 nn= Statistisk mekanikk
+nn= Statistisk fysikk
+en= Statistical physics
 tio= 2014-08-25T00:00:00Z
 st= REAL017536
+st= REAL025134
+st= REAL026048
 st= REAL028582
 
 id= REAL002810
@@ -41781,10 +41785,11 @@ ba= nq
 ba= ns
 bf= Bærekraftighet
 bf= Bæredyktighet
+bf= Bærekraft
 nn= Berekraftig utvikling
 nn= Berekraft
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-19T15:34:07Z
+tie= 2016-11-17T12:50:57Z
 st= REAL021557
 st= REAL021607
 st= REAL022675
@@ -55408,7 +55413,9 @@ te= Rettstoksikologi
 ba= nk
 ba= ne
 nn= Rettstoksikologi
+en= Forensic toxicology
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-17T09:47:39Z
 
 id= REAL007281
 te= Jordas geofysikk
@@ -86901,9 +86908,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011487
 te= Priser
-ba= nm
-nn= Prisar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-17T10:59:40Z
 
 id= REAL011488
 te= Sukker
@@ -87731,11 +87737,9 @@ st= REAL031171
 
 id= REAL011598
 te= Væskefysikk
-ba= nk
-ba= nf
-ba= nm
-nn= Væskefysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-17T13:14:46Z
+fly= REAL013743
 
 id= REAL011599
 te= Regler
@@ -101723,19 +101727,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013130
 te= Statistisk fysikk
-ba= nk
-ba= na
-ba= nf
-ba= ngh
-ba= nm
-nn= Statistisk fysikk
-en= Statistical physics
-ms= 82
-dw= 530.10151
 tio= 2014-08-25T00:00:00Z
-st= REAL017869
-st= REAL025134
-st= REAL026048
+tis= 2016-11-17T13:13:26Z
+fly= REAL002809
 
 id= REAL013131
 te= Materiens struktur
@@ -110053,12 +110047,16 @@ ba= nf
 ba= ngh
 ba= nm
 bf= Væskemekanikk
+bf= Væskefysikk
+so= REAL013744
 nn= Fluidmekanikk
 nn= Væskemekanikk
+nn= Væskefysikk
 en= Fluid mechanics
 ms= 76
 dw= 532
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-17T13:15:16Z
 st= REAL014181
 st= REAL014946
 st= REAL015055
@@ -110083,13 +110081,14 @@ ba= nm
 bf= Væskedynamikk
 bf= Strømningsmekanikk
 bf= Strømningslære
+so= REAL013743
 nn= Fluiddynamikk
 nn= Væskedynamikk
 nn= Strøymingsmekanikk
 nn= Strøymingslære
 en= Fluid dynamics
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-08T14:01:29Z
+tie= 2016-11-17T13:15:24Z
 st= REAL015040
 
 id= REAL013745
@@ -111497,6 +111496,8 @@ st= REAL029838
 st= REAL030021
 st= REAL031547
 st= REAL031700
+st= REAL031755
+st= REAL031756
 
 id= REAL013827
 te= Fisker
@@ -116369,4 +116370,74 @@ en= Data assimilation
 de= Dataassimilasjon er en metode for å overføre observasjoner av forskjellige variabler inn i matematiske modeller
 tio= 2016-11-15T11:15:41Z
 tie= 2016-11-15T11:18:44Z
+
+id= REAL031744
+te= Liabum
+nn= Liabum
+la= Liabum
+de= Liabum er en slekt av kurvblomster i Sør-Amerika.
+tio= 2016-11-17T11:32:44Z
+tie= 2016-11-17T11:34:21Z
+st= REAL031745
+
+id= REAL031746
+te= Haier og skater
+nn= Haiar og skater
+en= Elasmobranchs
+la= Elasmobranchii
+tio= 2016-11-17T13:18:50Z
+tie= 2016-11-17T13:21:36Z
+st= REAL031747
+
+id= REAL031748
+te= Halvgrasfamilien
+bf= Halvgras
+bf= Halvgressfamilien
+bf= Halvgress
+bf= Starrfamilien
+nn= Halvgrasfamilien
+nn= Halvgras
+nn= Storrfamilien
+en= Sedges
+la= Cyperaceae
+tio= 2016-11-17T14:02:16Z
+tie= 2016-11-17T14:04:03Z
+
+id= REAL031749
+te= Historikere
+nn= Historikarar
+tio= 2016-11-17T14:21:27Z
+tie= 2016-11-17T14:22:02Z
+st= REAL031750
+
+id= REAL031751
+te= Rust
+nn= Rust
+de= Programmeringsspåk
+tio= 2016-11-17T14:40:24Z
+tie= 2016-11-17T14:43:51Z
+
+id= REAL031752
+te= Swift
+nn= Swift
+en= Swift
+de= Programmeringsspråk
+tio= 2016-11-17T14:41:47Z
+tie= 2016-11-17T14:43:02Z
+
+id= REAL031753
+te= Geoinformatikk
+en= Geoinformatics
+tio= 2016-11-17T14:49:51Z
+tie= 2016-11-17T14:50:15Z
+
+id= REAL031754
+te= Kiselstein
+bf= Chert
+bf= Kiselskifer
+nn= Kiselstein
+en= Chert
+de= Sedimentær bergart eller mineralmasse sammensatt av meget finkornet kvarts.
+tio= 2016-11-17T14:57:15Z
+tie= 2016-11-17T15:00:29Z
 
