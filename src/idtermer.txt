@@ -6288,10 +6288,8 @@ st= REAL029135
 
 id= REAL000831
 te= Allokton
-ba= nb
-nn= Allokton
 tio= 2014-08-25T00:00:00Z
-st= REAL014812
+tis= 2016-11-18T13:36:54Z
 
 id= REAL000832
 te= Hadronstruktur
@@ -11098,9 +11096,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001467
 te= Allemannsrett
-ba= nb
-nn= Allemannsrett
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-18T12:33:53Z
 
 id= REAL001468
 te= Kommutativ homologi-teori
@@ -11517,9 +11514,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001524
 te= Algebraisk manipulering
-ba= nm
-nn= Algebraisk manipulering
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-18T13:17:55Z
 
 id= REAL001525
 te= Fjellområder
@@ -14803,12 +14799,14 @@ nn= Difenyleterar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001970
-te= Consistent force field
+te= Kraftfelt (kjemi)
 ba= nk
+bf= Consistent force field
 ak= CFF
-nn= Consistent force field
-nn= CFF
+nn= Kraftfelt (kjemi)
+en= Force field
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-18T13:19:11Z
 
 id= REAL001971
 te= Algebraiske funksjoner
@@ -42991,10 +42989,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005681
 te= Solvendel
 ba= ns
+bf= Solsikke
 nn= Solvendel
+nn= Solsikke
 la= Helianthus
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-13T00:00:00Z
+tie= 2016-11-18T14:39:02Z
 
 id= REAL005682
 te= Programarkitektur
@@ -46949,12 +46949,14 @@ ba= nb
 ba= nq
 bf= Tang
 bf= Tare
+bf= Marine makroalger
 so= REAL013637
 so= REAL013636
 so= REAL010517
 nn= Makroalgar
 nn= Tang
 nn= Tare
+nn= Marine makroalgar
 tio= 2014-08-25T00:00:00Z
 st= REAL017995
 st= REAL022009
@@ -50926,9 +50928,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006693
 te= Marine makroalger
-ba= nb
-nn= Marine makroalgar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-18T14:27:11Z
+fly= REAL006200
 
 id= REAL006694
 te= Petroleumsgeologi
@@ -57364,11 +57366,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007540
 te= Device independent
-ba= ni
-ak= DVI
-nn= Device independent
-en= Device independent
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-18T12:27:50Z
 
 id= REAL007541
 te= Naturfag
@@ -86164,7 +86163,9 @@ te= Algebraisk spesifikasjon
 ba= ni
 nn= Algebraisk spesifikasjon
 en= Algebraic specification
+de= En formell matematisk beskrivelse av en abstrakt datatype (ADT)
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-18T13:23:47Z
 st= REAL023051
 
 id= REAL011386
@@ -102532,12 +102533,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013210
 te= Broddsopper
-ba= nb
-nn= Broddsoppar
-la= Hymenochaete
 tio= 2014-08-25T00:00:00Z
-st= REAL021309
-st= REAL022964
+tis= 2016-11-18T15:08:55Z
 
 id= REAL013211
 te= Brødkorgsopper
@@ -114648,11 +114645,15 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL031091
 te= Tindved
+bf= Havtorn
+bf= Tinnved
 nn= Tindved
+nn= Havtorn
+nn= Tinnved
 en= Seabuckthorn
 la= Hippophae
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-19T16:53:57Z
+tie= 2016-11-18T15:06:35Z
 
 id= REAL031092
 te= Arkitekturfaget
@@ -116427,9 +116428,10 @@ tie= 2016-11-17T14:43:02Z
 
 id= REAL031753
 te= Geoinformatikk
+nn= Geoinformatikk
 en= Geoinformatics
 tio= 2016-11-17T14:49:51Z
-tie= 2016-11-17T14:50:15Z
+tie= 2016-11-18T12:52:48Z
 
 id= REAL031754
 te= Kiselstein
