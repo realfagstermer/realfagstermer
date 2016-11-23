@@ -830,12 +830,8 @@ st= REAL025249
 
 id= REAL000111
 te= Alpeplanter
-ba= nq
-nn= Alpeplanter
-nn= Alpeplantar
 tio= 2014-08-25T00:00:00Z
-st= REAL014508
-st= REAL020667
+tis= 2016-11-22T15:35:28Z
 
 id= REAL000112
 te= Digitale lasere
@@ -931,10 +927,9 @@ st= REAL023630
 
 id= REAL000125
 te= Alpin økologi
-ba= nb
-ba= ngh
-nn= Alpin økologi
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:37:36Z
+fly= REAL000806
 
 id= REAL000126
 te= Kompakte stjerner
@@ -2907,13 +2902,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000386
 te= Alpin vegetasjon
-ba= nb
-ba= nq
-nn= Alpin vegetasjon
 tio= 2014-08-25T00:00:00Z
-st= REAL017677
-st= REAL026019
-st= REAL027821
+tis= 2016-11-22T15:35:56Z
+fly= REAL012608
 
 id= REAL000387
 te= Motorsykler
@@ -6131,7 +6122,11 @@ id= REAL000806
 te= Fjelløkologi
 ba= nb
 ba= ngh
+bf= Alpin økologi
+bf= Alpine økosystemer
 nn= Fjelløkologi
+nn= Alpin økologi
+nn= Alpine økosystem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000807
@@ -8945,9 +8940,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001194
 te= Fosfororganiske forbindelser
-ba= nk
-nn= Fosfororganiske sambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:16:34Z
+fly= REAL006790
 
 id= REAL001195
 te= Termiske metoder
@@ -13029,10 +13024,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001729
 te= Analytisk matematikk
-ba= nb
-ba= nm
-nn= Analytisk matematikk
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:26:48Z
 
 id= REAL001730
 te= Distriktsutbygging
@@ -22376,9 +22369,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002944
 te= Organofosfor
-ba= nk
-nn= Organofosfor
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:16:44Z
+fly= REAL006790
 
 id= REAL002945
 te= Museumsgjenstander
@@ -28177,9 +28170,9 @@ st= REAL029644
 
 id= REAL003698
 te= Dialgebra
-ba= nm
-nn= Dialgebra
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T16:07:59Z
+fly= REAL010109
 
 id= REAL003699
 te= Osmose
@@ -33528,10 +33521,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004385
 te= Intellektuell eiendom
 ba= ns
+bf= Åndsverk
 nn= Intellektuell eigedom
+nn= Åndsverk
 en= Intellectual property
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-17T15:17:40Z
+tie= 2016-11-22T15:39:17Z
 
 id= REAL004386
 te= Dielektrika
@@ -34824,9 +34819,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004558
 te= Organiske fosforforbindelser
-ba= nk
-nn= Organiske fosforsambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:15:47Z
+fly= REAL006790
 
 id= REAL004559
 te= Elektrisitet
@@ -40016,6 +40011,7 @@ id= REAL005265
 te= Fosfater
 ba= nb
 ba= nc
+bf= Fosfat
 nn= Fosfat
 tio= 2014-08-25T00:00:00Z
 st= REAL015322
@@ -40318,7 +40314,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005310
 te= Ontogenese
 ba= nb
+bf= Ontogeni
 nn= Ontogenese
+nn= Ontogeni
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005311
@@ -45171,9 +45169,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005964
 te= Deviations
-ba= nm
-nn= Deviations
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T16:05:13Z
+fly= REAL011226
 
 id= REAL005965
 te= Næringsmidler
@@ -49119,10 +49117,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006463
 te= Alpine økosystemer
-ba= nb
-ba= ngh
-nn= Alpine økosystem
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:36:51Z
+fly= REAL000125
 
 id= REAL006465
 te= Cellulære automater
@@ -51700,7 +51697,13 @@ id= REAL006790
 te= Fosforforbindelser
 ba= nk
 ba= ns
+bf= Organiske fosforforbindelser
+bf= Fosfororganiske forbindelser
+bf= Organofosfor
 nn= Fosforsambindingar
+nn= Organiske fosforsambindingar
+nn= Fosfororganiske sambindingar
+nn= Organofosfor
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006792
@@ -76905,7 +76908,9 @@ tie= 2016-09-05T11:51:55Z
 id= REAL010109
 te= Dialgebraer
 ba= nm
+bf= Dialgebra
 nn= Dialgebraer
+nn= Dialgebra
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010110
@@ -81471,9 +81476,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010720
 te= Deviasjon
-ba= ns
-nn= Deviasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T16:05:57Z
 
 id= REAL010721
 te= Vandringer
@@ -81496,9 +81500,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010724
 te= Antogeni
-ba= nb
-nn= Antogeni
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:50:25Z
 
 id= REAL010725
 te= Reguleringsplaner
@@ -84988,7 +84991,10 @@ te= Avvik
 ba= ni
 ba= nm
 nn= Avvik
+en= Deviation
+en= Deviations
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-22T16:05:40Z
 
 id= REAL011227
 te= Symmetrigrupper
@@ -85393,9 +85399,9 @@ st= REAL023687
 
 id= REAL011285
 te= Fosfat
-ba= ne
-nn= Fosfat
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:11:16Z
+fly= REAL005265
 
 id= REAL011286
 te= Modified Neglect of Differential Overlap
@@ -86878,9 +86884,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011481
 te= Fosfatsyklus
-ba= nc
-nn= Fosfatsyklus
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:12:48Z
 
 id= REAL011483
 te= Prolog
@@ -88454,9 +88459,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011684
 te= Ontogeni
-ba= nb
-nn= Ontogeni
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-22T15:51:05Z
+fly= REAL005310
 
 id= REAL011685
 te= Tolegemeproblemet
@@ -96317,6 +96322,7 @@ bf= Fjellvegetasjon
 bf= Fjellskog
 bf= Alpin flora
 bf= Alpine planter
+bf= Alpin vegetasjon
 nn= Fjellplanter
 nn= Alpin flora
 nn= Alpine plantar
@@ -96327,6 +96333,7 @@ nn= Fjellfloraer
 nn= Fjellplantar
 nn= Fjellskog
 nn= Fjellvegetasjon
+nn= Alpin vegetasjon
 tio= 2014-08-25T00:00:00Z
 st= REAL015063
 st= REAL015421
@@ -96358,6 +96365,7 @@ st= REAL027574
 st= REAL027666
 st= REAL029632
 st= REAL029906
+st= REAL017677
 
 id= REAL012609
 te= Alternative energikilder
