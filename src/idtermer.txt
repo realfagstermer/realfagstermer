@@ -6337,7 +6337,9 @@ te= Dekomposisjon
 ba= ni
 nn= Dekomposisjon
 en= Decomposition
+de= Splitte et komplekst problem eller system opp i enklere deler. Brukt i matematikk og programmering.
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-23T13:49:12Z
 
 id= REAL000841
 te= Fargemodeller
@@ -7317,11 +7319,17 @@ tie= 2015-01-26T00:00:00Z
 id= REAL000975
 te= Sprekker
 ba= nc
+bf= Fjellsprekker
+so= REAL007965
 nn= Sprekkar
 nn= Sprekker
-en= Fractures
+nn= Fjellsprekkar
+nn= Fjellsprekker
+en= Joints
+en= Tensile fractures
+de= Bruddflater hvor det ikke har foregått synlig forskyving langs flaten
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-08T14:06:10Z
+tie= 2016-11-23T14:13:49Z
 
 id= REAL000976
 te= General electric company
@@ -33530,9 +33538,9 @@ tie= 2016-11-22T15:39:17Z
 
 id= REAL004386
 te= Dielektrika
-ba= nf
-nn= Dielektrika
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-23T12:45:03Z
+fly= REAL011883
 
 id= REAL004387
 te= Biologiske prøver
@@ -42030,10 +42038,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005552
 te= Fjellsprekker
-ba= nc
-nn= Fjellsprekkar
-nn= Fjellsprekker
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-23T14:12:44Z
+fly= REAL000975
 
 id= REAL005553
 te= Statistisk metodelære
@@ -47863,8 +47870,11 @@ te= Geomatematikk
 ba= nc
 ba= ngh
 ba= nm
+bf= Matematisk geologi
 nn= Geomatematikk
+nn= Matematisk geologi
 tio= 2014-08-25T00:00:00Z
+st= REAL025025
 
 id= REAL006318
 te= Scintillatorer
@@ -53820,6 +53830,7 @@ nn= Plast
 tio= 2014-08-25T00:00:00Z
 st= REAL022421
 st= REAL027294
+st= REAL031757
 
 id= REAL007072
 te= Molekylær evolusjon
@@ -54762,11 +54773,9 @@ st= REAL025979
 
 id= REAL007190
 te= Mikrobølgedekomponering
-ba= nk
-nn= Mikrobølgjedekomponering
-nn= Mikrobylgjedekomponering
-nn= Mikrobølgedekomponering
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-23T13:50:20Z
+fly= REAL009323
 
 id= REAL007191
 te= Invariante mål
@@ -60042,9 +60051,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007903
 te= Fotonedbrytning
-ba= ne
-nn= Fotonedbryting
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-23T13:50:46Z
+fly= REAL012252
 
 id= REAL007904
 te= Konstruktivisme
@@ -60513,9 +60522,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007965
 te= Brudd
 ba= nm
+so= REAL000975
 nn= Brot
 nn= Brott
+en= Fractures
+de= Allmen betegnelse for en oppbryting som skyldes mekaniske spenninger i berggrunnen.
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-23T14:14:04Z
 
 id= REAL007966
 te= Giftige edderkoppdyr
@@ -60834,10 +60847,9 @@ st= REAL031525
 
 id= REAL008001
 te= Matematisk geologi
-ba= nc
-nn= Matematisk geologi
 tio= 2014-08-25T00:00:00Z
-st= REAL025025
+tis= 2016-11-23T14:09:46Z
+fly= REAL006317
 
 id= REAL008002
 te= Katodestråler
@@ -62522,7 +62534,9 @@ nn= Sidedeling
 nn= Skrivebordsats
 nn= Skrivebordssetting
 en= Digital typography
+en= Desktop publishing
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-23T12:41:45Z
 
 id= REAL008225
 te= Skoggrenser
@@ -67090,9 +67104,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008820
 te= Aminoforbindelser
-ba= nk
-nn= Aminosambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-23T13:26:32Z
+fly= REAL010154
 
 id= REAL008821
 te= Windows
@@ -70923,8 +70937,14 @@ id= REAL009323
 te= Dekomponering
 ba= nk
 ba= nb
+bf= Mikrobølgedekomponering
 nn= Dekomponering
+nn= Mikrobølgjedekomponering
+nn= Mikrobylgjedekomponering
+nn= Mikrobølgedekomponering
+de= Spalting av et stoff i mindre bestanddeler (kjemi)
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-23T13:41:28Z
 
 id= REAL009324
 te= SGML
@@ -74008,9 +74028,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009753
 te= Desktop
-ba= nm
-nn= Desktop
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-23T12:39:47Z
+fly= REAL008224
 
 id= REAL009754
 te= Gasskinetikk
@@ -77250,7 +77270,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010154
 te= Aminer
 ba= nk
+bf= Aminoforbindelser
 nn= Amin
+nn= Aminosambindingar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010155
@@ -89114,8 +89136,12 @@ ba= nk
 ba= nb
 ba= ngh
 bf= Nedbryting
+bf= Biologisk nedbrytning
+so= REAL013609
 nn= Nedbryting
+de= Biologisk nedbrytning
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-23T13:52:38Z
 st= REAL016764
 st= REAL017057
 st= REAL028350
@@ -90007,7 +90033,9 @@ te= Dielektrisitet
 ba= nk
 ba= nf
 ba= ns
+bf= Dielektrika
 nn= Dielektrisitet
+nn= Dielektrika
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011884
@@ -92667,14 +92695,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012252
 te= Fotokjemisk nedbrytning
 ba= nk
+bf= Fotonedbrytning
 nn= Fotokjemisk nedbryting
+nn= Fotonedbryting
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012253
 te= Naturlig nedbrytning
-ba= nk
-nn= Naturleg nedbryting
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-23T13:53:00Z
 
 id= REAL012254
 te= Jordas bæreevne
@@ -96339,6 +96368,7 @@ st= REAL015063
 st= REAL015421
 st= REAL016323
 st= REAL017361
+st= REAL017677
 st= REAL018129
 st= REAL018305
 st= REAL018501
@@ -96365,7 +96395,6 @@ st= REAL027574
 st= REAL027666
 st= REAL029632
 st= REAL029906
-st= REAL017677
 
 id= REAL012609
 te= Alternative energikilder
@@ -108507,6 +108536,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013609
 te= Kompostering
 bf= Kompost
+so= REAL011768
 nn= Kompostering
 nn= Kompost
 tio= 2014-08-25T00:00:00Z
