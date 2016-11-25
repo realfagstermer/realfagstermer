@@ -10802,7 +10802,9 @@ te= Kjernebrensel
 ba= nf
 nn= Kjernebrensel
 nn= Kjernebrensle
+en= Nuclear fuel
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-24T17:45:00Z
 
 id= REAL001435
 te= Seismisk aktivitet
@@ -15482,13 +15484,16 @@ ba= nk
 ba= nf
 bf= Nukleær fisjon
 bf= Kjernefysisk fisjon
+bf= Kjernefisjon
+bf= Kjernespalting
 so= REAL004003
 nn= Fisjon
 nn= Kjernefysisk fisjon
 nn= Nukleær fisjon
+nn= Kjernefisjon
 en= Nuclear fission
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-21T13:03:57Z
+tie= 2016-11-24T18:41:30Z
 st= REAL024710
 
 id= REAL002063
@@ -21569,8 +21574,13 @@ st= REAL029010
 id= REAL002844
 te= Elektriske utladninger
 ba= nf
+bf= Lysbuer
 nn= Elektriske utladingar
+nn= Lysbogar
+en= Electric discharges
+en= Electric arcs
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-24T14:52:23Z
 st= REAL023349
 
 id= REAL002845
@@ -30964,11 +30974,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004055
 te= Atomkrig
-ba= nb
-ba= nf
-ba= ngh
-nn= Atomkrig
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-24T17:39:35Z
+fly= REAL006606
 
 id= REAL004056
 te= Diskret geometri
@@ -34931,9 +34939,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004570
 te= Kjerneegenskaper
-ba= nk
-nn= Kjerneeigenskapar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-24T17:56:25Z
 
 id= REAL004571
 te= Egenverdier
@@ -35053,8 +35060,10 @@ st= REAL027501
 id= REAL004585
 te= Syklotroner
 ba= nf
+ot= REAL005781
 nn= Syklotron
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-24T17:43:32Z
 
 id= REAL004586
 te= Synteser
@@ -39269,9 +39278,8 @@ fly= REAL011631
 
 id= REAL005164
 te= Kjernefysisk vinter
-ba= nb
-nn= Kjernefysisk vinter
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-24T17:40:58Z
 
 id= REAL005165
 te= Malmer
@@ -43814,13 +43822,15 @@ te= Partikkelakseleratorer
 ba= nf
 bf= Kollisjonsmaskiner
 bf= Superkollisjonsmaskiner
+ut= REAL006945
+ut= REAL004585
 nn= Partikkelakseleratorar
 en= Particle accelerators
 en= Colliders
 en= Atom smashers
 en= Supercolliders
 tio= 2014-08-25T00:00:00Z
-tie= 2016-10-02T01:09:46Z
+tie= 2016-11-24T17:43:32Z
 st= REAL014088
 st= REAL021288
 st= REAL027100
@@ -45114,10 +45124,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005954
 te= Kjernefysiske eksplosjoner
-ba= nk
-ba= nf
-nn= Kjernefysiske eksplosjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-24T18:02:33Z
 
 id= REAL005955
 te= Informasjonstilgang
@@ -50299,10 +50307,18 @@ nn= Partisjonar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006606
-te= Kjernefysisk krig
+te= Kjernefysisk krigføring
 ba= nb
+bf= Kjernefysisk krig
+bf= Atomkrig
+so= REAL012707
+nn= Kjernefysisk krigføring
 nn= Kjernefysisk krig
+nn= Atomkrig
+en= Nuclear warfare
+en= Nuclear war
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-24T17:42:11Z
 
 id= REAL006607
 te= Antisemittisme
@@ -52913,8 +52929,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006945
 te= Lineære akseleratorer
 ba= nf
+ot= REAL005781
 nn= Lineære akseleratorar
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-24T17:43:03Z
 
 id= REAL006946
 te= Dialektikk
@@ -62698,11 +62716,13 @@ nn= Seksuell reproduksjon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008248
-te= Kjernestrukturer
+te= Kjernestruktur
 ba= nk
 ba= ns
-nn= Kjernestrukturar
+nn= Kjernestruktur
+en= Nuclear structure
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-24T15:16:36Z
 
 id= REAL008249
 te= Kinabark
@@ -97631,13 +97651,14 @@ ba= ns
 bf= Kjernevåpen
 bf= Atombomber
 bf= Kjernefysiske våpen
+so= REAL006606
 nn= Atomvåpen
 nn= Atombomber
 nn= Kjernefysiske våpen
 nn= Kjernevåpen
 en= Nuclear weapons
 tio= 2014-08-25T00:00:00Z
-tie= 2014-09-29T00:00:00Z
+tie= 2016-11-24T17:42:09Z
 st= REAL015215
 st= REAL015264
 st= REAL016351
@@ -116480,4 +116501,15 @@ en= Chert
 de= Sedimentær bergart eller mineralmasse sammensatt av meget finkornet kvarts.
 tio= 2016-11-17T14:57:15Z
 tie= 2016-11-17T15:00:29Z
+
+id= REAL031758
+te= Eksotiske kjerner
+bf= Eksotiske atomkjerner
+bf= Eksotiske atomer
+nn= Eksotiske kjernar
+nn= Eksotiske atomkjernar
+nn= Eksotiske atom
+de= atomkjerner der forholdet mellom antall nøytroner og antall protoner er mye større eller mye mindre enn i naturlige atomkjerner [SNL]
+tio= 2016-11-24T18:53:17Z
+tie= 2016-11-24T19:00:37Z
 
