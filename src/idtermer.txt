@@ -10531,6 +10531,7 @@ te= Oksidativt stress
 ba= nb
 nn= Oksidativt stress
 tio= 2014-08-25T00:00:00Z
+st= REAL031759
 
 id= REAL001396
 te= Clifford-analyse
@@ -16124,9 +16125,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002136
 te= Stressfaktorer
-ba= nb
-nn= Stressfaktorar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-25T14:08:11Z
+fly= REAL008655
 
 id= REAL002137
 te= Sylinderfunksjoner
@@ -17931,9 +17932,8 @@ st= REAL028955
 
 id= REAL002373
 te= Antigenpresentering
-ba= nb
-nn= Antigenpresentering
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-25T11:41:36Z
 
 id= REAL002374
 te= Organiske reaksjonsmekanismer
@@ -33943,9 +33943,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004436
 te= Gittertyper
-ba= ngh
-nn= Gittertypar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-25T13:35:01Z
 
 id= REAL004437
 te= Kommunal veiledning
@@ -65868,7 +65867,11 @@ ba= nb
 ba= ne
 ba= nq
 ba= ns
+bf= Stresstoleranse
+bf= Stressfaktorer
 nn= Stress
+nn= Stresstoleranse
+nn= Stressfaktorar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008656
@@ -71940,9 +71943,11 @@ te= Bygg
 ba= nb
 ba= nm
 nn= Bygg
+en= Barley
+la= Hordeum vulgare
 de= Plante i byggslekten
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-20T13:04:30Z
+tie= 2016-11-25T14:13:11Z
 st= REAL023922
 
 id= REAL009463
@@ -73092,9 +73097,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009620
 te= Ikke-lineære krystallgitter
-ba= nm
-nn= Ikkje-lineære krystallgitter
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-25T15:09:21Z
 
 id= REAL009621
 te= Massespektrometri
@@ -77053,10 +77057,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010123
 te= Phase transfer catalysis
-ba= nk
-ak= PTC
-nn= Faseoverføringskatalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-25T15:58:36Z
+fly= REAL010396
 
 id= REAL010124
 te= Offentlige nøkler
@@ -79207,8 +79210,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010396
 te= Faseoverføringskatalyse
 ba= nk
+ak= PTC
 nn= Faseoverføringskatalyse
+en= Phase transfer catalysis
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-25T15:59:00Z
 
 id= REAL010397
 te= Viskosimetri
@@ -81042,11 +81048,9 @@ st= REAL021756
 
 id= REAL010651
 te= Lattice qcd
-ba= ni
-ak= QCD
 no= Lattice quantum chromodynamics
-nn= Lattice QCD
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-25T13:16:20Z
 
 id= REAL010652
 te= Sandsteiner
@@ -84164,10 +84168,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011097
 te= Stresstoleranse
-ba= nb
-ba= nq
-nn= Stresstoleranse
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-25T14:07:54Z
+fly= REAL008655
 
 id= REAL011098
 te= Monosakkarider
@@ -88858,9 +88861,12 @@ id= REAL011733
 te= Kokkolitter
 ba= nc
 bf= Coccolitter
+so= REAL031484
 nn= Kokkolittar
 nn= Coccolittar
+de= Bergartsdannende bestanddel i kalkstein/kalksediment
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-25T11:24:25Z
 
 id= REAL011734
 te= Viltskader
@@ -115789,13 +115795,14 @@ id= REAL031484
 te= Kalkflagellater
 bf= Coccolithophorider
 bf= Kokkolithophorider
+so= REAL011733
 no= Github:#287
 nn= Kalkflagellater
 en= Coccolithophores
 la= Coccolithophorida
 de= Klasse av encellede alger
 tio= 2015-07-30T14:00:26Z
-tie= 2015-07-30T14:27:54Z
+tie= 2016-11-25T11:22:55Z
 
 id= REAL031485
 te= 3D-grafikk
@@ -116512,4 +116519,19 @@ nn= Eksotiske atom
 de= atomkjerner der forholdet mellom antall nøytroner og antall protoner er mye større eller mye mindre enn i naturlige atomkjerner [SNL]
 tio= 2016-11-24T18:53:17Z
 tie= 2016-11-24T19:00:37Z
+
+id= REAL031760
+te= Holografisk dualitet
+bf= AdS/CFT-sammenheng
+bf= AdS/QCD-sammenheng
+bf= AdS/CMT-sammenheng
+bf= Gauge/gravitasjon-sammenheng
+en= Holographic duality
+en= AdS/CFT correspondence
+en= AdS/QCD correspondence
+en= AdS/CMT correspondence
+en= Gauge/gravity correspondence
+de= Forbindelse mellom anti-de Sitter-rom (AdS) og konforme feltteorier (CFT) lagt frem av Juan Maldacena i 1997
+tio= 2016-11-25T15:44:29Z
+tie= 2016-11-25T15:57:21Z
 
