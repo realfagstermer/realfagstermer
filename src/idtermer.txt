@@ -6034,8 +6034,11 @@ id= REAL000795
 te= Sterilisering
 ba= nb
 ba= ne
+so= REAL003285
 nn= Sterilisering
+de= Metode for å gjøre en organisme ute av stand til å reprodusere.
 tio= 2014-08-25T00:00:00Z
+tie= 2016-11-30T13:30:40Z
 
 id= REAL000796
 te= Romlige prosesser
@@ -9810,10 +9813,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001304
 te= Solar Ultraviolet Measurements of Emitted Radiation (SUMER)
-ba= na
-nn= SUMER
-nn= Solar Ultraviolet Measurements of Emitted Radiation (SUMER)
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-30T13:24:42Z
 
 id= REAL001305
 te= Seismiske hastigheter
@@ -58438,11 +58439,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007677
 te= Solar Ultraviolet Measurements of Emitted Radiation
-ba= na
-ak= SUMER
-nn= SUMER
-nn= Solar Ultraviolet Measurements of Emitted Radiation
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-30T13:24:35Z
 
 id= REAL007679
 te= Fluorescensspektroskopi
@@ -59032,6 +59030,7 @@ nn= Medisinsk mikrobiologi
 tio= 2014-08-25T00:00:00Z
 st= REAL014210
 st= REAL022296
+st= REAL031761
 
 id= REAL007761
 te= Forebyggende medisin
@@ -82180,10 +82179,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010816
 te= Digital kartlegging
-ba= ngh
-ba= nq
-nn= Digital kartlegging
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-30T13:50:44Z
+fly= REAL013895
 
 id= REAL010817
 te= Glutation
@@ -85500,9 +85498,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011290
 te= Anvendt økonomi
-ba= nm
-nn= Bruksretta økonomi
 tio= 2014-08-25T00:00:00Z
+tis= 2016-11-30T12:14:10Z
 
 id= REAL011291
 te= Universitetsloven
@@ -112712,9 +112709,11 @@ te= Databasert kartframstilling
 ba= ngh
 bf= Databasert kartfremstilling
 bf= Databasert kartografi
+bf= Digital kartlegging
 so= REAL013990
 nn= Databasert kartframstilling
 nn= Datastøtta kartframstilling
+nn= Digital kartlegging
 en= Computer-aided cartography
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-23T15:24:15Z
