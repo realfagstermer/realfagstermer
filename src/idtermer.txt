@@ -7730,9 +7730,8 @@ st= REAL029143
 
 id= REAL001025
 te= Digital teori
-ba= ngh
-nn= Digital teori
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-01T10:29:51Z
 
 id= REAL001026
 te= Personlige nettverk
@@ -11566,10 +11565,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001529
 te= Applikasjonssystem
-ba= ni
-nn= Applikasjonssystem
-en= Application system
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-01T15:26:07Z
 
 id= REAL001530
 te= Radioøkologi
@@ -14060,8 +14057,10 @@ id= REAL001861
 te= Genetisk drift
 ba= nb
 ba= nm
+so= REAL031762
 nn= Genetisk drift
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-01T12:13:13Z
 
 id= REAL001862
 te= Miljøhygiene
@@ -17130,10 +17129,8 @@ st= REAL030012
 
 id= REAL002269
 te= Applikasjonsdeling
-ba= ni
-nn= Applikasjonsdeling
-en= Application sharing
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-01T11:47:43Z
 
 id= REAL002270
 te= Kunderelasjonshåndtering
@@ -40594,7 +40591,9 @@ bf= Stabler
 nn= Stakkar
 nn= Stablar
 en= Stacks
+de= abstrakt datastruktur
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-01T15:59:04Z
 
 id= REAL005348
 te= Juridisk kildesøking
@@ -82298,8 +82297,11 @@ bf= År2000-problemet
 nn= År 2000-problemet
 nn= 2000-årsproblemet
 nn= År2000-problemet
+en= Year 2000 problem
+en= Y2K
+en= Millennium bug
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-19T08:05:42Z
+tie= 2016-12-01T15:23:52Z
 st= REAL029153
 
 id= REAL010833
@@ -86854,9 +86856,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011468
 te= Genoverføring
-ba= nb
-nn= Genoverføring
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-01T12:02:57Z
+fly= REAL013796
 
 id= REAL011469
 te= Aeronautikk
@@ -110844,8 +110846,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013796
 te= Horisontal genoverføring
 bf= Lateral genoverføring
+bf= Genoverføring
 nn= Horisontal genoverføring
 nn= Lateral genoverføring
+nn= Genoverføring
 en= Horizontal gene transfer
 tio= 2014-08-25T00:00:00Z
 
@@ -116533,4 +116537,27 @@ en= Gauge/gravity correspondence
 de= Forbindelse mellom anti-de Sitter-rom (AdS) og konforme feltteorier (CFT) lagt frem av Juan Maldacena i 1997
 tio= 2016-11-25T15:44:29Z
 tie= 2016-11-25T15:57:21Z
+
+id= REAL031762
+te= Genflyt
+so= REAL001861
+nn= Genflyt
+en= Gene flow
+tio= 2016-12-01T12:10:04Z
+tie= 2016-12-01T12:13:15Z
+
+id= REAL031763
+te= Algebraiske rom
+nn= Algebraiske rom
+en= Algebraic spaces
+tio= 2016-12-01T15:45:09Z
+tie= 2016-12-01T15:45:32Z
+
+id= REAL031764
+te= Algebraiske stacks
+nn= Algebraiske stacks
+en= Algebraic stacks
+en= Artin stacks
+tio= 2016-12-01T15:59:25Z
+tie= 2016-12-01T16:00:13Z
 
