@@ -4189,8 +4189,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000556
 te= Kontinentalskorpe
 ba= nc
+so= REAL013612
 nn= Kontinentalskorpe
+en= Continental crust
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-02T08:57:00Z
 
 id= REAL000557
 te= Parallellprogrammering
@@ -7681,9 +7684,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001019
 te= Arbeidsledelse
-ba= ni
-nn= Arbeidsleiing
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-02T13:12:47Z
 
 id= REAL001020
 te= Fotoinhibering
@@ -17329,9 +17331,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002301
 te= Argumentasjonsanalyse
-ba= ns
-nn= Argumentasjonsanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-02T13:14:16Z
 
 id= REAL002302
 te= Dcl
@@ -18522,10 +18523,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002453
 te= Kontinentale marginer
-ba= nc
-nn= Kontinentale marginar
 tio= 2014-08-25T00:00:00Z
-st= REAL014157
+tis= 2016-12-02T16:48:29Z
+fly= REAL005523
 
 id= REAL002454
 te= Huddannelser
@@ -24107,12 +24107,15 @@ nn= Vassbruksplaner
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003167
-te= Mantelen
+te= Jordas mantel
 ba= nc
+bf= Mantelen
+bf= Jordens mantel
+nn= Jordas mantel
 nn= Mantelen
+en= Earth's mantle
 tio= 2014-08-25T00:00:00Z
-st= REAL029112
-st= REAL029158
+tie= 2016-12-02T08:40:38Z
 
 id= REAL003168
 te= Punktdefekter
@@ -35357,10 +35360,8 @@ st= REAL026013
 
 id= REAL004626
 te= Applikative algoritmer
-ba= ni
-nn= Applikative algoritmar
-en= Applicative algorithms
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-02T13:12:10Z
 
 id= REAL004628
 te= Anoksiske sedimenter
@@ -41880,8 +41881,17 @@ st= REAL024181
 id= REAL005523
 te= Kontinentalmarginer
 ba= nc
+bf= Kontinentale marginer
+bf= Kontinentmarginer
+bf= Kontinentrender
+so= REAL008978
 nn= Kontinentalmarginar
+nn= Kontinentale marginar
+en= Continental margins
+de= Havbunnen som ligger mellom landområdene og dyphavet (Wikipedia)
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-02T16:50:07Z
+st= REAL014157
 st= REAL017614
 st= REAL024417
 
@@ -46040,10 +46050,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006078
 te= Subduksjon
-ba= nc
-nn= Subduksjon
 tio= 2014-08-25T00:00:00Z
-st= REAL021541
+tis= 2016-12-02T16:37:28Z
+fly= REAL031770
 
 id= REAL006079
 te= Vulkansk aktivitet
@@ -54432,17 +54441,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007142
 te= Orogenese
-ba= nc
-nn= Orogenese
 tio= 2014-08-25T00:00:00Z
-st= REAL018062
-st= REAL018809
-st= REAL018858
-st= REAL018972
-st= REAL020711
-st= REAL023214
-st= REAL027361
-st= REAL029535
+tis= 2016-12-02T08:43:03Z
+fly= REAL012636
 
 id= REAL007143
 te= Statlig forvaltning
@@ -68336,8 +68337,10 @@ st= REAL014903
 id= REAL008978
 te= Passive marginer
 ba= nc
+so= REAL005523
 nn= Passive marginar
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-02T16:48:59Z
 
 id= REAL008979
 te= Pest
@@ -83821,9 +83824,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011054
 te= Arbeidsmåling
-ba= ni
-nn= Arbeidsmåling
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-02T13:13:54Z
 
 id= REAL011055
 te= Kjemisk likevekt
@@ -87066,8 +87068,10 @@ id= REAL011503
 te= Ekstensjonstektonikk
 ba= nc
 nn= Ekstensjonstektonikk
+en= Extensional tectonics
+de= Tektoniske prosesser som fører til at jordskorpen blir fortynnet
 tio= 2014-08-25T00:00:00Z
-st= REAL024187
+tie= 2016-12-02T10:29:26Z
 
 id= REAL011504
 te= Eukaryote celler
@@ -96731,16 +96735,26 @@ ba= nc
 ba= ns
 bf= Fjelldannelse
 bf= Fjellkjedefolding
+bf= Orogenese
 so= REAL012637
+so= REAL031769
 nn= Fjellkjededanning
 nn= Fjelldanning
 nn= Fjellkjedefalding
 nn= Fjellkjedefolding
+nn= Orogenese
+en= Orogeny
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-02T10:26:34Z
 st= REAL014517
 st= REAL016568
+st= REAL018858
+st= REAL018972
 st= REAL020570
+st= REAL023214
+st= REAL027361
 st= REAL028158
+st= REAL029535
 
 id= REAL012637
 te= Fjellkjeder
@@ -108595,13 +108609,16 @@ id= REAL013612
 te= Jordskorpen
 ba= nc
 so= REAL013611
+so= REAL000556
+so= REAL031768
 nn= Jordskorpa
+en= Earth's crust
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-02T08:54:28Z
 st= REAL022279
 st= REAL022568
 st= REAL023943
 st= REAL024481
-st= REAL028294
 
 id= REAL013613
 te= Regionnett
@@ -116560,4 +116577,69 @@ en= Algebraic stacks
 en= Artin stacks
 tio= 2016-12-01T15:59:25Z
 tie= 2016-12-01T16:00:13Z
+
+id= REAL031765
+te= Manteldiapirer
+so= REAL031766
+nn= Manteldiapirar
+en= Mantel plumes
+de= Varmt, plastisk mantelmateriale som stiger opp gjennom omkringliggende mantel på grunn av tetthetsforskjellen. (Norsk Geologisk Ordbok)
+tio= 2016-12-02T08:44:27Z
+tie= 2016-12-02T08:49:12Z
+
+id= REAL031766
+te= Varmefelt
+bf= Varmepunkter
+so= REAL031765
+nn= Varmefelt
+en= Hotspots
+de= Vulkansk området med bredde 100-200 km hvor det har vær vulkansk aktivitet gjennom minst et titalls millioner år. Vulkanismen skyldes antakelig at vulkanfeltet ligger oven en manteldiapir [...]. (Norsk Geologisk Ordbok)
+tio= 2016-12-02T08:46:38Z
+tie= 2016-12-02T08:49:40Z
+
+id= REAL031767
+te= Polvandring
+nn= Polvandring
+en= Polar wander
+de= Forflytning av jordpolene
+tio= 2016-12-02T08:50:43Z
+tie= 2016-12-02T08:52:37Z
+
+id= REAL031768
+te= Havbunnsskorpe
+so= REAL013612
+nn= Havbotnskorpe
+en= Oceanic crust
+tio= 2016-12-02T08:54:28Z
+tie= 2016-12-02T08:55:33Z
+
+id= REAL031769
+te= Kontraksjonstektonikk
+so= REAL012636
+nn= Kontraksjonstektonikk
+en= Contractional tectonics
+en= Thrust tectonics
+en= Collision tectonics
+de= Tektoniske prosesser som fører til at jordskorpen blir fortykket
+tio= 2016-12-02T10:26:08Z
+tie= 2016-12-02T10:28:22Z
+
+id= REAL031770
+te= Subduksjonssoner
+bf= Subduksjon
+bf= Aktive kontinentalmarginer
+bf= Konvergente plategrenser
+bf= Kollisjonsgrenser
+nn= Subduksjonssoner
+nn= Subduksjon
+nn= Konvergente plategrenser
+nn= Kollisjonsgrenser
+nn= Aktive kontinentalmarginar
+en= Subduction zones
+en= Active continental margins
+en= Convergent plate boundaries
+de= Grenseområder i litosfæren der to litosfæriske plater kolliderer med hverandre og den ene tvinges ned under den andre (Wikipedia)
+tio= 2016-12-02T16:36:24Z
+tie= 2016-12-02T16:41:22Z
+st= REAL021541
 
