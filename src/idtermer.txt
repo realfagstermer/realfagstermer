@@ -31710,17 +31710,20 @@ ba= ngh
 bf= Havnivåendringer
 bf= Havnivåforandringer
 bf= Havflatestigning
+bf= Eustasi
 nn= Havnivå
 nn= Havflatestiging
 nn= Havflatestigning
 nn= Havnivåendringar
 nn= Havnivåforandringar
+nn= Eustasi
 en= Sea level
 en= Sea level rise
 en= Sea level changes
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-11T18:38:21Z
 st= REAL025019
+st= REAL017791
 
 id= REAL004149
 te= Syntesemetoder
@@ -41624,10 +41627,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005490
 te= Eustasi
-ba= nc
-nn= Eustasi
 tio= 2014-08-25T00:00:00Z
-st= REAL017791
+tis= 2016-12-05T15:40:34Z
+fly= REAL004148
 
 id= REAL005491
 te= Radiomottakere
@@ -49905,7 +49907,11 @@ te= Småmaneter
 ba= nk
 ba= nb
 nn= Småmaneter
+la= Hydrozoa
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-05T15:39:34Z
+st= REAL019285
+st= REAL027146
 
 id= REAL006551
 te= Scintillasjonstellere
@@ -57600,12 +57606,9 @@ st= REAL016014
 
 id= REAL007569
 te= Hydrozoa
-ba= nk
-ba= nb
-nn= Hydrozoa
 tio= 2014-08-25T00:00:00Z
-st= REAL019285
-st= REAL027146
+tis= 2016-12-05T15:38:54Z
+fly= REAL006550
 
 id= REAL007570
 te= Dynamic source routing  (kommunikasjonsprotokoll)
@@ -79019,12 +79022,11 @@ id= REAL010368
 te= Havbunnsgeologi
 ba= nb
 ba= nc
-bf= Havbunnskorpe
 bf= Regional havbunnsgeologi
 nn= Havbotnsgeologi
-nn= Havbotnskorpe
 nn= Regional havbotnsgeologi
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-05T15:42:06Z
 
 id= REAL010369
 te= Kalkfuruskog
