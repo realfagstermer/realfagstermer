@@ -2780,8 +2780,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000368
 te= Springpadder
 ba= nb
+bf= Haleløse padder
 nn= Springpadder
+nn= Halelause padder
+en= Frogs and toads
+la= Anura
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-07T15:01:18Z
 
 id= REAL000369
 te= Plantesamfunn
@@ -7909,8 +7914,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001049
 te= Salamandre
 ba= nb
+bf= Halepadder
 nn= Salamandrar
+nn= Halepadder
+en= Salamanders
+la= Caudata
+la= Urodela
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-07T14:58:17Z
 st= REAL023519
 st= REAL024396
 
@@ -20059,9 +20070,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002648
 te= Halepadder
-ba= nb
-nn= Halepadder
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-07T14:57:12Z
+fly= REAL001049
 
 id= REAL002649
 te= Klimapolitikk
@@ -27540,11 +27551,22 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003606
 te= Spretthaler
 ba= nb
+bf= Springhaler
+bf= Collemboler
 nn= Spretthalar
+nn= Springhalar
+nn= Collemboler
+en= Springtails
+la= Collembola
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-07T15:05:47Z
 st= REAL016409
 st= REAL021594
 st= REAL024467
+st= REAL017857
+st= REAL023293
+st= REAL028982
+st= REAL029272
 
 id= REAL003607
 te= Glassblåsing
@@ -31732,8 +31754,8 @@ en= Sea level rise
 en= Sea level changes
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-11T18:38:21Z
-st= REAL025019
 st= REAL017791
+st= REAL025019
 
 id= REAL004149
 te= Syntesemetoder
@@ -33462,16 +33484,9 @@ st= REAL024018
 
 id= REAL004376
 te= Springhaler
-ba= nb
-nn= Springhalar
 tio= 2014-08-25T00:00:00Z
-st= REAL015210
-st= REAL017857
-st= REAL018552
-st= REAL023293
-st= REAL027895
-st= REAL028982
-st= REAL029272
+tis= 2016-12-07T15:04:37Z
+fly= REAL003606
 
 id= REAL004377
 te= Økologisk tålegrense
@@ -72852,9 +72867,9 @@ tie= 2015-10-13T13:47:30Z
 
 id= REAL009594
 te= Latticer
-ba= nm
-nn= Gitter
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-07T14:40:05Z
+fly= REAL012428
 
 id= REAL009595
 te= Bergarter
@@ -78964,9 +78979,10 @@ st= REAL027093
 
 id= REAL010358
 te= Krystallgitter
-ba= nf
-nn= Krystallgitter
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-07T14:41:55Z
+tis= 2016-12-07T14:43:12Z
+fly= REAL031774
 
 id= REAL010359
 te= Jordvarme
@@ -91073,9 +91089,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012016
 te= Collembola
-ba= nb
-nn= Collembola
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-07T15:04:57Z
+fly= REAL003606
 
 id= REAL012017
 te= Nanobiologi
@@ -94456,11 +94472,18 @@ tis= 2016-09-23T15:16:23Z
 id= REAL012428
 te= Gittere
 ba= nm
+bf= Latticer
+bf= Gitterteori
+so= REAL014041
 nn= Gitter
+nn= Gitterteori
 en= Lattices
+en= Grid theory
+de= Matematisk algebraisk struktur
 ms= 06
 dw= 511.33
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-07T14:46:16Z
 
 id= REAL012429
 te= Ordnede algebraiske strukturer
@@ -114557,21 +114580,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL014041
 te= Gittersystemer
 ba= ni
-so= REAL014042
 so= REAL003053
+so= REAL012428
 nn= Gittersystem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL014042
 te= Gitterteori
-ba= ni
-ba= nk
-ba= nf
-ba= nm
-so= REAL014041
-nn= Gitterteori
-en= Grid theory
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-07T14:40:48Z
+fly= REAL012428
 
 id= REAL014043
 te= Erkjennelsesteori
@@ -116673,4 +116691,14 @@ nn= Vitenskapsforståing
 en= Science literacy
 tio= 2016-12-06T12:10:25Z
 tie= 2016-12-06T12:55:47Z
+
+id= REAL031774
+te= Krystallinsk struktur
+bf= Krystallgitter
+bf= Gitterstruktur
+nn= Krystallinsk struktur
+nn= Krystallgitter
+nn= Gitterstruktur
+tio= 2016-12-07T14:42:32Z
+tie= 2016-12-07T14:42:45Z
 
