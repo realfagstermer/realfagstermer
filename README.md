@@ -41,6 +41,8 @@ Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 * Bente Kathrine Rasch, bibliotekar, fagansvar for farmasi.
 
 Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
+* [@apaus](https://github.com/apaus) ; 
+  Ana Paulino, delvis vikar for @Hypsibus.
 * [@bubir](https://github.com/bubir) :
   Ingunn Rødland, fagansvar for kjemi.
 * [@Hypsibius](https://github.com/Hypsibius) :
@@ -55,6 +57,8 @@ Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
 For å varsle alle: @realfagstermer/alle
 
 ## Prosjekt «Realfagstermar på nynorsk»
+
+Prosjektet ble ferdigstilt ved årsskiftet 2015/2016.
 
 Deltakarar:
 * [@mariaksv](https://github.com/mariaksv) : Maria Svendsen (biologi/kjemi)
