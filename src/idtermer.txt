@@ -16713,7 +16713,9 @@ id= REAL002204
 te= Dioksiner
 ba= nk
 ba= nb
+bf= Dioksinderivater
 nn= Dioksin
+nn= Dioksinderivat
 tio= 2014-08-25T00:00:00Z
 st= REAL024337
 
@@ -23746,9 +23748,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003108
 te= Artikkeldatabaser
-ba= ne
-nn= Artikkeldatabasar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-09T18:14:14Z
 
 id= REAL003109
 te= Diol
@@ -27561,10 +27562,10 @@ la= Collembola
 tio= 2014-08-25T00:00:00Z
 tie= 2016-12-07T15:05:47Z
 st= REAL016409
-st= REAL021594
-st= REAL024467
 st= REAL017857
+st= REAL021594
 st= REAL023293
+st= REAL024467
 st= REAL028982
 st= REAL029272
 
@@ -27643,9 +27644,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003618
 te= Dioksinderivater
-ba= nk
-nn= Dioksinderivat
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-09T18:07:06Z
+fly= REAL002204
 
 id= REAL003619
 te= Krepsdyr
@@ -31507,7 +31508,6 @@ st= REAL022182
 st= REAL022749
 st= REAL024012
 st= REAL024029
-st= REAL024525
 st= REAL024985
 st= REAL026097
 st= REAL026736
@@ -35600,8 +35600,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004658
 te= Diskriminantanalyse
 ba= nm
+bf= Diskriminering
 nn= Diskriminantanalyse
+nn= Diskriminering
+en= Discrimination
+ms= 62.41
+dw= 519.53
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-09T18:52:08Z
 
 id= REAL004659
 te= Romlig struktur
@@ -38798,10 +38804,15 @@ nn= Eucalyptus
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005095
-te= Arkeologisk kjemi
+te= Arkeometri
 ba= nk
+bf= Arkeologisk kjemi
+nn= Arkeometri
 nn= Arkeologisk kjemi
+en= Archeometry
+en= Archaeological chemistry
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-09T18:17:51Z
 
 id= REAL005096
 te= Micellar electrokinetic chromatography
@@ -40284,10 +40295,11 @@ tio= 2014-08-25T00:00:00Z
 st= REAL027352
 
 id= REAL005300
-te= Dantzig-wolfealgoritmen
+te= Dantzig-Wolfe-algoritmen
 ba= ni
 nn= Dantzig-Wolfe-algoritmen
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-09T19:39:18Z
 
 id= REAL005301
 te= Analog maskinvare
@@ -43302,8 +43314,10 @@ ba= nk
 ba= nb
 ba= ne
 ba= ns
+bf= Dioksygen
 ak= O
 nn= Oksygen
+nn= Dioksygen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005712
@@ -47459,6 +47473,7 @@ te= Fast jords fysikk
 ba= nm
 bf= Fast jords geofysikk
 bf= Den faste jordas geofysikk
+bf= Fastjordsfysikk
 nn= Fastjordsfysikk
 nn= Fast jords fysikk
 nn= Fast jords geofysikk
@@ -47466,7 +47481,7 @@ en= Solid earth physics
 en= Physics of the solid earth
 en= Solid earth geophysics
 tio= 2014-08-25T00:00:00Z
-tie= 2016-10-12T20:31:33Z
+tie= 2016-12-09T18:27:54Z
 st= REAL014537
 
 id= REAL006263
@@ -58286,9 +58301,12 @@ id= REAL007653
 te= Følelser
 ba= nb
 ba= ns
+bf= Emosjoner
 nn= Kjensler
 nn= Følelsar
+en= Emotions
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-09T19:54:28Z
 
 id= REAL007654
 te= Nettgrupper
@@ -68155,9 +68173,8 @@ tie= 2016-06-22T11:52:04Z
 
 id= REAL008953
 te= Diimine
-ba= nk
-nn= Diimine
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-09T18:05:50Z
 
 id= REAL008954
 te= Humus
@@ -72533,9 +72550,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009546
 te= Dioksygen
-ba= nb
-nn= Dioksygen
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-09T18:08:09Z
+fly= REAL005711
 
 id= REAL009547
 te= Sykluser
@@ -97324,10 +97341,8 @@ st= REAL020512
 
 id= REAL012678
 te= Arktisk-alpin økologi
-bf= Arktisk fjelløkologi
-nn= Arktisk-alpin økologi
-nn= Arktisk fjelløkologi
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-09T18:12:04Z
 
 id= REAL012679
 te= Arktisk fauna
@@ -101635,12 +101650,9 @@ st= REAL027677
 
 id= REAL013109
 te= Diskriminering
-ba= nm
-nn= Diskriminering
-en= Discrimination
-ms= 62.41
-dw= 519.53
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-09T18:48:58Z
+fly= REAL004658
 
 id= REAL013110
 te= Sekvensielle metoder
@@ -116656,13 +116668,14 @@ tie= 2016-12-02T08:55:33Z
 id= REAL031769
 te= Kontraksjonstektonikk
 so= REAL012636
+so= REAL031775
 nn= Kontraksjonstektonikk
 en= Contractional tectonics
 en= Thrust tectonics
 en= Collision tectonics
 de= Tektoniske prosesser som fører til at jordskorpen blir fortykket
 tio= 2016-12-02T10:26:08Z
-tie= 2016-12-02T10:28:22Z
+tie= 2016-12-09T18:21:46Z
 
 id= REAL031770
 te= Subduksjonssoner
@@ -116670,6 +116683,8 @@ bf= Subduksjon
 bf= Aktive kontinentalmarginer
 bf= Konvergente plategrenser
 bf= Kollisjonsgrenser
+so= REAL031775
+so= REAL031776
 nn= Subduksjonssoner
 nn= Subduksjon
 nn= Konvergente plategrenser
@@ -116680,7 +116695,7 @@ en= Active continental margins
 en= Convergent plate boundaries
 de= Grenseområder i litosfæren der to litosfæriske plater kolliderer med hverandre og den ene tvinges ned under den andre (Wikipedia)
 tio= 2016-12-02T16:36:24Z
-tie= 2016-12-02T16:41:22Z
+tie= 2016-12-09T18:30:33Z
 st= REAL021541
 
 id= REAL031771
@@ -116699,6 +116714,43 @@ bf= Gitterstruktur
 nn= Krystallinsk struktur
 nn= Krystallgitter
 nn= Gitterstruktur
+en= Crystal structure
 tio= 2016-12-07T14:42:32Z
-tie= 2016-12-07T14:42:45Z
+tie= 2016-12-09T18:46:14Z
+
+id= REAL031775
+te= Kontinenttilvekst
+bf= Tilvekstkiler
+so= REAL031770
+so= REAL031769
+nn= Kontinenttilvekst
+nn= Tilvekstkilar
+en= Continental accretion
+en= Accretionary wedges
+en= Accretionary prisms
+de= Tilvekst til kontinentskorpen ved magmatiske og tektoniske prosseser.
+tio= 2016-12-09T18:19:44Z
+tie= 2016-12-09T18:24:30Z
+
+id= REAL031776
+te= Vulkanske øybuer
+bf= Vulkanbuer
+so= REAL031770
+nn= Vulkanbogar
+en= Island arcs
+en= Volcanic arcs
+tio= 2016-12-09T18:29:31Z
+tie= 2016-12-09T18:35:26Z
+
+id= REAL031777
+te= Trebåter
+nn= Trebåtar
+tio= 2016-12-09T18:35:57Z
+tie= 2016-12-09T18:36:42Z
+
+id= REAL031778
+te= Båtbygging
+nn= Båtbyggjing
+tio= 2016-12-09T18:37:07Z
+tie= 2016-12-09T18:37:13Z
 
