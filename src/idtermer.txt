@@ -99204,10 +99204,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012853
 te= Iris
-ba= nb
-nn= Iris
 de= Information systems research seminar in scandinavia
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-14T11:13:36Z
 
 id= REAL012854
 te= Flimmerdyr
