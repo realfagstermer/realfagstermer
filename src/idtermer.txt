@@ -601,9 +601,8 @@ st= REAL024443
 
 id= REAL000077
 te= Asymptotiske ekspansjoner
-ba= nm
-nn= Asymptotiske ekspansjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:32:21Z
 
 id= REAL000078
 te= Veier
@@ -743,10 +742,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000100
 te= Asiatiske forskere
-ba= ns
-nn= Asiatiske forskarar
 tio= 2014-08-25T00:00:00Z
-st= REAL027493
+tis= 2016-12-19T14:58:23Z
 
 id= REAL000101
 te= Fotobiologi
@@ -7469,10 +7466,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000991
 te= Asfaltstein
-ba= nc
-nn= Asfaltstein
 tio= 2014-08-25T00:00:00Z
-st= REAL016186
+tis= 2016-12-19T14:57:42Z
 
 id= REAL000992
 te= Kjemisk bekjempelse
@@ -8515,13 +8510,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001132
 te= Gassforekomster
-ba= nc
-bf= Gassfelt
-bf= Gassressurser
-nn= Gassførekomstar
-nn= Gassfelt
-nn= Gassressursar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T16:22:12Z
+fly= REAL006430
 
 id= REAL001133
 te= Temperaturendringer
@@ -9117,9 +9108,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001213
 te= Diskret edb
-ba= nm
-nn= Diskret edb
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T14:59:04Z
 
 id= REAL001214
 te= Evaluering
@@ -11824,8 +11814,10 @@ ba= nb
 ba= nc
 ba= ngh
 ba= ns
+so= REAL031779
 nn= Paleogeografi
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-19T16:32:38Z
 st= REAL015300
 st= REAL015940
 st= REAL016461
@@ -12585,10 +12577,9 @@ tie= 2015-07-10T12:44:20Z
 
 id= REAL001666
 te= Hydrokarbonforekomster
-ba= nc
-nn= Hydrokarbonførekomstar
 tio= 2014-08-25T00:00:00Z
-st= REAL018188
+tis= 2016-12-19T16:19:50Z
+fly= REAL006430
 
 id= REAL001668
 te= Saprofytter
@@ -19911,9 +19902,8 @@ st= REAL028481
 
 id= REAL002625
 te= Astronomiske observasjoner
-ba= na
-nn= Astronomiske observasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:09:39Z
 
 id= REAL002626
 te= Altera hardware description language
@@ -22897,8 +22887,8 @@ te= Atomabsorpsjonsspektrometri
 ba= nk
 ba= nc
 ba= ns
-so= REAL031435
 so= REAL003733
+so= REAL013956
 nn= Atomabsorpsjonsspektrometri
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-15T14:47:07Z
@@ -29579,9 +29569,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003864
 te= Assosiative hopf-algebraer
-ba= nm
-nn= Assosiative hopf-algebraer
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:00:45Z
 
 id= REAL003865
 te= Naturfotografering
@@ -31716,10 +31705,20 @@ nn= Sosial evolusjon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004145
-te= Oljefelt
+te= Petroleumsfelt
 ba= nc
+bf= Oljefelt
+bf= Gassfelt
+so= REAL006430
 nn= Oljefelt
+nn= Gassfelt
+en= Petroleum fields
+en= Hydrocarbon fields
+en= Oil fields
+en= Gas fields
+de= Petroleumsforekomst som har en godkjent «Plan for Utbygging og Drift (PUD)» eller som er innvilget fritak for PUD av myndighetene. (Norsk geologisk ordbok)
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-19T16:26:21Z
 
 id= REAL004146
 te= Fleksibilitet
@@ -39582,9 +39581,8 @@ st= REAL028484
 
 id= REAL005195
 te= Asymptotisk kombinatorikk
-ba= nm
-nn= Asymptotisk kombinatorikk
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:12:45Z
 
 id= REAL005196
 te= Bibliografisk verifisering
@@ -41622,8 +41620,10 @@ te= Teleskoper
 ba= na
 ba= ns
 bf= Astronomiske teleskoper
+bf= Astronomisk optikk
 nn= Teleskop
 nn= Astronomiske teleskop
+nn= Astronomisk optikk
 tio= 2014-08-25T00:00:00Z
 st= REAL014385
 st= REAL014479
@@ -42422,10 +42422,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005596
 te= Atmosfærisk nedbør
-ba= na
-nn= Atmosfærisk nedbør
 tio= 2014-08-25T00:00:00Z
-st= REAL014560
+tis= 2016-12-19T15:18:02Z
 
 id= REAL005598
 te= Gotisk håndskrift
@@ -42499,9 +42497,8 @@ st= REAL023831
 
 id= REAL005608
 te= Atmosfæriske partikler
-ba= nk
-nn= Atmosfæriske partiklar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:26:02Z
 
 id= REAL005609
 te= Optiske fenomener
@@ -48823,8 +48820,25 @@ id= REAL006430
 te= Petroleumsforekomster
 ba= nc
 ba= ns
+bf= Petroleumsreservoarer
+bf= Hydrokarbonreservoarer
+bf= Hydrokarbonforekomster
+bf= Hydrokarbonavsetninger
+bf= Oljeforekomster
+bf= Gassforekomster
+so= REAL004145
 nn= Petroleumsførekomstar
+nn= Hydrokarbonførekomstar
+nn= Hydrokarbonavsetjingar
+nn= Hydrokarbonavsettingar
+nn= Oljeførekomstar
+nn= Gassførekomstar
+en= Petroleum reservoirs
+en= Oil and gas reservoirs
+en= Hydrocarbon reservoirs
+de= En ansamling av petroleum i en geologisk enhet i undergrunnen, påvist ved boring. Petroleumsforekomster kan unntaksvis også finnes på overflaten. (Norsk geologisk ordbok)
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-19T16:28:38Z
 st= REAL014228
 st= REAL014428
 st= REAL017099
@@ -48844,6 +48858,31 @@ st= REAL027258
 st= REAL029247
 st= REAL029449
 st= REAL029806
+st= REAL018188
+st= REAL016012
+st= REAL016722
+st= REAL017950
+st= REAL018020
+st= REAL018488
+st= REAL018647
+st= REAL018662
+st= REAL019211
+st= REAL019501
+st= REAL020255
+st= REAL020796
+st= REAL021700
+st= REAL022779
+st= REAL023418
+st= REAL023906
+st= REAL025090
+st= REAL025455
+st= REAL026076
+st= REAL026260
+st= REAL026616
+st= REAL027422
+st= REAL027857
+st= REAL028374
+st= REAL029306
 
 id= REAL006431
 te= Vrml
@@ -56066,9 +56105,8 @@ st= REAL025891
 
 id= REAL007360
 te= Astroseismologi
-ba= na
-nn= Astroseismologi
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T16:07:24Z
 
 id= REAL007361
 te= Giftige slanger
@@ -56801,10 +56839,12 @@ tio= 2014-08-25T00:00:00Z
 st= REAL031244
 
 id= REAL007462
-te= Atomdrevne romskip
+te= Atomdrevne fartøy
 ba= ns
+ut= REAL012245
 nn= Atomdrivne romskip
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-19T15:41:13Z
 
 id= REAL007463
 te= Miljøvennlig forbruk
@@ -57053,9 +57093,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007489
 te= Aries
-ba= na
-nn= Aries
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T19:49:06Z
 
 id= REAL007490
 te= Vedvev
@@ -57821,56 +57860,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007594
 te= Oljeforekomster
-ba= nk
-ba= nc
-ba= ngh
-ba= nm
-ba= ns
-nn= Oljeførekomstar
 tio= 2014-08-25T00:00:00Z
-st= REAL016012
-st= REAL016698
-st= REAL016722
-st= REAL017757
-st= REAL017950
-st= REAL018020
-st= REAL018379
-st= REAL018488
-st= REAL018647
-st= REAL018662
-st= REAL019211
-st= REAL019501
-st= REAL019558
-st= REAL020255
-st= REAL020449
-st= REAL020649
-st= REAL020796
-st= REAL021547
-st= REAL021700
-st= REAL022707
-st= REAL022779
-st= REAL023004
-st= REAL023418
-st= REAL023588
-st= REAL023655
-st= REAL023906
-st= REAL024799
-st= REAL025061
-st= REAL025090
-st= REAL025455
-st= REAL026076
-st= REAL026260
-st= REAL026616
-st= REAL026667
-st= REAL027422
-st= REAL027857
-st= REAL027885
-st= REAL028263
-st= REAL028374
-st= REAL028527
-st= REAL029175
-st= REAL029232
-st= REAL029306
+tis= 2016-12-19T16:21:51Z
+fly= REAL006430
 
 id= REAL007595
 te= International Space Station
@@ -60623,8 +60615,10 @@ st= REAL022481
 id= REAL007968
 te= Atlanterhavsryggen
 ba= nc
+bf= Den midtatlantiske ryggen
 nn= Atlanterhavsryggen
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-19T19:42:39Z
 st= REAL015292
 st= REAL023368
 st= REAL024056
@@ -61899,9 +61893,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008125
 te= Asymmetrisk celledeling
-ba= nb
-nn= Asymmetrisk celledeling
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:11:38Z
 
 id= REAL008126
 te= Teoretisk matematikk
@@ -67483,10 +67476,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008861
 te= Hydrokarbonavsetninger
-ba= ngh
-nn= Hydrokarbonavsetjingar
-nn= Hydrokarbonavsettingar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T16:20:47Z
+fly= REAL006430
 
 id= REAL008862
 te= Kulturforståelse
@@ -68867,9 +68859,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009046
 te= Astronomisk optikk
-ba= na
-nn= Astronomisk optikk
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:06:50Z
+fly= REAL005484
 
 id= REAL009047
 te= Kelvinfunksjoner
@@ -69187,9 +69179,8 @@ st= REAL021532
 
 id= REAL009075
 te= Atmosfærisk dispersjon
-ba= ngh
-nn= Atmosfærisk dispersjon
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:37:51Z
 
 id= REAL009076
 te= Pigmenter
@@ -71715,10 +71706,14 @@ ba= nf
 ba= ngh
 ba= nm
 ba= ns
+bf= Automasjon
 so= REAL013024
 nn= Automatisering
+nn= Automasjon
+en= Automation
+en= Automatic control
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-20T17:59:51Z
+tie= 2016-12-19T14:30:27Z
 st= REAL024110
 
 id= REAL009423
@@ -85709,10 +85704,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011313
 te= Bayesiansk teori
-ba= nf
-ba= nm
-nn= Bayesiansk teori
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T19:26:58Z
 
 id= REAL011314
 te= Funksjonell genomikk
@@ -88168,10 +88161,11 @@ nn= Fødselsdepresjonar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011637
-te= Astaxanthin
+te= Astaxantin
 ba= nk
 nn= Astaxanthin
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-19T15:02:35Z
 
 id= REAL011638
 te= Båndstruktur
@@ -90607,9 +90601,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011941
 te= Atmosfærisk forskning
-ba= ngh
-nn= Atmosfærisk forsking
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T15:16:54Z
 
 id= REAL011942
 te= Arktisk medisin
@@ -91414,9 +91407,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012065
 te= Automasjon
-ba= na
-nn= Automasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-19T14:30:08Z
+fly= REAL009422
 
 id= REAL012066
 te= Støvplasma
@@ -92730,9 +92723,11 @@ te= Atomubåter
 ba= nk
 bf= Atomdrevne ubåter
 so= REAL013282
+ot= REAL007462
 nn= Atomubåtar
 nn= Atomdrivne ubåtar
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-19T15:41:13Z
 
 id= REAL012246
 te= Kugalskap
@@ -94495,12 +94490,11 @@ so= REAL014041
 nn= Gitter
 nn= Gitterteori
 en= Lattices
-en= Grid theory
 de= Matematisk algebraisk struktur
 ms= 06
 dw= 511.33
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-07T14:46:16Z
+tie= 2016-12-19T14:50:10Z
 
 id= REAL012429
 te= Ordnede algebraiske strukturer
@@ -94539,11 +94533,13 @@ id= REAL012432
 te= Fuzzy logikk
 ba= ni
 bf= Diffus logikk
+so= REAL031780
 nn= Fuzzy logikk
 nn= Diffus logikk
 en= Fuzzy logic
 dw= 511.313
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-19T16:37:08Z
 
 id= REAL012433
 te= Matematisk logikk
@@ -103358,7 +103354,6 @@ so= REAL002815
 so= REAL010279
 so= REAL004488
 so= REAL003977
-so= REAL000100
 nn= Forskarar
 tio= 2014-08-25T00:00:00Z
 st= REAL015200
@@ -113522,9 +113517,12 @@ id= REAL013956
 te= Atomemisjonsspektroskopi
 ba= nk
 bf= Atomemisjonsspektrometri
+bf= Atomemisjonspektrometri
 ak= AES
+so= REAL003004
 nn= Atomemisjonsspektroskopi
 nn= Atomemisjonsspektrometri
+nn= Atomemisjonspektrometri
 dw= 543.52
 tio= 2014-08-25T00:00:00Z
 
@@ -115725,10 +115723,10 @@ tie= 2015-05-13T16:21:59Z
 
 id= REAL031435
 te= Atomemisjonspektrometri
-so= REAL003004
-nn= Atomemisjonspektrometri
 tio= 2015-05-15T14:47:02Z
 tie= 2015-05-15T14:47:02Z
+tis= 2016-12-19T15:28:59Z
+fly= REAL013956
 
 id= REAL031436
 te= Teknologioverføring
@@ -116732,14 +116730,22 @@ tio= 2016-12-09T18:19:44Z
 tie= 2016-12-09T18:24:30Z
 
 id= REAL031776
-te= Vulkanske øybuer
-bf= Vulkanbuer
+te= Vulkanbuer
+bf= Vulkanske øybuer
+bf= Øybuer
+bf= Kontinentalbuer
+bf= Havbuer
 so= REAL031770
 nn= Vulkanbogar
-en= Island arcs
+nn= Øybogar
+nn= Kontinentalbogar
+nn= Havbogar
 en= Volcanic arcs
+en= Island arcs
+en= Continental arcs
+en= Oceanic arcs
 tio= 2016-12-09T18:29:31Z
-tie= 2016-12-09T18:35:26Z
+tie= 2016-12-19T14:28:39Z
 
 id= REAL031777
 te= Trebåter
@@ -116752,4 +116758,25 @@ te= Båtbygging
 nn= Båtbyggjing
 tio= 2016-12-09T18:37:07Z
 tie= 2016-12-09T18:37:13Z
+
+id= REAL031779
+te= Platetektoniske rekonstruksjoner
+so= REAL001563
+no= github:#597
+nn= Platetektoniske rekonstruksjonar
+en= Plate reconstructions
+de= Rekonstruksjoner av fortidens platebevegelser
+tio= 2016-12-19T16:32:20Z
+tie= 2016-12-19T16:35:10Z
+
+id= REAL031780
+te= Probabilistisk logikk
+bf= Sannsynlighetslogikk
+so= REAL012432
+nn= Probabilistisk logikk
+nn= Sannsynslogikk
+en= Probabilistic logic
+en= Probability logic
+tio= 2016-12-19T16:35:48Z
+tie= 2016-12-19T16:37:06Z
 
