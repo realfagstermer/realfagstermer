@@ -3780,3 +3780,8 @@ te= Kåfjord (Finnmark)
 tio= 2016-11-17T11:12:36Z
 tie= 2016-11-17T11:12:36Z
 
+id= REAL031781
+te= Atlanterhavsryggen
+tio= 2016-12-20T11:22:00Z
+tie= 2016-12-20T11:22:00Z
+

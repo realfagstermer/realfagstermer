@@ -141,3 +141,11 @@ bf= 15. århundre
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:02:51Z
 
+id= REAL031782
+te= Første verdenskrig
+bf= Verdenskrigen 1914-1918
+nn= Første verdskrig
+nn= Verdskrigen 1914-1918
+tio= 2016-12-20T12:51:37Z
+tie= 2016-12-20T12:53:52Z
+
