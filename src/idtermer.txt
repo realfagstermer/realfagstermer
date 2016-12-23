@@ -7989,7 +7989,10 @@ ba= nk
 ba= nb
 nn= Krabber
 nn= Krabbar
+en= Crabs
+la= Brachyura
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-22T13:05:28Z
 st= REAL015798
 st= REAL016582
 st= REAL025804
@@ -8578,6 +8581,7 @@ nn= Rettsmedisin
 en= Forensic pathology
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-07T14:27:13Z
+st= REAL031792
 
 id= REAL001142
 te= Skjelettet
@@ -22048,11 +22052,13 @@ nn= Makrokosmos
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002893
-te= Taskekrabber
+te= Taskekrabbe
 ba= nb
-nn= Taskekrabber
-nn= Taskekrabbar
+nn= Taskekrabbe
+en= Brown crab
+la= Cancer pagurus
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-22T12:01:19Z
 st= REAL030048
 
 id= REAL002894
@@ -79263,6 +79269,7 @@ ba= nb
 nn= Kreftceller
 tio= 2014-08-25T00:00:00Z
 st= REAL031360
+st= REAL031791
 
 id= REAL010386
 te= Fulbright-stipend
