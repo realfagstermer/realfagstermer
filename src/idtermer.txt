@@ -4615,9 +4615,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000606
 te= Avblading
-ba= nb
-nn= Avblading
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-30T13:57:54Z
 
 id= REAL000607
 te= Retrovirus
@@ -24873,9 +24872,8 @@ st= REAL029274
 
 id= REAL003272
 te= Likhet
-ba= nb
-nn= Likskap
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-30T13:13:15Z
 
 id= REAL003273
 te= Hall-polynom
@@ -26687,9 +26685,8 @@ st= REAL031534
 
 id= REAL003500
 te= Lekeplasser
-ba= nk
-nn= Leikeplassar
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-30T13:10:00Z
 
 id= REAL003501
 te= Gravitasjonsfelt
@@ -31460,13 +31457,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004113
 te= Gass
-ba= na
-ba= nb
-ba= nc
-nn= Gass
 tio= 2014-08-25T00:00:00Z
-st= REAL015064
-st= REAL022344
+tis= 2016-12-30T13:45:33Z
+fly= REAL010145
 
 id= REAL004115
 te= Avsalting
@@ -47294,9 +47287,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006232
 te= Gassfase
-ba= nk
-nn= Gassfase
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-30T13:47:23Z
+fly= REAL007316
 
 id= REAL006233
 te= Vandige elektrolytter
@@ -55841,8 +55834,12 @@ ba= nf
 ba= ngh
 ba= nm
 ba= ns
+bf= Gassfase
+so= REAL010145
 nn= Gassar
+nn= Gassfase
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-30T13:49:01Z
 st= REAL018710
 st= REAL019602
 st= REAL020321
@@ -57686,9 +57683,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007563
 te= Geologisk feltarbeid
-ba= nc
-nn= Geologisk feltarbeid
 tio= 2014-08-25T00:00:00Z
+tis= 2016-12-30T13:29:43Z
+fly= REAL008973
 
 id= REAL007564
 te= Transfeksjon
@@ -68412,7 +68409,9 @@ id= REAL008973
 te= Feltgeologi
 ba= nc
 ba= ngh
+bf= Geologisk feltarbeid
 nn= Feltgeologi
+nn= Geologisk feltarbeid
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008974
@@ -77342,12 +77341,17 @@ ba= nk
 ba= nc
 ba= nf
 ba= ns
+bf= Gass
+so= REAL007316
 nn= Naturgass
+nn= Gass
 tio= 2014-08-25T00:00:00Z
+tie= 2016-12-30T13:49:02Z
 st= REAL015781
 st= REAL018059
 st= REAL021319
 st= REAL022645
+st= REAL022344
 
 id= REAL010146
 te= Rubus
@@ -100605,9 +100609,9 @@ tie= 2015-10-20T14:05:24Z
 
 id= REAL013001
 te= Lagring
-nn= Lagring
 tio= 2014-08-25T00:00:00Z
 tie= 2014-10-09T00:00:00Z
+tis= 2016-12-30T13:03:57Z
 
 id= REAL013002
 te= Laplace-transformasjoner
@@ -116919,4 +116923,16 @@ en= CPT theorem
 en= CPT invariance
 tio= 2016-12-20T20:48:01Z
 tie= 2016-12-20T20:51:07Z
+
+id= REAL031793
+te= Elektrofiske
+bf= Elfiske
+bf= El-fiske
+nn= Elektrofiske
+nn= El-fiske
+nn= Elfiske
+en= Electrofishing
+de= Fiske med elektrisk fangstapparat
+tio= 2016-12-30T13:33:15Z
+tie= 2016-12-30T13:35:35Z
 
