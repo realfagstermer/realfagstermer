@@ -9654,10 +9654,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001285
 te= Døgnfluelarver
-ba= nb
-nn= Døgnflugelarvar
-nn= Døgnflugelarver
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T14:25:21Z
+fly= REAL007527
 
 id= REAL001286
 te= Akvatisk økologi
@@ -12692,9 +12691,17 @@ ba= nb
 ba= nf
 ba= ns
 bf= Neurologi
+bf= Nevrologiske sykdommer
+bf= Nervesykdommer
 nn= Nevrologi
 nn= Neurologi
+nn= Nevrologiske sjukdomar
+nn= Nervesjukdomar
+nn= Nervesjukdommar
+nn= Nevrologiske sjukdommar
+de= Medisinsk felt om sykdommer i det sentrale og perifere nervesystemet, samt enkelte muskelsykdommer
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-02T11:38:58Z
 
 id= REAL001681
 te= Intellekt
@@ -19894,9 +19901,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002623
 te= Bakterielle sykdommer
 ba= nb
+bf= Bakterielle infeksjoner
+bf= Bakteriesykdommer
 nn= Bakterielle sjukdomar
 nn= Bakterielle sjukdommar
+nn= Bakterielle infeksjonar
+nn= Bakteriesjukdomar
+nn= Bakteriesjukdommar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-02T13:51:25Z
 
 id= REAL002624
 te= Konsertsaler
@@ -20385,9 +20398,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002696
 te= Døgnaktivitet
-ba= nb
-nn= Døgnaktivitet
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T14:23:50Z
+fly= REAL012915
 
 id= REAL002697
 te= Talegjenkjenning
@@ -27206,13 +27219,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003566
 te= Plantesykdommer
-ba= nk
-ba= nb
-ba= nq
-ba= ns
-nn= Plantesjukdomar
-nn= Plantesjukdommar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T13:48:12Z
+fly= REAL009836
 
 id= REAL003567
 te= Vilt
@@ -27925,10 +27934,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003654
 te= Døgnfluenymfer
-ba= nb
-nn= Døgnflugenymfer
 tio= 2014-08-25T00:00:00Z
-st= REAL020994
+tis= 2017-01-02T14:25:34Z
+fly= REAL007527
 
 id= REAL003656
 te= Forankring
@@ -31826,18 +31834,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004158
 te= Nevrobiologi
-ba= ni
-ba= nb
-ba= nf
-bf= Nevral biologi
-bf= Neurobiologi
-nn= Nevrobiologi
-nn= Neurobiologi
-nn= Nevral biologi
+de= Nervesystemets biologi
 tio= 2014-08-25T00:00:00Z
-st= REAL016425
-st= REAL020444
-st= REAL023118
+tie= 2017-01-02T11:40:18Z
+tis= 2017-01-02T11:40:39Z
+fly= REAL009453
 
 id= REAL004159
 te= Dansk språk
@@ -47243,7 +47244,11 @@ id= REAL006225
 te= Dyvelsdrek
 ba= ne
 nn= Dyvelsdrek
+en= Asafetida
+la= Ferula assa-foetida
+la= Ferula foetida
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-02T14:22:53Z
 
 id= REAL006226
 te= Ultrafiltrering
@@ -54123,7 +54128,6 @@ nn= Radioaktivt avfall
 de= Radioaktivt materiale som dannes under prosessen i kjernereaktorer
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-15T16:33:50Z
-st= REAL017064
 st= REAL020300
 st= REAL021430
 st= REAL023084
@@ -54216,12 +54220,9 @@ fly= REAL000430
 
 id= REAL007099
 te= Nervefysiologi
-ba= nk
-ba= nb
-ba= nf
-ba= ns
-nn= Nervefysiologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T11:52:06Z
+fly= REAL009415
 
 id= REAL007100
 te= Datastøttet modellering
@@ -56538,13 +56539,9 @@ st= REAL028825
 
 id= REAL007424
 te= Nevrologiske sykdommer
-ba= nk
-ba= nb
-nn= Nevrologiske sjukdomar
-nn= Nervesjukdomar
-nn= Nervesjukdommar
-nn= Nevrologiske sjukdommar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T11:35:46Z
+fly= REAL001680
 
 id= REAL007425
 te= Biologisk krigføring
@@ -57411,8 +57408,16 @@ id= REAL007527
 te= Døgnfluer
 ba= nk
 ba= nb
+bf= Døgnfluelarver
+bf= Døgnfluenymfer
 nn= Døgnfluger
+nn= Døgnflugelarvar
+nn= Døgnflugelarver
+nn= Døgnflugenymfer
+en= Mayflies
+la= Ephemeroptera
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-02T14:26:43Z
 st= REAL018041
 st= REAL024299
 st= REAL024788
@@ -58359,9 +58364,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007656
 te= Drogeanalyser
-ba= nb
-nn= Drogeanalysar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T14:27:07Z
 
 id= REAL007657
 te= Maskinlæring
@@ -59674,9 +59678,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007837
 te= Dypvannsrifter
-ba= nb
-nn= Djupvassrifter
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T14:19:42Z
+fly= REAL031236
 
 id= REAL007838
 te= Kontorsystemer
@@ -71553,9 +71557,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009389
 te= Dynamisk hydrodynamikk
-ba= ngh
-nn= Dynamisk hydrodynamikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T14:18:33Z
 
 id= REAL009390
 te= Kjemisk vannkvalitet
@@ -71722,9 +71725,13 @@ ba= ne
 ba= nf
 ba= nm
 ba= ns
+bf= Nervefysiologi
+bf= Neurofysiologi
 nn= Nevrofysiologi
 nn= Neurofysiologi
+nn= Nervefysiologi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-02T11:52:16Z
 st= REAL017573
 st= REAL019541
 st= REAL020934
@@ -71995,8 +72002,18 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009453
 te= Nevrovitenskap
 ba= ns
+bf= Nevrobiologi
+bf= Nevral biologi
+bf= Neurobiologi
 nn= Nevrovitskap
+nn= Nevrobiologi
+nn= Neurobiologi
+nn= Nevral biologi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-02T11:41:17Z
+st= REAL016425
+st= REAL020444
+st= REAL023118
 
 id= REAL009454
 te= Kinetikk
@@ -72570,10 +72587,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009538
 te= Nervesykdommer
-ba= nb
-nn= Nervesjukdomar
-nn= Nervesjukdommar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T11:36:30Z
+fly= REAL001680
 
 id= REAL009539
 te= Synergetikk
@@ -73115,9 +73131,8 @@ st= REAL030039
 
 id= REAL009604
 te= Dynamisk hydrologi
-ba= ngh
-nn= Dynamisk hydrologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T14:18:43Z
 
 id= REAL009605
 te= Natrium-kalium pumpe
@@ -74794,7 +74809,10 @@ te= Plantepatologi
 ba= nb
 ba= ne
 ba= nq
+bf= Plantesykdommer
 nn= Plantepatologi
+nn= Plantesjukdomar
+nn= Plantesjukdommar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009837
@@ -74836,6 +74854,7 @@ st= REAL023465
 st= REAL024607
 st= REAL025641
 st= REAL028140
+st= REAL031795
 
 id= REAL009841
 te= Energi
@@ -77350,8 +77369,8 @@ tie= 2016-12-30T13:49:02Z
 st= REAL015781
 st= REAL018059
 st= REAL021319
-st= REAL022645
 st= REAL022344
+st= REAL022645
 
 id= REAL010146
 te= Rubus
@@ -91139,9 +91158,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012006
 te= Bakterielle infeksjoner
-ba= nb
-nn= Bakterielle infeksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-02T13:50:13Z
+fly= REAL002623
 
 id= REAL012007
 te= Herschel Space Observatory
@@ -99891,8 +99910,10 @@ id= REAL012915
 te= Døgnrytme
 ba= nb
 ba= ns
+bf= Døgnaktivitet
 so= REAL012914
 nn= Døgnrytme
+nn= Døgnaktivitet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012916
@@ -115161,7 +115182,9 @@ tie= 2014-11-12T00:00:00Z
 
 id= REAL031236
 te= Hydrotermale skorsteiner
+bf= Dypvannsrifter
 nn= Hydrotermale skorsteinar
+nn= Djupvassrifter
 en= Hydrothermal vents
 en= Hydrotermal smokers
 tio= 2014-11-12T00:00:00Z
@@ -115861,6 +115884,7 @@ nn= Hender
 en= Hands
 tio= 2015-05-18T13:12:10Z
 tie= 2015-05-18T13:12:49Z
+st= REAL031794
 
 id= REAL031441
 te= Kullkraftverk
