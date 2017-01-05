@@ -18,41 +18,47 @@ Tips:
 Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 
 * [@bibliomari](https://github.com/bibliomari) :
-  Mari Lundevall, bibliotekar.
+  Mari Lundevall, tidligere redaksjonsleder.
 * [@BioHeidi](https://github.com/BioHeidi) :
-  Heidi Konestabo, fagansvar for biovitenskap.
+  Heidi Konestabo, klassifiserer biovitenskap.
 * [@danmichaelo](https://github.com/danmichaelo) :
-  Dan Michael O. Heggø, fagansvar for fysikk og materialvitenskap, utvikler av Okapi.
+  Dan Michael O. Heggø, klassifiserer fysikk og materialvitenskap, utvikler Emnesøk og Neo.
+* [@edinab](https://github.com/edinab) :
+  Edina Pozer Bue, klassifiserer geofag og meteorologi.
+* [@ewinge](https://github.com/ewinge) :
+  Erik Winge, utvikler Neo (og juridiske emneord, m.m.).
 * [@grosyn](https://github.com/grosyn) :
-  Gro Synnøve Nesland Lindgaard, bibliotekar, UBO/Naturhistorisk museum.
+  Gro Synnøve Nesland Lindgaard, klassifiserer for biblioteket ved Naturhistorisk museum.
+* [@iloveyellow](https://github.com/iloveyellow) :
+  Solveig Isis Sørbø, klassifiserer hva som helst
 * [@knuthe](https://github.com/knuthe) :
-  Knut Hegna, fagansvar for informatikk, utvikler av Roald og Sonja.
+  Knut Hegna, klassifiserer informatikk, utvikler Roald og Sonja.
 * [@kristinran](https://github.com/kristinran) :
-  Kristin Rangnes, fagansvar for geofag.
+  Kristin Rangnes, klassifiserer geofag, i permisjon.
 * [@kyrretl](https://github.com/kyrretl) :
-  Kyrre Traavik Låberg, fagansvar for biovitenskap, utvikler av emnesøket.
+  Kyrre Traavik Låberg, biolog, utvikler Emnesøk.
 * [@superLine](https://github.com/superLine) :
-  Line Nybakk Akerholt, bibliotekar, fagansvar forastrofysikk.
+  Line Nybakk Akerholt, klassifiserer astrofysikk.
 * [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
-  Karoline Moe, fagansvar for matematikk.
+  Karoline Moe, klassifiserer matematikk.
 * [@violabibaluba](https://github.com/violabibaluba) :
-  Viola Kuldvere, **redaksjonsleder** og bibliotekar.
-* Tone Charlotte Gadmar, fagansvar for kjemi.
-* Bente Kathrine Rasch, bibliotekar, fagansvar for farmasi.
+  Viola Kuldvere, **redaksjonsleder**.
+* Tone Charlotte Gadmar, klassifiserer kjemi.
+* Bente Kathrine Rasch, klassifiserer farmasi.
 
 Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
 * [@apaus](https://github.com/apaus) ; 
-  Ana Paulino, delvis vikar for @Hypsibus.
+  Ana Paulino, klassifiserer biovitenskap, delvis vikar for @Hypsibus.
 * [@bubir](https://github.com/bubir) :
-  Ingunn Rødland, fagansvar for kjemi.
+  Ingunn Rødland, klassifiserer kjemi.
 * [@Hypsibius](https://github.com/Hypsibius) :
-  Hege Folkestad, fagansvar for biovitenskap.
+  Hege Folkestad, klassifiserer biovitenskap.
 * [@jw-geo](https://github.com/jw-geo) :
-  Johannes Wiest, student som jobber med klass av geologi.
+  Johannes Wiest, student, klassifiserer geologi.
 * [@mittinatten](https://github.com/mittinatten) :
-  Simon Mitternacht, fagansvar for matematikk, informatikk og fysikk (teoretisk).
+  Simon Mitternacht, klassifiserer matematikk, informatikk og fysikk (teoretisk).
 * [@mzyg](https://github.com/mzyg) :
-  Marta Zygmuntowska, fagansvar for geofag, fysikk (anvendt) og teknologi.
+  Marta Zygmuntowska, klassifiserer geofag, fysikk (anvendt) og teknologi.
 
 For å varsle alle: @realfagstermer/alle
 
