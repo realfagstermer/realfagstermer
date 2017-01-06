@@ -1667,10 +1667,12 @@ nn= Puls-metodar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000224
-te= Cosinus transformasjon
+te= Diskrete cosinustransformasjoner
 ba= ni
-nn= Cosinus-transformasjon
+nn= Diskrete cosinustransformasjonar
+en= Discrete cosine transforms
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:54:32Z
 
 id= REAL000225
 te= European Astronomical Meeting
@@ -4343,11 +4345,21 @@ nn= Elektronstrålar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000567
-te= Reversed-phase liquid chromatography
+te= Omvendt-fase-kromatografi
 ba= nk
+bf= Omvendt fase væskekromatografi
+bf= Omvendt-fase-væskekromatografi
 ak= RPLC
+ak= RP-HPLC
+no= http://purl.obolibrary.org/obo/CHMO_0001050
+nn= Omvendt-fase-kromatografi
 nn= Omvendt fase væskekromatografi
+en= Reversed-phase chromatography
+en= Reversed-phase liquid chromatography
+en= Reversed phase HPLC
+de= Væskekromatografi der den mobile fasen er betydelig mer polar enn den stasjonære fasen (IUPAC)
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-06T00:01:57Z
 
 id= REAL000568
 te= Klassifiserende rom
@@ -4960,8 +4972,14 @@ st= REAL021425
 id= REAL000654
 te= Avsmalning
 ba= nb
+bf= Avsmaling
+bf= Avsmalningsfunksjoner
 nn= Avsmaling
+en= Tapering
+en= Tree tapering
+en= Tree taper
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T19:55:18Z
 
 id= REAL000655
 te= Overvekt
@@ -5559,12 +5577,15 @@ en= Commercial software
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000737
-te= Chebyshevpolynomer
+te= Tsjebysjov-polynomer
 ba= ni
 bf= Chebychevpolynomer
-nn= Chebyshevpolynom
-nn= Chebychevpolynom
+bf= Chebyshev-polynomer
+nn= Tsjebysjov-polynom
+nn= Chebyshev-polynom
+en= Chebyshev polynomials
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:38:49Z
 
 id= REAL000738
 te= Mirtazapin
@@ -6979,10 +7000,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000928
 te= Communication with Extra-Terrestrial Intelligence
-ba= ns
-ak= CETI
-nn= Communication with Extra-Terrestrial Intelligence
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:48:21Z
+fly= REAL005775
 
 id= REAL000929
 te= Komparativ pedagogikk
@@ -7412,10 +7432,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000986
 te= High performance liquid chromatography with fluorescence detection
-ba= nk
-ak= HPLC-FLD
-nn= High performance liquid chromatography with fluorescence detection
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T23:11:02Z
 
 id= REAL000987
 te= Giftige planter
@@ -8770,11 +8788,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001169
 te= Osteologi
-ba= nb
-nn= Osteologi
 tio= 2014-08-25T00:00:00Z
-st= REAL016552
-st= REAL022417
+tis= 2017-01-05T13:09:41Z
+fly= REAL013307
 
 id= REAL001170
 te= Analoge kretser
@@ -8804,9 +8820,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001173
 te= Høyoppløselig spektroskopi
-ba= nk
-nn= Høgoppløyseleg spektroskopi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-06T00:21:47Z
 
 id= REAL001174
 te= Jaktvåpen
@@ -14458,12 +14473,6 @@ tio= 2014-08-25T00:00:00Z
 st= REAL016130
 st= REAL022127
 
-id= REAL001920
-te= Hplc
-tio= 2014-08-25T00:00:00Z
-tis= 2016-06-28T13:42:45Z
-fly= REAL011374
-
 id= REAL001921
 te= Programbevis
 ba= ni
@@ -14802,10 +14811,9 @@ st= REAL015941
 
 id= REAL001967
 te= Supercritical fluid chromatography
-ba= nk
-ak= SFC
-nn= Superkritisk væskekromatografi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T22:14:29Z
+fly= REAL004216
 
 id= REAL001968
 te= Vanntemperatur
@@ -17880,9 +17888,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002364
 te= Bjelkestrukturer
-ba= nm
-nn= Bjelkestrukturar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:13:09Z
+fly= REAL010775
 
 id= REAL002365
 te= Biodynamikk
@@ -19641,8 +19649,9 @@ ba= ns
 ak= LC
 nn= Væskekromatografi
 en= Liquid chromatography
+de= Separasjonsteknikk der den mobile fasen er en væske. Kan utføres i kolonne eller på plan. (IUPAC)
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-28T13:13:01Z
+tie= 2017-01-05T23:55:12Z
 st= REAL027905
 
 id= REAL002589
@@ -29281,10 +29290,11 @@ nn= Økologisk planlegging
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003823
-te= Bicmos
+te= BiCMOS
 ba= ni
-nn= Bicmos
+nn= BiCMOS
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:10:07Z
 
 id= REAL003824
 te= Muskeldystrofi
@@ -29330,11 +29340,11 @@ en= Digital audio tape
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003830
-te= Centrifugal partition chromatography
-ba= nk
-ak= CPC
-nn= Centrifugal partition chromatography
+te= Sentrifugalfordelingskromatografi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:32:59Z
+tis= 2017-01-05T20:33:15Z
+fly= REAL005161
 
 id= REAL003831
 te= Perikum
@@ -29454,12 +29464,8 @@ st= REAL029192
 
 id= REAL003844
 te= Centre National d'Études Spatiales
-ba= na
-ak= CNES
-nn= CNES
-nn= Centre National d'Études Spatiales
-nn= National Centre for Space Studies
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:31:25Z
 
 id= REAL003845
 te= Faunakriminalitet
@@ -30420,8 +30426,6 @@ st= REAL028135
 
 id= REAL003971
 te= Auxiner
-ba= ns
-nn= Auxin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003973
@@ -32264,8 +32268,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004216
 te= Superkritisk væskekromatografi
 ba= nk
+ak= SFC
+no= http://purl.obolibrary.org/obo/CHMO_0001003
 nn= Superkritisk væskekromatografi
+en= Supercritical-fluid chromatography
+en= Supercritical fluid chromatography
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T22:18:04Z
 
 id= REAL004217
 te= Slanking
@@ -33097,10 +33106,12 @@ ba= ns
 ak= GC
 ak= LC-GC
 ak= GLC
+no= http://purl.obolibrary.org/obo/CHMO_0001002
 nn= Gasskromatografi
 en= Gas chromatography
+de= Separasjonsteknikk der den mobile fasen er en gass (IUPAC)
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-28T13:31:09Z
+tie= 2017-01-05T23:55:03Z
 st= REAL026437
 
 id= REAL004325
@@ -33711,8 +33722,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004408
 te= Avisingsvæske
-ba= nc
-nn= Avisingsvæske
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004409
@@ -35039,7 +35048,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004579
 te= Automatisk regulering
 ba= nm
+bf= Automatisk kontroll
+bf= Automatisk kontrollteknikk
+so= REAL013024
 nn= Automatisk regulering
+nn= Automatisk kontroll
+nn= Automatisk kontrollteknikk
+en= Automatic control
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004580
@@ -35566,9 +35581,8 @@ st= REAL024067
 
 id= REAL004651
 te= Topografisk skjelett
-ba= nb
-nn= Topografisk skjelett
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T13:08:55Z
 
 id= REAL004652
 te= Brukertjenester
@@ -38204,9 +38218,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005010
 te= Avbildninger
-ba= nm
-nn= Avbildingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T19:08:23Z
 
 id= REAL005012
 te= Plastiske bearbeidingsprosesser
@@ -38822,11 +38835,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-12-09T18:17:51Z
 
 id= REAL005096
-te= Micellar electrokinetic chromatography
+te= Micellær elektrokinetisk kromatografi
 ba= nk
 ak= MEKC
+no= http://purl.obolibrary.org/obo/CHMO_0001036
 nn= Micellær elektrokinetisk kromatografi
+en= Micellar electrokinetic chromatography
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T22:35:51Z
 
 id= REAL005097
 te= Storjoer
@@ -39305,8 +39321,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005161
 te= Fordelingskromatografi
 ba= nk
+bf= Sentrifugalfordelingskromatografi
+ak= CPC
+no= http://purl.obolibrary.org/obo/CHMO_0002403
 nn= Fordelingskromatografi
+en= Partition chromatography
+en= Centrifugal partition chromatography
+de= Separasjon hovedsakelig basert på forskjell i løselighet av prøvekomponentene i stasjonær fase (gasskromatografi), eller på forskjell i løselighet av komponentene i mobil og stasjonær fase (væskekromatografi) (IUPAC)
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T23:53:40Z
 
 id= REAL005162
 te= Biomineraler
@@ -39400,10 +39423,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005176
 te= Liquid chromatography nuclear magnetic resonance
-ba= nk
-ak= LC-NMR
-nn= Væskekromatografi kjernemagnetisk resonans
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T23:05:51Z
 
 id= REAL005177
 te= Atomstråler
@@ -40057,14 +40078,19 @@ nn= Kjemiske mutagen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005264
-te= Chebyshevrekker
+te= Tsjebysjov-rekker
 ba= ni
-bf= Chebychevrekker
-nn= Chebyshevrekkjer
-nn= Chebychevrekker
-nn= Chebychevrekkjer
-nn= Chebyshevrekker
+bf= Chebychev-rekker
+bf= Chebyshev-rekker
+nn= Tsjebysjov-rekkjer
+nn= Tsjebysjov-rekker
+nn= Chebychev-rekkjer
+nn= Chebychev-rekker
+nn= Chebyshev-rekkjer
+nn= Chebyshev-rekker
+en= Chebyshev series
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:39:40Z
 
 id= REAL005265
 te= Fosfater
@@ -43385,10 +43411,13 @@ nn= Miljøkriminalitet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005719
-te= Cauchy-kovalevskaya teoremet
+te= Cauchy-Kovalevskaja-teoremet
 ba= ni
-nn= Cauchy-Kovalevskaya-teoremet
+nn= Cauchy-Kovalevskaja-teoremet
+en= Cauchy-Kowalevski theorem
+en= Cauchy-Kovalevskaya theorem
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:28:18Z
 
 id= REAL005720
 te= Kult-prosjektet
@@ -43831,13 +43860,17 @@ nn= Komparative analysar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005775
-te= Search for Extra-Terrestrial Intelligence
+te= SETI
 ba= na
+bf= Leting etter utenomjordisk intelligens
 ak= SETI
-nn= Leiting etter utanomjordisk intelligens
+ak= CETI
 nn= SETI
-nn= Search for Extra-Terrestrial Intelligence
+nn= Leiting etter utanomjordisk intelligens
+en= Search for extraterrestrial intelligence
+en= Communication with extraterrestrial intelligence
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:49:23Z
 
 id= REAL005776
 te= Svinefamilien
@@ -44126,11 +44159,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005815
 te= Electron Paramagnetic Resonance
-ba= nf
-ak= EPR
-nn= Elektronspinnresonans
-nn= Elektronisk paramagnetisk resonans
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T18:24:33Z
+fly= REAL006690
 
 id= REAL005816
 te= Livets tre
@@ -44500,11 +44531,16 @@ st= REAL023491
 st= REAL031332
 
 id= REAL005862
-te= Size exclusion chromatography
+te= Størrelseseksklusjonskromatografi
 ba= nk
 ak= SEC
+no= http://purl.obolibrary.org/obo/CHMO_0001013
 nn= Storleikseksklusjonskromatografi
+en= Size-exclusion chromatography
+en= Size exclusion chromatography
+de= Kolonnekromatografisk metode som separerer molekyler i væske etter størrelse (IUPAC)
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T23:55:43Z
 
 id= REAL005863
 te= Genterapi
@@ -45440,10 +45476,13 @@ nn= Gummitre
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005993
-te= Bosonmodellen
+te= Vekselvirkende bosonmodeller
 ba= nf
-nn= Bosonmodellen
+nn= Vekselverkande bosonmodellar
+en= Interacting boson models
+en= Interacting boson approximation
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:20:42Z
 
 id= REAL005994
 te= Kompakte transformasjonsgrupper
@@ -45937,10 +45976,12 @@ nn= Serotonin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006054
-te= Choleskyfaktorisering
+te= Cholesky-faktorisering
 ba= ni
-nn= Choleskyfaktorisering
+nn= Cholesky-faktorisering
+en= Cholesky factorization
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:43:39Z
 
 id= REAL006055
 te= Solar-terrestrisk fysikk
@@ -46102,9 +46143,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006077
 te= Høyoppløselig væskekromatografi
-ba= ne
-nn= Høgoppløyseleg væskekromatografi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-06T00:09:31Z
+fly= REAL011374
 
 id= REAL006078
 te= Subduksjon
@@ -46692,11 +46733,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006152
 te= Electron spin resonance
-ba= nk
-ba= nf
-ak= ESR
-nn= Elektronspinnresonans
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T18:28:34Z
+fly= REAL006690
 
 id= REAL006153
 te= Interglasial
@@ -51049,11 +51088,30 @@ nn= Kjemisk forsvar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006690
-te= Elektronspinnresonans
+te= Elektronspinnresonansspektroskopi
 ba= nk
 ba= nf
+bf= Elektronparamagnetisk resonans
+bf= Paramagnetisk elektronresonans
+bf= Electron Paramagnetic Resonance
+bf= Paramagnetisk spinnresonans
+bf= Paramagnetisk resonans
+bf= Electron spin resonance
+ak= EPR
+ak= ESR
+no= http://purl.obolibrary.org/obo/CHMO_0000328
 nn= Elektronspinnresonans
+nn= Elektronparamagnetisk resonans
+nn= Elektronisk paramagnetisk resonans
+nn= Paramagnetisk spinnresonans
+nn= Paramagnetisk resonans
+en= Electron spin resonance spectroscopy
+en= Electron paramagnetic resonance spectrometry
+en= Electron paramagnetic resonance spectroscopy
+en= Electron spin resonance spectrometry
+de= spektroskopisk metode
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T18:23:36Z
 
 id= REAL006691
 te= Diskrete sannsynlighetsfordelinger
@@ -52248,10 +52306,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006844
 te= Communication with Extraterrestrial Intelligence
-ba= na
-ak= CETI
-nn= Communication with Extraterrestrial Intelligence
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:48:00Z
+fly= REAL005775
 
 id= REAL006845
 te= Reproduksjonsteknologi
@@ -55615,9 +55672,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007286
 te= Brebevegelser
 ba= ngh
+bf= Isbrebevegelser
 nn= Brerørsler
 nn= Brebevegelsar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:23:27Z
 
 id= REAL007287
 te= Reflektometri
@@ -55829,7 +55888,7 @@ nn= Vanadiumgruppa
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007316
-te= Gasser
+te= Gass
 ba= nk
 ba= na
 ba= nb
@@ -55839,11 +55898,13 @@ ba= ngh
 ba= nm
 ba= ns
 bf= Gassfase
+bf= Gasser
 so= REAL010145
+nn= Gass
 nn= Gassar
 nn= Gassfase
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-30T13:49:01Z
+tie= 2017-01-04T14:43:44Z
 st= REAL018710
 st= REAL019602
 st= REAL020321
@@ -56088,9 +56149,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007353
 te= Automatiske målestasjoner
-ba= ngh
-nn= Automatiske målestasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T17:32:30Z
 
 id= REAL007354
 te= Glukokjemi
@@ -56283,11 +56343,15 @@ id= REAL007383
 te= Tynnsjiktkromatografi
 ba= nk
 ba= nb
+bf= Planar kromatografi
 ak= TLC
+no= http://purl.obolibrary.org/obo/CHMO_0001007
 nn= Tynnsjiktkromatografi
 en= Thin layer chromatography
+en= Planar chromatography
+en= Open-bed chromatography
 tio= 2014-08-25T00:00:00Z
-tie= 2016-05-24T15:01:37Z
+tie= 2017-01-05T23:44:46Z
 
 id= REAL007384
 te= N-vinylftalimid
@@ -57332,11 +57396,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007517
 te= Liquid chromatography time-of-flight
-ba= nk
-ak= LC-TOF
-nn= Væskekromatografi time-of-flight
-nn= Liquid chromatography time-of-flight
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T23:08:35Z
 
 id= REAL007518
 te= Lysmåling
@@ -58588,10 +58649,16 @@ nn= Domestisering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007688
-te= Chebyshevapproksimasjon
+te= Tsjebysjov-approksimasjon
 ba= ni
-nn= Chebyshevapproksimasjon
+bf= Chebyshev-approksimasjon
+bf= Chebychev-approksimasjon
+nn= Tsjebysjov-approksimasjon
+nn= Chebyshev-approksimasjon
+nn= Chebychev-approksimasjon
+en= Chebyshev approximation
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:37:23Z
 
 id= REAL007689
 te= Etnologi
@@ -60022,9 +60089,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007887
 te= Avskyting
-ba= nb
-nn= Avskyting
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T19:24:29Z
 
 id= REAL007888
 te= Multimediasystemer
@@ -65496,9 +65562,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008582
 te= Byggverk
-ba= ns
-nn= Byggverk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:24:19Z
 
 id= REAL008583
 te= Kjemisk termodynamikk
@@ -65921,8 +65986,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008645
 te= Adsorpsjonskromatografi
 ba= nk
+no= http://purl.obolibrary.org/obo/CHMO_0001128
 nn= Adsorpsjonskromatografi
+en= Adsorption chromatography
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T22:21:29Z
 
 id= REAL008646
 te= Zoonoser
@@ -65964,8 +66032,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008652
 te= Ionebyttekromatografi
 ba= nk
+ak= IC
+ak= IEC
+no= http://purl.obolibrary.org/obo/CHMO_0001014
 nn= Ionebytekromatografi
+en= Ion-exchange chromatography
+en= Ion chromatography
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T23:27:18Z
 
 id= REAL008653
 te= Høydemålinger
@@ -69744,10 +69818,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009142
 te= Hydrophilic interaction liquid chromatography
-ba= nk
-ak= HILIC
-nn= Hydrofil interaksjons-væskekromatografi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T23:25:26Z
 
 id= REAL009143
 te= Flyovervåking
@@ -71946,10 +72018,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009442
 te= Bindinger
-ba= nk
-ba= nc
-nn= Bindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:11:31Z
+fly= REAL011076
 
 id= REAL009443
 te= Økonomisk analyse
@@ -75217,14 +75288,10 @@ st= REAL015938
 
 id= REAL009881
 te= Automatisk kontroll
-ba= ni
-bf= Automatisk kontrollteknikk
-so= REAL013024
-nn= Automatisk kontroll
-nn= Automatisk kontrollteknikk
-en= Automatic control
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-20T17:57:41Z
+tis= 2017-01-05T16:54:21Z
+fly= REAL004579
 
 id= REAL009882
 te= Lyngheier
@@ -75794,10 +75861,11 @@ st= REAL017580
 st= REAL028830
 
 id= REAL009946
-te= Brauer grupper
+te= Brauer-grupper
 ba= nm
 nn= Brauer-grupper
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:23:41Z
 
 id= REAL009947
 te= Dekontaminering
@@ -76944,10 +77012,13 @@ st= REAL027520
 st= REAL029489
 
 id= REAL010087
-te= Calabi-yau
+te= Calabi-Yau-mangfoldigheter
 ba= nm
-nn= Calabi-yau
+nn= Calabi-Yau-mangfald
+en= Calabi–Yau manifolds
+en= Calabi–Yau spaces
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:27:10Z
 
 id= REAL010088
 te= Savanner
@@ -77423,10 +77494,8 @@ st= REAL026982
 
 id= REAL010151
 te= Brannfarlige tekstiler
-ba= nk
-nn= Brannfarlege tekstil
-nn= Brannfarlege tekstilar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:22:36Z
 
 id= REAL010152
 te= Differensialregning
@@ -78898,9 +78967,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010330
 te= Mikro væskekromatografi
-ba= nk
-nn= Mikro væskekromatografi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-06T00:02:38Z
 
 id= REAL010331
 te= Semiokjemi
@@ -79650,13 +79718,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010436
 te= Nuclear magnetic resonance
-ba= nk
-ba= nb
-ba= nf
-nn= Kjernemagnetisk resonans
 tio= 2014-08-25T00:00:00Z
-st= REAL016402
-st= REAL021385
+tis= 2017-01-05T18:13:42Z
+fly= REAL013583
 
 id= REAL010437
 te= Parfymer
@@ -80466,8 +80530,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010551
 te= Kvastfinnefisker
 ba= nb
+bf= Kjøttfinnefisker
 nn= Kvastfinnefiskar
+nn= Kjøttfinnefiskar
+nn= Kjøtfinnefiskar
+la= Coelacanthiformes
+la= Sarcopterygii
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T12:44:30Z
 
 id= REAL010552
 te= Naturlig immunitet
@@ -82090,7 +82160,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010775
 te= Bjelker
 ba= nm
+bf= Bjelkestrukturer
 nn= Bjelkar
+nn= Bjelkestrukturar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010776
@@ -82331,11 +82403,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010812
 te= Search for Extra-Terrestrial Intelligence (SETI)
-ba= na
-nn= Leiting etter utanomjordisk intelligens
-nn= SETI
-nn= Search for Extra-Terrestrial Intelligence (SETI)
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:47:14Z
+fly= REAL005775
 
 id= REAL010813
 te= Øybiologi
@@ -83340,10 +83410,12 @@ tio= 2014-08-25T00:00:00Z
 st= REAL019130
 
 id= REAL010954
-te= Church-turingtesen
+te= Church-Turing-tesen
 ba= ni
 nn= Church-Turing-tesen
+en= Church–Turing thesis
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:34:31Z
 
 id= REAL010956
 te= Sjeldne bøker
@@ -83363,9 +83435,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010958
 te= Brannfarlige og eksplosjonsfarlige stoffer
-ba= nk
-nn= Brannfarlege og eksplosjonsfarlege stoff
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:22:24Z
 
 id= REAL010960
 te= Lundefugler
@@ -84170,8 +84241,10 @@ te= Kjemiske bindinger
 ba= nk
 ba= nc
 ba= nf
+bf= Bindinger
 nn= Kjemiske bindingar
 nn= Kjemiske sambindingar
+nn= Bindingar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011077
@@ -85316,9 +85389,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011243
 te= Elektronparamagnetisk resonans
-ba= nk
-nn= Elektronparamagnetisk resonans
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T18:17:14Z
+fly= REAL006690
 
 id= REAL011244
 te= Bobler
@@ -86275,16 +86348,20 @@ en= Distributed circuits
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011374
-te= Høyytelsesvæskekromatografi
+te= HPLC
 ba= nk
-bf= Hplc
+bf= Høypresisjonsvæskekromatografi
+bf= Høyoppløselig væskekromatografi
+bf= Høyytelsesvæskekromatografi
 ak= HPLC
-nn= Høgytingsvæskekromatografi
 nn= HPLC
+nn= Høgpresisjonsvæskekromatografi
+nn= Høgoppløyseleg væskekromatografi
 en= High-performance liquid chromatography
 en= High performance liquid chromatography
+en= High-pressure liquid chromatography
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-28T13:18:45Z
+tie= 2017-01-06T00:27:38Z
 st= REAL014191
 
 id= REAL011375
@@ -87991,11 +88068,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011602
 te= Centre National de la Recherche Scientifique
-ba= na
-ak= CNRS
-nn= Centre National de la Recherche Scientifique
-nn= CNRS
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T20:30:13Z
 
 id= REAL011603
 te= Konstruksjonsmaterialer
@@ -88156,7 +88230,9 @@ te= Elektrokromatografi
 ba= nk
 ba= ne
 nn= Elektrokromatografi
+en= Electrochromatography
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T22:22:04Z
 
 id= REAL011621
 te= Miljøgeografi
@@ -89762,7 +89838,6 @@ bf= Kromatometri
 nn= Kromatografiske metodar
 nn= Kromatometri
 tio= 2014-08-25T00:00:00Z
-st= REAL029376
 
 id= REAL011823
 te= Fluorerte etanoler
@@ -90415,9 +90490,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011904
 te= Avlytting
-ba= ns
-nn= Avlytting
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T19:14:02Z
+fly= REAL012764
 
 id= REAL011905
 te= Binære tall
@@ -91045,11 +91120,15 @@ nn= Virussjukdommar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011989
-te= Bose-Einstein condensates
+te= Bose-Einstein-kondensasjon
 ba= nk
+bf= Bose-Einstein-kondensat
+nn= Bose-Einstein-kondensasjon
 nn= Bose-Einstein-kondensat
-nn= Bose-Einstein condensates
+en= Bose–Einstein condensation
+en= Bose–Einstein condensate
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T20:16:16Z
 
 id= REAL011990
 te= Mikrometeoritter
@@ -91479,9 +91558,9 @@ fly= REAL008086
 
 id= REAL012057
 te= Paramagnetisk resonans
-ba= nf
-nn= Paramagnetisk resonans
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T18:27:59Z
+fly= REAL006690
 
 id= REAL012058
 te= NP-problemer
@@ -98553,7 +98632,9 @@ ba= ngh
 ba= nq
 ba= ns
 bf= Overvåkning
+bf= Avlytting
 nn= Overvaking
+nn= Avlytting
 en= Surveillance
 tio= 2014-08-25T00:00:00Z
 st= REAL017894
@@ -99423,9 +99504,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012867
 te= Paramagnetisk spinnresonans
-ba= nf
-nn= Paramagnetisk spinnresonans
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-05T18:25:20Z
+fly= REAL006690
 
 id= REAL012868
 te= Proteinkrystallografi
@@ -100405,8 +100486,14 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012963
 te= Kapillærkromatografi
+bf= Kapillær HPLC
+bf= Kapillær væskekromatografi
+no= http://purl.obolibrary.org/obo/CHMO_0001049
 nn= Kapillærkromatografi
+en= Capillary liquid chromatography
+en= Capillary HPLC
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-06T00:06:34Z
 
 id= REAL012964
 te= Kapillærelektrokromatografi
@@ -100921,9 +101008,9 @@ ba= nm
 bf= Reguleringsteori
 bf= Styringsteknikk
 bf= Styreteknikk
-so= REAL009881
 so= REAL000039
 so= REAL009422
+so= REAL004579
 nn= Reguleringsteknikk
 nn= Reguleringsteori
 nn= Styreteknikk
@@ -103898,10 +103985,14 @@ ba= nb
 ba= ns
 bf= Knokler
 bf= Beinvev
+bf= Osteologi
 nn= Bein
 nn= Beinvev
 nn= Knoklar
+nn= Osteologi
 tio= 2014-08-25T00:00:00Z
+st= REAL016552
+st= REAL022417
 
 id= REAL013308
 te= Bekkasiner
@@ -108505,6 +108596,7 @@ nn= Kjernemagnetisk resonans-spektroskopi
 nn= NMR-spektroskopi
 en= Nuclear magnetic resonance
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-05T18:13:49Z
 st= REAL015671
 st= REAL018718
 st= REAL020516
@@ -116964,4 +117056,12 @@ en= Electrofishing
 de= Fiske med elektrisk fangstapparat
 tio= 2016-12-30T13:33:15Z
 tie= 2016-12-30T13:35:35Z
+
+id= REAL031796
+te= Varmefotografering
+bf= Termografi
+nn= Varmefotografering
+en= Thermography
+tio= 2017-01-05T18:48:14Z
+tie= 2017-01-05T18:50:28Z
 
