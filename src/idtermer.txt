@@ -40934,11 +40934,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005385
 te= Reactive gaseous mercury
-ba= nk
-ak= RGM
-nn= Reaktiv kvikksølvgass
-nn= Reaktiv kvikksylvgass
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-13T13:36:07Z
+fly= REAL010907
 
 id= REAL005386
 te= Skoler
@@ -83082,9 +83080,20 @@ st= REAL023376
 id= REAL010907
 te= Kvikksølvgass
 ba= nk
+bf= Reaktiv kvikksølvgass
+bf= Atmosfærisk kvikksølv
+ak= RGM
 nn= Kvikksølvgass
 nn= Kvikksylvgass
+nn= Reaktiv kvikksølvgass
+nn= Reaktiv kvikksylvgass
+nn= Atmosfærisk kvikksølv
+nn= Atmosfærisk kvikksylv
+en= Gaseous mercury
+en= Reactive gaseous mercury
+en= Atmospheric mercury
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-13T13:39:30Z
 
 id= REAL010908
 te= Datastøttet programmering
