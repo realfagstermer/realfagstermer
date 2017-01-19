@@ -1743,9 +1743,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000234
 te= Seismisk kartlegging
-ba= nc
-nn= Seismisk kartlegging
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T11:50:20Z
+fly= REAL006256
 
 id= REAL000235
 te= Planteproduksjon
@@ -3433,9 +3433,9 @@ st= REAL025678
 
 id= REAL000460
 te= Seismiske undersøkelser
-ba= nc
-nn= Seismiske undersøkingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T11:50:10Z
+fly= REAL006256
 
 id= REAL000461
 te= Automatisk resonnering
@@ -5903,10 +5903,20 @@ nn= Testar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000775
-te= C-vitaminer
+te= Vitamin C
 ba= ne
+bf= Vitamin-c
+bf= Askorbinsyre
+bf= C-vitaminer
+nn= Askorbinsyre
 nn= C-vitamin
+nn= Vitamin-c
+nn= Vitamin C
+en= Vitamin C
+en= Ascorbic acid
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T16:28:47Z
+st= REAL022922
 
 id= REAL000776
 te= Aritmetiske kretser
@@ -10085,10 +10095,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001320
 te= Infrarød video
-ba= ni
-nn= Infraraud video
-en= Infrared video
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T13:16:15Z
+fly= REAL031796
 
 id= REAL001321
 te= Rugder
@@ -11047,8 +11056,11 @@ id= REAL001456
 te= Død
 ba= nk
 ba= nb
+bf= Døden
 nn= Daude
 nn= Død
+nn= Dauden
+nn= Døden
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001457
@@ -17188,12 +17200,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-06-14T14:31:56Z
 
 id= REAL002271
-te= Vitamin b7
+te= Vitamin B7
 ba= ns
 bf= Biotin
+ot= REAL010557
 nn= Vitamin b7
 nn= Biotin
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T16:32:44Z
 
 id= REAL002273
 te= Sniper
@@ -20036,9 +20050,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002638
 te= Elektrokjemiske metoder
-ba= nk
-nn= Elektrokjemiske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T16:24:14Z
+fly= REAL006663
 
 id= REAL002640
 te= Jernlegeringer
@@ -21275,11 +21289,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002797
 te= Dos
-ba= ni
-no= Disk operating system
-nn= Dos
-en= Disk operating system
+no= Slettes etter #620, se PC-DOS og MS-DOS
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T12:25:43Z
+tis= 2017-01-18T12:25:48Z
 
 id= REAL002798
 te= Tachyoner
@@ -23823,7 +23836,9 @@ id= REAL003115
 te= Dispersjon
 ba= nf
 nn= Dispersjon
+de= bølgefenomen særlig kjent fra optikk, der fasehastigheten til en bølge avhenger av frekvensen
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T12:32:08Z
 
 id= REAL003116
 te= Alant
@@ -26075,13 +26090,21 @@ st= REAL021812
 st= REAL026524
 
 id= REAL003420
-te= Near infra-red spectroscopy
+te= NIR-spektroskopi
 ba= nk
+bf= Nær-infrarød-spektroskopi
+bf= Nær infrarød spektroskopi
 ak= NIR
-nn= NIRS
+ak= NIRS
+no= http://purl.obolibrary.org/obo/CHMO_0000638
 nn= Near infra-red spectroscopy
 nn= Nær infrafraud spektroskopi
+en= Near-infrared absorption spectroscopy
+en= Near infrared spectroscopy
+en= Near infrared absorbance spectroscopy
+en= Near infrared absorption spectrometry
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T13:07:45Z
 
 id= REAL003421
 te= Kosmiske katastrofer
@@ -30750,10 +30773,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004015
 te= Elektroanalyse
-ba= nb
-ba= ns
-nn= Elektroanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T16:17:54Z
+fly= REAL006663
 
 id= REAL004016
 te= Transgene elementer
@@ -42974,10 +42996,24 @@ nn= Aneuploidi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005666
-te= Hashing
+te= Avtrykksalgoritmer
 ba= ni
-nn= Hashing
+bf= Avtrykksfunksjoner
+bf= Sjekksumalgoritmer
+bf= Sjekksumfunksjoner
+bf= Hashalgoritmer
+bf= Hashfunksjoner
+nn= Avtrykksalgoritmar
+nn= Avtrykksfunksjonar
+nn= Sjekksumalgoritmar
+nn= Sjekksumfunksjonar
+nn= Hashalgoritmar
+nn= Hashfunksjonar
+en= Hash algorithms
+en= Hash functions
+de= En avtrykksalgoritme (engelsk: hash algorithm) er en algoritme som tar inn en tekst av vilkårlig lengde og transformerer dette til et resultat av fast lengde.  Samme tekst vil alltid resultere i samme avtrykk.
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T12:57:42Z
 
 id= REAL005668
 te= Salinitet
@@ -43967,7 +44003,9 @@ id= REAL005785
 te= Grafittovner
 ba= nk
 nn= Grafittomnar
+en= Graphite furnaces
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T13:03:39Z
 
 id= REAL005786
 te= Metallkomplekser
@@ -45798,8 +45836,25 @@ st= REAL020318
 id= REAL006030
 te= Fotoelektronspektroskopi
 ba= nk
+bf= Fotoemisjonsspektroskopi
+bf= Røntgenfotoelektronemisjonsspektroskopi
+bf= XPS
+ak= PES
+ak= PS
+ak= XPS
+ak= ESCA
+no= http://purl.obolibrary.org/obo/CHMO_0000387
 nn= Fotoelektronspektroskopi
+nn= Fotoemisjonsspektrometri
+nn= Elektronspektroskopi for kjemisk analyse
+en= Photoelectron spectroscopy
+en= Photoemission spectroscopy
+en= X-ray photoelectron spectroscopy
+en= Photoelectron emission spectroscopy
+en= Photoelectron spectrometry
+en= Electron spectroscopy for chemical analysis
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T12:17:38Z
 
 id= REAL006031
 te= Rogn
@@ -46708,9 +46763,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006147
 te= Elektro-kjemisk analyse
-ba= nk
-nn= Elektro-kjemisk analyse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T16:17:36Z
+fly= REAL006663
 
 id= REAL006148
 te= Markedsorientering
@@ -47500,8 +47555,15 @@ st= REAL018321
 id= REAL006256
 te= Seismiske grunnundersøkelser
 ba= nc
+bf= Seismiske undersøkelser
+bf= Seismisk kartlegging
+so= REAL006706
 nn= Seismiske grunnundersøkingar
+nn= Seismiske undersøkingar
+nn= Seismisk kartlegging
+en= Seismic surveys
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T11:50:39Z
 st= REAL029734
 st= REAL029898
 
@@ -48179,10 +48241,18 @@ nn= Adjuvans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006335
-te= Nedbørsfelter
+te= Nedbørsfelt
 ba= ngh
+bf= Vanntilførselsområder
+bf= Nedslagsfelt
+bf= Tilsigsområder
+bf= Nedbørsområder
 nn= Nedbørsfelt
+nn= Tilsigsfelt
+nn= Tilsigsområde
+nn= Vasstilførselsområde
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T16:41:52Z
 st= REAL023642
 st= REAL029403
 
@@ -50899,8 +50969,23 @@ st= REAL016762
 id= REAL006663
 te= Elektrokjemisk analyse
 ba= nk
+bf= Elektro-kjemisk analyse
+bf= Elektroanalyse
+bf= Elektroanalytisk kjemi
+bf= Elektroanalytiske metoder
+bf= Elektrokjemiske metoder
+no= http://purl.obolibrary.org/obo/CHMO_0000003
 nn= Elektrokjemisk analyse
+nn= Elektro-kjemisk analyse
+nn= Elektroanalyse
+nn= Elektroanalytisk kjemi
+nn= Elektrokjemiske metodar
+en= Electrochemical analysis
+en= Electrochemical assay
+en= Electroanalytical methods
+en= Electrochemical methods
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T16:23:26Z
 
 id= REAL006664
 te= Snøsmelting
@@ -51281,8 +51366,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006706
 te= Seismisk oljeleting
 ba= nc
+bf= Seismisk prospektering
+so= REAL006256
 nn= Seismisk oljeleiting
+nn= Seismisk prospektering
+en= Seismic hydrocarbon exploration
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T11:52:54Z
 st= REAL016299
 st= REAL018813
 st= REAL020938
@@ -52112,9 +52202,9 @@ st= REAL028202
 
 id= REAL006818
 te= Infrarød instrumentering
-ba= nk
-nn= Infraraud instrumentering
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T13:15:39Z
+tis= 2017-01-18T13:20:50Z
 
 id= REAL006819
 te= Feltstasjoner
@@ -53078,12 +53168,21 @@ tis= 2016-06-28T13:17:03Z
 fly= REAL011374
 
 id= REAL006941
-te= Graphite furnace atomic absorption spectroscopy
+te= GF-AAS
 ba= nk
+bf= Grafittovn atomabsorpsjonsspektroskopi
+bf= Atomabsorpsjonsspektroskopi i grafittovn
+bf= Grafittovn atomabsorpsjonsspektrometri
 ak= GFAAS
+ot= REAL012210
+no= http://purl.obolibrary.org/obo/CHMO_0000239
 nn= Grafittomn atomabsorpsjonsspektrometri
-nn= Graphite furnace atomic absorption spectroscopy
+nn= Grafittomn atomabsorpsjonsspektroskopi
+en= GF-AAS
+en= Graphite furnace atomic absorption spectrometry
+en= Graphite-furnace atomic-absorption spectroscopy
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T13:02:05Z
 
 id= REAL006942
 te= Fc-reseptorer
@@ -55741,16 +55840,11 @@ tie= 2015-02-04T00:00:00Z
 
 id= REAL007296
 te= Fotoemisjonsspektroskopi
-ba= nk
-bf= Røntgenfotoelektronemisjonsspektroskopi
-bf= XPS
-ak= PES
-nn= Fotoemisjonsspektrometri
-en= Photoemission spectroscopy
-en= Photoelectron spectroscopy
-en= X-ray photoelectron spectroscopy
+no= http://purl.obolibrary.org/obo/CHMO_0001086
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-20T17:58:40Z
+tie= 2017-01-18T12:03:25Z
+tis= 2017-01-18T12:12:56Z
+fly= REAL006030
 
 id= REAL007297
 te= Elektrisk ledning
@@ -57714,10 +57808,12 @@ nn= Adeliepingvinar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007557
-te= Vitamin-a
+te= Vitamin A
 ba= ne
-nn= Vitamin-a
+nn= Vitamin A
+en= Vitamin A
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T16:33:58Z
 
 id= REAL007558
 te= Tellurforbindelser
@@ -57734,9 +57830,9 @@ fly= REAL006262
 
 id= REAL007560
 te= Vitamin-c
-ba= ne
-nn= Vitamin-c
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T16:27:43Z
+fly= REAL000775
 
 id= REAL007561
 te= Kulestabling
@@ -62086,9 +62182,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008137
 te= Seismisk prospektering
-ba= nc
-nn= Seismisk prospektering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T11:52:45Z
+fly= REAL006706
 
 id= REAL008138
 te= Sveising
@@ -63361,16 +63457,25 @@ nn= Geoakustikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008317
-te= Infrarød spektroskopi
+te= IR-spektroskopi
 ba= nk
 ba= nc
 ba= ns
-bf= Irspektroskopi
 bf= Infrarød massespektroskopi
+bf= Infrarød spektroskopi
+no= http://purl.obolibrary.org/obo/CHMO_0000630
+nn= IR-spektroskopi
 nn= Infraraud spektroskopi
 nn= Infraraud massespektroskopi
-nn= Irspektroskopi
+en= Infrared absorption spectroscopy
+en= IR spectroscopy
+en= Infrared absorption spectrometry
+en= Infrared spectrophotometry
+en= IR spectrometry
+en= IR absorption spectroscopy
+en= Infrared spectroscopy
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T13:12:05Z
 st= REAL017797
 
 id= REAL008318
@@ -65272,10 +65377,14 @@ tio= 2014-08-25T00:00:00Z
 st= REAL027803
 
 id= REAL008548
-te= Infrarøde detektorer
+te= IR-detektorer
 ba= nf
+bf= Infrarøde detektorer
+bf= Infrarøddetektorer
+bf= Varmestrålingsdetektorer
 nn= Infraraude detektorar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T13:14:58Z
 
 id= REAL008549
 te= Utstopping
@@ -71035,7 +71144,9 @@ id= REAL009304
 te= Dispersjoner
 ba= nk
 nn= Dispersjonar
+de= Tofase-system der den ene fasen består av små partikler som er fordelt (dispergert) i den andre fasen (SNL)
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T12:35:17Z
 
 id= REAL009305
 te= Dansefluer
@@ -71719,11 +71830,9 @@ st= REAL021002
 
 id= REAL009406
 te= Døden
-ba= ne
-ba= ns
-nn= Dauden
-nn= Døden
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T12:50:28Z
+fly= REAL001456
 
 id= REAL009407
 te= Vannkjærer
@@ -77462,12 +77571,9 @@ st= REAL026181
 
 id= REAL010147
 te= Askorbinsyre
-ba= nk
-ba= nb
-ba= ne
-nn= Askorbinsyre
 tio= 2014-08-25T00:00:00Z
-st= REAL022922
+tis= 2017-01-18T16:27:50Z
+fly= REAL000775
 
 id= REAL010148
 te= Storker
@@ -80572,8 +80678,11 @@ tie= 2015-09-21T09:21:03Z
 id= REAL010557
 te= B-vitaminer
 ba= ns
+ut= REAL002271
 nn= B-vitamin
+en= B vitamins
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T16:32:44Z
 
 id= REAL010558
 te= Mikrosatellitter
@@ -86953,10 +87062,11 @@ te= Sveipelektronmikroskopi
 ba= nk
 ak= SEM
 ot= REAL011192
+no= http://purl.obolibrary.org/obo/CHMO_0000073
 nn= Sveipelektronmikroskopi
 en= Scanning electron microscopy
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-05T14:59:20Z
+tie= 2017-01-18T12:01:28Z
 
 id= REAL011448
 te= Neoteni
@@ -89735,8 +89845,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011806
 te= Transmisjonselektronmikroskopi
 ba= nf
+no= http://purl.obolibrary.org/obo/CHMO_0000080
 nn= Transmisjonselektronmikroskopi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T12:02:17Z
 
 id= REAL011807
 te= Biotelemetri
@@ -90385,10 +90497,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011892
 te= Electron Spectroscopy for Chemical Analysis
-ba= nk
-ak= ESCA
-nn= Elektronspektroskopi for kjemisk analyse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T12:17:22Z
+fly= REAL006030
 
 id= REAL011893
 te= Zimbabwe
@@ -90639,9 +90750,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011920
 te= Elektroanalytisk kjemi
-ba= nk
-nn= Elektroanalytisk kjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-18T16:19:25Z
+fly= REAL006663
 
 id= REAL011921
 te= Fouriertransformasjoner
@@ -92629,6 +92740,7 @@ bf= Elektrotermisk atomabsorpsjonspektrometri
 ak= AAS
 so= REAL013956
 ot= REAL003733
+ut= REAL006941
 no= http://purl.obolibrary.org/obo/CHMO_0000234
 nn= Atomabsorpsjonsspektroskopi
 nn= Atomabsorpsjonsspektrometri
@@ -92636,7 +92748,7 @@ nn= Analytisk atomabsorpsjonsspektrometri
 nn= Elektrotermisk atomabsorpsjonspektrometri
 en= Atomic absorption spectroscopy
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-20T18:25:56Z
+tie= 2017-01-18T13:02:05Z
 
 id= REAL012211
 te= Elektrotermisk atomabsorpsjonspektrometri
@@ -100915,10 +101027,18 @@ fly= REAL010756
 id= REAL013014
 te= Ramanspektroskopi
 ba= nk
+bf= Ramanspektrometri
 so= REAL013016
 so= REAL013015
+no= http://purl.obolibrary.org/obo/CHMO_0000656
 nn= Ramanspektroskopi
+nn= Ramanspektrometri
+en= Raman spectroscopy
+en= Raman scattering spectroscopy
+en= Raman spectrometry
+en= Raman scattering spectrometry
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-18T13:22:37Z
 
 id= REAL013015
 te= Ramanspektra
@@ -117085,10 +117205,14 @@ tie= 2016-12-30T13:35:35Z
 id= REAL031796
 te= Varmefotografering
 bf= Termografi
+bf= Infrarød video
+bf= IR-fotografering
 nn= Varmefotografering
+nn= Infraraud video
 en= Thermography
+en= Infrared video
 tio= 2017-01-05T18:48:14Z
-tie= 2017-01-05T18:50:28Z
+tie= 2017-01-18T13:21:02Z
 
 id= REAL031798
 te= Slimlag
