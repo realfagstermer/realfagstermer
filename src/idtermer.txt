@@ -818,10 +818,11 @@ tio= 2014-08-25T00:00:00Z
 st= REAL018173
 
 id= REAL000110
-te= It-kompetanse
+te= IT-kompetanse
 ba= ni
 nn= It-kompetanse
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T17:06:23Z
 st= REAL020760
 st= REAL025249
 
@@ -1755,9 +1756,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000236
 te= Elektronisk datautveksling
-ba= ni
-nn= Elektronisk datautveksling
-en= Electronic data exchange
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000237
@@ -3011,9 +3009,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000403
 te= Elektrokjemisk prekonsentrering
-ba= ns
-nn= Elektrokjemisk prekonsentrering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T10:09:22Z
 
 id= REAL000404
 te= Ansvar
@@ -11445,11 +11442,12 @@ nn= Grafsystem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001504
-te= Induktiv logisk programmering
+te= Induktiv logikkprogrammering
 ba= ni
 nn= Induktiv logisk programmering
 en= Inductive logic programming
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T16:07:59Z
 
 id= REAL001505
 te= Control data cyber
@@ -16819,13 +16817,18 @@ nn= Desisjonsteori
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002216
-te= MRNA
+te= mRNA
 ba= nb
-bf= M-rna
+bf= m-RNA
+bf= Budbringer-RNA
 nn= MRNA
 nn= M-rna
+nn= Bodberar-RNA
+en= mRNA
+en= Messenger RNA
+de= en type RNA-molekyl
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-13T00:00:00Z
+tie= 2017-01-24T16:59:12Z
 
 id= REAL002217
 te= Spacelab
@@ -25205,7 +25208,11 @@ id= REAL003312
 te= Elektroder
 ba= nk
 ba= nb
+bf= Elektrodeoverflater
+bf= Metalliske elektrodeoverflater
 nn= Elektrodar
+nn= Elektrodeoverflater
+nn= Metalliske elektrodeoverflater
 tio= 2014-08-25T00:00:00Z
 st= REAL029034
 st= REAL029463
@@ -26149,13 +26156,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003428
 te= Forskningsinstitutter
-ba= nk
-ba= nb
-ba= nm
-nn= Forskingsinstitutt
 tio= 2014-08-25T00:00:00Z
-st= REAL018122
-st= REAL025977
+tis= 2017-01-24T16:48:21Z
+fly= REAL010115
 
 id= REAL003429
 te= Kaffe
@@ -28533,7 +28536,9 @@ ba= nf
 ba= ngh
 ba= nm
 ba= ns
+bf= Datateknikk
 nn= Datateknologi
+nn= Datateknikk
 en= Computer technology
 tio= 2014-08-25T00:00:00Z
 st= REAL027590
@@ -29553,13 +29558,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003852
 te= Datateknikk
-ba= na
-ba= nb
-ba= nf
-ba= ngh
-nn= Datateknikk
 tio= 2014-08-25T00:00:00Z
-st= REAL024036
+tis= 2017-01-24T16:46:46Z
+fly= REAL003732
 
 id= REAL003853
 te= Magellanske skyer
@@ -36646,9 +36647,9 @@ st= REAL024518
 
 id= REAL004795
 te= Elektrodeoverflater
-ba= nk
-nn= Elektrodeoverflater
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T15:50:23Z
+fly= REAL003312
 
 id= REAL004796
 te= Muskler
@@ -44409,9 +44410,8 @@ tie= 2016-12-20T18:46:04Z
 
 id= REAL005838
 te= Elektrondeteksjon
-ba= nk
-nn= Elektrondeteksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T10:15:15Z
 
 id= REAL005839
 te= Semantikk
@@ -48251,8 +48251,12 @@ nn= Nedbørsfelt
 nn= Tilsigsfelt
 nn= Tilsigsområde
 nn= Vasstilførselsområde
+en= Drainage basins
+en= Catchment areas
+en= Watersheds
+en= River basins
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T16:41:52Z
+tie= 2017-01-24T16:44:58Z
 st= REAL023642
 st= REAL029403
 
@@ -50454,9 +50458,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006597
 te= Logisk programmering
-ba= nm
-nn= Logisk programmering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T16:06:55Z
+fly= REAL009516
 
 id= REAL006598
 te= Asymptotisk analyse
@@ -50658,12 +50662,10 @@ st= REAL028790
 
 id= REAL006619
 te= Statsforvaltning
-ba= nb
-ba= nq
-ba= ns
-nn= Statsforvalting
-nn= Statsforvaltning
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T17:24:48Z
+tis= 2017-01-24T17:26:34Z
+fly= REAL006887
 
 id= REAL006620
 te= Anvendt kjernekjemi
@@ -51321,13 +51323,9 @@ st= REAL031601
 
 id= REAL006700
 te= Vitenskapelige institusjoner
-ba= nb
-ba= nc
-nn= Vitskaplege institusjonar
-nn= Vitskapelege institusjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL019984
-st= REAL029339
+tis= 2017-01-24T17:21:37Z
+fly= REAL010115
 
 id= REAL006701
 te= Kryogenikk
@@ -51923,10 +51921,11 @@ nn= Vald
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006779
-te= It-drift
+te= IT-drift
 ba= ni
 nn= It-drift
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T17:06:17Z
 
 id= REAL006781
 te= Bergartsomvandling
@@ -52728,9 +52727,18 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006887
 te= Sentralforvaltning
 ba= ns
+bf= Statsforvaltning
+bf= Statsforvaltningen
+bf= Statsadministrasjon
 nn= Sentralforvalting
 nn= Sentralforvaltning
+nn= Statsforvalting
+nn= Statsforvaltning
+nn= Statsforvaltinga
+nn= Statsforvaltninga
+en= Civil service
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T17:28:37Z
 
 id= REAL006888
 te= Turer
@@ -54696,7 +54704,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007140
 te= Elektrodepotensialer
 ba= nk
+bf= Redokspotensialer
 nn= Elektrodepotensial
+nn= Redokspotensial
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007141
@@ -54961,7 +54971,7 @@ nn= Fascisme
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007175
-te= Electronic data interchange
+te= Elektronisk datautveksling
 ba= ni
 bf= Edifact
 bf= Edifice
@@ -54969,8 +54979,10 @@ ak= EDI
 nn= Elektronisk datautveksling
 nn= Edifact
 nn= Edifice
-nn= Electronic data interchange
+en= Electronic data exchange
+en= Electronic data interchange
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T15:01:44Z
 
 id= REAL007176
 te= Samfunnsmedisin
@@ -57913,9 +57925,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007572
 te= Elektromagnetiske metoder
-ba= nk
-nn= Elektromagnetiske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T10:17:05Z
 
 id= REAL007574
 te= Fettdannelse
@@ -60008,10 +60019,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007857
 te= Fjordforurensning
-ba= nb
-ba= ngh
-nn= Fjordforureining
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T16:52:07Z
+fly= REAL013468
 
 id= REAL007858
 te= Håndskrift
@@ -66083,10 +66093,13 @@ nn= Circa instans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008643
-te= Kjemisk forskning
+te= Kjemiforskning
 ba= nk
+bf= Kjemisk forskning
 nn= Kjemisk forsking
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T17:13:46Z
+st= REAL031802
 
 id= REAL008644
 te= Conley
@@ -67248,12 +67261,21 @@ nn= Flytande metall
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008792
-te= Javascript
+te= JavaScript
 ba= ni
-bf= Jquery
+bf= ECMAScript
+bf= ES5
+bf= ES6
 nn= Javascript
-nn= Jquery
+nn= ECMAScript
+nn= ES5
+nn= ES6
+en= JavaScript
+en= ECMAScript
+en= ES5
+en= ES6
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T09:42:02Z
 st= REAL028992
 
 id= REAL008793
@@ -72632,9 +72654,13 @@ id= REAL009516
 te= Logikkprogrammering
 ba= ni
 ba= nm
+bf= Logisk programmering
+no= github:#632
 nn= Logikkprogrammering
+nn= Logisk programmering
 en= Logic programming
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T16:07:02Z
 st= REAL021166
 
 id= REAL009517
@@ -73745,9 +73771,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009659
 te= Redokspotensialer
-ba= nk
-nn= Redokspotensial
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T15:46:49Z
+fly= REAL007140
 
 id= REAL009660
 te= Ikke-lineære kretser
@@ -75500,9 +75526,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009895
 te= Forskningslaboratorier
-ba= ns
-nn= Forskingslaboratorium
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T16:48:29Z
+fly= REAL010115
 
 id= REAL009896
 te= Koronamasseutbrudd
@@ -77332,10 +77358,21 @@ ba= nb
 ba= nm
 ba= nq
 ba= ns
+bf= Forskningsinstitutter
+bf= Forskningslaboratorier
+bf= Vitenskapelige institusjoner
 nn= Forskingsinstitusjonar
+nn= Forskingsinstitutt
+nn= Forskingslaboratorium
+nn= Vitskaplege institusjonar
+nn= Vitskapelege institusjonar
 tio= 2014-08-25T00:00:00Z
 st= REAL017570
 st= REAL022848
+st= REAL018122
+st= REAL025977
+st= REAL019984
+st= REAL029339
 
 id= REAL010116
 te= Irreversible prosesser
@@ -79597,9 +79634,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010402
 te= Elektrokjemiske potensialer
-ba= nk
-nn= Elektrokjemiske potensial
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T15:51:50Z
 
 id= REAL010403
 te= Oppdagelsesreiser
@@ -79799,10 +79835,9 @@ st= REAL018047
 
 id= REAL010432
 te= Statsforvaltningen
-ba= ns
-nn= Statsforvaltinga
-nn= Statsforvaltninga
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T17:22:58Z
+fly= REAL006619
 
 id= REAL010434
 te= Sykehusfarmasi
@@ -85179,8 +85214,9 @@ nn= Sveipmikroskopi
 nn= Rastermikroskopi
 nn= Scanning mikroskopering
 en= Scanning microscopy
+en= Scanning probe microscopy
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-05T15:00:36Z
+tie= 2017-01-24T10:11:36Z
 
 id= REAL011193
 te= Høyfjell
@@ -87533,9 +87569,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011516
 te= Metalliske elektrodeoverflater
-ba= nk
-nn= Metalliske elektrodeoverflater
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-24T15:50:33Z
+fly= REAL003312
 
 id= REAL011517
 te= Prediksjon
@@ -91455,10 +91491,16 @@ nn= Månebusetting
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012021
-te= RNA polymerase
+te= RNA-polymerase
 ba= nb
-nn= RNA polymerase
+bf= RNAP
+nn= RNA-polymerase
+nn= RNAP
+en= RNA polymerase
+en= RNAP
+de= enzym som deltar i syntesen av mRNA [SML]
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T17:05:04Z
 
 id= REAL012022
 te= Planetbaner
@@ -91558,10 +91600,13 @@ nn= Verifikasjonar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012037
-te= RNA virus
+te= RNA-virus
 ba= nb
-nn= RNA virus
+nn= RNA-virus
+en= RNA virus
+de= virus som har RNA som arvemateriale [SML]
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T17:05:12Z
 
 id= REAL012038
 te= Strupehodet
@@ -91838,12 +91883,14 @@ nn= Miljøstatistikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012084
-te= RNA editering
+te= RNA-redigering
 ba= nb
+bf= RNA-editering
 so= REAL010531
 nn= RNA-redigering
+en= RNA editing
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-07T14:38:16Z
+tie= 2017-01-24T17:03:05Z
 
 id= REAL012085
 te= Brunsnegler
@@ -106403,7 +106450,6 @@ st= REAL014250
 st= REAL014536
 st= REAL014670
 st= REAL014720
-st= REAL014806
 st= REAL014920
 st= REAL015032
 st= REAL015492
@@ -106434,7 +106480,6 @@ st= REAL020450
 st= REAL020774
 st= REAL020977
 st= REAL021037
-st= REAL021452
 st= REAL021588
 st= REAL022223
 st= REAL023285
@@ -106996,8 +107041,10 @@ te= Marin forurensning
 ba= nb
 ba= nc
 bf= Havforurensning
+bf= Fjordforurensning
 nn= Marin forureining
 nn= Havforureining
+nn= Fjordforureining
 en= Marine pollution
 tio= 2014-08-25T00:00:00Z
 st= REAL018243
@@ -108549,7 +108596,7 @@ st= REAL022222
 st= REAL027186
 
 id= REAL013567
-te= It-planlegging
+te= IT-planlegging
 ba= ni
 bf= It-ledelse
 bf= It-strategi
@@ -108561,6 +108608,7 @@ nn= It-styring
 en= It planning
 en= It governance
 tio= 2014-08-25T00:00:00Z
+tie= 2017-01-24T17:05:37Z
 
 id= REAL013568
 te= Faststoffmekanikk
@@ -114523,15 +114571,19 @@ nn= Miljøregistrering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL014001
-te= Mikro-RNA
+te= miRNA
 ba= nb
+bf= microRNA
 ak= Mi-RNA
 ak= MiRNA
-nn= Mikro-RNA
+nn= miRNA
+nn= microRNA
 en= Micro ribonucleic acid
-en= MicroRNA
+en= microRNA
+en= miRNA
+de= en type RNA-molekyl
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-13T00:00:00Z
+tie= 2017-01-24T16:59:33Z
 
 id= REAL014002
 te= Byer
