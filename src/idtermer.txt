@@ -21017,8 +21017,10 @@ st= REAL025211
 id= REAL002764
 te= Ekstremvær
 ba= nk
+bf= Ekstremt regn
 nn= Ekstremvêr
 nn= Ekstremver
+nn= Ekstremt regn
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002765
@@ -21672,9 +21674,8 @@ st= REAL015181
 
 id= REAL002847
 te= Ekstremalverdier
-ba= ni
-nn= Ekstremalverdiar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-25T10:01:30Z
 
 id= REAL002848
 te= Newtons metode
@@ -73830,9 +73831,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009668
 te= Ekstremverditeori
-ba= nm
-nn= Ekstremverditeori
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-25T10:01:43Z
+fly= REAL010105
 
 id= REAL009669
 te= Lungevev
@@ -77283,7 +77284,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010105
 te= Ekstremverdier
 ba= nm
+bf= Ekstremverditeori
 nn= Ekstremverdiar
+nn= Ekstremverditeori
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010106
@@ -77368,10 +77371,10 @@ nn= Vitskaplege institusjonar
 nn= Vitskapelege institusjonar
 tio= 2014-08-25T00:00:00Z
 st= REAL017570
-st= REAL022848
 st= REAL018122
-st= REAL025977
 st= REAL019984
+st= REAL022848
+st= REAL025977
 st= REAL029339
 
 id= REAL010116
@@ -80929,9 +80932,9 @@ tie= 2014-11-12T00:00:00Z
 
 id= REAL010586
 te= Ekstremt regn
-ba= ngh
-nn= Ekstremt regn
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-25T10:10:19Z
+fly= REAL002764
 
 id= REAL010587
 te= Eskere
@@ -84676,9 +84679,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011112
 te= Ekstremer
-ba= nb
-nn= Ekstrem
 tio= 2014-08-25T00:00:00Z
+tis= 2017-01-25T10:02:07Z
 
 id= REAL011113
 te= Sannsynlighetsteorier
@@ -116267,10 +116269,9 @@ tie= 2015-06-12T14:10:44Z
 
 id= REAL031467
 te= Ekstremal grafteori
-nn= Ekstremal grafteori
-en= Extremal graph theory
 tio= 2015-06-30T13:26:05Z
 tie= 2015-06-30T13:26:11Z
+tis= 2017-01-25T10:02:48Z
 
 id= REAL031482
 te= Vitenskapelig dykking
