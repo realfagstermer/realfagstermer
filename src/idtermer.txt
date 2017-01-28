@@ -16029,6 +16029,7 @@ te= Akvatiske pattedyr
 ba= nb
 nn= Akvatiske pattedyr
 tio= 2014-08-25T00:00:00Z
+st= REAL031807
 
 id= REAL002118
 te= Polarografisk analyse
@@ -97731,6 +97732,7 @@ nn= Medisinsk kjemi
 en= Pharmaceutical chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL020512
+st= REAL031806
 
 id= REAL012678
 te= Arktisk-alpin økologi
@@ -113130,6 +113132,7 @@ st= REAL025718
 st= REAL025768
 st= REAL026849
 st= REAL028118
+st= REAL031811
 
 id= REAL013887
 te= Jødedom
