@@ -135,8 +135,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030085
 te= Grunnbøker
-bf= Introduksjonsbøker
 tio= 2015-02-20T13:08:04Z
+tis= 2017-02-01T13:24:31Z
+fly= REAL030093
 
 id= REAL030086
 te= Himmelatlas
@@ -177,6 +178,8 @@ te= Lærebøker
 bf= Læremidler
 bf= Læreverk
 bf= Innføringer
+bf= Grunnbøker
+bf= Introduksjonsbøker
 nn= Lærebøker
 en= Textbooks
 tio= 2015-02-20T13:08:04Z

@@ -1617,10 +1617,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000217
 te= Ekstreme flommer
-ba= ngh
-nn= Ekstreme flaumar
 tio= 2014-08-25T00:00:00Z
-st= REAL019321
+tis= 2017-02-01T13:11:04Z
+fly= REAL002764
 
 id= REAL000218
 te= Dataabstraksjon
@@ -18515,12 +18514,20 @@ te= Hibernering
 ba= nk
 ba= nb
 bf= Vintersøvn
+bf= Vinterdvale
+bf= Dvale
+bf= Hvile
+bf= Dormans
 nn= Hibernering
 nn= Vintersvevn
 nn= Vintersøvn
+nn= Vinterdvale
+nn= Dvale
+nn= Kvile
+nn= Dormans
 en= Hibernation
 tio= 2014-08-25T00:00:00Z
-tie= 2015-01-26T00:00:00Z
+tie= 2017-02-01T13:32:42Z
 
 id= REAL002446
 te= Spektrofotometri
@@ -21019,10 +21026,13 @@ id= REAL002764
 te= Ekstremvær
 ba= nk
 bf= Ekstremt regn
+bf= Ekstreme flommer
 nn= Ekstremvêr
 nn= Ekstremver
 nn= Ekstremt regn
+nn= Ekstreme flaumar
 tio= 2014-08-25T00:00:00Z
+st= REAL019321
 
 id= REAL002765
 te= Zookjemi
@@ -24974,6 +24984,7 @@ te= Eksitotoksisitet
 ba= ne
 nn= Eksitotoksisitet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-01T13:09:47Z
 
 id= REAL003280
 te= Byggesett
@@ -33522,9 +33533,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004374
 te= Ekvasjoner
-ba= nm
-nn= Ekvasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-01T13:14:55Z
 
 id= REAL004375
 te= Medisinhistorie
@@ -38561,9 +38571,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005049
 te= Eksotoksisitet
-ba= ne
-nn= Eksotoksisitet
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-01T13:09:37Z
+fly= REAL003279
 
 id= REAL005050
 te= Bønder
@@ -45542,9 +45552,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005995
 te= Galenisk formulering
-ba= nk
-nn= Galenisk formulering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-01T09:45:27Z
+fly= REAL012677
 
 id= REAL005996
 te= Agroøkologi
@@ -61380,7 +61390,9 @@ id= REAL008032
 te= Galaksehoper
 ba= na
 nn= Galaksehopar
+en= Galactic clusters
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-01T10:13:59Z
 
 id= REAL008033
 te= Drenering
@@ -64347,10 +64359,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008423
 te= Galenisk farmasi
-ba= ne
-nn= Galenisk farmasi
 tio= 2014-08-25T00:00:00Z
-st= REAL021675
+tis= 2017-02-01T09:33:19Z
+fly= REAL012677
 
 id= REAL008424
 te= Nervesystemet
@@ -69858,12 +69869,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009127
 te= Dvale
-ba= nk
-ba= nb
-bf= Hvile
-nn= Dvale
-nn= Kvile
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-01T13:29:00Z
+fly= REAL002445
 
 id= REAL009129
 te= Pyrimidiner
@@ -82297,9 +82305,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010771
 te= Eksponering
-ba= nb
-nn= Eksponering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-01T13:10:20Z
 
 id= REAL010772
 te= Kvantitativ statistikk
@@ -87567,9 +87574,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011513
 te= Vinterdvale
-ba= nb
-nn= Vinterdvale
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-01T13:28:47Z
+fly= REAL002445
 
 id= REAL011514
 te= Koordinasjonskjemi
@@ -97741,12 +97748,17 @@ ba= nk
 ba= ne
 bf= Medisinsk kjemi
 bf= Medisinalkjemi
+bf= Galenisk farmasi
+bf= Galenisk formulering
 nn= Farmasøytisk kjemi
 nn= Medisinalkjemi
 nn= Medisinsk kjemi
+nn= Galenisk farmasi
+nn= Galenisk formulering
 en= Pharmaceutical chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL020512
+st= REAL021675
 st= REAL031806
 
 id= REAL012678
@@ -106793,19 +106805,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013453
 te= Litteratur
-ba= fa
-ba= ni
-ba= nk
-ba= nb
-ba= nm
-ba= ns
-nn= Litteratur
 tio= 2014-08-25T00:00:00Z
-st= REAL014565
-st= REAL015252
-st= REAL016905
-st= REAL020144
-st= REAL024599
+tis= 2017-02-01T12:49:11Z
 
 id= REAL013454
 te= Mat
