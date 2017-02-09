@@ -8707,9 +8707,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001154
 te= Prosessorer
-ba= ni
-nn= Prosessorar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-07T21:53:16Z
+fly= REAL014029
 
 id= REAL001155
 te= Semiotikk
@@ -12537,10 +12537,12 @@ nn= Tidevasstabellar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001656
-te= Cr-mangfoldigheter
+te= CR-mangfoldigheter
 ba= nm
 nn= CR-mangfald
+en= CR manifolds
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-07T21:47:06Z
 
 id= REAL001657
 te= Prosessteknikk
@@ -17365,10 +17367,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-01-29T00:00:00Z
 
 id= REAL002297
-te= Ddt
+te= DDT
 ba= nb
-nn= Ddt
+bf= diklor-difenyl-trikloretan
+nn= DDT
+en= DDT
+en= dichlorodiphenyltrichloroethane
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-07T21:42:10Z
 
 id= REAL002298
 te= Blodtyper
@@ -36930,11 +36936,13 @@ tio= 2014-08-25T00:00:00Z
 st= REAL016620
 
 id= REAL004830
-te= Cp-brudd
+te= CP-brudd
 ba= nf
-nn= Cp-brot
-nn= Cp-brott
+nn= CP-brot
+nn= CP-brott
+en= CP violations
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-07T21:49:43Z
 
 id= REAL004831
 te= Bulletin board service
@@ -50841,11 +50849,13 @@ en= Mathematical illustrations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006640
-te= Dbase
+te= dBase
 ba= ni
 so= REAL007650
-nn= Dbase
+nn= dBase
+en= dBase
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-07T21:45:14Z
 
 id= REAL006641
 te= Motstandsdyktighet
@@ -55080,9 +55090,11 @@ id= REAL007186
 te= Galaksesystemer
 ba= na
 bf= Galaktiske systemer
+no= github:#646
 nn= Galaksesystem
 nn= Galaktiske system
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-08T16:12:34Z
 
 id= REAL007187
 te= Intervjuteknikk
@@ -61389,10 +61401,12 @@ st= REAL029883
 id= REAL008032
 te= Galaksehoper
 ba= na
+no= github:#646
 nn= Galaksehopar
 en= Galactic clusters
+de= en samling galakser som er gravitasjonelt bundet til hverandre
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-01T10:13:59Z
+tie= 2017-02-08T16:12:11Z
 
 id= REAL008033
 te= Drenering
@@ -85543,9 +85557,9 @@ st= REAL029369
 
 id= REAL011239
 te= Båndteori
-ba= nf
-nn= Bandteori
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-07T22:04:00Z
+fly= REAL011638
 
 id= REAL011240
 te= Statistikkprogrammer
@@ -88554,7 +88568,9 @@ id= REAL011638
 te= Båndstruktur
 ba= nk
 ba= nf
+bf= Båndteori
 nn= Bandstruktur
+nn= Bandteori
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011639
@@ -104614,10 +104630,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013341
 te= Cr
-ba= nm
 no= Matematikk: The abbreviation CR stands for Cauchy and Riemann. Ber matematikk om hjelp til å endre/definere denne termen. ML
-nn= Cr
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-07T21:48:13Z
 
 id= REAL013342
 te= Aksiomatisk mengdelære
@@ -107983,10 +107998,10 @@ nn= Oppgåveskriving
 nn= Prosjektoppgåver
 nn= Vitskapleg skriving
 nn= Vitskapeleg skriving
-en= Scientific style
 en= Academic writing
+en= Scientific style
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-03T09:42:10Z
+tie= 2017-02-08T14:29:48Z
 st= REAL015394
 st= REAL020098
 st= REAL020580
@@ -114913,11 +114928,15 @@ en= Error-correcting codes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL014029
-te= Cpu
+te= CPU
 ba= ni
-nn= Cpu
+bf= Prosessorer
+ak= CPU
+nn= CPU
+nn= Prosessorar
 en= Central Processing Unit
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-07T21:51:00Z
 
 id= REAL014030
 te= Minnehåndtering
@@ -115720,12 +115739,12 @@ tio= 2015-01-30T00:00:00Z
 tie= 2015-01-30T00:00:00Z
 
 id= REAL031325
-te= Sed (programmeringsspråk)
-bf= Sed-program
-nn= Sed (programmeringsspråk)
-nn= Sed-program
+te= Sed (Unix-verktøy)
+bf= Sed (program)
+nn= Sed (Unix-verktøy)
+nn= Sed (program)
 tio= 2015-02-02T00:00:00Z
-tie= 2015-02-02T00:00:00Z
+tie= 2017-02-07T22:23:07Z
 
 id= REAL031326
 te= Røntgenfluorescens
