@@ -686,8 +686,21 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000091
 te= Forvitringsjord
 ba= ngh
+bf= Restavsetninger
+bf= Residiualavleiringer
+bf= Lateritt
+bf= Bauxitt
+bf= Bauksitt
 nn= Forvitringsjord
+nn= Bauxitt
+nn= Bauksitt
+en= Residual deposits
+en= Residual soil
+en= Laterite
+en= Bauxites
+de= Avsetning dannet ved forvitring av den faste berggrunnen på stedet, uten at den har vært transportert.
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T17:24:23Z
 
 id= REAL000092
 te= Kromosomtall
@@ -4057,10 +4070,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000537
 te= Karriereveiledning
-ba= ni
-nn= Karriererettleiing
 tio= 2014-08-25T00:00:00Z
-st= REAL019736
+tis= 2017-02-10T20:22:57Z
+fly= REAL013432
 
 id= REAL000538
 te= Logaritmer
@@ -5744,9 +5756,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000758
 te= Barkbilleferomoner
-ba= nk
-nn= Borkbilleferomon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T18:39:03Z
 
 id= REAL000759
 te= Programoptimalisering
@@ -9724,7 +9735,9 @@ ba= ngh
 bf= Deglasiasjon
 nn= Avsmelting
 nn= Deglasiasjon
+en= Deglaciation
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T17:05:19Z
 st= REAL019014
 st= REAL025219
 st= REAL028564
@@ -10211,9 +10224,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001340
 te= Bremekanikk
-ba= ngh
-nn= Bremekanikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T16:50:42Z
+fly= REAL007286
 
 id= REAL001341
 te= Høytrykksfysikk
@@ -12345,10 +12358,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001634
 te= Effekt
-ba= nm
-nn= Effekt
-nn= Verknad
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T17:52:15Z
 
 id= REAL001635
 te= Subtropiske frukter
@@ -16188,10 +16199,14 @@ tio= 2014-08-25T00:00:00Z
 st= REAL026500
 
 id= REAL002138
-te= Kvantisert halleffekt
+te= Kvantisert Hall-effekt
 ba= nf
+bf= Kvantisert halleffekt
+bf= Kvante-Hall-effekt
 nn= Kvantisert halleffekt
+en= Quantum Hall effect
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T17:55:31Z
 
 id= REAL002139
 te= Metallforbindelser
@@ -18016,8 +18031,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002376
 te= Ioneledning
 ba= nk
+bf= Ionisk konduktivitet
+bf= Ionekonduktivitet
+bf= Ioneledere
+so= REAL003478
 nn= Ioneleidning
+en= Ionic conductivity
+en= Electrolytic conduction
+de= elektrisk strøm basert på forflytning av ioner via defekter i en krystall, eller i løsning
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T20:55:47Z
 
 id= REAL002377
 te= Endonukleaser
@@ -18339,9 +18362,8 @@ tie= 2015-01-23T00:00:00Z
 
 id= REAL002420
 te= Elektroreseptorer
-ba= nb
-nn= Elektroreseptorar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T17:53:10Z
 
 id= REAL002421
 te= Bergvesen
@@ -19597,8 +19619,12 @@ st= REAL029404
 id= REAL002576
 te= Turbiditter
 ba= nc
+bf= Turbidittstrømmer
 nn= Turbidittar
+nn= Turbidittstraumar
+en= Turbidites
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T16:53:44Z
 
 id= REAL002577
 te= Petrofysikk
@@ -20867,16 +20893,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002747
 te= Krystallvekst
-ba= nk
-ba= nc
-ba= nf
-so= REAL013596
-nn= Krystallvekst
-nn= Krystallvokster
-en= Crystal growth
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-07T09:54:00Z
-st= REAL015727
+tis= 2017-02-10T19:24:55Z
+fly= REAL013596
 
 id= REAL002748
 te= Datarepresentasjon
@@ -20925,6 +20945,7 @@ te= Leppefisker
 ba= nb
 nn= Leppefiskar
 tio= 2014-08-25T00:00:00Z
+st= REAL031812
 
 id= REAL002753
 te= Avløp
@@ -23657,11 +23678,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003090
 te= Nedising
-ba= ngh
-nn= Nedising
 tio= 2014-08-25T00:00:00Z
-st= REAL014896
-st= REAL029805
+tis= 2017-02-10T17:02:44Z
 
 id= REAL003091
 te= Adhesjon
@@ -24672,7 +24690,10 @@ id= REAL003233
 te= Baryoner
 ba= nf
 nn= Baryon
+en= Baryons
+de= Subatomære partikler som består av tre kvarker.
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T20:39:48Z
 
 id= REAL003234
 te= Klinisk arbeid
@@ -25133,9 +25154,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003300
 te= Balanse
-ba= nb
-nn= Balanse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T18:37:05Z
 
 id= REAL003301
 te= Skanning
@@ -26594,6 +26614,7 @@ ba= nk
 bf= Faste elektrolytter
 bf= Raske ioneledere
 bf= Superioniske ledere
+so= REAL002376
 nn= Faststoffelektrolyttar
 nn= Faste elektrolyttar
 nn= Raske ioneleiarar
@@ -26603,7 +26624,7 @@ en= Solid electrolytes
 en= Superionic conductors
 de= Elektrolyttsystem som består av faste komponenter (SNL)
 tio= 2014-08-25T00:00:00Z
-tie= 2014-10-09T00:00:00Z
+tie= 2017-02-10T20:50:09Z
 
 id= REAL003479
 te= Sjø
@@ -26957,10 +26978,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003525
 te= Bauxitt
-ba= nc
-nn= Bauxitt
-nn= Bauksitt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T17:20:57Z
+fly= REAL000091
 
 id= REAL003526
 te= Farmasøytisk biologi
@@ -28596,11 +28616,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003736
 te= Barskogområder
-ba= nq
-bf= Barskogsområder
-nn= Barskogområde
-nn= Barskogsområde
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T18:44:03Z
 
 id= REAL003737
 te= Kjønnsbestemmelse
@@ -31172,9 +31189,9 @@ st= REAL016811
 
 id= REAL004066
 te= Turbidittstrømmer
-ba= nc
-nn= Turbidittstraumar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T16:52:59Z
+fly= REAL002576
 
 id= REAL004067
 te= Stålkonstruksjoner
@@ -33531,11 +33548,10 @@ fly= REAL008413
 
 id= REAL004373
 te= Gamma-Ray Observatory
-ba= na
-ak= GRO
-nn= Gammastråleobservatorium
-nn= Gamma-Ray Observatory
+no= Flyttet til BARE
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T17:18:05Z
+tis= 2017-02-10T17:18:09Z
 
 id= REAL004374
 te= Ekvasjoner
@@ -34050,9 +34066,8 @@ tis= 2016-11-25T13:35:01Z
 
 id= REAL004437
 te= Kommunal veiledning
-ba= nb
-nn= Kommunal rettleiing
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T20:18:16Z
 
 id= REAL004438
 te= Gassreaksjoner
@@ -36750,12 +36765,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004806
 te= Compton Gamma-Ray Observatory
-ba= na
-ak= CGRO
-nn= Compton gammastråleobservatorium
-nn= CGRO
-nn= Compton Gamma-Ray Observatory
+no= Flyttet til BARE
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T17:17:42Z
+tis= 2017-02-10T17:17:46Z
 
 id= REAL004807
 te= Symmetribrudd
@@ -40964,9 +40977,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005382
 te= Eksogene prosesser
-ba= nc
-nn= Eksogene prosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T16:30:57Z
+fly= REAL031817
 
 id= REAL005383
 te= Elektrisk kraft
@@ -41441,12 +41454,9 @@ st= REAL029996
 
 id= REAL005450
 te= Karriere
-ba= nk
-ba= nb
-nn= Karriere
 tio= 2014-08-25T00:00:00Z
-st= REAL015163
-st= REAL017252
+tis= 2017-02-10T20:25:06Z
+fly= REAL013432
 
 id= REAL005451
 te= Informasjonssikkerhet
@@ -43992,6 +44002,7 @@ te= Partikkelakseleratorer
 ba= nf
 bf= Kollisjonsmaskiner
 bf= Superkollisjonsmaskiner
+bf= Akseleratorer
 ut= REAL006945
 ut= REAL004585
 nn= Partikkelakseleratorar
@@ -43999,8 +44010,9 @@ en= Particle accelerators
 en= Colliders
 en= Atom smashers
 en= Supercolliders
+de= Maskiner som brukes til å akselerere partikler til store hastigheter og derfor store energier sammenliknet med deres hvilemasse.
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-24T17:43:32Z
+tie= 2017-02-10T20:36:50Z
 st= REAL014088
 st= REAL021288
 st= REAL027100
@@ -46050,9 +46062,9 @@ st= REAL015928
 
 id= REAL006052
 te= Eksogen geologi
-ba= nc
-nn= Eksogen geologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T16:31:09Z
+fly= REAL031817
 
 id= REAL006053
 te= Serotonin
@@ -46335,6 +46347,7 @@ tie= 2015-02-11T00:00:00Z
 st= REAL019165
 st= REAL019953
 st= REAL021342
+st= REAL031814
 
 id= REAL006092
 te= Trilobitter
@@ -48567,7 +48580,10 @@ te= Antimaterie
 ba= nf
 ba= ns
 nn= Antimaterie
+en= Antimatter
+de= Materie bestående av antifermioner.
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T20:37:57Z
 st= REAL016284
 st= REAL018890
 
@@ -52078,15 +52094,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006797
 te= Effekter
-ba= nk
-ba= nb
-ba= ne
-ba= ngh
-bf= Virkninger
-nn= Effektar
-nn= Verknadar
-nn= Verknader
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T17:50:48Z
 
 id= REAL006798
 te= Kombinatoriske kretser
@@ -52913,9 +52922,8 @@ st= REAL018641
 
 id= REAL006903
 te= Gamma
-ba= ne
-nn= Gamma
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T17:17:27Z
 
 id= REAL006904
 te= Silikoner
@@ -54596,8 +54604,14 @@ tie= 2016-06-27T10:44:52Z
 id= REAL007124
 te= Landheving
 ba= nc
+bf= Landhevning
+bf= Isostatisk kompensasjon
+so= REAL004148
 nn= Landheving
+en= Isostatic uplift
+de= Langsom hevning av landjorden i forhold til havnivået.
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T16:20:09Z
 st= REAL014468
 st= REAL019692
 st= REAL023216
@@ -54871,10 +54885,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007157
 te= Basaltisk grunn
-ba= ns
-nn= Basaltisk grunn
 tio= 2014-08-25T00:00:00Z
-st= REAL017787
+tis= 2017-02-10T18:49:20Z
 
 id= REAL007158
 te= Variable stjerner
@@ -55826,10 +55838,18 @@ id= REAL007286
 te= Brebevegelser
 ba= ngh
 bf= Isbrebevegelser
+bf= Ismekanikk
+bf= Bremekanikk
+bf= Glasitektonikk
 nn= Brerørsler
 nn= Brebevegelsar
+nn= Bremekanikk
+nn= Glasitektonikk
+en= Glacier mechanics
+en= Ice-sheet dynamics
+en= Glacial flow
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-05T20:23:27Z
+tie= 2017-02-10T16:51:10Z
 
 id= REAL007287
 te= Reflektometri
@@ -55900,10 +55920,9 @@ fly= REAL006030
 
 id= REAL007297
 te= Elektrisk ledning
-ba= na
-ba= ns
-nn= Elektrisk leidning
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T20:15:45Z
+fly= REAL007833
 
 id= REAL007298
 te= Bioakkumulering
@@ -58211,9 +58230,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007611
 te= Overflateprosesser
-ba= ngh
-nn= Overflateprosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T16:31:04Z
+fly= REAL031817
 
 id= REAL007612
 te= Massetransport
@@ -59876,12 +59895,23 @@ nn= Eksponentielle funksjonar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007833
-te= Konduktivitet
+te= Elektrisk konduktivitet
 ba= nk
 bf= Ledningsevne
+bf= Konduktivitet
+bf= Spesifikk ledningsevne
+bf= Spesifikk konduktans
+bf= Elektronisk ledningsevne
+bf= Elektrisk ledning
 nn= Konduktivitet
 nn= Leiingsevne
+nn= Elektronisk leiingsevne
+nn= Elektrisk leidning
+en= Electrical conductivity
+en= Specific conductance
+de= et stoffs evne til å lede elektrisitet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T20:14:51Z
 
 id= REAL007835
 te= Spalting
@@ -60617,8 +60647,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007938
 te= Hall-effekt
 ba= nf
+bf= Halleffekt
 nn= Hall-effekt
+nn= Halleffekt
+en= Hall effect
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T17:54:30Z
 
 id= REAL007939
 te= Mikroekstraksjon
@@ -62418,9 +62452,17 @@ te= Skogforvaltning
 ba= nb
 ba= ngh
 ba= nq
+bf= Barskogforvaltning
+bf= Barskogsforvaltning
 nn= Skogforvalting
 nn= Skogforvaltning
+nn= Barskogforvalting
+nn= Barskogforvaltning
+nn= Barskogsforvalting
+nn= Barskogsforvaltning
 tio= 2014-08-25T00:00:00Z
+st= REAL016394
+st= REAL022540
 
 id= REAL008163
 te= Brusk
@@ -69159,9 +69201,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009040
 te= Gruppeveiledning
-ba= ns
-nn= Grupperettleiing
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T20:19:44Z
 
 id= REAL009041
 te= Bærekonstruksjoner
@@ -70052,9 +70093,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009150
 te= Elektronisk ledningsevne
-ba= nk
-nn= Elektronisk leiingsevne
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T20:15:27Z
+fly= REAL007833
 
 id= REAL009151
 te= Geoøkologi
@@ -70272,9 +70313,9 @@ tie= 2015-01-23T00:00:00Z
 
 id= REAL009179
 te= Lukkede oppdrettsanlegg
-ba= nb
-nn= Lukka oppdrettsanlegg
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T16:47:34Z
+fly= REAL031819
 
 id= REAL009180
 te= Strøfall
@@ -71795,9 +71836,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009385
 te= Basalmedisin
-ba= ne
-nn= Basalmedisin
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T18:45:38Z
 
 id= REAL009387
 te= Polysykliske forbindelser
@@ -76082,12 +76122,16 @@ nn= Betalingstenester
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009954
-te= Big bang-teorien
+te= Big Bang
 ba= na
 ba= ns
+bf= Det store smellet
 so= REAL004500
-nn= Big bang-teorien
+nn= Big Bang
+en= Big Bang
+de= En type modeller innen kosmologien som beskriver universets utvikling fra en tett, varm fase fram til i dag.
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T20:42:02Z
 st= REAL022516
 st= REAL027082
 
@@ -76396,12 +76440,16 @@ te= Helseeffekter
 ba= nk
 bf= Helseskader
 bf= Helseplager
+so= REAL013316
 nn= Helseeffektar
 nn= Helseplager
 nn= Helseskader
 nn= Helseverknader
+en= Medical effects
 en= Health injuries
+en= Health effects
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T17:44:01Z
 
 id= REAL009990
 te= Fysiologi
@@ -84124,9 +84172,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011032
 te= Barriere
-ba= nc
-nn= Barriere
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T18:40:18Z
 
 id= REAL011033
 te= Alligatorer
@@ -84484,11 +84531,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011082
 te= Barskogskvaliteter
-ba= nq
-bf= Barskogkvaliteter
-nn= Barskogskvalitetar
-nn= Barskogkvalitetar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T18:45:01Z
 
 id= REAL011084
 te= Maskinkjøp
@@ -88855,10 +88899,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011670
 te= Massebevegelser
-ba= nc
-nn= Masserørsler
-nn= Massebevegelsar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T19:05:41Z
+fly= REAL013619
 
 id= REAL011671
 te= Sulfidmineraler
@@ -89943,9 +89986,9 @@ tie= 2014-11-12T00:00:00Z
 
 id= REAL011809
 te= Glasitektonikk
-ba= ngh
-nn= Glasitektonikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T16:50:53Z
+fly= REAL007286
 
 id= REAL011810
 te= Cellemembraner
@@ -92145,10 +92188,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012124
 te= Yrkesveiledning
-ba= ns
-nn= Yrkesrettleiing
 tio= 2014-08-25T00:00:00Z
-st= REAL016029
+tis= 2017-02-10T20:19:16Z
+fly= REAL000537
 
 id= REAL012125
 te= Vannkonflikter
@@ -92248,9 +92290,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012141
 te= Akademisk karriere
-ba= nb
-nn= Akademisk karriere
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T20:24:27Z
+fly= REAL013432
 
 id= REAL012143
 te= Modulær evolusjon
@@ -93015,15 +93057,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012230
 te= Barskogforvaltning
-ba= nq
-bf= Barskogsforvaltning
-nn= Barskogforvalting
-nn= Barskogforvaltning
-nn= Barskogsforvalting
-nn= Barskogsforvaltning
 tio= 2014-08-25T00:00:00Z
-st= REAL016394
-st= REAL022540
+tis= 2017-02-10T18:41:42Z
+fly= REAL008162
 
 id= REAL012231
 te= Ekstrasolare planeter
@@ -95309,6 +95345,7 @@ st= REAL021885
 st= REAL023995
 st= REAL024793
 st= REAL025247
+st= REAL031820
 
 id= REAL012458
 te= Generell matematikk
@@ -96126,14 +96163,16 @@ nn= Akkumulasjon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012531
-te= Monte carlo-metoder
+te= Monte Carlo-metoder
 ba= ni
 ba= nm
+ut= REAL031813
 nn= Monte carlo-metodar
 en= Monte Carlo methods
 ms= 65.15
 dw= 518.282
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T13:19:18Z
 st= REAL021877
 
 id= REAL012532
@@ -96564,21 +96603,27 @@ tio= 2014-08-25T00:00:00Z
 st= REAL020902
 
 id= REAL012575
-te= Periglasial geomorfologi
+te= Periglasial
 ba= ngh
-so= REAL009597
+bf= Periglasiale miljøer
+bf= Periglasial geomorfologi
+bf= Periglasial permafrost
+so= REAL009111
+no= github:660
 nn= Periglasial geomorfologi
+nn= Periglasial permafrost
+en= Periglacial
 en= Periglacial geomorphology
+en= Periglacial environments
+de= Klima, landformer og prosesser ved randen av dagens eller tidligere tiders isbreer. Betegner også mer generelt forholdene i områder hvor frostprosesser er aktive. (SNL)
 tio= 2014-08-25T00:00:00Z
-tie= 2016-10-11T18:40:20Z
+tie= 2017-02-10T16:40:44Z
 
 id= REAL012576
 te= Periglasial permafrost
-ba= ngh
-so= REAL009111
-so= REAL011679
-nn= Periglasial permafrost
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-10T16:38:09Z
+fly= REAL012575
 
 id= REAL012577
 te= Perturbasjonsteori
@@ -103761,7 +103806,6 @@ st= REAL027436
 st= REAL027775
 st= REAL027930
 st= REAL028598
-st= REAL028896
 st= REAL028905
 st= REAL029155
 
@@ -104332,10 +104376,12 @@ id= REAL013316
 te= Biologiske effekter
 ba= nb
 ba= nf
+so= REAL009989
 no= Brukes som underordnet term $b
 nn= Biologiske effektar
 nn= Biologiske verknader
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-10T17:43:23Z
 
 id= REAL013317
 te= Biologisk analyse
@@ -106472,9 +106518,21 @@ id= REAL013432
 te= Karriereplanlegging
 ba= fa
 ba= ns
+bf= Karriereveiledning
+bf= Yrkesveiledning
+bf= Akademisk karriere
+bf= Karriere
 nn= Karriereplanlegging
+nn= Karriererettleiing
+nn= Yrkesrettleiing
+nn= Akademisk karriere
+nn= Karriere
 tio= 2014-08-25T00:00:00Z
 st= REAL027176
+st= REAL019736
+st= REAL016029
+st= REAL015163
+st= REAL017252
 
 id= REAL013433
 te= Kjemi
@@ -108958,14 +109016,18 @@ ba= nk
 ba= nf
 bf= Krystallisasjon
 bf= Krystallisasjonsteori
-so= REAL002747
+bf= Krystallvekst
 nn= Krystallisering
 nn= Krystallisasjon
 nn= Krystallisasjonsteori
+nn= Krystallvekst
+nn= Krystallvokster
 en= Crystallization
 en= Crystallisation
+en= Crystal growth
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-07T09:55:07Z
+st= REAL015727
 st= REAL028384
 
 id= REAL013597
@@ -109240,6 +109302,8 @@ te= Skred
 ba= nc
 ba= ngh
 bf= Ras
+bf= Massebevegelser
+bf= Laviner
 so= REAL013620
 so= REAL013621
 so= REAL013622
@@ -109248,18 +109312,30 @@ so= REAL012251
 so= REAL031690
 nn= Skred
 nn= Ras
+nn= Masserørsler
+nn= Massebevegelsar
+en= Landslides
+en= Mass movements
+en= Mass wasting
+en= Avalanches
+de= Gravitasjonsbetinget masseforflytning av stein, jord, leire eller snø (SNL).
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-02T14:48:08Z
+tie= 2017-02-10T19:06:24Z
 st= REAL024917
 
 id= REAL013620
 te= Fjellskred
 ba= nc
+bf= Steinras
 so= REAL013619
 so= REAL031690
 nn= Fjellskred
+en= Rockfalls
+en= Rockslides
+en= Rock avalanches
+de= Massebevegelse hvor store bergmasser styrter ut fra et fjell.
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-02T14:48:11Z
+tie= 2017-02-10T19:08:01Z
 
 id= REAL013621
 te= Jordskred
@@ -116543,12 +116619,13 @@ id= REAL031513
 te= Basestasjoner
 bf= Mobilmaster
 bf= Basisstasjoner
+no= github:403
 nn= Basestasjonar
 nn= Basisstasjonar
 nn= Mobilmaster
 en= Cell tower
 tio= 2015-11-05T11:31:54Z
-tie= 2015-11-05T11:32:22Z
+tie= 2017-02-10T18:55:12Z
 
 id= REAL031514
 te= Atmosfæriske elver
@@ -117329,4 +117406,68 @@ en= Cavity optomechanics
 de= studiet av interaksjon mellom elektromagnetisk stråling og mekaniske systemer via strålingstrykk
 tio= 2017-01-23T11:38:36Z
 tie= 2017-01-23T11:43:13Z
+
+id= REAL031813
+te= Kinetisk Monte Carlo
+ak= KMC
+ot= REAL012531
+nn= Kinetisk Monte Carlo
+en= Kinetic Monte Carlo
+tio= 2017-02-10T13:18:37Z
+tie= 2017-02-10T13:20:05Z
+
+id= REAL031815
+te= Skarver
+bf= Skarvefamilien
+no= github:649
+nn= Skarvar
+en= Cormorants
+en= Shags
+la= Phalacrocoracidae
+de= familie av sulefugler
+tio= 2017-02-10T16:22:05Z
+tie= 2017-02-10T16:26:28Z
+
+id= REAL031816
+te= Avdekking
+nn= Avdekkjing
+en= Exhumation
+de= Blottlegging av en opprinnelig dyptliggende geologiske dannelse ved at det overliggende materialet fjernes ved ulike prosesser (NGO).
+tio= 2017-02-10T16:27:24Z
+tie= 2017-02-10T16:28:40Z
+
+id= REAL031817
+te= Ytre geologiske prosesser
+bf= Eksogene prosesser
+bf= Overflateprosesser
+bf= Eksogen geologi
+nn= Eksogene prosessar
+nn= Overflateprosessar
+nn= Eksogen geologi
+en= Surface processes
+en= Exogenetic processes
+en= Exogenous processes
+de= Fellesbetegnelse på prosesser som har sitt opphav på eller nær på jordoverflaten (NGO).
+tio= 2017-02-10T16:29:59Z
+tie= 2017-02-10T16:31:24Z
+
+id= REAL031818
+te= Bifangst
+nn= Bifangst
+en= Bycatch
+de= fangst av arter en ikke er ute etter under fiske
+tio= 2017-02-10T16:41:46Z
+tie= 2017-02-10T16:42:59Z
+
+id= REAL031819
+te= Oppdrettsanlegg
+bf= Merder
+bf= Lukkede oppdrettsanlegg
+nn= Oppdrettsanlegg
+nn= Lukka oppdrettsanlegg
+nn= Merdar
+en= Sea cages
+en= Cage culture
+tio= 2017-02-10T16:47:17Z
+tie= 2017-02-10T16:49:04Z
 
