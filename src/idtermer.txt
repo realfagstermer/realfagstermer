@@ -16254,6 +16254,7 @@ st= REAL017383
 st= REAL017467
 st= REAL019960
 st= REAL028270
+st= REAL031825
 
 id= REAL002144
 te= Økologisk effekt
@@ -18221,6 +18222,7 @@ tio= 2014-08-25T00:00:00Z
 st= REAL021922
 st= REAL025310
 st= REAL026196
+st= REAL031824
 
 id= REAL002401
 te= Heterogenitet
@@ -20060,10 +20062,8 @@ tie= 2015-11-19T13:51:22Z
 
 id= REAL002631
 te= Forhistorisk liv
-ba= nc
-nn= Førhistorisk liv
-nn= Forhistorisk liv
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-16T09:26:20Z
 
 id= REAL002632
 te= Kosttilskudd
@@ -39616,10 +39616,8 @@ st= REAL026539
 
 id= REAL005185
 te= Forhistorisk tid
-ba= nc
-nn= Førhistorisk tid
-nn= Forhistorisk tid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-16T09:26:25Z
 
 id= REAL005186
 te= Litteratursøking
@@ -47548,6 +47546,8 @@ ba= nb
 nn= Fjellfuglar
 tio= 2014-08-25T00:00:00Z
 st= REAL021548
+st= REAL031822
+st= REAL031823
 
 id= REAL006245
 te= Solsystemer
@@ -96161,6 +96161,7 @@ nn= Språkvitskap
 en= Linguistics
 tio= 2014-08-25T00:00:00Z
 st= REAL014713
+st= REAL031821
 
 id= REAL012526
 te= Karbohydrater
@@ -113371,6 +113372,7 @@ st= REAL031094
 st= REAL031590
 st= REAL031591
 st= REAL031630
+st= REAL031828
 
 id= REAL013890
 te= Melkesyrebakterier
@@ -117544,4 +117546,26 @@ en= Sea cages
 en= Cage culture
 tio= 2017-02-10T16:47:17Z
 tie= 2017-02-10T16:49:04Z
+
+id= REAL031826
+te= Biodatamaskiner
+bf= Biologiske datamaskiner
+nn= Biodatamaskiner
+nn= Biodatamaskinar
+nn= Biologiske datamaskiner
+nn= Biologiske datamaskinar
+en= Biocomputers
+en= Biological computers
+tio= 2017-02-16T09:55:43Z
+tie= 2017-02-16T09:57:38Z
+
+id= REAL031827
+te= Ribonukleotidreduktase
+bf= Ribonukleotid-reduktase
+ak= RNR
+nn= Ribonukleotidreduktase
+nn= Ribonukleotid-reduktase
+en= Ribonucleotide reductase
+tio= 2017-02-16T11:50:12Z
+tie= 2017-02-16T12:17:49Z
 
