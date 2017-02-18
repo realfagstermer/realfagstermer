@@ -3826,9 +3826,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000503
 te= Plasmamodifisering
-ba= nk
-nn= Plasmamodifisering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T21:22:07Z
 
 id= REAL000504
 te= Kometer
@@ -8125,9 +8124,9 @@ st= REAL020537
 
 id= REAL001071
 te= Plasmastrømmer
-ba= na
-nn= Plasmastraumar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T21:21:22Z
+fly= REAL004516
 
 id= REAL001072
 te= Stabile objektsystemer
@@ -10263,7 +10262,13 @@ id= REAL001345
 te= Stokastisk kontroll
 ba= nm
 ba= ns
+bf= Stokastisk kontrollteori
+bf= Stokastisk systemkontroll
+ot= REAL000039
 nn= Stokastisk kontroll
+nn= Stokastisk kontrollteori
+nn= Stokastisk systemkontroll
+en= Stochastic system control
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001346
@@ -11676,10 +11681,9 @@ st= REAL018933
 
 id= REAL001536
 te= 15-lipoksygenasehemmere
-ba= ne
-nn= 15-lipoksygenasehemmarar
-nn= 15-lipoksygenasehemjarar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-16T13:41:33Z
+fly= REAL006187
 
 id= REAL001537
 te= Em-algoritmen
@@ -14414,9 +14418,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001903
 te= Ytringsfrihet
 ba= ni
+so= REAL031831
 nn= Ytringsfridom
 en= Freedom of speech
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-17T15:03:56Z
 
 id= REAL001904
 te= Befruktning
@@ -25296,9 +25302,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003317
 te= Tverrfaglig forskning
-ba= ns
-nn= Tverrfagleg forsking
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T20:41:04Z
+fly= REAL031833
 
 id= REAL003318
 te= Kapillær ph-gradient
@@ -26429,17 +26435,10 @@ st= REAL029392
 
 id= REAL003453
 te= Astrofysiske plasma
-ba= na
-bf= Romplasma
-bf= Kosmisk plasma
-nn= Astrofysiske plasma
-nn= Kosmisk plasma
-nn= Romplasma
-en= Astrophysical plasmas
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-08T13:54:10Z
-st= REAL021973
-st= REAL027017
+tis= 2017-02-17T21:18:51Z
+fly= REAL012093
 
 id= REAL003454
 te= Småvilt
@@ -30067,8 +30066,10 @@ st= REAL014534
 id= REAL003909
 te= Interplanetarisk plasma
 ba= na
+so= REAL012093
 nn= Interplanetarisk plasma
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-17T21:19:12Z
 
 id= REAL003910
 te= Naturfolk
@@ -30411,9 +30412,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003955
 te= Antropologisk lingvistikk
-ba= ns
-nn= Antropologisk lingvistikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T11:16:13Z
 
 id= REAL003956
 te= Merkatorpeilinger
@@ -34659,7 +34659,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004516
 te= Plasmadynamikk
 ba= na
+bf= Plasmastrømmer
+bf= Plasmainstabiliteter
 nn= Plasmadynamikk
+nn= Plasmastraumar
+nn= Plasmainstabilitetar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004517
@@ -39635,9 +39639,9 @@ st= REAL023951
 
 id= REAL005187
 te= Stokastisk kontrollteori
-ba= nm
-nn= Stokastisk kontrollteori
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T11:48:22Z
+fly= REAL001345
 
 id= REAL005188
 te= Infrarød stråling
@@ -40531,9 +40535,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005315
 te= Laboratorieplasma
-ba= na
-nn= Laboratorieplasma
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T21:31:52Z
 
 id= REAL005316
 te= Mikrofoner
@@ -45292,7 +45295,10 @@ id= REAL005949
 te= Plasmapolymerisasjon
 ba= nk
 nn= Plasmapolymerisasjon
+en= Plasma polymerization
+en= Glow discharge polymerization
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-17T21:23:00Z
 
 id= REAL005950
 te= Bibliotekhistorie
@@ -47094,8 +47100,10 @@ st= REAL028605
 id= REAL006187
 te= 15-lipoksygenase
 ba= ne
+ak= ALOX15
 nn= 15-lipoksygenase
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-16T13:41:49Z
 
 id= REAL006188
 te= Indre prosesser
@@ -51043,10 +51051,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006662
 te= Plasmateorier
-ba= na
-nn= Plasmateoriar
 tio= 2014-08-25T00:00:00Z
-st= REAL016762
+tis= 2017-02-17T21:11:43Z
+fly= REAL008857
 
 id= REAL006663
 te= Elektrokjemisk analyse
@@ -58796,9 +58803,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007681
 te= Plasmainstabiliteter
-ba= na
-nn= Plasmainstabilitetar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T21:24:01Z
+fly= REAL004516
 
 id= REAL007682
 te= Memex
@@ -65465,9 +65472,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008543
 te= Plasma 78
-ba= ni
-nn= Plasma 78
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T21:18:22Z
 
 id= REAL008544
 te= Forebygging
@@ -67851,7 +67857,9 @@ ba= na
 ba= nf
 ba= nm
 ba= ns
+bf= Plasmateorier
 nn= Plasmafysikk
+nn= Plasmateoriar
 tio= 2014-08-25T00:00:00Z
 st= REAL014214
 st= REAL015468
@@ -84141,6 +84149,7 @@ nn= Nevroendokrinologi
 nn= Neuroendokrinologi
 tio= 2014-08-25T00:00:00Z
 st= REAL027149
+st= REAL031832
 
 id= REAL011022
 te= Saltvannsakvarier
@@ -91908,7 +91917,9 @@ id= REAL012066
 te= Støvplasma
 ba= na
 nn= Støvplasma
+en= Dusty plasma
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-17T21:26:23Z
 
 id= REAL012067
 te= Tetonikk
@@ -92073,8 +92084,18 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012093
 te= Plasmaastrofysikk
 ba= na
+bf= Astrofysiske plasma
+bf= Romplasma
+bf= Kosmisk plasma
+so= REAL003909
 nn= Plasmaastrofysikk
+nn= Astrofysiske plasma
+nn= Kosmisk plasma
+nn= Romplasma
+en= Astrophysical plasmas
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-17T21:19:11Z
+st= REAL021973
 st= REAL024958
 
 id= REAL012094
@@ -95882,6 +95903,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012498
 te= Optimal kontroll
 ba= nm
+ot= REAL000039
 nn= Optimal kontroll
 en= Optimal control
 ms= 49
@@ -96162,6 +96184,7 @@ en= Linguistics
 tio= 2014-08-25T00:00:00Z
 st= REAL014713
 st= REAL031821
+st= REAL031829
 
 id= REAL012526
 te= Karbohydrater
@@ -103081,12 +103104,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013197
 te= Stokastisk systemkontroll
-ba= nm
-nn= Stokastisk systemkontroll
-en= Stochastic system control
-ms= 93.60
-dw= 003
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-17T11:48:29Z
+fly= REAL001345
 
 id= REAL013198
 te= Adaptiv systemkontroll
@@ -113720,16 +113740,17 @@ nn= Smarte omgjevnader
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013921
-te= Store datamengder
+te= Stordata
 ba= ni
-bf= Stordata
 bf= Ovdata
+bf= Store datamengder
 nn= Store datamengder
 nn= Ovdata
 nn= Stordata
-en= Large data sets
 en= Big data
+en= Large data sets
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-17T20:14:12Z
 
 id= REAL013922
 te= Forstoffer
@@ -117558,6 +117579,7 @@ en= Biocomputers
 en= Biological computers
 tio= 2017-02-16T09:55:43Z
 tie= 2017-02-16T09:57:38Z
+st= REAL031830
 
 id= REAL031827
 te= Ribonukleotidreduktase
@@ -117568,4 +117590,26 @@ nn= Ribonukleotid-reduktase
 en= Ribonucleotide reductase
 tio= 2017-02-16T11:50:12Z
 tie= 2017-02-16T12:17:49Z
+
+id= REAL031831
+te= Akademisk frihet
+so= REAL001903
+nn= Akademisk fridom
+en= Academic freedom
+tio= 2017-02-17T15:03:28Z
+tie= 2017-02-17T15:03:55Z
+
+id= REAL031833
+te= Tverrfaglighet
+bf= Fagintegrering
+bf= Tverrvitenskap
+bf= Tverrfaglig forskning
+bf= Tverrvitenskapelig
+nn= Tverrfaglegheit
+nn= Tverrvitskap
+nn= Tverrfagleg forsking
+en= Interdisciplinarity
+en= Interdisciplinary research
+tio= 2017-02-17T20:36:46Z
+tie= 2017-02-17T22:30:07Z
 
