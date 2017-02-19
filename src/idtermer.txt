@@ -42639,10 +42639,12 @@ nn= Optiske fenomen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005610
-te= 19-norandrosteron
+te= Nandrolon
 ba= ne
+bf= 19-norandrosteron
 nn= 19-norandrosteron
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-18T22:24:37Z
 
 id= REAL005611
 te= Treghet
@@ -97842,11 +97844,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012675
 te= A modeling language for mathematical programming
-ak= AMPL
-nn= AMPL
-nn= A mathematical programming language
-nn= A modeling language for mathematical programming
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-18T22:33:31Z
 
 id= REAL012676
 te= Fjellrev
