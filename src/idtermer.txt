@@ -1722,9 +1722,10 @@ st= REAL029049
 
 id= REAL000229
 te= Adaptive teknikker
-ba= nm
-nn= Adaptive teknikkar
+no= github:#669
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-20T18:42:58Z
+tis= 2017-02-20T18:42:53Z
 
 id= REAL000230
 te= Samer
@@ -4464,9 +4465,9 @@ st= REAL023308
 
 id= REAL000580
 te= Farmasøytisk glykobiologi
-ba= nk
-nn= Farmasøytisk glykobiologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T19:39:25Z
+fly= REAL005197
 
 id= REAL000581
 te= Opposisjoneffekten
@@ -6375,10 +6376,13 @@ id= REAL000838
 te= Lavtemperaturfysikk
 ba= nk
 ba= nf
+bf= Kryogenikk
 nn= Lågtemperaturfysikk
+nn= Kryogenikk
 tio= 2014-08-25T00:00:00Z
 st= REAL014135
 st= REAL020302
+st= REAL015321
 
 id= REAL000839
 te= Distributed component object model
@@ -9652,9 +9656,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001278
 te= Ingeniørgeofysikk
-ba= ngh
-nn= Ingeniørgeofysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T21:33:16Z
 
 id= REAL001279
 te= Ytelsesevaluering
@@ -18743,8 +18746,11 @@ st= REAL027382
 id= REAL002467
 te= Cirkadiske rytmer
 ba= nb
+so= REAL012914
+so= REAL011321
 nn= Cirkadiske rytmar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-20T20:50:08Z
 
 id= REAL002468
 te= Jordbiologi
@@ -19977,9 +19983,8 @@ fly= REAL002883
 
 id= REAL002619
 te= Havfysikk
-ba= ngh
-nn= Havfysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T21:18:51Z
 
 id= REAL002620
 te= Fjellmiljøer
@@ -22799,9 +22804,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002979
 te= Instrumentell fysikk
-ba= nk
-nn= Instrumentell fysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T21:36:11Z
 
 id= REAL002980
 te= Håndskriftanalyse
@@ -25653,9 +25657,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003354
 te= Fysikkens lover
-ba= ns
-nn= Dei fysiske lovene
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T21:15:35Z
+fly= REAL008611
 
 id= REAL003355
 te= Klipper
@@ -32099,9 +32103,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004181
 te= Gravitasjonsfysikk
-ba= na
-nn= Gravitasjonsfysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T21:18:05Z
+fly= REAL007236
 
 id= REAL004182
 te= Biostratigrafi
@@ -36418,6 +36422,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004753
 te= Biologiske artsbegreper
 ba= nq
+so= REAL009624
 nn= Biologiske artsomgrep
 tio= 2014-08-25T00:00:00Z
 
@@ -39725,7 +39730,11 @@ te= Glykobiologi
 ba= nk
 ba= nb
 ba= ne
+bf= Farmasøytisk glykobiologi
+bf= Molekylær glykobiologi
 nn= Glykobiologi
+nn= Farmasøytisk glykobiologi
+nn= Molekylær glykobiologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005198
@@ -46627,8 +46636,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006119
 te= Lipoksygenaser
 ba= nb
+bf= 15-lipoksygenase
 nn= Lipoksygenasar
+nn= 15-lipoksygenase
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-20T20:14:34Z
 
 id= REAL006120
 te= Matematisk bevisføring
@@ -47101,11 +47113,10 @@ st= REAL028605
 
 id= REAL006187
 te= 15-lipoksygenase
-ba= ne
-ak= ALOX15
-nn= 15-lipoksygenase
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-16T13:41:49Z
+tis= 2017-02-20T20:14:22Z
+fly= REAL006119
 
 id= REAL006188
 te= Indre prosesser
@@ -51418,13 +51429,9 @@ fly= REAL010115
 
 id= REAL006701
 te= Kryogenikk
-ba= nk
-ba= nf
-nn= Kryogenikk
 tio= 2014-08-25T00:00:00Z
-st= REAL015321
-st= REAL019557
-st= REAL024644
+tis= 2017-02-20T21:41:51Z
+fly= REAL000838
 
 id= REAL006702
 te= Mikroflora
@@ -52660,9 +52667,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006866
 te= Molekylær glykobiologi
-ba= ne
-nn= Molekylær glykobiologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T19:39:34Z
+fly= REAL005197
 
 id= REAL006867
 te= Estelle
@@ -55470,9 +55477,11 @@ ba= nm
 ba= ns
 bf= Tyngdekraft
 bf= Gravitet
+bf= Gravitasjonsfysikk
 nn= Gravitasjon
 nn= Tyngdekraft
 nn= Gravitet
+nn= Gravitasjonsfysikk
 tio= 2014-08-25T00:00:00Z
 st= REAL017779
 st= REAL018518
@@ -62922,8 +62931,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008221
 te= Kronobiologi
 ba= nb
+so= REAL012914
+so= REAL011321
 nn= Kronobiologi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-20T20:54:58Z
 
 id= REAL008222
 te= Aldersdemens
@@ -66012,7 +66024,9 @@ id= REAL008611
 te= Naturlover
 ba= nk
 ba= ns
+bf= Fysikkens lover
 nn= Naturlover
+nn= Dei fysiske lovene
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008612
@@ -70167,9 +70181,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009154
 te= Statistisk biologi
-ba= nm
-nn= Statistisk biologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T21:02:30Z
+fly= REAL013314
 
 id= REAL009156
 te= Veiutbygging
@@ -73613,8 +73627,11 @@ ba= ne
 ba= ngh
 ba= nq
 ba= ns
+so= REAL004753
 nn= Taksonomi
+de= Biologisk taksonomi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-20T20:45:45Z
 st= REAL014104
 st= REAL014495
 st= REAL014876
@@ -83133,9 +83150,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010881
 te= Gassfysikk
-ba= nk
-nn= Gassfysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T21:17:13Z
 
 id= REAL010882
 te= Overflateenergi
@@ -83243,10 +83259,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010890
 te= Elektrofysikk
-ba= ns
-nn= Elektrofysikk
 tio= 2014-08-25T00:00:00Z
-st= REAL026389
+tis= 2017-02-20T18:34:44Z
 
 id= REAL010891
 te= Pulsarer
@@ -86251,8 +86265,15 @@ ba= nb
 ba= ne
 ba= nf
 ba= ns
+bf= Interne rytmer
+so= REAL002467
+so= REAL012914
+so= REAL008221
 nn= Biorytmar
+en= Biorythms
+en= Internal rythms
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-20T20:54:58Z
 st= REAL023453
 st= REAL028187
 
@@ -96218,9 +96239,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012529
 te= Elektronfysikk
-ba= nk
-nn= Elektronfysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-20T18:35:10Z
 
 id= REAL012530
 te= Akkumulasjon
@@ -100330,8 +100350,12 @@ id= REAL012914
 te= Biologiske klokker
 ba= nb
 so= REAL012915
+so= REAL002467
+so= REAL011321
+so= REAL008221
 nn= Biologiske klokker
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-20T20:54:51Z
 
 id= REAL012915
 te= Døgnrytme
@@ -104416,11 +104440,13 @@ ba= ngh
 ba= nm
 ba= nq
 ba= ns
-bf= Statistisk biostatistikk
+bf= Biologisk statistikk
+bf= Statistisk biologi
 nn= Biostatistikk
 nn= Biologisk statistikk
+nn= Statistisk biologi
 tio= 2014-08-25T00:00:00Z
-tie= 2016-05-24T13:52:21Z
+tie= 2017-02-20T21:01:50Z
 st= REAL022362
 
 id= REAL013315
@@ -116998,13 +117024,12 @@ tio= 2016-06-08T12:32:42Z
 tie= 2016-06-08T12:36:49Z
 
 id= REAL031702
-te= Blokkjede
+te= Blokkjeder
 so= REAL004489
-nn= Blokkjede
-en= Block chain
+nn= Blokkkjeder
 de= Metode for å anonymisere, autentisere og kryptere transaksjoner på Internett.
 tio= 2016-06-14T10:05:15Z
-tie= 2016-06-14T10:09:03Z
+tie= 2017-02-20T21:04:10Z
 
 id= REAL031704
 te= Slakting
