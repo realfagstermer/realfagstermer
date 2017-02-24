@@ -37931,7 +37931,9 @@ ba= nf
 ba= ngh
 ba= nm
 ba= ns
+bf= Teoretisk biofysikk
 nn= Biofysikk
+nn= Teoretisk biofysikk
 en= Biophysics
 tio= 2014-08-25T00:00:00Z
 st= REAL025359
@@ -39518,9 +39520,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005173
 te= Økonomisk bevaringsbiologi
-ba= nb
-nn= Økonomisk bevaringsbiologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-22T12:13:50Z
 
 id= REAL005174
 te= Svindel
@@ -42250,11 +42251,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005554
 te= Teoretisk biofysikk
-ba= nb
-ba= nf
-ba= nm
-nn= Teoretisk biofysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-22T12:22:33Z
+fly= REAL004958
 
 id= REAL005555
 te= Boring
@@ -48009,7 +48008,6 @@ nn= Plankton
 tio= 2014-08-25T00:00:00Z
 st= REAL014664
 st= REAL017585
-st= REAL019726
 st= REAL019930
 st= REAL022668
 st= REAL022919
@@ -86886,10 +86884,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011401
 te= Biologisk utvikling
-ba= nc
-ba= nq
-nn= Biologisk utvikling
 tio= 2014-08-25T00:00:00Z
+tis= 2017-02-22T12:24:28Z
+fly= REAL013414
 
 id= REAL011402
 te= Følsomhet
@@ -105907,8 +105904,10 @@ ba= nm
 ba= nq
 ba= ns
 bf= Evolusjonsbiologi
+bf= Biologisk utvikling
 nn= Evolusjon
 nn= Evolusjonsbiologi
+nn= Biologisk utvikling
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-09T11:18:22Z
 st= REAL015189
