@@ -50625,14 +50625,15 @@ tio= 2014-08-25T00:00:00Z
 st= REAL017593
 
 id= REAL006604
-te= Atanasoff-berry computer
+te= Atanasoff-Berry Computer
 ba= ni
 ak= ABC
-nn= Atanasoff-berry pc
-nn= Atanasoff-berry computer
-nn= Atanasoff-berry datamaskin
+nn= Atanasoff-Berry datamaskin
+nn= Atanasoff-Berry PC
+nn= Atanasoff-Berry Computer
 en= Atanasoff-berry computer
 tio= 2014-08-25T00:00:00Z
+tie= 2017-02-24T11:25:12Z
 
 id= REAL006605
 te= Partisjonering
