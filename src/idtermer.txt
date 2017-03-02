@@ -1507,10 +1507,9 @@ fly= REAL001696
 
 id= REAL000196
 te= Hamiltonfunksjoner
-ba= nf
-ba= nm
-nn= Hamiltonfunksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-01T19:33:44Z
+fly= REAL003222
 
 id= REAL000197
 te= Metamorfe bergarter
@@ -3714,10 +3713,15 @@ nn= Molekylære filter
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000487
-te= M33
+te= Triangelgalaksen
 ba= na
+bf= NGC 598
+bf= M33
+nn= Triangelgalaksen
 nn= M33
+nn= NGC 598
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T19:03:55Z
 
 id= REAL000488
 te= Gopher
@@ -14293,9 +14297,20 @@ id= REAL001885
 te= Hadamardtransformasjoner
 ba= ni
 bf= Hadamardmatriser
+bf= Hadamard-transformasjoner
+bf= Hadamard-matriser
+bf= Walsh-Hadamard-transformasjoner
+bf= Hadamard-Rademacher-Walsh-transformasjoner
+bf= Walsh-Fourier-transformasjoner
 nn= Hadamardtransformasjonar
 nn= Hadamardmatriser
+nn= Hadamard-transformasjonar
+nn= Hadamard-matriser
+nn= Walsh-Hadamard-transformasjonar
+nn= Hadamard-Rademacher-Walsh-transformasjonar
+nn= Walsh-Fourier-transformasjoner
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T19:21:51Z
 
 id= REAL001886
 te= Kompaksjon
@@ -16863,8 +16878,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002218
 te= Adaptiv radiasjon
 ba= nb
+bf= Radiasjon
 nn= Adaptiv radiasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T18:39:32Z
 
 id= REAL002219
 te= Bredemte sjøer
@@ -17283,9 +17300,9 @@ st= REAL029926
 
 id= REAL002278
 te= Tetrabrombisfenol-a
-ba= nk
-nn= Tetrabrombisfenol-a
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-01T19:29:25Z
+fly= REAL012750
 
 id= REAL002279
 te= Cisco-rutere
@@ -24624,7 +24641,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003222
 te= Hamiltonmekanikk
 ba= nm
+bf= Hamiltonfunksjoner
+bf= Hamiltondynamikk
+bf= Hamiltonsystemer
 nn= Hamiltonmekanikk
+nn= Hamiltonfunksjonar
+nn= Hamiltondynamikk
+nn= Hamiltonsystem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003223
@@ -24995,10 +25018,13 @@ tio= 2014-08-25T00:00:00Z
 tis= 2016-12-30T13:13:15Z
 
 id= REAL003273
-te= Hall-polynom
+te= Hall-algebra
 ba= nm
+bf= Hall-polynom
 nn= Hall-polynom
+nn= Hall-algebra
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T19:26:12Z
 
 id= REAL003275
 te= Uorganisk strukturkjemi
@@ -28209,9 +28235,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003679
 te= Hamiltonsystemer
-ba= nm
-nn= Hamiltonsystem
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-01T19:47:53Z
+fly= REAL003222
 
 id= REAL003680
 te= Elektriske kretser
@@ -29200,8 +29226,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003802
 te= Bevissthetsfilosofi
 ba= nm
+bf= Sinnsfilosofi
 nn= Medvitsfilosofi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T19:01:13Z
 
 id= REAL003803
 te= Astrofotografering
@@ -40427,10 +40455,14 @@ tis= 2016-12-20T19:36:08Z
 fly= REAL007184
 
 id= REAL005297
-te= M83
+te= Messier 83
 ba= na
+bf= Sydlige hjulgalaksen
+bf= NGC 5236
+bf= M83
 nn= M83
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T19:05:39Z
 
 id= REAL005298
 te= Oppgaveanalyse
@@ -54972,8 +55004,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007161
 te= Doktorgrad
 ba= ns
+bf= ph.d.
+bf= PhD
 nn= Doktorgrad
+nn= ph.d.
+nn= PhD
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T18:58:01Z
 st= REAL015800
 st= REAL018378
 st= REAL019939
@@ -57761,9 +57798,12 @@ st= REAL015476
 id= REAL007531
 te= Halogenerte flammehemmere
 ba= nk
+ot= REAL003726
+ut= REAL012750
 nn= Halogenerte flammehemmarar
 nn= Halogenerte flammehemjarar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T19:32:34Z
 
 id= REAL007532
 te= Gruver
@@ -73601,8 +73641,17 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009614
 te= Styren
 ba= nk
+bf= Divinylbenzene
+bf= Vinylbenzen
+bf= Etenylbenzen
+bf= Fenyleten
 nn= Styren
+nn= Vinylbenzen
+nn= Divinylbenzen
+nn= Etenylbenzen
+nn= Fenyleten
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T18:56:17Z
 
 id= REAL009615
 te= Internasjonalisme
@@ -76229,11 +76278,11 @@ nn= Kjemisk sansing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009952
-te= Adp-ribosyltransferaser
+te= ADP-ribosyltransferaser
 ba= nb
-nn= Adp-ribosyltransferasar
+nn= ADP-ribosyltransferasar
 tio= 2014-08-25T00:00:00Z
-tie= 2015-06-04T15:51:50Z
+tie= 2017-03-01T18:40:28Z
 
 id= REAL009953
 te= Betalingstjenester
@@ -86189,8 +86238,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011304
 te= Romkolonier
 ba= na
+bf= Romkolonisering
+bf= Månebaser
+bf= Månebosetting
 nn= Romkoloniar
+nn= Månebasar
+nn= Månebusetnad
+nn= Månebusetjing
+nn= Månebusetting
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T21:21:53Z
 st= REAL019725
 st= REAL021508
 
@@ -86474,9 +86531,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011344
 te= Divinylbenzene
-ba= nk
-nn= Divinylbenzene
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-01T18:54:36Z
+fly= REAL009614
 
 id= REAL011345
 te= Regenerasjon
@@ -91671,11 +91728,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012020
 te= Månebosetting
-ba= na
-nn= Månebusetnad
-nn= Månebusetjing
-nn= Månebusetting
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-01T21:22:12Z
+fly= REAL011304
 
 id= REAL012021
 te= RNA-polymerase
@@ -91710,9 +91765,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012025
 te= Månebaser
-ba= na
-nn= Månebasar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-01T21:21:59Z
+fly= REAL011304
 
 id= REAL012026
 te= Islandshester
@@ -97822,8 +97877,10 @@ id= REAL012667
 te= Nedrustning
 ba= nf
 bf= Nedrusting
+so= REAL012707
 nn= Nedrusting
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T21:41:19Z
 st= REAL014697
 st= REAL028930
 
@@ -98328,13 +98385,14 @@ bf= Kjernevåpen
 bf= Atombomber
 bf= Kjernefysiske våpen
 so= REAL006606
+so= REAL012667
 nn= Atomvåpen
 nn= Atombomber
 nn= Kjernefysiske våpen
 nn= Kjernevåpen
 en= Nuclear weapons
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-24T17:42:09Z
+tie= 2017-03-01T21:41:18Z
 st= REAL015215
 st= REAL015264
 st= REAL016351
@@ -98865,9 +98923,21 @@ st= REAL031149
 
 id= REAL012750
 te= Bromerte flammehemmere
+bf= Tetrabrombisfenol-a
+bf= Pentabromdifenyleter
+bf= Oktabromdifenyleter
+bf= Deka-BDE
+bf= Heksabromsyklododekan
+ot= REAL007531
 nn= Bromerte flammehemmarar
 nn= Bromerte flammehemjarar
+nn= Tetrabrombisfenol-a
+nn= Pentabromdifenyleter
+nn= Oktabromdifenyleter
+nn= Deka-BDE
+nn= Heksabromsyklododekan
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-01T19:32:34Z
 
 id= REAL012751
 te= Oppdrettslaks
@@ -99400,9 +99470,9 @@ st= REAL029817
 
 id= REAL012806
 te= Hamiltondynamikk
-ba= nm
-nn= Hamiltondynamikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-01T19:47:07Z
+fly= REAL003222
 
 id= REAL012807
 te= Hamiltonkretser
@@ -117562,11 +117632,12 @@ id= REAL031798
 te= Slimlag
 bf= Slim
 so= REAL003664
+no= github:#505
 nn= Slimlag
 nn= Slim
 la= Mucus
 tio= 2017-01-09T11:07:27Z
-tie= 2017-01-09T11:11:21Z
+tie= 2017-03-01T21:12:18Z
 
 id= REAL031801
 te= Optomekanikk
