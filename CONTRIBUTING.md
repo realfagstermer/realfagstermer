@@ -42,7 +42,7 @@ Ingen ekstra innlogging trengs for Waffle, men du må gi tilgang til at Waffle k
 
 Kolonnen "Backlog" viser alle saker som ikke har blitt organisert enda.
 Forslag kan organiseres i en av følgende stadier (hvert stadium er knyttet til en etikett i GitHub)
-* [trenger innspill](https://github.com/realfagstermesr/realfagstermer/labels/trenger%20innspill)
+* [trenger innspill](https://github.com/realfagstermer/realfagstermer/labels/trenger%20innspill)
   : Forslag som trenger innspill fra andre.
 * [ferdig diskutert](https://github.com/realfagstermer/realfagstermer/labels/ferdig%20diskutert)
   : Forslag som er klare for å implementeres gjennom endring i Sonja og evt. gjennomgående retting i katalogen.
