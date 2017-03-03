@@ -20,6 +20,17 @@ For å legge inn et forslag til et nytt emneord eller en endring i et eksisteren
 * Flertall: objekter, noe om kan telles. Eks: `Sauer`, `Abelske grupper`, `Radiobølger`
 * Entall: begreper/fenomener, noe som ikke kan telles. Eks: `Strålebehandling`, `Generell relativitetsteori`
 
+### Forkortelser
+
+Vi bruker ofte disse forkortelsene:
+
+* **DE**: *Definisjon*
+* **BF**: *Brukt for* (Andre termer som brukes om samme emneord. Dette kan være synonymer og nesten-synonymer, men også andre termer som det bare ikke gir praktisk mening å skille ut som egne emneord, f.eks. fordi litteraturen sammenfaller)
+* **SO**: *Se også* (Andre emneord som brukeren kan være interessert i)
+* **EN**: *Engelsk*
+* **NN**: *Nynorsk*
+* **LA**: *Latin* (vitenskapelig navn)
+
 ### Organisering og behandling av forslag
 
 Det er først og fremst opp til emneredaksjonen å sørge for at forslagene er godt organisert,
