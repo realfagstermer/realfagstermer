@@ -1586,10 +1586,8 @@ fly= REAL012221
 
 id= REAL000211
 te= Faktorer
-ba= nb
-ba= nm
-nn= Faktorar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T17:10:16Z
 
 id= REAL000212
 te= Konstruksjonsproblemer
@@ -1946,11 +1944,20 @@ nn= Samfunnsvitskapelege metodar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000257
-te= Edelkrepser
+te= Edelkreps
 ba= nk
 ba= nb
-nn= Edelkrepsar
+bf= Elvekreps
+bf= Flodkreps
+bf= Jomfrukreps
+nn= Edelkreps
+nn= Elvekreps
+en= European crayfish
+en= Noble crayfish
+en= Broad-fingered crayfish
+la= Astacus astacus
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T17:29:30Z
 
 id= REAL000258
 te= Immunologi
@@ -2198,12 +2205,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000290
 te= Bassengkonfigurasjon
-ba= nc
-nn= Bassengkonfigurasjon
 tio= 2014-08-25T00:00:00Z
-st= REAL020568
-st= REAL022324
-st= REAL028720
+tis= 2017-03-02T18:21:23Z
 
 id= REAL000291
 te= Lianer
@@ -4179,13 +4182,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000553
 te= Demonstrasjonsforsøk
-ba= nk
-nn= Demonstrasjonsforsøk
-nn= Demonstrasjonsfreistnad
 tio= 2014-08-25T00:00:00Z
-st= REAL016060
-st= REAL022192
-st= REAL025665
+tis= 2017-03-02T19:02:16Z
+fly= REAL007999
 
 id= REAL000554
 te= Møll
@@ -4369,7 +4368,7 @@ en= Reversed-phase liquid chromatography
 en= Reversed phase HPLC
 de= Væskekromatografi der den mobile fasen er betydelig mer polar enn den stasjonære fasen (IUPAC)
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-06T00:01:57Z
+tie= 2017-03-02T19:57:02Z
 
 id= REAL000568
 te= Klassifiserende rom
@@ -7856,8 +7855,10 @@ ba= nc
 ba= ngh
 ba= nm
 ba= ns
+so= REAL002862
 nn= Petrografi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T18:43:37Z
 st= REAL014261
 st= REAL014698
 st= REAL014771
@@ -8383,10 +8384,12 @@ ba= nb
 ba= nf
 bf= Laboratorieøvelser
 bf= Laboratorieeksperimenter
+so= REAL007999
 nn= Laboratorieforsøk
 nn= Laboratorieeksperiment
 nn= Laboratorieøvingar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T19:03:53Z
 st= REAL015281
 st= REAL015454
 st= REAL018448
@@ -10892,7 +10895,7 @@ ba= nf
 ba= nm
 ba= ns
 bf= Forsøk
-so= REAL009965
+so= REAL002430
 nn= Eksperiment
 nn= Forsøk
 en= Experiments
@@ -13803,11 +13806,10 @@ st= REAL015298
 
 id= REAL001822
 te= Balsam
-ba= ne
-nn= Balsam
 de= Botanisk plantevæske
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-15T15:22:52Z
+tis= 2017-03-02T18:22:29Z
 
 id= REAL001824
 te= Kvantekosmologi
@@ -18475,14 +18477,22 @@ id= REAL002430
 te= Fysikkeksperimenter
 ba= nf
 bf= Fysikkprosjekter
+bf= Demonstrasjoner
+bf= Demonstrasjonsforsøk
+bf= Fysikkforsøk
 so= REAL002449
+so= REAL001438
 ot= REAL001438
 nn= Fysikkeksperiment
+nn= Demonstrasjonar
 en= Physics experiments
 en= Physics projects
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-15T14:39:13Z
+tie= 2017-03-02T19:05:54Z
 st= REAL020639
+st= REAL021687
+st= REAL023698
+st= REAL027189
 
 id= REAL002431
 te= Sertifisering
@@ -21766,7 +21776,9 @@ tis= 2017-01-25T10:01:30Z
 id= REAL002848
 te= Newtons metode
 ba= ni
+bf= Newton-raphsonmetoden
 nn= Newtons metode
+nn= Newton-Raphson-metoden
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002849
@@ -21903,8 +21915,11 @@ st= REAL014950
 id= REAL002862
 te= Bergartslære
 ba= nc
+so= REAL008955
+so= REAL001037
 nn= Bergartslære
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T18:43:36Z
 
 id= REAL002863
 te= Kosmogoni
@@ -23452,7 +23467,9 @@ ba= nf
 ba= ngh
 ba= nq
 ba= ns
+bf= Biologisk kjemi
 nn= Biokjemi
+nn= Biologisk kjemi
 en= Biochemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL014080
@@ -23648,11 +23665,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003080
 te= Biologisk kjemi
-ba= nk
-ba= ne
-nn= Biologisk kjemi
 tio= 2014-08-25T00:00:00Z
-st= REAL029887
+tis= 2017-03-02T17:12:20Z
+fly= REAL003065
 
 id= REAL003081
 te= Studentveiledning
@@ -24203,9 +24218,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003159
 te= Newton-raphsonmetoden
-ba= ni
-nn= Newton-Raphson-metoden
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T19:49:48Z
+fly= REAL002848
 
 id= REAL003160
 te= Marin mikrobiologi
@@ -27884,9 +27899,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003632
 te= Omvendt fase
-ba= nk
-nn= Omvend fase
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T19:56:53Z
+fly= REAL000567
 
 id= REAL003633
 te= Hydromekanikk
@@ -28178,10 +28193,8 @@ st= REAL028589
 
 id= REAL003670
 te= Monitoring of svalbard and jan mayen
-ba= nb
-ak= MOSJ
-nn= Overvaking av Svalbard og Jan Mayen
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T19:56:41Z
 
 id= REAL003671
 te= Landskapsverdi
@@ -29747,8 +29760,22 @@ id= REAL003866
 te= Gammaspektroskopi
 ba= nf
 ba= ns
+bf= Gammaspektrometri
+bf= Gammastrålespektrometri
+no= http://purl.obolibrary.org/obo/CHMO_0000414
 nn= Gammaspektroskopi
+nn= Gammastrålespektrometri
+nn= Gammaspektrometri
+nn= Gammastrålespektroskopi
+en= Gamma-ray spectroscopy
+en= Gamma-ray emission spectroscopy
+en= Gamma-ray spectrometry
+en= Gamma spectrometry
+en= Gamma spectroscopy
+en= Gamma ray spectrometry
+en= Gamma-ray emssion spectrometry
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T18:33:16Z
 
 id= REAL003867
 te= Elefantdyr
@@ -30488,17 +30515,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003963
 te= Navn
-ba= nb
-ba= ns
-nn= Namn
 tio= 2014-08-25T00:00:00Z
-st= REAL014579
-st= REAL017082
-st= REAL019560
-st= REAL025166
-st= REAL026060
-st= REAL029605
-st= REAL029840
+tis= 2017-03-02T19:50:51Z
 
 id= REAL003964
 te= Jordbrukslandskap
@@ -32746,7 +32764,9 @@ te= Bergartsdannelse
 ba= nc
 ba= ngh
 ba= ns
+bf= Petrogenese
 nn= Bergartsdanning
+nn= Petrogenese
 tio= 2014-08-25T00:00:00Z
 st= REAL028084
 
@@ -35871,11 +35891,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004673
 te= Petrogenese
-ba= nk
-ba= nc
-ba= ns
-nn= Petrogenese
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T18:42:28Z
+fly= REAL004256
 
 id= REAL004674
 te= Fluvial facies
@@ -36464,11 +36482,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004754
 te= Bioastronomi
-ba= na
-nn= Bioastronomi
 tio= 2014-08-25T00:00:00Z
-st= REAL016737
-st= REAL018774
+tis= 2017-03-02T18:37:01Z
+fly= REAL008572
 
 id= REAL004755
 te= Hunner
@@ -41049,9 +41065,8 @@ st= REAL024824
 
 id= REAL005381
 te= Bremiljøer
-ba= ngh
-nn= Bremiljø
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T18:45:52Z
 
 id= REAL005382
 te= Eksogene prosesser
@@ -43482,9 +43497,9 @@ st= REAL026950
 
 id= REAL005707
 te= Gammastrålespektrometri
-ba= nk
-nn= Gammastrålespektrometri
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T18:30:36Z
+fly= REAL003866
 
 id= REAL005708
 te= Kometkjerner
@@ -46817,7 +46832,9 @@ id= REAL006137
 te= Strålebiologi
 ba= nk
 ba= nf
+bf= Radiobiologi
 nn= Strålebiologi
+nn= Radiobiologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006138
@@ -48830,10 +48847,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006388
 te= Bretermer
-ba= ngh
-nn= Bretermar
 tio= 2014-08-25T00:00:00Z
-st= REAL029498
+tis= 2017-03-02T18:46:25Z
 
 id= REAL006389
 te= Grenselagsstrømninger
@@ -50078,11 +50093,9 @@ st= REAL017952
 
 id= REAL006524
 te= Narkotikamisbruk
-ba= ns
-nn= Narkotikamisbruk
 tio= 2014-08-25T00:00:00Z
-st= REAL025222
-st= REAL029215
+tis= 2017-03-02T19:57:50Z
+fly= REAL012625
 
 id= REAL006525
 te= Lysspredning
@@ -52835,13 +52848,22 @@ nn= Undervassteknologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006884
-te= Fluider
+te= Fluider (geologi)
 ba= nc
 ba= nf
+bf= Væskestrømning
+bf= Væskestrømninger
+bf= Væskestrøm
+bf= Væskestrømmer
 so= REAL003650
 nn= Fluid
+nn= Væskestrøyming
+nn= Væskestraum
+nn= Væskestrøymingar
+nn= Væskestraumar
+de= Væsker eller blandinger av væske og gass i sammenheng med geologiske prosesser
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-07T17:32:19Z
+tie= 2017-03-02T17:19:58Z
 st= REAL019037
 
 id= REAL006885
@@ -55102,9 +55124,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007173
 te= Nobel
-ba= nk
-nn= Nobel
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T20:03:11Z
 
 id= REAL007174
 te= Fascisme
@@ -57444,9 +57465,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007483
 te= Spredningsrygger
-ba= nc
-nn= Spreiingsryggar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T18:11:53Z
+fly= REAL011698
 
 id= REAL007484
 te= Bosetningshistorie
@@ -59374,10 +59395,12 @@ nn= Skjering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007745
-te= Kjemiske navn
+te= Kjemisk nomenklatur
 ba= nk
+bf= Kjemiske navn
 nn= Kjemiske namn
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T19:53:32Z
 
 id= REAL007746
 te= Frostsikring
@@ -61309,12 +61332,20 @@ te= Kjemieksperimenter
 ba= nk
 bf= Kjemiske eksperimenter
 bf= Kjemiprosjekter
+bf= Demonstrasjonsforsøk
+bf= Kjemiforsøk
 so= REAL002449
+so= REAL001108
 ot= REAL001438
 nn= Kjemiske eksperiment
+nn= Demonstrasjonsforsøk
+nn= Demonstrasjonsfreistnad
 en= Chemistry experiments
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-15T14:40:14Z
+tie= 2017-03-02T19:06:13Z
+st= REAL016060
+st= REAL022192
+st= REAL025665
 
 id= REAL008000
 te= Matplanter
@@ -61587,11 +61618,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008034
 te= Næring
-ba= nk
-ba= nb
-nn= Næring
 tio= 2014-08-25T00:00:00Z
-st= REAL019291
+tis= 2017-03-02T20:02:12Z
 
 id= REAL008035
 te= Telemetri
@@ -65825,8 +65853,17 @@ ba= na
 ba= nb
 ba= nf
 ba= ns
+bf= Eksobiologi
+bf= Bioastronomi
+bf= Xenobiologi
+bf= Rombiologi
 nn= Astrobiologi
+nn= Eksobiologi
+nn= Bioastronomi
+nn= Xenobiologi
+nn= Rombiologi
 tio= 2014-08-25T00:00:00Z
+st= REAL018774
 st= REAL021825
 st= REAL023297
 st= REAL023686
@@ -68701,8 +68738,10 @@ ba= nk
 ba= nc
 ba= ngh
 ba= ns
+so= REAL002862
 nn= Petrologi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T18:43:31Z
 st= REAL014082
 st= REAL014442
 st= REAL015414
@@ -68992,6 +69031,7 @@ id= REAL008989
 te= Rusmidler
 ba= nk
 ba= ne
+ut= REAL009215
 nn= Rusmiddel
 tio= 2014-08-25T00:00:00Z
 st= REAL016112
@@ -70722,8 +70762,12 @@ te= Narkotika
 ba= nk
 ba= nb
 ba= ns
+bf= Narkotikahandel
+so= REAL008607
 nn= Narkotika
+nn= Narkotikahandel
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T20:00:15Z
 st= REAL017370
 st= REAL018622
 st= REAL023348
@@ -73349,11 +73393,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009585
 te= Narkotikahandel
-ba= ns
-nn= Narkotikahandel
 tio= 2014-08-25T00:00:00Z
-st= REAL016901
-st= REAL020304
+tis= 2017-03-02T20:00:05Z
+fly= REAL009215
 
 id= REAL009586
 te= Sameksistens
@@ -76382,14 +76424,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009965
 te= Demonstrasjoner
-ba= nf
-ba= nm
-so= REAL001438
-nn= Demonstrasjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL021687
-st= REAL023698
-st= REAL027189
+tis= 2017-03-02T19:05:30Z
+fly= REAL002430
 
 id= REAL009966
 te= Flarestjerner
@@ -79821,11 +79858,9 @@ st= REAL027303
 
 id= REAL010392
 te= Nordlysforskning
-ba= na
-ba= ngh
-nn= Nordljosforsking
-nn= Nordlysforsking
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T20:02:50Z
+fly= REAL012749
 
 id= REAL010393
 te= Macrura
@@ -80875,9 +80910,9 @@ st= REAL024276
 
 id= REAL010544
 te= Biologisk styrkebestemmelse
-ba= ne
-nn= Biologisk styrkebestemming
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T18:12:49Z
+fly= REAL011793
 
 id= REAL010546
 te= Geografiske analyser
@@ -81047,13 +81082,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010567
 te= Eksobiologi
-ba= nk
-ba= na
-ba= nb
-nn= Eksobiologi
 tio= 2014-08-25T00:00:00Z
-st= REAL018741
-st= REAL023546
+tis= 2017-03-02T18:36:46Z
+fly= REAL008572
 
 id= REAL010568
 te= Apebrødtrær
@@ -81287,12 +81318,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010598
 te= Radiobiologi
-ba= nk
-ba= nb
-ba= ne
-ba= nf
-nn= Radiobiologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T17:11:57Z
+fly= REAL006137
 
 id= REAL010599
 te= Stimuli
@@ -82371,10 +82399,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010754
 te= Rombiologi
-ba= na
-nn= Rombiologi
 tio= 2014-08-25T00:00:00Z
-st= REAL023361
+tis= 2017-03-02T18:37:34Z
+fly= REAL008572
 
 id= REAL010755
 te= Klappmyss
@@ -85100,9 +85127,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011144
 te= Xenobiologi
-ba= nb
-nn= Xenobiologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T18:37:25Z
+fly= REAL008572
 
 id= REAL011145
 te= Huntingtons sykdom
@@ -89295,8 +89322,14 @@ st= REAL024075
 id= REAL011698
 te= Midthavsrygger
 ba= nc
+bf= Spredningsrygger
 nn= Midthavsryggar
+nn= Spreiingsryggar
+en= Mid-ocean ridges
+en= Mid-oceanic ridges
+en= Oceanic spreading center
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T18:12:10Z
 st= REAL026103
 
 id= REAL011699
@@ -90032,6 +90065,7 @@ te= Bioassays
 ba= ne
 nn= Bioassays
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-02T18:12:59Z
 
 id= REAL011794
 te= Deskriptiv astrofysikk
@@ -92384,9 +92418,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012128
 te= Bakterieseleksjon
-ba= nb
-nn= Bakterieseleksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T18:23:12Z
 
 id= REAL012129
 te= Kvalitetsovervåking
@@ -97310,11 +97343,14 @@ id= REAL012625
 te= Rusmisbruk
 ba= ne
 bf= Rusmiddelmisbruk
+bf= Narkotikamisbruk
 so= REAL012624
 nn= Rusmisbruk
 nn= Rusmiddelmisbruk
+nn= Narkotikamisbruk
 tio= 2014-08-25T00:00:00Z
 st= REAL024184
+st= REAL029215
 
 id= REAL012626
 te= Mohorovicics diskontinuitet
@@ -98906,9 +98942,12 @@ ba= nf
 ba= ngh
 ba= ns
 bf= Aurora borealis
+bf= Nordlysforskning
 nn= Nordljos
 nn= Aurora borealis
 nn= Nordlys
+nn= Nordljosforsking
+nn= Nordlysforsking
 tio= 2014-08-25T00:00:00Z
 st= REAL015447
 st= REAL016045
@@ -108997,23 +109036,15 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013575
 te= Væskestrøm
-ba= nc
-ba= ngh
-ba= nm
-bf= Væskestrømmer
-nn= Væskestraum
-nn= Væskestraumar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T17:21:02Z
+fly= REAL006884
 
 id= REAL013576
 te= Væskestrømning
-ba= nc
-ba= nm
-bf= Væskestrømninger
-nn= Væskestrøyming
-nn= Væskestraum
-nn= Væskestrøymingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-02T17:20:31Z
+fly= REAL006884
 
 id= REAL013577
 te= Flerfasestrømning
@@ -117718,6 +117749,7 @@ tie= 2017-02-10T16:49:04Z
 id= REAL031826
 te= Biodatamaskiner
 bf= Biologiske datamaskiner
+no= github:#664
 nn= Biodatamaskiner
 nn= Biodatamaskinar
 nn= Biologiske datamaskiner
@@ -117725,7 +117757,7 @@ nn= Biologiske datamaskinar
 en= Biocomputers
 en= Biological computers
 tio= 2017-02-16T09:55:43Z
-tie= 2017-02-16T09:57:38Z
+tie= 2017-03-02T17:17:06Z
 st= REAL031830
 
 id= REAL031827
@@ -117759,4 +117791,19 @@ en= Interdisciplinarity
 en= Interdisciplinary research
 tio= 2017-02-17T20:36:46Z
 tie= 2017-02-17T22:30:07Z
+
+id= REAL031836
+te= Flerartskultur
+bf= Polykultur
+nn= Fleirartskultur
+en= Polyculture
+tio= 2017-03-02T18:16:54Z
+tie= 2017-03-02T18:17:07Z
+
+id= REAL031837
+te= Naturfagseksperimenter
+bf= Demonstrasjonsforsøk
+bf= Naturfagsforsøk
+tio= 2017-03-02T19:09:58Z
+tie= 2017-03-02T19:11:32Z
 
