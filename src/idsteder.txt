@@ -1066,7 +1066,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030456
 te= Kaledonidene
+bf= Kaledonske fjellkjedefoldning
+bf= Kaledonske orogenese
+bf= Kaledonske fjellkjede
+bf= Den kaledonske fjellkjede
+bf= Den kaledonske orogenesen
+nn= Kaledonidene
+nn= Kaledonske fjellkjede
+en= Caledonides
+en= Caledonian orogeny
 tio= 2015-02-20T13:08:04Z
+tie= 2017-03-07T15:03:33Z
 
 id= REAL030457
 te= Irskesjøen

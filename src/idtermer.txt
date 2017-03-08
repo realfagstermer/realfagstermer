@@ -4063,9 +4063,9 @@ st= REAL023901
 
 id= REAL000535
 te= Gallesyrer
-ba= ns
-nn= Gallesyrer
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T21:08:43Z
+fly= REAL008167
 
 id= REAL000536
 te= Ionebalanse
@@ -4886,10 +4886,13 @@ nn= Klimamodellar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000640
-te= Google
+te= Google-søk
 ba= ns
-nn= Google
+nn= Google-søk
+en= Google Search
+de= søkemotor
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:31:36Z
 
 id= REAL000641
 te= Bosetningsmønster
@@ -7396,9 +7399,8 @@ tie= 2016-11-23T14:13:49Z
 
 id= REAL000976
 te= General electric company
-ba= ni
-nn= General electric company
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T15:48:22Z
 
 id= REAL000977
 te= Echiurider
@@ -7892,10 +7894,16 @@ st= REAL025617
 st= REAL027085
 
 id= REAL001038
-te= Gauge-teorier
+te= Gaugeteori
 ba= nf
+bf= Gauge-felter
+bf= Gauge-symmetri
 nn= Gauge-teoriar
+nn= Gauge-felt
+nn= Gauge-symmetri
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T19:32:21Z
+st= REAL026271
 
 id= REAL001039
 te= Havbunnspredning
@@ -8804,9 +8812,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001165
 te= Generell meteorologi
-ba= ngh
-nn= Generell meteorologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T16:13:33Z
+fly= REAL013457
 
 id= REAL001166
 te= Sulfater
@@ -9834,18 +9842,20 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001300
 te= Generell geologi
-ba= nc
-nn= Generell geologi
 tio= 2014-08-25T00:00:00Z
-st= REAL022701
+tis= 2017-03-07T16:04:47Z
+fly= REAL013425
 
 id= REAL001301
 te= Gassmekanikk
 ba= na
 ba= ngh
 ba= nm
+bf= Pneumatikk
 nn= Gassmekanikk
+nn= Pneumatikk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T14:53:50Z
 
 id= REAL001302
 te= Epidermis
@@ -11664,12 +11674,14 @@ nn= Interpolasjonsrom
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001534
-te= Gnu image manipulation program
+te= GIMP
 ba= ni
+bf= Gnu image manipulation program
 ak= GIMP
 nn= GIMP
 nn= The GNU image manipulation program
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:26:11Z
 
 id= REAL001535
 te= Elektronisk publisering
@@ -15701,9 +15713,10 @@ ba= nc
 ba= ngh
 ba= nm
 ba= ns
+so= REAL002105
 nn= Geoteknikk
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-17T00:00:00Z
+tie= 2017-03-07T23:45:03Z
 st= REAL014091
 st= REAL020898
 st= REAL021105
@@ -15966,8 +15979,11 @@ id= REAL002105
 te= Jordmekanikk
 ba= nc
 ba= ns
+so= REAL002080
+ot= REAL011515
 nn= Jordmekanikk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T23:41:52Z
 st= REAL027305
 
 id= REAL002106
@@ -16913,9 +16929,8 @@ st= REAL020086
 
 id= REAL002224
 te= Adsorpsjonsanalyse
-ba= ne
-nn= Adsorpsjonsanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T18:22:44Z
 
 id= REAL002225
 te= Medisinsk genforskning
@@ -17977,10 +17992,8 @@ fly= REAL010775
 
 id= REAL002365
 te= Biodynamikk
-ba= nb
-ba= nm
-nn= Biodynamikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T18:30:27Z
 
 id= REAL002366
 te= Optimal estimering
@@ -20512,9 +20525,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002693
 te= Gemmologi
-ba= nc
-nn= Gemmologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T15:19:59Z
+fly= REAL008647
 
 id= REAL002694
 te= Statistisk dataanalyse
@@ -21728,15 +21741,15 @@ st= REAL022456
 st= REAL029010
 
 id= REAL002844
-te= Elektriske utladninger
+te= Elektrisk utladning
 ba= nf
-bf= Lysbuer
-nn= Elektriske utladingar
-nn= Lysbogar
-en= Electric discharges
-en= Electric arcs
+bf= Utladninger
+ut= REAL004279
+nn= Elektrisk utladning
+nn= Utladingar
+en= Electric discharge
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-24T14:52:23Z
+tie= 2017-03-07T22:08:24Z
 st= REAL023349
 
 id= REAL002845
@@ -22182,11 +22195,9 @@ st= REAL027410
 
 id= REAL002890
 te= Generalized horn clause language
-ba= ni
-ak= GCLA
-nn= Generalized horn clause language
 de= Definisjonsspråk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T15:54:54Z
 
 id= REAL002891
 te= Grasrotbevegelser
@@ -22963,7 +22974,9 @@ ba= ngh
 ba= nm
 ba= nq
 ba= ns
+bf= Generell hydrologi
 nn= Hydrologi
+nn= Generell hydrologi
 en= Hydrology
 tio= 2014-08-25T00:00:00Z
 st= REAL014217
@@ -23301,8 +23314,10 @@ fly= REAL006457
 id= REAL003043
 te= Beskrivende statistikk
 ba= nm
+bf= Deskriptiv statistikk
 nn= Skildrande statistikk
 nn= Beskrivande statistikk
+nn= Deskriptiv statistikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003044
@@ -23512,9 +23527,11 @@ ba= nf
 ba= ngh
 ba= nm
 ba= ns
+bf= Generell fysikk
 so= REAL005664
 ut= REAL013127
 nn= Fysikk
+nn= Generell fysikk
 en= Physics
 tio= 2014-08-25T00:00:00Z
 tie= 2016-05-27T19:29:48Z
@@ -23562,7 +23579,6 @@ st= REAL024283
 st= REAL024513
 st= REAL024807
 st= REAL024967
-st= REAL025037
 st= REAL025089
 st= REAL025474
 st= REAL025947
@@ -23677,12 +23693,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003082
 te= Generell kjemi
-ba= ne
-nn= Generell kjemi
 tio= 2014-08-25T00:00:00Z
-st= REAL018335
-st= REAL024729
-st= REAL026999
+tis= 2017-03-07T16:06:30Z
+fly= REAL013433
 
 id= REAL003083
 te= Mikropaleontologi
@@ -26854,9 +26867,8 @@ tis= 2016-12-30T13:10:00Z
 
 id= REAL003501
 te= Gravitasjonsfelt
-ba= nc
-nn= Gravitasjonsfelt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T22:53:56Z
 
 id= REAL003502
 te= Dyphav
@@ -27667,10 +27679,9 @@ st= REAL027319
 
 id= REAL003601
 te= Gauge-felter
-ba= nf
-nn= Gauge-felt
 tio= 2014-08-25T00:00:00Z
-st= REAL026271
+tis= 2017-03-07T19:32:28Z
+fly= REAL001038
 
 id= REAL003602
 te= Syn
@@ -31107,10 +31118,11 @@ nn= Elastisk knekking
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004044
-te= Green-kubo relasjoner
+te= Green-Kubo-relasjoner
 ba= nk
-nn= Green-kubo relasjonar
+nn= Green-Kubo-relasjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:38:47Z
 
 id= REAL004045
 te= Ytringsansvar
@@ -32922,10 +32934,21 @@ en= Quality measures
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004279
-te= Gassutladninger
+te= Gassutladning
 ba= na
+bf= Glimutladning
+bf= Lysbuer
+ot= REAL002844
 nn= Gassutladingar
+nn= Glimutladning
+nn= Ljosbogar
+nn= Lysbogar
+en= Gas discharge
+en= Glow discharge
+en= Electric arcs
+de= elektrisk utladning gjennom en gass
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:08:24Z
 
 id= REAL004280
 te= Deskriptiv mengdelære
@@ -33667,9 +33690,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004378
 te= Fysikalsk geoteknikk
-ba= nc
-nn= Fysikalsk geoteknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T23:46:20Z
 
 id= REAL004379
 te= Autoradiografi
@@ -35104,10 +35126,12 @@ nn= Oppløysingslikevekter
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004565
-te= Gromov-witten
+te= Gromov-Witten-teori
 ba= nm
-nn= Gromov-witten
+bf= Gromov–Witten-invarianter
+nn= Gromow-Witten-teori
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:49:24Z
 
 id= REAL004566
 te= Syntaktisk analyse
@@ -44626,10 +44650,12 @@ nn= Enzymatiske spaltingar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005850
-te= Gigantstjerner
+te= Kjempestjerner
 ba= na
+bf= Gigantstjerner
 nn= Gigantstjerner
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T23:00:09Z
 
 id= REAL005851
 te= Datakomprimering
@@ -46829,13 +46855,20 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-03-19T19:40:43Z
 
 id= REAL006137
-te= Strålebiologi
+te= Radiobiologi
 ba= nk
 ba= nf
-bf= Radiobiologi
+bf= Strålebiologi
+bf= Strålingsbiologi
+bf= Strålingsbiofysikk
+so= REAL009236
 nn= Strålebiologi
 nn= Radiobiologi
+nn= Strålingsbiologi
+nn= Strålingsbiofysikk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T19:23:31Z
+st= REAL027894
 
 id= REAL006138
 te= Optimering
@@ -47788,11 +47821,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006267
 te= Strålingsbiofysikk
-ba= nk
-ba= nb
-nn= Strålingsbiofysikk
 tio= 2014-08-25T00:00:00Z
-st= REAL027894
+tis= 2017-03-07T19:19:11Z
+fly= REAL006137
 
 id= REAL006268
 te= Leketøy
@@ -47869,10 +47900,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006277
 te= Smykkesteiner
-ba= nc
-nn= Smykkesteinar
 tio= 2014-08-25T00:00:00Z
-st= REAL023732
+tis= 2017-03-07T15:19:51Z
+fly= REAL008647
 
 id= REAL006278
 te= Kvanteoptikk
@@ -50848,7 +50878,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006623
 te= Normalfordeling
 ba= nm
+bf= Gaussfordeling
 nn= Normalfordeling
+nn= Gaussfordeling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006624
@@ -51499,10 +51531,12 @@ nn= Mikroflora
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006703
-te= Gammatauri
+te= Gamma Tauri
 ba= na
+bf= Gammatauri
 nn= Gammatauri
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T21:07:03Z
 
 id= REAL006704
 te= Fysikalske molekylstrukturer
@@ -55361,8 +55395,11 @@ id= REAL007208
 te= Genekspresjon
 ba= nb
 ba= nm
+bf= Genuttrykk
 nn= Genekspresjon
+nn= Genuttrykk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T15:46:54Z
 
 id= REAL007209
 te= Grupper
@@ -56179,14 +56216,12 @@ ba= nm
 ba= ns
 bf= Gassfase
 bf= Gasser
-bf= Gassdannelse
 so= REAL010145
 nn= Gass
 nn= Gassar
 nn= Gassfase
-nn= Gassdanning
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-04T14:43:44Z
+tie= 2017-03-07T21:13:28Z
 st= REAL018710
 st= REAL019602
 st= REAL020321
@@ -58703,8 +58738,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007652
 te= Glutamat
 ba= ne
+bf= Natriumglutamat
+bf= Glutaminat
 nn= Glutamat
+nn= Natriumglutamat
+nn= Glutaminat
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:24:28Z
 
 id= REAL007653
 te= Følelser
@@ -62661,7 +62701,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008167
 te= Galle
 ba= nb
+bf= Gallesyrer
 nn= Galle
+nn= Gallesyrer
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008168
@@ -66045,9 +66087,9 @@ st= REAL015818
 
 id= REAL008597
 te= Gauge-symmetri
-ba= nf
-nn= Gauge-symmetri
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T19:32:34Z
+fly= REAL001038
 
 id= REAL008598
 te= Molekylær elektronikk
@@ -66397,8 +66439,13 @@ id= REAL008647
 te= Edelstener
 ba= nc
 bf= Edelsteiner
+bf= Smykkesteiner
+bf= Gemmologi
 nn= Edelsteinar
+nn= Smykkesteinar
+nn= Gemmologi
 tio= 2014-08-25T00:00:00Z
+st= REAL023732
 
 id= REAL008648
 te= Fytogeografi
@@ -67204,12 +67251,9 @@ st= REAL028936
 
 id= REAL008749
 te= Generell fysikk
-ba= nf
-nn= Generell fysikk
 tio= 2014-08-25T00:00:00Z
-st= REAL017004
-st= REAL025218
-st= REAL026205
+tis= 2017-03-07T16:00:53Z
+fly= REAL003067
 
 id= REAL008750
 te= Celest mekanikk
@@ -67697,9 +67741,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008816
 te= Gödel
-ba= nm
-nn= Gödel
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T22:42:19Z
+fly= REAL012892
 
 id= REAL008817
 te= Baseball
@@ -70034,9 +70078,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009115
 te= Generell hydrologi
-ba= ngh
-nn= Generell hydrologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T16:05:35Z
+fly= REAL002997
 
 id= REAL009116
 te= Sporanalyser
@@ -70922,8 +70966,11 @@ id= REAL009236
 te= Strålingsfysikk
 ba= nk
 ba= nf
+so= REAL006137
 nn= Strålingsfysikk
+de= del av fysikken som omfatter utsendelse, forplantning, absorpsjon og virkning av radioaktiv og annen ioniserende stråling, spesielt virkning av ioniserende stråling på organisk stoff [SNL]
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T19:23:29Z
 
 id= REAL009237
 te= Dataindustri
@@ -74545,10 +74592,9 @@ st= REAL027624
 
 id= REAL009729
 te= Utladninger
-ba= nf
-nn= Utladingar
 tio= 2014-08-25T00:00:00Z
-st= REAL021242
+tis= 2017-03-07T22:10:09Z
+fly= REAL002844
 
 id= REAL009730
 te= Bifenyler
@@ -74703,9 +74749,8 @@ fly= REAL008224
 
 id= REAL009754
 te= Gasskinetikk
-ba= na
-nn= Gasskinetikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T21:29:22Z
 
 id= REAL009755
 te= Atomfysikk
@@ -77983,11 +78028,9 @@ tie= 2015-05-07T14:37:18Z
 
 id= REAL010157
 te= Gravitasjonsstråling
-ba= na
-ba= nf
-nn= Gravitasjonsstråling
 tio= 2014-08-25T00:00:00Z
-st= REAL028667
+tis= 2017-03-07T22:57:02Z
+fly= REAL011740
 
 id= REAL010158
 te= Storviltjakt
@@ -80295,11 +80338,12 @@ nn= Økonomisk tyding
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010459
-te= Gpss
+te= GPSS
 ba= ni
 no= General purpose systems simulator - programmeringsspråk
 nn= GPSS
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:33:39Z
 
 id= REAL010460
 te= Botaniske institusjoner
@@ -81319,12 +81363,6 @@ nn= Magnetiske hòl
 nn= Magnetiske hol
 tio= 2014-08-25T00:00:00Z
 
-id= REAL010598
-te= Radiobiologi
-tio= 2014-08-25T00:00:00Z
-tis= 2017-03-02T17:11:57Z
-fly= REAL006137
-
 id= REAL010599
 te= Stimuli
 ba= nb
@@ -81556,9 +81594,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010634
 te= Gaussfordeling
-ba= nm
-nn= Gaussfordeling
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T15:15:18Z
+fly= REAL006623
 
 id= REAL010635
 te= Kognitive prosesser
@@ -82444,10 +82482,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010758
 te= Strålefysikk
-ba= nk
-ba= nf
-nn= Strålefysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T19:28:24Z
 
 id= REAL010759
 te= Nukleære metoder
@@ -87838,9 +87874,11 @@ ba= nb
 ba= nc
 ba= nm
 bf= Jordbunnsfysikk
+ut= REAL002105
 nn= Jordfysikk
 nn= Jordbotnfysikk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T23:41:52Z
 
 id= REAL011516
 te= Metalliske elektrodeoverflater
@@ -89071,9 +89109,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011666
 te= Deskriptiv statistikk
-ba= nm
-nn= Deskriptiv statistikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T19:40:42Z
+fly= REAL003043
 
 id= REAL011667
 te= Afasi
@@ -89628,14 +89666,18 @@ ba= na
 ba= nf
 ba= ns
 bf= Tyngdebølger
+bf= Gravitasjonsstråling
 nn= Gravitasjonsbølgjer
 nn= Gravitasjonsbylgjer
 nn= Gravitasjonsbølger
 nn= Tyngdebølgjer
 nn= Tyngdebylgjer
 nn= Tyngdebølger
-en= Gravity waves
+nn= Gravitasjonsstråling
+en= Gravitational waves
+en= Gravitational radiation
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:58:26Z
 st= REAL016685
 st= REAL024532
 
@@ -89736,11 +89778,9 @@ st= REAL025254
 
 id= REAL011754
 te= Strålingsbiologi
-ba= nk
-ba= nb
-ba= nf
-nn= Strålingsbiologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-07T19:18:04Z
+fly= REAL006137
 
 id= REAL011755
 te= Ae-stjerner
@@ -91116,12 +91156,13 @@ nn= Komplekse rekker
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011925
-te= Green fluorescent protein
+te= Grønt fluorescerende protein
 ba= nb
 ak= GFP
 nn= Grønt fluoriserande protein
 nn= GFP
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:37:52Z
 
 id= REAL011926
 te= Apokryfer
@@ -100256,13 +100297,16 @@ en= Theorems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012892
-te= Gödels teorem
+te= Gödels ufullstendighetsteoremer
 ba= nm
 bf= Gødels teorem
+bf= Gödels teorem
 so= REAL012891
 nn= Gödels teorem
 nn= Gødels teorem
+nn= Gödels ufullstendigheitsteorem
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-07T22:46:04Z
 st= REAL022582
 
 id= REAL012893
@@ -106313,7 +106357,9 @@ ba= ngh
 ba= nm
 ba= nq
 ba= ns
+bf= Generell geologi
 nn= Geologi
+nn= Generell geologi
 en= Geology
 tio= 2014-08-25T00:00:00Z
 st= REAL014083
@@ -106430,7 +106476,6 @@ st= REAL018935
 st= REAL018956
 st= REAL019059
 st= REAL019064
-st= REAL019075
 st= REAL019127
 st= REAL019157
 st= REAL019313
@@ -106788,7 +106833,9 @@ ba= nf
 ba= nm
 ba= nq
 ba= ns
+bf= Generell kjemi
 nn= Kjemi
+nn= Generell kjemi
 en= Chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL014156
@@ -106829,8 +106876,8 @@ st= REAL021037
 st= REAL021588
 st= REAL022223
 st= REAL023285
-st= REAL023582
 st= REAL024025
+st= REAL024729
 st= REAL024878
 st= REAL026102
 st= REAL026136
@@ -107253,7 +107300,9 @@ ba= nf
 ba= nm
 ba= nq
 ba= ns
+bf= Generell meteorologi
 nn= Meteorologi
+nn= Generell meteorologi
 en= Meteorology
 tio= 2014-08-25T00:00:00Z
 st= REAL015422
