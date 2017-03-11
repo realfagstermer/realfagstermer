@@ -4182,9 +4182,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000553
 te= Demonstrasjonsforsøk
+so= REAL009965
+nn= Demonstrasjonsforsøk
+nn= Demonstrasjonsfreistnad
 tio= 2014-08-25T00:00:00Z
-tis= 2017-03-02T19:02:16Z
-fly= REAL007999
+tie= 2017-03-10T11:03:05Z
 
 id= REAL000554
 te= Møll
@@ -18490,14 +18492,11 @@ id= REAL002430
 te= Fysikkeksperimenter
 ba= nf
 bf= Fysikkprosjekter
-bf= Demonstrasjoner
-bf= Demonstrasjonsforsøk
 bf= Fysikkforsøk
 so= REAL002449
 so= REAL001438
 ot= REAL001438
 nn= Fysikkeksperiment
-nn= Demonstrasjonar
 en= Physics experiments
 en= Physics projects
 tio= 2014-08-25T00:00:00Z
@@ -61375,14 +61374,11 @@ te= Kjemieksperimenter
 ba= nk
 bf= Kjemiske eksperimenter
 bf= Kjemiprosjekter
-bf= Demonstrasjonsforsøk
 bf= Kjemiforsøk
 so= REAL002449
 so= REAL001108
 ot= REAL001438
 nn= Kjemiske eksperiment
-nn= Demonstrasjonsforsøk
-nn= Demonstrasjonsfreistnad
 en= Chemistry experiments
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-02T19:06:13Z
@@ -76472,9 +76468,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009965
 te= Demonstrasjoner
+so= REAL000553
 tio= 2014-08-25T00:00:00Z
-tis= 2017-03-02T19:05:30Z
-fly= REAL002430
+tie= 2017-03-10T11:03:06Z
 
 id= REAL009966
 te= Flarestjerner
@@ -117854,8 +117850,19 @@ tie= 2017-03-02T18:17:07Z
 
 id= REAL031837
 te= Naturfagseksperimenter
-bf= Demonstrasjonsforsøk
 bf= Naturfagsforsøk
 tio= 2017-03-02T19:09:58Z
 tie= 2017-03-02T19:11:32Z
+
+id= REAL031841
+te= Hercynske fjellkjedefoldning
+bf= Variskiske fjellkjedefoldning
+bf= Herkyniske fjellkjedefoldning
+nn= Hercynske fjellkjedefoldning
+nn= Variskiske fjellkjedfoldning
+nn= Herkyniske fjellkjedefoldning
+en= Hercynian orogeny
+en= Variscan orogeny
+tio= 2017-03-10T15:55:25Z
+tie= 2017-03-10T16:01:28Z
 
