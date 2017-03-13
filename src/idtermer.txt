@@ -108588,11 +108588,11 @@ de= En utdødd familie av duefugler som ikke var flyvedyktige
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013525
-te= Afghansk språk
-bf= Pashto språk
+te= Pashto språk
+bf= Afghansk språk
 nn= Afghansk språk
 tio= 2014-08-25T00:00:00Z
-tie= 2016-01-18T10:40:33Z
+tie= 2017-03-12T19:19:01Z
 st= REAL014079
 
 id= REAL013526
