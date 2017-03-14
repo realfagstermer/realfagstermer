@@ -9920,7 +9920,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001309
 te= Transkripsjon
 ba= nb
+bf= Gentranskribering
 nn= Transkripsjon
+nn= Gentranskribering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001310
@@ -10138,7 +10140,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001324
 te= Kjønnsorganer
 ba= nb
+bf= Genitalier
 nn= Kjønnsorgan
+nn= Genitalia
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001325
@@ -15257,9 +15261,9 @@ st= REAL029643
 
 id= REAL002016
 te= Gentranskribering
-ba= nb
-nn= Gentranskribering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T12:55:02Z
+fly= REAL001309
 
 id= REAL002017
 te= Naftensyrer
@@ -24175,9 +24179,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003151
 te= Genforskning
-ba= ns
-nn= Genforsking
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T11:43:33Z
 
 id= REAL003152
 te= Logikksimulering
@@ -26589,9 +26592,8 @@ tie= 2015-10-12T11:51:58Z
 
 id= REAL003467
 te= Genetisk respons
-ba= nb
-nn= Genetisk respons
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T11:32:52Z
 
 id= REAL003468
 te= Kalmanfiltre
@@ -44749,7 +44751,9 @@ te= Genterapi
 ba= nb
 ba= ne
 ba= ns
+bf= Genetiske vektorer
 nn= Genterapi
+nn= Genetiske vektorar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005864
@@ -52647,9 +52651,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006855
 te= Genetiske elementer
-ba= nb
-nn= Genetiske element
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T11:39:40Z
+fly= REAL006906
 
 id= REAL006856
 te= Bedriftskultur
@@ -53086,7 +53090,9 @@ st= REAL031692
 id= REAL006906
 te= Transposoner
 ba= nb
+bf= Genetiske elementer
 nn= Transposon
+nn= Genetiske element
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006907
@@ -56595,10 +56601,8 @@ tie= 2015-05-07T14:29:44Z
 
 id= REAL007372
 te= Genressurser
-ba= nb
-ba= nq
-nn= Genressursar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T12:52:03Z
 
 id= REAL007373
 te= Skyggelegging
@@ -57056,12 +57060,15 @@ nn= Nitrogenfikserande mikroorganismar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007441
-te= U-pb
+te= Uran-bly-datering
 ba= nc
+bf= Uran-bly-metoden
+bf= U-Pb
 nn= Uran-bly-datering
-nn= U-pb
 nn= Uran-bly-metoden
+nn= U-Pb
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-12T19:24:05Z
 
 id= REAL007442
 te= Asbest
@@ -68634,9 +68641,9 @@ st= REAL026343
 
 id= REAL008936
 te= Genitalier
-ba= nb
-nn= Genitalia
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T11:46:25Z
+fly= REAL001324
 
 id= REAL008937
 te= Datastøttet miljøvern
@@ -81259,9 +81266,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010588
 te= Genfrekvenser
-ba= nm
-nn= Genfrekvensar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T11:44:56Z
+fly= REAL011288
 
 id= REAL010589
 te= Hypertext transfer protocol
@@ -86183,7 +86190,9 @@ ba= nk
 ba= nb
 ba= nm
 ba= nq
+bf= Genfrekvenser
 nn= Populasjonsgenetikk
+nn= Genfrekvensar
 dw= 576.58
 tio= 2014-08-25T00:00:00Z
 tie= 2014-10-31T00:00:00Z
@@ -87630,9 +87639,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011478
 te= Genetiske vektorer
-ba= nb
-nn= Genetiske vektorar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T11:42:57Z
+fly= REAL005863
 
 id= REAL011479
 te= Eierstrukturer
@@ -99477,13 +99486,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012799
 te= Genetiske teknikker
-ba= nb
-bf= Genetisk teknikk
-bf= Genetiske metoder
-nn= Genetiske teknikkar
-nn= Genetisk teknikk
-nn= Genetiske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-13T11:42:03Z
 
 id= REAL012800
 te= Genteknologi
