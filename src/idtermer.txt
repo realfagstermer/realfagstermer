@@ -18265,7 +18265,9 @@ te= Landskapsvern
 ba= nb
 ba= nq
 ba= ns
+bf= Landskapsvernområder
 nn= Landskapsvern
+nn= Landskapsvernområde
 tio= 2014-08-25T00:00:00Z
 st= REAL021922
 st= REAL025310
@@ -40227,6 +40229,7 @@ st= REAL024432
 st= REAL024573
 st= REAL026669
 st= REAL028075
+st= REAL031842
 
 id= REAL005258
 te= Beslutningsprosesser
@@ -58646,6 +58649,7 @@ st= REAL028031
 st= REAL028438
 st= REAL028554
 st= REAL031438
+st= REAL031843
 
 id= REAL007638
 te= Kronometri
@@ -64501,9 +64505,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008406
 te= Landskapsvernområder
-ba= nb
-nn= Landskapsvernområde
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-14T10:53:35Z
+fly= REAL002400
 
 id= REAL008407
 te= Innsynkning
@@ -68817,6 +68821,8 @@ st= REAL029451
 st= REAL029499
 st= REAL030013
 st= REAL031100
+st= REAL031844
+st= REAL031845
 
 id= REAL008956
 te= Polymeraser
