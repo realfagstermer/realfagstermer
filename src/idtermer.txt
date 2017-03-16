@@ -12314,9 +12314,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001622
 te= Lavenergielektronikk
 ba= ni
+bf= Laveffektelektronikk
 nn= Lågenergielektronikk
+nn= Lågeffektelektronikk
+en= Low-power electronics
 en= Low-energy electronics
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-15T16:33:04Z
 
 id= REAL001623
 te= Refraksjon
@@ -16940,9 +16944,9 @@ tis= 2017-03-07T18:22:44Z
 
 id= REAL002225
 te= Medisinsk genforskning
-ba= nb
-nn= Medisinsk genforsking
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-15T12:23:33Z
+fly= REAL003303
 
 id= REAL002226
 te= Nordlig tregrense
@@ -24883,6 +24887,7 @@ nn= Medisinsk diagnostikk
 tio= 2014-08-25T00:00:00Z
 st= REAL019586
 st= REAL025246
+st= REAL031846
 
 id= REAL003251
 te= Syklisitet
@@ -25260,7 +25265,9 @@ id= REAL003303
 te= Medisinsk genetikk
 ba= nk
 ba= nb
+bf= Medisinsk genforskning
 nn= Medisinsk genetikk
+nn= Medisinsk genforsking
 tio= 2014-08-25T00:00:00Z
 st= REAL014708
 st= REAL020918
@@ -34135,11 +34142,12 @@ nn= Todimensjonal elektroforese
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004433
-te= Systemc
+te= SystemC
 ba= ni
 nn= Systemc
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-15T15:26:50Z
 
 id= REAL004434
 te= Våpen
@@ -89321,6 +89329,7 @@ st= REAL024140
 st= REAL025156
 st= REAL027642
 st= REAL029969
+st= REAL031847
 
 id= REAL011692
 te= Løvskog
@@ -89877,8 +89886,11 @@ id= REAL011764
 te= Jordøkologi
 ba= nk
 ba= nb
+bf= Jordbunnsøkologi
 nn= Jordøkologi
+nn= Jordbotnøkologi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-15T14:37:22Z
 st= REAL024915
 st= REAL026658
 
@@ -97067,9 +97079,13 @@ ba= ngh
 ba= ns
 ba= ni
 bf= Energibruk
+bf= Strømforbruk
 nn= Energiforbruk
 nn= Energibruk
+en= Energy consumption
+en= Electric energy consumption
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-15T16:37:43Z
 st= REAL026115
 
 id= REAL012599
@@ -117875,4 +117891,13 @@ en= Hercynian orogeny
 en= Variscan orogeny
 tio= 2017-03-10T15:55:25Z
 tie= 2017-03-10T16:01:28Z
+
+id= REAL031848
+te= System on a chip
+bf= Systemkrets
+ak= SoC
+nn= System on a chip
+en= System on a chip
+tio= 2017-03-15T16:21:27Z
+tie= 2017-03-15T16:28:00Z
 
