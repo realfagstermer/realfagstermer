@@ -15311,7 +15311,9 @@ te= Biomineralisering
 ba= nk
 ba= nb
 ba= nc
+bf= Biomineraler
 nn= Biomineralisering
+nn= Biomineral
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002024
@@ -19712,8 +19714,10 @@ tie= 2017-02-14T14:29:21Z
 id= REAL002577
 te= Petrofysikk
 ba= nc
+so= REAL003038
 nn= Petrofysikk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-20T18:35:36Z
 
 id= REAL002580
 te= Antropogeni
@@ -23294,11 +23298,16 @@ st= REAL027003
 st= REAL028247
 
 id= REAL003038
-te= Magnetiske bergarter
+te= Bergartsmagnetisme
 ba= nc
+bf= Magnetiske bergarter
+so= REAL002577
+nn= Bergartsmagnetisme
 nn= Magnetiske bergartar
 nn= Magnetiske bergarter
+en= Rock magnetism
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-20T18:35:35Z
 
 id= REAL003039
 te= Trapper
@@ -26355,10 +26364,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003439
 te= Fordeling
-ba= nb
-ba= nm
-nn= Fordeling
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-20T19:05:26Z
 
 id= REAL003440
 te= Skoger
@@ -35784,10 +35791,8 @@ tis= 2017-01-05T13:08:55Z
 
 id= REAL004652
 te= Brukertjenester
-ba= ni
-nn= Brukartenester
-en= User services
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-20T22:40:57Z
 
 id= REAL004654
 te= Hibernate
@@ -39530,9 +39535,9 @@ tie= 2017-01-05T23:53:40Z
 
 id= REAL005162
 te= Biomineraler
-ba= nb
-nn= Biomineral
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-20T18:38:12Z
+fly= REAL002023
 
 id= REAL005163
 te= Verneverdier
@@ -56493,9 +56498,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007355
 te= Biologisk determinisme
-ba= nb
-nn= Biologisk determinisme
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-20T18:48:00Z
+fly= REAL010499
 
 id= REAL007356
 te= Kyanitt
@@ -80651,7 +80656,9 @@ id= REAL010499
 te= Determinisme
 ba= nb
 ba= nm
+bf= Biologisk determinisme
 nn= Determinisme
+nn= Biologisk determinisme
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010500
@@ -115665,6 +115672,21 @@ en= Open access
 tio= 2014-08-25T00:00:00Z
 st= REAL027099
 
+id= REAL030456
+te= Kaledonidene
+bf= Kaledonske fjellkjedefoldning
+bf= Kaledonske orogenese
+bf= Kaledonske fjellkjede
+bf= Den kaledonske fjellkjede
+bf= Den kaledonske orogenesen
+no= github:#696
+nn= Kaledonidene
+nn= Kaledonske fjellkjede
+en= Caledonides
+en= Caledonian orogeny
+tio= 2015-02-20T13:08:04Z
+tie= 2017-03-20T19:04:23Z
+
 id= REAL031088
 te= Riemannhypotesen
 so= REAL031412
@@ -117900,4 +117922,12 @@ nn= System on a chip
 en= System on a chip
 tio= 2017-03-15T16:21:27Z
 tie= 2017-03-15T16:28:00Z
+
+id= REAL031850
+te= Proteafamilien
+no= github:#711
+nn= Proteafamilien
+la= Proteaceae
+tio= 2017-03-20T18:39:21Z
+tie= 2017-03-20T18:39:54Z
 
