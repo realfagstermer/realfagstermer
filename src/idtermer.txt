@@ -117931,3 +117931,22 @@ la= Proteaceae
 tio= 2017-03-20T18:39:21Z
 tie= 2017-03-20T18:39:54Z
 
+id= REAL031852
+te= Gangbergarter
+so= REAL031853
+nn= Gangbergartar
+en= Intrusive rocks
+de= Magmatiske bergarter, dannet ved at et magma størkner i spalter eller sprekker i jordskorpen.
+tio= 2017-03-21T17:26:33Z
+tie= 2017-03-21T17:32:02Z
+
+id= REAL031853
+te= Ganger (geologi)
+so= REAL031852
+en= Dykes
+en= Dikes
+en= Sills
+de= Tavleformet bergartsmasse, malm eller mineral, som fyller en sprekk eller spalte i berggrunnen.
+tio= 2017-03-21T17:27:33Z
+tie= 2017-03-21T17:27:58Z
+
