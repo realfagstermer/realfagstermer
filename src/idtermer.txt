@@ -15705,10 +15705,8 @@ st= REAL025332
 
 id= REAL002078
 te= Økologisk skala
-ba= nb
-ba= ngh
-nn= Økologisk skala
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T13:39:23Z
 
 id= REAL002079
 te= Perovskitter
@@ -24151,7 +24149,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003143
 te= Ekstremofiler
 ba= nb
+bf= Økologisk tålegrense
 nn= Ekstremofilar
+nn= Økologisk tolegrense
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003144
@@ -25358,10 +25358,8 @@ st= REAL029463
 
 id= REAL003313
 te= Betongbruer
-ba= nm
-bf= Betongbroer
-nn= Betongbruer
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T17:52:32Z
 
 id= REAL003314
 te= Wolf-rayet
@@ -26262,9 +26260,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003422
 te= Engelske geologer
-ba= nc
-nn= Engelske geologar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T13:12:36Z
 
 id= REAL003423
 te= Ustabilitet
@@ -26623,8 +26620,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003469
 te= Alluviale vifter
 ba= nc
+bf= Elvevifter
+bf= Sedimentvifter
 nn= Alluviale vifter
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-22T13:01:54Z
 
 id= REAL003470
 te= Jakthunder
@@ -27123,10 +27123,12 @@ ba= nb
 ba= nm
 ba= ns
 ak= AI
+so= REAL001189
+so= REAL007657
 nn= Kunstig intelligens
 en= Artificial intelligence
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-19T08:18:45Z
+tie= 2017-03-22T17:49:39Z
 st= REAL018643
 st= REAL019704
 st= REAL022200
@@ -32801,9 +32803,8 @@ st= REAL028084
 
 id= REAL004257
 te= Binære kataloger
-ba= na
-nn= Binære katalogar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T18:07:27Z
 
 id= REAL004258
 te= Syntaks
@@ -33701,9 +33702,9 @@ fly= REAL003606
 
 id= REAL004377
 te= Økologisk tålegrense
-ba= nb
-nn= Økologisk tolegrense
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T14:03:58Z
+fly= REAL003143
 
 id= REAL004378
 te= Fysikalsk geoteknikk
@@ -38849,10 +38850,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005067
 te= Økologisk dyrking
-ba= nq
-nn= Økologisk dyrking
 tio= 2014-08-25T00:00:00Z
-st= REAL016724
+tis= 2017-03-22T13:36:47Z
+fly= REAL009765
 
 id= REAL005068
 te= Friidrett
@@ -41092,9 +41092,8 @@ st= REAL023422
 
 id= REAL005375
 te= Bilførere
-ba= ne
-nn= Bilførarar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T18:04:56Z
 
 id= REAL005378
 te= Mikrofacies
@@ -41945,8 +41944,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005497
 te= Organisk sedimentasjon
 ba= nc
+bf= Biogene sedimenter
 nn= Organisk sedimentasjon
+nn= Biogene sediment
+en= Biogenic sediments
+en= Biochemical sediments
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-22T17:51:03Z
 
 id= REAL005498
 te= Hypergrafer
@@ -42023,13 +42027,14 @@ nn= Lukteorgan
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005507
-te= Geologisk historie
+te= Geologiens historie
 ba= nb
 ba= ngh
-bf= Geologiens historie
+bf= Geologisk historie
 nn= Geologisk historie
 nn= Geologihistorie
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-22T13:34:19Z
 st= REAL014542
 st= REAL016543
 st= REAL019300
@@ -52010,10 +52015,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006761
 te= European Geophysical Society
-ba= na
-ak= EGS
-nn= European Geophysical Society
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T12:22:00Z
 
 id= REAL006762
 te= Oksidasjonsmekanismer
@@ -58813,10 +58816,11 @@ te= Maskinlæring
 ba= ni
 ba= nm
 so= REAL031582
+so= REAL003530
 nn= Maskinlæring
 en= Machine learning
 tio= 2014-08-25T00:00:00Z
-tie= 2016-02-22T13:29:38Z
+tie= 2017-03-22T17:49:40Z
 st= REAL024179
 
 id= REAL007658
@@ -65399,12 +65403,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008507
 te= Geofysiske hastigheter
-ba= nc
-ba= ngh
-nn= Geofysiske snøggleikar
-nn= Geofysiske hastigheiter
 tio= 2014-08-25T00:00:00Z
-st= REAL022902
+tis= 2017-03-22T12:24:06Z
 
 id= REAL008508
 te= Liljefamilien
@@ -74853,9 +74853,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009765
 te= Økologisk landbruk
 ba= nb
+bf= Økologisk dyrking
 nn= Økologisk landbruk
+nn= Økologisk dyrking
 tio= 2014-08-25T00:00:00Z
 st= REAL015432
+st= REAL016724
 
 id= REAL009766
 te= Landsnegler
@@ -77836,9 +77839,8 @@ st= REAL016906
 
 id= REAL010129
 te= Kjemisk evolusjon
-ba= nk
-nn= Kjemisk evolusjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T12:49:00Z
 
 id= REAL010130
 te= Etymologi
@@ -88134,10 +88136,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011550
 te= Bildesekvenser
-ba= ni
-nn= Biletsekvensar
-nn= Bildesekvensar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-22T18:04:37Z
 
 id= REAL011551
 te= Ikke-lineær systemanalyse
@@ -93541,8 +93541,10 @@ id= REAL012255
 te= Jordas dannelse
 ba= nc
 bf= Jordens dannelse
+so= REAL012400
 nn= Jorddanninga
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-22T12:57:40Z
 st= REAL023379
 st= REAL031242
 
@@ -94895,10 +94897,12 @@ st= REAL026675
 id= REAL012400
 te= Arkeikum
 ba= nc
+so= REAL012255
 no= Geologisk tid
 nn= Arkeikum
 de= Tidsavsnitt i prekambrium, 4000 millioner til 2500 millioner år før nåtid.
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-22T12:54:20Z
 
 id= REAL012401
 te= Dyphavssedimenter
@@ -109355,7 +109359,6 @@ tie= 2016-10-12T14:20:22Z
 
 id= REAL013598
 te= Bruer
-so= REAL003313
 nn= Bruer
 en= Bridges
 de= Et byggverk som forbinder ferdselsårer over fysiske hindringer (SNL)
