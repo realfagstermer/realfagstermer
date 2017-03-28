@@ -74,10 +74,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000014
 te= Jordskjelvsikkerhet
-ba= nm
-nn= Jordskjelvtryggleik
-nn= Jordskjelvsikkerheit
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T16:55:33Z
+fly= REAL031720
 
 id= REAL000015
 te= Cellesyklus
@@ -3002,10 +3001,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000399
 te= Stein
-ba= nc
-nn= Stein
 tio= 2014-08-25T00:00:00Z
-st= REAL024484
+tis= 2017-03-27T17:40:29Z
 
 id= REAL000400
 te= Kildekritikk
@@ -7283,10 +7280,17 @@ st= REAL018048
 id= REAL000962
 te= Seismiske bølger
 ba= nc
+bf= Seismisk bølgeteori
+bf= Jordskjelvbølger
 nn= Seismiske bølgjer
 nn= Seismiske bylgjer
 nn= Seismiske bølger
+nn= Seismisk bølgjeteori
+nn= Seismisk bylgjeteori
+nn= Seismisk bølgeteori
+en= Seismic waves
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T17:00:55Z
 
 id= REAL000963
 te= Laboratoriemetoder
@@ -7700,9 +7704,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001014
 te= Magmatiske bergarter
 ba= nc
+ut= REAL011536
+ut= REAL031852
+ut= REAL001897
 nn= Magmatiske bergartar
 nn= Magmatiske bergarter
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T15:10:52Z
 st= REAL014260
 st= REAL022572
 st= REAL026469
@@ -10884,9 +10892,9 @@ tie= 2016-11-24T17:45:00Z
 
 id= REAL001435
 te= Seismisk aktivitet
-ba= nc
-nn= Seismisk aktivitet
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T17:01:51Z
+fly= REAL007079
 
 id= REAL001436
 te= Bryterkretser
@@ -12296,10 +12304,13 @@ nn= Skapinga
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001620
-te= Serpentin
+te= Serpentinitter
 ba= nk
+bf= Serpentin
+nn= Serpentinitter
 nn= Serpentin
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T14:35:23Z
 
 id= REAL001621
 te= Termisk bildebehandling
@@ -12868,11 +12879,17 @@ nn= Homotopigrupper
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001695
-te= Basiske bergarter
+te= Mafiske bergarter
 ba= nc
+bf= Basiske bergarter
+nn= Mafiske bergartar
 nn= Basiske bergartar
 nn= Basiske bergarter
+nn= Mafiske bergarter
+en= Mafic rocks
+en= Basic rocks
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T16:38:04Z
 
 id= REAL001696
 te= Hverdagsliv
@@ -13724,27 +13741,9 @@ st= REAL022448
 
 id= REAL001806
 te= Geotektonikk
-ba= nc
-ba= ngh
-nn= Geotektonikk
 tio= 2014-08-25T00:00:00Z
-st= REAL014198
-st= REAL016990
-st= REAL017629
-st= REAL018652
-st= REAL020169
-st= REAL021870
-st= REAL022090
-st= REAL022394
-st= REAL022921
-st= REAL024147
-st= REAL024166
-st= REAL024354
-st= REAL027482
-st= REAL027879
-st= REAL028191
-st= REAL028295
-st= REAL028456
+tis= 2017-03-27T16:45:13Z
+fly= REAL009064
 
 id= REAL001807
 te= Luftballonger
@@ -14407,9 +14406,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001897
 te= Dypbergarter
 ba= nc
+bf= Magmatiske intrusiver
+ot= REAL001014
 nn= Djupbergartar
 nn= Djupbergarter
+nn= Magmatiske intrusivar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T15:10:52Z
 
 id= REAL001898
 te= Digital kompetanse
@@ -16980,10 +16983,14 @@ nn= Seksuell utvikling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002231
-te= Seismisk prosessering
+te= Seismisk dataprosessering
 ba= nc
+bf= Seismisk filtering
 nn= Seismisk prosessering
+nn= Seismisk filtering
+en= Seismic data processing
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T17:07:13Z
 
 id= REAL002232
 te= Morfologisk differensiering
@@ -24774,9 +24781,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003231
 te= Seismisk filtering
-ba= nc
-nn= Seismisk filtering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T17:06:29Z
+fly= REAL002231
 
 id= REAL003233
 te= Baryoner
@@ -28562,10 +28569,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003716
 te= Steinarter
-ba= nb
-nn= Steinartar
-nn= Steinarter
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T17:13:31Z
+fly= REAL009595
 
 id= REAL003717
 te= Oksygentransport
@@ -29319,8 +29325,10 @@ ba= ngh
 ba= nm
 ba= nq
 ba= ns
+no= Brukes kun i streng
 nn= Analysar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T09:00:25Z
 
 id= REAL003809
 te= Inhomogene materialer
@@ -30794,14 +30802,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004002
 te= Tektonisk utvikling
-ba= nc
-nn= Tektonisk utvikling
 tio= 2014-08-25T00:00:00Z
-st= REAL015973
-st= REAL022080
-st= REAL022388
-st= REAL023223
-st= REAL026542
+tis= 2017-03-27T16:45:30Z
+fly= REAL009064
 
 id= REAL004003
 te= Fusjon
@@ -34492,11 +34495,9 @@ st= REAL028747
 
 id= REAL004479
 te= Tektonisk bevegelse
-ba= nc
-nn= Tektonisk rørsle
-nn= Tektonisk bevegelse
 tio= 2014-08-25T00:00:00Z
-st= REAL020103
+tis= 2017-03-27T16:45:39Z
+fly= REAL009064
 
 id= REAL004480
 te= Bevegelseslære
@@ -35667,9 +35668,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004634
 te= Geografisk utbredelse
-ba= nb
-nn= Geografisk utbreiing
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T08:55:24Z
+fly= REAL006677
 
 id= REAL004635
 te= Hydrotermale malmforekomster
@@ -37484,12 +37485,17 @@ id= REAL004887
 te= Geologisk datering
 ba= nc
 bf= Geologiske dateringsmetoder
+bf= Geokronologi
 so= REAL006042
 nn= Geologisk datering
 nn= Geologiske dateringsmetodar
+nn= Geokronologi
+en= Geochronology
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-09T14:47:41Z
+st= REAL016612
 st= REAL017249
+st= REAL026825
 
 id= REAL004888
 te= Operatorer
@@ -38816,9 +38822,8 @@ st= REAL014584
 
 id= REAL005062
 te= Geografisk variasjon
-ba= nb
-nn= Geografisk variasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T08:58:43Z
 
 id= REAL005063
 te= Historisk meteorologi
@@ -39442,16 +39447,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005149
 te= Geokronologi
-ba= nc
-ba= ngh
-ba= nm
-nn= Geokronologi
-en= Geochronology
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T14:01:40Z
-st= REAL016612
-st= REAL020364
-st= REAL026825
+tis= 2017-03-27T09:05:22Z
+fly= REAL004887
 
 id= REAL005150
 te= Amaryllis
@@ -40498,10 +40497,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005295
 te= Geografisk lengde
-ba= na
-nn= Geografisk lengd
-nn= Geografisk lengde
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T08:54:11Z
+fly= REAL009677
 
 id= REAL005296
 te= CD-spektroskopi
@@ -47274,9 +47272,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006193
 te= Geografisk tradisjon
-ba= ngh
-nn= Geografisk tradisjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T08:54:27Z
 
 id= REAL006194
 te= Biomasse
@@ -47768,8 +47765,9 @@ nn= Seismiske grunnundersøkingar
 nn= Seismiske undersøkingar
 nn= Seismisk kartlegging
 en= Seismic surveys
+en= Seismic exploration
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T11:50:39Z
+tie= 2017-03-27T17:09:19Z
 st= REAL029734
 st= REAL029898
 
@@ -49557,10 +49555,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006460
 te= Magmatiske prosesser
-ba= nc
-ba= ns
-nn= Magmatiske prosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T16:46:18Z
+fly= REAL010894
 
 id= REAL006461
 te= Formell spesifikasjon
@@ -51289,7 +51286,9 @@ ba= nc
 ba= ngh
 ba= nq
 ba= ns
+bf= Geografisk utbredelse
 nn= Biogeografi
+nn= Geografisk utbreiing
 tio= 2014-08-25T00:00:00Z
 st= REAL014558
 st= REAL015015
@@ -54410,7 +54409,9 @@ ba= nc
 ba= nf
 ba= nm
 ba= ns
+bf= Seismisk aktivitet
 nn= Jordskjelv
+nn= Seismisk aktivitet
 en= Earthquakes
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-11T18:39:44Z
@@ -56571,9 +56572,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007364
 te= Magma
-ba= nc
-nn= Magma
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T16:46:23Z
+fly= REAL010894
 
 id= REAL007366
 te= Mesozoisk paleontologi
@@ -58349,9 +58350,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007596
 te= Magmatiske intrusiver
-ba= nc
-nn= Magmatiske intrusivar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T14:54:43Z
+fly= REAL001897
 
 id= REAL007597
 te= Spyfluer
@@ -61805,8 +61806,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008055
 te= Eoliske prosesser
 ba= ngh
+bf= Eolisk transport
 nn= Eoliske prosessar
+nn= Eolisk transport
+en= Aeolian processes
+en= Aeolian transport
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T16:50:24Z
 
 id= REAL008056
 te= Mikroskopisk mineralbestemmelse
@@ -62442,10 +62448,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008130
 te= Tektonisk geologi
-ba= nc
-nn= Tektonisk geologi
 tio= 2014-08-25T00:00:00Z
-st= REAL023867
+tis= 2017-03-27T16:45:18Z
+fly= REAL009064
 
 id= REAL008131
 te= Termokarst
@@ -62462,10 +62467,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008133
 te= Eolisk transport
-ba= nc
-ba= ngh
-nn= Eolisk transport
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T16:49:38Z
+fly= REAL008055
 
 id= REAL008134
 te= Fraktaler
@@ -66151,7 +66155,9 @@ id= REAL008603
 te= Eoliske landsformer
 ba= ngh
 nn= Eoliske landsformer
+en= Aeolian landforms
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T16:51:27Z
 
 id= REAL008604
 te= Legemiddelanalyse
@@ -67858,14 +67864,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008828
 te= Steiner
-ba= nb
-ba= nc
-ba= ngh
-nn= Steinar
 tio= 2014-08-25T00:00:00Z
-st= REAL015103
-st= REAL023795
-st= REAL023812
+tis= 2017-03-27T17:13:26Z
+fly= REAL009595
 
 id= REAL008829
 te= Vlsi
@@ -69638,8 +69639,20 @@ ba= nc
 ba= ngh
 ba= nm
 ba= ns
+bf= Geotektonikk
+bf= Tektonisk geologi
+bf= Tektonisk utvikling
+bf= Tektonisk bevegelse
 nn= Tektonikk
+nn= Geotektonikk
+nn= Tektonisk geologi
+nn= Tektonisk utvikling
+nn= Tektonisk rørsle
+nn= Tektonisk bevegelse
+en= Tectonics
+en= Geotectonics
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T16:45:48Z
 st= REAL014137
 st= REAL014220
 st= REAL014311
@@ -69731,6 +69744,14 @@ st= REAL029795
 st= REAL029797
 st= REAL029940
 st= REAL029992
+st= REAL014198
+st= REAL017629
+st= REAL020169
+st= REAL021870
+st= REAL022090
+st= REAL024147
+st= REAL027482
+st= REAL027879
 
 id= REAL009065
 te= Dylan
@@ -73545,9 +73566,17 @@ ba= ngh
 ba= nm
 ba= nq
 ba= ns
+bf= Steiner
+bf= Steinarter
 nn= Bergartar
 nn= Bergarter
+nn= Steinar
+nn= Steinartar
+nn= Steinarter
+en= Rocks
+en= Rock types
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T17:13:47Z
 st= REAL014327
 st= REAL015086
 st= REAL015477
@@ -73573,6 +73602,9 @@ st= REAL027370
 st= REAL027604
 st= REAL028694
 st= REAL030026
+st= REAL015103
+st= REAL023795
+st= REAL023812
 
 id= REAL009596
 te= Papirkjemi
@@ -74262,8 +74294,11 @@ id= REAL009677
 te= Lengdegrader
 ba= na
 ba= ns
+bf= Geografisk lengde
 nn= Lengdegrader
 nn= Lengdegradar
+nn= Geografisk lengd
+nn= Geografisk lengde
 tio= 2014-08-25T00:00:00Z
 st= REAL021761
 st= REAL025038
@@ -77706,11 +77741,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010113
 te= Seismisk bølgeteori
-ba= nc
-nn= Seismisk bølgjeteori
-nn= Seismisk bylgjeteori
-nn= Seismisk bølgeteori
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T17:00:09Z
+fly= REAL000962
 
 id= REAL010114
 te= Digitale byer
@@ -82991,12 +83024,9 @@ tie= 2015-02-12T00:00:00Z
 
 id= REAL010828
 te= Bygningsstein
-ba= nc
-nn= Bygnadsstein
-nn= Bygningsstein
 tio= 2014-08-25T00:00:00Z
-st= REAL021599
-st= REAL021742
+tis= 2017-03-27T17:18:05Z
+fly= REAL031856
 
 id= REAL010829
 te= Tynnslip
@@ -83462,8 +83492,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010894
 te= Magmatisme
 ba= nc
+bf= Magmatiske prosesser
+bf= Magma
 nn= Magmatisme
+nn= Magmatiske prosessar
+nn= Magma
+en= Magmatism
+en= Magmatic processes
+en= Magma
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T16:47:38Z
 st= REAL020882
 st= REAL022686
 
@@ -86936,9 +86974,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011382
 te= Eolisk sedimentasjon
-ba= nc
-nn= Eolisk sedimentasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-03-27T16:52:20Z
+fly= REAL012403
 
 id= REAL011383
 te= Bakgjellesnegler
@@ -88031,13 +88069,16 @@ nn= Bergindustri
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011536
-te= Eruptive bergarter
+te= Dagbergarter
 ba= nc
 ba= ngh
 ba= ns
+bf= Eruptive bergarter
+ot= REAL001014
 nn= Eruptive bergartar
 nn= Eruptive bergarter
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T15:06:43Z
 st= REAL018457
 
 id= REAL011537
@@ -94935,10 +94976,15 @@ ba= nc
 ba= ngh
 ba= ns
 bf= Eoliske avsetninger
+bf= Eolisk sedimentasjon
 nn= Eoliske sediment
 nn= Eoliske avsetjingar
 nn= Eoliske avsettingar
+nn= Eolisk sedimentasjon
+en= Aeolian sediments
+en= Aeolian sedimentation
 tio= 2014-08-25T00:00:00Z
+tie= 2017-03-27T16:52:32Z
 st= REAL016177
 
 id= REAL012404
@@ -117332,10 +117378,18 @@ tie= 2016-08-30T10:19:18Z
 
 id= REAL031720
 te= Seismisk risiko
+bf= Jordskjelvsikkerhet
+bf= Jordskjelvvarsling
 nn= Seismisk risiko
+nn= Jordskjelvtryggleik
+nn= Jordskjelvsikkerheit
+nn= Jordskjelvvarsling
 en= Seismic risk
+en= Earthquake prediction
+en= Earthquake forecasting
+en= Earthquake hazard
 tio= 2016-09-23T15:36:03Z
-tie= 2016-09-23T15:36:20Z
+tie= 2017-03-27T16:59:23Z
 
 id= REAL031721
 te= Kvantemetrologi
@@ -117937,11 +117991,12 @@ tie= 2017-03-20T18:39:54Z
 id= REAL031852
 te= Gangbergarter
 so= REAL031853
+ot= REAL001014
 nn= Gangbergartar
 en= Intrusive rocks
 de= Magmatiske bergarter, dannet ved at et magma størkner i spalter eller sprekker i jordskorpen.
 tio= 2017-03-21T17:26:33Z
-tie= 2017-03-21T17:32:02Z
+tie= 2017-03-27T15:10:40Z
 
 id= REAL031853
 te= Ganger (geologi)
@@ -117952,4 +118007,53 @@ en= Sills
 de= Tavleformet bergartsmasse, malm eller mineral, som fyller en sprekk eller spalte i berggrunnen.
 tio= 2017-03-21T17:27:33Z
 tie= 2017-03-21T17:27:58Z
+
+id= REAL031854
+te= Ultramafiske bergarter
+bf= Ultrabasiske bergarter
+bf= Mantelbergarter
+bf= Peridotitter
+nn= Ultramafiske bergartar
+nn= Ultrabasiske bergartar
+nn= Mantelbergartar
+en= Ultramafic rocks
+en= Ultrabasic rocks
+tio= 2017-03-27T16:38:16Z
+tie= 2017-03-27T16:39:04Z
+
+id= REAL031855
+te= Felsiske bergarter
+bf= Sure bergarter
+bf= Saliske bergarter
+nn= Felsiske bergartar
+nn= Sure bergartar
+nn= Saliske bergartar
+en= Felsic rocks
+en= Acidic rocks
+tio= 2017-03-27T16:39:25Z
+tie= 2017-03-27T16:40:05Z
+
+id= REAL031856
+te= Stein (materiale)
+bf= Naturstein (materiale)
+bf= Bygningsstein
+bf= Stein (byggemateriale)
+bf= Fasadestein
+nn= Stein (byggemateriale)
+nn= Stein (byggjemateriale)
+nn= Bygnadsstein
+nn= Bygningsstein
+en= Stone (material)
+en= Stone (construction material)
+tio= 2017-03-27T17:14:05Z
+tie= 2017-03-27T17:20:11Z
+st= REAL021599
+st= REAL021742
+
+id= REAL031857
+te= Anortositter
+nn= Anortosittar
+en= Anorthosites
+tio= 2017-03-27T17:45:06Z
+tie= 2017-03-27T17:45:36Z
 
