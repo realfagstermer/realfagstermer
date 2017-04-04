@@ -449,7 +449,7 @@ def task_stats():
             stats,
             'cd realfagstermer.github.io && git add _data/stats_current.json _data/stats.json',
             'cd realfagstermer.github.io && git commit -m "Update stats"',
-            'cd realfagstermer.github.io && git push --mirror origin',  # locally updated refs will be force updated on the remote end !
+            'cd realfagstermer.github.io && git push origin',
         ],
         'file_dep': [
             'dist/realfagstermer.complete.ttl'
