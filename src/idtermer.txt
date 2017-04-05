@@ -301,11 +301,8 @@ tie= 2015-03-20T17:59:31Z
 
 id= REAL000040
 te= Bildeelementer
-ba= ni
-nn= Biletelement
-nn= Bildeelement
-en= Picture elements
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:54:56Z
 
 id= REAL000041
 te= Hybridisering
@@ -1052,9 +1049,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000142
 te= Statistiske slutninger
-ba= nm
-nn= Statistiske slutningar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T16:50:55Z
+fly= REAL013935
 
 id= REAL000143
 te= Radiokilder
@@ -8626,10 +8623,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001136
 te= Distribusjon
-ba= ni
-ba= ngh
-nn= Distribusjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:27:54Z
 
 id= REAL001137
 te= Innsamlingsmetoder
@@ -14893,10 +14888,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001964
 te= Bevegelseskontroll
-ba= ni
-nn= Rørslekontroll
-nn= Bevegelseskontroll
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:53:35Z
+fly= REAL012424
 
 id= REAL001965
 te= Skyer
@@ -19971,10 +19965,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002604
 te= Befolkningsstatistikk
-ba= ngh
-nn= Folkesetnadsstatistikk
-nn= Befolkningsstatistikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:16:38Z
 
 id= REAL002605
 te= Kommakreps
@@ -22687,9 +22679,8 @@ st= REAL020136
 
 id= REAL002954
 te= Frekvensdistribusjon
-ba= nm
-nn= Frekvensdistribusjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:34:16Z
 
 id= REAL002955
 te= Galakser
@@ -24948,8 +24939,16 @@ fly= REAL009199
 id= REAL003252
 te= Logisk slutning
 ba= nm
+bf= Slutning
+bf= Inferens
+no= (logikk, filosofi, psykologi, maskinlæring, osv. For inferens i statistikk, se Statistisk inferens)
 nn= Logisk slutning
+nn= Slutning
+nn= Inferens
+en= Inference
+de= det å avlede en setning (konklusjonen) fra en eller flere andre setninger (premissene) eller observasjoner
 tio= 2014-08-25T00:00:00Z
+st= REAL022473
 
 id= REAL003253
 te= Celleforandringer
@@ -34816,10 +34815,8 @@ st= REAL028644
 
 id= REAL004519
 te= Beskrivende forskningsmetoder
-ba= nm
-nn= Beskrivande forskingsmetodar
-nn= Skildrande forskingsmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:50:22Z
 
 id= REAL004520
 te= AVL-trær
@@ -41344,7 +41341,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005411
 te= Benzenderivater
 ba= nk
+bf= Benzenoider
 nn= Benzenderivat
+nn= Benzenoid
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005412
@@ -41510,9 +41509,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005434
 te= Kontinuerlige distribusjoner
-ba= nm
-nn= Kontinuerlege distribusjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T17:32:01Z
+tis= 2017-04-04T17:33:15Z
+fly= REAL013078
 
 id= REAL005435
 te= Asters
@@ -42844,9 +42844,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005618
 te= Bergartsdeformasjon
-ba= nc
-nn= Bergartsdeformasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:11:39Z
+fly= REAL031726
 
 id= REAL005619
 te= Partikkelstråler
@@ -42983,11 +42983,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005637
 te= Bildeoverføring
-ba= ni
-nn= Biletoverføring
-nn= Bildeoverføring
-en= Image transmission
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:55:37Z
 
 id= REAL005638
 te= Aldersbestemmelse
@@ -43758,12 +43755,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005733
 te= Beviser
-ba= nm
-ba= ns
-nn= Bevis
-nn= Prov
 tio= 2014-08-25T00:00:00Z
-st= REAL029441
+tis= 2017-04-04T17:05:24Z
 
 id= REAL005734
 te= Olje
@@ -45742,7 +45735,9 @@ id= REAL005991
 te= Berthollider
 ba= nk
 nn= Berthollid
+de= forbindelser som viser ikke-støkiometri
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T17:49:47Z
 
 id= REAL005992
 te= Gummitrær
@@ -46800,8 +46795,12 @@ tie= 2017-02-20T20:14:34Z
 id= REAL006120
 te= Matematisk bevisføring
 ba= nm
+bf= Bevisteknikk
 nn= Matematisk bevisføring
 nn= Matematisk provføring
+nn= Bevisteknikk
+nn= Provsteknikk
+en= Proof techniques
 tio= 2014-08-25T00:00:00Z
 st= REAL026010
 
@@ -51462,9 +51461,11 @@ tie= 2017-01-05T18:23:36Z
 id= REAL006691
 te= Diskrete sannsynlighetsfordelinger
 ba= nm
+ot= REAL011070
 nn= Diskrete sannsynsfordelingar
+en= Discrete probability distributions
 tio= 2014-08-25T00:00:00Z
-tie= 2015-09-21T09:19:52Z
+tie= 2017-04-04T17:32:28Z
 
 id= REAL006692
 te= Havplanter
@@ -56784,9 +56785,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007391
 te= Benzenoider
-ba= nb
-nn= Benzenoid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:46:21Z
+fly= REAL005411
 
 id= REAL007392
 te= Landskapsutforming
@@ -61847,9 +61848,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008054
 te= Begrenset rang
-ba= nm
-nn= Avgrensa rang
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:18:57Z
 
 id= REAL008055
 te= Eoliske prosesser
@@ -73493,10 +73493,13 @@ nn= Algebraiske grupper
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009578
-te= Slutninger
-ba= nm
-nn= Slutningar
+te= Slutning
+no= (logikk, filosofi, psykologi, maskinlæring, osv. For inferens i statistikk, se Statistisk inferens)
+de= det å avlede en setning (konklusjonen) fra en eller flere andre setninger (premissene) eller observasjoner
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T16:54:13Z
+tis= 2017-04-04T16:54:46Z
+fly= REAL003252
 
 id= REAL009579
 te= Babyuniverser
@@ -76971,10 +76974,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010008
 te= Beredskapsplaner
-ba= nb
-nn= Vernebuingsplanar
-nn= Beredskapsplanar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:48:12Z
+fly= REAL011347
 
 id= REAL010009
 te= Atomemisjon
@@ -78611,10 +78613,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010210
 te= Inferens
-ba= nm
-nn= Inferens
 tio= 2014-08-25T00:00:00Z
-st= REAL022473
+tis= 2017-04-04T16:53:08Z
+fly= REAL009578
 
 id= REAL010211
 te= Tropevegetasjon
@@ -83880,12 +83881,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010938
 te= Bevisteknikk
-ba= ni
-ba= nm
-nn= Bevisteknikk
-nn= Provsteknikk
-en= Proof techniques
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-04T17:03:02Z
+fly= REAL006120
 
 id= REAL010939
 te= Nukleærmedisin
@@ -84759,8 +84757,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011070
 te= Sannsynlighetsfordelinger
 ba= ni
+bf= Sannsynlighetsdistribusjoner
+so= REAL013078
 nn= Sannsynsfordelingar
+en= Probability distributions
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T17:32:28Z
 
 id= REAL011071
 te= Aztekere
@@ -85101,6 +85103,7 @@ ba= na
 ba= nm
 nn= Sannsynsteoriar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T17:25:40Z
 
 id= REAL011114
 te= Terminalarbeid
@@ -86746,8 +86749,11 @@ st= REAL023406
 id= REAL011347
 te= Katastrofeberedskap
 ba= ns
+bf= Beredskapsplaner
 nn= Katastrofevernebuing
 nn= Katastrofeberedskap
+nn= Vernebuingsplanar
+nn= Beredskapsplanar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011348
@@ -89249,12 +89255,6 @@ te= Tørkeområder
 ba= ngh
 nn= Tørkeområde
 tio= 2014-08-25T00:00:00Z
-
-id= REAL011670
-te= Massebevegelser
-tio= 2014-08-25T00:00:00Z
-tis= 2017-02-10T19:05:41Z
-fly= REAL013619
 
 id= REAL011671
 te= Sulfidmineraler
@@ -95332,8 +95332,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012424
 te= Mobile roboter
 ba= ni
+bf= Bevegelseskontroll
 so= REAL001237
 nn= Mobile robotar
+nn= Rørslekontroll
+nn= Bevegelseskontroll
 en= Mobile robots
 dw= 629.8932
 tio= 2014-08-25T00:00:00Z
@@ -99511,12 +99514,18 @@ st= REAL028640
 st= REAL029179
 
 id= REAL012781
-te= Plastisk deformasjon
+te= Deformasjonsmekanismer (geologi)
 ba= nc
-bf= Plastiske formendringer
-nn= Plastisk deformasjon
-nn= Plastiske formendringar
+bf= Sprø deformasjon (geologi)
+bf= Plastisk deformasjon (geologi)
+nn= Deformasjonsmekanismar (geologi)
+nn= Plastisk deformasjon (geologi)
+nn= Sprø deformasjon (geologi)
+en= Deformation mechanisms (geology)
+en= Plastic deformation (geology)
+en= Brittle deformation (geology)
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T17:14:42Z
 
 id= REAL012782
 te= Populasjonsregulering
@@ -102279,12 +102288,20 @@ id= REAL013078
 te= Distribusjoner
 ba= nm
 bf= Fordelinger
+bf= Kontinuerlige distribusjoner
+bf= Kontinuerlige fordelinger
+so= REAL011070
+so= REAL013377
 nn= Distribusjonar
 nn= Fordelingar
+nn= Kontinuerlege distribusjonar
 en= Distributions
+en= Generalized functions
+en= Continuous distributions
 ms= 60.20
 dw= 519.24
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T17:31:11Z
 
 id= REAL013079
 te= Karakteristiske funksjoner
@@ -102568,13 +102585,14 @@ id= REAL013106
 te= Bayesiansk inferens
 ba= nm
 bf= Bayesisk inferens
+bf= Bayesisk slutning
 nn= Bayesiansk inferens
 nn= Bayesisk inferens
 en= Bayesian inference
 ms= 62.35
 dw= 519.542
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-05T18:37:33Z
+tie= 2017-04-04T16:03:41Z
 
 id= REAL013107
 te= Flervariabel analyse
@@ -102646,6 +102664,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013112
 te= Lineær statistisk inferens
 ba= nm
+ot= REAL013935
 nn= Lineær statistisk inferens
 en= Linear statistical inference
 ms= 62.55
@@ -105526,12 +105545,14 @@ id= REAL013377
 te= Distribusjonsteori
 ba= nm
 bf= Fordelingsteori
+so= REAL013078
 nn= Distribusjonsteori
 nn= Fordelingsteori
 en= Distribution theory
 ms= 62.10
 dw= 519.532
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T17:31:12Z
 
 id= REAL013378
 te= Epigenomikk
@@ -109768,7 +109789,6 @@ te= Skred
 ba= nc
 ba= ngh
 bf= Ras
-bf= Massebevegelser
 bf= Laviner
 so= REAL013620
 so= REAL013621
@@ -109779,14 +109799,11 @@ so= REAL031690
 nn= Skred
 nn= Ras
 nn= Masserørsler
-nn= Massebevegelsar
 en= Landslides
-en= Mass movements
-en= Mass wasting
 en= Avalanches
 de= Gravitasjonsbetinget masseforflytning av stein, jord, leire eller snø (SNL).
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-10T19:06:24Z
+tie= 2017-04-04T17:08:54Z
 st= REAL024917
 
 id= REAL013620
@@ -114101,10 +114118,18 @@ st= REAL029825
 
 id= REAL013916
 te= Kvanteinformasjon
+bf= Kvanteinformasjonsteori
+bf= Kvante-Shannon-teori
+so= REAL014048
 nn= Kvanteinformasjon
+nn= Kvanteinformasjonsteori
+nn= Kvante-Shannon-teori
 en= Quantum information
+en= Quantum information theory
+en= Quantum Shannon theory
 de= Informasjon som ikke kan beskrives med klassisk informasjonsteori
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T14:36:10Z
 
 id= REAL013917
 te= Biomimetikk
@@ -114350,9 +114375,15 @@ id= REAL013935
 te= Statistisk inferens
 ba= nm
 bf= Inferensteori
+bf= Slutningsteori
+bf= Statistisk slutning
+bf= Statistiske slutninger
 nn= Statistisk inferens
 nn= Inferensteori
+nn= Statistiske slutningar
+en= Statistical inference
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-04T16:03:08Z
 st= REAL020483
 
 id= REAL013936
@@ -115723,13 +115754,14 @@ ba= nf
 ba= nm
 bf= Kvantedatamaskiner
 so= REAL031301
+so= REAL013916
 nn= Kvantedatahandsaming
 nn= Kvantedatabehandling
 nn= Kvantedatamaskinar
 nn= Kvantedatamaskiner
 en= Quantum computing
 tio= 2014-08-25T00:00:00Z
-tie= 2015-01-21T00:00:00Z
+tie= 2017-04-04T14:36:54Z
 st= REAL023504
 
 id= REAL014049
@@ -117553,7 +117585,9 @@ tie= 2016-10-18T11:37:35Z
 
 id= REAL031726
 te= Deformasjoner (geologi)
+bf= Bergartsdeformasjon
 nn= Deformasjonar (geologi)
+nn= Bergartsdeformasjon
 en= Deformations (geology)
 tio= 2016-10-18T11:38:16Z
 tie= 2016-10-18T11:38:58Z
@@ -118201,7 +118235,13 @@ tie= 2017-04-03T12:54:49Z
 
 id= REAL031863
 te= Massestrømmer
+bf= Massebevegelser
 so= REAL013621
+nn= Massestraumar
+nn= Massebevegelsar
+en= Mass wastings
+en= Slope movements
+en= Mass movements
 tio= 2017-04-03T13:37:31Z
-tie= 2017-04-03T13:37:37Z
+tie= 2017-04-04T17:09:23Z
 
