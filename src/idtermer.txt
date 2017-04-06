@@ -667,10 +667,8 @@ st= REAL022340
 
 id= REAL000089
 te= Undersøkelsesmetoder
-ba= nb
-ba= ngh
-nn= Undersøkingsmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T10:22:12Z
 
 id= REAL000090
 te= Estimater
@@ -7043,8 +7041,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000930
 te= World Data Center
 ba= na
+bf= World Data Center (WDC)
 ak= WDC
 nn= World Data Center
+nn= World Data Center (WDC)
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000931
@@ -16208,7 +16208,10 @@ id= REAL002128
 te= Eksitoner
 ba= nf
 nn= Eksiton
+en= Excitons
+de= Kvasipartikkel i krystallinske materialer
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T14:04:50Z
 
 id= REAL002129
 te= Osmoregulering
@@ -17631,8 +17634,14 @@ st= REAL029505
 id= REAL002319
 te= Magnetokjemi
 ba= nk
+bf= Molekylær magnetisme
+bf= Molekylmagnetisme
+so= REAL031865
 nn= Magnetokjemi
+nn= Molekylær magnetisme
+nn= Molekylmagnetisme
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T11:28:36Z
 
 id= REAL002320
 te= Skogshøns
@@ -18801,8 +18810,9 @@ ak= ALD
 so= REAL031189
 nn= Atomlagsdeponering
 en= Atomic layer deposition
+de= Tynnfilmteknologi
 tio= 2014-08-25T00:00:00Z
-tie= 2014-10-08T00:00:00Z
+tie= 2017-04-05T11:59:38Z
 
 id= REAL002464
 te= Injeksjonskapillær matriksinterferenser
@@ -19392,10 +19402,25 @@ id= REAL002539
 te= Bistandsarbeid
 ba= nb
 ba= ngh
+bf= Bistand
+bf= Utviklingshjelp
+bf= Internasjonal utviklingshjelp
+bf= Utviklingssamarbeid
+so= REAL003132
 nn= Bistandsarbeid
+nn= Utviklingshjelp
+nn= Internasjonal utviklingshjelp
+nn= Bistand
+nn= Utviklingssamarbeid
+en= Development aid
+en= Development cooperation
+en= Development assistance
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T14:46:11Z
 st= REAL022752
 st= REAL023562
+st= REAL027449
+st= REAL028721
 
 id= REAL002540
 te= Anisotropi
@@ -19571,12 +19596,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002560
 te= Rotatorier
-ba= nb
-nn= Rotatorium
 tio= 2014-08-25T00:00:00Z
-st= REAL022218
-st= REAL023278
-st= REAL028080
+tis= 2017-04-05T11:32:57Z
+fly= REAL006477
 
 id= REAL002562
 te= Elektronoverføringer
@@ -20353,8 +20375,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002659
 te= Kritisk tenkning
 ba= ns
+so= REAL002846
 nn= Kritisk tenking
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T10:12:54Z
 
 id= REAL002660
 te= Forplantningsfysiologi
@@ -21825,8 +21849,10 @@ st= REAL029910
 id= REAL002846
 te= Skeptisisme
 ba= nk
+so= REAL002659
 nn= Skeptisisme
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T10:12:55Z
 st= REAL015181
 
 id= REAL002847
@@ -24102,9 +24128,11 @@ st= REAL028683
 id= REAL003132
 te= Nødhjelp
 ba= ngh
+so= REAL002539
 nn= Naudhjelp
 nn= Nødhjelp
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T14:46:11Z
 
 id= REAL003133
 te= Odmg
@@ -24493,9 +24521,9 @@ st= REAL027939
 
 id= REAL003187
 te= Molekylmagnetisme
-ba= nk
-nn= Molekylmagnetisme
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T11:11:12Z
+fly= REAL011654
 
 id= REAL003188
 te= Statistisk kjemi
@@ -26087,8 +26115,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003395
 te= Alginater
 ba= nb
+bf= Alginat
+bf= Alginsyre
+bf= Algininsyre
 nn= Alginat
+nn= Alginsyre
+nn= Algininsyre
+en= Alginates
+en= Alginic acid
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T10:16:24Z
 
 id= REAL003396
 te= Helseråd
@@ -26801,8 +26837,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003486
 te= Ledende polymerer
 ba= nk
+so= REAL031866
 nn= Leiande polymerar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T14:00:30Z
 
 id= REAL003487
 te= Glasial erosjon
@@ -32557,7 +32595,9 @@ ba= nk
 ba= nb
 ba= nf
 ba= ns
+bf= Elektriske felt
 nn= Elektromagnetiske felt
+nn= Elektriske felt
 tio= 2014-08-25T00:00:00Z
 st= REAL022531
 st= REAL023865
@@ -33061,11 +33101,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004287
 te= Elektriske felt
-ba= nk
-ba= na
-ba= ns
-nn= Elektriske felt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T14:25:04Z
+fly= REAL004226
 
 id= REAL004288
 te= Spordannelse
@@ -49809,9 +49847,17 @@ st= REAL031578
 id= REAL006477
 te= Hjuldyr
 ba= nb
+bf= Rotatorier
 nn= Hjuldyr
+nn= Rotatorium
+en= Rotifers
+la= Rotifera
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T11:33:22Z
+st= REAL022218
 st= REAL022842
+st= REAL023278
+st= REAL028080
 st= REAL028915
 
 id= REAL006478
@@ -56197,9 +56243,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007305
 te= Alginsyre
-ba= nk
-nn= Alginsyre
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T10:15:32Z
+fly= REAL003395
 
 id= REAL007306
 te= Seiling
@@ -62308,9 +62354,8 @@ fly= REAL003382
 
 id= REAL008101
 te= Tilnærmelsesmetoder
-ba= nm
-nn= Tilnærmingsmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T10:19:37Z
 
 id= REAL008102
 te= Degenerasjon
@@ -63557,9 +63602,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008276
 te= World Data Center (WDC)
-ba= na
-nn= World Data Center (WDC)
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T11:31:38Z
+fly= REAL000930
 
 id= REAL008277
 te= Efemerider
@@ -64192,9 +64237,9 @@ st= REAL028221
 
 id= REAL008364
 te= Teknisk utvikling
-ba= ni
-nn= Teknisk utvikling
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T10:55:06Z
+fly= REAL013879
 
 id= REAL008365
 te= Placebo
@@ -70718,11 +70763,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009188
 te= Utviklingshjelp
-ba= nb
-nn= Utviklingshjelp
 tio= 2014-08-25T00:00:00Z
-st= REAL027449
-st= REAL028721
+tis= 2017-04-05T14:38:27Z
+fly= REAL002539
 
 id= REAL009189
 te= Transformasjon
@@ -73515,9 +73558,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009581
 te= Alginat
-ba= ne
-nn= Alginat
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T10:15:19Z
+fly= REAL003395
 
 id= REAL009583
 te= Fingre
@@ -75034,9 +75077,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009780
 te= Internasjonal utviklingshjelp
-ba= ngh
-nn= Internasjonal utviklingshjelp
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T14:38:33Z
+fly= REAL002539
 
 id= REAL009781
 te= Bevisføring
@@ -78177,9 +78220,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010164
 te= Hjelpeprogram
-ba= nk
-nn= Hjelpeprogram
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T14:47:53Z
 
 id= REAL010165
 te= Distribuert masselager
@@ -83624,9 +83666,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010904
 te= Exitoner
-ba= nf
-nn= Exiton
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T14:03:32Z
+fly= REAL002128
 
 id= REAL010905
 te= V838
@@ -89152,9 +89194,9 @@ st= REAL021096
 
 id= REAL011654
 te= Molekylær magnetisme
-ba= nk
-nn= Molekylær magnetisme
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-05T11:19:14Z
+fly= REAL002319
 
 id= REAL011655
 te= Ålegress
@@ -91891,8 +91933,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012012
 te= Sinkoksid
 ba= nk
+so= REAL031866
 nn= Sinkoksid
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T13:59:55Z
 
 id= REAL012013
 te= Oljeøkonomi
@@ -113644,9 +113688,11 @@ id= REAL013879
 te= Teknologisk utvikling
 ba= ns
 bf= Teknologiutvikling
+bf= Teknisk utvikling
 so= REAL013880
 nn= Teknologisk utvikling
 nn= Teknologiutvikling
+nn= Teknisk utvikling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013880
@@ -115432,9 +115478,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL014021
 te= Spinntronikk
+so= REAL031865
 nn= Spinntronikk
 en= Spintronics
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-05T11:30:59Z
 
 id= REAL014022
 te= Topologiske isolatorer
@@ -118244,4 +118292,44 @@ en= Slope movements
 en= Mass movements
 tio= 2017-04-03T13:37:31Z
 tie= 2017-04-04T17:09:23Z
+
+id= REAL031864
+te= Spinndynamikk
+bf= Spinndiffusjon
+bf= Spinnreorientering
+so= REAL031865
+ot= REAL003223
+nn= Spinndynamikk
+nn= Spinndiffusjon
+nn= Spinnreorientering
+en= Spin dynamics
+en= Spin diffusion
+en= Spin reorientation
+tio= 2017-04-05T11:05:41Z
+tie= 2017-04-05T11:29:24Z
+
+id= REAL031865
+te= Mikromagnetisme
+bf= Atomær magnetisme
+so= REAL002319
+so= REAL031864
+so= REAL014021
+nn= Mikromagnetisme
+en= Micromagnetics
+en= Atomistic magnetism
+de= studie av magnetisme på sub-mikrometer-skala
+tio= 2017-04-05T11:26:24Z
+tie= 2017-04-05T11:36:58Z
+
+id= REAL031866
+te= Gjennomsiktige ledende oksider
+bf= Transparente ledende oksider
+ak= TCO
+so= REAL012012
+so= REAL003486
+en= Transparent conductice oxides
+en= Gjennomsiktige leiande oksid
+de= Tynnfilmer
+tio= 2017-04-05T12:05:41Z
+tie= 2017-04-05T14:00:30Z
 
