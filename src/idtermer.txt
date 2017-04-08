@@ -25,10 +25,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000006
 te= Livets utvikling
-ba= nb
-ba= nc
-nn= Utviklinga av livet
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-07T10:56:44Z
 
 id= REAL000007
 te= Karakteristiske klasser
@@ -13161,7 +13159,9 @@ ba= nb
 ba= ne
 ba= nf
 ba= ns
+bf= Biogenese
 nn= Biosyntese
+nn= Biogenese
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001729
@@ -13955,9 +13955,9 @@ tie= 2016-06-08T12:39:28Z
 
 id= REAL001839
 te= Biogenese
-ba= nb
-nn= Biogenese
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-07T10:56:30Z
+fly= REAL001728
 
 id= REAL001840
 te= Jordbruksområder
@@ -42400,8 +42400,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005550
 te= Deteksjon
 ba= nk
+no= Bør ikke brukes alene, kun i streng
 nn= Deteksjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-04-06T11:46:25Z
 
 id= REAL005551
 te= Fisjonsreaktorer
@@ -48799,10 +48801,9 @@ st= REAL025801
 
 id= REAL006360
 te= Embryogenese
-ba= nb
-ba= ns
-nn= Embryogenese
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-07T10:56:16Z
+fly= REAL013660
 
 id= REAL006361
 te= Datamodellering
@@ -68329,9 +68330,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008879
 te= Stråledeteksjon
-ba= nk
-nn= Stråledeteksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-04-06T11:46:59Z
 
 id= REAL008880
 te= Homologisk kohomologi
@@ -110407,11 +110407,13 @@ ba= ns
 bf= Fosterutvikling
 bf= Fostervekst
 bf= Fostere
+bf= Embryogenese
 nn= Embryologi
 nn= Foster
 nn= Fosterutvikling
 nn= Fostervekst
 nn= Fostervokster
+nn= Embryogenese
 en= Embryology
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-29T11:41:45Z
