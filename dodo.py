@@ -76,8 +76,10 @@ def task_fetch_extras():
     for file in [
         {'remote': 'https://mapper.biblionaut.net/export.rdf',
             'local': 'src/mumapper.rdf'},
-        {'remote': 'https://lambda.biblionaut.net/export.rdf',
-            'local': 'src/lambda.rdf'},
+        {'remote': 'https://lambda.biblionaut.net/real_hume.rdf',
+            'local': 'src/hume.rdf'},
+        {'remote': 'https://lambda.biblionaut.net/ccmapper_ddc.rdf',
+            'local': 'src/ddc.rdf'},
         #{'remote': 'https://rawgit.com/realfagstermer/prosjekt-nynorsk/master/data-verified.ttl',
         #    'local': 'src/nynorsk.ttl'},
     ]:
@@ -164,14 +166,18 @@ def task_build_extras():
 
         mappings = [
             'src/mumapper.rdf',
-            'src/lambda.rdf'
+            'src/hume.rdf',
+            'src/ddc.rdf',
         ]
 
         # 1) MARC21
         marc21options = {
             'vocabulary_code': 'noubomn',
             'created_by': 'NoOU',
-            'mappings_from': ['src/lambda.rdf']
+            'mappings_from': [
+                'src/hume.rdf',
+                'src/ddc.rdf',
+            ]
         }
         roald.export('dist/%s.marc21.xml' %
                      config['basename'], format='marc21', **marc21options)
@@ -196,7 +202,8 @@ def task_build_extras():
             'src/idtider.txt',
             'src/idstrenger.txt',
             'src/mumapper.rdf',
-            'src/lambda.rdf',
+            'src/hume.rdf',
+            'src/ddc.rdf',
             # 'src/nynorsk.ttl',
             'src/ub-onto.ttl',
             '%s.scheme.ttl' % config['basename']
