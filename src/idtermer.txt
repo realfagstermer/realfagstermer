@@ -7008,9 +7008,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000913
 te= Bokillustrasjon
-ba= nb
-nn= Bokillustrasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-12T13:21:08Z
 
 id= REAL000914
 te= Digitale bilder
@@ -35609,10 +35608,9 @@ tie= 2017-02-25T14:23:14Z
 
 id= REAL004574
 te= Vitenskapelige illustrasjoner
-ba= nb
-nn= Vitskaplege illustrasjonar
-nn= Vitskapelege illustrasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-12T13:56:31Z
+fly= REAL013669
 
 id= REAL004575
 te= Væsketeori
@@ -51579,10 +51577,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006639
 te= Matematiske illustrasjoner
-ba= ni
-nn= Matematiske illustrasjonar
-en= Mathematical illustrations
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-12T14:01:55Z
 
 id= REAL006640
 te= dBase
@@ -72839,10 +72835,13 @@ en= Rescue operations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009384
-te= Groupoider
+te= Gruppoider
 ba= nm
+bf= Groupoider
+nn= Gruppoid
 nn= Groupoid
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-12T13:16:05Z
 
 id= REAL009385
 te= Basalmedisin
@@ -73044,6 +73043,7 @@ st= REAL017573
 st= REAL019541
 st= REAL020934
 st= REAL021875
+st= REAL031871
 
 id= REAL009416
 te= Klassiske konstruksjonsproblemer
@@ -74163,9 +74163,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009574
 te= Dyretegninger
-ba= nb
-nn= Dyreteikningar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-12T13:20:36Z
 
 id= REAL009575
 te= Fellesmarkedet
@@ -91435,9 +91434,8 @@ st= REAL029935
 
 id= REAL011844
 te= Gripeteori
-ba= nm
-nn= Gripeteori
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-12T13:14:51Z
 
 id= REAL011845
 te= Chemoton
@@ -111436,12 +111434,14 @@ ba= ne
 ba= nf
 ba= nm
 ba= ns
+bf= Vitenskapelige illustrasjoner
 no= Bruk for illustrasjon(er) som emne (f.eks. hvordan tegne blomster). Bruk bildeverk eller plansjer (form) hvis du vil få fram at dokumentet ER (inneholder) bilder.
 nn= Illustrasjonar
+nn= Vitskaplege illustrasjonar
+nn= Vitskapelege illustrasjonar
 en= Illustrations
 tio= 2014-08-25T00:00:00Z
 st= REAL017982
-st= REAL021492
 st= REAL022464
 st= REAL026635
 
@@ -115235,6 +115235,7 @@ st= REAL023200
 st= REAL026121
 st= REAL026575
 st= REAL029587
+st= REAL031870
 
 id= REAL013929
 te= Marine ressurser
