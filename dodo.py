@@ -177,7 +177,8 @@ def task_build_extras():
             'mappings_from': [
                 'src/hume.rdf',
                 'src/ddc.rdf',
-            ]
+            ],
+            'include_extras': True
         }
         roald.export('dist/%s.marc21.xml' %
                      config['basename'], format='marc21', **marc21options)
