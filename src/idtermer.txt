@@ -4038,10 +4038,11 @@ st= REAL025621
 st= REAL028652
 
 id= REAL000529
-te= Myelinmembranen
+te= Myelinmembraner
 ba= nb
-nn= Myelinmembranen
+nn= Myelinmembran
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-15T12:04:15Z
 
 id= REAL000530
 te= Atomkjerner
@@ -26178,10 +26179,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003374
 te= Membransystemer
-ba= nb
-nn= Membransystem
 tio= 2014-08-25T00:00:00Z
-st= REAL026733
+tis= 2017-05-15T12:03:02Z
 
 id= REAL003375
 te= Kjemisk affinitet
@@ -42570,8 +42569,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005513
 te= Gjerdesmetter
 ba= nb
+bf= Gjerdesmettfamilien
 nn= Gjerdesmettar
+nn= Gjerdesmettfamilien
+en= Wrens
+la= Troglodytidae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-15T11:28:12Z
 
 id= REAL005514
 te= Solseiling
@@ -45163,9 +45167,12 @@ id= REAL005850
 te= Kjempestjerner
 ba= na
 bf= Gigantstjerner
+bf= Røde kjemper
 nn= Gigantstjerner
+nn= Raude kjemper
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-07T23:00:09Z
+st= REAL020926
 
 id= REAL005851
 te= Datakomprimering
@@ -46280,9 +46287,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006002
 te= Membranprosesser
-ba= nk
-nn= Membranprosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-15T11:53:18Z
 
 id= REAL006003
 te= Kjedesilikater
@@ -55273,9 +55279,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007110
 te= Membranstrukturer
-ba= nb
-nn= Membranstrukturar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-15T11:53:50Z
 
 id= REAL007111
 te= Nitratreduktase
@@ -57192,10 +57197,20 @@ nn= Nanosystem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007369
-te= Giraffer
+te= Giraffamilien
 ba= nb
+bf= Giraffer
+bf= Okapier
+bf= Sjiraffer
+bf= Sjiraffamilien
+nn= Sjiraffamilien
 nn= Sjiraffar
+nn= Okapiar
+en= Giraffes
+en= Okapis
+la= Giraffidae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-15T11:22:02Z
 
 id= REAL007370
 te= Vannteger
@@ -67522,9 +67537,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008687
 te= Prokaryote membraner
-ba= nb
-nn= Prokaryote membranar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-16T11:22:47Z
 
 id= REAL008688
 te= Oljeforsyning
@@ -74435,9 +74449,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009600
 te= Økologiske samfunn
-ba= nm
-nn= Økologiske samfunn
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-16T11:27:29Z
+fly= REAL013384
 
 id= REAL009601
 te= Materiell kultur
@@ -74667,8 +74681,10 @@ ba= nb
 ba= ne
 ba= nf
 ba= ns
+so= REAL011810
 nn= Membranar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-15T12:05:36Z
 
 id= REAL009628
 te= Aktivt oksygen
@@ -83662,8 +83678,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010796
 te= Membrantransport
 ba= nb
+so= REAL011810
 nn= Membrantransport
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-15T12:08:27Z
 
 id= REAL010797
 te= Laksender
@@ -86849,9 +86867,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011255
 te= Endocytisk membrantransport
-ba= ns
-nn= Endocytisk membrantransport
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-15T11:33:01Z
 
 id= REAL011256
 te= Lyngfamilien
@@ -88639,9 +88656,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011492
 te= Biologiske samfunn
-ba= nq
-nn= Biologiske samfunn
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-16T12:23:30Z
+fly= REAL013384
 
 id= REAL011493
 te= Meteorstormer
@@ -89234,10 +89251,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011572
 te= Røde kjemper
-ba= na
-nn= Raude kjemper
 tio= 2014-08-25T00:00:00Z
-st= REAL020926
+tis= 2017-05-15T11:10:13Z
+fly= REAL005850
 
 id= REAL011573
 te= Anticarcinogener
@@ -91193,9 +91209,15 @@ te= Cellemembraner
 ba= nb
 ba= ne
 ba= nf
+bf= Biologiske membraner
+bf= Biomembraner
+so= REAL010796
 nn= Cellemembranar
+nn= Biologiske membranar
+nn= Biomembranar
 tio= 2014-08-25T00:00:00Z
-tie= 2016-09-01T14:08:09Z
+tie= 2017-05-15T12:08:28Z
+st= REAL031872
 
 id= REAL011812
 te= Musseroner
@@ -99830,14 +99852,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012730
 te= Biologiske membraner
-ba= nk
-ba= nb
-ba= ne
-ba= nf
-bf= Biomembraner
-nn= Biologiske membranar
-nn= Biomembranar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-15T11:31:58Z
+fly= REAL011810
 
 id= REAL012731
 te= Amerikansk bison
@@ -106531,8 +106548,12 @@ ba= nk
 ba= nb
 ba= nq
 bf= Synøkologi
+bf= Økologiske samfunn
+bf= Biologiske samfunn
 nn= Samfunnsøkologi
 nn= Synøkologi
+nn= Økologiske samfunn
+nn= Biologiske samfunn
 tio= 2014-08-25T00:00:00Z
 st= REAL014412
 
