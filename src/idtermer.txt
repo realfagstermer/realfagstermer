@@ -43230,11 +43230,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005610
 te= Nandrolon
-ba= ne
-bf= 19-norandrosteron
-nn= 19-norandrosteron
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-18T22:24:37Z
+tis= 2017-05-18T14:53:38Z
 
 id= REAL005611
 te= Treghet
