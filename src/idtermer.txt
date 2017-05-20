@@ -5026,15 +5026,9 @@ st= REAL021425
 
 id= REAL000654
 te= Avsmalning
-ba= nb
-bf= Avsmaling
-bf= Avsmalningsfunksjoner
-nn= Avsmaling
-en= Tapering
-en= Tree tapering
-en= Tree taper
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-05T19:55:18Z
+tis= 2017-05-19T09:56:25Z
 
 id= REAL000655
 te= Overvekt
@@ -21927,7 +21921,9 @@ id= REAL002832
 te= Blodårer
 ba= nb
 ba= ns
+bf= Blodkar
 nn= Blodårer
+nn= Blodkar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002833
@@ -39900,9 +39896,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005156
 te= Blodkar
-ba= nb
-nn= Blodkar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-19T12:10:28Z
+fly= REAL002832
 
 id= REAL005157
 te= Dekkers algoritme
@@ -81631,7 +81627,10 @@ te= Grønnalger
 ba= nb
 ba= nq
 nn= Grønalgar
+en= Green algae
+la= Chlorophyta
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-19T12:21:00Z
 st= REAL018246
 st= REAL018584
 st= REAL019296
@@ -82555,7 +82554,12 @@ te= Lysprikkfisker
 ba= nb
 nn= Ljosprikkfiskar
 nn= Lysprikkfiskar
+en= Myctophidae
+en= Lanternfishes
+la= Myctophidae
+de= benfiskfamilie i ordenen prikkfisker
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-19T12:15:08Z
 
 id= REAL010642
 te= Symbiogenese
@@ -101841,6 +101845,7 @@ bf= Blodet
 nn= Blod
 nn= Blodet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-19T12:13:43Z
 st= REAL018112
 st= REAL025158
 
@@ -117943,10 +117948,15 @@ tie= 2015-06-12T14:08:52Z
 id= REAL031465
 te= Påvekst
 bf= Påvekstorganismer
+bf= Begroing
 nn= Påvekst
+nn= Begroing
 en= Fouling
+en= Biofouling
+en= Biological fouling
+de= akkumulering av mikroorganismer, planter, alger eller dyr på fuktige overflater
 tio= 2015-06-12T14:10:06Z
-tie= 2015-06-12T14:10:44Z
+tie= 2017-05-19T12:20:07Z
 
 id= REAL031467
 te= Ekstremal grafteori
@@ -119280,4 +119290,52 @@ en= Gjennomsiktige leiande oksid
 de= Tynnfilmer
 tio= 2017-04-05T12:05:41Z
 tie= 2017-04-05T14:00:30Z
+
+id= REAL031873
+te= Bjørnedyr
+nn= Bjørnedyr
+en= Tardigrads
+en= Water bears
+la= Tardigrada
+de= rekke av mikroskopiske dyr, typisk 0,2 - 0,8 mm lange
+tio= 2017-05-19T11:38:12Z
+tie= 2017-05-19T11:40:37Z
+
+id= REAL031874
+te= Størfamilien
+bf= Stører
+nn= Størfamilien
+nn= Størar
+la= Acipenseridae
+tio= 2017-05-19T11:41:03Z
+tie= 2017-05-19T11:41:31Z
+
+id= REAL031875
+te= Vassildfamilien
+bf= Vassild
+nn= Vassildfamilien
+nn= Vassild
+la= Argentinidae
+de= benfiskfamilie i ordenen laksefisker
+tio= 2017-05-19T11:42:09Z
+tie= 2017-05-19T11:42:51Z
+
+id= REAL031876
+te= Øglefisker
+nn= Øglefiskar
+en= Lizardfishes
+la= Synodontidae
+tio= 2017-05-19T11:44:13Z
+tie= 2017-05-19T11:44:37Z
+
+id= REAL031877
+te= Mesopelagialsonen
+bf= Mesopelagialen
+bf= Mesopelagisk sone
+bf= Skumringssonen
+nn= Mesopelagialsona
+nn= Mesopelagisk sone
+en= Mesopelagic zone
+tio= 2017-05-19T11:57:50Z
+tie= 2017-05-19T12:06:09Z
 
