@@ -32229,10 +32229,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004140
 te= Landmåling
-ba= na
-ba= ns
-nn= Landmåling
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-22T15:23:16Z
+fly= REAL004931
 
 id= REAL004141
 te= Lemurer
@@ -38232,8 +38231,13 @@ st= REAL028544
 id= REAL004931
 te= Geografisk oppmåling
 ba= ngh
+bf= Topografisk oppmåling
+bf= Landmåling
 nn= Geografisk oppmåling
+nn= Topografisk oppmåling
+nn= Landmåling
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-22T15:23:01Z
 st= REAL025016
 
 id= REAL004932
@@ -69711,16 +69715,12 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008977
 te= Homobasidiomycetes
-ba= nb
-ba= nq
-so= REAL031217
-so= REAL012715
 no= Brukes ikke lenger, gammel klassifikasjon, bruk Hymeniesopper, evt Stilksporesopper
-nn= Homobasidiomycetes
 de= Foreldet term
 tio= 2014-08-25T00:00:00Z
 tie= 2014-10-31T00:00:00Z
-st= REAL014903
+tis= 2017-05-22T14:53:06Z
+fly= REAL031217
 
 id= REAL008978
 te= Passive marginer
@@ -76453,13 +76453,9 @@ st= REAL028004
 
 id= REAL009862
 te= Helseinformasjon
-ba= ni
-bf= Helseopplysning
-nn= Helseinformasjon
-nn= Helseopplysing
-nn= Helseopplysning
-en= Health information
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-22T15:19:22Z
+fly= REAL010166
 
 id= REAL009863
 te= Kjemiske forhold
@@ -78943,8 +78939,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010166
 te= Helseinformasjonssystemer
 ba= ns
+bf= Medisinske informasjonssystemer
 nn= Helseinformasjonssystem
+nn= Medisinske informasjonssystem
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-22T15:20:02Z
+st= REAL023597
 
 id= REAL010167
 te= Bielver
@@ -92516,10 +92516,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011977
 te= Medisinske informasjonssystemer
-ba= ni
-nn= Medisinske informasjonssystem
 tio= 2014-08-25T00:00:00Z
-st= REAL023597
+tis= 2017-05-22T15:18:14Z
+fly= REAL010166
 
 id= REAL011978
 te= Klimaovervåking
@@ -117081,12 +117080,15 @@ tie= 2014-10-13T00:00:00Z
 id= REAL031217
 te= Hymeniesopper
 bf= Hymenomycetes
+bf= Homobasidiomycetes
 nn= Hymeniesoppar
 nn= Hymenomycetes
+nn= Homobasidiomycetes
 la= Agaricomycotina
 de= Soppklasse i rekken stilksporesopper. Hymeniesopper omfatter alle stilksporesoppene med fruktlegemer.
 tio= 2014-10-22T00:00:00Z
-tie= 2014-10-22T00:00:00Z
+tie= 2017-05-22T14:54:51Z
+st= REAL014903
 
 id= REAL031218
 te= 3D-utskrift
