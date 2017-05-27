@@ -4943,7 +4943,11 @@ id= REAL000642
 te= Grønlandshval
 ba= nb
 nn= Grønlandskval
+en= Black right whale
+en= Bowhead whale
+la= Balaena mysticetus
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-26T12:45:16Z
 
 id= REAL000643
 te= Spe-kolonner
@@ -43842,7 +43846,11 @@ id= REAL005689
 te= Vågehvaler
 ba= nb
 nn= Vågekvalar
+en= Common minke whale
+en= Northern minke whale
+la= Balaenoptera acutorostrata
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-26T12:53:10Z
 
 id= REAL005690
 te= Polymerer
@@ -64719,9 +64727,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008355
 te= Minkehvaler
-ba= nb
-nn= Minkekvalar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-26T12:51:30Z
+fly= REAL005689
 
 id= REAL008356
 te= Teknisk varmelære
