@@ -78,7 +78,7 @@ Sjå [retningslinjer/diskusjon](https://github.com/realfagstermer/realfagstermer
 ## Eksterne ressurser
 
 * [Emnesøk](http://app.uio.no/ub/emnesok/?id=UREAL)
-* [LodLive](http://biblionaut.net/lodlive)
+* [LodLive](http://data.ub.uio.no/lodlive)
 
 
 ## Conversion
