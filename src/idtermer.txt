@@ -53274,11 +53274,23 @@ ba= nb
 ba= nc
 ba= ngh
 bf= Huler
+bf= Huleforskning
+bf= Speleologi
+bf= Biospeleologi
 so= REAL008105
 nn= Grotter
 nn= Hòler
 nn= Holer
+nn= Hòleforsking
+nn= Holeforsking
+nn= Speleologi
+nn= Biospeleologi
 en= Caves
+en= Speleology
+en= Spelaeology
+en= Biospeleology
+en= Cave biology
+de= Læren om grotter
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-14T14:25:45Z
 st= REAL016555
@@ -69308,13 +69320,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008925
 te= Speleologi
-ba= ngh
-nn= Speleologi
-en= Speleology
-en= Spelaeology
 de= Læren om grotter
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T14:05:53Z
+tis= 2017-05-29T14:29:49Z
+fly= REAL006857
 
 id= REAL008926
 te= Riftsoner
@@ -71905,9 +71915,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009257
 te= Bioteknologiske oppfinnelser
-ba= nb
-nn= Bioteknologiske oppfinningar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-29T14:35:50Z
 
 id= REAL009258
 te= Elektrokjemiske grenseflater
@@ -90428,10 +90437,9 @@ st= REAL015677
 
 id= REAL011707
 te= Huleforskning
-ba= ngh
-nn= Hòleforsking
-nn= Holeforsking
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-29T14:29:41Z
+fly= REAL006857
 
 id= REAL011708
 te= Tidsmaskiner
@@ -92486,12 +92494,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011968
 te= Biospeleologi
-ba= nb
-nn= Biospeleologi
-en= Biospeleology
-en= Cave biology
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T14:04:50Z
+tis= 2017-05-29T14:30:04Z
+fly= REAL006857
 
 id= REAL011969
 te= Nanofotonikk
