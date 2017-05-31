@@ -170,15 +170,29 @@ def task_build_extras():
             'src/ddc.rdf',
         ]
 
-        # 1) MARC21
+        # 1) MARC21 with $9 fields for CCMapper
         marc21options = {
             'vocabulary_code': 'noubomn',
             'created_by': 'NoOU',
             'mappings_from': [
                 'src/hume.rdf',
-                'src/ddc.rdf',
             ],
             'include_extras': True
+        }
+        roald.export('dist/%s.ccmapper.marc21.xml' %
+                     config['basename'], format='marc21', **marc21options)
+        logger.info('Wrote dist/%s.ccmapper.marc21.xml', config['basename'])
+
+        # 1) MARC21 for Alma and general use
+        marc21options = {
+            'vocabulary_code': 'noubomn',
+            'created_by': 'NoOU',
+            'mappings_from': [
+                'src/mumapper.rdf',     # Tekord mappings
+                'src/hume.rdf',         # Humord mappings
+                'src/ddc.rdf',          # Dewey mappings (from CCMapper)
+            ],
+            'include_extras': False
         }
         roald.export('dist/%s.marc21.xml' %
                      config['basename'], format='marc21', **marc21options)
@@ -211,7 +225,8 @@ def task_build_extras():
         ],
         'targets': [
             'dist/%s.marc21.xml' % config['basename'],
-            'dist/%s.complete.ttl' % config['basename']
+            'dist/%s.ccmapper.marc21.xml' % config['basename'],
+            'dist/%s.complete.ttl' % config['basename'],
         ]
     }
 
@@ -227,6 +242,7 @@ def task_git_push():
 def task_publish_dumps():
     return data_ub_tasks.publish_dumps_task_gen(config['dumps_dir'], [
         '%s.marc21.xml' % config['basename'],
+        '%s.ccmapper.marc21.xml' % config['basename'],
         '%s.ttl' % config['basename'],
         '%s.complete.ttl' % config['basename']
     ])
