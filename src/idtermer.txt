@@ -4605,11 +4605,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000595
 te= Stauder
-ba= nb
-ba= nq
-nn= Staudar
 tio= 2014-08-25T00:00:00Z
-st= REAL022785
+tis= 2017-05-30T12:17:01Z
+fly= REAL012584
 
 id= REAL000596
 te= Journalføring
@@ -31498,10 +31496,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004044
 te= Green-Kubo-relasjoner
-ba= nk
-nn= Green-Kubo-relasjonar
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-07T22:38:47Z
+tis= 2017-05-30T11:45:10Z
 
 id= REAL004045
 te= Ytringsansvar
@@ -31795,10 +31792,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004084
 te= Løk
-ba= nq
-nn= Lauk
-nn= Løk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-30T12:15:51Z
+fly= REAL012835
 
 id= REAL004085
 te= Østradioler
@@ -34804,7 +34800,9 @@ id= REAL004469
 te= Elektroporering
 ba= nb
 nn= Elektroporering
+de= Metode for å lage porer i cellemembranen for innføring av DNA eller annet medium
 tio= 2014-08-25T00:00:00Z
+tie= 2017-05-30T11:58:58Z
 
 id= REAL004470
 te= Inntekt
@@ -35350,10 +35348,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004543
 te= Blomsterløker
-ba= nq
-nn= Blomelaukar
-nn= Blomeløkar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-30T12:16:02Z
+fly= REAL012835
 
 id= REAL004545
 te= Nevrale kretser
@@ -36383,11 +36380,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004681
 te= Blodsugere
-ba= nb
-ba= ns
-nn= Blodsugarar
 tio= 2014-08-25T00:00:00Z
-st= REAL018166
+tis= 2017-05-30T12:14:54Z
+fly= REAL008375
 
 id= REAL004682
 te= Mattilgang
@@ -37477,10 +37472,9 @@ st= REAL015964
 
 id= REAL004829
 te= Boreal økologi
-ba= nb
-nn= Boreal økologi
 tio= 2014-08-25T00:00:00Z
-st= REAL016620
+tis= 2017-05-30T12:16:38Z
+fly= REAL013930
 
 id= REAL004830
 te= CP-brudd
@@ -53935,9 +53929,8 @@ st= REAL028306
 
 id= REAL006934
 te= Infiltrasjon
-ba= ngh
-nn= Infiltrasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-05-30T12:14:11Z
 
 id= REAL006935
 te= Karsykdommer
@@ -64925,7 +64918,9 @@ ba= nb
 ba= ne
 ba= nq
 ba= ns
+bf= Blodsugere
 nn= Parasittar
+nn= Blodsugarar
 tio= 2014-08-25T00:00:00Z
 st= REAL014977
 st= REAL015038
@@ -64940,6 +64935,7 @@ st= REAL024327
 st= REAL026353
 st= REAL027428
 st= REAL029485
+st= REAL018166
 
 id= REAL008376
 te= Lunger
@@ -98050,9 +98046,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012584
 te= Flerårige planter
 ba= nq
+bf= Stauder
 nn= Fleirårige planter
 nn= Fleirårige plantar
+nn= Staudar
 tio= 2014-08-25T00:00:00Z
+st= REAL022785
 
 id= REAL012585
 te= Fredholmteori
@@ -100989,6 +100988,8 @@ id= REAL012835
 te= Løkplanter
 ba= nq
 bf= Løkvekster
+bf= Løk
+bf= Blomsterløker
 nn= Laukplanter
 nn= Laukplantar
 nn= Laukvekstar
@@ -100997,6 +100998,10 @@ nn= Løkplantar
 nn= Løkplanter
 nn= Løkvekstar
 nn= Løkvokstrar
+nn= Lauk
+nn= Løk
+nn= Blomelaukar
+nn= Blomeløkar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012836
@@ -115303,8 +115308,10 @@ ba= nb
 ba= nk
 ba= ngh
 bf= Skogsøkologi
+bf= Boreal økologi
 nn= Skogøkologi
 nn= Skogsøkologi
+nn= Boreal økologi
 tio= 2014-08-25T00:00:00Z
 st= REAL014586
 st= REAL018340
@@ -115314,6 +115321,7 @@ st= REAL022351
 st= REAL023140
 st= REAL028541
 st= REAL028816
+st= REAL016620
 
 id= REAL013931
 te= Treslag
