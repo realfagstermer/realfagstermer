@@ -21,6 +21,7 @@ config = {
     'basename': 'realfagstermer',
     'git_user': 'ubo-bot',
     'git_email': 'danmichaelo+ubobot@gmail.com',
+    'es_index': 'authority'
 }
 
 DOIT_CONFIG = {
@@ -233,6 +234,10 @@ def task_build_extras():
 
 def task_build_json():
     return data_ub_tasks.gen_solr_json(config, 'realfagstermer')
+
+
+def task_elasticsearch():
+    return data_ub_tasks.gen_elasticsearch(config, 'realfagstermer')
 
 
 def task_git_push():
