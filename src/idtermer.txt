@@ -28628,8 +28628,8 @@ nn= Krinsar
 en= Electronic circuits
 en= Circuits
 tio= 2014-08-25T00:00:00Z
-st= REAL019050
 st= REAL014557
+st= REAL019050
 st= REAL026822
 
 id= REAL003681
@@ -39030,7 +39030,6 @@ st= REAL020462
 st= REAL021515
 st= REAL022543
 st= REAL022999
-st= REAL025981
 st= REAL026901
 st= REAL027512
 st= REAL027986
@@ -40480,9 +40479,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005228
 te= Amatører
-ba= ns
-nn= Amatørar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-06-02T13:43:43Z
 
 id= REAL005230
 te= Sikkerhetskopiering
@@ -111680,7 +111678,6 @@ st= REAL015368
 st= REAL015999
 st= REAL017386
 st= REAL018480
-st= REAL022160
 
 id= REAL013689
 te= Miljøgifter
