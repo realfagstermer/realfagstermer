@@ -101986,6 +101986,7 @@ ba= nb
 nn= Brisling
 la= Sprattus sprattus
 tio= 2014-08-25T00:00:00Z
+st= REAL031881
 
 id= REAL012941
 te= Mosdyr
