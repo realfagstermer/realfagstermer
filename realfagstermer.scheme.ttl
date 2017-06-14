@@ -27,6 +27,8 @@ realfagstermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     dcterms:creator library:k ;
     dcterms:contributor library:d ;
     nkos:usedBy library:k , library:d ;
+    owl:sameAs <http://id.loc.gov/vocabulary/subjectSchemes/noubomn> ,
+        <http://www.wikidata.org/entity/Q22927024> ;
     dcterms:language lexvo:eng,
         lexvo:lat,
         lexvo:nno,
