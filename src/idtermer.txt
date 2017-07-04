@@ -629,8 +629,10 @@ st= REAL022059
 id= REAL000082
 te= Antarktisk vegetasjon
 ba= nq
+bf= Antarktisk flora
 nn= Antarktisk vegetasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-03T16:37:07Z
 
 id= REAL000083
 te= Magnetisk kapillærprøving
@@ -7714,12 +7716,16 @@ nn= Blodsugarar
 nn= Parasittologi
 tio= 2014-08-25T00:00:00Z
 tie= 2017-06-22T21:48:50Z
+st= REAL014541
 st= REAL014977
 st= REAL015038
+st= REAL016285
 st= REAL017507
+st= REAL017586
 st= REAL017867
 st= REAL018166
 st= REAL018179
+st= REAL019815
 st= REAL019908
 st= REAL020013
 st= REAL020601
@@ -7727,14 +7733,10 @@ st= REAL022365
 st= REAL024312
 st= REAL024327
 st= REAL025586
+st= REAL026259
 st= REAL026353
 st= REAL027428
 st= REAL029485
-st= REAL014541
-st= REAL016285
-st= REAL017586
-st= REAL019815
-st= REAL026259
 
 id= REAL001005
 te= Sannsynlighetsteori
@@ -8129,7 +8131,9 @@ te= Avrenning
 ba= nb
 ba= nc
 ba= ngh
+bf= Avrenningsområder
 nn= Avrenning
+nn= Avrenningsområde
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001055
@@ -17875,8 +17879,10 @@ ba= nf
 ba= ngh
 ba= nq
 ba= ns
+bf= Forskningsreiser
 nn= Ekspedisjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-03T18:53:45Z
 st= REAL014094
 st= REAL014166
 st= REAL014173
@@ -18576,9 +18582,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002407
 te= Halider
-ba= nc
-nn= Halid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-03T16:33:28Z
+fly= REAL010375
 
 id= REAL002408
 te= Kritiske fenomener
@@ -19333,10 +19339,13 @@ nn= Relaksasjon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002506
-te= Elektronpar
+te= VSEPR-modellen
 ba= nk
+bf= Elektronpar
+nn= VSEPR-modellen
 nn= Elektronpar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-03T17:38:22Z
 
 id= REAL002507
 te= Grytehullsjøer
@@ -20197,8 +20206,10 @@ st= REAL028186
 id= REAL002603
 te= Acyl-halogenider
 ba= nk
+bf= Acyl-halider
 nn= Acyl-halogenid
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-03T16:33:12Z
 
 id= REAL002604
 te= Befolkningsstatistikk
@@ -28198,10 +28209,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003616
 te= Elektronkonfigurasjon
-ba= nk
-ba= na
-nn= Elektronkonfigurasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-03T17:36:52Z
+fly= REAL012150
 
 id= REAL003618
 te= Dioksinderivater
@@ -44894,9 +44904,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005801
 te= Butadien
-ba= nk
-nn= Butadien
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-03T16:44:10Z
 
 id= REAL005802
 te= Intermediater
@@ -46798,8 +46807,10 @@ fly= REAL012478
 id= REAL006046
 te= Bikarbonat
 ba= nb
+bf= Hydrogenkarbonat
 nn= Bikarbonat
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-03T17:32:01Z
 
 id= REAL006047
 te= Edderkoppnett
@@ -54347,9 +54358,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006975
 te= Relativ adressering
-ba= ni
-nn= Relativ adressering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-03T19:26:19Z
 
 id= REAL006976
 te= Krepsefiske
@@ -55830,9 +55840,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007165
 te= Avrenningsområder
-ba= ngh
-nn= Avrenningsområde
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-03T17:25:35Z
+fly= REAL001054
 
 id= REAL007166
 te= Kystområder
@@ -80786,7 +80796,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010375
 te= Halogenider
 ba= nk
+bf= Halider
 nn= Halogenid
+nn= Halid
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010376
@@ -81580,9 +81592,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010490
 te= Bilkollisjoner
-ba= nf
-nn= Bilkollisjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-03T17:41:06Z
 
 id= REAL010491
 te= Biosonering
@@ -81915,9 +81926,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010533
 te= Adressering
-ba= ni
-nn= Adressering
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-03T19:26:04Z
 
 id= REAL010534
 te= Apotekhistorie
@@ -93775,7 +93785,9 @@ tie= 2015-10-12T11:50:50Z
 id= REAL012150
 te= Elektronstruktur
 ba= nk
+bf= Elektronkonfigurasjon
 nn= Elektronstruktur
+nn= Elektronkonfigurasjon
 en= Electronic structure
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-07T10:28:31Z

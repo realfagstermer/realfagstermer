@@ -965,7 +965,10 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030431
 te= Anarjokka
+bf= Anarjohka
+bf= Anárjohka
 tio= 2015-02-20T13:08:04Z
+tie= 2017-07-03T17:20:44Z
 
 id= REAL030432
 te= Abisko
@@ -3079,7 +3082,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030950
 te= Ayers Rock
+bf= Uluru
 tio= 2015-02-20T13:08:04Z
+tie= 2017-07-03T17:26:25Z
 
 id= REAL030951
 te= Averøy
