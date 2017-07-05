@@ -3461,9 +3461,10 @@ ba= nk
 ba= nb
 ba= ne
 so= REAL006282
+so= REAL006971
 nn= Lipid
 tio= 2014-08-25T00:00:00Z
-tie= 2016-07-08T15:34:25Z
+tie= 2017-07-04T14:15:25Z
 st= REAL017104
 st= REAL017970
 st= REAL019011
@@ -21327,10 +21328,9 @@ st= REAL031812
 
 id= REAL002753
 te= Avløp
-ba= ngh
-nn= Avlaup
-nn= Avløp
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-04T14:16:17Z
+fly= REAL003334
 
 id= REAL002754
 te= Bobleøkonomier
@@ -25858,9 +25858,15 @@ id= REAL003334
 te= Avløpsvann
 ba= nb
 ba= ngh
+bf= Avløp
+bf= Gråvann
 nn= Avlaupsvatn
 nn= Avløpsvatn
+nn= Avlaup
+nn= Avløp
+nn= Gråvatn
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-04T14:17:34Z
 st= REAL019287
 
 id= REAL003335
@@ -54328,6 +54334,7 @@ ba= nb
 ba= ne
 ba= ns
 so= REAL006282
+so= REAL000459
 ut= REAL010643
 ut= REAL006794
 nn= Feittsyrer
@@ -73799,9 +73806,9 @@ st= REAL020607
 
 id= REAL009501
 te= Akkvisisjon
-ba= ns
-nn= Akkvisisjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-04T14:25:20Z
+fly= REAL011697
 
 id= REAL009502
 te= Anabole steroider
@@ -82967,10 +82974,11 @@ nn= Turbinar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010679
-te= Akryllipider
-ba= nk
-nn= Akryllipid
+te= Acyllipider
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-04T14:10:05Z
+tis= 2017-07-04T14:15:17Z
+fly= REAL000459
 
 id= REAL010680
 te= Bildeformater
@@ -90497,7 +90505,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011697
 te= Samlingsutvikling
 ba= ns
+bf= Akkvisisjon
 nn= Samlingsutvikling
+nn= Akkvisisjon
 tio= 2014-08-25T00:00:00Z
 st= REAL024075
 
