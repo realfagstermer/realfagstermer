@@ -13298,7 +13298,9 @@ te= Plasma
 ba= nk
 ba= na
 ba= nf
+bf= Ioniserte gasser
 nn= Plasma
+nn= Ioniserte gassar
 tio= 2014-08-25T00:00:00Z
 st= REAL021310
 
@@ -18656,9 +18658,9 @@ tie= 2015-05-19T15:56:02Z
 
 id= REAL002417
 te= Indre organer
-ba= nb
-nn= Indre organ
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-15T20:42:07Z
+fly= REAL006535
 
 id= REAL002418
 te= Airyfunksjoner
@@ -32511,9 +32513,8 @@ st= REAL020271
 
 id= REAL004165
 te= Inspirasjon
-ba= ns
-nn= Inspirasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-15T20:43:08Z
 
 id= REAL004166
 te= Logiske funksjoner
@@ -45043,10 +45044,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005823
 te= Ioniserte gasser
-ba= nk
-ba= na
-nn= Ioniserte gassar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-15T20:44:25Z
+fly= REAL001723
 
 id= REAL005824
 te= Optimalisering
@@ -50904,7 +50904,9 @@ id= REAL006535
 te= Organer
 ba= nb
 ba= ne
+bf= Indre organer
 nn= Organ
+nn= Indre organ
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006536
@@ -52746,10 +52748,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006768
 te= Arbeidsgivere
-ba= ns
-nn= Arbeidsgjevarar
-nn= Arbeidsgivarar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-16T01:17:23Z
 
 id= REAL006769
 te= Kraniet
