@@ -42830,12 +42830,13 @@ nn= Hår
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005538
-te= Graphical kernel system
+te= Graphical Kernel System
 ba= ni
 ak= GKS
-nn= Graphical kernel system
-en= Graphical kernel system
+nn= Graphical Kernel System
+en= Graphical Kernel System
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-18T23:52:42Z
 
 id= REAL005539
 te= Pelikanfugler
