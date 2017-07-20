@@ -1392,10 +1392,13 @@ nn= Kiralitet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000180
-te= Arbeidsløse
+te= Arbeidsløshet
 ba= ns
+bf= Arbeidsløse
+nn= Arbeidslausheit
 nn= Arbeidslause
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-19T15:57:45Z
 
 id= REAL000181
 te= Fuzzy nevroner
@@ -53375,10 +53378,9 @@ fly= REAL006906
 
 id= REAL006856
 te= Bedriftskultur
-ba= ns
-nn= Bedriftskultur
-nn= Føretakskultur
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-19T16:54:59Z
+fly= REAL012755
 
 id= REAL006857
 te= Grotter
@@ -100384,9 +100386,14 @@ st= REAL028381
 
 id= REAL012755
 te= Organisasjonskultur
+bf= Bedriftskultur
+bf= Foretakskultur
 so= REAL004863
 nn= Organisasjonskultur
+nn= Bedriftskultur
+nn= Føretakskultur
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-19T16:55:07Z
 
 id= REAL012757
 te= Organometallisk kjemi
