@@ -1847,8 +1847,10 @@ te= Durham
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030646
-te= Dividal
+te= Øvre Dividal
+bf= Dividal
 tio= 2015-02-20T13:08:04Z
+tie= 2017-07-24T16:26:13Z
 
 id= REAL030647
 te= Dallas
@@ -2258,8 +2260,9 @@ te= Rindal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030746
-te= Dronning Elizabeth-Øyene
+te= Dronning Elizabeth-øyene
 tio= 2015-02-20T13:08:04Z
+tie= 2017-07-24T16:26:26Z
 
 id= REAL030747
 te= Paraguay
@@ -2358,6 +2361,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030770
 te= Newcastle
 tio= 2015-02-20T13:08:04Z
+tis= 2017-07-24T17:41:06Z
 
 id= REAL030771
 te= Nesna
@@ -2708,7 +2712,10 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030857
 te= Glittertinden
+bf= Glittertind
+de= farge
 tio= 2015-02-20T13:08:04Z
+tie= 2017-07-24T17:08:18Z
 
 id= REAL030858
 te= Gjende
@@ -3481,9 +3488,12 @@ ba= nb
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031029
-te= Skjækerfjella
-ba= nb
+te= Blåfjella-Skjækerfjella
+bf= Skjækerfjella
+bf= Blåfjella
+de= nasjonalpark
 tio= 2015-02-20T13:08:04Z
+tie= 2017-07-24T20:25:49Z
 
 id= REAL031030
 te= Sola
@@ -3565,8 +3575,11 @@ te= Agder
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031045
-te= Blåfjella
+te= Skjækerfjella
 tio= 2015-02-20T13:08:04Z
+tie= 2017-07-24T20:27:05Z
+tis= 2017-07-24T20:32:14Z
+fly= REAL031029
 
 id= REAL031046
 te= Franz Josef Land

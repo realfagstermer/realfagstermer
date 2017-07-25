@@ -1340,8 +1340,10 @@ te= Fjellvandring
 ba= nb
 ba= ns
 bf= Fjellturisme
+bf= Fjellturer
 nn= Fjellvandring
 nn= Fjellturisme
+nn= Fjellturar
 tio= 2014-08-25T00:00:00Z
 st= REAL014263
 st= REAL018907
@@ -1350,6 +1352,7 @@ st= REAL020998
 st= REAL021114
 st= REAL023330
 st= REAL023390
+st= REAL027050
 st= REAL027510
 st= REAL027566
 
@@ -1931,8 +1934,10 @@ ba= nc
 ba= ngh
 ba= nm
 ba= ns
+so= REAL012595
 nn= Estuar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-24T23:59:29Z
 st= REAL014642
 st= REAL023493
 
@@ -5023,15 +5028,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000653
 te= Forbindelser
-ba= nk
-ba= nb
-ba= ne
-ba= nm
-ba= ns
-nn= Sambindingar
 tio= 2014-08-25T00:00:00Z
-st= REAL014291
-st= REAL021425
+tis= 2017-07-23T13:20:40Z
+fly= REAL002318
 
 id= REAL000654
 te= Avsmalning
@@ -5793,12 +5792,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000757
 te= Eksplosjoner
-ba= nk
-ba= nb
-ba= nc
-ba= nf
-nn= Eksplosjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-24T22:59:46Z
 
 id= REAL000758
 te= Barkbilleferomoner
@@ -13968,8 +13963,11 @@ fly= REAL009064
 id= REAL001807
 te= Luftballonger
 ba= ns
+bf= Varmluftballonger
+no= Usikker på om litteraturbelegget er varmluftballonger og/eller hydrogenballonger
 nn= Luftballongar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-24T17:16:53Z
 st= REAL018693
 
 id= REAL001809
@@ -15491,10 +15489,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002015
 te= Arabisk vitenskap
-ba= ns
-nn= Arabisk vitskap
 tio= 2014-08-25T00:00:00Z
-st= REAL029643
+tie= 2017-07-24T14:41:57Z
+tis= 2017-07-24T14:42:21Z
+fly= REAL010561
 
 id= REAL002016
 te= Gentranskribering
@@ -17570,7 +17568,9 @@ id= REAL002277
 te= Kjernereaktorer
 ba= nk
 ba= nf
+bf= Fisjonsreaktorer
 nn= Kjernereaktorar
+nn= Fisjonsreaktorar
 tio= 2014-08-25T00:00:00Z
 st= REAL016968
 st= REAL029926
@@ -17837,7 +17837,9 @@ te= Kjemiske forbindelser
 ba= nk
 ba= nb
 ba= ns
+bf= Forbindelser
 nn= Kjemiske sambindingar
+nn= Sambindingar
 tio= 2014-08-25T00:00:00Z
 st= REAL016153
 st= REAL018382
@@ -18487,11 +18489,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002394
 te= Eksplosiver
-ba= nk
-ba= nf
-ba= ns
-nn= Eksplosiv
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-24T22:44:37Z
+fly= REAL011784
 
 id= REAL002395
 te= Marinfysikk
@@ -18732,17 +18732,9 @@ st= REAL029479
 
 id= REAL002426
 te= Fjellturer
-ba= nb
-ba= ns
-nn= Fjellturar
 tio= 2014-08-25T00:00:00Z
-st= REAL014521
-st= REAL018446
-st= REAL020107
-st= REAL021476
-st= REAL023621
-st= REAL027050
-st= REAL027412
+tis= 2017-07-24T16:38:23Z
+fly= REAL000174
 
 id= REAL002427
 te= Ernæringsfysiologi
@@ -24925,11 +24917,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003205
 te= Studieguide
-ba= nk
-nn= Studieguide
-nn= Studiegaid
 tio= 2014-08-25T00:00:00Z
-st= REAL028318
+tis= 2017-07-24T20:35:13Z
 
 id= REAL003206
 te= Versjonskontroll
@@ -33065,10 +33054,12 @@ en= Network services
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004239
-te= Ekstragalaktisk astronomi
+te= Utenomgalaktisk astronomi
 ba= na
+bf= Ekstragalaktisk astronomi
 nn= Ekstragalaktisk astronomi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-24T23:32:33Z
 st= REAL018186
 st= REAL029799
 
@@ -42922,9 +42913,9 @@ tie= 2017-04-06T11:46:25Z
 
 id= REAL005551
 te= Fisjonsreaktorer
-ba= nf
-nn= Fisjonsreaktorar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T00:36:06Z
+fly= REAL002277
 
 id= REAL005552
 te= Fjellsprekker
@@ -46102,7 +46093,8 @@ id= REAL005954
 te= Kjernefysiske eksplosjoner
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-24T18:02:33Z
-tis= 2016-11-24T18:02:33Z
+tis= 2017-07-24T23:03:37Z
+fly= REAL010996
 
 id= REAL005955
 te= Informasjonstilgang
@@ -61501,8 +61493,11 @@ te= Brennstoffer
 ba= nb
 ba= nf
 ba= ngh
+bf= Brennstoff
+so= REAL013832
 nn= Brennstoff
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-24T16:47:55Z
 
 id= REAL007914
 te= Protostjerner
@@ -78029,11 +78024,11 @@ nn= Fargepsykologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010028
-te= Kildehenvisninger
-ba= ne
-ba= ns
-nn= Kjeldetilvisingar
+te= Kildehenvisning
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-24T17:44:14Z
+tis= 2017-07-24T17:45:13Z
+fly= REAL014058
 
 id= REAL010029
 te= Etnofarmasi
@@ -79253,9 +79248,8 @@ st= REAL029948
 
 id= REAL010173
 te= Nevrologer
-ba= ns
-nn= Nevrologar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T00:45:46Z
 
 id= REAL010174
 te= Målinger
@@ -82149,8 +82143,13 @@ st= REAL031739
 id= REAL010561
 te= Islamsk vitenskapshistorie
 ba= ns
+bf= Arabisk vitenskap
+bf= Islamsk vitenskap
+bf= Arabisk vitenskapshistorie
 nn= Islamsk vitskapshistorie
+nn= Arabisk vitskap
 tio= 2014-08-25T00:00:00Z
+st= REAL029643
 
 id= REAL010562
 te= Schizofreni
@@ -85268,6 +85267,7 @@ st= REAL014384
 id= REAL010996
 te= Atomsprengninger
 ba= nc
+bf= Kjernefysiske eksplosjoner
 nn= Atomsprengingar
 tio= 2014-08-25T00:00:00Z
 
@@ -91211,9 +91211,12 @@ id= REAL011784
 te= Sprengstoffer
 ba= nk
 bf= Sprengstoff
+bf= Eksplosiver
+bf= Eksplosivstoffer
 nn= Sprengstoff
+nn= Eksplosiv
 tio= 2014-08-25T00:00:00Z
-tie= 2015-09-21T11:23:25Z
+tie= 2017-07-24T22:44:56Z
 st= REAL020248
 
 id= REAL011785
@@ -98314,11 +98317,13 @@ ba= ngh
 ba= nq
 bf= Elveos
 bf= Elvedeltaer
+so= REAL000251
 nn= Elvemunningar
 nn= Elvedeltaar
 nn= Elvedeltaer
 nn= Elveos
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-24T23:59:28Z
 st= REAL018894
 
 id= REAL012596
@@ -112355,8 +112360,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013732
 te= Anhydrider
-nn= Anhydrid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-24T20:47:18Z
 
 id= REAL013733
 te= Metall-metallbindinger
@@ -114388,8 +114393,11 @@ id= REAL013832
 te= Drivstoffer
 ba= nk
 so= REAL013831
+so= REAL007913
+no= Slå sammen drivstoffer og brennstoffer?
 nn= Drivstoff
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-24T16:48:05Z
 
 id= REAL013833
 te= Grafén
@@ -117091,6 +117099,8 @@ bf= Referanser
 bf= Siteringer
 bf= Henvisningsteknikk
 bf= Litteraturhenvisninger
+bf= Kildehenvisning
+bf= Sitering
 nn= Sitatbruk
 nn= Litteraturtilvisingar
 nn= Referansar
@@ -117098,6 +117108,7 @@ nn= Referansehandtering
 nn= Referering
 nn= Siteringar
 nn= Tilvisingsteknikk
+nn= Kjeldetilvisingar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL014059
