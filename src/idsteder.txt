@@ -2931,7 +2931,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030909
 te= Coloradofjella
+de= fjellmassiv på Spitsbergen
 tio= 2015-02-20T13:08:04Z
+tie= 2017-07-25T12:02:00Z
 
 id= REAL030910
 te= Kina

@@ -436,11 +436,13 @@ tio= 2014-08-25T00:00:00Z
 st= REAL028198
 
 id= REAL000057
-te= Basic
+te= BASIC
 ba= ni
 nn= Basic
 nn= Grunnleggjande
+de= programmeringsspråk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:02:01Z
 
 id= REAL000058
 te= Organotinn
@@ -851,9 +853,8 @@ tis= 2016-11-22T15:35:28Z
 
 id= REAL000112
 te= Digitale lasere
-ba= ns
-nn= Digitale laserar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T11:21:11Z
 
 id= REAL000113
 te= Sterke magnetfelt
@@ -2117,10 +2118,12 @@ nn= Liming
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000275
-te= Eøs
+te= EØS
 ba= ne
+bf= Det europeiske økonomiske samarbeidsområde
 nn= EØS
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T10:08:44Z
 
 id= REAL000276
 te= Flydesign
@@ -3077,8 +3080,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000406
 te= Allozymer
 ba= nb
+bf= Alloenzymer
 nn= Allozym
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T10:10:03Z
 
 id= REAL000408
 te= Feynmanintegraler
@@ -3351,7 +3356,9 @@ st= REAL018955
 id= REAL000440
 te= Isozymer
 ba= nb
+bf= Isoenzymer
 nn= Isozym
+nn= Isoenzym
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000441
@@ -5915,10 +5922,12 @@ id= REAL000770
 te= Kalksteiner
 ba= nc
 bf= Kalkbergarter
+so= REAL012168
 nn= Kalksteinar
 nn= Kalkbergartar
 nn= Kalkbergarter
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T10:52:02Z
 st= REAL021247
 st= REAL023702
 
@@ -13466,12 +13475,13 @@ nn= Global system for mobile communication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001744
-te= Vlsi-design
+te= VLSI-design
 ba= ni
 bf= Vlsi-utlegg
 nn= VLSI-design
 nn= VLSI-utlegg
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:13:27Z
 
 id= REAL001745
 te= Vektorregning
@@ -15380,7 +15390,11 @@ ba= nf
 ba= nm
 ba= ns
 bf= Kolloid
+bf= Kolloide løsninger
+bf= Kolloidkjemi
 nn= Kolloid
+nn= Kolloide løysingar
+nn= Kolloidkjemi
 tio= 2014-08-25T00:00:00Z
 st= REAL018992
 st= REAL028458
@@ -19347,8 +19361,13 @@ id= REAL002506
 te= VSEPR-modellen
 ba= nk
 bf= Elektronpar
+bf= Valence shell electron pair repulsion
+ak= VSEPR
 nn= VSEPR-modellen
 nn= Elektronpar
+nn= Valensskal-elektronpar-fråstøyting
+nn= VSEPR
+nn= Valensskal-elektronpar-fråstøytingsmodellen
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-03T17:38:22Z
 
@@ -21940,11 +21959,12 @@ nn= Cam-plantar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002828
-te= Cp/m
+te= CP/M
 ba= ni
 nn= Cp/m
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:09:33Z
 
 id= REAL002829
 te= Diffusjon
@@ -32608,9 +32628,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004177
 te= Isoenzymer
-ba= nb
-nn= Isoenzym
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T10:04:58Z
+fly= REAL000440
 
 id= REAL004178
 te= Solbeskyttelse
@@ -36079,13 +36099,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004623
 te= Kolloidkjemi
-ba= nk
-ba= nb
-ba= ne
-ba= nf
-nn= Kolloidkjemi
 tio= 2014-08-25T00:00:00Z
-st= REAL014282
+tis= 2017-07-25T10:55:44Z
+fly= REAL002002
 
 id= REAL004624
 te= Suspensjoner
@@ -38995,12 +39011,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005021
 te= Broadband integrated services digital network
-ba= ni
-bf= B-isdn
-ak= BISDN
-nn= Broadband integrated services digital network
-nn= B-isdn
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T11:04:51Z
+fly= REAL012950
 
 id= REAL005022
 te= Orbitalsymmetri
@@ -40276,10 +40289,12 @@ ba= nc
 ba= nf
 bf= Infrarøde stråler
 bf= Infrarødt lys
+bf= Ultrarød stråling
 nn= Infraraud stråling
 nn= Infraraude strålar
 nn= Infraraudt ljos
 nn= Infraraudt lys
+nn= Ultraraud stråling
 en= Infrared radiation
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-07T14:19:41Z
@@ -43357,10 +43372,11 @@ st= REAL020100
 st= REAL026769
 
 id= REAL005613
-te= Codasyl
+te= CODASYL
 ba= ni
 nn= Codasyl
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:07:31Z
 
 id= REAL005614
 te= Flybildeteknikk
@@ -51348,11 +51364,12 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-02-24T11:29:06Z
 
 id= REAL006596
-te= Værmeldinger
+te= Værmelding
 ba= ngh
-nn= Vêrmeldingar
-nn= Vermeldingar
+nn= Vêrmelding
+nn= Vermelding
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:38:17Z
 
 id= REAL006597
 te= Logisk programmering
@@ -52616,9 +52633,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006745
 te= Tilfeldige fordelinger
-ba= nm
-nn= Tilfeldige fordelingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T11:29:55Z
+fly= REAL011070
 
 id= REAL006746
 te= Funksjonalintegraler
@@ -53151,10 +53168,11 @@ nn= Skipsteknikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006825
-te= Filamenter
-ba= na
-nn= Filament
+te= Solfilamenter
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:17:14Z
+tis= 2017-07-25T11:17:22Z
+fly= REAL009657
 
 id= REAL006827
 te= Konveksjon
@@ -56955,8 +56973,10 @@ te= Kosmokjemi
 ba= nk
 ba= na
 ba= nc
+so= REAL008572
 nn= Kosmokjemi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T10:57:27Z
 
 id= REAL007315
 te= Vanadiumgruppen
@@ -59694,11 +59714,12 @@ st= REAL019133
 st= REAL024897
 
 id= REAL007668
-te= Chill
+te= CHILL
 ba= ni
-nn= Chill
+nn= CHILL
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:06:19Z
 
 id= REAL007669
 te= Maya
@@ -59916,11 +59937,12 @@ en= Program verification
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007700
-te= Comal
+te= COMAL
 ba= ni
 nn= Comal
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:09:02Z
 
 id= REAL007701
 te= Anioner
@@ -66757,13 +66779,14 @@ bf= Eksobiologi
 bf= Bioastronomi
 bf= Xenobiologi
 bf= Rombiologi
+so= REAL007314
 nn= Astrobiologi
 nn= Eksobiologi
 nn= Bioastronomi
 nn= Xenobiologi
 nn= Rombiologi
 tio= 2014-08-25T00:00:00Z
-tie= 2017-03-02T18:37:34Z
+tie= 2017-07-25T10:57:27Z
 st= REAL018774
 st= REAL021825
 st= REAL023297
@@ -68726,12 +68749,13 @@ tis= 2017-03-27T17:13:26Z
 fly= REAL009595
 
 id= REAL008829
-te= Vlsi
+te= VLSI
 ba= ni
 nn= VLSI
 nn= Veldig storskala integrasjon
 nn= Very large scale integration
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:13:19Z
 
 id= REAL008830
 te= Anoksi
@@ -71599,9 +71623,9 @@ st= REAL025401
 
 id= REAL009197
 te= Ultrarød stråling
-ba= nk
-nn= Ultraraud stråling
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T11:35:40Z
+fly= REAL005188
 
 id= REAL009198
 te= Varmekjær vegetasjon
@@ -73334,12 +73358,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009433
 te= Valence shell electron pair repulsion
-ba= nk
-ak= VSEPR
-nn= Valensskal-elektronpar-fråstøyting
-nn= VSEPR
-nn= Valensskal-elektronpar-fråstøytingsmodellen
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T10:20:39Z
+fly= REAL002506
 
 id= REAL009434
 te= Systemsikkerhet
@@ -75075,8 +75096,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009657
 te= Solfakler
 ba= na
+bf= Solfilamenter
+bf= Fotosfæriske fakler
+bf= Filamenter
+bf= Fakler
 nn= Solfaklar
+nn= Filament
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:17:51Z
 
 id= REAL009658
 te= Sosiale samfunn
@@ -77901,10 +77928,11 @@ st= REAL017463
 st= REAL023853
 
 id= REAL010011
-te= Bitnet
+te= BITNET
 ba= ni
 nn= Bitnet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T11:02:33Z
 
 id= REAL010012
 te= Strålingsdetektorer
@@ -81958,9 +81986,8 @@ st= REAL028938
 
 id= REAL010535
 te= Codes
-ba= ni
-nn= Codes
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T11:08:16Z
 
 id= REAL010536
 te= Integrerte datasystemer
@@ -85755,8 +85782,10 @@ id= REAL011070
 te= Sannsynlighetsfordelinger
 ba= ni
 bf= Sannsynlighetsdistribusjoner
+bf= Tilfeldige fordelinger
 so= REAL013078
 nn= Sannsynsfordelingar
+nn= Tilfeldige fordelingar
 en= Probability distributions
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-04T17:32:28Z
@@ -85769,10 +85798,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011072
 te= Kolloide løsninger
-ba= nk
-ba= ne
-nn= Kolloide løysingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-25T10:54:45Z
+fly= REAL002002
 
 id= REAL011073
 te= Anvendt og industriell matematikk
@@ -93952,8 +93980,10 @@ id= REAL012168
 te= Kalsiumkarbonat
 ba= ne
 ak= CaCO3
+so= REAL000770
 nn= Kalsiumkarbonat
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-25T10:52:01Z
 
 id= REAL012169
 te= Sølv
@@ -97422,12 +97452,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012503
 te= Forsvar
-ba= nb
-ba= ns
 no= Brukes for militært forsvar. Forsvarsmekanismer brukes innen biologi
-nn= Forsvar
 tio= 2014-08-25T00:00:00Z
-st= REAL021525
+tis= 2017-07-25T11:23:15Z
 
 id= REAL012504
 te= Følbare grensesnitt
@@ -102276,8 +102303,13 @@ st= REAL028085
 id= REAL012950
 te= ISDN
 bf= Integrated services digital network
+bf= Broadband integrated services digital network
+bf= B-isdn
+ak= BISDN
 nn= ISDN
 nn= Integrated services digital network
+nn= Broadband integrated services digital network
+nn= B-isdn
 en= Integrated services digital network
 de= Integrated services digital network
 tio= 2014-08-25T00:00:00Z
@@ -117228,11 +117260,8 @@ tie= 2014-09-12T00:00:00Z
 
 id= REAL031146
 te= Skolebygninger
-nn= Skulebygningar
-nn= Skolebygningar
 tio= 2014-09-29T00:00:00Z
-st= REAL031147
-st= REAL031148
+tis= 2017-07-25T11:57:16Z
 
 id= REAL031159
 te= Radielle basisfunksjoner
