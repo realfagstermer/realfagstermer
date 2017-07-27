@@ -12053,9 +12053,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001557
 te= Armert betong
-ba= nm
-nn= Armert betong
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-27T00:23:52Z
+fly= REAL011065
 
 id= REAL001559
 te= Vassdragsutbygging
@@ -14425,11 +14425,12 @@ nn= Kolorimetri
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001869
-te= Mr-bilder
+te= MR-bilder
 ba= ni
-nn= Mr-bilete
-nn= Mr-bilde
+nn= MR-bilete
+nn= MR-bilde
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-27T00:21:29Z
 
 id= REAL001870
 te= Råvarer
@@ -45702,9 +45703,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005906
 te= Forsterket betong
-ba= nm
-nn= Forsterka betong
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-27T00:24:13Z
+fly= REAL011065
 
 id= REAL005907
 te= Sangere
@@ -85739,7 +85740,11 @@ te= Betong
 ba= nc
 ba= ngh
 ba= nm
+bf= Armert betong
+bf= Forsterket betong
 nn= Betong
+nn= Armert betong
+nn= Forsterka betong
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011066
