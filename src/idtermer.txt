@@ -952,7 +952,9 @@ fly= REAL000806
 id= REAL000126
 te= Kompakte stjerner
 ba= na
+bf= Kompakte objekter
 nn= Kompakte stjerner
+nn= Kompakte objekt
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000127
@@ -4975,10 +4977,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000644
 te= Aktive områder
 ba= na
+so= REAL001543
+no= Litt usikker på om vi trenger å skille mellom aktive områder og solflekker
 nn= Aktive område
-de= Gjelder stjerner
+de= områder på sola med spesielt sterke magnetfelt
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-19T14:10:57Z
+tie= 2017-07-28T01:03:14Z
 st= REAL028102
 
 id= REAL000645
@@ -8451,9 +8455,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001096
 te= Tvillingstjerner
-ba= na
-nn= Tvillingstjerner
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-28T00:49:31Z
+fly= REAL007259
 
 id= REAL001097
 te= Fjæra
@@ -9763,7 +9767,9 @@ id= REAL001267
 te= Skrivekunst
 ba= nm
 ba= ns
+bf= Kreativ skriving
 nn= Skrivekunst
+nn= Kreativ skriving
 tio= 2014-08-25T00:00:00Z
 st= REAL027975
 
@@ -11203,9 +11209,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001446
 te= Kreativ skriving
-ba= ns
-nn= Kreativ skriving
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-27T22:43:04Z
+fly= REAL001267
 
 id= REAL001447
 te= Aeronomi
@@ -11951,8 +11957,10 @@ te= Solflekker
 ba= na
 ba= nf
 ba= ns
+so= REAL000644
 nn= Solflekkar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-28T01:02:45Z
 st= REAL019587
 st= REAL020932
 st= REAL021036
@@ -21061,9 +21069,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002716
 te= Kompakte objekter
-ba= na
-nn= Kompakte objekt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-28T00:32:31Z
+fly= REAL000126
 
 id= REAL002719
 te= Programspesifikasjon
@@ -23237,7 +23245,9 @@ id= REAL002983
 te= Overlevelse
 ba= nb
 ba= nm
+bf= Overlevelsesrate
 nn= Overleving
+nn= Overlevingsrate
 tio= 2014-08-25T00:00:00Z
 st= REAL031451
 
@@ -24905,10 +24915,13 @@ nn= Benzodiazepin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003201
-te= Cp-stjerner
+te= CP-stjerner
 ba= na
+bf= Kjemisk særegne stjerner
+bf= Særegne stjerner
 nn= Cp-stjerner
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-27T23:51:34Z
 
 id= REAL003202
 te= Divisjonsalgoritmer
@@ -30123,9 +30136,8 @@ st= REAL027144
 
 id= REAL003849
 te= Analytisk syntese
-ba= nk
-nn= Analytisk syntese
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-27T23:23:29Z
 
 id= REAL003850
 te= Vannverk
@@ -40996,8 +41008,13 @@ st= REAL024333
 id= REAL005285
 te= Røntgenstjerner
 ba= na
+bf= Røntgenbinærstjerner
+bf= Røntgendobbeltstjerner
+bf= Binære røntgenkilder
 nn= Røntgenstjerner
+nn= Binære røntgenkjelder
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-28T00:45:33Z
 
 id= REAL005287
 te= Vadefugler
@@ -49926,9 +49943,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006433
 te= Enrico fermi
-ba= nk
-nn= Enrico fermi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-28T01:08:04Z
 
 id= REAL006434
 te= Myologi
@@ -51346,9 +51362,9 @@ st= REAL026118
 
 id= REAL006593
 te= Binære røntgenkilder
-ba= na
-nn= Binære røntgenkjelder
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-28T00:46:08Z
+fly= REAL005285
 
 id= REAL006594
 te= Superledende magneter
@@ -56551,11 +56567,13 @@ ba= na
 ba= nf
 bf= Binære stjerner
 bf= Optiske dobbeltstjerner
+bf= Tvillingstjerner
 so= REAL008511
 so= REAL005875
 nn= Dobbeltstjerner
 nn= Optiske dobbeltstjerner
 nn= Binære stjerner
+nn= Tvillingstjerner
 en= Double stars
 en= Binary stars
 en= Optical double stars
@@ -59195,10 +59213,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007606
 te= Flodbølger
 ba= nb
+so= REAL008272
 nn= Flodbølgjer
 nn= Flodbylgjer
 nn= Flodbølger
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-28T01:11:40Z
 
 id= REAL007607
 te= Termofile mikroorganismer
@@ -63622,8 +63642,10 @@ ba= nb
 ba= nm
 ba= nq
 bf= Rettskriving
+bf= Ortografi
 nn= Rettskriving
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-27T22:37:47Z
 st= REAL019952
 
 id= REAL008178
@@ -64336,8 +64358,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008272
 te= Tsunamier
 ba= ngh
+so= REAL007606
 nn= Tsunamiar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-28T01:11:41Z
 st= REAL015770
 
 id= REAL008273
@@ -67004,9 +67028,9 @@ tie= 2015-02-11T00:00:00Z
 
 id= REAL008602
 te= Overlevelsesrate
-ba= nm
-nn= Overlevingsrate
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-27T23:07:50Z
+fly= REAL002983
 
 id= REAL008603
 te= Eoliske landsformer
@@ -72835,7 +72859,9 @@ id= REAL009360
 te= Oberon
 ba= ni
 nn= Oberon
+de= programmeringsspråk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-27T22:34:24Z
 
 id= REAL009361
 te= Symbolgjenkjenning
@@ -75803,13 +75829,13 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-02-09T00:00:00Z
 
 id= REAL009758
-te= Ob-stjerner
+te= OB-stjerner
 ba= na
-bf= Ob-type
-nn= Ob-stjerner
-nn= Ob-type
+bf= OB-type
+nn= OB-stjerner
+nn= OB-type
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-29T11:35:09Z
+tie= 2017-07-28T00:42:50Z
 
 id= REAL009759
 te= Blåsyre
@@ -78679,8 +78705,10 @@ tie= 2017-01-25T10:01:43Z
 id= REAL010106
 te= Kroppsøving
 ba= nk
+bf= Gym
 nn= Kroppsøving
 tio= 2014-08-25T00:00:00Z
+tie= 2017-07-27T22:40:09Z
 st= REAL015499
 st= REAL017808
 
@@ -90479,9 +90507,8 @@ st= REAL029783
 
 id= REAL011689
 te= C-stjerne
-ba= nm
-nn= C-stjerne
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-27T23:48:24Z
 
 id= REAL011690
 te= Homeomorfi
@@ -90989,12 +91016,13 @@ tis= 2017-03-07T19:18:04Z
 fly= REAL006137
 
 id= REAL011755
-te= Ae-stjerner
+te= Herbig Ae/Be-stjerner
 ba= na
 bf= Ae-type
+bf= Ae-stjerner
 nn= Ae-type
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-29T11:28:15Z
+tie= 2017-07-27T23:43:52Z
 
 id= REAL011756
 te= Plastteknikker
@@ -92802,9 +92830,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011984
 te= Massive stjerner
-ba= na
-nn= Massive stjerner
 tio= 2014-08-25T00:00:00Z
+tis= 2017-07-28T00:39:52Z
 
 id= REAL011985
 te= Ytelse
