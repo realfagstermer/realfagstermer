@@ -1849,8 +1849,9 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030646
 te= Øvre Dividal
 bf= Dividal
+de= nasjonalpark
 tio= 2015-02-20T13:08:04Z
-tie= 2017-07-24T16:26:13Z
+tie= 2017-07-31T16:30:48Z
 
 id= REAL030647
 te= Dallas

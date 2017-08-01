@@ -114,7 +114,7 @@ def task_build_core():
         # 1) MARC21
         # marc21options = {
         #     'vocabulary_code': 'noubomn',
-        #     'created_by': 'NoOU',
+        #     'created_by': 'NO-TrBIB',
         #     'mappings_from': ['src/lambda.rdf']
         # }
         # roald.export('dist/%s.marc21.xml' %
@@ -174,7 +174,7 @@ def task_build_extras():
         # 1) MARC21 with $9 fields for CCMapper
         marc21options = {
             'vocabulary_code': 'noubomn',
-            'created_by': 'NoOU',
+            'created_by': 'NO-TrBIB',
             'mappings_from': [
                 'src/hume.rdf',
             ],
@@ -187,7 +187,7 @@ def task_build_extras():
         # 1) MARC21 for Alma and general use
         marc21options = {
             'vocabulary_code': 'noubomn',
-            'created_by': 'NoOU',
+            'created_by': 'NO-TrBIB',
             'mappings_from': [
                 'src/mumapper.rdf',     # Tekord mappings
                 'src/hume.rdf',         # Humord mappings
