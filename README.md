@@ -57,6 +57,8 @@ Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
   Hege Folkestad, klassifiserer biovitenskap.
 * [@jw-geo](https://github.com/jw-geo) :
   Johannes Wiest, student, klassifiserer geologi.
+* [@beatekh](https://github.com/beatekh) :
+  Beate Krøvel Humberset, klassifiserer matematikk, informatikk og fysikk (tar over for @mittinatten).
 * [@mittinatten](https://github.com/mittinatten) :
   Simon Mitternacht, klassifiserer matematikk, informatikk og fysikk (teoretisk).
 * [@mzyg](https://github.com/mzyg) :
