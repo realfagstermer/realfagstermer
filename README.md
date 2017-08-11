@@ -28,7 +28,9 @@ Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 * [@ewinge](https://github.com/ewinge) :
   Erik Winge, utvikler Neo (og juridiske emneord, m.m.).
 * [@grosyn](https://github.com/grosyn) :
-  Gro Synnøve Nesland Lindgaard, klassifiserer for biblioteket ved Naturhistorisk museum.
+  Gro Synnøve Nesland Lindgaard, klassifiserer for biblioteket ved Naturhistorisk museum.
+* [@haraldse](https://github.com/haraldse) :
+  Kirsten Borse Haraldsen, klassifiserer biovitenskap.
 * [@henriasv](https://github.com/henriasv) :
   Henrik Andersen Sveinsson, klassifiserer fysikk.
 * [@iloveyellow](https://github.com/iloveyellow) :
