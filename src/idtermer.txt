@@ -344,9 +344,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000047
 te= Landdyr
-ba= nb
-nn= Landdyr
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T11:22:12Z
+fly= REAL006961
 
 id= REAL000048
 te= Komponenter
@@ -11635,10 +11635,9 @@ st= REAL025987
 
 id= REAL001492
 te= Vitenskapelige ekspedisjoner
-ba= na
-nn= Vitskaplege ekspedisjonar
-nn= Vitskapelege ekspedisjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T14:47:48Z
+fly= REAL002323
 
 id= REAL001493
 te= Marin produksjon
@@ -12055,9 +12054,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001551
 te= Terrestrisk dyregeografi
-ba= nb
-nn= Terrestrisk dyregeografi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T11:19:51Z
+fly= REAL006961
 
 id= REAL001552
 te= Ammonium
@@ -14493,9 +14492,9 @@ st= REAL028475
 
 id= REAL001872
 te= Terrestriske leddyr
-ba= nb
-nn= Terrestriske leddyr
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T11:20:53Z
+fly= REAL006961
 
 id= REAL001873
 te= Sosiale problemer
@@ -17973,7 +17972,19 @@ ba= ngh
 ba= nq
 ba= ns
 bf= Forskningsreiser
+bf= Naturvitenskapelige ekspedisjoner
+bf= Vitenskapelige reiser
+bf= Vitenskapelige ekspedisjoner
+bf= Oppdagelsesreiser
 nn= Ekspedisjonar
+nn= Naturvitskaplege ekspedisjonar
+nn= Naturvitskapelege ekspedisjonar
+nn= Vitskaplege reiser
+nn= Vitskapelege reiser
+nn= Vitskaplege ekspedisjonar
+nn= Vitskapelege ekspedisjonar
+nn= Oppdagingsreiser
+nn= Oppdagingsferder
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-03T18:53:45Z
 st= REAL014094
@@ -18035,6 +18046,13 @@ st= REAL028973
 st= REAL029474
 st= REAL029785
 st= REAL029904
+st= REAL023012
+st= REAL014774
+st= REAL015485
+st= REAL017153
+st= REAL019015
+st= REAL021536
+st= REAL026154
 
 id= REAL002324
 te= Globale klimasystemer
@@ -18069,7 +18087,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002329
 te= Tilfeldige variabler
 ba= nm
+bf= Stokastiske variable
 nn= Tilfeldige variablar
+nn= Stokastiske variablar
+en= Stochastic variables
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002330
@@ -20865,11 +20886,9 @@ st= REAL029658
 
 id= REAL002684
 te= Vitenskapelige reiser
-ba= na
-nn= Vitskaplege reiser
-nn= Vitskapelege reiser
 tio= 2014-08-25T00:00:00Z
-st= REAL029979
+tis= 2017-08-11T14:47:13Z
+fly= REAL002323
 
 id= REAL002685
 te= Analystisk ekstraksjon
@@ -22919,9 +22938,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002933
 te= Terrestriske dyr
-ba= nb
-nn= Terrestriske dyr
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T11:21:31Z
+fly= REAL006961
 
 id= REAL002934
 te= Alkyner
@@ -24782,22 +24801,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003173
 te= Kryptogamer
-ba= nk
-ba= nb
-ba= nq
-ba= ns
-nn= Kryptogamar
 tio= 2014-08-25T00:00:00Z
-st= REAL014751
-st= REAL015135
-st= REAL015442
-st= REAL017006
-st= REAL017511
-st= REAL017587
-st= REAL021519
-st= REAL022513
-st= REAL023520
-st= REAL025636
+tis= 2017-08-11T11:29:21Z
+fly= REAL006199
 
 id= REAL003174
 te= Familieforhold
@@ -31157,9 +31163,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003977
 te= Kvinnelige forskere
-ba= nb
-nn= Kvinnelege forskarar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T11:47:57Z
+fly= REAL013266
 
 id= REAL003978
 te= Papegøyer
@@ -34424,14 +34430,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004401
 te= Naturvitenskapelige ekspedisjoner
-ba= nb
-ba= ngh
-nn= Naturvitskaplege ekspedisjonar
-nn= Naturvitskapelege ekspedisjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL022091
-st= REAL023012
-st= REAL029683
+tis= 2017-08-11T14:47:00Z
+fly= REAL002323
 
 id= REAL004402
 te= Fuzzy klassifikasjon
@@ -39242,11 +39243,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005041
 te= Samfunnsmessige påvirkninger
-ba= ni
-nn= Samfunnsmessige påverknader
-nn= Samfunnsmessige påverknadar
 tio= 2014-08-25T00:00:00Z
-st= REAL028147
+tis= 2017-08-11T11:37:48Z
+fly= REAL010858
 
 id= REAL005042
 te= Skogsykdommer
@@ -39885,10 +39884,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005126
 te= Geologiske prosesser
-ba= nc
-ba= ngh
-nn= Geologiske prosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T10:47:38Z
 
 id= REAL005127
 te= Kapillærprøving
@@ -40492,9 +40489,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005205
 te= Avkastning
-ba= ngh
-nn= Avkasting
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T14:35:52Z
 
 id= REAL005207
 te= Cytokromer
@@ -48057,9 +48053,21 @@ te= Sporeplanter
 ba= nb
 ba= ngh
 ba= nq
+bf= Kryptogamer
 nn= Sporeplanter
 nn= Sporeplantar
+nn= Kryptogamar
 tio= 2014-08-25T00:00:00Z
+st= REAL014751
+st= REAL015135
+st= REAL015442
+st= REAL017006
+st= REAL017511
+st= REAL017587
+st= REAL021519
+st= REAL022513
+st= REAL023520
+st= REAL025636
 
 id= REAL006200
 te= Makroalger
@@ -54346,9 +54354,16 @@ ba= nk
 ba= nb
 ba= nc
 ba= nq
+bf= Terrestriske økosystemer
+bf= Terrestriske miljøer
 nn= Terrestrisk økologi
+nn= Terrestriske økosystem
+nn= Terrestriske miljø
 tio= 2014-08-25T00:00:00Z
+tie= 2017-08-11T11:23:29Z
 st= REAL023565
+st= REAL024054
+st= REAL025854
 
 id= REAL006962
 te= Ansiktgjenkjenning
@@ -54377,11 +54392,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006966
 te= Løvsporeplanter
-ba= nb
-ba= nq
-nn= Lauvsporeplanter
-nn= Lauvsporeplantar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T11:34:50Z
 
 id= REAL006967
 te= Komparativ biokjemi
@@ -54589,10 +54601,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006995
 te= Stokastiske variable
-ba= ni
-nn= Stokastiske variablar
-en= Stochastic variables
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T14:29:57Z
+fly= REAL002329
 
 id= REAL006996
 te= Elektrokardiogram
@@ -55756,10 +55767,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007144
 te= Geologisk ordbok
-ba= nc
-ba= ngh
-nn= Geologisk ordbok
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T10:36:53Z
 
 id= REAL007146
 te= Energiøkonomisering
@@ -58267,7 +58276,9 @@ ba= nc
 ba= ngh
 ba= nq
 ba= ns
+bf= Eutrofe vann
 nn= Eutrofiering
+nn= Eutrofe vatn
 tio= 2014-08-25T00:00:00Z
 st= REAL015172
 st= REAL017898
@@ -62935,10 +62946,8 @@ st= REAL025652
 
 id= REAL008081
 te= Geologiske krefter
-ba= ngh
-nn= Geologiske krefter
-nn= Geologiske krafter
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T10:44:30Z
 
 id= REAL008082
 te= Urtehager
@@ -65526,11 +65535,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008417
 te= Geologiske severdigheter
-ba= nc
-ba= ngh
-ba= nq
-nn= Geologiske sjåverde
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T10:49:23Z
 
 id= REAL008418
 te= Programbibliotek
@@ -73069,10 +73075,8 @@ fly= REAL010056
 
 id= REAL009380
 te= Geologiske selskap
-ba= nc
-nn= Geologiske selskap
 tio= 2014-08-25T00:00:00Z
-st= REAL019486
+tis= 2017-08-11T10:48:35Z
 
 id= REAL009381
 te= B-celler
@@ -76005,10 +76009,9 @@ fly= REAL012805
 
 id= REAL009775
 te= Terrestriske miljøer
-ba= nk
-ba= nb
-nn= Terrestriske miljø
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T11:19:33Z
+fly= REAL006961
 
 id= REAL009776
 te= Sorteringsalgoritmer
@@ -77062,9 +77065,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009906
 te= Eutrofe vann
-ba= nb
-nn= Eutrofe vatn
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T11:25:54Z
+fly= REAL007472
 
 id= REAL009907
 te= Urinstoffer
@@ -81133,20 +81136,9 @@ tis= 2017-01-24T15:51:50Z
 
 id= REAL010403
 te= Oppdagelsesreiser
-ba= nb
-ba= ns
-nn= Oppdagingsreiser
-nn= Oppdagingsferder
 tio= 2014-08-25T00:00:00Z
-st= REAL014774
-st= REAL014913
-st= REAL015485
-st= REAL017153
-st= REAL019015
-st= REAL021536
-st= REAL022523
-st= REAL026154
-st= REAL027004
+tis= 2017-08-11T14:50:44Z
+fly= REAL002323
 
 id= REAL010404
 te= Optimale algoritmer
@@ -82335,9 +82327,8 @@ fly= REAL011374
 
 id= REAL010572
 te= Geologiske enheter
-ba= nc
-nn= Geologiske einingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T10:35:41Z
 
 id= REAL010573
 te= Geografiske modeller
@@ -83253,10 +83244,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010697
 te= Landrovdyr
-ba= nb
-nn= Landrovdyr
 tio= 2014-08-25T00:00:00Z
-st= REAL024054
+tis= 2017-08-11T11:23:19Z
+fly= REAL006961
 
 id= REAL010698
 te= Geografer
@@ -83617,10 +83607,9 @@ st= REAL015031
 
 id= REAL010748
 te= Terrestriske økosystemer
-ba= nb
-nn= Terrestriske økosystem
 tio= 2014-08-25T00:00:00Z
-st= REAL025854
+tis= 2017-08-11T11:19:21Z
+fly= REAL006961
 
 id= REAL010749
 te= Infeksjonsbiologi
@@ -84372,13 +84361,18 @@ bf= Sosiale forandringer
 bf= Sosiale endringer
 bf= Samfunnsendringer
 bf= Samfunnsutvikling
+bf= Samfunnsmessige påvirkninger
+no= Brukes i streng
 nn= Sosial endring
 nn= Sosiale endringar
 nn= Sosiale forandringar
 nn= Samfunnsendringar
 nn= Samfunnsutvikling
+nn= Samfunnsmessige påverknader
+nn= Samfunnsmessige påverknadar
 tio= 2014-08-25T00:00:00Z
-tie= 2017-06-01T18:37:44Z
+tie= 2017-08-11T11:38:01Z
+st= REAL028147
 
 id= REAL010859
 te= Protonledningsevne
@@ -87731,9 +87725,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011325
 te= Geologisk materiale
-ba= nc
-nn= Geologisk materiale
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-11T10:06:22Z
 
 id= REAL011326
 te= Mitokondrielt DNA
@@ -105625,33 +105618,14 @@ te= Akademikere
 ba= nq
 ba= ns
 so= REAL013266
-so= REAL013265
 nn= Akademikarar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013265
 te= Vitenskapsmenn
-ba= na
-ba= nf
-ba= ns
-bf= Vitenskapskvinner
-so= REAL013266
-so= REAL013264
-nn= Vitskapsmenn
-nn= Vitskapskvinner
 tio= 2014-08-25T00:00:00Z
-st= REAL015409
-st= REAL018015
-st= REAL019049
-st= REAL020658
-st= REAL023062
-st= REAL024003
-st= REAL025917
-st= REAL026790
-st= REAL027941
-st= REAL028867
-st= REAL029005
-st= REAL029150
+tis= 2017-08-11T11:47:46Z
+fly= REAL013266
 
 id= REAL013266
 te= Forskere
@@ -105662,26 +105636,38 @@ ba= nf
 ba= nm
 ba= nq
 ba= ns
-so= REAL013265
+bf= Vitenskapsmenn
+bf= Vitenskapskvinner
+bf= Kvinnelige forskere
 so= REAL013264
 so= REAL002815
 so= REAL010279
 so= REAL004488
-so= REAL003977
 nn= Forskarar
+nn= Vitskapsmenn
+nn= Vitskapskvinner
+nn= Kvinnelege forskarar
 tio= 2014-08-25T00:00:00Z
 st= REAL015200
 st= REAL016695
+st= REAL018015
+st= REAL019049
 st= REAL019358
+st= REAL020658
 st= REAL021739
 st= REAL023327
 st= REAL023824
+st= REAL024003
 st= REAL024651
+st= REAL025917
 st= REAL026274
+st= REAL026790
 st= REAL027172
 st= REAL027335
 st= REAL027606
+st= REAL027941
 st= REAL028302
+st= REAL028867
 st= REAL029902
 st= REAL029951
 
@@ -119782,4 +119768,19 @@ la= Hemichordata
 de= Marin dyrerekke
 tio= 2017-08-09T13:29:21Z
 tie= 2017-08-09T13:31:55Z
+
+id= REAL031883
+te= Tilfeldige matriser
+bf= Stokastiske matriser
+bf= Stokastisk matriseteori
+bf= Tilfeldig matriseteori
+nn= Tilfeldige matriser
+nn= Stokastiske matriser
+nn= Tilfeldig matriseteori
+nn= Stokastisk matriseteori
+en= Random matrices
+en= Random matrix theory
+de= Matrise hvis alle elementer er tilfeldige variabler
+tio= 2017-08-11T14:22:46Z
+tie= 2017-08-11T14:24:29Z
 

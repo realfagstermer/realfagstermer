@@ -232,6 +232,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030255
 te= Romsdal
 tio= 2015-02-20T13:08:04Z
+tis= 2017-08-11T14:32:31Z
+fly= REAL030780
 
 id= REAL030256
 te= Nordkalotten
@@ -280,6 +282,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030267
 te= Møre
 tio= 2015-02-20T13:08:04Z
+tis= 2017-08-11T14:32:26Z
+fly= REAL030780
 
 id= REAL030268
 te= Vestfold
@@ -2402,9 +2406,9 @@ te= Møsstrond
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030780
-te= Møre Og Romsdal
+te= Møre og Romsdal
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:26:09Z
+tie= 2017-08-11T14:32:39Z
 
 id= REAL030781
 te= Mølen
