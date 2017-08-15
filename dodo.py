@@ -26,6 +26,7 @@ config = {
 
 DOIT_CONFIG = {
     'default_tasks': [
+        'fetch_core:src/sonja_todo.json',
         'git-push',
         'build-solr-json',
         'publish-dumps',
@@ -54,8 +55,12 @@ def task_fetch_core():
             'local': 'src/idtider.txt'},
         {'remote': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idstrenger.txt',
             'local': 'src/idstrenger.txt'},
-        {'remote': 'https://rawgit.com/scriptotek/data_ub_ontology/master/ub-onto.ttl',
-            'local': 'src/ub-onto.ttl'}
+        {'remote': 'https://raw.githubusercontent.com/scriptotek/data_ub_ontology/master/ub-onto.ttl',
+            'local': 'src/ub-onto.ttl'},
+        {'remote': 'https://raw.githubusercontent.com/realfagstermer/prosjekt-kinderegg/master/sonja_todo.json',
+            'local': 'src/sonja_todo.json'},
+        {'remote': 'https://raw.githubusercontent.com/realfagstermer/prosjekt-kinderegg/master/categories_and_mappings.ttl',
+            'local': 'src/categories_and_mappings.ttl'},
     ]:
         yield {
             'name': file['local'],
@@ -81,8 +86,8 @@ def task_fetch_extras():
             'local': 'src/hume.rdf'},
         {'remote': 'https://lambda.biblionaut.net/ccmapper_ddc.rdf',
             'local': 'src/ddc.rdf'},
-        {'remote': 'https://rawgit.com/realfagstermer/prosjekt-kinderegg/master/data-skosxl.ttl',
-            'local': 'src/kinderegg.ttl'},
+        # {'remote': 'https://rawgit.com/realfagstermer/prosjekt-kinderegg/master/categories_and_mappings.ttl',
+        #     'local': 'src/categories_and_mappings.ttl'},
     ]:
         yield {
             'name': file['local'],
@@ -162,14 +167,15 @@ def task_build_extras():
         includes = [
             '%s.scheme.ttl' % config['basename'],
             'src/ub-onto.ttl',
-            # 'src/nynorsk.ttl'
+            # 'src/nynorsk.ttl',
+            'src/categories_and_mappings.ttl',
         ]
 
         mappings = [
             'src/mumapper.rdf',
-            'src/kinderegg.ttl',
             'src/hume.rdf',
             'src/ddc.rdf',
+            'src/categories_and_mappings.ttl',
         ]
 
         # 1) MARC21 with $9 fields for CCMapper
@@ -193,6 +199,7 @@ def task_build_extras():
                 'src/mumapper.rdf',     # Tekord mappings
                 'src/hume.rdf',         # Humord mappings
                 'src/ddc.rdf',          # Dewey mappings (from CCMapper)
+                'src/categories_and_mappings.ttl',    # Wikidata mappings (from Soksed)
             ],
             'include_extras': False
         }
@@ -222,6 +229,7 @@ def task_build_extras():
             'src/hume.rdf',
             'src/ddc.rdf',
             # 'src/nynorsk.ttl',
+            'src/categories_and_mappings.ttl',
             'src/ub-onto.ttl',
             '%s.scheme.ttl' % config['basename']
         ],
