@@ -81,8 +81,8 @@ def task_fetch_extras():
             'local': 'src/hume.rdf'},
         {'remote': 'https://lambda.biblionaut.net/ccmapper_ddc.rdf',
             'local': 'src/ddc.rdf'},
-        #{'remote': 'https://rawgit.com/realfagstermer/prosjekt-nynorsk/master/data-verified.ttl',
-        #    'local': 'src/nynorsk.ttl'},
+        {'remote': 'https://rawgit.com/realfagstermer/prosjekt-kinderegg/master/data-skosxl.ttl',
+            'local': 'src/kinderegg.ttl'},
     ]:
         yield {
             'name': file['local'],
@@ -167,6 +167,7 @@ def task_build_extras():
 
         mappings = [
             'src/mumapper.rdf',
+            'src/kinderegg.ttl',
             'src/hume.rdf',
             'src/ddc.rdf',
         ]
