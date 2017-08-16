@@ -1,9 +1,11 @@
 id= REAL030200
 te= Europa
+en= Europe
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030201
 te= Sverige
+en= Sweden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030202
@@ -12,18 +14,22 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030203
 te= Svalbard
+en= Svalbard
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030204
 te= Afrika
+en= Africa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030205
 te= Danmark
+en= Denmark
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030206
 te= Antarktis
+en= Antarctic
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030207
@@ -34,6 +40,9 @@ id= REAL030208
 te= Oslo
 bf= Kristiania
 bf= Christiania
+en= Oslo
+en= Christiania
+en= Kristiania
 tio= 2015-02-20T13:08:04Z
 tie= 2016-05-24T14:29:38Z
 
@@ -46,22 +55,28 @@ tie= 2015-03-09T13:46:28Z
 
 id= REAL030210
 te= England
+en= England
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030211
 te= Grønland
+en= Greenland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030212
 te= Australia
+en= Australia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030213
 te= Amerika
+en= America
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030214
 te= Frankrike
+en= France
+en= French Republic
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030215
@@ -74,10 +89,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030217
 te= Skandinavia
+en= Scandinavia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030218
 te= Sveits
+en= Switzerland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030219
@@ -86,6 +103,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030220
 te= Asia
+en= Asia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030221
@@ -100,6 +118,7 @@ tie= 2014-11-12T00:00:00Z
 
 id= REAL030223
 te= Japan
+en= Japan
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030224
@@ -116,10 +135,13 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030227
 te= Kanariøyene
+en= Canary Islands
+en= Canaries
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030228
 te= India
+en= India
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030229
@@ -128,6 +150,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030230
 te= Alaska
+en= Alaska
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030231
@@ -144,6 +167,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030234
 te= Brasil
+en= Brazil
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030235
@@ -152,6 +176,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030236
 te= Spitsbergen
+en= Spitsbergen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030237
@@ -172,6 +197,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030241
 te= Stillehavet
+en= Pacific Ocean
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030242
@@ -180,6 +206,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030243
 te= Etiopia
+en= Ethiopia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030244
@@ -188,6 +215,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030245
 te= New Zealand
+en= New Zealand
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030246
@@ -199,14 +227,18 @@ tie= 2016-11-08T13:20:42Z
 
 id= REAL030247
 te= Hordaland
+en= Hordaland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030248
 te= Ungarn
+en= Hungary
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030249
 te= Portugal
+en= Portugal
+en= Portuguese Republic
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030250
@@ -219,6 +251,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030252
 te= Belgia
+en= Belgium
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030253
@@ -231,6 +264,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030255
 te= Romsdal
+en= Romsdal
 tio= 2015-02-20T13:08:04Z
 tie= 2017-08-11T14:32:31Z
 tis= 2017-08-11T14:32:31Z
@@ -242,6 +276,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030257
 te= Færøyene
+en= Faroe islands
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030258
@@ -250,18 +285,22 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030259
 te= Estland
+en= Estonia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030260
 te= Alpene
+en= Alps
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030261
 te= Egypt
+en= Egypt
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030262
 te= Grønlandshavet
+en= Greenland Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030263
@@ -274,6 +313,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030265
 te= Tanzania
+en= Tanzania
+en= United Republic of Tanzania
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030266
@@ -289,10 +330,12 @@ fly= REAL030780
 
 id= REAL030268
 te= Vestfold
+en= Vestfold
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030269
 te= Hardangervidda
+en= Hardangervidda
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030270
@@ -301,6 +344,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030271
 te= Madeira
+en= Madeira
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030272
@@ -325,6 +369,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030277
 te= Chile
+en= Chile
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030278
@@ -349,16 +394,19 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030283
 te= Gardermoen
+en= Gardermoen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030284
 te= Amazonas
+en= Amazon basin
 de= nedbørsfelt som strekker seg over flere land i Sør-Amerika og inkluderer Amazonas-elven og -regnskogen
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-04T14:32:05Z
 
 id= REAL030285
 te= Bergen
+en= Bergen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030287
@@ -367,10 +415,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030288
 te= Aust-Agder
+en= Aust-Agder
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030289
 te= Argentina
+en= Argentina
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030290
@@ -383,14 +433,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030292
 te= Jan Mayen
+en= Jan Mayen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030293
 te= Israel
+en= Israel
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030294
 te= Bjørnøya
+en= Bear Island
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030295
@@ -415,10 +468,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030300
 te= Iran
+en= Iran
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030301
 te= Dovrefjell
+en= Dovrefjell
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030302
@@ -438,6 +493,7 @@ tie= 2015-10-14T14:12:13Z
 
 id= REAL030305
 te= Akershus
+en= Akershus
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030306
@@ -477,6 +533,7 @@ tie= 2016-05-24T14:21:58Z
 
 id= REAL030314
 te= Kreta
+en= Crete
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030315
@@ -485,6 +542,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030316
 te= Cambridge
+en= Cambridge
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030317
@@ -504,17 +562,20 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030320
 te= Jotunheimen
+en= Jotunheimen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030321
 te= Indiske Hav
 bf= Indiahavet
 bf= Det indiske hav
+en= Indian Ocean
 tio= 2015-02-20T13:08:04Z
 tie= 2016-11-08T13:17:27Z
 
 id= REAL030322
 te= Atlanterhavet
+en= Atlantic Ocean
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030323
@@ -523,10 +584,13 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030324
 te= Venezuela
+en= Venezuela
+en= Bolivarian Republic of Venezuela
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030325
 te= Ukraina
+en= Ukraine
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030326
@@ -535,18 +599,23 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030327
 te= Palestina
+en= State of Palestine
+en= Palestine
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030328
 te= Bolivia
+en= Bolivia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030329
 te= Bayern
+en= Bavaria
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030330
 te= Vest-Agder
+en= Vest-Agder
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030331
@@ -567,26 +636,33 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030335
 te= Canada
+en= Canada
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030336
 te= Gudbrandsdalen
+en= Gudbrandsdalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030337
 te= Finse
+en= Finse
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030338
 te= Ecuador
+en= Republic of Ecuador
+en= Ecuador
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030339
 te= Colombia
+en= Colombia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030340
 te= Bærum
+en= Bærum
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030341
@@ -623,6 +699,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030348
 te= Syria
+en= Syria
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030349
@@ -651,6 +728,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030354
 te= Helgeland
+en= Helgeland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030355
@@ -659,14 +737,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030356
 te= Bulgaria
+en= Bulgaria
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030357
 te= Amsterdam
+en= Amsterdam
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030358
 te= Alta
+en= Alta
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030359
@@ -679,6 +760,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030361
 te= Vest-Afrika
+en= West Africa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030362
@@ -723,6 +805,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030371
 te= Libanon
+en= Lebanon
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030372
@@ -735,26 +818,32 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030374
 te= Gotland
+en= Gotland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030375
 te= Falklandsøyene
+en= Falkland islands
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030376
 te= Eurasia
+en= Eurasia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030377
 te= Dovre
+en= Dovre
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030378
 te= Costa Rica
+en= Costa Rica
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030379
 te= Balearene
+en= Balearic Islands
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030380
@@ -771,6 +860,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030383
 te= Svartehavet
+en= Black Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030384
@@ -783,6 +873,10 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030386
 te= Rødehavet
+en= Red sea
+en= The erythraean Sea
+en= Erythraean Sea
+en= The red sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030387
@@ -795,10 +889,13 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030389
 te= Pasvik
+en= Pasvik
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030390
 te= Novaja Zemlja
+en= Novaya Zemlya
+en= Nova Zembla
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030391
@@ -807,6 +904,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030392
 te= Mexicogulfen
+en= Gulf of Mexico
+en= The Gulf of Mexico
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030393
@@ -815,6 +914,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030394
 te= Kattegat
+en= Kattegat
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030395
@@ -845,14 +945,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030401
 te= Great Barrier Reef
+en= Great Barrier Reef
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030402
 te= Drammen
+en= Drammen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030403
 te= Cuba
+en= Cuba
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030404
@@ -861,6 +964,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030405
 te= Berlin
+en= Berlin
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030406
@@ -872,10 +976,12 @@ fly= REAL030246
 
 id= REAL030407
 te= Australasia
+en= Australasia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030408
 te= Asker
+en= Asker
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030409
@@ -901,10 +1007,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030413
 te= Stabbursdalen
+en= Stabbursdalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030414
 te= Praha
+en= Prague
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030415
@@ -933,6 +1041,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030421
 te= Hamburg
+en= Hamburg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030422
@@ -941,22 +1050,27 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030423
 te= Filippinene
+en= Philippines
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030424
 te= Elfenbenskysten
+en= Ivory Coast
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030425
 te= Edinburgh
+en= Edinburgh
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030426
 te= Colorado
+en= Colorado
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030427
 te= Bømlo
+en= Bømlo
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030428
@@ -975,11 +1089,13 @@ id= REAL030431
 te= Anarjokka
 bf= Anarjohka
 bf= Anárjohka
+en= Anarjohka
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-03T17:20:44Z
 
 id= REAL030432
 te= Abisko
+en= Abisko
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030433
@@ -989,6 +1105,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030434
 te= Zambia
+en= Zambia
+en= Republic of Zambia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030435
@@ -1017,6 +1135,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030441
 te= Setesdal
+en= Setesdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030442
@@ -1025,6 +1144,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030443
 te= Numedal
+en= Numedal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030444
@@ -1037,6 +1157,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030446
 te= Luxemburg
+en= Luxembourg
+en= Grand Duchy of Luxembourg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030447
@@ -1057,6 +1179,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030451
 te= Kongsberg
+en= Kongsberg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030452
@@ -1070,6 +1193,7 @@ tie= 2016-11-08T13:20:15Z
 
 id= REAL030454
 te= Karahavet
+en= Kara Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030455
@@ -1095,26 +1219,34 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030461
 te= Hardanger
+en= Hardanger
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030462
 te= Gulehavet
+en= Yellow sea
+en= Hanja
+en= Hangul
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030463
 te= Glomma
+en= Glomma
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030464
 te= Folldal
+en= Folldal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030465
 te= Firenze
+en= Florence
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030466
 te= Finnmarksvidda
+en= Finnmarksvidda
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030467
@@ -1126,14 +1258,17 @@ tie= 2016-11-08T13:25:50Z
 
 id= REAL030468
 te= Børgefjell
+en= Børgefjell
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030469
 te= Bøhmen
+en= Bohemia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030470
 te= Bunnefjorden
+en= Bunnefjorden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030472
@@ -1142,10 +1277,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030473
 te= Angola
+en= Angola
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030474
 te= Algerie
+en= Algeria
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030475
@@ -1158,6 +1295,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030477
 te= Vest-Europa
+en= Western Europe
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030478
@@ -1174,10 +1312,13 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030481
 te= Sørøst-Asia
+en= Southeast Asia
+en= Southeastern Asia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030482
 te= Surnadal
+en= Surnadal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030483
@@ -1194,6 +1335,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030486
 te= Stor-Elvdal
+en= Stor-Elvdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030487
@@ -1202,6 +1344,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030488
 te= Slovakia
+en= Slovakia
+en= Slovak Republic
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030489
@@ -1214,6 +1358,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030491
 te= Senegal
+en= Senegal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030492
@@ -1222,10 +1367,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030493
 te= Salzburg
+en= Salzburg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030494
 te= Saltfjellet
+en= Saltfjellet
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030495
@@ -1250,6 +1397,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030500
 te= Oppdal
+en= Oppdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030501
@@ -1266,18 +1414,22 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030504
 te= Moskva
+en= Moscow
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030505
 te= Mongstad
+en= Mongstad
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030506
 te= Maridalen
+en= Maridalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030507
 te= Manchester
+en= Manchester
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030508
@@ -1290,10 +1442,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030510
 te= Lillehammer
+en= Lillehammer
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030511
 te= Larvik
+en= Larvik
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030512
@@ -1306,10 +1460,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030514
 te= Kragerø
+en= Kragerø
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030515
 te= Kaukasus
+en= Caucasus Mountains
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030516
@@ -1340,6 +1496,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030522
 te= Galapagos
+en= Galápagos
+en= Galápagos Islands
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030523
@@ -1348,18 +1506,24 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030524
 te= Florida
+en= Florida
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030525
 te= Donau
+en= Danube
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030526
 te= Sri Lanka
+en= Sri Lanka
+en= Democratic Socialist Republic of Sri Lanka
+en= Ceylon
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030527
 te= Bouvetøya
+en= Bouvet island
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030528
@@ -1368,26 +1532,32 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030529
 te= Bologna
+en= Bologna
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030530
 te= Birmingham
+en= Birmingham
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030531
 te= Berkeley
+en= Berkeley
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030532
 te= Barentsregionen
+en= Barents region
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030533
 te= Baltimore
+en= Baltimore
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030534
 te= Balkan
+en= Balkans
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030535
@@ -1400,14 +1570,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030537
 te= Andøya
+en= Andøya
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030538
 te= Andesfjellene
+en= Andes
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030539
 te= Alabama
+en= Alabama
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030540
@@ -1418,6 +1591,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030541
 te= Sør-Georgia
 bf= Syd-Georgia
+en= South Georgia Island
+en= South Georgia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030542
@@ -1445,6 +1620,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030547
 te= Århus
+en= Aarhus
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030548
@@ -1484,6 +1660,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030556
 te= Tydal
+en= Tydal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030557
@@ -1501,6 +1678,7 @@ tie= 2016-11-08T13:14:45Z
 
 id= REAL030560
 te= Tolga
+en= Tolga
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030561
@@ -1509,10 +1687,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030562
 te= Sør-Amerika
+en= South America
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030563
 te= Svartisen
+en= Svartisen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030564
@@ -1521,6 +1701,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030565
 te= Stockholm
+en= Stockholm
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030566
@@ -1533,6 +1714,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030568
 te= Selbusjøen
+en= Selbusjøen
+en= Selbusjoen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030569
@@ -1545,6 +1728,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030571
 te= Rendalen
+en= Rendalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030572
@@ -1577,6 +1761,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030578
 te= Pakistan
+en= Pakistan
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030579
@@ -1609,6 +1794,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030586
 te= Namsskogan
+en= Namsskogan
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030587
@@ -1633,6 +1819,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030592
 te= Midtøsten
+en= Middle East
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030593
@@ -1676,6 +1863,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030602
 te= Kong Karls Land
+en= Kong Karls Land
+en= King Charles Land
 tio= 2015-02-20T13:08:04Z
 tie= 2016-11-08T13:33:48Z
 
@@ -1697,6 +1886,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030607
 te= Jostedalsbreen
+en= Jostedal glacier
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030608
@@ -1705,10 +1895,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030609
 te= Janusfjellet
+en= Janusfjellet
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030610
 te= Jamaica
+en= Jamaica
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030611
@@ -1717,14 +1909,18 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030612
 te= Irak
+en= Iraq
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030613
 te= Indiana
+en= Indiana
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030614
 te= Hviterussland
+en= Belarus
+en= Republic of Belarus
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030615
@@ -1737,19 +1933,24 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030617
 te= Herøy (Møre og Romsdal)
+en= Herøy
+en= Herøy, Møre og Romsdal
 tio= 2015-02-20T13:08:04Z
 tie= 2016-11-17T11:20:53Z
 
 id= REAL030618
 te= Heidelberg
+en= Heidelberg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030619
 te= Haukelifjell
+en= Haukelifjell
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030620
 te= Haugesund
+en= Haugesund
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030621
@@ -1766,22 +1967,28 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030624
 te= Giessen
+en= Giessen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030625
 te= Ghana
+en= Ghana
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030626
 te= Gausdal
+en= Gausdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030627
 te= Gambia
+en= The Gambia
+en= Republic of The Gambia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030628
 te= Fusa
+en= Fusa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030629
@@ -1798,6 +2005,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030632
 te= Forollhogna
+en= Forollhogna
+en= Forelhogna
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030633
@@ -1806,14 +2015,18 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030634
 te= Flisa
+en= Flisa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030635
 te= Fjærland
+en= Fjærland
+en= Fjaerland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030636
 te= Finland
+en= Finland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030637
@@ -1826,18 +2039,22 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030639
 te= Etna
+en= Mount Etna
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030640
 te= Espedalen
+en= Espedalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030641
 te= Engerdal
+en= Engerdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030642
 te= Elverum
+en= Elverum
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030643
@@ -1850,49 +2067,61 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030645
 te= Durham
+en= Durham
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030646
 te= Øvre Dividal
 bf= Dividal
+en= Øvre Dividal
+en= Dividal
 de= nasjonalpark
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-31T16:30:48Z
 
 id= REAL030647
 te= Dallas
+en= Dallas
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030648
 te= Calgary
+en= Calgary
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030649
 te= Børsjøen
+en= Børsjøen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030650
 te= Bykle
+en= Bykle
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030651
 te= Bygdøy
+en= Bygdøy
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030652
 te= Brighton
+en= Brighton
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030653
 te= Bremen
+en= Bremen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030654
 te= Bremanger
+en= Bremanger
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030655
 te= Boston
+en= Boston
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030656
@@ -1901,18 +2130,22 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030657
 te= Blankvann
+en= Blankvann
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030658
 te= Birkenes
+en= Birkenes
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030659
 te= Beringstredet
+en= Bering Strait
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030660
 te= Beringhavet
+en= Bering Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030661
@@ -1921,10 +2154,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030662
 te= Benelux
+en= Benelux
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030663
 te= Beijing
+en= Beijing
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030664
@@ -1933,34 +2168,42 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030665
 te= Basel
+en= Basel
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030666
 te= Bajkalsjøen
+en= Lake Baikal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030667
 te= Bajkal
+en= Baikal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030668
 te= Auma
+en= Auma
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030669
 te= Armenia
+en= Armenia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030670
 te= Arizona
+en= Arizona
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030671
 te= Aralsjøen
+en= Aral sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030672
 te= Antwerpen
+en= Antwerp
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030673
@@ -1969,39 +2212,49 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030674
 te= Andorra
+en= Andorra
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030675
 te= Alvdal
+en= Alvdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030676
 te= Alnaelva
+en= Alna river
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030677
 te= Alna
+en= Alna
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030678
 te= Adriaterhavet
+en= Adriatic sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030679
 te= Alsten
 bf= Alsta
+en= Alsten
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030680
 te= Arabiske Hav
 bf= Arabiahavet
 bf= Det arabiske hav
+en= Arabian Sea
 tio= 2015-02-20T13:08:04Z
 tie= 2016-11-08T13:17:42Z
 
 id= REAL030681
 te= USA
 bf= Amerikas Forente Stater
+en= USA
+en= United States of America
+en= United States
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030682
@@ -2054,6 +2307,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030693
 te= Stavanger
+en= Stavanger
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030694
@@ -2070,6 +2324,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030697
 te= Java
+en= Java
+en= Jawa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030698
@@ -2086,6 +2342,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030701
 te= Württemberg
+en= Württemberg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030702
@@ -2098,10 +2355,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030704
 te= Vestlandet
+en= Western Norway
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030705
 te= Vesterålen
+en= Vesterålen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030706
@@ -2122,10 +2381,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030710
 te= Utrecht
+en= Utrecht
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030711
 te= Uganda
+en= Uganda
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030712
@@ -2138,10 +2399,13 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030714
 te= Terjevann
+en= Terjevann
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030715
 te= Sørøst-Europa
+en= Southeast Europe
+en= Southeastern Europe
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030716
@@ -2150,6 +2414,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030717
 te= Sørkedalen
+en= Sørkedalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030718
@@ -2162,6 +2427,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030720
 te= Sør-Afrika
+en= South Africa
+en= Republic of South Africa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030721
@@ -2184,18 +2451,22 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030725
 te= Svartberget
+en= Svartberget
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030726
 te= Sunnmøre
+en= Sunnmøre
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030727
 te= Suldalslågen
+en= Suldalslågen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030728
 te= Suldal
+en= Suldal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030729
@@ -2208,22 +2479,29 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030731
 te= Storbritannia
+en= United Kingdom
+en= United Kingdom of Great Britain and Northern Ireland
+en= Britain
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030732
 te= Stonehenge
+en= Stonehenge
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030733
 te= Sogndal
+en= Sogndal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030734
 te= Slovenia
+en= Slovenia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030735
 te= Schleswig-Holstein
+en= Schleswig-Holstein
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030736
@@ -2232,6 +2510,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030737
 te= Sigdal
+en= Sigdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030738
@@ -2248,6 +2527,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030741
 te= Røyrvik
+en= Røyrvik
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030742
@@ -2256,6 +2536,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030743
 te= Rotterdam
+en= Rotterdam
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030744
@@ -2264,10 +2545,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030745
 te= Rindal
+en= Rindal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030746
 te= Dronning Elizabeth-øyene
+en= Queen Elizabeth Islands
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-24T16:26:26Z
 
@@ -2285,10 +2568,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030750
 te= Nürnberg
+en= Nuremberg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030751
 te= Numedalslågen
+en= Numedalslågen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030752
@@ -2309,6 +2594,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030756
 te= California
+en= California
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030757
@@ -2317,6 +2603,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030758
 te= Nordmøre
+en= Nordmøre
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030759
@@ -2325,6 +2612,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030760
 te= Nord-Aurdal
+en= Nord-Aurdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030761
@@ -2347,6 +2635,7 @@ tie= 2015-10-09T18:51:38Z
 
 id= REAL030765
 te= Nissedal
+en= Nissedal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030766
@@ -2367,6 +2656,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030770
 te= Newcastle
+en= Newcastle
+en= Newcastle, New South Wales
+en= Newcaste upon Tyne
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-24T17:41:06Z
 tis= 2017-07-24T17:41:06Z
@@ -2377,6 +2669,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030772
 te= Nes (Buskerud)
+en= Nes, Buskerud
 tio= 2015-02-20T13:08:04Z
 tie= 2016-11-17T11:07:30Z
 
@@ -2410,6 +2703,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030780
 te= Møre og Romsdal
+en= Møre og Romsdal
+en= Møre and Romsdal
 tio= 2015-02-20T13:08:04Z
 tie= 2017-08-11T14:32:39Z
 
@@ -2423,6 +2718,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030783
 te= Montreal
+en= Montreal
+en= Montréal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030784
@@ -2443,6 +2740,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030788
 te= Michigan
+en= Michigan
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030789
@@ -2451,6 +2749,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030790
 te= Meldal
+en= Meldal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030791
@@ -2467,6 +2766,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030794
 te= Malvik
+en= Malvik
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030795
@@ -2511,6 +2811,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030805
 te= Leipzig
+en= Leipzig
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030806
@@ -2536,10 +2837,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030811
 te= Kvinnherad
+en= Kvinnherad
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030812
 te= Kvikkjokk
+en= Kvikkjokk
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030813
@@ -2548,6 +2851,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030814
 te= Krokskogen
+en= Krokskogen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030815
@@ -2556,6 +2860,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030816
 te= Korea
+en= Korea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030817
@@ -2576,10 +2881,13 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030821
 te= Kautokeino
+en= Kautokeino
+en= Guovdageaidnu
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030822
 te= Kasakhstan
+en= Kazakhstan
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030823
@@ -2588,6 +2896,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030824
 te= Karlsruhe
+en= Karlsruhe
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030825
@@ -2596,6 +2905,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030826
 te= Kamtsjatkahalvøya
+en= Kamchatka Peninsula
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030827
@@ -2606,6 +2916,7 @@ tis= 2016-12-14T13:55:44Z
 
 id= REAL030828
 te= Junkerdalen
+en= Junkerdalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030829
@@ -2630,6 +2941,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030834
 te= Håkedal
+en= Håkedal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030835
@@ -2638,6 +2950,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030836
 te= Hurum
+en= Hurum
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030837
@@ -2662,6 +2975,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030842
 te= Bosnia-Hercegovina
+en= Bosnia and Herzegovina
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030843
@@ -2670,6 +2984,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030844
 te= Hardangerfjorden
+en= Hardangerfjord
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030846
@@ -2678,6 +2993,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030847
 te= Hallingdal
+en= Hallingdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030848
@@ -2690,18 +3006,22 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030850
 te= Haag
+en= The Hague
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030851
 te= Gullkysten
+en= Gold coast
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030852
 te= Groruddalen
+en= Grorud Valley
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030853
 te= Grenland
+en= Grenland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030854
@@ -2721,6 +3041,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030857
 te= Glittertinden
 bf= Glittertind
+en= Glittertinden
+en= Glittertind
 de= farge
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-24T17:08:18Z
@@ -2731,30 +3053,37 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030859
 te= Gironde
+en= Gironde
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030860
 te= Gera
+en= Gera
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030861
 te= Geilo
+en= Geilo
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030862
 te= Ganddal
+en= Ganddal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030863
 te= Galdhøpiggen
+en= Galdhøpiggen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030864
 te= Fåberg
+en= Fåberg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030865
 te= Fyresdal
+en= Fyresdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030866
@@ -2763,22 +3092,29 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030867
 te= Frøya
+en= Frøya
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030868
 te= Frierfjorden
+en= Frierfjord
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030869
 te= Freiburg
+en= Freiburg
+en= Freiburg im Breisgau
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030870
 te= Fredrikstad
+en= Fredrikstad
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030871
 te= Frankfurt
+en= Frankfurt
+en= Frankfurt am Main
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030872
@@ -2787,30 +3123,38 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030873
 te= Flåmsdalen
+en= Flåmsdalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030874
 te= Flå
+en= Flå
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030875
 te= Flesberg
+en= Flesberg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030876
 te= Finndalsfjellet
+en= Finndalsfjellet
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030877
 te= Finnmark
+en= Finnmark
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030878
 te= Fiji
+en= Fiji
+en= Republic of Fiji
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030879
 te= Fauske
+en= Fauske
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030880
@@ -2829,10 +3173,13 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030883
 te= Erlangen
+en= Erlangen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030884
 te= Eritrea
+en= Eritrea
+en= State of Eritrea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030885
@@ -2845,6 +3192,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030887
 te= Eidanger
+en= Eidanger
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030888
@@ -2857,30 +3205,37 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030890
 te= Dødehavet
+en= Dead Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030891
 te= Dundee
+en= Dundee
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030892
 te= Dublin
+en= Dublin
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030893
 te= Drøbak
+en= Drøbak
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030894
 te= Dronning Maud Land
+en= Queen Maud Land
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030895
 te= Drammenselva
+en= Drammenselva
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030896
 te= Drammensfjorden
+en= Drammensfjord
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030897
@@ -2900,6 +3255,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030900
 te= Delft
+en= Delft
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030901
@@ -2911,14 +3267,18 @@ tie= 2016-11-08T13:24:38Z
 
 id= REAL030902
 te= Davos
+en= Davos
+en= Tavau
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030903
 te= Davisstredet
+en= Davis Strait
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030904
 te= Danmarkstredet
+en= Denmark Strait
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030905
@@ -2937,10 +3297,12 @@ tis= 2016-11-08T13:59:14Z
 
 id= REAL030908
 te= Connecticut
+en= Connecticut
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030909
 te= Coloradofjella
+en= Coloradofjella
 de= fjellmassiv på Spitsbergen
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-25T12:02:00Z
@@ -2951,22 +3313,27 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030911
 te= Chemnitz
+en= Chemnitz
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030912
 te= Cantal
+en= Cantal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030913
 te= Canberra
+en= Canberra
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030914
 te= Bøelva
+en= Bøelva
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030915
 te= Bødalsbreen
+en= Bødalsbreen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030916
@@ -2975,14 +3342,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030917
 te= Budapest
+en= Budapest
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030918
 te= Brøggerhalvøya
+en= Brøggerhalvøya
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030919
 te= Brussel
+en= Brussels
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030920
@@ -2999,6 +3369,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030923
 te= Breheimen
+en= Breheimen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030924
@@ -3007,6 +3378,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030925
 te= Botswana
+en= Botswana
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030926
@@ -3015,6 +3387,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030927
 te= Bonn
+en= Bonn
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030928
@@ -3023,14 +3396,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030929
 te= Blekinge
+en= Blekinge
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030930
 te= Biskayabukta
+en= Bay of Biscay
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030931
 te= Bindalen
+en= Bindalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030932
@@ -3039,30 +3415,37 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030933
 te= Bhutan
+en= Bhutan
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030934
 te= Besseggen
+en= Besseggen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030935
 te= Bermuda
+en= Bermuda
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030937
 te= Bergslagen
+en= Bergslagen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030938
 te= Beograd
+en= Belgrade
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030939
 te= Bengalbukta
+en= Bay of Bengal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030940
 te= Belize
+en= Belize
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030941
@@ -3071,22 +3454,27 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030942
 te= Baroniet Rosendal
+en= Barony Rosendal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030943
 te= Barentshavet
+en= Barents Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030944
 te= Barcelona
+en= Barcelona
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030945
 te= Bangladesh
+en= Bangladesh
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030946
 te= Bandung
+en= Bandung
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030947
@@ -3095,64 +3483,81 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030948
 te= Baffinbukta
+en= Baffin bay
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030949
 te= Baden-Württemberg
+en= Baden-Württemberg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030950
 te= Ayers Rock
 bf= Uluru
+en= Uluru
+en= Ayers Rock
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-03T17:26:25Z
 
 id= REAL030951
 te= Averøy
+en= Averøy
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030952
 te= Aurskog-Høland
+en= Aurskog-Høland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030953
 te= Aurskog
+en= Aurskog
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030954
 te= Aurlandsdalen
+en= Aurlandsdalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030955
 te= Aurland
+en= Aurland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030956
 te= Assyria
+en= Assyria
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030957
 te= Aruba
+en= Aruba
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030958
 te= Arkansas
+en= Arkansas
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030959
 te= Arendal
+en= Arendal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030960
 te= Apenninene
+en= Appennines
+en= Apennine Mountains
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030961
 te= Andalucia
+en= Andalusia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030962
 te= Anacapri
+en= Anacapri
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030963
@@ -3161,26 +3566,32 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030964
 te= Altaelva
+en= Alta river
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030965
 te= Alstahaug
+en= Alstahaug
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030966
 te= Alkmaar
+en= Alkmaar
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030967
 te= Alice Springs
+en= Alice Springs
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030969
 te= Alamos
+en= Álamos
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030970
 te= Akerselva
+en= Akerselva
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030971
@@ -3189,23 +3600,29 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030972
 te= Arktis
+en= Artic
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030973
 te= Hunsrück
+en= Hunsrück
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030974
 te= Mozambik
+en= Mozamibique
+en= Republic of Mozambique
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030975
 te= Helgoland
+en= Heligoland
 de= Øy i Tyskland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030977
 te= Ekvatorial-Afrika
+en= Equatorial Africa
 de= Ekvatorial-Afrika, område mellom Kongo i sør og Libya i nord. Omfatter det tidligere Spansk Ekvatorial-Afrika og det tidligere Fransk Ekvatorial-Afrika. [SNL]
 tio= 2015-02-20T13:08:04Z
 
@@ -3226,21 +3643,25 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030981
 te= Vest-Tyskland
 bf= Vesttyskland
+en= West Germany
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030982
 te= Pangea
 bf= Pangaea
+en= Pangaea
 de= Superkontinent som eksisterte for omkring 300?200 mill. år siden og som omfattet mesteparten av den kontinentale jordskorpen. [SNL]
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030983
 te= Aten
 bf= Athen
+en= Athens
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030984
 te= Aden
+en= Aden
 de= By i Jemen
 tio= 2015-02-20T13:08:04Z
 
@@ -3257,6 +3678,8 @@ te= Arabiske Halvøy
 ba= nc
 bf= Den arabiske halvøy
 bf= Arabia
+en= Arabian Peninsula
+en= Arabia
 tio= 2015-02-20T13:08:04Z
 tie= 2016-11-08T13:22:54Z
 
@@ -3271,10 +3694,12 @@ tie= 2016-11-08T13:28:24Z
 id= REAL030988
 te= Askja
 ba= nc
+en= Askja
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030989
 te= Atlantis
+en= Atlantis
 de= Atlantis, en sagnøy som Platon har beskrevet i dialogene Timaios og Kritias [SNL]
 tio= 2015-02-20T13:08:04Z
 
@@ -3292,12 +3717,14 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030992
 te= Charon
 ba= na
+en= Charon
 de= Plutos måne
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030993
 te= Chicxulub
 ba= nc
+en= Chicxulub
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030994
@@ -3308,6 +3735,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030995
 te= Ekofisk
 ba= nc
+en= Ekofisk oil field
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030996
@@ -3324,6 +3752,8 @@ id= REAL030998
 te= Greenwich-Meridianen
 ba= na
 bf= Nullmeridianen
+en= Prime meridian
+en= Greenwich
 tio= 2015-02-20T13:08:04Z
 tie= 2016-11-08T13:29:45Z
 
@@ -3332,6 +3762,7 @@ te= Gullfaks
 ba= nc
 bf= Gullfaksfeltet
 no= Gullfaksfeltet (ikke selve boreplattformene). ML
+en= Gullfaks oil field
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031000
@@ -3413,6 +3844,7 @@ te= Melkeveien
 ba= na
 ba= ns
 bf= Melkeveisystemet
+en= Milky Way
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031015
@@ -3503,6 +3935,7 @@ id= REAL031029
 te= Blåfjella-Skjækerfjella
 bf= Skjækerfjella
 bf= Blåfjella
+en= Skjækerfjella
 de= nasjonalpark
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-24T20:32:14Z
@@ -3569,6 +4002,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031041
 te= Afghanistan
 bf= Afganistan
+en= Afghanistan
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031042
@@ -3584,6 +4018,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031044
 te= Agder
+en= Agder
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031045
@@ -3595,6 +4030,9 @@ fly= REAL031029
 
 id= REAL031046
 te= Franz Josef Land
+en= Franz Josef Land
+en= Francis Joseph's Land
+en= Franz Joseph Land
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031047
@@ -3607,6 +4045,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031049
 te= Guinea
+en= Guinea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031050
@@ -3615,10 +4054,14 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031051
 te= Kambodsja
+en= Kingdom of Cambodia
+en= Cambodia
+en= Kampuchea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031052
 te= Narvik
+en= Narvik
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031053
@@ -3642,6 +4085,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031057
 te= Reykjavik
+en= Reykjavík
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031058
@@ -3705,6 +4149,7 @@ id= REAL031222
 te= Lyngsalpene
 bf= Lyngsalpan
 bf= Lyngsfjellan
+en= Lyngen alps
 tio= 2015-02-20T13:08:04Z
 tie= 2014-10-24T00:00:00Z
 
@@ -3716,6 +4161,7 @@ tie= 2014-10-24T00:00:00Z
 
 id= REAL031302
 te= Singapore
+en= Singapore
 tio= 2015-01-23T00:00:00Z
 tie= 2015-01-23T00:00:00Z
 
@@ -3767,6 +4213,7 @@ tie= 2015-03-24T15:17:06Z
 
 id= REAL031410
 te= Svealand
+en= Svealand
 tio= 2015-03-31T12:39:19Z
 tie= 2015-03-31T12:39:20Z
 
@@ -3808,6 +4255,8 @@ tie= 2016-11-17T10:54:01Z
 
 id= REAL031742
 te= Nes (Akershus)
+en= Nes
+en= Nes, Akershus
 tio= 2016-11-17T11:08:28Z
 tie= 2016-11-17T11:08:28Z
 
@@ -3818,6 +4267,8 @@ tie= 2016-11-17T11:12:36Z
 
 id= REAL031781
 te= Atlanterhavsryggen
+en= Mid-Atlantic Ridge
+en= MAR
 tio= 2016-12-20T11:22:00Z
 tie= 2016-12-20T11:22:00Z
 

@@ -1,11 +1,13 @@
 id= REAL030178
 te= 1970-tallet
 ba= ns
+en= 1970s
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030179
 te= Barokken
 ba= na
+en= Baroque
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030180
@@ -23,6 +25,7 @@ te= 1500-tallet
 ba= ns
 bf= Sekstende århundre
 bf= 16. århundre
+en= 16th century
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:02:57Z
 
@@ -32,12 +35,15 @@ ba= ns
 bf= 21. århundre
 bf= Tjueførste århundre
 bf= Enogtyvende århundre
+en= 2000s
+en= 21th century
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:04:03Z
 
 id= REAL030184
 te= 1980-tallet
 ba= ns
+en= 1980s
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030185
@@ -45,6 +51,7 @@ te= 1600-tallet
 ba= ns
 bf= Syttende århundre
 bf= 17. århundre
+en= 17th century
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:03:02Z
 
@@ -53,6 +60,7 @@ te= 1800-tallet
 ba= ns
 bf= Nittende århundre
 bf= 19. århundre
+en= 19th century
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:03:12Z
 
@@ -62,6 +70,7 @@ ba= fa
 ba= ns
 bf= Attende århundre
 bf= 18. århundre
+en= 18th century
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:03:07Z
 
@@ -84,12 +93,16 @@ id= REAL030190
 te= Antikken
 ba= fa
 ba= ns
+en= Classical antiquity
 de= Antikken, den klassiske oldtid, betegnelse for epoken som var dominert av den gresk-romerske kulturkretsen, fra ca. 500 f.Kr. til ca. 500 e.Kr. [SNL]
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030191
 te= Etterkrigstiden
 ba= nb
+en= Post-war period
+en= Postwar period
+en= postwar period
 de= Tiden etter den andre verdenskrig og fram til århundreskiftet [UBO]
 tio= 2015-02-20T13:08:04Z
 
@@ -113,11 +126,13 @@ te= 1900-tallet
 ba= ns
 bf= 20. århundre
 bf= Tjuende århundre
+en= 20th century
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030195
 te= Bronsealder
 ba= ns
+en= Bronze age
 de= Ca 1500 - 500 f.Kr. [UBO]
 tio= 2015-02-20T13:08:04Z
 
@@ -132,12 +147,14 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030198
 te= 1990-tallet
+en= 1990s
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030199
 te= 1400-tallet
 bf= Femtende århundre
 bf= 15. århundre
+en= 15th century
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:02:51Z
 
@@ -146,6 +163,11 @@ te= Første verdenskrig
 bf= Verdenskrigen 1914-1918
 nn= Første verdskrig
 nn= Verdskrigen 1914-1918
+en= World War I
+en= First World War
+en= Great War
+en= World War 1914-1918
+en= World War One
 tio= 2016-12-20T12:51:37Z
 tie= 2016-12-20T12:53:52Z
 
