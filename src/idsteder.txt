@@ -264,7 +264,6 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030255
 te= Romsdal
-en= Romsdal
 tio= 2015-02-20T13:08:04Z
 tie= 2017-08-11T14:32:31Z
 tis= 2017-08-11T14:32:31Z
@@ -2656,9 +2655,6 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030770
 te= Newcastle
-en= Newcastle
-en= Newcastle, New South Wales
-en= Newcaste upon Tyne
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-24T17:41:06Z
 tis= 2017-07-24T17:41:06Z

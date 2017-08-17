@@ -102,7 +102,6 @@ te= Etterkrigstiden
 ba= nb
 en= Post-war period
 en= Postwar period
-en= postwar period
 de= Tiden etter den andre verdenskrig og fram til århundreskiftet [UBO]
 tio= 2015-02-20T13:08:04Z
 
