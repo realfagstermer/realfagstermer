@@ -44669,6 +44669,7 @@ ba= nb
 ba= nq
 ba= ns
 nn= Landskapsarkitektur
+en= Landscape architecture
 tio= 2014-08-25T00:00:00Z
 st= REAL016228
 st= REAL021751
