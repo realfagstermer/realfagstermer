@@ -841,9 +841,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000105
 te= Allianser
-ba= nb
-nn= Alliansar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-24T15:35:40Z
 
 id= REAL000106
 te= Major histocompatibility complex class 2
@@ -30007,8 +30006,8 @@ nn= Radioaktive isotopar
 nn= Radioisotopar
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-05T15:30:39Z
-st= REAL027967
 st= REAL025703
+st= REAL027967
 
 id= REAL003744
 te= Stabilisering
