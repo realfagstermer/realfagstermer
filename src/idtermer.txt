@@ -6615,9 +6615,9 @@ tis= 2016-11-18T13:36:54Z
 
 id= REAL000832
 te= Hadronstruktur
-ba= nf
-nn= Hadronstruktur
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-25T16:21:00Z
+fly= REAL002004
 
 id= REAL000833
 te= Salteffekt
@@ -15857,8 +15857,10 @@ id= REAL002004
 te= Hadroner
 ba= nf
 bf= Hadronprosesser
+bf= Hadronstruktur
 nn= Hadron
 nn= Hadronprosessar
+nn= Hadronstruktur
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-21T22:04:27Z
 
@@ -31991,6 +31993,7 @@ te= Bindevev
 ba= nb
 ba= ns
 nn= Bindevev
+en= Connective tissue
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003985
@@ -44537,6 +44540,7 @@ te= Biologer
 ba= nb
 ba= ns
 nn= Biologar
+en= Biologists
 tio= 2014-08-25T00:00:00Z
 st= REAL028788
 st= REAL029559
@@ -47458,10 +47462,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005982
 te= Ammoniakksyntese
-ba= nk
-ba= ns
-nn= Ammoniakksyntese
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-25T16:11:50Z
+fly= REAL013704
 
 id= REAL005984
 te= Lysbehandling
@@ -50897,6 +50900,7 @@ te= Amorfe materialer
 ba= nf
 ba= ns
 nn= Amorfe materiale
+en= Amorphous materials
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006403
@@ -52033,6 +52037,7 @@ id= REAL006513
 te= Anaerobe bakterier
 ba= nb
 nn= Anaerobe bakteriar
+en= Anaerobic bacteria
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006514
@@ -53937,6 +53942,7 @@ id= REAL006743
 te= Beverrotter
 ba= nb
 nn= Beverrotter
+en= Hutias
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006745
@@ -68809,6 +68815,7 @@ id= REAL008622
 te= Betaglukaner
 ba= ne
 nn= Betaglukan
+en= Beta-glucans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008623
@@ -73115,6 +73122,7 @@ id= REAL009165
 te= Anaerobe organismer
 ba= nb
 nn= Anaerobe organismar
+en= Anaerobic organisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009166
@@ -75655,6 +75663,7 @@ id= REAL009502
 te= Anabole steroider
 ba= ne
 nn= Anabole steroid
+en= Anabolic steroids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009503
@@ -76841,11 +76850,14 @@ nn= Zuse z4
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009645
-te= Blodigler
+te= Blodigle
 ba= nb
-nn= Blodigler
-nn= Blodiglar
+bf= Legeigle
+nn= Blodigle
+en= European medicinal leech
+la= Hirudo medicinalis
 tio= 2014-08-25T00:00:00Z
+tie= 2017-08-25T16:01:19Z
 
 id= REAL009646
 te= Kjemikere
@@ -80170,6 +80182,7 @@ id= REAL010053
 te= Anaerob metabolisme
 ba= nb
 nn= Anaerob metabolisme
+en= Anaerobic metabolism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010054
@@ -81829,6 +81842,7 @@ te= Bioanalyse
 ba= nk
 ba= ne
 nn= Bioanalyse
+en= Bioassay
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010253
@@ -91307,6 +91321,7 @@ id= REAL011523
 te= Beskyttelseslikhet
 ba= nb
 nn= Vernelikskap
+en= Mimicry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011524
@@ -91366,6 +91381,7 @@ id= REAL011533
 te= Ammoniumsalter
 ba= nk
 nn= Ammoniumsalt
+en= Ammonium salts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011534
@@ -94213,6 +94229,7 @@ id= REAL011879
 te= Biofeedback
 ba= ne
 nn= Biofeedback
+en= Biofeedback
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011880
@@ -107858,6 +107875,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013248
 te= Anaerob respirasjon
 nn= Anaerob respirasjon
+en= Anaerobic respiration
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013249
@@ -108490,12 +108508,14 @@ id= REAL013302
 te= Berggråmose
 ba= nq
 nn= Berggråmose
+en= Racomitrium moss
 la= Racomitrium heterostichum
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013303
 te= Bergknapper
 nn= Bergknappar
+en= Stonecrops
 la= Sedum
 tio= 2014-08-25T00:00:00Z
 
@@ -108581,6 +108601,8 @@ bf= Belgfrukter
 nn= Belgplanter
 nn= Belgfrukter
 nn= Belgplantar
+en= Legumes
+en= Legume plants
 la= Leguminosae
 tio= 2014-08-25T00:00:00Z
 st= REAL023962
@@ -108741,6 +108763,8 @@ ba= nb
 bf= Biomedisinske teknikker
 nn= Biomedisinske metodar
 nn= Biomedisinske teknikkar
+en= Biomedical methods
+en= Biomedical techniques
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013323
@@ -114863,9 +114887,14 @@ id= REAL013704
 te= Haber-Bosch-prosessen
 ba= nk
 ba= ns
+bf= Ammoniakksyntese
+bf= Ammoniakkprosessen
 nn= Haber-Bosch-prosessen
+nn= Ammoniakksyntese
+nn= Ammoniakkprosessen
 en= Haber-Bosch process
 tio= 2014-08-25T00:00:00Z
+tie= 2017-08-25T16:12:10Z
 
 id= REAL013705
 te= Poisson-prosesser
@@ -118553,6 +118582,7 @@ st= REAL021518
 id= REAL013942
 te= Bergamott
 nn= Bergamott
+en= Bergamot orange
 la= Citrus X aurantium
 la= Citrus bergamia
 de= Medisinplante
