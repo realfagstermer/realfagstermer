@@ -105,8 +105,7 @@ def task_build_core():
         logger.info('Building new core dist')
         roald = Roald()
         roald.load('src/', format='roald2', language='nb')
-        roald.set_uri_format(
-            'http://data.ub.uio.no/%s/c{id}' % config['basename'])
+        roald.set_uri_format('http://data.ub.uio.no/%s/c{id}' % config['basename'], 'REAL')
         roald.save('%s.json' % config['basename'])
         logger.info('Wrote %s.json', config['basename'])
 
@@ -161,47 +160,32 @@ def task_build_extras():
         logger.info('Building extras')
         roald = Roald()
         roald.load('src/', format='roald2', language='nb')
-        roald.set_uri_format(
-            'http://data.ub.uio.no/%s/c{id}' % config['basename'])
+        roald.set_uri_format('http://data.ub.uio.no/%s/c{id}' % config['basename'], 'REAL')
 
-        includes = [
-            '%s.scheme.ttl' % config['basename'],
-            'src/ub-onto.ttl',
-            # 'src/nynorsk.ttl',
-            'src/categories_and_mappings.ttl',
-        ]
-
-        mappings = [
-            'src/mumapper.rdf',
-            'src/hume.rdf',
-            'src/ddc.rdf',
-            'src/categories_and_mappings.ttl',
-        ]
+        roald.load('src/categories_and_mappings.ttl', format='skos')  # From soksed
+        roald.load('src/hume.rdf', format='skos')  # Humord mappings from mymapper
 
         # 1) MARC21 with $9 fields for CCMapper
         marc21options = {
             'vocabulary_code': 'noubomn',
             'created_by': 'NO-TrBIB',
-            'mappings_from': [
-                'src/hume.rdf',
-            ],
-            'include_extras': True
+            'include_extras': True,
+            'include_memberships': True,
         }
         roald.export('dist/%s.ccmapper.marc21.xml' %
-                     config['basename'], format='marc21', **marc21options)
+                     config['basename'], format='marc21',
+                     **marc21options)
         logger.info('Wrote dist/%s.ccmapper.marc21.xml', config['basename'])
+
+        roald.load('src/mumapper.rdf', format='skos')  # Tekord mappings
+        roald.load('src/ddc.rdf', format='skos')  # Mappings from CCMapper
 
         # 1) MARC21 for Alma and general use
         marc21options = {
             'vocabulary_code': 'noubomn',
             'created_by': 'NO-TrBIB',
-            'mappings_from': [
-                'src/mumapper.rdf',     # Tekord mappings
-                'src/hume.rdf',         # Humord mappings
-                'src/ddc.rdf',          # Dewey mappings (from CCMapper)
-                'src/categories_and_mappings.ttl',    # Wikidata mappings (from Soksed)
-            ],
-            'include_extras': False
+            'include_extras': False,
+            'include_memberships': False,
         }
         roald.export('dist/%s.marc21.xml' %
                      config['basename'], format='marc21', **marc21options)
@@ -210,9 +194,11 @@ def task_build_extras():
         # 3) RDF (core + mappings)
         roald.export('dist/%s.complete.ttl' % config['basename'],
                      format='rdfskos',
-                     include=includes,
-                     mappings_from=mappings
-                     )
+                     include=[
+                        '%s.scheme.ttl' % config['basename'],
+                        'src/ub-onto.ttl',
+                        'src/categories_and_mappings.ttl',
+                     ])
         logger.info('Wrote dist/%s.complete.ttl', config['basename'])
 
     return {
