@@ -3327,9 +3327,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000423
 te= Ammoniumnitrifikasjon
-ba= nb
-nn= Ammoniumnitrifikasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-30T19:55:54Z
+fly= REAL010371
 
 id= REAL000424
 te= Bevaringslover
@@ -4885,9 +4885,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000609
 te= Chaetognatha
-ba= nb
-nn= Chaetognatha
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-30T12:43:11Z
+fly= REAL005985
 
 id= REAL000610
 te= Stokastisk modellering
@@ -5476,8 +5476,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000688
 te= Etsing
 ba= nf
+bf= Etsning
 nn= Etsing
 tio= 2014-08-25T00:00:00Z
+tie= 2017-08-30T19:32:50Z
 
 id= REAL000689
 te= Investeringsanalyser
@@ -7588,10 +7590,11 @@ en= Asynchronous circuits
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000960
-te= Epr-paradokset
+te= EPR-paradokset
 ba= ns
-nn= Epr-paradokset
+nn= EPR-paradokset
 tio= 2014-08-25T00:00:00Z
+tie= 2017-08-30T19:30:58Z
 
 id= REAL000961
 te= Elektrolytter
@@ -8043,6 +8046,7 @@ id= REAL001009
 te= Anaerobe eukaryoter
 ba= nb
 nn= Anaerobe eukaryotar
+en= Anaerobic eukaryotes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001010
@@ -9943,6 +9947,7 @@ ba= nc
 ba= nq
 ba= ns
 nn= Beiting
+en= Grazing
 tio= 2014-08-25T00:00:00Z
 st= REAL018660
 st= REAL026254
@@ -11340,9 +11345,8 @@ st= REAL015906
 
 id= REAL001427
 te= Nervevev
-ba= nb
-nn= Nervevev
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-30T13:17:44Z
 
 id= REAL001428
 te= Dinocyster
@@ -16614,6 +16618,9 @@ te= Boreale skoger
 ba= nb
 ba= nq
 nn= Boreale skogar
+en= Taiga
+en= Boreal Forest
+en= Snow Forest
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002101
@@ -17992,7 +17999,7 @@ nn= Sekundærionmassespektroskopi
 en= Secondary ion mass spectrometry
 en= Secondary ion mass spectroscopy
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-20T19:31:52Z
+tie= 2017-08-30T19:34:27Z
 
 id= REAL002261
 te= Flytkontroll
@@ -23478,17 +23485,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002925
 te= Børstemarker
-ba= nk
-ba= nb
-bf= Børsteormer
-so= REAL006839
-so= REAL010585
-nn= Børstemakkar
-nn= Børstemarkar
-nn= Børsteormar
 tio= 2014-08-25T00:00:00Z
 tie= 2014-11-12T00:00:00Z
-st= REAL014356
+tis= 2017-08-30T12:36:59Z
 
 id= REAL002926
 te= Mobile prosessorer
@@ -26258,11 +26257,12 @@ nn= Dietetikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003283
-te= Document type definition
+te= Document Type Definition
 ba= ni
 ak= DTD
 nn= Document type definition
 tio= 2014-08-25T00:00:00Z
+tie= 2017-08-30T19:56:24Z
 
 id= REAL003284
 te= Karakterisering
@@ -29247,8 +29247,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003644
 te= Elektronkrystallografi
 ba= nk
+bf= Elektrondiffraktometri
+bf= Elektrondiffraksjonsanalyse
+no= http://purl.obolibrary.org/obo/CHMO_0000142
 nn= Elektronkrystallografi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-08-30T19:37:29Z
 
 id= REAL003645
 te= Stabile isotoper
@@ -37305,10 +37309,13 @@ nn= Organisk analyse
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004657
-te= Cilier
+te= Flimmerhår
 ba= nb
+bf= Cilier
+nn= Flimmerhår
 nn= Ciliar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-08-30T12:46:05Z
 
 id= REAL004658
 te= Diskriminantanalyse
@@ -39329,6 +39336,8 @@ id= REAL004923
 te= Bioimpedans
 ba= nf
 nn= Bioimpedans
+en= Bioimpedance
+en= Bioelectric impedance
 tio= 2014-08-25T00:00:00Z
 st= REAL024063
 
@@ -42625,6 +42634,7 @@ id= REAL005357
 te= Apolipoproteiner
 ba= nb
 nn= Apolipoprotein
+en= Apolipoproteins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005358
@@ -47497,7 +47507,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005985
 te= Pilormer
 ba= nb
+bf= Chaetognatha
 nn= Pilormar
+nn= Chaetognatha
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005986
@@ -54387,9 +54399,8 @@ st= REAL027910
 
 id= REAL006808
 te= Definisjoner
-ba= nf
-nn= Definisjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-30T19:52:31Z
 
 id= REAL006809
 te= Tropisk skogbruk
@@ -56532,6 +56543,7 @@ id= REAL007077
 te= Biokjemiske metoder
 ba= nb
 nn= Biokjemiske metodar
+en= Biochemical methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007078
@@ -65137,6 +65149,7 @@ id= REAL008163
 te= Brusk
 ba= nb
 nn= Brusk
+en= Cartilage
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008164
@@ -65665,6 +65678,7 @@ id= REAL008231
 te= Bronkier
 ba= ns
 nn= Bronkiar
+en= Bronchi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008232
@@ -67365,11 +67379,8 @@ st= REAL022188
 
 id= REAL008453
 te= Nerver
-ba= nk
-ba= nb
-ba= ns
-nn= Nervar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-08-30T13:16:40Z
 
 id= REAL008455
 te= Saltavsetninger
@@ -71248,6 +71259,8 @@ id= REAL008929
 te= Brevduer
 ba= nb
 nn= Brevduer
+en= Homing pigeons
+en= Messenger pigeons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008930
@@ -77408,6 +77421,7 @@ te= Broddvepser
 ba= nb
 nn= Broddkvefsar
 nn= Broddvepsar
+en= Stinging wasps
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009720
@@ -82822,7 +82836,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010371
 te= Nitrifikasjon
 ba= nb
+bf= Ammoniumnitrifikasjon
 nn= Nitrifikasjon
+nn= Ammoniumnitrifikasjon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010372
@@ -86332,6 +86348,7 @@ ba= nb
 ba= ne
 nn= Inflammasjonar
 nn= Betennelsar
+en= Inflammations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010850
@@ -94397,9 +94414,9 @@ st= REAL020257
 st= REAL020447
 st= REAL023336
 st= REAL026734
+st= REAL027129
 st= REAL028304
 st= REAL028746
-st= REAL027129
 
 id= REAL011895
 te= Internasjonal politikk
@@ -95784,6 +95801,7 @@ id= REAL012085
 te= Brunsnegler
 ba= nb
 nn= Brunsniglar
+en= Spanish slug
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012086
@@ -96188,7 +96206,7 @@ nn= Elektronstruktur
 nn= Elektronkonfigurasjon
 en= Electronic structure
 tio= 2014-08-25T00:00:00Z
-tie= 2017-07-03T17:36:52Z
+tie= 2017-08-30T19:37:18Z
 st= REAL025410
 
 id= REAL012152
@@ -104595,6 +104613,7 @@ st= REAL027792
 id= REAL012919
 te= Brunbjørn
 nn= Brunbjørn
+en= Brown bear
 la= Ursus arctos
 tio= 2014-08-25T00:00:00Z
 
@@ -104834,6 +104853,7 @@ id= REAL012940
 te= Brisling
 ba= nb
 nn= Brisling
+en= European sprat
 la= Sprattus sprattus
 tio= 2014-08-25T00:00:00Z
 st= REAL031881

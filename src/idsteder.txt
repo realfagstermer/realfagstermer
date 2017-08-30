@@ -3741,9 +3741,10 @@ ba= nc
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030997
-te= Gondwanaland
-bf= Gondwana
+te= Gondwana
+bf= Gondwanaland
 tio= 2015-02-20T13:08:04Z
+tie= 2017-08-30T18:13:01Z
 
 id= REAL030998
 te= Greenwich-Meridianen
