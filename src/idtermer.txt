@@ -85,6 +85,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Cellesyklus
+en= Cell cycle
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000016
@@ -114,6 +115,7 @@ id= REAL000018
 te= Elektrokjemiske egenskaper
 ba= nk
 nn= Elektrokjemiske eigenskapar
+en= Electrochemical properties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000019
@@ -4551,6 +4553,7 @@ ba= nb
 ba= ne
 nn= Cellevekst
 nn= Cellevokster
+en= Cell growth
 tio= 2014-08-25T00:00:00Z
 st= REAL024924
 
@@ -4885,6 +4888,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000609
 te= Chaetognatha
+en= Arrow worms
+en= Chaetognaths
+en= Bristlejaws
 tio= 2014-08-25T00:00:00Z
 tis= 2017-08-30T12:43:11Z
 fly= REAL005985
@@ -5478,6 +5484,7 @@ te= Etsing
 ba= nf
 bf= Etsning
 nn= Etsing
+en= Etching
 tio= 2014-08-25T00:00:00Z
 tie= 2017-08-30T19:32:50Z
 
@@ -6599,6 +6606,7 @@ ba= nk
 ba= nb
 ba= ns
 nn= Celledeling
+en= Cell division
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000830
@@ -7567,6 +7575,8 @@ te= Elektronemisjon
 ba= na
 ba= ns
 nn= Elektronemisjon
+en= Electron emission
+en= Electronic emission
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000957
@@ -7593,6 +7603,7 @@ id= REAL000960
 te= EPR-paradokset
 ba= ns
 nn= EPR-paradokset
+en= EPR paradox
 tio= 2014-08-25T00:00:00Z
 tie= 2017-08-30T19:30:58Z
 
@@ -9787,6 +9798,7 @@ id= REAL001233
 te= Celleadhesjon
 ba= nb
 nn= Celleadhesjon
+en= Cell adhesion
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001235
@@ -11417,6 +11429,7 @@ id= REAL001437
 te= Elektrodereaksjoner
 ba= nk
 nn= Elektrodereaksjonar
+en= Electrode reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001438
@@ -13133,6 +13146,7 @@ id= REAL001652
 te= Eksperter
 ba= ns
 nn= Ekspertar
+en= Experts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001653
@@ -14571,6 +14585,7 @@ ba= ns
 so= REAL031694
 so= REAL007993
 nn= Ferromagnetisme
+en= Ferromagnetism
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-08T12:39:28Z
 
@@ -18719,6 +18734,7 @@ id= REAL002345
 te= Cellemorfologi
 ba= nb
 nn= Cellemorfologi
+en= Cell morphology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002347
@@ -18898,6 +18914,8 @@ ba= nb
 ba= nf
 ba= ns
 nn= Cellemetabolisme
+en= Cell metabolism
+en= Cellular metabolism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002371
@@ -20748,6 +20766,7 @@ bf= Gjæringsprosesser
 nn= Fermentering
 nn= Gjæring
 nn= Gjæringsprosessar
+en= Fermentation
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-03T09:59:26Z
 st= REAL021858
@@ -28255,6 +28274,7 @@ te= Elektronspinn
 ba= nk
 ba= nb
 nn= Elektronspinn
+en= Electron spin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003523
@@ -29251,6 +29271,9 @@ bf= Elektrondiffraktometri
 bf= Elektrondiffraksjonsanalyse
 no= http://purl.obolibrary.org/obo/CHMO_0000142
 nn= Elektronkrystallografi
+en= Electron crystallography
+en= Electron diffractometry
+en= Electron diffraction analysis
 tio= 2014-08-25T00:00:00Z
 tie= 2017-08-30T19:37:29Z
 
@@ -32871,6 +32894,7 @@ id= REAL004094
 te= Fermioner
 ba= nf
 nn= Fermion
+en= Fermions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004095
@@ -37094,6 +37118,7 @@ ba= ne
 ba= ns
 nn= Celleveggar
 nn= Cellevegger
+en= Cell walls
 tio= 2014-08-25T00:00:00Z
 st= REAL026013
 
@@ -43086,6 +43111,8 @@ te= Fargereaksjoner
 ba= nk
 ba= nb
 nn= Fargereaksjonar
+en= Colour reactions
+en= Color reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005420
@@ -49649,6 +49676,7 @@ te= Cellelinjer
 ba= ne
 nn= Celleliner
 nn= Cellelinjer
+en= Cell lines
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006251
@@ -49922,6 +49950,7 @@ id= REAL006284
 te= Caligider
 ba= nb
 nn= Caligid
+en= Sea lice
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006285
@@ -52742,6 +52771,8 @@ ba= nb
 bf= Caenorhabditis elegans
 nn= C. elegans
 nn= Caenorhabditis elegans
+en= C. elegans
+en= Caenorhabditis elegans
 la= Caenorhabditis elegans
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-10T13:42:16Z
@@ -56078,6 +56109,7 @@ id= REAL007013
 te= Cellekinetikk
 ba= nb
 nn= Cellekinetikk
+en= Cell kinetics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007014
@@ -62071,6 +62103,7 @@ id= REAL007777
 te= Apologetikk
 ba= nb
 nn= Apologetikk
+en= Apologetics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007778
@@ -65412,6 +65445,7 @@ ba= na
 ba= nf
 ba= ns
 nn= Elektrondiffraksjon
+en= Electron diffraction
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008198
@@ -65457,6 +65491,7 @@ id= REAL008205
 te= Ferritin
 ba= ns
 nn= Ferritin
+en= Ferritin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008206
@@ -66383,6 +66418,8 @@ id= REAL008329
 te= Fargekjemi
 ba= nk
 nn= Fargekjemi
+en= Colour chemistry
+en= Color chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008330
@@ -68719,6 +68756,7 @@ id= REAL008605
 te= Cellereseptorer
 ba= nb
 nn= Cellereseptorar
+en= Cell receptors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008606
@@ -71273,6 +71311,7 @@ id= REAL008931
 te= Ferromangan
 ba= nb
 nn= Ferromangan
+en= Ferromanganese
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008932
@@ -73923,6 +73962,8 @@ bf= Differensiering
 so= REAL002232
 nn= Celledifferensiering
 nn= Differensiering
+en= Cell differentiation
+en= Cellular differentiation
 de= Prosess som en celletype gjennomgår i utviklingen mot en spesialisert celletype (SNL)
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-09T16:29:28Z
@@ -83406,6 +83447,7 @@ id= REAL010454
 te= C-myb
 ba= nb
 nn= C-myb
+en= C-myb
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010455
@@ -86940,6 +86982,7 @@ ba= nc
 ba= nf
 ba= nm
 nn= Faseovergangar
+en= Phase transitions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010925
@@ -87940,6 +87983,7 @@ ba= nb
 bf= Celletransport
 nn= Cellulær transport
 nn= Celletransport
+en= Cellular transport
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-01T14:03:42Z
 
@@ -88977,6 +89021,7 @@ id= REAL011210
 te= Elektriske dipolmomenter
 ba= nk
 nn= Elektriske dipolmoment
+en= Electric dipole moments
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011211
@@ -91218,6 +91263,7 @@ id= REAL011504
 te= Eukaryote celler
 ba= nb
 nn= Eukaryote celler
+en= Eukaryotic cells
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011505
@@ -93653,6 +93699,7 @@ id= REAL011797
 te= Elektrokjemiske celler
 ba= nk
 nn= Elektrokjemiske celler
+en= Electrochemical cells
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011798
@@ -101455,6 +101502,7 @@ ba= nf
 bf= Faste stoffers kjemi
 so= REAL012641
 nn= Faststoffkjemi
+en= Solid-state chemistry
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-07T10:10:13Z
 
@@ -118923,6 +118971,7 @@ fly= REAL013414
 id= REAL013961
 te= Chlamydomonas
 nn= Chlamydomonas
+en= Chlamydomonas
 la= Chlamydomonas
 de= En liten encellet grønnalgeslekt. Brukes som modellorganisme
 tio= 2014-08-25T00:00:00Z

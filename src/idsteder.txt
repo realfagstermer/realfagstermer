@@ -959,6 +959,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030404
 te= Bornholm
+en= Bornholm
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030405
@@ -1074,6 +1075,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030428
 te= Borneo
+en= Borneo
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030429
@@ -3032,6 +3034,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030856
 te= Gobiørkenen
+en= Gobi Desert
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030857
@@ -3283,6 +3286,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030906
 te= Black Hills
+en= Black Hills
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030907
@@ -3388,6 +3392,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030928
 te= Bockfjorden
+en= Bockfjorden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030929
@@ -3743,6 +3748,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030997
 te= Gondwana
 bf= Gondwanaland
+en= Gondwana
+en= Gondwanaland
 tio= 2015-02-20T13:08:04Z
 tie= 2017-08-30T18:13:01Z
 
