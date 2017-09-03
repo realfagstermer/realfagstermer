@@ -2937,7 +2937,6 @@ ba= nq
 nn= Dagblomfamilien
 en= Dayflower family
 en= Spiderwort family
-en= Dayflower family
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000368
@@ -4892,9 +4891,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000609
 te= Chaetognatha
-en= Arrow worms
-en= Chaetognaths
-en= Bristlejaws
 tio= 2014-08-25T00:00:00Z
 tis= 2017-08-30T12:43:11Z
 fly= REAL005985
@@ -13613,13 +13609,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001709
 te= Kombinatorisk topologi
-ba= nm
-so= REAL031196
-so= REAL012507
-nn= Kombinatorisk topologi
-en= Combinatorial topology
 tio= 2014-08-25T00:00:00Z
 tie= 2014-10-13T00:00:00Z
+tis= 2017-09-02T20:24:08Z
+fly= REAL012507
 
 id= REAL001710
 te= Cestoder
@@ -14017,9 +14010,15 @@ fly= REAL002588
 id= REAL001760
 te= Polymerisasjon
 ba= nk
+bf= Polymerisering
+bf= Polymersyntese
 nn= Polymerisasjon
+nn= Polymerisering
+nn= Polymersyntese
 tio= 2014-08-25T00:00:00Z
 st= REAL016684
+st= REAL020178
+st= REAL021438
 
 id= REAL001761
 te= Predikater
@@ -20440,8 +20439,10 @@ st= REAL028735
 id= REAL002549
 te= Akustiske signaler
 ba= nb
+bf= Akustisk kommunikasjon
 nn= Akustiske signal
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-02T20:09:09Z
 
 id= REAL002550
 te= Ballistikk
@@ -20570,9 +20571,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002568
 te= Strålekilder
-ba= nf
-nn= Strålekjelder
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-01T19:48:26Z
 
 id= REAL002569
 te= Usikkerhet
@@ -32243,10 +32243,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004009
 te= Akustiske hastigheter
-ba= nc
-nn= Akustiske snøggleikar
-nn= Akustiske hastigheiter
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-02T20:06:10Z
+fly= REAL007342
 
 id= REAL004010
 te= Rettigheter
@@ -45891,8 +45890,10 @@ ba= nc
 ba= nf
 ba= nm
 bf= Strømninger
+bf= Flyt
 nn= Strøyming
 nn= Strøymingar
+nn= Flyt
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-26T14:49:36Z
 st= REAL029622
@@ -47873,11 +47874,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006020
 te= Polymerisering
-ba= nk
-nn= Polymerisering
 tio= 2014-08-25T00:00:00Z
-st= REAL020178
-st= REAL021438
+tis= 2017-09-01T19:43:50Z
+fly= REAL001760
 
 id= REAL006021
 te= Handlingsvalg
@@ -58699,7 +58698,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007342
 te= Akustiske egenskaper
 ba= nm
+bf= Akustiske hastigheter
 nn= Akustiske eigenskapar
+nn= Akustiske snøggleikar
+nn= Akustiske hastigheiter
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007343
@@ -73104,9 +73106,9 @@ st= REAL030055
 
 id= REAL009146
 te= Flyt
-ba= nm
-nn= Flyt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-02T20:12:25Z
+fly= REAL005769
 
 id= REAL009147
 te= Fluebinding
@@ -80783,9 +80785,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010111
 te= Polymersyntese
-ba= nk
-nn= Polymersyntese
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-01T19:44:11Z
+fly= REAL001760
 
 id= REAL010112
 te= Boligområder
@@ -87452,9 +87454,8 @@ tie= 2017-07-31T17:26:30Z
 
 id= REAL010985
 te= Moderne vitenskap
-ba= nb
-nn= Moderne vitskap
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-02T20:59:14Z
 
 id= REAL010986
 te= Verilog hdl
@@ -100077,9 +100078,12 @@ id= REAL012507
 te= Algebraisk topologi
 ba= nm
 ba= ns
-so= REAL001709
+bf= Kombinatorisk topologi
+so= REAL031196
 nn= Algebraisk topologi
+nn= Kombinatorisk topologi
 en= Algebraic topology
+en= Combinatorial topology
 ms= 55
 dw= 514.2
 tio= 2014-08-25T00:00:00Z
@@ -120396,7 +120400,7 @@ tie= 2014-10-10T00:00:00Z
 
 id= REAL031196
 te= Topologisk kombinatorikk
-so= REAL001709
+so= REAL012507
 nn= Topologisk kombinatorikk
 en= Topological combinatorics
 tio= 2014-10-15T00:00:00Z
@@ -122791,4 +122795,12 @@ en= Finite volume method
 en= Finite-volume method
 tio= 2017-08-18T22:51:18Z
 tie= 2017-08-18T22:57:04Z
+
+id= REAL031890
+te= Geometrisk topologi
+no= github:817
+nn= Geometrisk topologi
+en= Geometric topology
+tio= 2017-09-02T20:20:42Z
+tie= 2017-09-02T20:21:45Z
 
