@@ -26805,6 +26805,8 @@ ba= ns
 bf= Fjelltopper
 nn= Fjell
 nn= Fjelltoppar
+en= Mountains
+en= Summits
 tio= 2014-08-25T00:00:00Z
 st= REAL014112
 st= REAL015327
@@ -58702,6 +58704,7 @@ bf= Akustiske hastigheter
 nn= Akustiske eigenskapar
 nn= Akustiske snøggleikar
 nn= Akustiske hastigheiter
+en= Acoustic properties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007343
