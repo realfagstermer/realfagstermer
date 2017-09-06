@@ -718,9 +718,8 @@ tis= 2017-04-05T10:22:12Z
 
 id= REAL000090
 te= Estimater
-ba= nm
-nn= Estimat
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T16:23:08Z
 
 id= REAL000091
 te= Forvitringsjord
@@ -4849,13 +4848,14 @@ tio= 2014-08-25T00:00:00Z
 st= REAL022130
 
 id= REAL000603
-te= Organic light-emitting diode
+te= Organisk lysdiode
 ba= nk
 ak= OLED
 nn= OLED
 nn= Organisk ljosdiode
 nn= Organisk lysdiode
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T16:40:35Z
 
 id= REAL000604
 te= Kontekstfrie grammatikker
@@ -5651,9 +5651,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000709
 te= Theta
-ba= nm
-nn= Theta
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T20:50:17Z
+fly= REAL010705
 
 id= REAL000710
 te= Datastøttet systemutvikling
@@ -21502,10 +21502,11 @@ tis= 2017-08-11T14:47:13Z
 fly= REAL002323
 
 id= REAL002685
-te= Analystisk ekstraksjon
+te= Analytisk ekstraksjon
 ba= ne
-nn= Analystisk ekstraksjon
+nn= Analytisk ekstraksjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T17:52:27Z
 
 id= REAL002686
 te= Mikrokvasarer
@@ -25082,10 +25083,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003115
 te= Dispersjon
 ba= nf
+bf= Dispersjonsrelasjoner
 nn= Dispersjon
 de= bølgefenomen særlig kjent fra optikk, der fasehastigheten til en bølge avhenger av frekvensen
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T12:32:08Z
+tie= 2017-09-05T21:22:59Z
 
 id= REAL003116
 te= Alant
@@ -30003,7 +30005,7 @@ nn= Atomspektroskopi
 nn= Atomspektrometri
 de= Enhver spektroskopisk teknikk som er basert på atomers evne til å absorbere eller avgi elektromagnetisk stråling. I atomspektroskopi blir prøven fordampet og atomisert.
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-20T18:27:00Z
+tie= 2017-09-05T17:41:46Z
 st= REAL025348
 
 id= REAL003734
@@ -30189,7 +30191,9 @@ te= Reaksjonskinetikk
 ba= nk
 ba= nb
 ba= ns
+bf= Kjemisk kinetikk
 nn= Reaksjonskinetikk
+nn= Kjemisk kinetikk
 tio= 2014-08-25T00:00:00Z
 st= REAL029046
 
@@ -35259,10 +35263,12 @@ tie= 2016-11-22T15:39:17Z
 
 id= REAL004386
 te= Dielektrika
+bf= Dielektrisitet
+bf= Dielektrikum
+nn= Dielektrika
+nn= Dielektrisitet
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-23T12:45:03Z
-tis= 2016-11-23T12:45:03Z
-fly= REAL011883
+tie= 2017-09-05T21:18:56Z
 
 id= REAL004387
 te= Biologiske prøver
@@ -39066,10 +39072,11 @@ en= Dialects
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004885
-te= Oda
+te= ODA
 ba= ni
-nn= Oda
+nn= ODA
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T16:43:49Z
 
 id= REAL004886
 te= Blomsterdekorasjoner
@@ -41041,17 +41048,14 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005142
 te= Eksamen
-ba= ne
-ba= ns
-nn= Eksamen
 tio= 2014-08-25T00:00:00Z
-st= REAL019138
+tis= 2017-09-05T16:19:36Z
 
 id= REAL005143
 te= Partikkelastrofysikk
-ba= na
-nn= Partikkelastrofysikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T17:41:06Z
+fly= REAL005213
 
 id= REAL005144
 te= Diagnostikk
@@ -41627,8 +41631,10 @@ te= Astropartikkelfysikk
 ba= na
 ba= nf
 bf= Høyenergi astrofysikk
+bf= Partikkelastrofysikk
 nn= Astropartikkelfysikk
 nn= Høgenergi astrofysikk
+nn= Partikkelastrofysikk
 en= Astroparticle physics
 en= High energy astrophysics
 tio= 2014-08-25T00:00:00Z
@@ -41779,9 +41785,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005236
 te= Kjemisk kinetikk
-ba= nk
-nn= Kjemisk kinetikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T20:17:55Z
+fly= REAL003758
 
 id= REAL005237
 te= Tale
@@ -42768,10 +42774,12 @@ nn= Lov
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005368
-te= Hartree-fock
+te= Hartree–Fock-metoden
 ba= nk
+bf= Hartree-Fock
 nn= Hartree-fock
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T17:35:01Z
 
 id= REAL005369
 te= Organiske reagenser
@@ -48478,9 +48486,8 @@ st= REAL019500
 
 id= REAL006094
 te= Oksygenelektroder
-ba= nk
-nn= Oksygenelektrodar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T16:42:48Z
 
 id= REAL006095
 te= Hovedgruppemetaller
@@ -56388,7 +56395,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007049
 te= Silika
 ba= nk
+bf= Silisiumdioksid
 nn= Silika
+nn= Silisiumdioksid
+en= Silicon dioxide
+en= SiO2
+en= Quartz
+en= Silica
+en= Silicic oxide
+en= Crystalline silica
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007051
@@ -59041,9 +59056,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007389
 te= Amuletter
-ba= ns
-nn= Amulettar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T16:13:02Z
 
 id= REAL007390
 te= Konglepalmer
@@ -68612,9 +68626,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008578
 te= Egenfunksjoner
-ba= nk
-nn= Eigenfunksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T16:17:19Z
 
 id= REAL008579
 te= Anisotropisk ledningsevne
@@ -69131,10 +69144,11 @@ tio= 2014-08-25T00:00:00Z
 st= REAL024875
 
 id= REAL008649
-te= Polare oxider
+te= Polare oksider
 ba= nk
-nn= Polare oxid
+nn= Polare oksid
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T17:57:30Z
 
 id= REAL008650
 te= Komplekse fenomener
@@ -71583,10 +71597,15 @@ tio= 2014-08-25T00:00:00Z
 st= REAL026087
 
 id= REAL008958
-te= Protonisering
+te= Protonering
 ba= nk
+bf= Protonisering
+no= termwiki:http://www.termwiki.sprakradet.no/wiki/Protonering
+nn= Protonering
 nn= Protonisering
+de= prosess der man føyer proton til et atom, ion eller molekyl
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T20:53:29Z
 
 id= REAL008959
 te= Datasyn
@@ -74124,9 +74143,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009278
 te= Mødre
-ba= ns
-nn= Mødrer
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T17:30:36Z
 
 id= REAL009279
 te= Anvendt bioteknologi
@@ -77455,10 +77473,13 @@ nn= Massespektrografi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009710
-te= Mycobakterier
+te= Mykobakterier
 ba= nb
+bf= Mycobakterier
+nn= Mykobakteriar
 nn= Mycobakteriar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T18:09:50Z
 st= REAL031479
 
 id= REAL009711
@@ -79907,9 +79928,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010003
 te= Silikonforbindelser
-ba= nk
-nn= Silikonsambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T20:11:13Z
 
 id= REAL010004
 te= Livssykluser
@@ -85179,15 +85199,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010677
 te= Silisiumdioksid
-ba= nk
-nn= Silisiumdioksid
-en= Silicon dioxide
-en= SiO2
-en= Quartz
-en= Silica
-en= Silicic oxide
-en= Crystalline silica
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-05T20:12:06Z
+fly= REAL007049
 
 id= REAL010678
 te= Turbiner
@@ -85407,6 +85421,7 @@ te= Thetafunksjoner
 ba= nm
 nn= Thetafunksjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T20:50:27Z
 
 id= REAL010706
 te= Bosoner
@@ -89685,8 +89700,12 @@ st= REAL025360
 id= REAL011292
 te= Polyetylen
 ba= nk
+bf= Polyeten
+ak= PE
 nn= Polyetylen
+nn= Polyeten
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T17:58:46Z
 
 id= REAL011293
 te= Manteldynamikk
@@ -92015,7 +92034,6 @@ nn= Kjemiundervising
 tio= 2014-08-25T00:00:00Z
 st= REAL017080
 st= REAL021733
-st= REAL029351
 st= REAL029656
 
 id= REAL011592
@@ -94413,15 +94431,11 @@ st= REAL015773
 st= REAL023863
 
 id= REAL011883
-te= Dielektrisitet
-ba= nk
-ba= nf
-ba= ns
-bf= Dielektrika
-nn= Dielektrisitet
-nn= Dielektrika
+te= Dielektrika-test
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-23T12:45:03Z
+tie= 2017-09-05T21:17:08Z
+tis= 2017-09-05T21:18:51Z
+fly= REAL004386
 
 id= REAL011884
 te= Gullalger
@@ -104168,11 +104182,9 @@ fly= REAL006690
 id= REAL012868
 te= Proteinkrystallografi
 ba= nk
-bf= Proteinkrystaller
 nn= Proteinkrystallografi
-nn= Proteinkrystall
-nn= Proteinkrystallar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-05T18:48:09Z
 
 id= REAL012869
 te= Prydplanter
@@ -120555,7 +120567,6 @@ en= Laplace operator
 en= Laplacian
 tio= 2014-12-03T00:00:00Z
 tie= 2014-12-04T00:00:00Z
-st= REAL031274
 
 id= REAL031271
 te= Laplace-matrisen
@@ -122806,4 +122817,15 @@ nn= Geometrisk topologi
 en= Geometric topology
 tio= 2017-09-02T20:20:42Z
 tie= 2017-09-02T20:21:45Z
+
+id= REAL031891
+te= Van der Waalske krefter
+bf= Dispersjonskrefter
+bf= London-krefter
+bf= London-dispersjonskrefter
+ot= REAL011287
+nn= Van der Waalske krefter
+nn= Van der Waalske krafter
+tio= 2017-09-05T21:09:54Z
+tie= 2017-09-05T21:13:15Z
 

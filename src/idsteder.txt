@@ -512,9 +512,9 @@ te= Preussen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030310
-te= Sogn Og Fjordane
+te= Sogn og Fjordane
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:14:17Z
+tie= 2017-09-05T20:07:36Z
 
 id= REAL030311
 te= Skåne
