@@ -2821,6 +2821,7 @@ ba= nk
 ba= nc
 ba= ns
 nn= Glas
+en= Glass
 tio= 2014-08-25T00:00:00Z
 st= REAL021402
 st= REAL021698
@@ -4848,14 +4849,15 @@ tio= 2014-08-25T00:00:00Z
 st= REAL022130
 
 id= REAL000603
-te= Organisk lysdiode
+te= Organiske lysdioder
 ba= nk
 ak= OLED
+ot= REAL011919
 nn= OLED
-nn= Organisk ljosdiode
-nn= Organisk lysdiode
+nn= Organiske ljosdiodar
+nn= Organiske lysdiodar
 tio= 2014-08-25T00:00:00Z
-tie= 2017-09-05T16:40:35Z
+tie= 2017-09-06T22:25:32Z
 
 id= REAL000604
 te= Kontekstfrie grammatikker
@@ -5999,6 +6001,7 @@ id= REAL000755
 te= Epigenetikk
 ba= nb
 nn= Epigenetikk
+en= Epigenetics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000756
@@ -6571,6 +6574,7 @@ id= REAL000824
 te= Gresk matematikk
 ba= nm
 nn= Gresk matematikk
+en= Greek mathematics
 tio= 2014-08-25T00:00:00Z
 st= REAL015462
 
@@ -6736,6 +6740,7 @@ id= REAL000848
 te= Edelgran
 ba= nb
 nn= Edelgran
+en= Firs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000849
@@ -10842,14 +10847,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001352
 te= Reseptorer
-ba= nk
-ba= nb
-ba= ne
-ba= nf
-nn= Reseptorar
 tio= 2014-08-25T00:00:00Z
-st= REAL016785
-st= REAL022528
+tis= 2017-09-06T15:00:07Z
+fly= REAL008605
 
 id= REAL001353
 te= Cellepreparering
@@ -11636,6 +11636,7 @@ nn= Daude
 nn= Død
 nn= Dauden
 nn= Døden
+en= Death
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-18T12:50:28Z
 
@@ -12243,6 +12244,7 @@ id= REAL001532
 te= Glukose
 ba= ne
 nn= Glukose
+en= Glucose
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001533
@@ -12286,6 +12288,8 @@ te= EM-algoritmer
 ba= ni
 bf= Expectation–maximization-algoritmer
 nn= EM-algoritmar
+en= EM algorithms
+en= Expectation–maximization algorithms
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T10:45:12Z
 
@@ -14119,6 +14123,8 @@ ba= ns
 so= REAL003307
 so= REAL004996
 nn= Egg
+en= Egg
+en= Eggs
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-27T11:05:07Z
 st= REAL014595
@@ -14520,8 +14526,9 @@ ba= ni
 nn= Abel
 en= Abel
 en= Advanced Boolean Expression Language
-de= Programmeringsspråk
+de= Maskinvarebeskrivelsesspråk (HDL)
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-06T14:31:14Z
 
 id= REAL001829
 te= Lommer
@@ -14657,6 +14664,7 @@ id= REAL001847
 te= Heltall
 ba= nm
 nn= Heiltal
+en= Integers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001848
@@ -16453,8 +16461,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002077
 te= Nevrotransmittere
 ba= nb
+bf= Neurotransmittorer
 nn= Nevrotransmitterar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-06T14:42:02Z
 st= REAL025332
 
 id= REAL002078
@@ -17287,6 +17297,7 @@ id= REAL002160
 te= Helsevitenskap
 ba= ne
 nn= Helsevitskap
+en= Health sciences
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002161
@@ -17482,6 +17493,7 @@ id= REAL002188
 te= Endothelin
 ba= nb
 nn= Endothelin
+en= Endothelin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002189
@@ -19589,6 +19601,7 @@ te= Dyrelyder
 ba= nb
 nn= Dyreljodar
 nn= Dyrelydar
+en= Animal sounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002451
@@ -20560,6 +20573,7 @@ ba= nb
 bf= Røkt
 nn= Dyrehald
 nn= Røkt
+en= Animal husbandry
 tio= 2014-08-25T00:00:00Z
 tie= 2015-09-21T11:46:50Z
 
@@ -21042,6 +21056,7 @@ id= REAL002620
 te= Fjellmiljøer
 ba= nb
 nn= Fjellmiljø
+en= Mountain environments
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002621
@@ -21392,6 +21407,8 @@ te= Dvergflaggermus
 ba= nb
 nn= Dvergflaggermus
 nn= Dvergflaggermyser
+en= Soprano pipistrelle
+en= Brown pipistrelle
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002668
@@ -25574,6 +25591,10 @@ id= REAL003184
 te= Erler
 ba= nb
 nn= Erler
+en= Wagtails
+en= Longclaws
+en= Pipits
+en= Motacillids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003185
@@ -26299,6 +26320,8 @@ te= Document Type Definition
 ba= ni
 ak= DTD
 nn= Document type definition
+en= Document Type Definition
+en= DTD
 tio= 2014-08-25T00:00:00Z
 tie= 2017-08-30T19:56:24Z
 
@@ -28638,6 +28661,7 @@ ba= nb
 bf= Kongrodyr
 nn= Edderkoppdyr
 nn= Kongrodyr
+en= Arachnids
 tio= 2014-08-25T00:00:00Z
 st= REAL017618
 st= REAL018854
@@ -31177,6 +31201,7 @@ id= REAL003867
 te= Elefantdyr
 ba= nc
 nn= Elefantdyr
+en= Proboscideans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003868
@@ -31842,6 +31867,7 @@ ba= nb
 ba= nc
 ba= ns
 nn= Elefantar
+en= Elephants
 tio= 2014-08-25T00:00:00Z
 st= REAL015844
 st= REAL028567
@@ -32724,6 +32750,7 @@ id= REAL004072
 te= Euclid
 ba= ni
 nn= Euclid
+en= Euclid
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -32845,6 +32872,7 @@ id= REAL004086
 te= Falker
 ba= nb
 nn= Falkar
+en= Falcons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004087
@@ -33674,6 +33702,7 @@ te= Drikke
 ba= nb
 ba= ns
 nn= Drikke
+en= Drink
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004189
@@ -33929,6 +33958,7 @@ id= REAL004220
 te= Feromoner
 ba= nb
 nn= Feromon
+en= Pheromones
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004221
@@ -36340,6 +36370,7 @@ id= REAL004523
 te= Feministiske teorier
 ba= ns
 nn= Feministiske teoriar
+en= Feminist theories
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004524
@@ -36425,6 +36456,8 @@ te= Edderkoppaper
 ba= nb
 nn= Edderkoppaper
 nn= Edderkoppapar
+en= Spider monkeys
+en= Ateles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004534
@@ -37062,7 +37095,6 @@ ba= ns
 nn= Plantehormon
 tio= 2014-08-25T00:00:00Z
 st= REAL015225
-st= REAL020166
 
 id= REAL004614
 te= Lokalflora
@@ -37502,6 +37534,8 @@ nn= Ekornapar
 nn= Ekornaper
 nn= Ikornapar
 nn= Ikornaper
+en= Squirrel monkeys
+en= Saimiris
 tio= 2014-08-25T00:00:00Z
 st= REAL019732
 
@@ -38433,6 +38467,7 @@ id= REAL004799
 te= Egenverdiproblemer
 ba= nm
 nn= Eigenverdiproblem
+en= Eigenvalue problems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004800
@@ -38561,6 +38596,7 @@ id= REAL004814
 te= Aluminiumsilikater
 ba= nc
 nn= Aluminiumsilikat
+en= Aluminosilicates
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004815
@@ -39075,6 +39111,8 @@ id= REAL004885
 te= ODA
 ba= ni
 nn= ODA
+en= ODA
+en= Open Document Architecture
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-05T16:43:49Z
 
@@ -39119,6 +39157,7 @@ id= REAL004890
 te= Petrokjemi
 ba= nk
 nn= Petrokjemi
+en= Petrochemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004891
@@ -40137,6 +40176,7 @@ ba= nb
 ba= ns
 nn= Flaggermus
 nn= Flaggermyser
+en= Bats
 tio= 2014-08-25T00:00:00Z
 st= REAL015159
 st= REAL018221
@@ -40547,6 +40587,7 @@ id= REAL005076
 te= Fiskedammer
 ba= nb
 nn= Fiskedammar
+en= Fish ponds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005077
@@ -41077,6 +41118,7 @@ ba= nb
 so= REAL010642
 ot= REAL009410
 nn= Endosymbiose
+en= Endosymbiosis
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-07T09:54:53Z
 
@@ -42279,6 +42321,8 @@ id= REAL005302
 te= Eggehvite
 ba= nb
 nn= Eggekvite
+en= Egg white
+en= Albumen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005303
@@ -42704,6 +42748,7 @@ id= REAL005359
 te= Ferrocener
 ba= nk
 nn= Ferrocen
+en= Ferrocenes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005360
@@ -42778,6 +42823,9 @@ te= Hartree–Fock-metoden
 ba= nk
 bf= Hartree-Fock
 nn= Hartree-fock
+en= Hartree–Fock
+en= Hartree–Fock method
+en= Mean-field method
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-05T17:35:01Z
 
@@ -42830,6 +42878,7 @@ ba= nc
 ba= ngh
 ba= ns
 nn= Global oppvarming
+en= Global warming
 tio= 2014-08-25T00:00:00Z
 st= REAL014169
 st= REAL016740
@@ -44391,6 +44440,8 @@ id= REAL005589
 te= Flodhester
 ba= nb
 nn= Flodhestar
+en= Hippopotamuses
+en= Hippos
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005590
@@ -48115,6 +48166,9 @@ id= REAL006047
 te= Edderkoppnett
 ba= nb
 nn= Edderkoppnett
+en= Spider webs
+en= Cobwebs
+en= Spiderwebs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006048
@@ -48774,9 +48828,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006127
 te= Nervesignaler
-ba= nb
-nn= Nervesignal
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-06T14:36:30Z
 
 id= REAL006128
 te= Matriksinterferenser
@@ -59527,6 +59580,7 @@ bf= Ville dyr
 nn= Dyreliv
 nn= Villdyr
 nn= Ville dyr
+en= Wildlife
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-23T08:40:59Z
 st= REAL014237
@@ -59672,6 +59726,8 @@ bf= Finansteori
 nn= Finansmatematikk
 nn= Finansiell matematikk
 nn= Finansteori
+en= Mathematical finance
+en= Quantitative finance
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-21T19:26:31Z
 
@@ -61538,6 +61594,7 @@ id= REAL007698
 te= Ekskresjon
 ba= nb
 nn= Ekskresjon
+en= Excretion
 tio= 2014-08-25T00:00:00Z
 st= REAL026474
 
@@ -64242,6 +64299,7 @@ id= REAL008041
 te= Etanoler
 ba= nk
 nn= Etanolar
+en= Ethanols
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008043
@@ -68141,6 +68199,9 @@ id= REAL008523
 te= Dypvannsfauna
 ba= nb
 nn= Djupvassfauna
+en= Deep water fauna
+en= Deep-water fauna
+en= Deep sea fauna
 tio= 2014-08-25T00:00:00Z
 st= REAL014393
 
@@ -68813,6 +68874,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008605
 te= Cellereseptorer
 ba= nb
+bf= Reseptorer
 nn= Cellereseptorar
 en= Cell receptors
 tio= 2014-08-25T00:00:00Z
@@ -71603,6 +71665,7 @@ bf= Protonisering
 no= termwiki:http://www.termwiki.sprakradet.no/wiki/Protonering
 nn= Protonering
 nn= Protonisering
+en= Protonation
 de= prosess der man føyer proton til et atom, ion eller molekyl
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-05T20:53:29Z
@@ -71911,6 +71974,7 @@ id= REAL008996
 te= Fotosfærer
 ba= na
 nn= Fotosfærar
+en= Photospheres
 tio= 2014-08-25T00:00:00Z
 st= REAL019098
 
@@ -73629,6 +73693,7 @@ ba= ns
 bf= Endosytose
 nn= Endocytose
 nn= Endosytose
+en= Endocytosis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009214
@@ -75027,6 +75092,7 @@ te= Fremmedord
 ba= ne
 ba= ns
 nn= Framandord
+en= Unadopted loanwords
 tio= 2014-08-25T00:00:00Z
 st= REAL017135
 
@@ -75647,6 +75713,7 @@ te= Frosker
 ba= nb
 ba= nc
 nn= Froskar
+en= Frogs
 tio= 2014-08-25T00:00:00Z
 st= REAL014099
 st= REAL021221
@@ -76096,9 +76163,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009544
 te= Nerveledninger
-ba= nb
-nn= Nerveleidningar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-06T14:37:08Z
 
 id= REAL009546
 te= Dioksygen
@@ -77678,6 +77744,8 @@ bf= Endotelceller
 so= REAL002896
 nn= Endotel
 nn= Endotelceller
+en= Endothelium
+en= Endothelial cells
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-11T00:00:00Z
 
@@ -84120,6 +84188,7 @@ ba= nb
 so= REAL010156
 so= REAL012084
 nn= Editering (genetikk)
+en= Genome editing
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-07T14:38:15Z
 
@@ -84524,6 +84593,11 @@ ba= nc
 ba= ngh
 nn= Rullesteinåsar
 nn= Eskerar
+en= Eskers
+en= Eskars
+en= Eskar
+en= Eschar
+en= Eschars
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010588
@@ -86153,6 +86227,7 @@ id= REAL010800
 te= Heliosfæren
 ba= na
 nn= Heliosfæren
+en= Heliosphere
 tio= 2014-08-25T00:00:00Z
 st= REAL018848
 
@@ -87493,6 +87568,7 @@ id= REAL010988
 te= Etterglød
 ba= na
 nn= Etterglød
+en= Afterglow
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010989
@@ -88411,6 +88487,7 @@ id= REAL011110
 te= Endofytter
 ba= nb
 nn= Endofyttar
+en= Endophytes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011111
@@ -89787,6 +89864,7 @@ id= REAL011303
 te= Ebolavirus
 ba= ns
 nn= Ebolavirus
+en= Ebola virus
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011304
@@ -92309,6 +92387,7 @@ id= REAL011625
 te= Fluoridering
 ba= nb
 nn= Fluoridering
+en= Fluoridation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011626
@@ -93967,6 +94046,7 @@ id= REAL011823
 te= Fluorerte etanoler
 ba= nk
 nn= Fluorerte etanolar
+en= Fluorinated ethanols
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011824
@@ -94751,14 +94831,14 @@ en= Document analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011919
-te= Light Emitting Diode
+te= Lysdioder
 ba= nk
 ak= LED
-nn= LED
-nn= Light Emitting Diode
-nn= Ljosdiode
-nn= Lysdiode
+ut= REAL000603
+nn= Ljosdiodar
+nn= Lysdiodar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-06T22:26:03Z
 
 id= REAL011920
 te= Elektroanalytisk kjemi
@@ -101484,6 +101564,8 @@ bf= Feminisme
 nn= Feministisk filosofi
 nn= Feminisme
 nn= Feministfilosofi
+en= Feminist philosophy
+en= Feminism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012635
@@ -103204,6 +103286,7 @@ ba= ns
 bf= Ovarier
 nn= Eggstokkar
 nn= Ovarium
+en= Ovaries
 tio= 2014-08-25T00:00:00Z
 st= REAL029110
 
@@ -108806,6 +108889,7 @@ id= REAL013310
 te= Buttnebber
 ba= nb
 nn= Buttnebbar
+en= Parrotbills
 la= Paradoxornithidae
 de= Fuglefamilie i ordenen spurvefugler
 tio= 2014-08-25T00:00:00Z
@@ -109599,6 +109683,7 @@ tie= 2017-04-04T17:31:12Z
 id= REAL013378
 te= Epigenomikk
 nn= Epigenomikk
+en= Epigenomics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013379
@@ -117499,6 +117584,8 @@ nn= Døyelegheit
 nn= Dødelegheit
 nn= Døying
 nn= Mortalitet
+en= Mortality
+en= Mortality rate
 tio= 2014-08-25T00:00:00Z
 st= REAL028890
 
@@ -118545,6 +118632,8 @@ so= REAL003880
 so= REAL012723
 nn= Eincella organismar
 nn= Eincella dyr
+en= Unicellular organisms
+en= Single-celled organisms
 tio= 2014-08-25T00:00:00Z
 tie= 2016-05-04T14:48:56Z
 

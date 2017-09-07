@@ -202,6 +202,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030242
 te= Harestua
+en= Harestua
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030243
@@ -732,6 +733,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030355
 te= Golfstrømmen
+en= Gulf Stream
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030356
@@ -2996,6 +2998,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030848
 te= Halland
+en= Halland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030849
