@@ -32901,6 +32901,7 @@ ba= nc
 ba= ngh
 ba= ns
 nn= Gruvedrift
+en= Mining
 tio= 2014-08-25T00:00:00Z
 st= REAL014863
 st= REAL017458
