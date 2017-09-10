@@ -4088,6 +4088,7 @@ te= Fosfolipider
 ba= nb
 ba= ne
 nn= Fosfolipid
+en= Phospholipids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000510
@@ -42056,6 +42057,8 @@ ba= nb
 ba= nc
 bf= Fosfat
 nn= Fosfat
+en= Phosphates
+en= Phosphate
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-22T15:11:16Z
 st= REAL015322
@@ -51931,6 +51934,7 @@ id= REAL006483
 te= Forgrenede polymerer
 ba= nk
 nn= Forgreina polymerar
+en= Branched polymers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006484
@@ -53804,6 +53808,7 @@ id= REAL006710
 te= Fosforescens
 ba= nk
 nn= Fosforescens
+en= Phosphorescence
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006711
@@ -65873,6 +65878,7 @@ id= REAL008235
 te= Fosfataser
 ba= nb
 nn= Fosfatasar
+en= Phosphatases
 tio= 2014-08-25T00:00:00Z
 st= REAL025110
 
@@ -69962,6 +69968,7 @@ te= Folkehelse
 ba= nb
 ba= ne
 nn= Folkehelse
+en= Public health
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008741
@@ -71460,6 +71467,7 @@ id= REAL008933
 te= Fyllosilikater
 ba= nc
 nn= Fyllosilikat
+en= Phyllosilicates
 tio= 2014-08-25T00:00:00Z
 st= REAL014945
 
@@ -88774,6 +88782,7 @@ ba= nk
 ba= nb
 ba= ne
 nn= Fytokjemi
+en= Phytochemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL028012
 
@@ -90384,6 +90393,7 @@ id= REAL011370
 te= Forgrenede makromolekyler
 ba= nk
 nn= Forgreina makromolekyl
+en= Branched macromolecules
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011371
@@ -91596,10 +91606,13 @@ tie= 2017-02-21T20:45:53Z
 tis= 2017-02-21T20:45:53Z
 
 id= REAL011528
-te= Faseloven
+te= Gibbs' faseregel
 ba= nk
+bf= Faseloven
+nn= Gibbs' faseregel
 nn= Faselova
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-09T16:57:20Z
 
 id= REAL011529
 te= Primitive amfibier
@@ -94377,8 +94390,11 @@ tie= 2015-06-30T13:57:15Z
 id= REAL011863
 te= Flusspat
 ba= nc
+bf= Fluoritt
 nn= Flusspat
+nn= Fluoritt
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-09T16:43:12Z
 
 id= REAL011864
 te= Atomkraftmikroskopi
@@ -96228,6 +96244,9 @@ te= Fridykking
 ba= nb
 ot= REAL000055
 nn= Fridykking
+en= Freediving
+en= Free diving
+en= Free-diving
 tio= 2014-08-25T00:00:00Z
 tie= 2015-07-30T13:40:29Z
 
@@ -119278,6 +119297,7 @@ bf= Fordamping
 bf= Evaporasjon
 nn= Fordamping
 nn= Evaporasjon
+en= Evaporation
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-24T11:26:06Z
 st= REAL015849
