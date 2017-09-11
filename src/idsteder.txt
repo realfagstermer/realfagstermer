@@ -248,6 +248,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030251
 te= Fennoskandia
+en= Fennoscandia
+en= Fennoscandian Peninsula
+en= Fenno-Scandinavia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030252

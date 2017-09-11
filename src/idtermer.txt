@@ -4155,6 +4155,7 @@ id= REAL000518
 te= Etnozoologi
 ba= nb
 nn= Etnozoologi
+en= Ethnozoology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000519
@@ -7941,6 +7942,7 @@ ba= na
 ba= nb
 ba= nm
 nn= Vektorar
+en= Vectors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000999
@@ -20286,6 +20288,8 @@ id= REAL002532
 te= Entrofiering
 ba= nb
 nn= Entrofiering
+en= Eutrophication
+en= Hypertrophication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002533
@@ -20976,6 +20980,7 @@ id= REAL002607
 te= Epilepsi
 ba= ne
 nn= Epilepsi
+en= Epilepsy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002608
@@ -26065,6 +26070,7 @@ te= Feltspat
 ba= nc
 ba= ns
 nn= Feltspat
+en= Feldspar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003250
@@ -36067,6 +36073,7 @@ ba= nm
 ba= nq
 ba= ns
 nn= Universitet
+en= Universities
 tio= 2014-08-25T00:00:00Z
 st= REAL016893
 st= REAL016915
@@ -37333,6 +37340,7 @@ id= REAL004645
 te= Fast helium
 ba= nf
 nn= Fast helium
+en= Solid helium
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004646
@@ -38305,6 +38313,7 @@ ba= nb
 ba= ne
 ba= nf
 nn= Vekt
+en= Weight
 tio= 2014-08-25T00:00:00Z
 st= REAL015487
 
@@ -40461,6 +40470,7 @@ ba= nk
 ba= nf
 nn= Flytande krystallar
 nn= Flytande krystall
+en= Liquid crystals
 tio= 2014-08-25T00:00:00Z
 st= REAL015413
 st= REAL022212
@@ -41769,6 +41779,7 @@ bf= Vekstfremmende hormon
 nn= Veksthormon
 nn= Vekstfremjande hormon
 nn= Vekstfremmande hormon
+en= Growth hormones
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005226
@@ -44423,6 +44434,7 @@ id= REAL005585
 te= Vekselstrøm
 ba= nf
 nn= Vekselstraum
+en= Alternating current
 tio= 2014-08-25T00:00:00Z
 st= REAL024585
 
@@ -45329,6 +45341,7 @@ id= REAL005697
 te= Fluoriserende proteiner
 ba= nb
 nn= Fluoriserande protein
+en= Fluorescent proteins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005698
@@ -48270,6 +48283,8 @@ id= REAL006057
 te= Faststoffelektronikk
 ba= nf
 nn= Faststoffelektronikk
+en= Solid-state electronics
+en= Solid state electronics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006058
@@ -48999,6 +49014,7 @@ id= REAL006146
 te= Fibonaccitall
 ba= nm
 nn= Fibonaccital
+en= Fibonacci numbers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006147
@@ -50269,6 +50285,7 @@ te= Veksthus
 ba= nb
 ba= nq
 nn= Veksthus
+en= Greenhouses
 tio= 2014-08-25T00:00:00Z
 st= REAL021926
 
@@ -58777,6 +58794,7 @@ te= Feber
 ba= nb
 ba= ne
 nn= Feber
+en= Fever
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007341
@@ -70376,6 +70394,7 @@ id= REAL008791
 te= Flytende metaller
 ba= nk
 nn= Flytande metall
+en= Liquid metals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008792
@@ -85512,6 +85531,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Eukaryotar
+en= Eukaryotes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010705
@@ -91611,6 +91631,8 @@ ba= nk
 bf= Faseloven
 nn= Gibbs' faseregel
 nn= Faselova
+en= Gibbs' phase rule
+en= Phase rule
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-09T16:57:20Z
 
@@ -94393,6 +94415,8 @@ ba= nc
 bf= Fluoritt
 nn= Flusspat
 nn= Fluoritt
+en= Fluorite
+en= Fluorspar
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-09T16:43:12Z
 
