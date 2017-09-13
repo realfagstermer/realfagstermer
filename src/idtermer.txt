@@ -1042,12 +1042,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000134
 te= Organiske kjemikalier
-ba= nk
-ba= nc
-nn= Organiske kjemikal
-nn= Organiske kjemikaliar
-nn= Organiske kjemikalium
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T18:22:40Z
+fly= REAL005714
 
 id= REAL000135
 te= Kombinatorisk kjemi
@@ -2195,10 +2192,8 @@ st= REAL027845
 
 id= REAL000273
 te= Erfaringer
-ba= ne
-nn= Røynsler
-nn= Erfaringar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T19:12:11Z
 
 id= REAL000274
 te= Liming
@@ -4821,9 +4816,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000598
 te= Ferskvannsundersøkelser
-ba= nb
-nn= Ferskvassundersøkingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T14:22:58Z
 
 id= REAL000599
 te= Kronostratigrafi
@@ -7003,9 +6997,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000889
 te= Exterior
-ba= nm
-nn= Exterior
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T19:15:00Z
 
 id= REAL000890
 te= Tungregning
@@ -17462,9 +17455,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002184
 te= Årsakssammenheng
-ba= nk
-nn= Årsakssamanheng
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T18:55:00Z
+fly= REAL002675
 
 id= REAL002185
 te= Livredning
@@ -19875,10 +19868,16 @@ te= Tunneleffekt
 ba= nk
 ba= nf
 bf= Tunelleffekt
+bf= Tunnelering
+bf= Kvantemekanisk tunnelering
+bf= Kvantemekanisk tunneleffekt
 nn= Tunneleffekt
 nn= Tunelleffekt
+nn= Tunnelering
+nn= Kvantemekanisk tunnelering
+nn= Kvantemekanisk tunneleffekt
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-05T11:22:22Z
+tie= 2017-09-12T18:21:17Z
 st= REAL023023
 
 id= REAL002486
@@ -20286,11 +20285,9 @@ st= REAL021358
 
 id= REAL002532
 te= Entrofiering
-ba= nb
-nn= Entrofiering
-en= Eutrophication
-en= Hypertrophication
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T18:02:46Z
+fly= REAL007472
 
 id= REAL002533
 te= Trender
@@ -21471,7 +21468,9 @@ ba= nk
 ba= nf
 ba= nm
 ba= ns
+bf= Årsakssammenheng
 nn= Kausalitet
+nn= Årsakssamanheng
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002676
@@ -25496,10 +25495,11 @@ st= REAL018281
 st= REAL025998
 
 id= REAL003170
-te= Diffeomorphisms
+te= Diffeomorfier
 ba= nm
-nn= Diffeomorphisms
+nn= Diffeomorfiar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T19:18:07Z
 
 id= REAL003171
 te= Extreme ultraviolet
@@ -26817,9 +26817,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003345
 te= Ferskvannspåvirkning
-ba= nb
-nn= Ferskvasspåverknad
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T14:28:49Z
 
 id= REAL003346
 te= Magnetiske materialer
@@ -27051,9 +27050,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003366
 te= Fyrokjemi
-ba= ne
-nn= Fyrokjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T17:34:56Z
+fly= REAL011154
 
 id= REAL003367
 te= Sosial lagdeling
@@ -45338,11 +45337,14 @@ tis= 2017-08-18T19:59:02Z
 fly= REAL012487
 
 id= REAL005697
-te= Fluoriserende proteiner
+te= Fluorescerende proteiner
 ba= nb
+bf= Fluoriserende proteiner
+nn= Fluorescerande protein
 nn= Fluoriserande protein
 en= Fluorescent proteins
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T17:49:17Z
 
 id= REAL005698
 te= Lyn
@@ -45509,7 +45511,11 @@ ba= nk
 ba= nb
 ba= nc
 ba= ne
+bf= Organiske kjemikalier
 nn= Organiske sambindingar
+nn= Organiske kjemikal
+nn= Organiske kjemikaliar
+nn= Organiske kjemikalium
 en= Organic compounds
 tio= 2014-08-25T00:00:00Z
 st= REAL014125
@@ -47943,7 +47949,9 @@ id= REAL006017
 te= Grenseverditeoremer
 ba= nm
 nn= Grenseverditeorem
+en= Limit value theorems
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T19:10:44Z
 
 id= REAL006018
 te= Kjemiske prinsipper
@@ -49556,7 +49564,9 @@ id= REAL006216
 te= Randverdiproblemer
 ba= nm
 nn= Randverdiproblem
+en= Boundary value problems
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T19:08:24Z
 
 id= REAL006217
 te= Fiskeørner
@@ -50796,12 +50806,8 @@ st= REAL029336
 
 id= REAL006358
 te= Fettinnhold
-ba= nk
-ba= ns
-bf= Fettsyreinnhold
-nn= Feittinnhald
-nn= Feittsyreinnhald
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T14:39:11Z
 
 id= REAL006359
 te= Klimagasser
@@ -52822,11 +52828,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006595
 te= Eikosapentaensyre
-ba= ns
-ak= EPA
-nn= Eikosapentaensyre
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-24T11:29:06Z
+tis= 2017-09-12T18:04:22Z
 
 id= REAL006596
 te= Værmelding
@@ -54821,7 +54825,10 @@ st= REAL026554
 id= REAL006842
 te= Røde blodceller
 ba= nb
+bf= Erytrocytter
+bf= Røde blodlegemer
 nn= Raude blodceller
+nn= Erythrocytar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006843
@@ -55189,10 +55196,11 @@ nn= Preferansar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006886
-te= Erythrocyter
-ba= nb
-nn= Erythrocytar
+te= Erytrocytter
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T17:59:49Z
+tis= 2017-09-12T18:01:42Z
+fly= REAL006842
 
 id= REAL006887
 te= Sentralforvaltning
@@ -55677,7 +55685,7 @@ en= GF-AAS
 en= Graphite furnace atomic absorption spectrometry
 en= Graphite-furnace atomic-absorption spectroscopy
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T13:02:05Z
+tie= 2017-09-12T18:45:25Z
 
 id= REAL006942
 te= Fc-reseptorer
@@ -56154,8 +56162,11 @@ ba= nk
 ba= nb
 ba= ngh
 ba= nq
+bf= Ferskvannsorganismer
 nn= Ferskvassbiologi
+nn= Ferskvassorganismar
 en= Freshwater biology
+en= Fresh water organisms
 tio= 2014-08-25T00:00:00Z
 st= REAL016682
 st= REAL018353
@@ -59092,9 +59103,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007381
 te= Ferskvannsoppdrett
-ba= nb
-nn= Ferskvassoppdrett
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T14:18:58Z
 
 id= REAL007383
 te= Tynnsjiktkromatografi
@@ -59873,8 +59883,9 @@ bf= Eutrofe vann
 nn= Eutrofiering
 nn= Eutrofe vatn
 en= Eutrophication
+en= Hypertrophication
 tio= 2014-08-25T00:00:00Z
-tie= 2017-08-11T11:25:54Z
+tie= 2017-09-12T18:02:54Z
 st= REAL015172
 st= REAL017898
 st= REAL018503
@@ -60978,8 +60989,10 @@ ba= nk
 ba= nb
 ba= ngh
 bf= Ferskvannsdyr
+bf= Ferskvannszoologi
 nn= Ferskvassfauna
 nn= Ferskvassdyr
+nn= Ferskvasszoologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007619
@@ -62303,9 +62316,9 @@ st= REAL016529
 
 id= REAL007783
 te= Ferskvannszoologi
-ba= nb
-nn= Ferskvasszoologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T14:21:58Z
+fly= REAL007618
 
 id= REAL007784
 te= Solaktivitet
@@ -62733,13 +62746,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007839
 te= Nevroner
-ba= nb
-ba= nm
-bf= Neuroner
-nn= Nevron
-nn= Neuron
 tio= 2014-08-25T00:00:00Z
-st= REAL023092
+tis= 2017-09-11T12:08:01Z
+fly= REAL010290
 
 id= REAL007840
 te= Seismologi
@@ -66131,10 +66140,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008268
 te= Ferskvannsorganismer
-ba= nb
-nn= Ferskvassorganismar
-en= Fresh water organisms
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T14:21:29Z
+fly= REAL007002
 
 id= REAL008269
 te= Smittevernloven
@@ -66368,8 +66376,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008295
 te= Ferskvannsål
 ba= nb
+bf= Ferskvannsåler
 nn= Ferskvassål
+la= Anguillidae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T14:37:39Z
 st= REAL026821
 
 id= REAL008296
@@ -66729,7 +66740,9 @@ tie= 2016-06-14T13:43:15Z
 id= REAL008353
 te= Diazoforbindelser
 ba= nk
+bf= Diazoacetater
 nn= Diazosambindingar
+nn= Diazoacetat
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008354
@@ -72131,11 +72144,12 @@ en= Comparative biology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009013
-te= Digital rights management
+te= Digital rettighetshåndtering
 ba= ns
 ak= DRM
 nn= Digital rettsadministrasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T19:16:27Z
 
 id= REAL009014
 te= Stellar dynamikk
@@ -73965,9 +73979,8 @@ st= REAL018169
 
 id= REAL009241
 te= Waaler
-ba= nk
-nn= Waaler
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T18:12:15Z
 
 id= REAL009242
 te= Havvann
@@ -75880,10 +75893,11 @@ nn= Katadrome fiskar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009498
-te= Tropisk afrika
+te= Tropisk Afrika
 ba= nb
 nn= Tropisk Afrika
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T19:25:26Z
 st= REAL019921
 st= REAL023128
 
@@ -76983,10 +76997,12 @@ st= REAL025788
 st= REAL026930
 
 id= REAL009631
-te= Diels-alder
+te= Diels–Alder-reaksjonen
 ba= nk
-nn= Diels-alder
+bf= Diensyntese
+nn= Diels–Alder-reaksjonen
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T18:53:59Z
 
 id= REAL009632
 te= Evakuering
@@ -80298,7 +80314,9 @@ ba= nk
 ba= nb
 ba= ne
 ba= ns
+bf= Elektroforetisk analyse
 nn= Elektroforese
+nn= Elektroforetisk analyse
 en= Electrophoresis
 tio= 2014-08-25T00:00:00Z
 
@@ -82060,9 +82078,9 @@ st= REAL022100
 
 id= REAL010246
 te= Elektroforetisk analyse
-ba= nk
-nn= Elektroforetisk analyse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-12T19:14:01Z
+fly= REAL010037
 
 id= REAL010247
 te= Vekstvilkår
@@ -82457,9 +82475,14 @@ id= REAL010290
 te= Nerveceller
 ba= nb
 ba= ne
+bf= Nevroner
+bf= Neuroner
 nn= Nerveceller
+nn= Nevron
+nn= Neuron
 tio= 2014-08-25T00:00:00Z
 st= REAL014206
+st= REAL023092
 
 id= REAL010291
 te= Digitale signaturer
@@ -84681,8 +84704,9 @@ te= Grenseverdiproblemer
 ba= ni
 ba= nm
 nn= Grenseverdiproblem
-en= Border-value problems
+en= Limit value problems
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T19:07:38Z
 
 id= REAL010592
 te= Pollenanalyse
@@ -88804,6 +88828,7 @@ ba= ne
 nn= Fytokjemi
 en= Phytochemistry
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T17:35:02Z
 st= REAL028012
 
 id= REAL011155
@@ -92556,10 +92581,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-02-07T22:04:00Z
 
 id= REAL011639
-te= Diazoacetat
-ba= nk
-nn= Diazoacetat
+te= Diazoacetater
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T19:20:19Z
+tis= 2017-09-12T19:20:45Z
+fly= REAL008353
 
 id= REAL011640
 te= Strukturert programmering
@@ -122986,4 +123012,11 @@ nn= Van der Waalske krefter
 nn= Van der Waalske krafter
 tio= 2017-09-05T21:09:54Z
 tie= 2017-09-05T21:13:15Z
+
+id= REAL031892
+te= Livmorhalskreft
+nn= Livmorhalskreft
+en= Cervical cancer
+tio= 2017-09-12T17:23:12Z
+tie= 2017-09-12T17:23:30Z
 
