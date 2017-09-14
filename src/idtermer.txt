@@ -45340,9 +45340,15 @@ id= REAL005697
 te= Fluorescerende proteiner
 ba= nb
 bf= Fluoriserende proteiner
+bf= Grønt fluorescerende protein
+ak= GFP
 nn= Fluorescerande protein
 nn= Fluoriserande protein
+nn= Grønt fluoriserande protein
+nn= GFP
 en= Fluorescent proteins
+en= Green fluorescent protein
+en= GFP
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-12T17:49:17Z
 
@@ -94980,14 +94986,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011925
 te= Grønt fluorescerende protein
-ba= nb
-ak= GFP
-nn= Grønt fluoriserande protein
-nn= GFP
-en= Green fluorescent protein
-en= GFP
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-07T22:37:52Z
+tis= 2017-09-13T12:17:08Z
+fly= REAL005697
 
 id= REAL011926
 te= Apokryfer
@@ -115696,6 +115698,7 @@ en= Fluid dynamics
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-17T13:15:24Z
 st= REAL015040
+st= REAL031893
 
 id= REAL013745
 te= Uløste problemer
