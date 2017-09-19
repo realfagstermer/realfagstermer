@@ -9131,9 +9131,8 @@ st= REAL031734
 
 id= REAL001147
 te= Geomekaniske egenskaper
-ba= nc
-nn= Geomekaniske eigenskapar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-18T11:57:45Z
 
 id= REAL001148
 te= Forskningsfond
@@ -28238,9 +28237,8 @@ st= REAL029328
 
 id= REAL003511
 te= Geomaterialer
-ba= nk
-nn= Geomateriale
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-18T11:50:55Z
 
 id= REAL003512
 te= Kartprojeksjon
@@ -69459,11 +69457,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008671
 te= Geomekanikk
-ba= ni
-ba= nc
-ba= ngh
-nn= Geomekanikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-18T11:57:02Z
 
 id= REAL008673
 te= Desimalregning
@@ -70743,11 +70738,8 @@ st= REAL017512
 
 id= REAL008835
 te= Analytisk geomekanikk
-ba= nc
-ba= ngh
-nn= Analytisk geomekanikk
-en= Analytical geomechanics
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-18T11:56:57Z
 
 id= REAL008836
 te= Perl
@@ -93162,9 +93154,8 @@ st= REAL021035
 
 id= REAL011702
 te= Geometrikk
-ba= ngh
-nn= Geometrikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-18T12:06:17Z
 
 id= REAL011703
 te= Beregningsmetoder
@@ -100317,14 +100308,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012512
 te= Geometriens grunnlag
-ba= nm
-bf= Geometriaksiomer
-nn= Grunnlaget for geometrien
-nn= Geometriaksiom
-en= Foundations of geometry
-ms= 50.05
-dw= 516.01
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-18T12:04:59Z
 
 id= REAL012513
 te= Grafikkformater
