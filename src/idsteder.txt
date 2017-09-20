@@ -451,6 +451,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030295
 te= Baltikum
+en= Baltic states
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030296
@@ -1085,6 +1086,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030429
 te= Bamble
+en= Bamle
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030430
@@ -1279,6 +1281,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030472
 te= Babylon
+en= Babylon
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030473
@@ -2172,6 +2175,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030664
 te= Batavia
+en= Batavia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030665
@@ -3488,6 +3492,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030947
 te= Balestrand
+en= Balestrand
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030948
@@ -3715,6 +3720,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030990
 te= Bamblefeltet
 ba= nc
+en= Bamble field
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030991

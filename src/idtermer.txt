@@ -8242,6 +8242,8 @@ te= Ettårige planter
 ba= nb
 nn= Eittårige planter
 nn= Eittårige plantar
+en= Annual plants
+en= Annuals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001033
@@ -8812,6 +8814,8 @@ ba= nb
 bf= Cellulær kontroll
 nn= Celleregulering
 nn= Cellulær kontroll
+en= Cellular control
+en= Cell regulation
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-08T09:08:09Z
 
@@ -12416,6 +12420,7 @@ ba= nk
 ba= nb
 ba= nq
 nn= Cytotaksonomi
+en= Cytotaxonomy
 tio= 2014-08-25T00:00:00Z
 st= REAL016026
 st= REAL025887
@@ -12837,6 +12842,7 @@ id= REAL001607
 te= Entozoa
 ba= nb
 nn= Entozoa
+en= Entozoa
 tio= 2014-08-25T00:00:00Z
 st= REAL024102
 st= REAL026693
@@ -15123,6 +15129,7 @@ te= Cellefysiologi
 ba= nb
 ba= ne
 nn= Cellefysiologi
+en= Cell physiology
 tio= 2014-08-25T00:00:00Z
 st= REAL017484
 st= REAL024470
@@ -15928,6 +15935,7 @@ ba= nb
 bf= Fiskeproteinkonsentrat
 nn= Fiskemjøl
 nn= Fiskeproteinkonsentrat
+en= Fish meal
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002008
@@ -17011,6 +17019,7 @@ id= REAL002135
 te= Elektrokommunikasjon
 ba= nb
 nn= Elektrokommunikasjon
+en= Electrocommunication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002136
@@ -18991,6 +19000,8 @@ bf= Vanninsekter
 nn= Ferskvassinsekt
 nn= Akvatiske insekt
 nn= Vassinsekt
+en= Freshwater insects
+en= Aquatic insects
 tio= 2014-08-25T00:00:00Z
 tie= 2017-08-08T13:52:00Z
 
@@ -19522,6 +19533,7 @@ id= REAL002442
 te= Fibrin
 ba= nb
 nn= Fibrin
+en= Fibrin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002443
@@ -20459,6 +20471,9 @@ te= Akustiske signaler
 ba= nb
 bf= Akustisk kommunikasjon
 nn= Akustiske signal
+en= Acoustic signals
+en= Acoustic signalling
+en= Acoustic communication
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-02T20:09:09Z
 
@@ -23842,6 +23857,7 @@ ba= ne
 bf= Pankreas
 nn= Bukspyttkjertelen
 nn= Pankreas
+en= Pancreas
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002962
@@ -28194,6 +28210,7 @@ ba= nb
 ba= ngh
 nn= Fiskedaude
 nn= Fiskedød
+en= Fish death
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003506
@@ -29499,6 +29516,7 @@ so= REAL000572
 so= REAL031798
 nn= Epitel
 nn= Epitelceller
+en= Epithelium
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-09T11:11:20Z
 
@@ -30443,6 +30461,7 @@ id= REAL003776
 te= Fiskeparasitter
 ba= nb
 nn= Fiskeparasittar
+en= Fish parasites
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003777
@@ -31389,6 +31408,7 @@ id= REAL003889
 te= Elektriske fisker
 ba= nb
 nn= Elektriske fiskar
+en= Electric fish
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003890
@@ -31822,6 +31842,7 @@ id= REAL003944
 te= Eremittkreps
 ba= nb
 nn= Eremittkreps
+en= Hermit crabs
 tio= 2014-08-25T00:00:00Z
 st= REAL023761
 
@@ -32607,6 +32628,7 @@ te= Anvendt genetikk
 ba= nb
 ba= ns
 nn= Bruksretta genetikk
+en= Applied genetics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004051
@@ -33742,6 +33764,9 @@ id= REAL004192
 te= Fikentrær
 ba= ns
 nn= Fikentre
+en= Fig trees
+en= Figs
+en= Fig trees
 tio= 2014-08-25T00:00:00Z
 st= REAL014081
 
@@ -38013,6 +38038,7 @@ te= Elgpåkjørsler
 ba= nb
 nn= Elgpåkøyrsler
 nn= Elgpåkøyrslar
+en= Collision with moose
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004734
@@ -39977,6 +40003,8 @@ te= Fiskeegg
 ba= nb
 so= REAL001773
 nn= Fiskeegg
+en= Roe
+en= Fish eggs
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-27T11:05:08Z
 
@@ -40093,6 +40121,7 @@ ba= nb
 ba= ne
 nn= Fiskesjukdomar
 nn= Fiskesjukdommar
+en= Fish diseases
 tio= 2014-08-25T00:00:00Z
 st= REAL024862
 
@@ -40508,6 +40537,7 @@ id= REAL005061
 te= Dypvannsfisker
 ba= nb
 nn= Djupvassfiskar
+en= Deep sea fish
 tio= 2014-08-25T00:00:00Z
 st= REAL014584
 
@@ -41922,6 +41952,8 @@ id= REAL005246
 te= Elvereguleringer
 ba= nb
 nn= Elvereguleringar
+en= River engineering
+en= Regulation of rivers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005248
@@ -44059,6 +44091,7 @@ id= REAL005528
 te= Bukmuskulatur
 ba= ns
 nn= Bukmuskulatur
+en= Abdominal muscles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005529
@@ -44249,6 +44282,7 @@ id= REAL005558
 te= Fettvev
 ba= nb
 nn= Feittvev
+en= Adipose tissue
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005559
@@ -46789,6 +46823,7 @@ te= Epifytter
 ba= nb
 ba= ns
 nn= Epifyttar
+en= Epiphytes
 tio= 2014-08-25T00:00:00Z
 st= REAL019592
 
@@ -50072,6 +50107,7 @@ nn= Feitt
 nn= Feittprodukt
 nn= Feittdanning
 nn= Feittstoff
+en= Fat
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T15:33:10Z
 
@@ -50185,6 +50221,7 @@ id= REAL006298
 te= Asbestose
 ba= nb
 nn= Asbestose
+en= Asbestosis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006299
@@ -55153,6 +55190,7 @@ id= REAL006880
 te= Einebær
 ba= ne
 nn= Einebær
+en= Juniper berries
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006881
@@ -58769,6 +58807,8 @@ id= REAL007334
 te= Ekkolokalisering
 ba= nb
 nn= Ekkolokalisering
+en= Echolocation
+en= Biosonar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007335
@@ -60999,6 +61039,8 @@ bf= Ferskvannszoologi
 nn= Ferskvassfauna
 nn= Ferskvassdyr
 nn= Ferskvasszoologi
+en= Freshwater fauna
+en= Freshwater animals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007619
@@ -65450,6 +65492,7 @@ te= Alkalose
 ba= nk
 ba= nb
 nn= Alkalose
+en= Alkalosis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008179
@@ -65528,6 +65571,8 @@ id= REAL008186
 te= Fioler
 ba= nk
 nn= Fiolar
+en= Violets
+en= Pansies
 tio= 2014-08-25T00:00:00Z
 st= REAL020213
 
@@ -73459,6 +73504,7 @@ te= Fikenveps
 ba= ns
 nn= Fikenkvefs
 nn= Fikenveps
+en= Fig wasps
 tio= 2014-08-25T00:00:00Z
 st= REAL018950
 
@@ -76514,6 +76560,8 @@ id= REAL009584
 te= Dypvannsrev
 ba= nb
 nn= Djupvassrev
+en= Deep sea reefs
+en= Deep-water reefs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009585
@@ -77021,6 +77069,7 @@ id= REAL009634
 te= Dyregrupper
 ba= nb
 nn= Dyregrupper
+en= Animal groups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009635
@@ -77848,6 +77897,10 @@ te= Dypvannskrabber
 ba= nb
 nn= Djupvasskrabber
 nn= Djupvasskrabbar
+en= Deep-sea crabs
+en= Deep water crabs
+en= Deep sea crabs
+en= Deep-water crabs
 tio= 2014-08-25T00:00:00Z
 st= REAL017572
 
@@ -80416,6 +80469,8 @@ id= REAL010047
 te= Dypvannsorganismer
 ba= nb
 nn= Djupvassorganismar
+en= Deep sea organisms
+en= Deep sea creatures
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010048
@@ -81855,6 +81910,7 @@ id= REAL010217
 te= Antropozoonoser
 ba= nb
 nn= Antropozoonosar
+en= Anthropozoonoses
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010218
@@ -83379,6 +83435,9 @@ id= REAL010412
 te= Firfisler
 ba= nb
 nn= Firfisler
+en= Wall lizards
+en= Lacertas
+en= True lizards
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010413
@@ -85272,6 +85331,7 @@ id= REAL010666
 te= Finker
 ba= nb
 nn= Finkar
+en= Finches
 tio= 2014-08-25T00:00:00Z
 st= REAL021686
 st= REAL028252
@@ -86248,6 +86308,7 @@ id= REAL010794
 te= Celleoverflater
 ba= nb
 nn= Celleoverflater
+en= Cell surfaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010795
@@ -87177,6 +87238,7 @@ te= Fiskeøkologi
 ba= nk
 ba= nb
 nn= Fiskeøkologi
+en= Fish ecology
 tio= 2014-08-25T00:00:00Z
 st= REAL019901
 st= REAL027634
@@ -89756,6 +89818,8 @@ ba= nb
 ba= nq
 nn= Arboret
 nn= Arboretum
+en= Arboreta
+en= Arboretum
 tio= 2014-08-25T00:00:00Z
 st= REAL016851
 
@@ -91751,6 +91815,7 @@ id= REAL011541
 te= Byttedyr
 ba= nb
 nn= Byttedyr
+en= Prey
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011542
@@ -94057,6 +94122,7 @@ id= REAL011814
 te= Dypvannskoraller
 ba= nb
 nn= Djupvasskorallar
+en= Deep-water corals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011815
@@ -94467,6 +94533,7 @@ id= REAL011865
 te= Fiskepatologi
 ba= nb
 nn= Fiskepatologi
+en= Fish pathology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011866
@@ -95815,6 +95882,7 @@ id= REAL012044
 te= Farlige dyr
 ba= nb
 nn= Farlege dyr
+en= Dangerous animals
 tio= 2014-08-25T00:00:00Z
 st= REAL022705
 
@@ -99619,6 +99687,9 @@ ba= ns
 bf= Cytostatika
 nn= Cellegift
 nn= Cytostatika
+en= Cytotoxic drugs
+en= Cytotstatics
+en= Cytotoxic chemotherapy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012456
@@ -102624,6 +102695,8 @@ ba= ngh
 bf= Atmosfærisk CO2
 nn= Atmosfærisk karbondioksid
 nn= Atmosfærisk CO2
+en= Atmospheric carbon dioxide
+en= Atmospheric CO2
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012706
@@ -104975,6 +105048,8 @@ id= REAL012926
 te= Bukkeblad
 ba= ne
 nn= Bukkeblad
+en= Buckbean
+en= Bogbean
 la= Menyanthes trifoliata
 tio= 2014-08-25T00:00:00Z
 
@@ -104982,6 +105057,7 @@ id= REAL012927
 te= Bukkebladfamilien
 ba= nq
 nn= Bukkebladfamilien
+en= Buckbean family
 la= Menyanthaceae
 tio= 2014-08-25T00:00:00Z
 
@@ -114245,6 +114321,9 @@ ba= nb
 bf= Oogenese
 nn= Eggdanning
 nn= Oogenese
+en= Oogenesis
+en= Oögenesis
+en= Ovogenesis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013626
@@ -114788,6 +114867,7 @@ so= REAL013665
 nn= Fiskeriforsking
 nn= Fiskeribiologi
 nn= Fiskeriundersøkingar
+en= Fisheries science
 tio= 2014-08-25T00:00:00Z
 tie= 2016-12-20T13:07:24Z
 st= REAL015136
@@ -115170,6 +115250,8 @@ nn= Fiskeregulering
 nn= Fiskestell
 nn= Fiskeutsetjing
 nn= Fiskeutsetting
+en= Fish management
+en= Fish care
 tio= 2014-08-25T00:00:00Z
 st= REAL019698
 
@@ -117150,6 +117232,10 @@ bf= Ichtyologi
 nn= Fiskar
 nn= Fisk
 nn= Ichtyologi
+en= Fishes
+en= Ichthyology
+en= Fish science
+en= Fish
 tio= 2014-08-25T00:00:00Z
 st= REAL014175
 st= REAL014337
