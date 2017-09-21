@@ -6578,7 +6578,9 @@ id= REAL000825
 te= Luktstoffer
 ba= nk
 ba= nb
+bf= Aroma
 nn= Luktstoff
+nn= Aroma
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000826
@@ -16614,9 +16616,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002094
 te= Bunnfall
-ba= ns
-nn= Botnfall
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-20T21:34:51Z
 
 id= REAL002095
 te= Radiometri
@@ -17110,10 +17111,13 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-08-08T11:30:42Z
 
 id= REAL002146
-te= Coercivity
+te= Koersivitet
 ba= nm
-nn= Coercivity
+bf= Koersitivitet
+nn= Koersitivitet
+nn= Koersivitet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-19T09:08:31Z
 
 id= REAL002147
 te= Paleobotanikk
@@ -25569,9 +25573,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003178
 te= Dinitrogen
-ba= nb
-nn= Dinitrogen
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-20T21:12:21Z
+fly= REAL011677
 
 id= REAL003179
 te= Joer
@@ -26245,9 +26249,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003268
 te= Anvendt elektrokjemi
-ba= nk
-nn= Bruksretta elektrokjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-20T20:16:41Z
+fly= REAL011543
 
 id= REAL003269
 te= Koronitt
@@ -33464,8 +33468,10 @@ st= REAL025289
 id= REAL004152
 te= Arener
 ba= nk
+bf= Aromatiske hydrokarboner
 nn= Aren
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-20T20:17:06Z
 
 id= REAL004153
 te= Heterogene systemer
@@ -33766,7 +33772,6 @@ ba= ns
 nn= Fikentre
 en= Fig trees
 en= Figs
-en= Fig trees
 tio= 2014-08-25T00:00:00Z
 st= REAL014081
 
@@ -44002,8 +44007,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005515
 te= Meiose
 ba= nb
+bf= Reduksjonsdeling
 nn= Meiose
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-19T09:03:31Z
 
 id= REAL005516
 te= Protokollmaskin
@@ -44118,12 +44125,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005534
 te= Kinetisk gassteori
-ba= nk
-ba= na
-ba= nf
-nn= Kinetisk gassteori
 tio= 2014-08-25T00:00:00Z
-st= REAL016522
+tie= 2017-09-20T20:53:19Z
+tis= 2017-09-20T20:53:19Z
+fly= REAL006275
 
 id= REAL005535
 te= Virkestoffer
@@ -50042,8 +50047,13 @@ id= REAL006275
 te= Kinetisk teori
 ba= nk
 ba= na
+ba= nf
+bf= Kinetisk gassteori
 nn= Kinetisk teori
+nn= Kinetisk gassteori
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-20T20:53:07Z
+st= REAL016522
 
 id= REAL006276
 te= Kjedebrøk
@@ -53317,10 +53327,12 @@ nn= Systemprogrammering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006648
-te= Cyclodextriner
+te= Syklodekstriner
 ba= nk
+bf= Sykliske dekstriner
 nn= Cyclodextrin
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-20T10:46:32Z
 
 id= REAL006650
 te= Normalperioder
@@ -55633,8 +55645,10 @@ ba= nb
 ba= nc
 ba= ngh
 ba= ns
+bf= Poredyr
 nn= Foraminiferar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-19T09:20:42Z
 st= REAL015282
 st= REAL015867
 st= REAL016381
@@ -59515,10 +59529,11 @@ tie= 2015-02-23T09:05:13Z
 st= REAL017557
 
 id= REAL007435
-te= Enterotoxiner
+te= Enterotoksiner
 ba= ne
-nn= Enterotoxin
+nn= Enterotoksin
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-19T09:06:25Z
 
 id= REAL007436
 te= Magnetiske observasjoner
@@ -73193,9 +73208,10 @@ st= REAL021527
 
 id= REAL009135
 te= Kolonner
-ba= nk
-nn= Kolonnar
+no= Se væskekromatografi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-20T21:29:29Z
+tis= 2017-09-20T21:29:22Z
 
 id= REAL009136
 te= Fasthetslære
@@ -73585,9 +73601,8 @@ st= REAL020188
 
 id= REAL009185
 te= Lavoisier
-ba= nk
-nn= Lavoisier
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-20T12:10:10Z
 
 id= REAL009186
 te= Naturressurser
@@ -80155,9 +80170,8 @@ fly= REAL011347
 
 id= REAL010009
 te= Atomemisjon
-ba= nk
-nn= Atomemisjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-20T20:30:33Z
 
 id= REAL010010
 te= Ressursforvaltning
@@ -80663,9 +80677,9 @@ tie= 2015-02-13T00:00:00Z
 
 id= REAL010071
 te= Aroma
-ba= nk
-nn= Aroma
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-20T20:18:28Z
+fly= REAL000825
 
 id= REAL010072
 te= Multivariat analyse
@@ -82045,10 +82059,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010233
 te= Deweys desimalklassifikasjon
 ba= ns
+bf= Deweysystemet
+bf= DDK
+bf= Deweyklassifikasjon
 ot= REAL008560
 nn= Deweys desimalklassifikasjon
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-17T09:51:45Z
+tie= 2017-09-19T09:05:31Z
 
 id= REAL010234
 te= Zoobentos
@@ -91831,7 +91848,9 @@ ba= nb
 ba= nc
 ba= nf
 ba= ns
+bf= Anvendt elektrokjemi
 nn= Elektrokjemi
+nn= Bruksretta elektrokjemi
 en= Electrochemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL014921
@@ -92999,9 +93018,11 @@ ba= nb
 ba= ne
 ba= ngh
 bf= Kvelstoff
+bf= Dinitrogen
 ak= N
 nn= Nitrogen
 nn= Kvelstoff
+nn= Dinitrogen
 en= Nitrogen
 tio= 2014-08-25T00:00:00Z
 st= REAL024715
