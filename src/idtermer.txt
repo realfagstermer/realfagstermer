@@ -6744,7 +6744,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000849
 te= Molekylorbitalteori
 ba= nk
+bf= Orbitalteori
 nn= Molekylorbitalteori
+nn= Orbitalteori
 tio= 2014-08-25T00:00:00Z
 st= REAL029060
 
@@ -30593,9 +30595,9 @@ tie= 2015-05-19T13:27:53Z
 
 id= REAL003791
 te= Orbitalteori
-ba= nk
-nn= Orbitalteori
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-21T17:56:21Z
+fly= REAL000849
 
 id= REAL003792
 te= Sammentrekking
