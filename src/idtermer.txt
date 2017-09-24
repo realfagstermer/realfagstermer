@@ -65608,12 +65608,13 @@ st= REAL016356
 st= REAL017933
 
 id= REAL008189
-te= Structured query language
+te= SQL
 ba= ni
-ak= SQL
-nn= Structured query language
+bf= Structured query language
 nn= SQL
+nn= Structured query language
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-24T00:36:11Z
 
 id= REAL008190
 te= Plantepatogener
@@ -65751,11 +65752,13 @@ en= Computer supported cooperative work
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008209
-te= Mysql
+te= MySQL
 ba= ni
 ba= na
-nn= Mysql
+ot= REAL011705
+nn= MySQL
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-24T00:36:26Z
 
 id= REAL008211
 te= Merkedager
@@ -67672,9 +67675,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008457
 te= PostgreSQL
 ba= ni
+ot= REAL011705
 nn= PostgreSQL
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-05T11:20:33Z
+tie= 2017-09-24T00:36:29Z
 
 id= REAL008458
 te= Elver
@@ -93265,8 +93269,11 @@ id= REAL011705
 te= Relasjonsdatabaser
 ba= ni
 ba= ns
+ut= REAL008209
+ut= REAL008457
 nn= Relasjonsdatabasar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-24T00:36:29Z
 
 id= REAL011706
 te= Haukefugler
