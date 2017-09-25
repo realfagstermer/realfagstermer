@@ -127,6 +127,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030225
 te= Middelhavet
+en= Mediterranean Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030226
@@ -284,6 +285,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030258
 te= Mexico
+en= Mexico
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030259
@@ -414,6 +416,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030287
 te= Mali
+en= Mali
+en= Republic of Mali
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030288
@@ -806,6 +810,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030370
 te= Mongolia
+en= Mongolia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030371
@@ -905,6 +910,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030391
 te= Norrland
+en= Norrland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030392
@@ -915,6 +921,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030393
 te= Mallorca
+en= Majorca
+en= Mallorca
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030394
@@ -1157,10 +1165,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030444
 te= Missouri
+en= Missouri
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030445
 te= Malaysia
+en= Malaysia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030446
@@ -1223,6 +1233,8 @@ tie= 2016-06-22T11:29:43Z
 
 id= REAL030460
 te= Nederland
+en= Netherlands
+en= Holland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030461
@@ -1444,6 +1456,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030508
 te= Malawi
+en= Malawi
+en= Republic of Malawi
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030509
@@ -1648,7 +1662,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030551
 te= Karibia
+bf= Karibien
 tio= 2015-02-20T13:08:04Z
+tie= 2017-09-25T12:52:00Z
 
 id= REAL030552
 te= Palearktis
@@ -1800,6 +1816,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030585
 te= New York
+en= New York City
+en= City of New York
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030586
@@ -1813,10 +1831,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030588
 te= Mosjøen
+en= Mosjøen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030589
 te= Montpellier
+en= Montpellier
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030590
@@ -1845,6 +1865,7 @@ tie= 2016-02-03T13:34:52Z
 
 id= REAL030595
 te= Malmøya
+en= Malmøya
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030596
@@ -2282,6 +2303,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030684
 te= Mosambik
 bf= Moçambique
+en= Mozambique
+en= Republic of Mozambique
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030685
@@ -2572,6 +2595,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030748
 te= Odessa
+en= Odessa
+en= Odesa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030749
@@ -2652,6 +2677,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030766
 te= Nilen
+en= Nile
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030767
@@ -2733,6 +2759,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030784
 te= Mombasa
+en= Mombasa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030785
@@ -2754,6 +2781,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030789
 te= Mesopotamia
+en= Mesopotamia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030790
@@ -3877,6 +3905,7 @@ ba= na
 ba= nc
 ba= nf
 ba= ns
+en= Moon
 de= Jordas måne
 tio= 2015-02-20T13:08:04Z
 

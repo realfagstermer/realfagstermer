@@ -925,6 +925,7 @@ ba= nk
 ba= ns
 ak= I
 nn= Jod
+en= Iodine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000118
@@ -1443,6 +1444,7 @@ id= REAL000179
 te= Kiralitet
 ba= nk
 nn= Kiralitet
+en= Chirality
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000180
@@ -1670,6 +1672,7 @@ id= REAL000207
 te= Silisiumlegeringer
 ba= nk
 nn= Silisiumlegeringar
+en= Silicon alloys
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000210
@@ -2579,6 +2582,7 @@ id= REAL000325
 te= Laminær strømning
 ba= nm
 nn= Laminær strøyming
+en= Laminar flow
 de= Når en fluid beveger seg lagvis, det vil si uten turbulens.
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-20T14:04:48Z
@@ -2965,6 +2969,7 @@ ba= na
 ba= nf
 ba= ns
 nn= Energinivå
+en= Energy levels
 tio= 2014-08-25T00:00:00Z
 st= REAL017731
 st= REAL025698
@@ -3616,6 +3621,7 @@ ba= ne
 so= REAL006282
 so= REAL006971
 nn= Lipid
+en= Lipids
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-04T14:15:25Z
 st= REAL017104
@@ -4376,6 +4382,7 @@ te= Kvartskrystaller
 ba= nk
 nn= Kvartskrystallar
 nn= Kvartskrystall
+en= Quartz crystals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000550
@@ -4852,6 +4859,8 @@ ot= REAL011919
 nn= OLED
 nn= Organiske ljosdiodar
 nn= Organiske lysdiodar
+en= Organic light-emitting diodes
+en= OLED
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-06T22:25:32Z
 
@@ -4905,6 +4914,7 @@ id= REAL000611
 te= Imidazoler
 ba= nk
 nn= Imidazolar
+en= Imidazoles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000612
@@ -4929,6 +4939,7 @@ id= REAL000614
 te= Vandige løsninger
 ba= nk
 nn= Vasshaldige løysingar
+en= Aqueous solutions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000615
@@ -4998,6 +5009,7 @@ ba= nk
 ba= nm
 ba= ns
 nn= Basar
+en= Base
 tio= 2014-08-25T00:00:00Z
 st= REAL022811
 
@@ -5084,6 +5096,7 @@ id= REAL000634
 te= Oksidasjonsreaksjoner
 ba= nk
 nn= Oksidasjonsreaksjonar
+en= Oxidation reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000635
@@ -5386,6 +5399,7 @@ id= REAL000678
 te= Heteronukleære metaller
 ba= nk
 nn= Heteronukleære metall
+en= Heteronuclear metals
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-16T00:00:00Z
 
@@ -6492,6 +6506,7 @@ te= Protoner
 ba= nk
 ba= nf
 nn= Proton
+en= Protons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000813
@@ -6511,9 +6526,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000815
 te= Fleratomige molekyler
-ba= nk
-nn= Fleiratomige molekyl
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T12:57:57Z
 
 id= REAL000816
 te= Fermat
@@ -6822,6 +6836,7 @@ id= REAL000859
 te= Tinnforbindelser
 ba= nk
 nn= Tinnsambindingar
+en= Tin compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000860
@@ -6830,6 +6845,7 @@ ba= nk
 ba= nf
 ba= ns
 nn= Nanopartiklar
+en= Nanoparticles
 tio= 2014-08-25T00:00:00Z
 st= REAL031330
 
@@ -7596,6 +7612,7 @@ te= Ionekilder
 ba= nk
 ba= nf
 nn= Ionekjelder
+en= Ion sources
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000959
@@ -8163,6 +8180,8 @@ id= REAL001022
 te= Elektrotermisk atomisering
 ba= nk
 nn= Elektrotermisk atomisering
+en= Electrothermal atomisation
+en= Electrothermal atomization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001023
@@ -8890,6 +8909,7 @@ te= Materialkjemi
 ba= nk
 ba= nb
 nn= Materialkjemi
+en= Materials chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL015157
 
@@ -9269,6 +9289,7 @@ id= REAL001163
 te= Gullegeringer
 ba= nk
 nn= Gullegeringar
+en= Gold alloys
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001165
@@ -9430,6 +9451,7 @@ ba= nk
 ba= nb
 ba= ns
 nn= Mitose
+en= Mitosis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001189
@@ -9525,6 +9547,7 @@ te= Fellingsreaksjoner
 ba= nk
 ba= ngh
 nn= Fellingsreaksjonar
+en= Precipitation reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001201
@@ -10327,6 +10350,7 @@ id= REAL001298
 te= Silisiumforbindelser
 ba= nk
 nn= Silisiumsambindingar
+en= Silicon compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001299
@@ -10676,6 +10700,7 @@ id= REAL001328
 te= Overflatereaksjoner
 ba= nk
 nn= Overflatereaksjonar
+en= Surface reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001329
@@ -11842,6 +11867,7 @@ id= REAL001475
 te= Polyfenoler
 ba= ne
 nn= Polyfenolar
+en= Polyphenols
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001476
@@ -12732,6 +12758,7 @@ id= REAL001593
 te= Isocyanater
 ba= nk
 nn= Isocyanat
+en= Isocyanates
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001594
@@ -13257,6 +13284,7 @@ id= REAL001663
 te= Ioneegenskaper
 ba= nk
 nn= Ioneeigenskapar
+en= Ion properties
 tio= 2014-08-25T00:00:00Z
 st= REAL020025
 
@@ -14041,6 +14069,7 @@ id= REAL001762
 te= Oksygenisotoper
 ba= nc
 nn= Oksygenisotopar
+en= Oxygen isotopes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001763
@@ -14099,6 +14128,7 @@ id= REAL001770
 te= Olefiner
 ba= nk
 nn= Olefin
+en= Olefins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001771
@@ -14639,6 +14669,7 @@ id= REAL001843
 te= Triazen
 ba= nk
 nn= Triazen
+en= Triazene
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001844
@@ -14647,6 +14678,7 @@ ba= nk
 ba= nc
 ba= nf
 nn= Zeolittar
+en= Zeolites
 tio= 2014-08-25T00:00:00Z
 st= REAL018476
 st= REAL024838
@@ -15007,6 +15039,7 @@ id= REAL001883
 te= Zetapotensiale
 ba= nk
 nn= Zetapotensial
+en= Zeta potential
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001884
@@ -15199,6 +15232,7 @@ id= REAL001909
 te= Oksider
 ba= nk
 nn= Oksid
+en= Oxides
 tio= 2014-08-25T00:00:00Z
 st= REAL023512
 
@@ -16191,10 +16225,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002040
 te= Selektive serotoninopptakere
-ba= ne
-ak= SSRI
-nn= Selektive serotoninopptakarar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T11:06:01Z
+fly= REAL013860
 
 id= REAL002041
 te= Kutikula
@@ -16205,7 +16238,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002042
 te= Krystallfeltteori
 ba= nk
+bf= Krystallfeltsplitting
 nn= Krystallfeltteori
+nn= Krystallfeltsplitting
+en= Crystal field theory
+en= CFT
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002043
@@ -16488,6 +16525,7 @@ ba= nk
 ba= nf
 ba= ns
 nn= Perovskittar
+en= Perovskites
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002080
@@ -16756,6 +16794,10 @@ nn= Geomagnetisme
 nn= Geomagnetiske fenomen
 nn= Geomagnetiske målingar
 nn= Geomagnetiske observasjonar
+en= Geomagnetism
+en= Geomagnetic phenomena
+en= Geomagnetic measurements
+en= Geomagnetic observations
 tio= 2014-08-25T00:00:00Z
 st= REAL014925
 st= REAL016224
@@ -16898,6 +16940,7 @@ id= REAL002121
 te= Sykliske makromolekyler
 ba= nk
 nn= Sykliske makromolekyl
+en= Cyclic macromolecules
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002122
@@ -16997,6 +17040,7 @@ id= REAL002131
 te= Palladiumforbindelser
 ba= nk
 nn= Palladiumsambindingar
+en= Palladium compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002132
@@ -17053,6 +17097,8 @@ id= REAL002139
 te= Metallforbindelser
 ba= nk
 nn= Metallsambindingar
+en= Metal compounds
+en= Metallic compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002140
@@ -17524,6 +17570,7 @@ id= REAL002190
 te= Tiocyanater
 ba= nk
 nn= Tiocyanat
+en= Thiocyanates
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002191
@@ -18151,6 +18198,7 @@ ba= na
 ba= nf
 ba= ns
 nn= Ionisering
+en= Ionization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002276
@@ -18316,6 +18364,7 @@ id= REAL002299
 te= Matlab
 ba= ni
 nn= Matlab
+en= MATLAB
 de= Matematisk programvare
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-05T00:00:00Z
@@ -18480,6 +18529,8 @@ so= REAL031865
 nn= Magnetokjemi
 nn= Molekylær magnetisme
 nn= Molekylmagnetisme
+en= Magnetochemistry
+en= Molecular magnetism
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-05T11:28:36Z
 
@@ -18996,6 +19047,7 @@ id= REAL002374
 te= Organiske reaksjonsmekanismer
 ba= nk
 nn= Organiske reaksjonsmekanismar
+en= Organic reaction mechanisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002375
@@ -19076,6 +19128,8 @@ id= REAL002383
 te= Organosvovel
 ba= nk
 nn= Organosvovel
+en= Organosulphur
+en= Organosulfur
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002384
@@ -19296,6 +19350,7 @@ id= REAL002412
 te= Metylering
 ba= nb
 nn= Metylering
+en= Methylation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002413
@@ -19585,6 +19640,7 @@ te= Spektrofotometri
 ba= nk
 ba= na
 nn= Spektrofotometri
+en= Spectrophotometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002447
@@ -19893,6 +19949,9 @@ nn= Tunelleffekt
 nn= Tunnelering
 nn= Kvantemekanisk tunnelering
 nn= Kvantemekanisk tunneleffekt
+en= Tunnelling
+en= Tunneling
+en= Quantum tunnelling
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-12T18:21:17Z
 st= REAL023023
@@ -20038,6 +20097,7 @@ id= REAL002504
 te= Syklopropanderivater
 ba= nk
 nn= Syklopropanderivat
+en= Cyclopropane derivatives
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002505
@@ -20153,6 +20213,7 @@ te= Metallioner
 ba= nk
 ba= nb
 nn= Metallion
+en= Metal ions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002519
@@ -20259,6 +20320,9 @@ ut= REAL031623
 nn= Nanomateriale
 nn= Nanostrukturar
 nn= Nanostrukturerte materiale
+en= Nanomaterials
+en= Nanostructured materials
+en= Nanostructures
 tio= 2014-08-25T00:00:00Z
 tie= 2016-04-08T21:32:21Z
 st= REAL017803
@@ -20395,6 +20459,7 @@ id= REAL002543
 te= Plasmaspektroskopi
 ba= nk
 nn= Plasmaspektroskopi
+en= Plasma spectroscopy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002544
@@ -20415,6 +20480,7 @@ id= REAL002546
 te= Organometaller
 ba= nk
 nn= Organometall
+en= Organometals
 tio= 2014-08-25T00:00:00Z
 st= REAL014258
 st= REAL014375
@@ -20506,7 +20572,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002553
 te= Stereoselektivitet
 ba= nk
+bf= Diastereoselektiv
 nn= Stereoselektivitet
+nn= Diastereoselektiv
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002554
@@ -20568,6 +20636,7 @@ id= REAL002562
 te= Elektronoverføringer
 ba= nk
 nn= Elektronoverføringar
+en= Electron transfers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002563
@@ -21315,6 +21384,7 @@ te= Kohesjon
 ba= nk
 ba= nf
 nn= Kohesjon
+en= Cohesion
 tio= 2014-08-25T00:00:00Z
 st= REAL019008
 
@@ -21448,6 +21518,8 @@ id= REAL002669
 te= Organometalliske polymerer
 ba= nk
 nn= Organometalliske polymerar
+en= Organometallic polymers
+en= Metal-organic polymers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002670
@@ -21474,6 +21546,7 @@ id= REAL002673
 te= Halvmetaller
 ba= nk
 nn= Halvmetall
+en= Metalloids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002674
@@ -21491,6 +21564,9 @@ ba= ns
 bf= Årsakssammenheng
 nn= Kausalitet
 nn= Årsakssamanheng
+en= Causality
+en= Causation
+en= Cause and effect
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002676
@@ -21950,6 +22026,8 @@ ba= nk
 bf= Cumaroner
 nn= Benzofuran
 nn= Cumaron
+en= Benzofurans
+en= Cumarones
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002734
@@ -22626,6 +22704,7 @@ id= REAL002814
 te= Aminosyreanalyser
 ba= nc
 nn= Aminosyreanalysar
+en= Amino acid analyses
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002815
@@ -23098,6 +23177,7 @@ id= REAL002866
 te= Metallelektroder
 ba= nk
 nn= Metallelektrodar
+en= Metal electrodes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002867
@@ -23106,6 +23186,7 @@ ba= nk
 bf= Atomclustere
 nn= Atomklyngjer
 nn= Atomklynger
+en= Atomic clusters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002868
@@ -23535,10 +23616,11 @@ en= Distributed system architecture
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002921
-te= Mr-tomografi
-ba= ni
-nn= Mr-tomografi
+te= MR-tomografi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-25T09:44:38Z
+tis= 2017-09-25T09:44:46Z
+fly= REAL008728
 
 id= REAL002922
 te= Blodsirkulasjon
@@ -24979,6 +25061,7 @@ id= REAL003093
 te= Syklopropan
 ba= nk
 nn= Syklopropan
+en= Cyclopropane
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003095
@@ -25213,6 +25296,7 @@ id= REAL003127
 te= Syklobutadiener
 ba= nk
 nn= Syklobutadien
+en= Cyclobutadienes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003128
@@ -25500,6 +25584,7 @@ ba= nk
 ba= nf
 so= REAL013909
 nn= Punktdefektar
+en= Point defects
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003169
@@ -25678,6 +25763,7 @@ id= REAL003192
 te= Reaksjonsmekanismer
 ba= nk
 nn= Reaksjonsmekanismar
+en= Reaction mechanisms
 tio= 2014-08-25T00:00:00Z
 st= REAL014749
 st= REAL019677
@@ -25695,6 +25781,7 @@ te= Organiske molekyler
 ba= nk
 ba= nc
 nn= Organiske molekyl
+en= Organic molecules
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003195
@@ -26675,6 +26762,7 @@ id= REAL003325
 te= Uorganisk nitrogen
 ba= nb
 nn= Uorganisk nitrogen
+en= Inorganic nitrogen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003326
@@ -26846,6 +26934,7 @@ te= Magnetiske materialer
 ba= nk
 ba= nf
 nn= Magnetiske materiale
+en= Magnetic materials
 tio= 2014-08-25T00:00:00Z
 st= REAL023776
 st= REAL024022
@@ -27116,6 +27205,7 @@ id= REAL003371
 te= Molekylvibrasjoner
 ba= nk
 nn= Molekylvibrasjonar
+en= Molecular vibrations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003372
@@ -28105,6 +28195,7 @@ id= REAL003492
 te= Hydrogenioner
 ba= nk
 nn= Hydrogenion
+en= Hydrogen ions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003493
@@ -28602,6 +28693,7 @@ id= REAL003550
 te= Elektrisk hysterese
 ba= nk
 nn= Elektrisk hysterese
+en= Electric hysteresis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003551
@@ -28634,6 +28726,7 @@ te= Opiater
 ba= nk
 ba= ne
 nn= Opiat
+en= Opiates
 tio= 2014-08-25T00:00:00Z
 st= REAL030010
 
@@ -29715,6 +29808,10 @@ id= REAL003689
 te= Polyvinylalkohol
 ba= nk
 nn= Polyvinylalkohol
+en= Polyvinyl alcohol
+en= PVOH
+en= PVAI
+en= PVA
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003690
@@ -29779,6 +29876,7 @@ ba= nk
 ba= nb
 ba= ns
 nn= Osmose
+en= Osmosis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003700
@@ -29869,6 +29967,7 @@ id= REAL003710
 te= Uorganisk krystallografi
 ba= nk
 nn= Uorganisk krystallografi
+en= Inorganic crystallography
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003711
@@ -29890,6 +29989,7 @@ id= REAL003712
 te= Saltsmelter
 ba= nk
 nn= Saltsmeltar
+en= Molten slats
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003713
@@ -30726,6 +30826,7 @@ id= REAL003809
 te= Inhomogene materialer
 ba= nf
 nn= Inhomogene materiale
+en= Inhomogeneous materials
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003810
@@ -31554,6 +31655,7 @@ id= REAL003904
 te= Fysikalske egenskaper
 ba= nk
 nn= Fysikalske eigenskapar
+en= Physical properties
 tio= 2014-08-25T00:00:00Z
 st= REAL026242
 
@@ -31647,6 +31749,7 @@ te= Monopoler
 ba= nf
 ba= ns
 nn= Monopol
+en= Monopoles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003918
@@ -33200,6 +33303,7 @@ id= REAL004120
 te= Overflatespenning
 ba= nk
 nn= Overflatespenning
+en= Surface tension
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004121
@@ -33308,9 +33412,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004133
 te= Lectin
-ba= ne
-nn= Lectin
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T12:52:35Z
+fly= REAL011781
 
 id= REAL004134
 te= Administrativ ledelse
@@ -33422,6 +33526,7 @@ id= REAL004147
 te= Vesikler
 ba= nk
 nn= Vesiklar
+en= Vesicles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004148
@@ -33472,6 +33577,9 @@ te= Arener
 ba= nk
 bf= Aromatiske hydrokarboner
 nn= Aren
+en= Aromatic hydrocarbons
+en= Arenes
+en= Aryl hydrocarbons
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-20T20:17:06Z
 
@@ -33485,6 +33593,8 @@ id= REAL004154
 te= Sykloaddisjonsreaksjoner
 ba= nk
 nn= Sykloaddisjonsreaksjonar
+en= Cycloaddition reactions
+en= Cycloadditions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004155
@@ -34111,6 +34221,7 @@ id= REAL004236
 te= Metanderivater
 ba= nk
 nn= Metanderivat
+en= Methane derivatives
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004237
@@ -34173,6 +34284,7 @@ ba= nk
 ba= nb
 ba= ns
 nn= Kalorimetri
+en= Calorimetry
 tio= 2014-08-25T00:00:00Z
 st= REAL019575
 
@@ -34651,6 +34763,7 @@ te= Karbonater
 ba= nk
 ba= nc
 nn= Karbonat
+en= Carbonates
 tio= 2014-08-25T00:00:00Z
 st= REAL014650
 st= REAL015891
@@ -34787,6 +34900,7 @@ id= REAL004318
 te= Pektinase
 ba= ne
 nn= Pektinase
+en= Pectinase
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004319
@@ -35079,6 +35193,7 @@ id= REAL004354
 te= Massevirkningsloven
 ba= nk
 nn= Masseverknadslova
+en= Law of mass action
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004355
@@ -35108,6 +35223,7 @@ ba= ne
 ba= nf
 ba= ns
 nn= Katalyse
+en= Catalysis
 tio= 2014-08-25T00:00:00Z
 st= REAL014657
 st= REAL024236
@@ -35890,6 +36006,7 @@ te= Massespektra
 ba= nk
 nn= Massespektrum
 nn= Massespekter
+en= Mass spectra
 tio= 2014-08-25T00:00:00Z
 st= REAL027681
 
@@ -36313,6 +36430,8 @@ te= Menneskeaper
 ba= nb
 nn= Menneskeapar
 nn= Menneskeaper
+en= Apes
+en= Hominoidea
 tio= 2014-08-25T00:00:00Z
 st= REAL030051
 
@@ -37128,6 +37247,7 @@ te= Salter
 ba= nk
 ba= ne
 nn= Salt
+en= Salts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004612
@@ -37221,6 +37341,7 @@ id= REAL004624
 te= Suspensjoner
 ba= nk
 nn= Suspensjonar
+en= Suspensions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004625
@@ -37260,6 +37381,7 @@ ba= nc
 ba= ne
 ba= ns
 nn= Hydrokarbon
+en= Hydrocarbons
 tio= 2014-08-25T00:00:00Z
 st= REAL015240
 st= REAL020523
@@ -38115,6 +38237,7 @@ id= REAL004743
 te= Dobbeltbindinger
 ba= nk
 nn= Dobbeltbindingar
+en= Double bonds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004744
@@ -38152,6 +38275,7 @@ te= Enantiomere
 ba= nk
 ba= ne
 nn= Enantiomere
+en= Enantiomers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004750
@@ -38290,6 +38414,7 @@ id= REAL004767
 te= Glukaner
 ba= ne
 nn= Glukan
+en= Glucans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004768
@@ -38411,6 +38536,7 @@ te= Monocytter
 ba= nb
 ba= ne
 nn= Monocyttar
+en= Monocytes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004786
@@ -38671,6 +38797,7 @@ id= REAL004817
 te= Kjemisk økologi
 ba= nb
 nn= Kjemisk økologi
+en= Chemical ecology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004818
@@ -38689,6 +38816,7 @@ ba= nb
 ba= ne
 ba= nf
 nn= Spektrometri
+en= Spectrometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004820
@@ -38708,6 +38836,7 @@ te= Spektrometre
 ba= nk
 ba= na
 nn= Spektrometer
+en= Spectrometers
 tio= 2014-08-25T00:00:00Z
 st= REAL015856
 st= REAL027873
@@ -39041,6 +39170,7 @@ id= REAL004867
 te= Hydratiseringsentalpi
 ba= nk
 nn= Hydratiseringsentalpi
+en= Hydration enthalpy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004868
@@ -39572,6 +39702,7 @@ te= Mitokondrier
 ba= nb
 ba= ne
 nn= Mitokondrium
+en= Mitochondria
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004937
@@ -39959,6 +40090,7 @@ te= Lyshastigheten
 ba= na
 nn= Ljosfarten
 nn= Lysfarten
+en= Speed of light
 tio= 2014-08-25T00:00:00Z
 st= REAL026735
 
@@ -39994,9 +40126,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004994
 te= Krystallfeltsplitting
-ba= nk
-nn= Krystallfeltsplitting
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T10:01:09Z
+fly= REAL002042
 
 id= REAL004995
 te= Elektromagnetiske bølger
@@ -40218,6 +40350,7 @@ id= REAL005022
 te= Orbitalsymmetri
 ba= nk
 nn= Orbitalsymmetri
+en= Orbital symmetry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005023
@@ -40478,6 +40611,7 @@ ba= ne
 ba= nf
 ba= nm
 nn= Overflatekjemi
+en= Surface chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL021294
 st= REAL021680
@@ -40670,6 +40804,7 @@ te= Grignardreagenser
 ba= nk
 nn= Grignardreagensar
 nn= Grignardreagens
+en= Grignard reagents
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005081
@@ -40821,6 +40956,7 @@ ba= nb
 ba= ne
 ba= nq
 nn= Flavonoid
+en= Flavonoids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005101
@@ -42542,6 +42678,8 @@ id= REAL005324
 te= Atomisering
 ba= nk
 nn= Atomisering
+en= Atomization
+en= Atomisation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005325
@@ -42835,9 +42973,10 @@ bf= Metall-oksid-halvleder-felteffekttransistorer
 ot= REAL031375
 nn= MOSFET
 nn= Metall-oksid-halvleiar-felteffekttransistorar
+nn= Metalloksid-halvleiar
 en= Metal-oxide-semiconductor field-effect transistors
 tio= 2014-08-25T00:00:00Z
-tie= 2015-09-15T19:14:52Z
+tie= 2017-09-25T13:03:08Z
 
 id= REAL005363
 te= Kjønnshormoner
@@ -42898,6 +43037,7 @@ te= Organiske reagenser
 ba= nk
 nn= Organiske reagensar
 nn= Organiske reagens
+en= Organic reagents
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005370
@@ -43178,6 +43318,8 @@ ba= nk
 bf= Benzenoider
 nn= Benzenderivat
 nn= Benzenoid
+en= Benzene derivatives
+en= Benzenoids
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-04T17:46:21Z
 
@@ -43264,6 +43406,7 @@ id= REAL005420
 te= Puriner
 ba= nk
 nn= Purin
+en= Purines
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005421
@@ -43383,6 +43526,8 @@ id= REAL005438
 te= Reaktive mellomprodukter
 ba= nk
 nn= Reaktive mellomprodukt
+en= Reactive intermediates
+en= Reactive intermediate products
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005439
@@ -43533,6 +43678,7 @@ bf= Heterosykler
 so= REAL013728
 nn= Heterosykliske sambindingar
 nn= Heterosyklusar
+en= Heterocyclic compounds
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-16T00:00:00Z
 st= REAL014061
@@ -43739,6 +43885,7 @@ id= REAL005483
 te= Termodynamiske egenskaper
 ba= nk
 nn= Termodynamiske eigenskapar
+en= Thermodynamic properties
 tio= 2014-08-25T00:00:00Z
 st= REAL017856
 
@@ -43808,6 +43955,7 @@ id= REAL005492
 te= Melkekjertler
 ba= nb
 nn= Mjølkekjertlar
+en= Mammary glands
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005493
@@ -44054,6 +44202,7 @@ ba= nb
 ba= nc
 ba= ngh
 nn= Tungmetall
+en= Heavy metals
 tio= 2014-08-25T00:00:00Z
 st= REAL017506
 st= REAL018557
@@ -44123,6 +44272,7 @@ id= REAL005532
 te= Polymere kolloider
 ba= nk
 nn= Polymere kolloid
+en= Polymer colloids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005534
@@ -44777,6 +44927,7 @@ id= REAL005624
 te= Naftalener
 ba= nb
 nn= Naftalen
+en= Naphthalenes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005625
@@ -44791,9 +44942,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005626
 te= Diastereoselektiv
-ba= nk
-nn= Diastereoselektiv
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T13:05:19Z
+fly= REAL002553
 
 id= REAL005627
 te= Biologisk homologi
@@ -45049,6 +45200,7 @@ id= REAL005659
 te= Organisk spektroskopi
 ba= nk
 nn= Organisk spektroskopi
+en= Organic spectroscopy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005660
@@ -45314,6 +45466,7 @@ ba= nf
 ba= ns
 so= REAL006290
 nn= Polymerar
+en= Polymers
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-21T21:41:13Z
 st= REAL014789
@@ -45330,6 +45483,8 @@ te= Hydrogenperoksid
 ba= nk
 ba= ns
 nn= Hydrogenperoksid
+en= Hydrogen peroxide
+en= H2O2
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005692
@@ -45455,6 +45610,7 @@ ba= nf
 ba= ngh
 ba= ns
 nn= Planetar
+en= Planets
 tio= 2014-08-25T00:00:00Z
 st= REAL015841
 st= REAL016172
@@ -46652,6 +46808,7 @@ te= Metalloproteiner
 ba= nk
 ba= nb
 nn= Metalloprotein
+en= Metalloproteins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005846
@@ -47591,6 +47748,7 @@ id= REAL005966
 te= Organosilisium
 ba= nk
 nn= Organosilisium
+en= Organosilicon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005968
@@ -47628,6 +47786,7 @@ ba= nb
 ba= ne
 ba= nf
 nn= Resonans
+en= Resonance
 tio= 2014-08-25T00:00:00Z
 st= REAL014563
 st= REAL016079
@@ -47826,6 +47985,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Menn
+en= Men
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006002
@@ -48528,6 +48688,8 @@ te= Svovelforbindelser
 ba= nk
 ba= nb
 nn= Svovelsambindingar
+en= Sulphur compounds
+en= Sulfur compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006084
@@ -48703,6 +48865,7 @@ ba= nk
 ba= nf
 ba= ns
 nn= Metalloksid
+en= Metal oxides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006101
@@ -49306,6 +49469,7 @@ id= REAL006182
 te= Indolizin
 ba= nk
 nn= Indolizin
+en= Indolizine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006183
@@ -49737,6 +49901,7 @@ id= REAL006233
 te= Vandige elektrolytter
 ba= nk
 nn= Vassløyste elektrolyttar
+en= Aqueous electrolytes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006235
@@ -50990,6 +51155,7 @@ id= REAL006376
 te= Isoelektrisk punkt
 ba= nk
 nn= Isoelektrisk punkt
+en= Isoelectric point
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006377
@@ -52812,6 +52978,7 @@ id= REAL006583
 te= Diatomiske molekyler
 ba= nk
 nn= Diatomiske molekyl
+en= Diatomic molecules
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006584
@@ -53319,6 +53486,7 @@ id= REAL006646
 te= Manganlegeringer
 ba= nk
 nn= Manganlegeringar
+en= Manganese alloys
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006647
@@ -53333,6 +53501,7 @@ te= Syklodekstriner
 ba= nk
 bf= Sykliske dekstriner
 nn= Cyclodextrin
+en= Cyclodextrins
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-20T10:46:32Z
 
@@ -53425,6 +53594,7 @@ te= Atomstrukturer
 ba= nk
 ba= ns
 nn= Atomstrukturar
+en= Atomic structures
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006662
@@ -54177,7 +54347,9 @@ te= Kjemotaksonomi
 ba= nk
 ba= nb
 ba= nq
+bf= Kjemisk taksonomi
 nn= Kjemotaksonomi
+nn= Kjemisk taksonomi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006742
@@ -54302,6 +54474,7 @@ te= Oksidasjonsmekanismer
 ba= nk
 ba= ns
 nn= Oksidasjonsmekanismar
+en= Oxidation mechanisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006764
@@ -54561,6 +54734,7 @@ te= Polymerkjemi
 ba= nk
 ba= ne
 nn= Polymerkjemi
+en= Polymer chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL014924
 st= REAL020930
@@ -56022,6 +56196,8 @@ ba= nk
 ba= nf
 so= REAL012416
 nn= Transuran
+en= Transuranium elements
+en= Transuranic elements
 de= Alle grunnstoffer med atomnummer høyere enn 92 (uran). De er alle framstilt kunstig, er ustabile og desintegrerer over tid.
 tio= 2014-08-25T00:00:00Z
 tie= 2014-09-26T00:00:00Z
@@ -56289,6 +56465,7 @@ id= REAL007010
 te= Oksygenforbindelser
 ba= ne
 nn= Oksygensambindingar
+en= Oxygen compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007011
@@ -56338,6 +56515,8 @@ id= REAL007017
 te= Valens
 ba= nk
 nn= Valens
+en= Valence
+en= Valency
 tio= 2014-08-25T00:00:00Z
 st= REAL018341
 
@@ -56482,9 +56661,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007038
 te= Kjemisk taksonomi
-ba= ne
-nn= Kjemisk taksonomi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T13:00:02Z
+fly= REAL006740
 
 id= REAL007039
 te= Fotosensitivitet
@@ -57100,6 +57279,7 @@ id= REAL007111
 te= Nitratreduktase
 ba= nb
 nn= Nitratreduktase
+en= Nitrate reductase
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007112
@@ -57246,6 +57426,7 @@ te= Elektrokjemiske reaksjoner
 ba= nk
 ba= ns
 nn= Elektrokjemiske reaksjonar
+en= Electrochemical reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007132
@@ -57335,6 +57516,8 @@ ba= nk
 bf= Redokspotensialer
 nn= Elektrodepotensial
 nn= Redokspotensial
+en= Electrode potentials
+en= Redox potentials
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-24T15:46:49Z
 
@@ -57748,6 +57931,7 @@ te= Funksjonelle grupper
 ba= nk
 ba= ne
 nn= Funksjonelle grupper
+en= Functional groups
 tio= 2014-08-25T00:00:00Z
 st= REAL023569
 
@@ -58020,6 +58204,7 @@ id= REAL007232
 te= Propan
 ba= nk
 nn= Propan
+en= Propane
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007234
@@ -58142,6 +58327,7 @@ id= REAL007249
 te= Sykliske forbindelser
 ba= nk
 nn= Sykliske sambindingar
+en= Cyclic compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007250
@@ -58391,6 +58577,8 @@ id= REAL007277
 te= Ketoner
 ba= nk
 nn= Keton
+en= Ketones
+en= Alkanones
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007278
@@ -58923,6 +59111,10 @@ nn= Sjeldsynte jordartar
 nn= Sjeldne jordartar
 nn= Sjeldne jordarter
 nn= Sjeldsynte jordarter
+en= Rare-earth elements
+en= Rare-earth metals
+en= REE
+en= REM
 tio= 2014-08-25T00:00:00Z
 st= REAL025548
 
@@ -58970,6 +59162,7 @@ id= REAL007354
 te= Glukokjemi
 ba= nk
 nn= Glukokjemi
+en= Glycochemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007355
@@ -59796,6 +59989,7 @@ id= REAL007460
 te= Kjemiske syntesemetoder
 ba= nk
 nn= Kjemiske syntesemetodar
+en= Chemical synthesis methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007461
@@ -60232,6 +60426,7 @@ te= Uorganiske krystaller
 ba= nk
 nn= Uorganiske krystallar
 nn= Uorganiske krystall
+en= Inorganic crystals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007507
@@ -60417,6 +60612,7 @@ ot= REAL003726
 ut= REAL012750
 nn= Halogenerte flammehemmarar
 nn= Halogenerte flammehemjarar
+en= Halogenated flame retardants
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-01T19:32:34Z
 
@@ -60634,6 +60830,7 @@ id= REAL007558
 te= Tellurforbindelser
 ba= nk
 nn= Tellursambindingar
+en= Tellurium compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007559
@@ -61981,6 +62178,7 @@ te= Kjemometri
 ba= nk
 ba= ne
 nn= Kjemometri
+en= Chemometrics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007734
@@ -62309,6 +62507,7 @@ id= REAL007775
 te= Oksygenaser
 ba= nb
 nn= Oksygenasar
+en= Oxygenases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007776
@@ -62320,6 +62519,7 @@ ba= ne
 ba= nf
 ba= ns
 nn= Ion
+en= Ions
 tio= 2014-08-25T00:00:00Z
 st= REAL021726
 st= REAL022425
@@ -63903,6 +64103,7 @@ id= REAL007983
 te= Spektroskopiske metoder
 ba= nk
 nn= Spektroskopiske metodar
+en= Spectroscopic methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007984
@@ -65238,6 +65439,7 @@ te= Magnetiske monopoler
 ba= nf
 ba= nm
 nn= Magnetiske monopol
+en= Magnetic monopoles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008141
@@ -65469,6 +65671,8 @@ id= REAL008171
 te= Redoksreaksjoner
 ba= nk
 nn= Redoksreaksjonar
+en= Redox reactions
+en= Redox
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008173
@@ -65603,6 +65807,7 @@ id= REAL008188
 te= Organiske reaksjoner
 ba= nk
 nn= Organiske reaksjonar
+en= Organic reactions
 tio= 2014-08-25T00:00:00Z
 st= REAL016356
 st= REAL017933
@@ -65757,6 +65962,7 @@ ba= ni
 ba= na
 ot= REAL011705
 nn= MySQL
+en= MySQL
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-24T00:36:26Z
 
@@ -66137,6 +66343,8 @@ id= REAL008257
 te= Organometalliske komplekser
 ba= nk
 nn= Organometalliske kompleks
+en= Organometallic complex
+en= Metal-organic complexes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008258
@@ -66534,6 +66742,7 @@ id= REAL008310
 te= Ionestyrke
 ba= ne
 nn= Ionestyrke
+en= Ionic strength
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008312
@@ -66791,6 +67000,7 @@ id= REAL008351
 te= Sykliske hydrokarboner
 ba= nb
 nn= Sykliske hydrokarbon
+en= Cyclic hydrocarbons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008352
@@ -67450,6 +67660,7 @@ ba= nf
 ba= nm
 ba= ns
 nn= Nervesystemet
+en= Nervous system
 tio= 2014-08-25T00:00:00Z
 st= REAL014443
 st= REAL021992
@@ -67599,6 +67810,7 @@ te= Metanol
 ba= nk
 ba= ns
 nn= Metanol
+en= Methanol
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008446
@@ -67801,6 +68013,7 @@ te= Organiske syrer
 ba= nk
 ba= nc
 nn= Organiske syrer
+en= Organic acids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008469
@@ -68426,6 +68639,7 @@ id= REAL008535
 te= Sykloalken
 ba= nk
 nn= Sykloalken
+en= Cycloalkene
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008536
@@ -68854,6 +69068,7 @@ id= REAL008584
 te= Indoler
 ba= nk
 nn= Indolar
+en= Indoles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008585
@@ -69119,6 +69334,7 @@ id= REAL008621
 te= Deodoranter
 ba= ne
 nn= Deodorantar
+en= Deodorants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008622
@@ -69333,6 +69549,7 @@ id= REAL008649
 te= Polare oksider
 ba= nk
 nn= Polare oksid
+en= Polar oxides
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-05T17:57:30Z
 
@@ -69397,6 +69614,7 @@ ba= nf
 ba= nm
 ba= ns
 nn= Mekanikk
+en= Mechanics
 tio= 2014-08-25T00:00:00Z
 st= REAL014107
 st= REAL015954
@@ -69981,13 +70199,16 @@ fly= REAL008391
 id= REAL008728
 te= Magnetresonanstomografi
 ba= ne
+bf= MR-tomografi
+bf= Magnettomografi
 ak= MRI
 ak= NMRI
-ak= MR
 nn= Magnetresonanstomografi
+nn= MR-tomografi
+nn= Magnettomografi
 en= Magnetic resonance imaging
 tio= 2014-08-25T00:00:00Z
-tie= 2014-12-16T00:00:00Z
+tie= 2017-09-25T09:45:07Z
 
 id= REAL008729
 te= Radix sortering
@@ -70054,6 +70275,7 @@ te= Magnetiske egenskaper
 ba= nk
 ba= nf
 nn= Magnetiske eigenskapar
+en= Magnetic properties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008739
@@ -70812,6 +71034,7 @@ te= Perl
 ba= ni
 ba= na
 nn= Perl
+en= Perl
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -71416,6 +71639,7 @@ id= REAL008914
 te= Karbokationer
 ba= nk
 nn= Karbokation
+en= Carbocations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008915
@@ -71767,6 +71991,7 @@ id= REAL008956
 te= Polymeraser
 ba= nb
 nn= Polymerasar
+en= Polymerases
 tio= 2014-08-25T00:00:00Z
 st= REAL017824
 
@@ -71929,6 +72154,7 @@ id= REAL008976
 te= Potensiometri
 ba= nk
 nn= Potensiometri
+en= Potentiometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008977
@@ -72358,6 +72584,8 @@ te= Elektrokinetikk
 ba= nk
 ba= nc
 nn= Elektrokinetikk
+en= Electrokinetics
+en= Electrokinetic phenomena
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009034
@@ -73174,6 +73402,7 @@ id= REAL009129
 te= Pyrimidiner
 ba= nk
 nn= Pyrimidin
+en= Pyrimidines
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009130
@@ -74171,6 +74400,7 @@ id= REAL009258
 te= Elektrokjemiske grenseflater
 ba= nk
 nn= Elektrokjemiske grenseflater
+en= Electrochemical interfaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009259
@@ -75170,6 +75400,7 @@ id= REAL009387
 te= Polysykliske forbindelser
 ba= nk
 nn= Polysykliske sambindingar
+en= Polycyclic compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009388
@@ -75321,6 +75552,7 @@ id= REAL009411
 te= Uorganiske krystallstrukturer
 ba= nk
 nn= Uorganiske krystallstrukturar
+en= Inorganic crystal structures
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009412
@@ -75588,6 +75820,7 @@ id= REAL009444
 te= Kationer
 ba= nk
 nn= Kation
+en= Cations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009446
@@ -75829,6 +76062,8 @@ id= REAL009478
 te= Ylider
 ba= nk
 nn= Ylid
+en= Ylides
+en= Ylids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009479
@@ -76450,6 +76685,7 @@ te= Nevroanatomi
 ba= nb
 ba= ns
 nn= Nevroanatomi
+en= Neuroanatomy
 tio= 2014-08-25T00:00:00Z
 st= REAL014155
 st= REAL029193
@@ -76491,6 +76727,7 @@ ut= REAL004572
 ut= REAL007989
 ut= REAL002159
 nn= Pesticid
+en= Pesticides
 de= Biocider spesielt rettet mot organismer som gjør skade
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-25T14:28:40Z
@@ -76905,6 +77142,10 @@ nn= Vinylbenzen
 nn= Divinylbenzen
 nn= Etenylbenzen
 nn= Fenyleten
+en= Styrene
+en= Vinylbenzene
+en= Phenylethene
+en= Ethenylbenzene
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-01T18:56:17Z
 
@@ -77070,6 +77311,7 @@ te= Diels–Alder-reaksjonen
 ba= nk
 bf= Diensyntese
 nn= Diels–Alder-reaksjonen
+en= Diels–Alder reaction
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-12T18:53:59Z
 
@@ -77827,6 +78069,8 @@ bf= Difenyler
 so= REAL011788
 nn= Bifenyl
 nn= Difenyl
+en= Biphenyls
+en= Diphenyls
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-21T11:49:35Z
 
@@ -78065,6 +78309,9 @@ te= Reaksjonshastigheter
 ba= nk
 nn= Reaksjonssnøggleikar
 nn= Reaksjonshastigheiter
+en= Reaction rates
+en= Rate of reactions
+en= Rates of reaction
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009764
@@ -78505,6 +78752,7 @@ ba= ne
 ba= nf
 ba= ns
 nn= Makromolekyl
+en= Macromolecules
 tio= 2014-08-25T00:00:00Z
 st= REAL015864
 st= REAL018794
@@ -78852,6 +79100,7 @@ id= REAL009857
 te= Hydrider
 ba= nk
 nn= Hydrid
+en= Hydrides
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-16T00:00:00Z
 
@@ -78859,6 +79108,8 @@ id= REAL009858
 te= Meningokokker
 ba= ne
 nn= Meningokokkar
+en= Meningococcus
+en= Neisseria meningitidis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009859
@@ -79011,6 +79262,7 @@ te= Likevekter
 ba= nk
 nn= Jamvekter
 nn= Likevekter
+en= Equilibria
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009876
@@ -79989,6 +80241,10 @@ id= REAL009988
 te= Mammalogi
 ba= nb
 nn= Mammalogi
+en= Mammalogy
+en= Therology
+en= Mastology
+en= Theriology
 tio= 2014-08-25T00:00:00Z
 st= REAL018621
 
@@ -80100,6 +80356,7 @@ ba= nk
 ba= nb
 ba= ns
 nn= Metan
+en= Methane
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009998
@@ -80704,6 +80961,8 @@ id= REAL010074
 te= Organometalliske reaksjonsmekanismer
 ba= nk
 nn= Organometalliske reaksjonsmekanismar
+en= Organometallic reaction mechanisms
+en= Metal-organic reaction mechanisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010075
@@ -81428,6 +81687,7 @@ id= REAL010163
 te= Kirale molekyler
 ba= nk
 nn= Kirale molekyl
+en= Chiral molecules
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010164
@@ -81724,6 +81984,7 @@ id= REAL010191
 te= Organiske peroksider
 ba= nk
 nn= Organiske peroksid
+en= Organic peroxides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010192
@@ -82184,6 +82445,8 @@ id= REAL010250
 te= Ligandfeltteori
 ba= nk
 nn= Ligandfeltteori
+en= Ligand field theory
+en= LFT
 tio= 2014-08-25T00:00:00Z
 st= REAL015655
 
@@ -83222,6 +83485,7 @@ id= REAL010380
 te= Pyrroler
 ba= nk
 nn= Pyrrolar
+en= Pyrroles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010381
@@ -83826,6 +84090,7 @@ id= REAL010467
 te= Diisocyanater
 ba= nk
 nn= Diisocyanat
+en= Diisocyanates
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010468
@@ -83839,6 +84104,7 @@ id= REAL010469
 te= Metallhydrider
 ba= nk
 nn= Metallhydrid
+en= Metal hydrides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010470
@@ -84101,6 +84367,7 @@ id= REAL010503
 te= Karbanioner
 ba= nk
 nn= Karbanion
+en= Carbanions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010504
@@ -84240,6 +84507,7 @@ id= REAL010520
 te= Elektrodeprosesser
 ba= nk
 nn= Elektrodeprosessar
+en= Electrode processes
 tio= 2014-08-25T00:00:00Z
 st= REAL022971
 
@@ -84872,6 +85140,7 @@ te= Ladete partikler
 ba= nf
 nn= Ladde partiklar
 nn= Lada partiklar
+en= Charged particles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010602
@@ -85653,6 +85922,7 @@ te= Bosoner
 ba= nk
 ba= nf
 nn= Boson
+en= Bosons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010707
@@ -85735,6 +86005,7 @@ id= REAL010718
 te= Automatiserte analysemetoder
 ba= nk
 nn= Automatiserte analysemetodar
+en= Automated analytical methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010719
@@ -86058,6 +86329,7 @@ id= REAL010760
 te= Perisykliske reaksjoner
 ba= nk
 nn= Perisykliske reaksjonar
+en= Pericyclic reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010761
@@ -86071,6 +86343,7 @@ id= REAL010762
 te= Syklofaner
 ba= nk
 nn= Syklofan
+en= Cyclophanes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010764
@@ -86673,6 +86946,7 @@ id= REAL010847
 te= Cyanater
 ba= nk
 nn= Cyanat
+en= Cyanates
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010849
@@ -87049,12 +87323,15 @@ id= REAL010896
 te= Radioaktive kilder
 ba= nk
 nn= Radioaktive kjelder
+en= Radioactive sources
+en= Radiation sources
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010897
 te= Uorganisk syntese
 ba= nk
 nn= Uorganisk syntese
+en= Inorganic syntheses
 tio= 2014-08-25T00:00:00Z
 st= REAL023399
 
@@ -87288,6 +87565,7 @@ id= REAL010926
 te= Reaksjonsdynamikk
 ba= nk
 nn= Reaksjonsdynamikk
+en= Reaction dynamics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010927
@@ -87679,6 +87957,7 @@ id= REAL010982
 te= Dihydrogenbindinger
 ba= nk
 nn= Dihydrogenbindingar
+en= Dihydrogen bonds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010983
@@ -88389,6 +88668,8 @@ id= REAL011078
 te= Homogenisering
 ba= nk
 nn= Homogenisering
+en= Homogenization
+en= Homogenisation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011079
@@ -88553,8 +88834,12 @@ fly= REAL008655
 id= REAL011098
 te= Monosakkarider
 ba= nk
+bf= Enkle sukkerarter
 nn= Monosakkarid
+en= Monosaccharides
+en= Simple sugars
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-25T10:02:11Z
 
 id= REAL011099
 te= Stingsild
@@ -88700,6 +88985,7 @@ ba= nk
 ba= nf
 so= REAL031190
 nn= Epitaksi
+en= Epitaxy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011119
@@ -89713,6 +89999,7 @@ id= REAL011266
 te= Organisk fotokjemi
 ba= nk
 nn= Organisk fotokjemi
+en= Organic photochemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011267
@@ -89938,6 +90225,10 @@ bf= Polyeten
 ak= PE
 nn= Polyetylen
 nn= Polyeten
+en= Polyethylene
+en= PE
+en= Polythene
+en= Polyethene
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-05T17:58:46Z
 
@@ -90129,6 +90420,7 @@ id= REAL011318
 te= Organiske radikaler
 ba= nk
 nn= Organiske radikal
+en= Organic radicals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011319
@@ -90686,6 +90978,7 @@ id= REAL011387
 te= Higgsbosoner
 ba= nf
 nn= Higgsboson
+en= Higgs bosons
 tio= 2014-08-25T00:00:00Z
 st= REAL016004
 
@@ -90745,6 +91038,7 @@ id= REAL011395
 te= Molekylsymmetri
 ba= nk
 nn= Molekylsymmetri
+en= Molecular symmetry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011396
@@ -90835,8 +91129,12 @@ st= REAL029490
 id= REAL011406
 te= Kloroform
 ba= nk
+bf= Triklormetan
 nn= Kloroform
+en= Chloroform
+en= Trichloromethane
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-25T13:03:44Z
 
 id= REAL011407
 te= Nektar
@@ -90848,6 +91146,7 @@ id= REAL011408
 te= Melatonin
 ba= nb
 nn= Melatonin
+en= Melatonin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011409
@@ -90932,6 +91231,7 @@ id= REAL011420
 te= Elektrokjemiske sensorer
 ba= nk
 nn= Elektrokjemiske sensorar
+en= Electrochemical sensors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011421
@@ -91297,6 +91597,7 @@ ba= nk
 ba= nb
 ba= nf
 nn= Ionetransport
+en= Ion transport
 tio= 2014-08-25T00:00:00Z
 st= REAL021857
 
@@ -92386,9 +92687,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011606
 te= Metal-oxide semiconductor
-ba= nf
-nn= Metalloksid-halvleiar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T13:02:02Z
+fly= REAL005362
 
 id= REAL011607
 te= Teleoster
@@ -92718,6 +93019,7 @@ id= REAL011643
 te= Monomerer
 ba= nk
 nn= Monomerar
+en= Monomers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011644
@@ -92983,6 +93285,8 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011673
 te= Masaier
 ba= nb
+en= Maasai people
+en= Maasai
 de= Folk
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T17:11:51Z
@@ -93894,7 +94198,9 @@ st= REAL026099
 id= REAL011781
 te= Lektiner
 ba= nb
+bf= Lectin
 nn= Lektin
+nn= Lectin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011783
@@ -93955,6 +94261,8 @@ ba= ns
 ak= PCB
 so= REAL009730
 nn= Polyklorerte bifenyl
+en= Polychlorinated biphenyls
+en= PCB
 tio= 2014-08-25T00:00:00Z
 st= REAL029816
 
@@ -94032,6 +94340,8 @@ ba= ngh
 bf= Silikatmineraler
 nn= Silikat
 nn= Silikatmineral
+en= Silicates
+en= Silicate minerals
 tio= 2014-08-25T00:00:00Z
 st= REAL021608
 
@@ -94257,6 +94567,7 @@ te= Likevektskonstanter
 ba= nk
 nn= Jamvektskonstantar
 nn= Likevektskonstantar
+en= Equilibrium constants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011829
@@ -94333,6 +94644,7 @@ id= REAL011839
 te= Homogen katalyse
 ba= nk
 nn= Homogen katalyse
+en= Homogeneous catalysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011840
@@ -94591,6 +94903,8 @@ ba= nk
 bf= Ionebytte
 nn= Ionebytarar
 nn= Ionebyte
+en= Ion exchangers
+en= Ion exchange
 tio= 2014-08-25T00:00:00Z
 st= REAL020634
 
@@ -94634,6 +94948,7 @@ te= Ionelikevekter
 ba= nk
 nn= Ionejamvekter
 nn= Ionelikevekter
+en= Ionic equilibria
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011878
@@ -94725,6 +95040,7 @@ te= Nitrater
 ba= nb
 ba= ngh
 nn= Nitrat
+en= Nitrates
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011888
@@ -94828,6 +95144,7 @@ te= Aromatiske substitusjonsreaksjoner
 ba= nk
 so= REAL007448
 nn= Aromatiske substitusjonsreaksjonar
+en= Aromatic substitution reactions
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-14T14:56:46Z
 
@@ -95020,6 +95337,8 @@ ak= LED
 ut= REAL000603
 nn= Ljosdiodar
 nn= Lysdiodar
+en= Light-emitting diodes
+en= LED
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-06T22:26:03Z
 
@@ -95225,10 +95544,16 @@ nn= Dynamisk meteorologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011945
-te= Hydrogenbomber
+te= Termonukleære våpen
 ba= nf
+bf= Hydrogenbomber
+nn= Termonukleære våpen
 nn= Hydrogenbomber
+en= Thermonuclear weapons
+en= Hydrogen bombs
+en= H-bombs
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-25T10:00:55Z
 st= REAL021951
 st= REAL025502
 st= REAL029442
@@ -95715,6 +96040,7 @@ id= REAL012014
 te= Ioniske væsker
 ba= nk
 nn= Ioniske væsker
+en= Ionic liquids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012016
@@ -95802,9 +96128,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012028
 te= Magnettomografi
-ba= nf
-nn= Magnettomografi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T09:52:01Z
+fly= REAL008728
 
 id= REAL012029
 te= Prøvekonstruksjon
@@ -96244,6 +96570,7 @@ id= REAL012094
 te= Mitokondriell funksjon
 ba= nb
 nn= Mitokondriell funksjon
+en= Mitochondrial function
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012095
@@ -96793,6 +97120,7 @@ ba= nb
 ba= ns
 ak= Cl
 nn= Klor
+en= Chlorine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012176
@@ -96800,6 +97128,7 @@ te= Krom
 ba= nk
 ak= Cr
 nn= Krom
+en= Chromium
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012177
@@ -96915,6 +97244,7 @@ ba= nb
 ba= nc
 ak= Mn
 nn= Mangan
+en= Manganese
 tio= 2014-08-25T00:00:00Z
 st= REAL022844
 
@@ -96923,6 +97253,7 @@ te= Molybden
 ba= nk
 ak= Mo
 nn= Molybden
+en= Molybdenum
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012189
@@ -96930,6 +97261,7 @@ te= Neon
 ba= nk
 ak= Ne
 nn= Neon
+en= Neon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012190
@@ -96937,6 +97269,7 @@ te= Osmium
 ba= nk
 ak= Os
 nn= Osmium
+en= Osmium
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012191
@@ -96967,6 +97300,7 @@ ba= nk
 ba= nc
 ak= Pt
 nn= Platina
+en= Platinum
 tio= 2014-08-25T00:00:00Z
 st= REAL020547
 st= REAL027981
@@ -97005,6 +97339,7 @@ ba= nk
 ba= nf
 ak= Rn
 nn= Radon
+en= Radon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012198
@@ -97036,6 +97371,7 @@ ba= nb
 ba= nc
 ak= Sn
 nn= Tinn
+en= Tin
 tio= 2014-08-25T00:00:00Z
 st= REAL018163
 st= REAL026537
@@ -97048,6 +97384,7 @@ te= Tellur
 ba= nk
 ak= Te
 nn= Tellur
+en= Tellurium
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012202
@@ -97055,6 +97392,7 @@ te= Xenon
 ba= nk
 ak= Xe
 nn= Xenon
+en= Xenon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012203
@@ -97065,6 +97403,7 @@ ba= nc
 ba= ns
 ak= Zn
 nn= Sink
+en= Zinc
 tio= 2014-08-25T00:00:00Z
 st= REAL025785
 
@@ -97073,6 +97412,7 @@ te= Zirkonium
 ba= nk
 ak= Zr
 nn= Zirkonium
+en= Zirconium
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012205
@@ -97849,6 +98189,7 @@ bf= Lagrange-likninger
 bf= Lagrange-ligninger
 nn= Lagrange-mekanikk
 nn= Lagrange-likningar
+en= Lagrangian mechanics
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T15:42:00Z
 
@@ -98312,6 +98653,7 @@ te= Lantan
 ba= nk
 ak= La
 nn= Lantan
+en= Lanthanum
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012342
@@ -99262,6 +99604,7 @@ bf= Kobber
 bf= Kopper
 ak= Cu
 nn= Kopar (grunnstoff)
+en= Copper
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T19:32:37Z
 st= REAL014519
@@ -101027,6 +101370,7 @@ ba= ns
 bf= Oksidering
 nn= Oksidasjon
 nn= Oksidering
+en= Oxidation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012572
@@ -102703,6 +103047,7 @@ bf= Atmosfærisk kjemi
 nn= Atmosfærekjemi
 nn= Atmosfærisk kjemi
 nn= Luftkjemi
+en= Atmospheric chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL026119
 
@@ -102931,6 +103276,7 @@ ba= na
 bf= Bemannede romferder
 nn= Bemanna romfart
 nn= Bemanna romferder
+en= Human spaceflight
 tio= 2014-08-25T00:00:00Z
 st= REAL017987
 st= REAL019817
@@ -103437,6 +103783,8 @@ ba= nk
 bf= Metallorganisk kjemi
 nn= Organometallisk kjemi
 nn= Metallorganisk kjemi
+en= Organometallic chemistry
+en= Metal-organic chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL020040
 st= REAL026292
@@ -103447,6 +103795,8 @@ ba= nk
 bf= Metallorganiske forbindelser
 nn= Organometalliske sambindingar
 nn= Metallorganiske sambindingar
+en= Organometallic compounds
+en= Metal-organic compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012759
@@ -104448,6 +104798,8 @@ id= REAL012868
 te= Proteinkrystallografi
 ba= nk
 nn= Proteinkrystallografi
+en= Protein crystallography
+en= Protein crystals
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-05T18:48:09Z
 
@@ -106324,6 +106676,7 @@ bf= Løsningsmiddel
 bf= Løsningsmidler
 nn= Løysemiddel
 nn= Løysingsmiddel
+en= Solvents
 tio= 2014-08-25T00:00:00Z
 st= REAL024086
 st= REAL027521
@@ -108205,6 +108558,7 @@ ba= nf
 bf= Retina
 nn= Netthinna
 nn= Retina
+en= Retina
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013238
@@ -109648,8 +110002,8 @@ st= REAL029752
 
 id= REAL013355
 te= Konstruksjon av tabeller
-nn= Konstruksjon av tabellar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T12:54:28Z
 
 id= REAL013356
 te= Klassisk termodynamikk
@@ -110081,6 +110435,7 @@ ba= ns
 bf= Brystmelk
 nn= Morsmjølk
 nn= Brystmjølk
+en= Breast milk
 tio= 2014-08-25T00:00:00Z
 st= REAL029251
 
@@ -114050,6 +114405,7 @@ ba= nf
 bf= Atomkraftverk
 nn= Kjernekraftverk
 nn= Atomkraftverk
+en= Nuclear power plants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013605
@@ -114214,6 +114570,7 @@ ba= nf
 bf= Magnetiske felt
 nn= Magnetfelt
 nn= Magnetiske felt
+en= Magnetic fields
 tio= 2014-08-25T00:00:00Z
 st= REAL017154
 st= REAL017538
@@ -115605,6 +115962,10 @@ ak= PAH
 nn= Polysykliske aromatiske hydrokarbon
 nn= Polyaromatiske hydrokarbon
 nn= Polyaromatiske sambindingar
+en= Polycyclic aromatic hydrocarbons
+en= Polynuclear aromatic hydrocarbons
+en= PAH
+en= Polyaromatic hydrocarbons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013728
@@ -115621,6 +115982,7 @@ tie= 2015-02-16T00:00:00Z
 id= REAL013729
 te= Heteronukleære forbindelser
 nn= Heteronukleære sambindingar
+en= Heteronuclear compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013730
@@ -115653,8 +116015,8 @@ tis= 2017-07-24T20:47:18Z
 
 id= REAL013733
 te= Metall-metallbindinger
-nn= Metall-metallbindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T13:08:26Z
 
 id= REAL013734
 te= Nøytrinoer
@@ -115963,6 +116325,7 @@ st= REAL023883
 id= REAL013759
 te= Isocyanider
 nn= Isocyanid
+en= Isocyanides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013760
@@ -117973,7 +118336,6 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013859
 te= Psykofarmaka
 so= REAL013860
-so= REAL013861
 nn= Psykofarmaka
 de= Legemidler som virker på psyken
 tio= 2014-08-25T00:00:00Z
@@ -117982,20 +118344,24 @@ id= REAL013860
 te= Antidepressiva
 ba= ne
 ba= ns
-so= REAL013861
+bf= Lykkepiller
+bf= Selektive serotoninopptakere
+ak= SSRI
 so= REAL013859
 nn= Antidepressiva
+nn= Lukkepiller
+nn= Lykkepiller
+nn= Selektive serotoninopptakarar
 en= Antidepressants
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-25T11:02:34Z
 
 id= REAL013861
 te= Lykkepiller
-ba= ne
-so= REAL013860
-so= REAL013859
-nn= Lukkepiller
-nn= Lykkepiller
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-25T11:00:57Z
+tis= 2017-09-25T11:01:03Z
+fly= REAL013860
 
 id= REAL013862
 te= Nøytroner
@@ -118144,6 +118510,7 @@ id= REAL013874
 te= Elektrokjemiske reaktorer
 ba= nk
 nn= Elektrokjemiske reaktorar
+en= Electrochemical reactors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013875
@@ -119810,6 +120177,7 @@ ba= nf
 ba= ns
 ak= C
 nn= Karbon (grunnstoff)
+en= Carbon
 tio= 2014-08-25T00:00:00Z
 st= REAL014404
 st= REAL015576
