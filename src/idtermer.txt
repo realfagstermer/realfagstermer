@@ -20493,7 +20493,6 @@ st= REAL015658
 st= REAL015663
 st= REAL015947
 st= REAL016132
-st= REAL016838
 st= REAL017228
 st= REAL017431
 st= REAL018982
@@ -51241,9 +51240,9 @@ tis= 2017-03-02T18:46:25Z
 
 id= REAL006389
 te= Grenselagsstrømninger
-ba= ngh
-nn= Grenselagsstrøymingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-25T16:00:12Z
+fly= REAL009424
 
 id= REAL006390
 te= Sikring
@@ -75668,9 +75667,11 @@ te= Grenselag
 ba= ngh
 bf= Grensesjikt
 bf= Grenselagsteori
+bf= Grenselagsstrømninger
 nn= Grenselag
 nn= Grensesjikt
 nn= Grenselagsteori
+nn= Grenselagsstrøymingar
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-21T21:57:29Z
 
