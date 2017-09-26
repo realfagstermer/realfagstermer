@@ -5122,8 +5122,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000638
 te= Kapitalverdimodellen
 ba= nm
+ak= KVM
 nn= Kapitalverdimodellen
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T09:44:20Z
 
 id= REAL000639
 te= Klimamodeller
@@ -6530,10 +6532,15 @@ tio= 2014-08-25T00:00:00Z
 tis= 2017-09-25T12:57:57Z
 
 id= REAL000816
-te= Fermat
+te= Fermats siste teorem
 ba= nm
-nn= Fermat
+bf= Siste teorem
+bf= Fermats store teorem
+nn= Fermats siste teorem
+nn= Siste teorem
+nn= Fermats store teorem
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:50:14Z
 
 id= REAL000817
 te= Klassisk feltteori
@@ -12326,9 +12333,8 @@ tie= 2017-07-31T10:45:12Z
 
 id= REAL001538
 te= Katadrom gyting
-ba= nb
-nn= Katadrom gyting
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T09:40:23Z
 
 id= REAL001539
 te= Reintroduksjon
@@ -19787,9 +19793,8 @@ tie= 2017-04-05T11:59:38Z
 
 id= REAL002464
 te= Injeksjonskapillær matriksinterferenser
-ba= nk
-nn= Injeksjonskapillær matriksinterferensar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T12:29:16Z
 
 id= REAL002465
 te= Driftssikkerhet
@@ -20846,9 +20851,8 @@ st= REAL019213
 
 id= REAL002583
 te= Fysisk krystallografi
-ba= nc
-nn= Fysisk krystallografi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T12:45:29Z
 
 id= REAL002584
 te= Metallpolymerer
@@ -22884,13 +22888,14 @@ nn= Hinebegerfamilien
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002838
-te= Jpeg
+te= JPEG
 ba= ni
-bf= Jpg
-nn= Jpeg
-nn= Jpg
+bf= JPG
+nn= JPEG
+nn= JPG
 de= Bildeformat
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:22:47Z
 
 id= REAL002839
 te= Kosmetikk
@@ -25483,12 +25488,13 @@ st= REAL027544
 st= REAL029023
 
 id= REAL003154
-te= Corba
+te= CORBA
 ba= ni
-nn= Corba
-en= Corba
+nn= CORBA
+en= CORBA
 en= Common Object Request Broker Architecture
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:17:35Z
 
 id= REAL003155
 te= X.25
@@ -26037,13 +26043,13 @@ nn= Karbonisotopar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003228
-te= Internet protocol
+te= Internet Protocol
 ba= ni
 ak= IP
-nn= IP
-nn= Internet protocol
-en= Internet protocol
+nn= Internet Protocol
+en= Internet Protocol
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:18:39Z
 
 id= REAL003229
 te= Molekylær gjenkjennelse
@@ -29951,9 +29957,8 @@ nn= Heme
 en= Hemochromes
 en= Heme
 en= Haem
-en= Coloring matter of the blood
 tio= 2014-08-25T00:00:00Z
-tie= 2016-07-08T16:07:57Z
+tie= 2017-09-26T13:43:17Z
 
 id= REAL003709
 te= Tcl
@@ -32792,10 +32797,11 @@ nn= Elektronteori
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004059
-te= Black-scholes modell
+te= Black–Scholes-modell
 ba= nm
-nn= Black-scholes modell
+nn= Black–Scholes-modell
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T13:27:08Z
 
 id= REAL004060
 te= Skiensvassdraget
@@ -33750,10 +33756,15 @@ en= Alcohols
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004175
-te= Helmholtz
+te= Helmholtz–Hodge-dekomposisjon
 ba= nm
-nn= Helmholtz
+bf= Helmholtz-dekomposisjon
+bf= Hodge-dekomposisjon
+nn= Helmholtz–Hodge-dekomposisjon
+nn= Helmholtz-dekomposisjon
+nn= Hodge-dekomposisjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:37:04Z
 
 id= REAL004176
 te= Omskrivning
@@ -37253,8 +37264,14 @@ id= REAL004612
 te= Georadar
 ba= nc
 ba= ngh
+bf= Bakkepenetrerende radar
+ak= GPR
+ak= BPR
 nn= Georadar
+nn= Bakkepenetrerande radar
+en= Ground penetrating radar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:39:52Z
 
 id= REAL004613
 te= Plantehormoner
@@ -49272,8 +49289,11 @@ fly= REAL006690
 id= REAL006153
 te= Interglasial
 ba= nc
+bf= Mellomistid
 nn= Interglasial
+nn= Mellomistid
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:28:12Z
 
 id= REAL006154
 te= Myrvegetasjon
@@ -63773,9 +63793,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007944
 te= Dioscorides
-ba= ne
-nn= Dioscorides
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T12:58:50Z
 
 id= REAL007945
 te= Karthistorie
@@ -69081,7 +69100,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008586
 te= Kefeider
 ba= na
+bf= Cepheider
 nn= Kefeid
+nn= Cepheid
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008587
@@ -69483,9 +69504,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008642
 te= Circa instans
-ba= ne
-nn= Circa instans
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:54:43Z
+tis= 2017-09-26T12:54:12Z
 
 id= REAL008643
 te= Kjemiforskning
@@ -71594,9 +71615,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008908
 te= Cepheider
-ba= na
-nn= Cepheid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T13:21:24Z
+fly= REAL008586
 
 id= REAL008909
 te= Klegg
@@ -75693,9 +75714,9 @@ st= REAL022065
 
 id= REAL009428
 te= Siste teorem
-ba= nm
-nn= Siste teorem
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T12:49:22Z
+fly= REAL000816
 
 id= REAL009429
 te= Etnofarmakologi
@@ -83924,9 +83945,8 @@ tis= 2017-02-21T20:50:50Z
 
 id= REAL010441
 te= Infrarød vibrasjon
-ba= nk
-nn= Infraraud vibrasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T12:30:19Z
 
 id= REAL010443
 te= Aktinometri
@@ -89128,10 +89148,12 @@ en= Image databases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011143
-te= Hypotetisk deduktiv metode
+te= Hypotetisk-deduktiv metode
 ba= nk
+ak= HDM
 nn= Hypotetisk-deduktiv metode
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T12:31:05Z
 
 id= REAL011144
 te= Xenobiologi
@@ -115806,12 +115828,9 @@ tie= 2016-10-11T18:41:00Z
 
 id= REAL013711
 te= Bakkepenetrerende radar
-ba= nc
-ba= ns
-ak= GPR
-nn= Bakkepenetrerande radar
-en= Ground penetrating radar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T12:39:45Z
+fly= REAL004612
 
 id= REAL013712
 te= Latvisk språk
