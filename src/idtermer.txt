@@ -583,6 +583,7 @@ bf= Aseksuell reproduksjon
 bf= Apomiksis
 bf= Knoppskyting
 bf= Sporedannelse
+ot= REAL003568
 nn= Ukjønna formeiring
 nn= Apomiksis
 nn= Aseksuell reproduksjon
@@ -6736,11 +6737,12 @@ en= Dehydrogenase
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000845
-te= Nosip
+te= NOSIP
 ba= ni
-nn= Nosip
+nn= NOSIP
 de= Kommunikasjonsstandard
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T15:28:07Z
 
 id= REAL000847
 te= Vånd
@@ -13929,11 +13931,14 @@ en= Anthropologists
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001743
-te= Global system for mobile communication
+te= GSM
 ba= ni
-ak= GSM
-nn= Global system for mobile communication
+nn= GSM
+en= GSM
+en= Global System for Mobile communication
+en= Groupe Spécial Mobile
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T14:27:54Z
 
 id= REAL001744
 te= VLSI-design
@@ -25343,13 +25348,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-04-05T14:46:11Z
 
 id= REAL003133
-te= Odmg
+te= ODMG
 ba= ni
-bf= Odmg-93
-nn= Odmg
-nn= Odmg-93
+bf= ODMG-93
+nn= ODMG
+nn= ODMG-93
 de= Databasestandard
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T15:38:38Z
 
 id= REAL003134
 te= Lysstyrke
@@ -25682,11 +25688,13 @@ nn= Kraftkonstantar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003181
-te= Information technology infrastructure library
+te= ITIL
 ba= ni
-ak= ITIL
-nn= Information technology infrastructure library
+bf= Information Technology Infrastructure Library
+nn= ITIL
+nn= Information Technology Infrastructure Library
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T14:26:03Z
 
 id= REAL003182
 te= Lokalnettverk
@@ -31944,12 +31952,13 @@ tie= 2017-06-01T16:23:56Z
 tis= 2017-06-01T16:23:56Z
 
 id= REAL003942
-te= Rs-232
+te= RS-232
 ba= ni
-bf= Rs-232c
-nn= Rs-232
-nn= Rs-232c
+bf= RS-232c
+nn= RS-232
+nn= RS-232c
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T15:28:43Z
 
 id= REAL003944
 te= Eremittkreps
@@ -41502,9 +41511,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005170
 te= Karbonsyntese
-ba= nb
-nn= Karbonsyntese
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T15:58:28Z
 
 id= REAL005171
 te= Tjenesteorienterte systemer
@@ -42986,10 +42994,12 @@ id= REAL005362
 te= MOSFET
 ba= nf
 bf= Metall-oksid-halvleder-felteffekttransistorer
+bf= MOS
 ot= REAL031375
 nn= MOSFET
 nn= Metall-oksid-halvleiar-felteffekttransistorar
 nn= Metalloksid-halvleiar
+nn= MOS
 en= Metal-oxide-semiconductor field-effect transistors
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-25T13:03:08Z
@@ -43547,14 +43557,15 @@ en= Reactive intermediate products
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005439
-te= Rdf site summary
+te= RSS
 ba= ni
 ak= RSS
 nn= RSS
 nn= RDF Site Summary
 nn= Rich Site Summary
-en= Rdf site summary
+en= RDF site summary
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T15:29:36Z
 
 id= REAL005440
 te= Termitter
@@ -46147,10 +46158,11 @@ nn= Treteknologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005763
-te= Mos
-ba= ni
-nn= Mos
+te= MOS
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T15:23:43Z
+tis= 2017-09-26T15:26:59Z
+fly= REAL005362
 
 id= REAL005764
 te= Chorus
@@ -55696,10 +55708,11 @@ en= Complex numbers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006916
-te= Niam
+te= NIAM
 ba= ni
-nn= Niam
+nn= NIAM
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T15:27:56Z
 
 id= REAL006917
 te= Herdeplast
@@ -58200,9 +58213,19 @@ st= REAL022041
 id= REAL007229
 te= Kjønnet formering
 ba= nb
+bf= Forplantning
+bf= Seksuell reproduksjon
+ot= REAL003568
 nn= Kjønna formeiring
 nn= Kjønna øksling
+nn= Forplanting
+nn= Forplantning
+nn= Øksling
+nn= Seksuell reproduksjon
 tio= 2014-08-25T00:00:00Z
+st= REAL020878
+st= REAL024190
+st= REAL025823
 
 id= REAL007230
 te= Brødristere
@@ -66291,9 +66314,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008247
 te= Seksuell reproduksjon
-ba= nb
-nn= Seksuell reproduksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-26T16:02:37Z
+fly= REAL007229
 
 id= REAL008248
 te= Kjernestruktur
@@ -68604,10 +68627,10 @@ id= REAL008529
 te= Jackson structured programming
 ba= ni
 ak= JSP
-nn= JSP
 nn= Jackson structured programming
 en= Jackson structured programming
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T15:02:18Z
 
 id= REAL008530
 te= Modula
@@ -71151,13 +71174,15 @@ nn= Grensestrukturar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008852
-te= Universal mobile telecommunication system
+te= UMTS
 ba= ni
 ak= UMTS
 nn= UMTS
 nn= Universal mobile telecommunication system
-en= Universal mobile telecommunication system
+en= UMTS
+en= Universal Mobile Telecommunications System
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T14:28:49Z
 
 id= REAL008853
 te= Fangstgraver
@@ -75001,13 +75026,14 @@ nn= Einingsteoriar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009332
-te= Java server pages
+te= JavaServer Pages
 ba= ni
 ak= JSP
 nn= JSP
 nn= Java server pages
 en= Java server pages
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T15:02:35Z
 
 id= REAL009333
 te= Armillarsfærer
@@ -75936,17 +75962,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009457
 te= Forplantning
-ba= nk
-ba= nb
-ba= nq
-ba= ns
-nn= Forplanting
-nn= Forplantning
-nn= Øksling
 tio= 2014-08-25T00:00:00Z
-st= REAL020878
-st= REAL024190
-st= REAL025823
+tis= 2017-09-26T16:02:28Z
+fly= REAL007229
 
 id= REAL009458
 te= Betalingsspill
@@ -86434,13 +86452,13 @@ nn= Primærhelsetenesta
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010770
-te= System network architecture
+te= System Network Architecture
 ba= ni
 ak= SNA
-nn= SNA
-nn= System network architecture
-en= System network architecture
+nn= System Network Architecture
+en= System Network Architecture
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-26T14:23:33Z
 
 id= REAL010771
 te= Eksponering
