@@ -13494,9 +13494,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001689
 te= Epi
-ba= nb
-nn= Epi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-28T17:52:39Z
 
 id= REAL001690
 te= Epa
