@@ -574,12 +574,12 @@ en= Jotunheimen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030321
-te= Indiske Hav
-bf= Indiahavet
+te= Indiske hav
 bf= Det indiske hav
+bf= Indiahavet
 en= Indian Ocean
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:17:27Z
+tie= 2017-09-29T08:48:16Z
 
 id= REAL030322
 te= Atlanterhavet
@@ -1494,10 +1494,11 @@ en= Caucasus Mountains
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030516
-te= Karibiske Hav
+te= Karibiske hav
+bf= Karibhavet
 bf= Det karibiske hav
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:20:11Z
+tie= 2017-09-29T08:45:53Z
 
 id= REAL030517
 te= Karelen
@@ -2276,12 +2277,12 @@ en= Alsten
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030680
-te= Arabiske Hav
+te= Arabiske hav
 bf= Arabiahavet
 bf= Det arabiske hav
 en= Arabian Sea
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:17:42Z
+tie= 2017-09-29T08:45:31Z
 
 id= REAL030681
 te= USA
@@ -3299,11 +3300,11 @@ en= Delft
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030901
-te= Britiske Øyer
+te= Britiske øyer
 bf= De britiske øyer
 en= British Isles
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:24:38Z
+tie= 2017-09-29T22:18:37Z
 
 id= REAL030902
 te= Davos
@@ -4183,7 +4184,7 @@ tio= 2015-02-20T13:08:04Z
 tie= 2014-10-20T00:00:00Z
 
 id= REAL031213
-te= Lipariske Øyer
+te= Lipariske øyer
 bf= Eoliske øyer
 bf= De lipariske øyer
 bf= De eoliske øyer
@@ -4192,7 +4193,7 @@ en= Lipari Islands
 en= Lipari Group
 de= Lipariske øyer, vulkansk øygruppe i Italia, i Tyrrenske hav, nord for nordøsthjørnet av Sicilia, består av 7 større og 11 mindre øyer, 117 km2. (SNL)
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:25:08Z
+tie= 2017-09-29T22:18:41Z
 
 id= REAL031222
 te= Lyngsalpene

@@ -1871,10 +1871,6 @@ ba= nb
 nn= Planteproduksjon
 tio= 2014-08-25T00:00:00Z
 
-id= REAL000236
-te= Elektronisk datautveksling
-tio= 2014-08-25T00:00:00Z
-
 id= REAL000237
 te= Tidsmåling
 ba= na
@@ -5801,11 +5797,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000728
 te= Hastigheter
-ba= ngh
-nn= Snøggleikar
-nn= Hastigheiter
 tio= 2014-08-25T00:00:00Z
-st= REAL027964
+tis= 2017-09-29T13:46:14Z
 
 id= REAL000729
 te= Planlegging
@@ -10975,9 +10968,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001366
 te= Chironomider
-ba= nb
-nn= Chironomid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-29T13:31:55Z
+fly= REAL005891
 
 id= REAL001367
 te= Kjemisk reaksjonsdynamikk
@@ -12346,9 +12339,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001540
 te= Marin fauna
-ba= nk
-nn= Marin fauna
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-29T13:30:44Z
+fly= REAL003078
 
 id= REAL001541
 te= Jordstjerner
@@ -14694,12 +14687,15 @@ st= REAL018476
 st= REAL024838
 
 id= REAL001845
-te= Basidiokarper
+te= Basidier
 ba= nb
 ba= nq
-nn= Basidiokarpar
+nn= Basidiar
 en= Basidocarps
+en= Basidia
+de= Sporebærende organ hos stilksporesopp (Basidiomycetes)
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T14:02:19Z
 
 id= REAL001846
 te= Apartheid
@@ -17691,12 +17687,16 @@ te= Dioksiner
 ba= nk
 ba= nb
 bf= Dioksinderivater
+bf= Dibensodioksiner
+bf= Dibenzodioksiner
 nn= Dioksin
 nn= Dioksinderivat
+nn= Dibensodioksin
+nn= Dibenzodioksin
 en= Dioxins
 en= Dioxin derivates
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-09T18:07:06Z
+tie= 2017-09-29T13:35:28Z
 st= REAL024337
 
 id= REAL002205
@@ -18014,8 +18014,10 @@ id= REAL002250
 te= Sjøfugler
 ba= nb
 bf= Sjøfugl
+bf= Havfugler
 nn= Sjøfuglar
 nn= Sjøfugl
+nn= Havfuglar
 en= Seabirds
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-13T14:16:41Z
@@ -20461,8 +20463,10 @@ ba= ns
 nn= Disk operating system
 en= Disc Operating System
 en= DOS
+no= Slettes etter #620, se PC-DOS og MS-DOS
 tio= 2014-08-25T00:00:00Z
-st= REAL015855
+tie= 2017-01-18T12:25:48Z
+tis= 2017-01-18T12:25:48Z
 
 id= REAL002543
 te= Plasmaspektroskopi
@@ -21048,8 +21052,10 @@ id= REAL002605
 te= Kommakreps
 ba= nb
 bf= Cumaceer
+bf= Halekreps
 nn= Kommakreps
 nn= Cumacear
+nn= Halekreps
 la= Cumacea
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-07T14:39:46Z
@@ -21811,9 +21817,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002706
 te= Casimir-effekten
 ba= nf
+bf= Casimireffekten
 nn= Casimir-effekten
 en= Casimir effect
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T16:23:35Z
 
 id= REAL002707
 te= Ligander
@@ -22593,13 +22601,6 @@ ba= na
 nn= Thomson-spreiing
 tio= 2014-08-25T00:00:00Z
 
-id= REAL002797
-te= Dos
-no= Slettes etter #620, se PC-DOS og MS-DOS
-tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T12:25:48Z
-tis= 2017-01-18T12:25:48Z
-
 id= REAL002798
 te= Tachyoner
 ba= nf
@@ -23161,8 +23162,14 @@ id= REAL002863
 te= Kosmogoni
 ba= na
 ba= ns
+bf= Babyuniverser
 nn= Kosmogoni
+nn= Babyunivers
+en= Cosmogony
+en= Cosmogeny
+en= Baby universes
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T12:31:43Z
 st= REAL015824
 st= REAL016975
 st= REAL018604
@@ -24926,10 +24933,12 @@ ba= nb
 bf= Havdyr
 bf= Havfauna
 bf= Sjødyr
+bf= Marin fauna
 nn= Marine dyr
 nn= Havdyr
 nn= Havfauna
 nn= Sjødyr
+nn= Marin fauna
 tio= 2014-08-25T00:00:00Z
 st= REAL014209
 st= REAL017341
@@ -28716,10 +28725,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003552
 te= Ephemeroptera
-ba= nb
-nn= Ephemeroptera
 tio= 2014-08-25T00:00:00Z
-st= REAL018030
+tis= 2017-09-29T13:36:49Z
+fly= REAL007527
 
 id= REAL003553
 te= Statistiske analysemetoder
@@ -29712,9 +29720,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003677
 te= Infusoria
-ba= nb
-nn= Infusoria
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-29T13:49:12Z
+fly= REAL012854
 
 id= REAL003678
 te= Filmvitenskap
@@ -31386,13 +31394,14 @@ en= Arithmetic structures
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003873
-te= Vhdl
+te= VHDL
 ba= ni
-bf= Vhsic
+bf= VHSIC
 no= Vhsic hardware description language
-nn= Vhdl
-nn= Vhsic
+nn= VHDL
+nn= VHSIC
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T20:58:08Z
 
 id= REAL003874
 te= Musikk
@@ -34567,13 +34576,14 @@ nn= Metapopulasjonar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004271
-te= Statistical package for the social sciences
+te= SPSS
 ba= ni
-ak= SPSS
 so= REAL009094
-nn= Statistical package for the social sciences
 nn= SPSS
+en= SPSS
+en= Statistical Package for the Social Sciences
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T20:54:38Z
 st= REAL014494
 
 id= REAL004272
@@ -36478,13 +36488,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004512
 te= Havfugler
-ba= nb
-ba= ngh
-nn= Havfuglar
-en= Seabirds
 tio= 2014-08-25T00:00:00Z
-st= REAL024005
-st= REAL028174
+tis= 2017-09-29T09:43:56Z
+fly= REAL002250
 
 id= REAL004513
 te= Monolitiske kolonner
@@ -36544,14 +36550,9 @@ tie= 2016-09-08T09:10:30Z
 
 id= REAL004522
 te= Hymenoptera
-ba= nb
-nn= Hymenoptera
 tio= 2014-08-25T00:00:00Z
-st= REAL016185
-st= REAL022199
-st= REAL022539
-st= REAL027027
-st= REAL029985
+tis= 2017-09-29T13:47:06Z
+fly= REAL013390
 
 id= REAL004523
 te= Feministiske teorier
@@ -42180,8 +42181,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005255
 te= Ionekanaler
 ba= nb
+bf= Kanalproteiner
 nn= Ionekanalar
+nn= Kanalprotein
+en= Ion channels
+en= Channel proteins
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T13:53:16Z
 
 id= REAL005256
 te= Termometri
@@ -45365,9 +45371,9 @@ st= REAL029647
 
 id= REAL005674
 te= Dibensodioksiner
-ba= nk
-nn= Dibensodioksin
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-29T13:34:55Z
+fly= REAL002204
 
 id= REAL005675
 te= Dokumentarkitektur
@@ -47179,8 +47185,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005891
 te= Fjærmygg
 ba= nb
+bf= Chironomider
 nn= Fjørmygg
+nn= Chironomid
+la= Chironomidae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T13:32:10Z
 
 id= REAL005892
 te= P-adiske tall
@@ -54671,10 +54681,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006788
 te= Halekreps
-ba= nb
-nn= Halekreps
 tio= 2014-08-25T00:00:00Z
-st= REAL026965
+tis= 2017-09-29T09:42:39Z
+fly= REAL002605
 
 id= REAL006789
 te= Elektrisk stimulering
@@ -57249,9 +57258,8 @@ st= REAL029001
 
 id= REAL007103
 te= Oppslagstavler
-ba= ni
-nn= Oppslagstavler
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-29T09:44:38Z
 
 id= REAL007104
 te= Alleler
@@ -57835,10 +57843,10 @@ ak= EDI
 nn= Elektronisk datautveksling
 nn= Edifact
 nn= Edifice
-en= Electronic data exchange
 en= Electronic data interchange
+en= Electronic data exchange
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-24T15:01:44Z
+tie= 2017-09-29T16:26:30Z
 
 id= REAL007176
 te= Samfunnsmedisin
@@ -60616,7 +60624,7 @@ nn= Døgnflugenymfer
 en= Mayflies
 la= Ephemeroptera
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-02T14:26:43Z
+tie= 2017-09-29T13:37:09Z
 st= REAL018041
 st= REAL024299
 st= REAL024788
@@ -64791,10 +64799,12 @@ tis= 2017-06-22T21:48:32Z
 fly= REAL001004
 
 id= REAL008062
-te= Runge-kuttametoden
+te= Runge–Kutta-metoder
 ba= ni
+bf= Runge-Kutta-metoden
 nn= Runge-Kutta-metoden
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T16:21:27Z
 
 id= REAL008063
 te= Materialisme
@@ -64886,12 +64896,13 @@ nn= Hydrogenkjemi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008070
-te= Multi protocol label switching
+te= Multi Protocol Label Switching
 ba= ni
 ak= MPLS
 nn= MPLS
-nn= Multi protocol label switching
+nn= Multi Protocol Label Switching
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T20:59:04Z
 
 id= REAL008071
 te= Sosiale veps
@@ -69321,10 +69332,11 @@ tio= 2014-08-25T00:00:00Z
 st= REAL016499
 
 id= REAL008613
-te= Solsyklus
+te= Solsykluser
 ba= na
 nn= Solsyklus
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T22:21:53Z
 st= REAL019368
 
 id= REAL008614
@@ -75601,11 +75613,17 @@ en= Inorganic crystal structures
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009412
-te= Hieracium
+te= Svever
 ba= nk
 ba= ne
-nn= Hieracium
+bf= Sveveslekten
+bf= Sveveslekta
+nn= Svæver
+nn= Svæveslekta
+en= Hawkweeds
+la= Hieracium
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T13:41:00Z
 st= REAL018498
 st= REAL027130
 st= REAL027610
@@ -76828,10 +76846,9 @@ fly= REAL003252
 
 id= REAL009579
 te= Babyuniverser
-ba= na
-nn= Babyunivers
-en= Baby universes
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-29T12:30:42Z
+fly= REAL002863
 
 id= REAL009580
 te= Fluidisering
@@ -77534,12 +77551,12 @@ en= Graphic simulation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009652
-te= Visual basic
+te= Visual Basic
 ba= ni
-bf= Vb
-nn= Visual basic
-nn= Vb
+ak= VB
+nn= Visual Basic
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T20:57:25Z
 
 id= REAL009653
 te= Preparativ kromatografi
@@ -83516,9 +83533,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010379
 te= Ingredienser
-ba= ne
-nn= Ingrediensar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-29T13:50:11Z
 
 id= REAL010380
 te= Pyrroler
@@ -88021,10 +88037,11 @@ tio= 2014-08-25T00:00:00Z
 tis= 2017-09-02T20:59:14Z
 
 id= REAL010986
-te= Verilog hdl
+te= Verilog HDL
 ba= ni
 nn= Verilog HDL
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T20:56:49Z
 
 id= REAL010987
 te= Fysikkoppgaver
@@ -96534,11 +96551,18 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-01-24T17:03:05Z
 
 id= REAL012085
-te= Brunsnegler
+te= Brunskogsnegl
 ba= nb
+bf= Brunsnegler
+bf= Mordersnegl
+so= REAL012104
+nn= Brunskogsnigel
 nn= Brunsniglar
+nn= Mordarsnigel
 en= Spanish slug
+la= Arion vulgaris
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T11:42:42Z
 
 id= REAL012086
 te= Pteridophyta
@@ -96659,10 +96683,16 @@ nn= Arisaema
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012104
-te= Iberiaskogsnegler
+te= Iberiaskogsnegl
 ba= nb
-nn= Iberiaskogsniglar
+bf= Portugisisk brunsnegl
+so= REAL012085
+nn= Iberiaskogsnigel
+nn= Portugisisk brunsnigel
+en= Lusitanian slug
+la= Arion lusitanicus
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T11:42:41Z
 
 id= REAL012105
 te= Fornybare materialer
@@ -103233,10 +103263,6 @@ st= REAL027356
 
 id= REAL012714
 te= Basidier
-ba= nb
-ba= nq
-nn= Basidiar
-en= Basidia
 de= Sporebærende organ hos stilksporesopp (Basidiomycetes)
 tio= 2014-08-25T00:00:00Z
 
@@ -104353,13 +104379,13 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-08-07T15:04:09Z
 
 id= REAL012814
-te= Hertzsprung-Russell-diagrammet
+te= Hertzsprung–Russell-diagrammet
 ba= na
 bf= HR-diagrammet
 nn= Hertzsprung-Russell-diagrammet
 nn= HR-diagrammet
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-21T21:59:11Z
+tie= 2017-09-29T16:22:29Z
 
 id= REAL012816
 te= Hjerte-lunge-redning
@@ -104752,10 +104778,14 @@ te= Flimmerdyr
 ba= nb
 bf= Infusjonsdyr
 bf= Ciliater
+bf= Infusoria
 nn= Flimmerdyr
 nn= Ciliatar
 nn= Infusjonsdyr
+nn= Infusoria
+la= Ciliophora
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T13:49:38Z
 st= REAL020261
 st= REAL020329
 
@@ -110401,10 +110431,14 @@ nn= Årevingar
 nn= Årevingjer
 la= Hymenoptera
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T13:47:18Z
 st= REAL017888
 st= REAL019030
+st= REAL022199
+st= REAL027027
 st= REAL027102
 st= REAL027864
+st= REAL029985
 
 id= REAL013391
 te= Palynologi
@@ -111841,7 +111875,6 @@ st= REAL021588
 st= REAL022223
 st= REAL023285
 st= REAL024025
-st= REAL024729
 st= REAL024878
 st= REAL026102
 st= REAL026136
@@ -116367,8 +116400,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013760
 te= Isonitrile forbindelser
-nn= Isonitrile sambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-09-29T13:54:17Z
 
 id= REAL013761
 te= Kransalger
@@ -120471,7 +120504,7 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-09-01T10:08:03Z
 
 id= REAL014024
-te= Iso-standarder
+te= ISO-standarder
 ba= ni
 bf= Iso 10021
 bf= Iso 10165
@@ -120519,6 +120552,7 @@ nn= Iso 9594
 nn= Iso 9646
 nn= Iso ip
 tio= 2014-08-25T00:00:00Z
+tie= 2017-09-29T22:27:09Z
 
 id= REAL014025
 te= Sosiale medier
