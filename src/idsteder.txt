@@ -3727,14 +3727,6 @@ en= Arabia
 tio= 2015-02-20T13:08:04Z
 tie= 2016-11-08T13:22:54Z
 
-id= REAL030987
-te= Arktisk-Alpine Områder
-bf= Arktisk-alpine strøk
-bf= Arktisk-alpin region
-en= Arctic–alpine regions
-tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:28:24Z
-
 id= REAL030988
 te= Askja
 ba= nc
@@ -4228,14 +4220,14 @@ tio= 2015-01-26T00:00:00Z
 tie= 2015-01-26T00:00:00Z
 
 id= REAL031335
-te= Den Lokale Gruppe
+te= Den lokale gruppe
 bf= Den lokale galaksehopen
 bf= Den lokale galaksegruppen
 en= Local group
 en= Local group of galaxies
 de= Den galaksehop med vel 20 medlemmer som Melkeveisystemet tilhører (SNL)
 tio= 2015-02-09T00:00:00Z
-tie= 2015-02-09T00:00:00Z
+tie= 2017-10-02T18:17:47Z
 
 id= REAL031379
 te= Østmarka

@@ -20459,10 +20459,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002542
 te= Disk operating system
-ba= ns
-nn= Disk operating system
-en= Disc Operating System
-en= DOS
 no= Slettes etter #620, se PC-DOS og MS-DOS
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-18T12:25:48Z
@@ -79477,12 +79473,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009898
 te= Conseil Européen pour la Recherche Nucléaire
-ba= na
-ak= CERN
-nn= CERN
-nn= Conseil Européen pour la Recherche Nucléaire
-nn= European organization for nuclear research
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-02T18:16:16Z
 
 id= REAL009900
 te= Heuristikk
@@ -79996,12 +79988,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-05-19T13:38:12Z
 
 id= REAL009956
-te= Er-analyse
+te= ER-analyse
 ba= ni
-bf= Er
-nn= Er-analyse
-nn= Er
+nn= ER-analyse
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-02T11:48:18Z
 
 id= REAL009957
 te= Eksperimentell informatikk
@@ -120363,7 +120354,7 @@ nn= Grunnstoffgruppe 14
 tio= 2014-08-25T00:00:00Z
 
 id= REAL014008
-te= Ieee-standarder
+te= IEEE-standarder
 ba= ni
 bf= Ieee 1014
 bf= Ieee 802
@@ -120391,6 +120382,7 @@ nn= Ieee 802.5
 nn= Ieee std 1074-1991
 nn= Ieee std 1149.1
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-02T11:51:54Z
 
 id= REAL014009
 te= Kurveapproksimasjon
@@ -120963,6 +120955,14 @@ en= Caledonides
 en= Caledonian orogeny
 tio= 2015-02-20T13:08:04Z
 tie= 2017-03-20T19:04:23Z
+
+id= REAL030987
+te= Arktisk-alpine områder
+bf= Arktisk-alpine strøk
+bf= Arktisk-alpin region
+en= Arctic–alpine regions
+tio= 2015-02-20T13:08:04Z
+tie= 2017-10-02T13:28:24Z
 
 id= REAL031088
 te= Riemannhypotesen
