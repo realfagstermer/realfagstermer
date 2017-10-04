@@ -32246,7 +32246,9 @@ id= REAL003984
 te= Bindevev
 ba= nb
 ba= ns
+bf= Støttevev
 nn= Bindevev
+nn= Støttevev
 en= Connective tissue
 tio= 2014-08-25T00:00:00Z
 
@@ -32901,10 +32903,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004070
 te= Cecidier
-ba= nb
-ba= ns
-nn= Cecidium
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-03T12:06:13Z
+fly= REAL009376
 
 id= REAL004072
 te= Euclid
@@ -60728,9 +60729,9 @@ tie= 2016-02-01T14:13:10Z
 
 id= REAL007539
 te= Støttevev
-ba= nb
-nn= Støttevev
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-03T12:14:32Z
+fly= REAL003984
 
 id= REAL007540
 te= Device independent
@@ -75379,7 +75380,9 @@ te= Galler
 ba= nb
 ba= nq
 ba= ns
+bf= Cecidier
 nn= Gallar
+nn= Cecidium
 en= Galls
 tio= 2014-08-25T00:00:00Z
 
