@@ -1995,8 +1995,10 @@ te= Göttingen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030623
-te= Gjevilvatnet
+te= Gjevillvatnet
+bf= Gjevilvatnet
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-05T13:45:24Z
 
 id= REAL030624
 te= Giessen

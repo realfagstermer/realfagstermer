@@ -11722,11 +11722,12 @@ nn= Luktesans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001463
-te= Koppermalm
+te= Kobbermalm
 ba= nc
-bf= Kobbermalm
+bf= Koppermalm
 nn= Koparmalm
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-05T13:43:52Z
 st= REAL028130
 
 id= REAL001464
@@ -18079,10 +18080,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002257
 te= Enzymatisk katalyse
-ba= ne
-nn= Enzymatisk katalyse
-en= Enzyme catalysis
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-05T11:21:58Z
+fly= REAL010056
 
 id= REAL002258
 te= Implementasjoner
@@ -21479,12 +21479,13 @@ st= REAL019102
 st= REAL025299
 
 id= REAL002663
-te= Kopperforekomster
+te= Kobberforekomster
 ba= nc
-bf= Kobberforekomster
+bf= Kopperforekomster
 nn= Koparførekomstar
 en= Copper deposits
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-05T13:43:28Z
 st= REAL014069
 st= REAL016089
 st= REAL016711
@@ -22252,9 +22253,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002759
 te= Helsinki-deklarasjonen
-ba= ns
-nn= Helsinki-deklarasjonen
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-05T09:29:56Z
 
 id= REAL002760
 te= Meldefamilien
@@ -28783,11 +28783,13 @@ en= Web ontology language
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003562
-te= Kopperreagenser
+te= Kobberreagenser
 ba= nk
+bf= Kopperreagenser
 nn= Koparreagensar
 nn= Koparreagens
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-05T13:43:56Z
 
 id= REAL003563
 te= Skala
@@ -36003,11 +36005,11 @@ st= REAL029370
 st= REAL029997
 
 id= REAL004452
-te= Herbig-Haro-objekter
+te= Herbig–Haro-objekter
 ba= na
-nn= Herbig-haro-objekt
+nn= Herbig–Haro-objekt
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-21T21:58:50Z
+tie= 2017-10-05T13:33:51Z
 st= REAL027989
 
 id= REAL004453
@@ -59219,10 +59221,13 @@ tis= 2017-03-20T18:48:00Z
 fly= REAL010499
 
 id= REAL007356
-te= Kyanitt
+te= Kyanitter
 ba= nc
-nn= Kyanitt
+bf= Cyanitter
+nn= Kyanittar
+nn= Cyanittar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-05T10:02:25Z
 
 id= REAL007357
 te= Malmmineraler
@@ -61531,9 +61536,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007647
 te= Biogeometri
-ba= nc
-nn= Biogeometri
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-05T11:22:11Z
 
 id= REAL007649
 te= Arbeidsmiljø
@@ -80861,10 +80865,13 @@ id= REAL010056
 te= Biokatalyse
 ba= ne
 bf= Biokatalysatorer
+bf= Enzymatisk katalyse
 ut= REAL005082
 nn= Biokatalyse
 nn= Biokatalysatorar
+nn= Enzymatisk katalyse
 en= Biocatalysis
+en= Enzyme catalysis
 tio= 2014-08-25T00:00:00Z
 tie= 2017-06-01T17:13:27Z
 
@@ -85347,10 +85354,12 @@ nn= Urbanisering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010627
-te= Kopperforbindelser
+te= Kobberforbindelser
 ba= nk
+bf= Kopperforbindelser
 nn= Koparsambindingar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-05T13:43:24Z
 
 id= REAL010628
 te= Marine alger
@@ -89766,10 +89775,12 @@ tio= 2014-08-25T00:00:00Z
 st= REAL019767
 
 id= REAL011225
-te= Organiske kopperforbindelser
+te= Organiske kobberforbindelser
 ba= nk
+bf= Organiske kopperforbindelser
 nn= Organiske koparsambindingar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-05T13:44:09Z
 
 id= REAL011226
 te= Avvik
@@ -93092,10 +93103,12 @@ st= REAL027122
 st= REAL028797
 
 id= REAL011645
-te= Koppergruver
+te= Kobbergruver
 ba= nc
+bf= Koppergruver
 nn= Kopargruver
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-05T13:43:40Z
 st= REAL021214
 
 id= REAL011646
@@ -98406,14 +98419,15 @@ nn= Riemanngeometri
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012308
-te= Romtid
+te= Tidrom
 ba= na
 ba= nf
-bf= Tidrom
-nn= Romtid
+bf= Romtid
 nn= Tidrom
+nn= Romtid
 en= Spacetime
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-05T23:25:18Z
 st= REAL014966
 
 id= REAL012309
@@ -109592,13 +109606,9 @@ tie= 2017-02-10T17:43:23Z
 
 id= REAL013317
 te= Biologisk analyse
-ba= nc
-ba= ngh
-ba= nq
 no= Brukes som underordnet term $b
-nn= Biologisk analyse
-en= Biological analysis
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-05T11:22:28Z
 
 id= REAL013318
 te= Biomarkører
