@@ -1356,7 +1356,7 @@ bf= Evo-devo
 nn= Evodevo
 nn= Evo-devo
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-03T09:05:13Z
+tie= 2017-10-06T16:49:50Z
 
 id= REAL000170
 te= Polarhistorie
@@ -4604,10 +4604,11 @@ nn= Klassifiserande rom
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000569
-te= Kac-moody
+te= Kac–Moody-grupper
 ba= nm
 nn= Kac-moody
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T15:55:12Z
 
 id= REAL000570
 te= Nanokrystallografi
@@ -6693,11 +6694,12 @@ st= REAL015321
 st= REAL020302
 
 id= REAL000839
-te= Distributed component object model
+te= Distributed Component Object Model
 ba= ni
 ak= DCOM
-nn= Distributed component object model
+nn= Distributed Component Object Model
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T18:30:37Z
 
 id= REAL000840
 te= Dekomposisjon
@@ -9281,11 +9283,16 @@ en= Numerical simulation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001162
-te= Cerenkovstråling
+te= Tsjerenkovstråling
 ba= nk
 ba= nf
+bf= Vavilov-Tsjerenkov-stråling
+bf= Čerenkov-stråling
+nn= Tsjerenkovstråling
 nn= Cerenkovstråling
+nn= Vavilov-Tsjerenkov-stråling
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T15:38:38Z
 
 id= REAL001163
 te= Gullegeringer
@@ -10217,13 +10224,14 @@ tie= 2017-02-25T15:20:35Z
 tis= 2017-02-25T15:20:35Z
 
 id= REAL001284
-te= Function level
+te= Function Level
 ba= ni
 ak= FL
-nn= Function level
+nn= Function Level
 nn= FL
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T18:13:22Z
 
 id= REAL001285
 te= Døgnfluelarver
@@ -10663,9 +10671,9 @@ st= REAL029025
 
 id= REAL001323
 te= Kapillærteori
-ba= nk
-nn= Kapillærteori
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T16:01:44Z
+fly= REAL003820
 
 id= REAL001324
 te= Kjønnsorganer
@@ -13684,10 +13692,13 @@ nn= Matematisk geografi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001714
-te= Epo
+te= EPO
 ba= ne
+bf= Erytropoietin
 nn= Epo
+nn= Erytropoietin
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T18:15:25Z
 
 id= REAL001715
 te= Polymorfi
@@ -15368,8 +15379,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001929
 te= Bentiske foraminiferer
 ba= nc
+bf= Bentiske poredyr
 nn= Bentiske foraminiferar
+nn= Bentiske poredyr
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T18:41:19Z
 st= REAL023516
 
 id= REAL001930
@@ -17447,9 +17461,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002173
 te= Kapillæranalyse
-ba= ne
-nn= Kapillæranalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T16:07:23Z
 
 id= REAL002174
 te= Nervegass
@@ -17983,9 +17996,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002246
 te= Kapillær lc-separasjon
-ba= nk
-nn= Kapillær lc-separasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T16:05:06Z
 
 id= REAL002247
 te= Smidig programmering
@@ -20927,10 +20939,11 @@ tio= 2014-08-25T00:00:00Z
 st= REAL029315
 
 id= REAL002591
-te= Kk-teori
+te= KK-teori
 ba= nm
-nn= Kk-teori
+nn= KK-teori
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T15:59:53Z
 
 id= REAL002592
 te= Kevlar
@@ -22115,9 +22128,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002743
 te= Turbulent strømning
-ba= nm
-nn= Turbulent strøyming
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T21:03:56Z
+fly= REAL011268
 
 id= REAL002744
 te= Dipolmomenter
@@ -23718,10 +23731,13 @@ en= Harvest mouse
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002932
-te= Hyperakkumulasjon
+te= Hyperakkumulatorer
 ba= nk
+bf= Hyperakkumulasjon
+nn= Hyperakkumulatorar
 nn= Hyperakkumulasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T16:34:29Z
 
 id= REAL002933
 te= Terrestriske dyr
@@ -26107,8 +26123,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003236
 te= Havert
 ba= nb
+bf= Gråsel
+bf= Havkobbe
 nn= Havert
+nn= Gråsel
+nn= Haverkn
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T17:09:07Z
 
 id= REAL003238
 te= Kosmologiske modeller
@@ -26719,9 +26740,8 @@ fly= REAL031833
 
 id= REAL003318
 te= Kapillær ph-gradient
-ba= nk
-nn= Kapillær ph-gradient
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T16:05:32Z
 
 id= REAL003319
 te= Kunnskapssamfunnet
@@ -30932,7 +30952,9 @@ id= REAL003820
 te= Kapillaritet
 ba= nf
 ba= ns
+bf= Kapillærteori
 nn= Kapillaritet
+nn= Kapillærteori
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003821
@@ -31891,8 +31913,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003931
 te= Gevirer
 ba= nb
+bf= Takker
 nn= Gevir
+nn= Takkar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T16:47:36Z
 
 id= REAL003932
 te= Svarte (folkegrupper)
@@ -32413,7 +32438,9 @@ id= REAL004006
 te= Harpiks
 ba= nk
 ba= ne
+bf= Kvae
 nn= Harpiks
+nn= Kvae
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004007
@@ -33096,9 +33123,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004092
 te= Kvae
-ba= ne
-nn= Kvae
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T16:26:23Z
+fly= REAL004006
 
 id= REAL004093
 te= Kosmiske jetstrømmer
@@ -33394,10 +33421,15 @@ tio= 2014-08-25T00:00:00Z
 st= REAL021881
 
 id= REAL004128
-te= Chomskys hierarki
+te= Chomskyhierarkiet
 ba= ni
+bf= Chomsky–Schützenberger-hierarkiet
+bf= Chomskys hierarki
+nn= Chomskyhierarkiet
 nn= Chomskys hierarki
+nn= Chomsky–Schützenberger-hierarkiet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T15:59:37Z
 
 id= REAL004129
 te= Suspensjonsetere
@@ -37737,10 +37769,21 @@ tio= 2014-08-25T00:00:00Z
 st= REAL019732
 
 id= REAL004677
-te= Heliosentrisk teori
+te= Heliosentrisk verdensbilde
 ba= na
+bf= Heliosentrisme
+bf= Det heliosentriske verdensbilde
+bf= Heliosentrisk teori
+bf= Kopernikanske system
+bf= Kopernikansk kosmologi
+nn= Heliosentrisk verdsbilete
 nn= Heliosentrisk teori
+nn= Heliosentrisme
+nn= Kopernikanske system
+nn= Kopernikansk kosmologi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T17:18:58Z
+st= REAL028565
 
 id= REAL004678
 te= Instrumentmakere
@@ -38134,7 +38177,9 @@ id= REAL004726
 te= Polymere blandinger
 ba= nk
 nn= Polymere blandingar
+nn= Azeotropi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T19:00:45Z
 
 id= REAL004728
 te= Tannhvaler
@@ -39372,10 +39417,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004891
 te= Manganarsenid
 ba= nk
-bf= Mnas
+bf= MnAs
 nn= Manganarsenid
-nn= Mnas
+nn= MnAs
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T18:36:38Z
 
 id= REAL004892
 te= Duftstoffer
@@ -45414,10 +45460,14 @@ st= REAL024773
 id= REAL005679
 te= Hard X-Ray Burst Spectrometer
 ba= na
+bf= Hard X-Ray Burst Spectrometer (HXRBS)
 ak= HXRBS
 nn= Hard X-Ray Burst Spectrometer
 nn= HXRBS
+nn= Hard X-Ray Burst Spectrometer (HXRBS)
 tio= 2014-08-25T00:00:00Z
+st= REAL018322
+st= REAL021369
 
 id= REAL005680
 te= Cysteinprotease
@@ -47947,11 +47997,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005991
 te= Berthollider
-ba= nk
-nn= Berthollid
 de= forbindelser som viser ikke-støkiometri
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-04T17:49:47Z
+tis= 2017-10-06T17:52:39Z
+fly= REAL012847
 
 id= REAL005992
 te= Gummitrær
@@ -50146,11 +50196,9 @@ st= REAL014537
 
 id= REAL006263
 te= Hard X-Ray Burst Spectrometer (HXRBS)
-ba= na
-nn= Hard X-Ray Burst Spectrometer (HXRBS)
 tio= 2014-08-25T00:00:00Z
-st= REAL018322
-st= REAL021369
+tis= 2017-10-06T15:57:29Z
+fly= REAL005679
 
 id= REAL006264
 te= Persisk språk
@@ -51159,10 +51207,13 @@ tio= 2014-08-25T00:00:00Z
 st= REAL023488
 
 id= REAL006370
-te= Gammastråleastronomi
+te= Gammaastronomi
 ba= na
+bf= Gamma-astronomi
+bf= Gammastråleastronomi
 nn= Gammastråleastronomi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T16:42:13Z
 st= REAL026029
 
 id= REAL006371
@@ -52613,10 +52664,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006531
 te= Kopernikanske system
-ba= na
-nn= Kopernikanske system
 tio= 2014-08-25T00:00:00Z
-st= REAL028565
+tis= 2017-10-06T17:21:52Z
+fly= REAL004677
 
 id= REAL006532
 te= Fiskeprodukter
@@ -53377,10 +53427,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006627
 te= Linné
-ba= nk
-nn= Linné
 tio= 2014-08-25T00:00:00Z
-st= REAL028222
+tis= 2017-10-06T19:08:16Z
 
 id= REAL006628
 te= Helsepolitikk
@@ -53999,7 +54047,9 @@ id= REAL006698
 te= Kapillærelektroforese
 ba= nk
 ba= ne
+bf= Kapillærsoneelektroforese
 nn= Kapillærelektroforese
+nn= Kapillærsoneelektroforese
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006699
@@ -54041,9 +54091,8 @@ tie= 2017-03-07T21:07:03Z
 
 id= REAL006704
 te= Fysikalske molekylstrukturer
-ba= nk
-nn= Fysikalske molekylstrukturar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T15:51:16Z
 
 id= REAL006705
 te= Kurveestimering
@@ -54706,10 +54755,12 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-11-22T15:16:44Z
 
 id= REAL006792
-te= Dissipative strukturer
+te= Dissipative systemer
 ba= nk
+bf= Dissipative strukturer
 nn= Dissipative strukturar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T18:30:49Z
 
 id= REAL006793
 te= Arkeoastronomi
@@ -62901,9 +62952,8 @@ st= REAL029528
 
 id= REAL007818
 te= Kapillærrør
-ba= nk
-nn= Kapillærrøyr
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T16:03:29Z
 
 id= REAL007819
 te= Decipiens
@@ -64390,10 +64440,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2014-11-28T00:00:00Z
 
 id= REAL008006
-te= Kazhdan's egenskap
+te= Kazhdans egenskap
 ba= nm
 nn= Kazhdans eigenskap
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T17:23:54Z
 
 id= REAL008007
 te= Angiotensin
@@ -64559,9 +64610,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008029
 te= Kopernikansk kosmologi
-ba= na
-nn= Kopernikansk kosmologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T17:22:04Z
+fly= REAL004677
 
 id= REAL008031
 te= Dyregeografi
@@ -66651,8 +66702,11 @@ id= REAL008288
 te= Hvite blodceller
 ba= nb
 ba= ne
+bf= Hvite blodlegemer
+bf= Leukocytter
 nn= Kvite blodceller
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T14:50:19Z
 
 id= REAL008290
 te= Kliniske studier
@@ -75237,10 +75291,14 @@ nn= Klinisk ernæringsfysiologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009359
-te= Aseotropi
+te= Azeotroper
 ba= nk
-nn= Aseotropi
+bf= Azeotrope blandinger
+bf= Azeotropi
+nn= Azeotropar
+nn= Azeotrope blandingar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T19:00:35Z
 
 id= REAL009360
 te= Oberon
@@ -77894,8 +77952,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009697
 te= Fermi-paradokset
 ba= na
+bf= Fermis paradoks
 nn= Fermi-paradokset
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T15:51:30Z
 
 id= REAL009698
 te= Huminsyre
@@ -82768,9 +82828,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010275
 te= Kvinnearbeid
-ba= ni
-nn= Kvinnearbeid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T17:12:14Z
 
 id= REAL010276
 te= Lydtransmisjon
@@ -83849,8 +83908,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010421
 te= Dobbeltpulsarer
 ba= na
+bf= Binærpulsarer
 nn= Dobbeltpulsarar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T18:17:35Z
 
 id= REAL010423
 te= Forth
@@ -90077,7 +90138,9 @@ te= Turbulens
 ba= nb
 ba= nf
 ba= nm
+bf= Turbulent strømning
 nn= Turbulens
+nn= Turbulent strøyming
 tio= 2014-08-25T00:00:00Z
 st= REAL025750
 
@@ -90455,9 +90518,12 @@ te= Funksjonell genomikk
 ba= nb
 ba= ns
 bf= Funksjonelle gener
+bf= Funksjonell genomforskning
 nn= Funksjonell genomikk
 nn= Funksjonelle gen
+nn= Funksjonell genomforsking
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T16:44:22Z
 
 id= REAL011315
 te= Kryssbinding
@@ -93013,8 +93079,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011636
 te= Fødselsdepresjoner
 ba= ne
+bf= Barseldepresjoner
+bf= Postpartum depresjoner
+bf= Postnatale depresjoner
 nn= Fødselsdepresjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T16:27:30Z
 
 id= REAL011637
 te= Astaxantin
@@ -103995,9 +104065,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012773
 te= Flatskjermer
-ba= nk
-nn= Flatskjermar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T16:13:19Z
 
 id= REAL012774
 te= Legemiddelinteraksjoner
@@ -104535,11 +104604,13 @@ en= Schrödinger equation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012830
-te= Schrödinger scattering
+te= Schrödingerspredning
 bf= Schrødinger scattering
+bf= Schrödinger-spredning
 nn= Schrödingerspreiing
 nn= Schrødingerspreiing
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T21:00:09Z
 
 id= REAL012831
 te= Moser
@@ -104747,9 +104818,13 @@ nn= Ikkje-standard analyse
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012847
-te= Ikke-støkiometri
-nn= Ikkje-støkiometri
+te= Ikke-støkiometriske forbindelser
+bf= Berthollider
+nn= Ikkje-støkiometriske sambindingar
+nn= Berthollid
+de= forbindelser som viser ikke-støkiometri
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-06T17:54:07Z
 
 id= REAL012848
 te= Illitt
@@ -105907,8 +105982,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012965
 te= Kapillærsoneelektroforese
-nn= Kapillærsoneelektroforese
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T16:10:01Z
+fly= REAL006698
 
 id= REAL012966
 te= Karbonylmetabolisme
@@ -106662,9 +106738,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013043
 te= Likevektsteorier
-nn= Jamvektsteoriar
-nn= Likevektsteoriar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-06T18:38:07Z
 
 id= REAL013044
 te= Lineære dikroismer
@@ -123577,4 +123652,26 @@ nn= Livmorhalskreft
 en= Cervical cancer
 tio= 2017-09-12T17:23:12Z
 tie= 2017-09-12T17:23:30Z
+
+id= REAL031894
+te= Foronider
+bf= Phoronider
+no= github:#1007
+en= Phoronids
+la= Phoronida
+de= Rekke i dyreriket
+tio= 2017-10-06T15:00:29Z
+tie= 2017-10-06T15:07:31Z
+
+id= REAL031895
+te= Sjøknelere
+bf= Knelerreker
+no= github:#1008
+nn= Sjøknelarar
+nn= Knelarreker
+en= Mantis shrimps
+la= Stomatopoda
+de= orden av storkreps innen krepsdyr
+tio= 2017-10-06T15:06:22Z
+tie= 2017-10-06T15:42:10Z
 

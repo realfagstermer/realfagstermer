@@ -947,10 +947,10 @@ te= Harvard
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030399
-te= Gutulia Nasjonalpark
+te= Gutulia nasjonalpark
 en= Gutulia National Park
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:29:30Z
+tie= 2017-10-06T18:05:55Z
 
 id= REAL030400
 te= Guinea-Bissau
@@ -1895,11 +1895,11 @@ te= Kurilene
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030602
-te= Kong Karls Land
+te= Kong Karls land
 en= Kong Karls Land
 en= King Charles Land
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:33:48Z
+tie= 2017-10-06T18:08:33Z
 
 id= REAL030603
 te= Kentucky
@@ -3286,11 +3286,11 @@ te= Domkirkeodden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030898
-te= Dominikanske Republikk
+te= Dominikanske republikk
 bf= Den dominikanske republikk
 en= Dominican Republic
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:22:21Z
+tie= 2017-10-06T17:56:59Z
 
 id= REAL030899
 te= Dolomittene
@@ -3720,14 +3720,14 @@ tio= 2015-02-20T13:08:04Z
 tie= 2015-02-09T00:00:00Z
 
 id= REAL030986
-te= Arabiske Halvøy
+te= Arabiske halvøy
 ba= nc
 bf= Den arabiske halvøy
 bf= Arabia
 en= Arabian Peninsula
 en= Arabia
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:22:54Z
+tie= 2017-10-06T17:56:04Z
 
 id= REAL030988
 te= Askja
@@ -3814,10 +3814,11 @@ ba= nk
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031001
-te= Halleys Komet
+te= Halleys komet
 ba= na
 en= Halley's comet
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-06T18:10:33Z
 
 id= REAL031002
 te= Hedmarkbassenget
@@ -3835,9 +3836,10 @@ ba= nc
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031005
-te= Holarktiske Region
+te= Holarktiske region
 ba= nb
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-06T18:09:22Z
 
 id= REAL031006
 te= Hornelenbassenget
@@ -3911,14 +3913,16 @@ ba= nc
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031018
-te= Nearktiske Subregion
+te= Nearktiske subregion
 ba= nb
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-06T18:09:27Z
 
 id= REAL031019
-te= Neotropiske Region
+te= Neotropiske region
 de= Dyre- og plantegeografisk betegnelse for Sør- og Mellom-Amerika med sin særegne flora og fauna. [SNL]
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-06T18:09:30Z
 
 id= REAL031020
 te= Nullmeridianen
@@ -4027,10 +4031,10 @@ ba= na
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031038
-te= Varangerhalvøya Nasjonalpark
+te= Varangerhalvøya nasjonalpark
 ba= nb
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:42:01Z
+tie= 2017-10-06T17:55:25Z
 
 id= REAL031039
 te= Venus
@@ -4056,9 +4060,10 @@ tio= 2015-02-20T13:08:04Z
 tie= 2016-03-10T11:02:44Z
 
 id= REAL031043
-te= Boreal Sone
+te= Boreal sone
 ba= nk
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-06T18:10:41Z
 
 id= REAL031044
 te= Agder
@@ -4073,11 +4078,12 @@ tis= 2017-07-24T20:32:14Z
 fly= REAL031029
 
 id= REAL031046
-te= Franz Josef Land
+te= Frans Josefs land
 en= Franz Josef Land
 en= Francis Joseph's Land
 en= Franz Joseph Land
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-06T18:05:39Z
 
 id= REAL031047
 te= Gautefallheia
@@ -4274,7 +4280,7 @@ tio= 2015-06-08T11:29:59Z
 tie= 2015-06-08T11:30:23Z
 
 id= REAL031466
-te= Den Norske Kyststrømmen
+te= Den norske kyststrømmen
 bf= Norskestrømmen
 nn= Den norske kyststraumen
 nn= Norskestraumen
@@ -4283,7 +4289,7 @@ en= Norwegian Current
 en= Norwegian Coastal Current
 de= Havstrøm langs norskekysten
 tio= 2015-06-12T16:21:33Z
-tie= 2016-11-08T13:29:00Z
+tie= 2017-10-06T17:58:01Z
 
 id= REAL031724
 te= Oman
