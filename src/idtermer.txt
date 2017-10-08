@@ -5,11 +5,12 @@ nn= Skipsmåling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000003
-te= Arpanet
+te= ARPANET
 ba= ni
-nn= Arpanet
-en= Arpanet
+nn= ARPANET
+en= ARPANET
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T01:14:50Z
 
 id= REAL000004
 te= Tunge atomkjerner
@@ -1204,10 +1205,11 @@ nn= Fuglesamfunn
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000154
-te= Depresjoner
+te= Depresjon
 ba= ne
-nn= Depresjonar
+nn= Depresjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-07T21:09:55Z
 
 id= REAL000155
 te= Hoggormer
@@ -1444,8 +1446,11 @@ fly= REAL008399
 id= REAL000179
 te= Kiralitet
 ba= nk
+bf= Kirale molekyler
 nn= Kiralitet
+nn= Kirale molekyl
 en= Chirality
+en= Chiral molecules
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000180
@@ -2501,9 +2506,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000314
 te= Zeta
-ba= nm
-nn= Zeta
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-07T21:01:13Z
 
 id= REAL000315
 te= Kjemiske stoffer
@@ -3089,10 +3093,11 @@ st= REAL023661
 st= REAL023836
 
 id= REAL000388
-te= Eispack
+te= EISPACK
 ba= nm
-nn= Eispack
+nn= EISPACK
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-07T20:16:57Z
 
 id= REAL000389
 te= Levedyktige bestander
@@ -3429,14 +3434,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000433
 te= Walk
-ba= nm
-nn= Virrevandring
-nn= Levy-virrevandring
-nn= Levy-walk
-nn= Lévy-virrevandring
-nn= Lévy-walk
-nn= Random walk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-07T20:30:04Z
+fly= REAL013089
 
 id= REAL000434
 te= Personlig databehandling
@@ -5330,9 +5330,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000668
 te= Watt
-ba= nk
-nn= Watt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-07T18:03:49Z
 
 id= REAL000669
 te= Interplanetarisk materie
@@ -7093,12 +7092,13 @@ nn= Statistiske modellar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000898
-te= Interface definition language
+te= Interface Definition Language
 ba= ni
 ak= IDL
-nn= Interface definition language
-en= Interface definition language
+nn= Interface Definition Language
+en= Interface Definition Language
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T00:03:18Z
 
 id= REAL000899
 te= Isostasi
@@ -14755,15 +14755,18 @@ st= REAL016977
 st= REAL029946
 
 id= REAL001852
-te= Gammahydroksybutyrat
+te= Gammahydroksysmørsyre
 ba= ne
+bf= 4-hydroksysmørsyre
+bf= Gammahydroksybutyrat
 ak= GHB
+nn= Gammahydroksysmørsyre
 nn= Gammahydroksybutyrat
 en= Gamma-hydroxybutyric acid
 en= 4-hydroxybutanoic acid
 en= γ-Hydroxybutyric acid
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-13T00:00:00Z
+tie= 2017-10-07T17:57:31Z
 
 id= REAL001853
 te= Granskog
@@ -18344,12 +18347,13 @@ nn= Vasshushaldning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002294
-te= Scalable coherent interface
+te= Scalable Coherent Interface
 ba= ni
 ak= SCI
-nn= SCI
 nn= Scalable Coherent Interface
+en= Scalable Coherent Interface
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T00:03:48Z
 
 id= REAL002295
 te= Sosial økologi
@@ -30709,14 +30713,13 @@ nn= Fotokromi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003788
-te= Fiber distributed data interface
+te= Fiber Distributed Data Interface
 ba= ni
 ak= FDDI
-nn= Fiber distributed data interface
-nn= FDDI
+nn= Fiber Distributed Data Interface
 en= Fiber Distributed Data Interface
-en= FDDI
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T00:04:15Z
 
 id= REAL003790
 te= Assimilasjon
@@ -37696,8 +37699,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004665
 te= Fytoterapi
 ba= ne
+so= REAL010258
 nn= Fytoterapi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-07T21:12:48Z
 st= REAL021010
 
 id= REAL004666
@@ -43564,11 +43569,13 @@ tio= 2014-08-25T00:00:00Z
 st= REAL021449
 
 id= REAL005433
-te= Iphone
+te= iPhone
 ba= ni
-nn= Iphone
-en= Iphone
+ot= REAL011301
+nn= iPhone
+en= iPhone
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T00:13:40Z
 
 id= REAL005434
 te= Kontinuerlige distribusjoner
@@ -53232,7 +53239,7 @@ ak= ABC
 nn= Atanasoff-Berry datamaskin
 nn= Atanasoff-Berry PC
 nn= Atanasoff-Berry Computer
-en= Atanasoff-berry computer
+en= Atanasoff-Berry computer
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-24T11:25:12Z
 
@@ -54167,16 +54174,15 @@ nn= Radioaktive materiale
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006715
-te= Ajax
+te= AJAX
 ba= ni
-bf= Asynchronous javascript xml	Ajax
 bf= Asynchronous JavaScript and XML
 ak= AJAX
 nn= Ajax
 nn= Asynchronous JavaScript and XML
-en= Asynchronous javascript xml
+en= Asynchronous JavaScript and XML
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-26T09:46:02Z
+tie= 2017-10-08T00:20:10Z
 
 id= REAL006716
 te= Sedimentære bassenger
@@ -56218,11 +56224,12 @@ nn= Omsorg
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006969
-te= Lorentzgrupper
+te= Lorentzgruppen
 ba= nf
 ba= nm
-nn= Lorentzgrupper
+nn= Lorentzgruppa
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-07T21:07:06Z
 
 id= REAL006970
 te= Planteproteiner
@@ -57848,15 +57855,14 @@ nn= Karbenoid
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007170
-te= Common gateway interface
+te= Common Gateway Interface
 ba= ni
 ba= na
 ak= CGI
-nn= Common gateway interface
-nn= CGI
-en= Common gateway interface
-en= CGI
+nn= Common Gateway Interface
+en= Common Gateway Interface
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T00:04:44Z
 
 id= REAL007171
 te= Brents algoritme
@@ -66692,11 +66698,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008287
 te= Banach-algebraer
 ba= nm
-bf= Banach
 nn= Banach-algebraer
-nn= Banach
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-20T10:46:14Z
+tie= 2017-10-07T20:06:00Z
 
 id= REAL008288
 te= Hvite blodceller
@@ -67615,8 +67619,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008405
 te= Konserveringsmiddel
 ba= ne
+bf= Konserveringsmidler
 nn= Konserveringsmiddel
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-07T18:51:28Z
 
 id= REAL008406
 te= Landskapsvernområder
@@ -69607,10 +69613,13 @@ tie= 2017-01-24T17:13:46Z
 st= REAL031802
 
 id= REAL008644
-te= Conley
+te= Conleys indeksteori
 ba= nm
+bf= Conley-indeksteori
+bf= Conley-indeks
 nn= Conley
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-07T20:13:39Z
 
 id= REAL008645
 te= Adsorpsjonskromatografi
@@ -69806,8 +69815,9 @@ te= Internasjonal økonomi
 ba= ni
 ba= nb
 nn= Internasjonal økonomi
-en= International economy
+en= International economics
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T00:05:53Z
 
 id= REAL008666
 te= Svovelorganiske forbindelser
@@ -70816,7 +70826,7 @@ ba= ni
 bf= ECMAScript
 bf= ES5
 bf= ES6
-nn= Javascript
+nn= JavaScript
 nn= ECMAScript
 nn= ES5
 nn= ES6
@@ -75096,8 +75106,8 @@ te= JavaServer Pages
 ba= ni
 ak= JSP
 nn= JSP
-nn= Java server pages
-en= Java server pages
+nn= JavaServer Pages
+en= JavaServer Pages
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-26T15:02:35Z
 
@@ -81802,10 +81812,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010163
 te= Kirale molekyler
-ba= nk
-nn= Kirale molekyl
-en= Chiral molecules
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-07T23:52:43Z
+fly= REAL000179
 
 id= REAL010164
 te= Hjelpeprogram
@@ -81983,12 +81992,13 @@ st= REAL022398
 st= REAL025748
 
 id= REAL010175
-te= Appletalk
+te= AppleTalk
 ba= ni
-nn= Appletalk
-en= Appletalk
+nn= AppleTalk
+en= AppleTalk
 de= Nettverkskommunikasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-07T23:47:17Z
 
 id= REAL010176
 te= Globale modeller
@@ -82627,6 +82637,7 @@ bf= Urtemedisin
 bf= Medisinske planter
 bf= Legeplanter
 bf= Legeurter
+so= REAL004665
 nn= Medisinplanter
 nn= Legeplantar
 nn= Legeplanter
@@ -82637,7 +82648,7 @@ nn= Medisinske plantar
 nn= Medisinske planter
 nn= Urtemedisin
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-12T11:58:13Z
+tie= 2017-10-07T21:12:46Z
 st= REAL014441
 st= REAL015302
 st= REAL016723
@@ -84051,12 +84062,14 @@ en= Actinometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010444
-te= Asp
+te= ASP
 ba= ni
 no= Active server pages
-nn= Asp
-en= Active server pages
+nn= ASP
+en= Active Server Pages
+en= ASP
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T01:15:59Z
 
 id= REAL010445
 te= Marine akvarier
@@ -90422,8 +90435,11 @@ st= REAL027201
 id= REAL011301
 te= Smarttelefoner
 ba= ni
+ut= REAL005433
+ut= REAL013634
 nn= Smarttelefonar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T00:13:40Z
 
 id= REAL011302
 te= Cluster Active Archive
@@ -95000,8 +95016,8 @@ nn= Atomkraftmikroskopi
 nn= Atomærkraftmikroskopi
 nn= Rasterkraftmikroskopi
 nn= Sveipkraftmikroskopi
-en= Scanning-force microscopy
-en= Atomic-force microscopy
+en= Atomic force microscopy
+en= Scanning force microscopy
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-12T12:06:27Z
 
@@ -99701,10 +99717,11 @@ so= REAL006977
 nn= Actinoid
 nn= Aktinid
 nn= Aktinoid
+en= Actinides
 en= Actinoids
 de= Grunnstoffgruppe som omfatter de 15 grunnstoffene med atomnummer fra 89 til 103
 tio= 2014-08-25T00:00:00Z
-tie= 2014-11-07T00:00:00Z
+tie= 2017-10-07T23:39:17Z
 st= REAL023116
 
 id= REAL012417
@@ -100405,6 +100422,7 @@ ba= ngh
 ba= nq
 ba= ns
 bf= Breer
+bf= Jøkler
 so= REAL012472
 so= REAL005935
 so= REAL007731
@@ -100413,7 +100431,7 @@ nn= Brear
 en= Glaciers
 de= Ismasse dannet ved snøfall og rim, som under tyngdens påvirkning beveger seg langsomt nedover, lik en seig, plastisk masse. (SNL)
 tio= 2014-08-25T00:00:00Z
-tie= 2017-04-03T13:10:04Z
+tie= 2017-10-08T00:15:13Z
 st= REAL015457
 st= REAL017642
 st= REAL018432
@@ -105899,14 +105917,15 @@ nn= Jacobi-konjektur
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012956
-te= Jdbc
+te= JDBC
 ba= ni
 bf= Java database connectivity
 no= Java database connectivity
-nn= Jdbc
+nn= JDBC
 nn= Java database connectivity
 en= Java database connectivity
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T00:20:03Z
 
 id= REAL012957
 te= Prikkperikum
@@ -107173,11 +107192,16 @@ bf= Virrevandring
 so= REAL013086
 nn= Tilfeldig gang
 nn= Virrevandring
+nn= Levy-virrevandring
+nn= Levy-walk
+nn= Lévy-virrevandring
+nn= Lévy-walk
+nn= Random walk
 en= Random walks
 ms= 60.66
 dw= 519.282
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-15T14:15:18Z
+tie= 2017-10-07T20:30:09Z
 
 id= REAL013090
 te= Forgreningsprosesser
@@ -114981,6 +115005,7 @@ st= REAL019773
 id= REAL013634
 te= Android
 ba= ni
+ot= REAL011301
 nn= Android
 en= Android
 de= Operativsystem

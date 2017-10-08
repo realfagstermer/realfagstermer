@@ -518,6 +518,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030309
 te= Preussen
+bf= Borussia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030310
@@ -545,8 +546,10 @@ en= Crete
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030315
-te= Helsinki
+te= Helsingfors
+bf= Helsinki
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-07T18:37:44Z
 
 id= REAL030316
 te= Cambridge
@@ -674,8 +677,10 @@ en= Bærum
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030341
-te= Burma
+te= Myanmar
+bf= Burma
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-07T19:12:53Z
 
 id= REAL030342
 te= Schlesien
@@ -945,6 +950,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030398
 te= Harvard
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-07T18:34:32Z
 
 id= REAL030399
 te= Gutulia nasjonalpark
@@ -1059,8 +1065,10 @@ en= Hamburg
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030422
-te= Gøteborg
+te= Göteborg
+bf= Gøteborg
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-07T18:31:51Z
 
 id= REAL030423
 te= Filippinene
@@ -1271,11 +1279,11 @@ en= Finnmarksvidda
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030467
-te= Iberiske Halvøy
+te= Iberiske halvøy
 bf= Den iberiske halvøy
 en= Iberian Peninsula
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:25:50Z
+tie= 2017-10-07T23:59:00Z
 
 id= REAL030468
 te= Børgefjell
@@ -2978,12 +2986,14 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030833
 te= Håøya
+de= øy i Oslofjorden
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-07T18:40:36Z
 
 id= REAL030834
 te= Håkedal
-en= Håkedal
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-07T23:55:54Z
 
 id= REAL030835
 te= Hå
@@ -3428,6 +3438,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030926
 te= Borussia
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-08T01:28:38Z
+fly= REAL030309
 
 id= REAL030927
 te= Bonn
@@ -3607,8 +3619,9 @@ en= Anacapri
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030963
-te= Stora Alvaret
+te= Stora alvaret
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-07T18:07:48Z
 
 id= REAL030964
 te= Altaelva
