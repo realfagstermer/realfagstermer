@@ -3988,9 +3988,10 @@ ba= na
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031028
-te= Seiland Nasjonalpark
+te= Seiland nasjonalpark
 ba= nb
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-08T20:23:50Z
 
 id= REAL031029
 te= Blåfjella-Skjækerfjella
@@ -4018,10 +4019,10 @@ ba= ngh
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031033
-te= Subtropiske Områder
+te= Subtropiske områder
 bf= Subtropiske strøk
 tio= 2015-02-20T13:08:04Z
-tie= 2016-11-08T13:34:15Z
+tie= 2017-10-08T20:25:41Z
 
 id= REAL031034
 te= Tethys

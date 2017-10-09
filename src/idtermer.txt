@@ -7707,10 +7707,11 @@ st= REAL019449
 st= REAL022961
 
 id= REAL000967
-te= Radix søking
+te= Radixsøking
 ba= ni
-nn= Radix søking
+nn= Radixsøking
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T14:56:15Z
 
 id= REAL000968
 te= Prekvartære istider
@@ -9110,10 +9111,11 @@ st= REAL018468
 st= REAL027990
 
 id= REAL001140
-te= Stokes lov
+te= Stokes' lov
 ba= nk
 nn= Stokes lov
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T20:22:52Z
 
 id= REAL001141
 te= Rettsmedisin
@@ -12127,12 +12129,15 @@ nn= Åreforkalking
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001512
-te= Omega-3-fettsyre
+te= Omega-3-fettsyrer
 ba= nk
 bf= Omega-3
-nn= Omega-3-feittsyre
+bf= ω-3
+nn= Omega-3-feittsyrer
 nn= Omega-3
+nn= ω-3
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T20:28:56Z
 
 id= REAL001513
 te= Zeditt
@@ -15734,11 +15739,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001976
 te= Next Generation Space Telescope
-ba= na
-ak= NGST
-nn= NGST
-nn= Next Generation Space Telescope
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-08T14:44:02Z
+fly= REAL010884
 
 id= REAL001979
 te= Bøk
@@ -18463,9 +18466,9 @@ tie= 2016-10-11T18:35:57Z
 
 id= REAL002311
 te= Astronomiske legemer
-ba= na
-nn= Astronomiske lekamar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-08T19:01:57Z
+fly= REAL004750
 
 id= REAL002312
 te= Vannanalyser
@@ -20596,10 +20599,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002553
 te= Stereoselektivitet
 ba= nk
-bf= Diastereoselektiv
+bf= Diastereoselektivitet
 nn= Stereoselektivitet
-nn= Diastereoselektiv
+nn= Diastereoselektivitet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T20:23:31Z
 
 id= REAL002554
 te= Dyregifter
@@ -26724,10 +26728,11 @@ tie= 2017-03-22T17:52:32Z
 tis= 2017-03-22T17:52:32Z
 
 id= REAL003314
-te= Wolf-rayet
+te= Wolf–Rayet-stjerner
 ba= na
-nn= Wolf-Rayet
+nn= Wolf–Rayet-stjerner
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:23:20Z
 
 id= REAL003315
 te= Toksinprofiler
@@ -31026,11 +31031,16 @@ nn= Muskeldystrofi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003825
-te= Pdp
+te= Programmed Data Processor
 ba= ni
-nn= Pdp
+bf= PDP
+bf= Programmable Data Processor
+nn= Programmed Data Processor
+nn= PDP
+nn= Programmable Data Processor
 de= Dec-maskin
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T14:52:50Z
 
 id= REAL003826
 te= Fingeravtrykk
@@ -31045,8 +31055,10 @@ id= REAL003827
 te= Dataskjermer
 ba= ni
 nn= Dataskjermar
+en= Computer monitors
 en= Computer screens
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T08:24:02Z
 
 id= REAL003828
 te= Planetteorier
@@ -32720,10 +32732,9 @@ st= REAL031247
 
 id= REAL004041
 te= Barnesykdommer
-ba= ne
-nn= Barnesjukdomar
-nn= Barnesjukdommar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-08T19:09:13Z
+fly= REAL007881
 
 id= REAL004042
 te= Filstrukturer
@@ -38356,8 +38367,10 @@ id= REAL004750
 te= Himmellegemer
 ba= na
 bf= Stjernehimmelen
+bf= Astronomiske legemer
 nn= Himmellekamar
 nn= Stjernehimmelen
+nn= Astronomiske lekamar
 tio= 2014-08-25T00:00:00Z
 st= REAL015967
 st= REAL025453
@@ -38481,8 +38494,12 @@ st= REAL019276
 id= REAL004766
 te= Superkritiske væsker
 ba= nk
+ak= SCF
 nn= Superkritiske væsker
+nn= Superkritisk væske
+nn= Overkritisk væske
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:07:45Z
 
 id= REAL004767
 te= Glukaner
@@ -41593,10 +41610,11 @@ en= Fraud
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005175
-te= Synkrotron
+te= Synkrotroner
 ba= nk
-nn= Synkrotron
+nn= Synkrotronar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:12:57Z
 
 id= REAL005176
 te= Liquid chromatography nuclear magnetic resonance
@@ -42578,11 +42596,12 @@ tio= 2014-08-25T00:00:00Z
 st= REAL027352
 
 id= REAL005300
-te= Dantzig-Wolfe-algoritmen
+te= Dantzig–Wolfe-algoritmen
 ba= ni
+bf= Dantzig–Wolfe-dekomposisjon
 nn= Dantzig-Wolfe-algoritmen
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-09T19:39:18Z
+tie= 2017-10-08T19:11:37Z
 
 id= REAL005301
 te= Analog maskinvare
@@ -49349,12 +49368,12 @@ nn= Molekylære mekanismar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006151
-te= Simple network management protocol
+te= Simple Network Management Protocol
 ba= ni
 ak= SNMP
-nn= SNMP
-nn= Simple network management protocol
+nn= Simple Network Management Protocol
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:04:56Z
 
 id= REAL006152
 te= Electron spin resonance
@@ -55477,11 +55496,12 @@ en= Juniper berries
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006881
-te= Web service definition language
+te= Web Service Definition Language
 ba= ni
 ak= WSDL
-nn= Web service definition language
+nn= Web Service Definition Language
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:20:02Z
 
 id= REAL006882
 te= Geometriske egenskaper
@@ -59200,13 +59220,14 @@ nn= Brokkfuglar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007346
-te= LIght Detection And Ranging
+te= LIDAR
 ba= na
 ba= ns
-ak= LIDAR
+bf= LIght Detection And Ranging
 nn= LIDAR
 nn= Light Detection And Ranging
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T20:20:51Z
 
 id= REAL007347
 te= Sjeldne jordarter
@@ -59617,9 +59638,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007405
 te= Sterke elektrolytter
-ba= nk
-nn= Sterke elektrolyttar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-08T20:26:56Z
 
 id= REAL007406
 te= Lambda
@@ -59812,12 +59832,12 @@ tio= 2014-08-25T00:00:00Z
 st= REAL018178
 
 id= REAL007433
-te= Wide area information service
+te= Wide Area Information Service
 ba= ni
 ak= WAIS
-nn= WAIS
-nn= Wide area information server
+nn= Wide Area Information Service
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:20:56Z
 
 id= REAL007434
 te= Matsikkerhet
@@ -62238,13 +62258,17 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-02-22T11:15:34Z
 
 id= REAL007729
-te= X-window
+te= Vindussystemet X
 ba= ni
 bf= Xwindow
+bf= X.Org
+bf= X11
 nn= Vindaugssystemet X
 nn= X-window
 nn= Xwindow
+nn= X11
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:33:16Z
 
 id= REAL007730
 te= Leger
@@ -63404,7 +63428,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007881
 te= Pediatri
 ba= ne
+bf= Barnesykdommer
 nn= Pediatri
+nn= Barnesjukdomar
+nn= Barnesjukdommar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007882
@@ -65644,9 +65671,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008153
 te= X11
-ba= ni
-nn= X11
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-08T15:33:26Z
+fly= REAL007729
 
 id= REAL008155
 te= Tretthet
@@ -65924,11 +65951,11 @@ st= REAL017933
 id= REAL008189
 te= SQL
 ba= ni
-bf= Structured query language
+bf= Structured Query Language
 nn= SQL
-nn= Structured query language
+nn= Structured Query Language
 tio= 2014-08-25T00:00:00Z
-tie= 2017-09-24T00:36:11Z
+tie= 2017-10-08T15:01:15Z
 
 id= REAL008190
 te= Plantepatogener
@@ -70234,10 +70261,11 @@ nn= Luminositet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008717
-te= Wolf-rayet galakser
+te= Wolf–Rayet-galakser
 ba= na
 nn= Wolf-Rayet-galaksar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:22:48Z
 
 id= REAL008718
 te= Epidot
@@ -70330,10 +70358,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-09-25T09:45:07Z
 
 id= REAL008729
-te= Radix sortering
+te= Radixsortering
 ba= ni
-nn= Radix sortering
+nn= Radixsortering
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T14:56:22Z
 
 id= REAL008730
 te= Geomikrobiologi
@@ -77552,10 +77581,11 @@ en= Computer supported work
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009644
-te= Zuse z4
+te= Zuse Z4
 ba= ni
-nn= Zuse z4
+nn= Zuse Z4
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:35:24Z
 
 id= REAL009645
 te= Blodigle
@@ -78543,10 +78573,13 @@ tio= 2014-08-25T00:00:00Z
 st= REAL025292
 
 id= REAL009778
-te= Supertunge elementer
+te= Supertunge grunnstoffer
 ba= nk
+bf= Supertunge elementer
+nn= Supertunge grunnstoff
 nn= Supertunge element
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T20:21:46Z
 
 id= REAL009779
 te= Silikonplast
@@ -83216,12 +83249,12 @@ en= Data protection
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010327
-te= Switched interconnection of parallel processors
+te= Switched Interconnection of Parallel Processors
 ba= ni
 ak= SWIPP
-nn= SWIPP
-nn= Switched interconnection of parallel processors
+nn= Switched Interconnection of Parallel Processors
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:08:55Z
 
 id= REAL010328
 te= Optisk lagring
@@ -87308,16 +87341,22 @@ nn= Nanokubar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010884
-te= James Webb Space Telescope
+te= James Webb-teleskopet
 ba= na
+bf= James Webb Space Telescope
+bf= Next Generation Space Telescope
 ak= JWST
+ak= NGST
 nn= James Webb-teleskopet
 nn= James Webb Space Telescope
+nn= NGST
+nn= Next Generation Space Telescope
 en= James Webb Space Telescope
 en= Next Generation Space Telescope
 en= NGST
 en= JWST
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T14:43:51Z
 
 id= REAL010885
 te= Innvollsormer
@@ -90833,11 +90872,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011354
 te= Supercritical fluid
-ba= nk
-ak= SCF
-nn= Superkritisk væske
-nn= Overkritisk væske
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-08T15:07:38Z
+fly= REAL004766
 
 id= REAL011355
 te= Analytiske funksjoner
@@ -109909,7 +109946,7 @@ tio= 2014-08-25T00:00:00Z
 st= REAL024409
 
 id= REAL013334
-te= World wide web
+te= World Wide Web
 ba= ni
 ba= ne
 ba= nm
@@ -109924,6 +109961,7 @@ nn= Web
 nn= World wide web
 nn= Www
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T15:27:58Z
 st= REAL024521
 st= REAL029932
 
@@ -120076,9 +120114,10 @@ nn= Påverknad frå sola
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013979
-te= Olbers paradoks
-nn= Olbers paradoks
+te= Olbers' paradoks
+nn= Olbers' paradoks
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T20:29:54Z
 
 id= REAL013980
 te= Faglig forfatterskap
