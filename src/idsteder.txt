@@ -3541,8 +3541,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030948
 te= Baffinbukta
-en= Baffin bay
+en= Baffin Bay
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-09T21:41:01Z
 
 id= REAL030949
 te= Baden-Württemberg

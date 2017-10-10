@@ -6291,7 +6291,9 @@ ba= ngh
 ba= ns
 nn= Akklimatisering
 en= Acclimatization
+en= Acclimatisation
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:56:31Z
 
 id= REAL000787
 te= Piggfinnefisker
@@ -8132,9 +8134,9 @@ st= REAL026469
 
 id= REAL001015
 te= Økologiske aspekter
-ba= nb
-nn= Økologiske aspekt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-09T15:30:22Z
+fly= REAL006368
 
 id= REAL001016
 te= Læringssentre
@@ -12141,9 +12143,9 @@ tie= 2017-10-08T20:28:56Z
 
 id= REAL001513
 te= Zeditt
-ba= nk
-nn= Zeditt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-09T11:09:07Z
+fly= REAL001844
 
 id= REAL001514
 te= Postmodernisme
@@ -14487,9 +14489,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001810
 te= Metalloider
-ba= nk
-nn= Metalloid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-08T20:53:06Z
+fly= REAL002673
 
 id= REAL001811
 te= Havotere
@@ -14700,6 +14702,7 @@ ba= nf
 nn= Zeolittar
 en= Zeolites
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T11:09:51Z
 st= REAL018476
 st= REAL024838
 
@@ -19458,9 +19461,12 @@ id= REAL002422
 te= Alternativ medisin
 ba= ne
 ba= ns
+bf= Alternativ behandling
 nn= Alternativ medisin
+nn= Alternativ behandling
 en= Alternative medicine
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T15:34:04Z
 st= REAL022992
 st= REAL027301
 
@@ -20559,7 +20565,9 @@ te= Mikroøkonomi
 ba= nb
 ba= nm
 ba= ns
+bf= Mikroøkonomisk teori
 nn= Mikroøkonomi
+nn= Mikroøkonomisk teori
 tio= 2014-08-25T00:00:00Z
 st= REAL021012
 st= REAL023355
@@ -21576,7 +21584,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002673
 te= Halvmetaller
 ba= nk
+bf= Metalloider
 nn= Halvmetall
+nn= Metalloid
 en= Metalloids
 tio= 2014-08-25T00:00:00Z
 
@@ -29446,11 +29456,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003640
 te= Agglutinerte foraminiferer
 ba= nc
+bf= Agglutinerte poredyr
 nn= Agglutinerte foraminiferar
 nn= Agglutinerte foraminifera
 nn= Agglutinerte poredyr
 en= Agglutinated foraminifera
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:57:18Z
 st= REAL028879
 
 id= REAL003641
@@ -31031,16 +31043,16 @@ nn= Muskeldystrofi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003825
-te= Programmed Data Processor
+te= PDP
 ba= ni
-bf= PDP
 bf= Programmable Data Processor
-nn= Programmed Data Processor
+bf= Programmed Data Processor
 nn= PDP
+nn= Programmed Data Processor
 nn= Programmable Data Processor
 de= Dec-maskin
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-08T14:52:50Z
+tie= 2017-10-09T10:07:48Z
 
 id= REAL003826
 te= Fingeravtrykk
@@ -35242,10 +35254,12 @@ te= Aktive galaksekjerner
 ba= na
 bf= Aktive galaktiske kjerner
 bf= Aktive kjerner
+bf= Aktive galakser
 ak= AGN
-so= REAL009955
 nn= Aktive galaksekjernar
+nn= Aktive galaksar
 en= Active galactic nuclei
+en= Active galaxies
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-19T13:44:39Z
 
@@ -36206,11 +36220,12 @@ nn= Inntekt
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004471
-te= Alkylfenol
+te= Alkylfenoler
 ba= nb
-nn= Alkylfenol
-en= Alkylphenol
+nn= Alkylfenoler
+en= Alkylphenols
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:44:25Z
 
 id= REAL004472
 te= Helsearbeid
@@ -47358,10 +47373,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005905
 te= Økologiske konsekvenser
-ba= nb
-nn= Økologiske konsekvensar
-en= Ecological consequences
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-09T15:30:42Z
+fly= REAL006368
 
 id= REAL005906
 te= Forsterket betong
@@ -50152,12 +50166,13 @@ en= Traffic optimizing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006253
-te= Anthocyaniner
+te= Antocyaniner
 ba= ne
-nn= Anthocyanin
+nn= Antocyanin
 en= Anthocyanins
 en= Anthocyans
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:45:11Z
 
 id= REAL006254
 te= Fysikalsk geografi
@@ -51219,8 +51234,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006368
 te= Økologiske effekter
 ba= nb
+bf= Økologiske analyser
+bf= Økologiske aspekter
+bf= Økologiske konsekvenser
 nn= Økologiske effektar
+nn= Økologiske analysar
+nn= Økologiske aspekt
+nn= Økologiske konsekvensar
 en= Ecological effects
+en= Ecological analysis
+en= Ecological consequences
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006369
@@ -54653,7 +54676,9 @@ id= REAL006772
 te= Anoksisk vann
 ba= nc
 nn= Anoksisk vatn
+en= Anoxic waters
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:45:40Z
 
 id= REAL006773
 te= Biologiske strukturer
@@ -56834,9 +56859,9 @@ fly= REAL007466
 
 id= REAL007046
 te= Mikroøkonomisk teori
-ba= nm
-nn= Mikroøkonomisk teori
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-09T10:53:20Z
+fly= REAL002548
 
 id= REAL007048
 te= Positivisme
@@ -58557,9 +58582,9 @@ nn= Tvillingstjerner
 en= Double stars
 en= Binary stars
 en= Optical double stars
-de= Stjerner som observert fra jorden har tilstrekkelig liten innbyrdes vinkelavstand til at de fremstår som par, enten de faktisk er nær hverandre (og gravitasjonelt bundne) eller ikke (optiske dobbeltstjerner
+de= Stjerner som observert fra jorden har tilstrekkelig liten innbyrdes vinkelavstand til at de fremstår som par, enten de faktisk er nær hverandre (gravitasjonelt bundne binærstjerner) eller ikke (optiske dobbeltstjerner)
 tio= 2014-08-25T00:00:00Z
-tie= 2017-07-28T00:49:31Z
+tie= 2017-10-09T10:45:13Z
 st= REAL022736
 
 id= REAL007260
@@ -62242,10 +62267,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007727
 te= Økologiske analyser
-ba= nb
-nn= Økologiske analysar
-en= Ecological analysis
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-09T15:30:08Z
+fly= REAL006368
 
 id= REAL007728
 te= Biofilm
@@ -70915,10 +70939,13 @@ tis= 2016-07-08T19:36:54Z
 fly= REAL001262
 
 id= REAL008800
-te= Naftener
+te= Sykloalkaner
 ba= nk
+bf= Naftener
+nn= Sykloalkaner
 nn= Naften
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T20:50:42Z
 
 id= REAL008801
 te= Lava
@@ -71353,9 +71380,10 @@ st= REAL029432
 id= REAL008858
 te= Afrodisiaka
 ba= ne
-nn= Afrodisiakum
-en= Aphrodisiac
+nn= Afrodisiaka
+en= Aphrodisiacs
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:59:09Z
 
 id= REAL008860
 te= Oljeteknologi
@@ -71403,9 +71431,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008866
 te= Eisenstein
-ba= nm
-nn= Eisenstein
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-09T12:14:09Z
 
 id= REAL008867
 te= Miljøødeleggelser
@@ -75520,8 +75547,6 @@ tis= 2017-08-11T10:48:35Z
 id= REAL009381
 te= B-celler
 tio= 2014-08-25T00:00:00Z
-tis= 2017-08-16T12:22:57Z
-fly= REAL011595
 
 id= REAL009382
 te= Lyell
@@ -75775,10 +75800,11 @@ tie= 2017-02-21T21:41:44Z
 tis= 2017-02-21T21:41:44Z
 
 id= REAL009418
-te= Mmix
+te= MMIX
 ba= ni
-nn= Mmix
+nn= MMIX
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-08T20:53:43Z
 
 id= REAL009419
 te= Sprøhet
@@ -76894,6 +76920,7 @@ st= REAL021193
 st= REAL025221
 st= REAL028090
 st= REAL031281
+st= REAL031896
 
 id= REAL009571
 te= Radarmålinger
@@ -76902,12 +76929,14 @@ nn= Radarmålingar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009572
-te= Backus-naur-form
+te= Backus–Naur-form
 ba= ni
 ak= BNF
-nn= Backus-naur-form
-en= Backus-naur-form
+nn= Backus–Naur-form
+en= Backus–Naur form
+en= Backus normal form
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:40:30Z
 
 id= REAL009574
 te= Dyretegninger
@@ -80090,12 +80119,10 @@ st= REAL027082
 
 id= REAL009955
 te= Aktive galakser
-ba= na
-so= REAL004351
-nn= Aktive galaksar
-en= Active galaxies
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-19T13:38:12Z
+tis= 2017-10-09T12:13:04Z
+fly= REAL004351
 
 id= REAL009956
 te= ER-analyse
@@ -81351,10 +81378,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010101
 te= Afro-amerikansk litteratur
-ba= ns
-nn= Afro-amerikansk litteratur
-en= Afro-american litterature
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-09T22:01:13Z
 
 id= REAL010102
 te= Libellelarver
@@ -82843,8 +82868,8 @@ ba= ne
 ba= ns
 nn= Alkaloid
 en= Alkaloids
-en= Alkaloid
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:53:29Z
 st= REAL016078
 st= REAL024153
 
@@ -83950,12 +83975,13 @@ nn= Millimeterastronomi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010421
-te= Dobbeltpulsarer
+te= Binærpulsarer
 ba= na
-bf= Binærpulsarer
+bf= Dobbeltpulsarer
+nn= Binærpulsarar
 nn= Dobbeltpulsarar
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-06T18:17:35Z
+tie= 2017-10-09T10:46:46Z
 
 id= REAL010423
 te= Forth
@@ -85795,14 +85821,9 @@ st= REAL031252
 
 id= REAL010667
 te= Universitetsbibliotek
-ba= ns
-nn= Universitetsbibliotek
 tio= 2014-08-25T00:00:00Z
-st= REAL014410
-st= REAL014960
-st= REAL016159
-st= REAL020690
-st= REAL023171
+tis= 2017-10-09T11:00:57Z
+fly= REAL012232
 
 id= REAL010668
 te= Duftkjemi
@@ -92784,14 +92805,15 @@ nn= Nordisk samarbeid
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011595
-te= B-lymfocytter
+te= B-celler
 ba= nb
-bf= B-celler
-nn= B-lymfocyttar
+bf= B-lymfocytter
 nn= B-celler
+nn= B-lymfocyttar
 en= B cells
 en= B lymphocytes
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:42:20Z
 
 id= REAL011596
 te= Horologi
@@ -97548,8 +97570,8 @@ ba= nk
 ak= Sb
 nn= Antimon
 en= Antimony
-en= Sb
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T21:42:58Z
 
 id= REAL012199
 te= Silisium
@@ -97731,10 +97753,9 @@ fly= REAL014025
 
 id= REAL012218
 te= Høgskolebibliotek
-bf= Høyskolebibliotek
-nn= Høgskulebibliotek
-nn= Høgskolebibliotek
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-09T11:01:03Z
+fly= REAL012232
 
 id= REAL012219
 te= Tekniske høgskoler
@@ -97867,14 +97888,29 @@ bf= Forskingsbibliotek
 bf= Forskningsbibliotek
 bf= Akademiske bibliotek
 bf= Vitenskapelige bibliotek
+bf= Universitetsbibliotek
+bf= Høgskolebibliotek
+bf= Høyskolebibliotek
+bf= Instituttbibliotek
 nn= Fagbibliotek
 nn= Akademiske bibliotek
 nn= Forskingsbibliotek
 nn= Vitskapelege bibliotek
 nn= Vitskaplege bibliotek
+nn= Universitetsbibliotek
+nn= Høgskulebibliotek
+nn= Høgskolebibliotek
 en= Academic libraries
+en= University libraries
+en= University college libraries
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T11:05:05Z
+st= REAL014410
+st= REAL014960
 st= REAL015626
+st= REAL016159
+st= REAL020690
+st= REAL023171
 st= REAL024847
 st= REAL031387
 st= REAL031562
@@ -119219,8 +119255,10 @@ st= REAL026017
 id= REAL013912
 te= Mikroartropoder
 nn= Mikroartropodar
+en= Microarthropods
 en= Microarthropoda
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-09T15:31:42Z
 
 id= REAL013913
 te= Leddyr
