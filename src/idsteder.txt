@@ -486,7 +486,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030302
 te= Tsjernobyl
+en= Chernobyl
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-11T14:34:04Z
 
 id= REAL030303
 te= Erice
