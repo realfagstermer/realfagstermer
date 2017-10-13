@@ -11170,7 +11170,9 @@ id= REAL001395
 te= Oksidativt stress
 ba= nb
 nn= Oksidativt stress
+en= Oxidative stress
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-12T14:48:47Z
 st= REAL031759
 
 id= REAL001396
@@ -31803,10 +31805,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003915
 te= Amerikansk litteratur
-ba= ns
-nn= Amerikansk litteratur
-en= American literature
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-12T09:33:33Z
 
 id= REAL003916
 te= Flytting
@@ -59330,13 +59330,14 @@ tis= 2017-03-20T18:48:00Z
 fly= REAL010499
 
 id= REAL007356
-te= Kyanitter
+te= Kyanitt
 ba= nc
-bf= Cyanitter
-nn= Kyanittar
-nn= Cyanittar
+bf= Cyanitt
+nn= Kyanitt
+nn= Cyanitt
+en= Kyanite
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-05T10:02:25Z
+tie= 2017-10-12T09:55:44Z
 
 id= REAL007357
 te= Malmmineraler
@@ -60811,8 +60812,16 @@ st= REAL024364
 id= REAL007535
 te= Næringsnett
 ba= nb
+bf= Næringskjeder
+bf= Næringskjede
 nn= Næringsnett
+nn= Næringskjeder
+nn= Næringskjede
+en= Food webs
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-12T14:44:04Z
+st= REAL017301
+st= REAL019160
 
 id= REAL007536
 te= Fe-linjer
@@ -61934,15 +61943,9 @@ st= REAL025419
 
 id= REAL007684
 te= Næringskjeder
-ba= nk
-ba= nb
-ba= ns
-bf= Næringskjede
-nn= Næringskjeder
-nn= Næringskjede
 tio= 2014-08-25T00:00:00Z
-st= REAL017301
-st= REAL019160
+tis= 2017-10-12T14:46:18Z
+fly= REAL007535
 
 id= REAL007685
 te= Krystallkjemi
@@ -69983,9 +69986,10 @@ bf= Kopepoder
 nn= Hoppekreps
 nn= Copepodar
 nn= Kopepodar
+en= Copepods
 la= Copepoda
 tio= 2014-08-25T00:00:00Z
-tie= 2014-10-08T00:00:00Z
+tie= 2017-10-12T13:29:51Z
 st= REAL017026
 st= REAL020691
 st= REAL023179
@@ -75078,7 +75082,9 @@ ba= na
 ba= nb
 ba= nf
 nn= Linser
+de= Optisk instrument
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-12T09:49:39Z
 
 id= REAL009320
 te= Metabolitter
@@ -77975,9 +77981,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009689
 te= Marine hoppekreps
-ba= nb
-nn= Marine hoppekreps
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-12T13:28:51Z
+fly= REAL008678
 
 id= REAL009690
 te= Cellevolum
