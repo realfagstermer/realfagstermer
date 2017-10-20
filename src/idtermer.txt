@@ -3316,6 +3316,7 @@ te= Daler
 ba= nc
 ba= ngh
 nn= Dalar
+en= Valleys
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000421
@@ -4394,6 +4395,7 @@ id= REAL000551
 te= Densitometri
 ba= na
 nn= Densitometri
+en= Densitometry
 tio= 2014-08-25T00:00:00Z
 st= REAL019523
 st= REAL023675
@@ -7163,6 +7165,7 @@ ba= nk
 ba= nf
 ba= nm
 nn= Viskositet
+en= Viscosity
 tio= 2014-08-25T00:00:00Z
 st= REAL020728
 
@@ -9576,6 +9579,7 @@ id= REAL001202
 te= Kryptozoologi
 ba= ns
 nn= Kryptozoologi
+en= Cryptozoology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001203
@@ -19353,6 +19357,10 @@ id= REAL002406
 te= Desulfurering
 ba= nk
 nn= Desulfurering
+en= Desulphurisation
+en= Desulfurisation
+en= Desulphurization
+en= Desulfurization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002407
@@ -36527,6 +36535,8 @@ ba= na
 ak= SOHO
 nn= SOHO
 nn= Solar and Heliospheric Observatory
+en= SOlar Heliospheric Observatory
+en= SOHO
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004507
@@ -39482,6 +39492,8 @@ ba= nk
 bf= MnAs
 nn= Manganarsenid
 nn= MnAs
+en= Manganese arsenide
+en= MnAs
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-06T18:36:38Z
 
@@ -70989,6 +71001,8 @@ ba= nk
 bf= Naftener
 nn= Sykloalkaner
 nn= Naften
+en= Cycloalkanes
+en= Naphthenes
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-08T20:50:42Z
 
@@ -79703,6 +79717,7 @@ id= REAL009904
 te= Komplekse væsker
 ba= nf
 nn= Komplekse væsker
+en= Complex fluids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009905
@@ -85747,6 +85762,7 @@ ba= na
 ba= nf
 ba= ns
 nn= Kosmisk stråling
+en= Cosmic radiation
 tio= 2014-08-25T00:00:00Z
 st= REAL019935
 st= REAL023873
@@ -89052,6 +89068,7 @@ id= REAL011093
 te= Vinylpolymerer
 ba= nk
 nn= Vinylpolymerar
+en= Vinyl polymers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011094
