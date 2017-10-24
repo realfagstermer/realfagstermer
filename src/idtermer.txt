@@ -1156,9 +1156,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000148
 te= Islamsk teknologi
-ba= ns
-nn= Islamsk teknologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-23T13:47:02Z
 
 id= REAL000149
 te= Kjønn
@@ -12786,8 +12785,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001593
 te= Isocyanater
 ba= nk
+bf= Diisocyanater
+bf= Isocyanider
 nn= Isocyanat
+nn= Diisocyanat
+nn= Isocyanid
 en= Isocyanates
+en= Diisocyanates
+en= Isocyanides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001594
@@ -23704,7 +23709,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002924
 te= Anemi
 ba= ns
+bf= Jernmangel
 nn= Anemi
+nn= Jarnmangel
+nn= Jernmangel
 en= Anemia
 tio= 2014-08-25T00:00:00Z
 
@@ -33798,10 +33806,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004168
 te= Jernmangel
-ba= ns
-nn= Jarnmangel
-nn= Jernmangel
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-23T14:32:28Z
+fly= REAL002924
 
 id= REAL004169
 te= Smelting
@@ -84343,10 +84350,9 @@ fly= REAL005103
 
 id= REAL010467
 te= Diisocyanater
-ba= nk
-nn= Diisocyanat
-en= Diisocyanates
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-23T13:58:22Z
+fly= REAL001593
 
 id= REAL010468
 te= Databaseanvendelser
@@ -85081,16 +85087,9 @@ st= REAL031739
 
 id= REAL010561
 te= Islamsk vitenskapshistorie
-ba= ns
-bf= Arabisk vitenskap
-bf= Islamsk vitenskap
-bf= Arabisk vitenskapshistorie
-nn= Islamsk vitskapshistorie
-nn= Arabisk vitskap
-en= History of Islamic science
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-24T14:42:21Z
-st= REAL029643
+tis= 2017-10-23T13:47:42Z
 
 id= REAL010562
 te= Schizofreni
@@ -116675,9 +116674,9 @@ st= REAL023883
 
 id= REAL013759
 te= Isocyanider
-nn= Isocyanid
-en= Isocyanides
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-23T13:58:29Z
+fly= REAL001593
 
 id= REAL013760
 te= Isonitrile forbindelser
