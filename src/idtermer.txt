@@ -56191,6 +56191,7 @@ id= REAL006952
 te= Kalsiummanganoksid
 ba= nk
 nn= Kalsiummanganoksid
+en= Potassium manganate
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006953
