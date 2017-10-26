@@ -712,7 +712,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030347
 te= Tajmyr
+bf= Tajmyrhalvøya
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-25T22:30:40Z
 
 id= REAL030348
 te= Syria
@@ -1011,6 +1013,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030409
 te= Vøringbassenget
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-25T22:18:44Z
+fly= REAL030435
 
 id= REAL030410
 te= Sovjetunionen
@@ -1139,6 +1143,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030435
 te= Vøringplatået
+bf= Vøringbassenget
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030436
@@ -4032,7 +4037,10 @@ tie= 2017-10-08T20:25:41Z
 id= REAL031034
 te= Tethys
 ba= nc
+bf= Tethyshavet
+de= hav som i mesozoikum lå mellom kontinentene Gondwana og Laurasia før Indiahavet åpnet seg
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-25T22:30:19Z
 
 id= REAL031035
 te= Trollfeltet

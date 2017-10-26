@@ -54123,10 +54123,11 @@ nn= Lemen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006696
-te= Decnet
+te= DECnet
 ba= ni
-nn= Decnet
+nn= DECnet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-25T22:15:28Z
 
 id= REAL006697
 te= Forskningshistorie
