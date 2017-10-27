@@ -1,4 +1,14 @@
 # encoding=utf8
+
+import logging
+import logging.config
+import yaml
+
+with open('logging.yml') as cfg:
+    logging.config.dictConfig(yaml.load(cfg))
+
+logger = logging.getLogger()
+
 from doit import get_var
 from roald import Roald
 from rdflib.graph import Graph, URIRef
@@ -6,11 +16,6 @@ import rdflib.namespace
 import csv
 import time
 import json
-import logging
-import logging.config
-logging.config.fileConfig('logging.cfg', )
-logger = logging.getLogger(__name__)
-
 import data_ub_tasks
 
 config = {
