@@ -18,6 +18,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030181
 te= Renessansen
 ba= ne
+en= Renaissance
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030182
@@ -85,6 +86,8 @@ te= Middelalderen
 ba= nc
 bf= Mellomalder
 bf= Mellomalderen
+en= Middle Ages
+en= Medieval Period
 de= Periode i Europas historie ca 500-ca 1500. Brukes også om tilsvarende periode i ikke-europeisk historie/kulturhistorie [UBO]
 tio= 2015-02-20T13:08:04Z
 tie= 2016-05-24T14:32:01Z
@@ -138,6 +141,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030196
 te= Jernalder
 ba= ns
+en= Iron Age
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030197
