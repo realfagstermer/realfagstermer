@@ -411,19 +411,18 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030132
 te= Kjemiske formler
-ba= nk
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-28T14:37:11Z
 
 id= REAL030133
 te= Matematiske formler
-ba= nm
-ba= ns
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-28T14:38:40Z
 
 id= REAL030134
 te= Strukturformler
-ba= nk
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-28T14:31:42Z
 
 id= REAL030135
 te= Frøatlas
@@ -545,6 +544,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030157
 te= Hovedoppgaver
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-28T14:53:58Z
 
 id= REAL030158
 te= Oversiktsverker
@@ -563,6 +563,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030161
 te= Avtaler
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-28T14:05:01Z
 
 id= REAL030162
 te= Lisensavtaler

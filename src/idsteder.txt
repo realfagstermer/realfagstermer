@@ -180,6 +180,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030233
 te= Skottland
+en= Scotland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030234
@@ -289,6 +290,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030254
 te= Sogn
+en= Sogn
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030255
@@ -300,6 +302,8 @@ fly= REAL030780
 
 id= REAL030256
 te= Nordkalotten
+en= Cap of the North
+en= Nordkalotten
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030257
@@ -424,6 +428,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030280
 te= Skagerrak
+en= Skagerrak
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030281
@@ -472,10 +477,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030290
 te= Nord-Sverige
+en= Northern Sweden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030291
 te= Lund
+en= Lund
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030292
@@ -593,6 +600,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030313
 te= Nord-Atlanteren
 no= HUsk legge til Nordatlantiske område som BF. Mari 24.5.16
+en= North Atlantic
 tio= 2015-02-20T13:08:04Z
 tie= 2016-05-24T14:21:58Z
 
@@ -754,6 +762,8 @@ tie= 2017-10-07T19:12:53Z
 id= REAL030342
 te= Schlesien
 bf= Silesia
+en= Silesia
+en= Schlesien
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030343
@@ -800,6 +810,8 @@ te= Oslomarka
 so= REAL031380
 so= REAL031379
 ut= REAL031380
+en= Oslomarka
+en= Marka, Oslo
 tio= 2015-02-20T13:08:04Z
 tie= 2015-03-23T13:28:27Z
 
@@ -876,6 +888,7 @@ tie= 2016-11-08T13:21:28Z
 
 id= REAL030364
 te= Sydpolen
+en= South Pole
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030365
@@ -896,6 +909,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030368
 te= Nigeria
+en= Nigeria
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030369
@@ -975,6 +989,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030384
 te= Stillehavsøyene
+en= Pacific islands
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030385
@@ -997,6 +1012,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030388
 te= Ringerike
+en= Ringerike
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030389
@@ -1143,6 +1159,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030415
 te= Okhotskhavet
+en= Sea of Okhotsk
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030416
@@ -1337,6 +1354,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030452
 te= Kongo
+en= Congo
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030453
@@ -1491,6 +1509,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030483
 te= Sunnhordland
+en= Sunnhordland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030484
@@ -1527,6 +1546,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030490
 te= Mellom-Europa
 bf= Sentral-Europa
+en= Central Europe
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-27T20:51:56Z
 
@@ -1537,6 +1557,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030492
 te= Sarek
+en= Sarek
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030493
@@ -1561,6 +1582,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030497
 te= Rana
+en= Rana
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030498
@@ -1643,6 +1665,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030513
 te= Kroatia
+en= Croatia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030514
@@ -1790,6 +1813,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030540
 te= Sør-Atlanteren
 bf= Syd-Atlanteren
+en= South Atlantic
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030541
@@ -1808,6 +1832,7 @@ fly= REAL030208
 
 id= REAL030543
 te= Øverbygd
+en= Øverbygd
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030544
@@ -1857,6 +1882,7 @@ tie= 2017-09-25T12:52:00Z
 
 id= REAL030552
 te= Palearktis
+en= Palearctic realm
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030553
@@ -1922,6 +1948,8 @@ te= Stugusjøen
 bf= Stuggusjøen
 nn= Stugusjøen
 nn= Stuggusjøen
+en= Stugusjøen
+en= Stuggusjøen
 de= innsjø i Sør-Trøndelag
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-27T18:52:41Z
@@ -1964,6 +1992,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030572
 te= Rago nasjonalpark
+en= Rago National Park
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-27T19:19:01Z
 
@@ -1974,6 +2003,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030574
 te= Pommern
+en= Pomerania
+en= Pommern
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030575
@@ -1986,6 +2017,7 @@ te= Polarområdene
 bf= Polarområder
 bf= Polområder
 bf= Polare strøk
+en= Polar regions
 tio= 2015-02-20T13:08:04Z
 tie= 2016-05-24T14:22:38Z
 
@@ -2001,6 +2033,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030579
 te= Oulu
+en= Oulu
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030580
@@ -2016,6 +2049,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030582
 te= Norskekysten
+en= Norwegian coast line
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030583
@@ -2041,6 +2075,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030587
 te= Målselv
+en= Målselv
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030588
@@ -2069,6 +2104,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030593
 te= Maryland
+en= Maryland
+en= Maryland County
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030594
@@ -2091,6 +2128,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030597
 te= Makedonia
+en= Makedonia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030598
@@ -2104,10 +2142,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030600
 te= Kvitsjøen
+en= White Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030601
 te= Kurilene
+en= Kuril Islands
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030602
@@ -2277,6 +2317,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030633
 te= Folgefonna
+en= Folgefonna
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030634
@@ -2624,6 +2665,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030699
 te= Femundsmarka
+en= Femundsmarka
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030700
@@ -2735,6 +2777,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030721
 te= Sølna
+en= Sølna
+en= Solna municipality
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030722
@@ -2750,6 +2794,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030724
 te= Svelvik
+en= Svelvik
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030725
@@ -2779,6 +2824,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030730
 te= Strindamarka
+en= Strindamarka
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030731
@@ -2891,6 +2937,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030752
 te= Normandie
+en= Normandy
+en= Normandie
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030753
@@ -2900,10 +2948,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030754
 te= Nordvestpassasjen
+en= Northwest passage
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030755
 te= Nordmarka (Klæbu)
+en= Nordmarka (Klæbu)
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030756
@@ -2923,6 +2973,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030759
 te= Nord-Finland
+en= Northern Finland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030760
@@ -2937,6 +2988,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030762
 te= Nord-Fron
+en= Nord-Fron
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030763
@@ -2963,10 +3015,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030767
 te= Nice
+en= Nice
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030768
 te= Ngorongoro
+en= Ngorongoro
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030769
@@ -2993,10 +3047,12 @@ tie= 2016-11-17T11:07:30Z
 
 id= REAL030773
 te= Natal
+en= Natal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030774
 te= Nannestad
+en= Nannestad
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030775
@@ -3012,14 +3068,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030777
 te= Møysalen
+en= Møysalen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030778
 te= Møsvatn
+en= Møsvatn
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030779
 te= Møsstrond
+en= Møsstrond
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030780
@@ -3057,6 +3116,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030786
 te= Mikronesia
+en= Micronesia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030787
@@ -3081,14 +3141,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030791
 te= Melanesia
+en= Melanesia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030792
 te= Mecklenburg-Vorpommern
+en= Mecklenburg-Vorpommern
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030793
 te= Masfjorden
+en= Masfjorden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030794
@@ -3117,6 +3180,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030799
 te= Lom
+en= Lom
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030800
@@ -3126,14 +3190,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030801
 te= Liguria
+en= Liguria
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030802
 te= Lierne
+en= Lierne
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030803
 te= Liège
+en= Liège
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-27T21:43:23Z
 
@@ -3195,6 +3262,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030815
 te= Kristinfeltet
+en= Kristinfeltet
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030816
@@ -3209,10 +3277,12 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030818
 te= Komorene
+en= Comoros
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030819
 te= Kjørholmane
+en= Kjørholmane
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030820
@@ -3568,6 +3638,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030888
 te= Dønnaterrassen
+en= Dønna terrace
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030889
@@ -4031,6 +4102,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030980
 te= Mjølnirkrateret
 ba= nc
+en= Mjølnir crater
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030981
@@ -4118,6 +4190,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030994
 te= Egersundbassenget
 ba= nc
+en= Egersund basin
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030995
@@ -4232,6 +4305,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031012
 te= Kuiperbeltet
 ba= na
+en= Kuiper belt
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031013
@@ -4267,17 +4341,20 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031017
 te= Mørebassenget
 ba= nc
+en= Møre basin
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031018
 te= Nearktiske subregion
 ba= nb
+en= Nearctic realm
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-06T18:09:27Z
 
 id= REAL031019
 te= Neotropiske region
 bf= Neotropis
+en= Neotropical realm
 de= Dyre- og plantegeografisk betegnelse for Sør- og Mellom-Amerika med sin særegne flora og fauna. [SNL]
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-27T19:41:11Z
@@ -4314,11 +4391,13 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031024
 te= Parismeridianen
 ba= na
+en= Paris meridian
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031025
 te= Pluto
 ba= na
+en= Pluto
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031026
@@ -4371,6 +4450,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031033
 te= Subtropiske områder
 bf= Subtropiske strøk
+en= Subtropics
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-08T20:25:41Z
 
@@ -4506,6 +4586,7 @@ tis= 2017-10-27T19:36:52Z
 
 id= REAL031056
 te= Nord-Russland
+en= Northern Russia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031057

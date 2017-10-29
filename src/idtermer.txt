@@ -5871,11 +5871,12 @@ en= Computer aided analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000734
-te= Extensible markup language
+te= XML
 ba= ni
 ak= XML
-nn= Extensible markup language
+nn= XML
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-28T13:13:03Z
 
 id= REAL000735
 te= Dressur
@@ -6170,15 +6171,16 @@ st= REAL029248
 st= REAL031711
 
 id= REAL000770
-te= Kalksteiner
+te= Kalkstein
 ba= nc
 bf= Kalkbergarter
+bf= Krittstein
 so= REAL012168
-nn= Kalksteinar
+nn= Kalkstein
 nn= Kalkbergartar
 nn= Kalkbergarter
 tio= 2014-08-25T00:00:00Z
-tie= 2017-07-25T10:52:02Z
+tie= 2017-10-28T13:34:40Z
 st= REAL021247
 st= REAL023702
 
@@ -48417,9 +48419,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005997
 te= Energifelt
-ba= na
-nn= Energifelt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-28T12:59:27Z
 
 id= REAL005998
 te= Interstellart medium
@@ -58314,10 +58315,15 @@ en= Brent's algorithm
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007172
-te= Etikette
+te= Skikk og bruk
 ba= ns
+bf= Sosiale konvensjoner
+bf= Etikette
 nn= Etikette
+nn= Skikk og bruk
+nn= Sosiale konvensjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-28T13:05:37Z
 
 id= REAL007173
 te= Nobel
@@ -83012,13 +83018,13 @@ en= Cloud physics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010227
-te= Lightweight directory access protocol
+te= Lightweight Directory Access Protocol
 ba= ni
 ak= LDAP
 so= REAL004688
-nn= LDAP
-nn= Lightweight directory access protocol
+nn= Lightweight Directory Access Protocol
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-28T13:47:17Z
 
 id= REAL010228
 te= Datasats
@@ -84040,12 +84046,13 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T13:13:28Z
 
 id= REAL010351
-te= Extensible stylesheet language transformations
+te= XSLT
 ba= ni
-bf= Xpath
-nn= Extensible stylesheet language transformations
-nn= Xpath
+bf= XPath
+nn= XSLT
+nn= XPath
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-28T13:13:42Z
 
 id= REAL010352
 te= Reaksjonsmekanikk
@@ -86302,15 +86309,14 @@ tie= 2016-11-25T13:16:20Z
 tis= 2016-11-25T13:16:20Z
 
 id= REAL010652
-te= Sandsteiner
+te= Sandstein
 ba= nc
 bf= Arenitt
-nn= Sandsteinar
+nn= Sandstein
 nn= Arenitt
-nn= Sandsteiner
-en= Sandstones
+en= Sandstone
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-08T14:03:51Z
+tie= 2017-10-28T13:36:36Z
 st= REAL025480
 st= REAL027683
 
