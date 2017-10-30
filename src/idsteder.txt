@@ -935,6 +935,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030373
 te= Haltenbanken
+en= Halten bank
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030374
@@ -1145,6 +1146,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030412
 te= Sumatra
+en= Sumatra
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030413
@@ -2222,6 +2224,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030615
 te= Holleia
+en= Holleia
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030616
@@ -2871,6 +2874,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030739
 te= Mellom-Amerika
+en= Central America
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030740
@@ -4245,6 +4249,7 @@ tie= 2017-10-06T18:10:33Z
 id= REAL031002
 te= Hedmarkbassenget
 ba= nc
+en= Hedmark basin
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031003
@@ -4257,6 +4262,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031004
 te= Hildfeltet
 ba= nc
+en= Hild field
+en= Hild oil and gas field
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031005
@@ -4268,6 +4275,7 @@ tie= 2017-10-06T18:09:22Z
 id= REAL031006
 te= Hornelenbassenget
 ba= nc
+en= Hornelen bassin
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031007

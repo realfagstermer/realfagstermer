@@ -57,6 +57,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030071
 te= Barnelitteratur
 bf= Barnebøker
+en= Children's literature
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030072
@@ -273,6 +274,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030107
 te= Standarder
+en= Standards
+en= Technical standards
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030108

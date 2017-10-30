@@ -174,6 +174,7 @@ id= REAL000026
 te= Fluorforbindelser
 ba= nk
 nn= Fluorsambindingar
+en= Fluorine compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000027
@@ -913,6 +914,8 @@ ba= ni
 ak= IRC
 nn= Internet Relay Chat
 nn= IRC
+en= Internet Relay Chat
+en= IRC
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-28T00:51:03Z
 
@@ -2125,6 +2128,8 @@ te= European Southern Observatory
 ba= na
 ak= ESO
 nn= European Southern Observatory
+en= European Southern Observatory
+en= ESO
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000261
@@ -2157,6 +2162,7 @@ id= REAL000264
 te= Fahlbånd
 ba= nc
 nn= Fahlband
+en= Fahlband
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000265
@@ -4113,6 +4119,7 @@ id= REAL000510
 te= Idrettsanlegg
 ba= ngh
 nn= Idrettsanlegg
+en= Sport venues
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000511
@@ -4804,6 +4811,7 @@ id= REAL000591
 te= Ichnologi
 ba= nc
 nn= Ichnologi
+en= Ichnology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000592
@@ -5367,6 +5375,8 @@ ba= na
 bf= Interplanetarisk støv
 nn= Interplanetarisk materie
 nn= Interplanetarisk støv
+en= Interplanetary medium
+en= Interplanetary dust
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000670
@@ -5875,6 +5885,8 @@ te= XML
 ba= ni
 ak= XML
 nn= XML
+en= XML
+en= Extensible Markup Language
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-28T13:13:03Z
 
@@ -5967,6 +5979,8 @@ id= REAL000745
 te= Elvesletter
 ba= nc
 nn= Elvesletter
+en= Floodplains
+en= Flood plains
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000747
@@ -6429,6 +6443,9 @@ id= REAL000799
 te= Kirchhoffs lover
 ba= nm
 nn= Kirchhoffs lover
+en= Kirchhoff's circuit laws
+en= Kirchhoff's rules
+en= Kirchhoff's laws
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000800
@@ -8917,6 +8934,7 @@ te= Jordas kjerne
 ba= nc
 bf= Jordens kjerne
 nn= Jordas kjerne
+en= Earth's core
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-26T11:07:57Z
 st= REAL020809
@@ -10251,6 +10269,7 @@ id= REAL001276
 te= Elliptiske galakser
 ba= na
 nn= Elliptiske galaksar
+en= Elliptical galaxies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001277
@@ -10893,6 +10912,8 @@ te= European Astrophysics Doctoral Network
 ba= na
 ak= EADN
 nn= European Astrophysics Doctoral Network
+en= European Astrophysics Doctoral Network
+en= EADN
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001344
@@ -11166,6 +11187,7 @@ id= REAL001383
 te= Martingaler
 ba= nm
 nn= Martingalar
+en= Martingales
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001384
@@ -12757,6 +12779,7 @@ id= REAL001580
 te= Elvemorfologi
 ba= ngh
 nn= Elvemorfologi
+en= River morphology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001581
@@ -14394,6 +14417,7 @@ id= REAL001785
 te= Harvard Mark I
 ba= ni
 nn= Harvard Mark I
+en= Harvard Mark I
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-28T00:23:57Z
 
@@ -15051,6 +15075,7 @@ ba= nk
 ba= ne
 ba= nf
 nn= Kolorimetri
+en= Colorimetry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001869
@@ -15670,6 +15695,7 @@ id= REAL001952
 te= Jython
 ba= ni
 nn= Jython
+en= Jython
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -20071,6 +20097,8 @@ ba= ni
 bf= Internet Protocol version 6
 nn= IPv6
 nn= Internet Protocol version 6
+en= IPv6
+en= Internet Protocol version 6
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-11T00:00:00Z
 
@@ -21101,6 +21129,7 @@ id= REAL002592
 te= Kevlar
 ba= nk
 nn= Kevlar
+en= Kevlar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002593
@@ -21594,6 +21623,7 @@ te= Kosmos
 ba= na
 ba= ns
 nn= Kosmos
+en= Cosmos
 tio= 2014-08-25T00:00:00Z
 st= REAL027477
 
@@ -23070,6 +23100,8 @@ ba= ni
 bf= JPG
 nn= JPEG
 nn= JPG
+en= JPEG
+en= JPG
 de= Bildeformat
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-26T12:22:47Z
@@ -24615,6 +24647,7 @@ id= REAL003021
 te= Fermiflater
 ba= nf
 nn= Fermiflater
+en= Fermi surfaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003022
@@ -25477,6 +25510,7 @@ id= REAL003121
 te= Kartdata
 ba= nm
 nn= Kartdata
+en= Geospatial data
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003122
@@ -25981,6 +26015,8 @@ te= European Northern Observatory
 ba= na
 ak= ENO
 nn= European Northern Observatory
+en= European Northern Observatory
+en= ENO
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003192
@@ -28932,6 +28968,8 @@ te= Jet Propulsion Laboratory
 ba= na
 ak= JPL
 nn= Jet Propulsion Laboratory
+en= Jet Propulsion Laboratory
+en= JPL
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003550
@@ -29108,6 +29146,7 @@ id= REAL003575
 te= Lucid
 ba= ni
 nn= Lucid
+en= Lucid
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -29822,6 +29861,8 @@ id= REAL003658
 te= Kvikkleire
 ba= nc
 nn= Kvikkleire
+en= Quick clay
+en= Leda clay
 tio= 2014-08-25T00:00:00Z
 st= REAL021994
 st= REAL024502
@@ -30833,6 +30874,8 @@ id= REAL003777
 te= Kjeglesnitt
 ba= nm
 nn= Kjeglesnitt
+en= Conic sections
+en= Conics
 tio= 2014-08-25T00:00:00Z
 st= REAL014272
 st= REAL016981
@@ -30853,6 +30896,8 @@ ba= na
 ak= ESRO
 nn= European Space Research Organisation
 nn= ESRO
+en= European Space Research Organisation
+en= ESRO
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003781
@@ -32697,6 +32742,7 @@ ba= ne
 bf= Kvae
 nn= Harpiks
 nn= Kvae
+en= Resin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004007
@@ -35288,6 +35334,8 @@ ba= na
 ak= IUE
 nn= International Ultraviolet Explorer
 nn= IUE
+en= International Ultraviolet Explorer
+en= IUE
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004324
@@ -36260,6 +36308,7 @@ te= Hasj
 ba= nk
 ba= ne
 nn= Hasj
+en= Cannabis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004444
@@ -36963,6 +37012,7 @@ id= REAL004535
 te= Karbonatitter
 ba= nc
 nn= Karbonatittar
+en= Carbonatites
 tio= 2014-08-25T00:00:00Z
 st= REAL026706
 
@@ -40540,6 +40590,7 @@ te= Juice
 ba= nk
 nn= Jus
 nn= Juice
+en= Juice
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004998
@@ -43483,6 +43534,8 @@ te= European Physical Society
 ba= na
 ak= EPS
 nn= European Physical Society
+en= European Physical Society
+en= EPS
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005373
@@ -44347,6 +44400,7 @@ id= REAL005486
 te= Lex
 ba= ni
 nn= Lex
+en= Lex
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005487
@@ -44415,6 +44469,7 @@ id= REAL005496
 te= Karboniumioner
 ba= nk
 nn= Karboniumion
+en= Carbonium ions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005497
@@ -45200,6 +45255,7 @@ id= REAL005602
 te= Lille istid
 ba= nc
 nn= Den vesle istida
+en= Little Ice Age
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005603
@@ -45544,6 +45600,7 @@ id= REAL005647
 te= Katalytisk hydrogenering
 ba= nk
 nn= Katalytisk hydrogenering
+en= Catalytic hydrogenation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005649
@@ -45795,6 +45852,7 @@ ba= ne
 ba= nf
 ba= ns
 nn= Katalysatorar
+en= Catalysts
 tio= 2014-08-25T00:00:00Z
 st= REAL021506
 
@@ -47785,6 +47843,10 @@ te= Kenozoikum
 ba= nb
 ba= nc
 nn= Kenozoikum
+en= Cenozic
+en= Cænozoic
+en= Cainozoic
+en= Caenozoic
 tio= 2014-08-25T00:00:00Z
 st= REAL014285
 st= REAL016471
@@ -48642,6 +48704,7 @@ ba= ne
 ba= ns
 nn= Fyrstehjelp
 nn= Førstehjelp
+en= First aid
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006020
@@ -49750,6 +49813,9 @@ ba= nc
 bf= Mellomistid
 nn= Interglasial
 nn= Mellomistid
+en= Interglacial
+en= Interglaciation
+en= Interglacial period
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-26T12:28:12Z
 
@@ -50705,6 +50771,7 @@ id= REAL006276
 te= Kjedebrøk
 ba= nm
 nn= Kjedebrøk
+en= Continued fractions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006277
@@ -51621,6 +51688,8 @@ ba= na
 bf= Gamma-astronomi
 bf= Gammastråleastronomi
 nn= Gammastråleastronomi
+en= Gamma-ray astronomy
+en= Gamma ray astronomy
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-06T16:42:13Z
 st= REAL026029
@@ -54731,6 +54800,7 @@ id= REAL006733
 te= Karbider
 ba= nk
 nn= Karbid
+en= Carbides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006734
@@ -55488,6 +55558,8 @@ ak= ESA
 nn= ESA
 nn= Den europeiske romfartsorganisasjonen
 nn= European Space Agency
+en= European Space Agency
+en= ESA
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006836
@@ -56101,6 +56173,7 @@ id= REAL006902
 te= Evaporitter
 ba= nc
 nn= Evaporittar
+en= Evaporites
 tio= 2014-08-25T00:00:00Z
 st= REAL018641
 
@@ -57189,6 +57262,7 @@ te= Epitermale avsetninger
 ba= nc
 nn= Epitermale avsetjingar
 nn= Epitermale avsettingar
+en= Epithermal deposits
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007038
@@ -57377,6 +57451,7 @@ te= Katedraler
 ba= na
 ba= ns
 nn= Katedralar
+en= Cathedrals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007065
@@ -58322,6 +58397,7 @@ bf= Etikette
 nn= Etikette
 nn= Skikk og bruk
 nn= Sosiale konvensjonar
+en= Etiquette
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-28T13:05:37Z
 
@@ -59130,6 +59206,8 @@ ba= ni
 ak= ICSE
 nn= International conference on software engineering
 nn= ICSE
+en= International conference on software engineering
+en= ICSE
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007277
@@ -59465,6 +59543,7 @@ id= REAL007317
 te= Icon
 ba= ni
 nn= Icon
+en= Icon
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -60296,6 +60375,7 @@ id= REAL007435
 te= Enterotoksiner
 ba= ne
 nn= Enterotoksin
+en= Enterotoxins
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-19T09:06:25Z
 
@@ -60407,6 +60487,7 @@ id= REAL007449
 te= Iminer
 ba= nk
 nn= Imin
+en= Imines
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007450
@@ -61677,6 +61758,8 @@ ba= na
 ak= ISS
 nn= International Space Station
 nn= ISS
+en= International Space Station
+en= ISS
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007596
@@ -62758,6 +62841,7 @@ so= REAL012471
 so= REAL005935
 so= REAL001464
 nn= Kryosfære
+en= Cryosphere
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-03T13:12:48Z
 
@@ -64950,6 +65034,8 @@ id= REAL008006
 te= Kazhdans egenskap
 ba= nm
 nn= Kazhdans eigenskap
+en= Kazhdan's property
+en= Kazhdan's property (T)
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-06T17:23:54Z
 
@@ -66015,6 +66101,8 @@ ba= nk
 bf= Ionefelle-mobilitetsspektrometri
 ak= IT-MS
 nn= Ionefelle-mobilitetsspektrometri
+en= Ion trap mobility spectrometry
+en= IT-MS
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-21T22:07:10Z
 
@@ -66377,6 +66465,7 @@ id= REAL008184
 te= Ladningsbærere
 ba= nf
 nn= Ladningsberarar
+en= Charge carriers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008185
@@ -69398,6 +69487,8 @@ bf= Infrarøde detektorer
 bf= Infrarøddetektorer
 bf= Varmestrålingsdetektorer
 nn= Infraraude detektorar
+en= IR detectors
+en= Infrared detectors
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-18T13:14:58Z
 
@@ -69427,6 +69518,7 @@ id= REAL008552
 te= Kalk
 ba= nc
 nn= Kalk
+en= Lime
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008554
@@ -70795,6 +70887,7 @@ id= REAL008718
 te= Epidot
 ba= nc
 nn= Epidot
+en= Epidote
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008719
@@ -72722,6 +72815,8 @@ id= REAL008961
 te= Lavenergi elektrondiffraksjon
 ba= nk
 nn= Lågenergi elektrondiffraksjon
+en= Low-energy electron diffraction
+en= Low energy electron diffraction
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008962
@@ -72751,6 +72846,7 @@ id= REAL008965
 te= Karbonat
 ba= nc
 nn= Karbonat
+en= Carbonate
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008966
@@ -73731,6 +73827,7 @@ id= REAL009077
 te= Karbonylforbindelser
 ba= nk
 nn= Karbonylsambindingar
+en= Carbonyl compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009078
@@ -75237,6 +75334,7 @@ id= REAL009274
 te= Kaolinitt
 ba= nc
 nn= Kaolinitt
+en= Kaolinite
 tio= 2014-08-25T00:00:00Z
 st= REAL014200
 st= REAL017240
@@ -75780,6 +75878,7 @@ id= REAL009343
 te= Identitet
 ba= ns
 nn= Identitet
+en= Identity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009344
@@ -76341,6 +76440,7 @@ id= REAL009418
 te= MMIX
 ba= ni
 nn= MMIX
+en= MMIX
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-08T20:53:43Z
 
@@ -77529,6 +77629,8 @@ id= REAL009580
 te= Fluidisering
 ba= nm
 nn= Fluidisering
+en= Fluidisation
+en= Fluidization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009581
@@ -77578,6 +77680,7 @@ id= REAL009588
 te= Kald fusjon
 ba= nf
 nn= Kald fusjon
+en= Cold fusion
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009589
@@ -81327,6 +81430,8 @@ id= REAL010027
 te= Fargepsykologi
 ba= ns
 nn= Fargepsykologi
+en= Colour psychology
+en= Color psychology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010028
@@ -82350,6 +82455,9 @@ id= REAL010150
 te= Jettegryter
 ba= nc
 nn= Jettegryter
+en= Giant's kettles
+en= Potholes
+en= Giant's cauldrons
 tio= 2014-08-25T00:00:00Z
 st= REAL025075
 st= REAL026982
@@ -82740,6 +82848,8 @@ id= REAL010189
 te= Råolje
 ba= nk
 nn= Råolje
+en= Crude oil
+en= Petroleum
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010191
@@ -83023,6 +83133,8 @@ ba= ni
 ak= LDAP
 so= REAL004688
 nn= Lightweight Directory Access Protocol
+en= Lightweight Directory Access Protocol
+en= LDAP
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-28T13:47:17Z
 
@@ -83998,6 +84110,7 @@ id= REAL010346
 te= Elektroakustikk
 ba= nf
 nn= Elektroakustikk
+en= Electroacoustics
 tio= 2014-08-25T00:00:00Z
 st= REAL026069
 st= REAL028940
@@ -85250,6 +85363,8 @@ id= REAL010516
 te= Karbonforbindelser
 ba= nk
 nn= Karbonsambindingar
+en= Carbon compounds
+en= Compounds of carbon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010517
@@ -86049,6 +86164,7 @@ id= REAL010621
 te= Marin leire
 ba= nc
 nn= Marin leire
+en= Marine clay
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010622
@@ -86516,6 +86632,7 @@ id= REAL010682
 te= Jord-måne-systemet
 ba= na
 nn= Jord-måne-systemet
+en= The Earth-moon system
 tio= 2014-08-25T00:00:00Z
 st= REAL022170
 st= REAL029194
@@ -89912,6 +90029,7 @@ id= REAL011137
 te= Ilmenitt
 ba= nc
 nn= Ilmenitt
+en= Ilmenite
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011139
@@ -90200,6 +90318,7 @@ id= REAL011181
 te= Gabbro
 ba= ns
 nn= Gabbro
+en= Gabbro
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011183
@@ -90428,6 +90547,7 @@ id= REAL011211
 te= Kimberlitter
 ba= nc
 nn= Kimberlittar
+en= Kimberlites
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011212
@@ -90713,6 +90833,7 @@ id= REAL011250
 te= Fyllitt
 ba= nc
 nn= Fyllitt
+en= Phyllite
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011251
@@ -92466,6 +92587,7 @@ id= REAL011467
 te= Lignin
 ba= nk
 nn= Lignin
+en= Lignin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011468
@@ -93157,6 +93279,7 @@ te= Ferskvannslaguner
 ba= ngh
 nn= Ferskvasslaguner
 nn= Ferskvasslagunar
+en= Freshwater lagoons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011561
@@ -95444,6 +95567,7 @@ id= REAL011829
 te= Karbener
 ba= nk
 nn= Karben
+en= Carbenes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011830
@@ -98798,6 +98922,8 @@ te= Jordas form
 ba= nc
 bf= Jordens form
 nn= Jordforma
+en= Figure of the Earth
+en= Earth's shape
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012258
@@ -98806,6 +98932,7 @@ ba= na
 ba= nc
 bf= Jordens indre
 nn= Jordas indre
+en= Earth's interior
 tio= 2014-08-25T00:00:00Z
 st= REAL026826
 
@@ -99892,6 +100019,8 @@ so= REAL012368
 so= REAL012371
 so= REAL012343
 nn= Lantanoid
+en= Lanthanides
+en= Lanthanoids
 de= Grunnstoffgruppe som omfatter de 15 grunnstoffene med atomnummer fra 58 til 71
 tio= 2014-08-25T00:00:00Z
 st= REAL018683
@@ -99937,6 +100066,7 @@ bf= Overgangsmetalloksider
 nn= Innskotsmetalloksid
 nn= Innskottsmetalloksid
 nn= Overgangsmetalloksid
+en= Transition metal oxides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012380
@@ -99953,6 +100083,9 @@ nn= Innskottsmetall
 nn= Overgangsgrunnstoff
 nn= Overgangsmetall
 nn= Transisjonsmetall
+en= Transition metals
+en= Transition elements
+en= D-block
 de= Begrepet omfatter de kjemiske grunnstoffene i gruppene 3-12 i periodesystemet. Dette er de samme gruppene som utgjør d-blokken. For disse grunnstoffene blir d-skallene fylt med elektroner etterhvert som en går mot høyre i periodene
 tio= 2014-08-25T00:00:00Z
 st= REAL021352
@@ -100066,6 +100199,7 @@ te= Eocen
 ba= nc
 no= Geologisk tid
 nn= Eocen
+en= Eocene
 de= Tidsavsnitt i paleogen, 56 millioner til 34 millioner år før nåtid.
 tio= 2014-08-25T00:00:00Z
 st= REAL027139
@@ -105730,6 +105864,9 @@ bf= Interstellart støv
 ak= ISM
 nn= Interstellar materie
 nn= Interstellart støv
+en= Interstellar medium
+en= ISM
+en= Interstellar dust
 tio= 2014-08-25T00:00:00Z
 st= REAL019511
 st= REAL023758
@@ -106793,6 +106930,7 @@ ba= nf
 bf= Kalorimeter
 bf= Kalorimetere
 nn= Kalorimeter
+en= Calorimeters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012963
@@ -112872,6 +113010,7 @@ ba= nf
 ba= nm
 ba= ns
 nn= Kosmologi
+en= Cosmology
 tio= 2014-08-25T00:00:00Z
 st= REAL014089
 st= REAL014095
@@ -115373,6 +115512,7 @@ bf= Kalkspat
 so= REAL012168
 nn= Kalsitt
 nn= Kalkspat
+en= Calcite
 tio= 2014-08-25T00:00:00Z
 st= REAL029304
 
@@ -117034,6 +117174,7 @@ st= REAL025499
 id= REAL013731
 te= Karboksylsyrer
 nn= Karboksylsyrer
+en= Carboxylic acids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013732
