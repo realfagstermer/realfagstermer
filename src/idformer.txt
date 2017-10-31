@@ -529,8 +529,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030153
 te= Viltområdekart
-ba= nk
 tio= 2015-02-20T13:08:04Z
+tis= 2017-10-30T11:35:05Z
 
 id= REAL030154
 te= Rettskilder
