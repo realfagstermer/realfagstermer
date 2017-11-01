@@ -5867,10 +5867,11 @@ nn= Elektrisk kraftoverføring
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000732
-te= Fosforitter
+te= Fosforitt
 ba= nc
-nn= Fosforittar
+nn= Fosforitt
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T17:58:10Z
 st= REAL028361
 
 id= REAL000733
@@ -7561,11 +7562,13 @@ nn= Energikostnad
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000943
-te= Magnetohydrodynamisk generator
+te= Magnetohydrodynamiske generatorer
 ba= ns
+bf= MHD-generatorer
 ak= MHD
-nn= Magnetohydrodynamisk generator
+nn= Magnetohydrodynamiske generatorar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T18:31:53Z
 
 id= REAL000944
 te= Grafdeling
@@ -9174,10 +9177,13 @@ tio= 2014-08-25T00:00:00Z
 st= REAL023187
 
 id= REAL001138
-te= Elektrofotografi
+te= Xerografi
 ba= nf
+bf= Elektrofotografi
+nn= Xerografi
 nn= Elektrofotografi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T18:03:05Z
 
 id= REAL001139
 te= Skjeletter
@@ -11739,10 +11745,21 @@ tio= 2014-08-25T00:00:00Z
 st= REAL027933
 
 id= REAL001452
-te= Loer
+te= Lofamilien
 ba= nb
+bf= Fjelloer
+bf= Brokkfugler
+bf= Loer
+nn= Lofamilien
 nn= Loer
+nn= Fjelloer
+nn= Brokkfuglar
+en= Plovers
+en= Dotterels
+en= Lapwings
+la= Charadriidae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T12:39:21Z
 
 id= REAL001453
 te= Kreftforskning
@@ -13311,11 +13328,16 @@ st= REAL014242
 st= REAL017632
 
 id= REAL001651
-te= Agurker
+te= Agurk
 ba= ns
+bf= Agurker
+nn= Agurk
 nn= Agurkar
+en= Cucumber
 en= Cucumbers
+la= Cucumis sativus
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T11:55:44Z
 
 id= REAL001652
 te= Eksperter
@@ -15054,8 +15076,10 @@ id= REAL001865
 te= Boreal barskog
 ba= nq
 bf= Taiga
+bf= Boreale skoger
 nn= Boreal barskog
 nn= Taiga
+nn= Boreale skogar
 en= Taiga
 en= Snow forest
 en= Boreal forest
@@ -15293,8 +15317,12 @@ id= REAL001896
 te= Binære systemer
 ba= na
 ba= nm
+so= REAL010421
+so= REAL005285
+so= REAL007259
 nn= Binære system
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T20:05:42Z
 
 id= REAL001897
 te= Dypbergarter
@@ -16862,13 +16890,9 @@ tie= 2015-02-23T13:52:24Z
 
 id= REAL002100
 te= Boreale skoger
-ba= nb
-ba= nq
-nn= Boreale skogar
-en= Taiga
-en= Boreal Forest
-en= Snow Forest
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T12:46:34Z
+fly= REAL001865
 
 id= REAL002101
 te= Antropologi
@@ -17887,10 +17911,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002209
 te= Arbeidsteknikk
-ba= nb
-ba= nc
-nn= Arbeidsteknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T19:49:55Z
 
 id= REAL002210
 te= Frostherdighet
@@ -19354,9 +19376,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002389
 te= Fjelloer
-ba= nb
-nn= Fjelloer
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T12:36:18Z
+fly= REAL001452
 
 id= REAL002390
 te= Enkrystaller
@@ -20511,6 +20533,7 @@ ba= nf
 bf= Nanostrukturerte materialer
 bf= Nanostrukturer
 so= REAL011463
+so= REAL003139
 ut= REAL031623
 nn= Nanomateriale
 nn= Nanostrukturar
@@ -20519,7 +20542,7 @@ en= Nanomaterials
 en= Nanostructured materials
 en= Nanostructures
 tio= 2014-08-25T00:00:00Z
-tie= 2016-04-08T21:32:21Z
+tie= 2017-10-31T18:24:22Z
 st= REAL017803
 st= REAL020745
 st= REAL022714
@@ -23247,11 +23270,12 @@ te= Lavdimensjonale halvledere
 ba= nf
 so= REAL004838
 so= REAL004229
+ot= REAL003139
 nn= Lågdimensjonale halvleiarar
 en= Low-dimensional semiconductors
 en= Low dimensional semiconductors
 tio= 2014-08-25T00:00:00Z
-tie= 2017-06-22T21:45:52Z
+tie= 2017-10-31T18:26:25Z
 
 id= REAL002854
 te= Maneter
@@ -25635,8 +25659,14 @@ st= REAL022620
 id= REAL003139
 te= Lavdimensjonale systemer
 ba= nf
+bf= Lavdimensjonale lagstrukturer
+so= REAL002527
+ut= REAL002853
 nn= Lågdimensjonale system
+nn= Lågdimensjonale lagstrukturar
+de= systemer som i praksis er begrenset til én eller to dimensjoner
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T18:29:51Z
 
 id= REAL003140
 te= Plantemedisiner
@@ -33181,8 +33211,12 @@ st= REAL028990
 id= REAL004062
 te= Arabiske skjold
 ba= nc
+bf= Arabisk-nubiske skjold
+bf= Det arabisk-nubiske skjoldet
 nn= Arabiske skjold
+nn= Arabisk-nubiske skjold
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T19:45:12Z
 
 id= REAL004063
 te= Saltmarker
@@ -36885,9 +36919,9 @@ tie= 2017-02-17T21:24:01Z
 
 id= REAL004517
 te= Tensider
-ba= nk
-nn= Tensid
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T17:15:28Z
+fly= REAL011927
 
 id= REAL004518
 te= Overbeiting
@@ -39053,9 +39087,8 @@ st= REAL025518
 
 id= REAL004797
 te= Fotonoverføring
-ba= na
-nn= Fotonoverføring
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T18:13:57Z
 
 id= REAL004798
 te= Utviklingsverktøy
@@ -42848,11 +42881,12 @@ ba= na
 bf= Røntgenbinærstjerner
 bf= Røntgendobbeltstjerner
 bf= Binære røntgenkilder
+so= REAL001896
 nn= Røntgenstjerner
 nn= Binære røntgenkjelder
 en= X-ray binaries
 tio= 2014-08-25T00:00:00Z
-tie= 2017-07-28T00:46:08Z
+tie= 2017-10-31T20:05:06Z
 
 id= REAL005287
 te= Vadefugler
@@ -43424,9 +43458,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005360
 te= Aktivitetssykluser
-ba= na
-nn= Aktivitetssyklusar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T19:36:11Z
+fly= REAL008613
 
 id= REAL005361
 te= Invariant-teori
@@ -44199,8 +44233,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005461
 te= Elektromagnetisk støy
 ba= ns
+bf= Elektromagnetisk forstyrrelse
 nn= Elektromagnetisk støy
+nn= Elektromagnetisk forstyrring
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T18:04:16Z
 
 id= REAL005463
 te= Golgiapparatet
@@ -45486,11 +45523,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005633
 te= Nyhetstjenester
-ba= ni
-bf= News
-nn= Nyhetstenester
-nn= News
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T18:35:01Z
 
 id= REAL005634
 te= Desentralisering
@@ -54346,12 +54380,12 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-08-08T11:09:30Z
 
 id= REAL006683
-te= Wireless application protocol
+te= Wireless Application Protocol
 ba= ni
 ak= WAP
-nn= WAP
-nn= Wireless application protocol
+nn= Wireless Application Protocol
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T16:27:41Z
 
 id= REAL006684
 te= Muskulatur
@@ -57192,7 +57226,7 @@ nn= Diamantfilmar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007028
-te= World Health Organization
+te= Verdens helseorganisasjon
 ba= ne
 ak= WHO
 nn= Verdas helseorganisasjon
@@ -57201,7 +57235,7 @@ nn= World Health Organization
 en= World Health Organization
 en= WHO
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-26T11:04:03Z
+tie= 2017-10-31T17:10:37Z
 
 id= REAL007029
 te= Indianere
@@ -59058,6 +59092,7 @@ bf= Optiske dobbeltstjerner
 bf= Tvillingstjerner
 so= REAL008511
 so= REAL005875
+so= REAL001896
 nn= Dobbeltstjerner
 nn= Optiske dobbeltstjerner
 nn= Binære stjerner
@@ -59067,7 +59102,7 @@ en= Binary stars
 en= Optical double stars
 de= Stjerner som observert fra jorden har tilstrekkelig liten innbyrdes vinkelavstand til at de fremstår som par, enten de faktisk er nær hverandre (gravitasjonelt bundne binærstjerner) eller ikke (optiske dobbeltstjerner)
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-09T10:45:13Z
+tie= 2017-10-31T20:05:40Z
 st= REAL022736
 
 id= REAL007260
@@ -59727,9 +59762,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007345
 te= Brokkfugler
-ba= nb
-nn= Brokkfuglar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T12:36:35Z
+fly= REAL001452
 
 id= REAL007346
 te= LIDAR
@@ -61637,9 +61672,8 @@ st= REAL022963
 
 id= REAL007580
 te= Tenax
-ba= nk
-nn= Tenax
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T16:53:56Z
 
 id= REAL007581
 te= Menneskekroppen
@@ -62224,7 +62258,6 @@ bf= Diskusjonsgrupper
 bf= Nyhetsgrupper
 bf= Portacom
 so= REAL002756
-so= REAL005633
 so= REAL005692
 nn= Nettgrupper
 nn= Diskusjonsgrupper
@@ -62998,10 +63031,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007750
 te= Solflekksyklus
-ba= na
-nn= Solflekksyklus
 tio= 2014-08-25T00:00:00Z
-st= REAL018360
+tis= 2017-10-31T19:36:28Z
+fly= REAL008613
 
 id= REAL007751
 te= Jordrotter
@@ -63087,9 +63119,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007762
 te= Fluorinerte surfaktanter
-ba= nk
-nn= Fluorinerte surfaktantar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T17:20:09Z
+tis= 2017-10-31T17:22:54Z
 
 id= REAL007763
 te= Boreslam
@@ -68455,9 +68487,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008435
 te= Lavdimensjonale lagstrukturer
-ba= nf
-nn= Lågdimensjonale lagstrukturar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T18:25:49Z
+fly= REAL003139
 
 id= REAL008436
 te= Simulasamlingen
@@ -70029,7 +70061,11 @@ st= REAL016499
 id= REAL008613
 te= Solsykluser
 ba= na
+bf= Aktivitetssykluser
+bf= Solflekksyklus
 nn= Solsyklus
+nn= Aktivitetssyklusar
+nn= Solflekksyklus
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-29T22:21:53Z
 st= REAL019368
@@ -70212,10 +70248,15 @@ tis= 2017-02-21T21:34:32Z
 fly= REAL009637
 
 id= REAL008639
-te= Laservåpen
+te= Strålevåpen
 ba= nf
+bf= Laservåpen
+bf= Mikrobølgevåpen
+nn= Strålevåpen
 nn= Laservåpen
+nn= Mikrobylgjevåpen
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T17:01:46Z
 
 id= REAL008640
 te= Standardmodellen
@@ -82582,9 +82623,11 @@ id= REAL010167
 te= Bielver
 ba= nk
 ba= ns
+bf= Sideelver
 nn= Sideelvar
 nn= Sideelver
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T19:58:58Z
 
 id= REAL010168
 te= Spredefunksjoner
@@ -84675,10 +84718,11 @@ id= REAL010421
 te= Binærpulsarer
 ba= na
 bf= Dobbeltpulsarer
+so= REAL001896
 nn= Binærpulsarar
 nn= Dobbeltpulsarar
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-09T10:46:46Z
+tie= 2017-10-31T20:05:01Z
 
 id= REAL010423
 te= Forth
@@ -86173,10 +86217,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010624
 te= Kosmiske stråler
-ba= na
-nn= Kosmiske strålar
 tio= 2014-08-25T00:00:00Z
-st= REAL015085
+tis= 2017-10-31T17:02:47Z
+fly= REAL010649
 
 id= REAL010625
 te= Naturlige tall
@@ -86399,9 +86442,12 @@ te= Kosmisk stråling
 ba= na
 ba= nf
 ba= ns
+bf= Kosmiske stråler
 nn= Kosmisk stråling
+nn= Kosmiske strålar
 en= Cosmic radiation
 tio= 2014-08-25T00:00:00Z
+st= REAL015085
 st= REAL019935
 st= REAL023873
 
@@ -91436,10 +91482,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011328
 te= Blomstermedisin
-ba= nb
-ba= ne
-nn= Blomemedisin
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T11:41:19Z
 
 id= REAL011329
 te= Abstrakt gruppeteori
@@ -92002,10 +92046,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011397
 te= Surfaktanter
-ba= nk
-nn= Surfaktantar
-en= Surfactants
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T17:14:36Z
+fly= REAL011927
 
 id= REAL011398
 te= Funksjonaler
@@ -93474,9 +93517,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011586
 te= Overflateaktive forbindelser
-ba= nk
-nn= Overflateaktive sambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T17:16:33Z
+fly= REAL011927
 
 id= REAL011587
 te= Digitale skiller
@@ -96412,7 +96455,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011927
 te= Overflateaktive stoffer
 ba= ne
+bf= Surfaktanter
+bf= Tensider
+bf= Overflateaktive forbindelser
 nn= Overflateaktive stoff
+nn= Surfaktantar
+nn= Tensid
+nn= Overflateaktive sambindingar
+en= Surfactants
 tio= 2014-08-25T00:00:00Z
 st= REAL027239
 
@@ -102186,11 +102236,13 @@ st= REAL028799
 st= REAL029654
 
 id= REAL012546
-te= Near earth objects
+te= Jordnære objekt
 ba= na
+bf= Jordnære objekter
 ak= NEOS
 nn= Jordnære objekt
 tio= 2014-08-25T00:00:00Z
+tie= 2017-10-31T16:50:01Z
 
 id= REAL012547
 te= Sølvutvinning
@@ -106184,19 +106236,19 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012895
 te= Bibliotekpersonale
-ba= ns
-so= REAL012896
-so= REAL012899
-nn= Bibliotekpersonale
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T19:58:30Z
+fly= REAL012896
 
 id= REAL012896
 te= Bibliotekaryrket
 ba= ns
 bf= Bibliotekarer
-so= REAL012895
+bf= Bibliotekpersonale
+so= REAL012899
 nn= Bibliotekaryrket
 nn= Bibliotekarar
+nn= Bibliotekpersonale
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-17T09:50:59Z
 st= REAL017211
@@ -106244,7 +106296,7 @@ id= REAL012899
 te= Fagreferenter
 ba= ns
 bf= Fagbibliotekarer
-so= REAL012895
+so= REAL012896
 nn= Fagreferentar
 nn= Fagbibliotekarar
 en= Subject specialists
@@ -109463,10 +109515,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013218
 te= Kusopper
-ba= nq
-nn= Kusoppar
-la= Suillus
 tio= 2014-08-25T00:00:00Z
+tis= 2017-10-31T11:41:05Z
 
 id= REAL013219
 te= Mikrosopper
@@ -124783,12 +124833,12 @@ tio= 2017-10-30T09:56:54Z
 tie= 2017-10-30T10:10:32Z
 
 id= REAL031904
-te= Religon og vitenskap
+te= Religion og vitenskap
 bf= Vitenskap og religon
 nn= Religion og vitskap
 nn= Vitskap og religion
 en= Religion and science
 en= Science and religion
 tio= 2017-10-30T10:15:05Z
-tie= 2017-10-30T10:16:38Z
+tie= 2017-10-31T10:46:36Z
 

@@ -4014,9 +4014,11 @@ en= Apennine Mountains
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030961
-te= Andalucia
+te= Andalucía
+bf= Andalusia
 en= Andalusia
 tio= 2015-02-20T13:08:04Z
+tie= 2017-10-31T15:19:45Z
 
 id= REAL030962
 te= Anacapri
