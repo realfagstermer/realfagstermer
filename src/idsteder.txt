@@ -515,8 +515,6 @@ id= REAL030297
 te= Sameland
 bf= Lappland
 bf= Sápmi
-en= Sápmi
-en= Lapland
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-27T23:05:12Z
 
@@ -2579,8 +2577,6 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030682
 te= Bjerkreimvassdraget
 bf= Bjerkreimselva
-en= Bjerkreimvassdraget
-en= Bjerkreimselva
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030683
@@ -2758,7 +2754,6 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030716
 te= Sør-Afrika (område)
-en= Southern Africa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030717
@@ -4554,8 +4549,6 @@ tie= 2017-10-06T18:05:39Z
 
 id= REAL031047
 te= Gautefallheia
-en= Gautefallheia
-en= Gautefall
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031048
@@ -4701,8 +4694,6 @@ tie= 2015-01-23T00:00:00Z
 id= REAL031303
 te= Statfjordfeltet
 bf= Statfjord
-en= Statfjord oil field
-en= Statfjord
 tio= 2015-01-23T00:00:00Z
 tie= 2017-10-27T19:13:31Z
 

@@ -78,10 +78,6 @@ tie= 2015-08-19T19:03:07Z
 id= REAL030188
 te= Folkevandringstiden
 ba= nb
-en= Migration Period
-en= The Migration Period
-en= Völkerwanderung
-en= The Barbarian Invasions
 de= Periode i Europas historie, ca 400 - 600 e.Kr. [UBO]
 tio= 2015-02-20T13:08:04Z
 
