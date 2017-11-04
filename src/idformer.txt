@@ -28,15 +28,19 @@ te= Adresselister
 bf= Adressebøker
 bf= Adressefortegnelser
 bf= Adresser
+en= Address lists
+en= Address books
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030066
 te= Almanakker
+en= Almanacs
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030067
 te= Antologier
 bf= Artikkelsamlinger
+en= Anthologies
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030068
@@ -52,6 +56,7 @@ tie= 2015-10-01T11:09:19Z
 id= REAL030070
 te= Atlas
 bf= Verdensatlas
+en= Atlases
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030071
@@ -385,6 +390,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030127
 te= Anatomisk atlas
+en= Anatomy atlases
+en= Anatomical atlases
+en= Anatomic atlases
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030128

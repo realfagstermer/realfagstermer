@@ -124846,3 +124846,29 @@ en= Science and religion
 tio= 2017-10-30T10:15:05Z
 tie= 2017-10-31T10:46:36Z
 
+id= REAL031905
+te= Relasjonelle teorier
+bf= Relasjonelle tidromteorier
+bf= Relasjonell tid
+bf= Relasjonalisme
+bf= Relasjonsteorier
+bf= Relasjonell kvantemekanikk
+nn= Relasjonelle teoriar
+nn= Relasjonell tid
+nn= Relasjonalisme
+nn= Relasjonsteoriar
+nn= Relasjonell kvantemekanikk
+en= Relational theories
+en= Relational time
+en= Relationism
+en= Relational quantum mechanics
+tio= 2017-11-03T10:59:20Z
+tie= 2017-11-03T11:18:00Z
+
+id= REAL031906
+te= Dimensjonsanalyse
+nn= Dimensjonsanalyse
+en= Dimensional analysis
+tio= 2017-11-03T15:01:12Z
+tie= 2017-11-03T15:01:47Z
+
