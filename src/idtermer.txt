@@ -15601,15 +15601,10 @@ st= REAL023639
 
 id= REAL001936
 te= Apolloprogrammet
-ba= na
-bf= Apollo
-nn= Apolloprogrammet
-nn= Apollo
-en= Apollo program
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-19T14:43:28Z
-st= REAL015887
-st= REAL026346
+tis= 2017-11-07T21:02:55Z
+fly= REAL013904
 
 id= REAL001937
 te= Sympatiske nervesystem
@@ -18925,8 +18920,10 @@ ba= nf
 ba= ngh
 ba= nq
 ba= ns
+bf= Polekspedisjoner
 nn= Polarekspedisjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-07T17:35:49Z
 st= REAL014307
 st= REAL014686
 st= REAL015715
@@ -28336,7 +28333,7 @@ nn= Tifotkreps
 en= Decapods
 la= Decapoda
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-04T00:00:00Z
+tie= 2017-11-07T14:21:22Z
 st= REAL014839
 st= REAL019686
 st= REAL019719
@@ -31479,25 +31476,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003843
 te= Språk
-ba= ni
-ba= nb
-ba= nc
-ba= ne
-ba= nm
-ba= ns
-nn= Språk
-en= Language
 tio= 2014-08-25T00:00:00Z
-st= REAL015047
-st= REAL015861
-st= REAL020686
-st= REAL021131
-st= REAL023688
-st= REAL023908
-st= REAL024583
-st= REAL027232
-st= REAL027636
-st= REAL029192
+tis= 2017-11-07T17:11:10Z
 
 id= REAL003844
 te= Centre National d'Études Spatiales
@@ -48102,15 +48082,6 @@ id= REAL005939
 te= Kapok
 ba= ne
 nn= Kapok
-tio= 2014-08-25T00:00:00Z
-
-id= REAL005940
-te= Litteraturstudier
-ba= ni
-ba= nk
-ba= nb
-ba= ne
-nn= Litteraturstudiar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005941
@@ -66861,11 +66832,14 @@ tio= 2014-08-25T00:00:00Z
 st= REAL021950
 
 id= REAL008226
-te= Huffmannkoding
+te= Huffmankoding
 ba= ni
-nn= Huffmannkoding
-en= Huffmann coding
+bf= Huffman-koding
+nn= Huffmankoding
+nn= Huffman-koding
+en= Huffman coding
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-07T18:45:05Z
 
 id= REAL008227
 te= Småkryp
@@ -84513,9 +84487,9 @@ fly= REAL012749
 
 id= REAL010393
 te= Macrura
-ba= nb
-nn= Macrura
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-07T14:21:05Z
+fly= REAL003473
 
 id= REAL010394
 te= Studiestipend
@@ -86562,11 +86536,16 @@ nn= Årstidsvariasjonar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010666
-te= Finker
+te= Finkefamilien
 ba= nb
+bf= Finker
+nn= Finkefamilien
 nn= Finkar
+en= True finches
 en= Finches
+la= Fringillidae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-07T11:14:40Z
 st= REAL021686
 st= REAL028252
 st= REAL031252
@@ -104329,12 +104308,6 @@ st= REAL021768
 st= REAL022126
 st= REAL027356
 
-id= REAL012714
-te= Basidier
-en= Basidia
-de= Sporebærende organ hos stilksporesopp (Basidiomycetes)
-tio= 2014-08-25T00:00:00Z
-
 id= REAL012715
 te= Stilksporesopper
 ba= nk
@@ -107031,9 +107004,10 @@ st= REAL023048
 st= REAL023539
 
 id= REAL012969
-te= Kjerneteknologier
-nn= Kjerneteknologiar
+te= Kjerneteknologi
+nn= Kjerneteknologi
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-07T20:37:05Z
 
 id= REAL012970
 te= Klyngeanalyse
@@ -108885,9 +108859,12 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-05-29T11:30:49Z
 
 id= REAL013162
-te= Tidlige universer
-nn= Tidlege univers
+te= Tidlige universet
+bf= Det tidlige universet
+nn= Tidlege universet
+nn= Det tidlege universet
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-07T19:44:27Z
 
 id= REAL013163
 te= Tilrettelegging
@@ -110061,10 +110038,12 @@ ba= nf
 ba= nm
 ba= nq
 ba= ns
+bf= Forurensing
 so= REAL013688
 nn= Forureining
 en= Pollution
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-07T19:22:27Z
 st= REAL014473
 st= REAL014581
 st= REAL014639
@@ -115392,6 +115371,7 @@ nn= Tatoveringar
 en= Tattoos
 tio= 2014-08-25T00:00:00Z
 st= REAL020781
+st= REAL031907
 
 id= REAL013586
 te= Teichmüller-teori
@@ -120155,18 +120135,18 @@ so= REAL013904
 nn= Ubemanna måneferder
 en= Unmanned lunar flights
 tio= 2014-08-25T00:00:00Z
-st= REAL016267
-st= REAL017457
-st= REAL025200
 
 id= REAL013904
 te= Måneferder
 ba= na
+bf= Apolloprogrammet
+bf= Apollo
 so= REAL013903
 nn= Måneferder
+nn= Apolloprogrammet
+nn= Apollo
+en= Apollo program
 tio= 2014-08-25T00:00:00Z
-st= REAL018203
-st= REAL028402
 
 id= REAL013905
 te= Minimalmodellprogram
@@ -124871,4 +124851,9 @@ nn= Dimensjonsanalyse
 en= Dimensional analysis
 tio= 2017-11-03T15:01:12Z
 tie= 2017-11-03T15:01:47Z
+
+id= REAL031908
+te= Groruditt
+tio= 2017-11-07T20:48:02Z
+tie= 2017-11-07T20:48:02Z
 

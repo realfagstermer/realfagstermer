@@ -4,6 +4,15 @@ ba= ni
 en= User guides
 tio= 2014-08-25T00:00:00Z
 
+id= REAL005940
+te= Litteraturstudier
+ba= ni
+ba= nk
+ba= nb
+ba= ne
+nn= Litteraturstudiar
+tio= 2014-08-25T00:00:00Z
+
 id= REAL013442
 te= Pseudovitenskap
 ba= fa
