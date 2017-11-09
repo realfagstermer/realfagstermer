@@ -29035,9 +29035,8 @@ st= REAL030010
 
 id= REAL003558
 te= Termogravimetri
-ba= nk
-nn= Termogravimetri
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-08T14:59:55Z
 
 id= REAL003559
 te= Tekstmeldinger
@@ -89408,6 +89407,7 @@ id= REAL011056
 te= Løvskognonne
 ba= nb
 nn= Lauvskognonne
+en= Gypsy moth
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011057
@@ -93612,6 +93612,7 @@ te= Horologi
 ba= na
 ba= ns
 nn= Horologi
+en= Horology
 tio= 2014-08-25T00:00:00Z
 st= REAL019084
 st= REAL020034
@@ -94551,9 +94552,12 @@ id= REAL011701
 te= Gravimetri
 ba= nc
 ba= ngh
+so= REAL031909
 nn= Gravimetri
 en= Gravimetry
+de= Gravimetri er måling av gravitasjon (tyngdekraft)
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-08T15:13:30Z
 st= REAL020769
 st= REAL021035
 
@@ -124856,4 +124860,13 @@ id= REAL031908
 te= Groruditt
 tio= 2017-11-07T20:48:02Z
 tie= 2017-11-07T20:48:02Z
+
+id= REAL031909
+te= Gravimetrisk analyse (Kjemi)
+so= REAL011701
+nn= Gravimetrisk analyse
+en= Gravimetric analysis
+de= Gravimetrisk analyse angir nøyaktig vekt til prøvemateriale
+tio= 2017-11-08T15:11:02Z
+tie= 2017-11-08T15:13:00Z
 
