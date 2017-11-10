@@ -75410,6 +75410,8 @@ ba= ni
 ak= EDSAC
 nn= EDSAC
 nn= Electronic delay storage automatic calculator
+en= Electronic delay storage automatic calculator
+en= EDSAC
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009283
