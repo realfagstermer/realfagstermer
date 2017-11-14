@@ -9036,10 +9036,13 @@ nn= Geologisk prospektering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001119
-te= Kinesisk medisin
+te= Tradisjonell kinesisk medisin
 ba= ne
+bf= Kinesisk medisin
+nn= Tradisjonell kinesisk medisin
 nn= Kinesisk medisin
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-13T17:34:42Z
 st= REAL026782
 
 id= REAL001120
@@ -16219,10 +16222,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002014
 te= Intervaller
-ba= nk
-ba= nm
-nn= Intervall
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-13T17:10:37Z
 
 id= REAL002015
 te= Arabisk vitenskap
@@ -27600,7 +27601,7 @@ nn= Fjernmåling
 en= Remote sensing
 en= Remote analysis
 tio= 2014-08-25T00:00:00Z
-tie= 2016-10-12T10:52:15Z
+tie= 2017-11-13T17:03:15Z
 st= REAL016504
 st= REAL016627
 st= REAL019451
@@ -29662,14 +29663,10 @@ fly= REAL000567
 
 id= REAL003633
 te= Hydromekanikk
-ba= nk
-ba= na
-ba= ne
-ba= nf
-ba= ngh
-ba= nm
-nn= Hydromekanikk
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-13T15:26:35Z
+tis= 2017-11-13T15:27:02Z
+fly= REAL013744
 
 id= REAL003634
 te= Inflasjonsteori
@@ -31243,9 +31240,12 @@ te= Kapillaritet
 ba= nf
 ba= ns
 bf= Kapillærteori
+bf= Kapillærkrefter
 nn= Kapillaritet
 nn= Kapillærteori
+nn= Kapillærkrefter
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-13T17:31:54Z
 
 id= REAL003821
 te= Mineraler
@@ -44023,11 +44023,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005438
 te= Reaktive mellomprodukter
-ba= nk
-nn= Reaktive mellomprodukt
-en= Reactive intermediates
-en= Reactive intermediate products
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-13T17:09:58Z
+fly= REAL005802
 
 id= REAL005439
 te= RSS
@@ -44562,12 +44560,13 @@ en= Scene analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005505
-te= Transmission control protocol
+te= TCP
 ba= ni
 ak= TCP
 nn= TCP
-nn= Transmission control protocol
+en= Transmission Control Protocol
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-13T18:27:18Z
 
 id= REAL005506
 te= Lukteorganer
@@ -44694,8 +44693,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005521
 te= Hydrologisk modellering
 ba= ngh
+bf= Hydrologiske modeller
 nn= Hydrologisk modellering
+nn= Hydrologiske modellar
 tio= 2014-08-25T00:00:00Z
+st= REAL021270
+st= REAL028184
 
 id= REAL005522
 te= Tungmetaller
@@ -46990,10 +46993,19 @@ tie= 2017-07-03T16:44:10Z
 tis= 2017-07-03T16:44:10Z
 
 id= REAL005802
-te= Intermediater
+te= Reaksjonsintermediater
 ba= nk
+bf= Intermediater
+bf= Mellomprodukter
+bf= Reaktive mellomprodukter
+nn= Reaksjonsintermediat
 nn= Intermediat
+nn= Mellomprodukt
+nn= Reaktive mellomprodukt
+en= Reactive intermediates
+en= Reactive intermediate products
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-13T17:08:48Z
 
 id= REAL005804
 te= Gåseblom
@@ -54229,11 +54241,14 @@ nn= Kvasistellare objekt
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006669
-te= Muskeltrekninger
+te= Muskelrykninger
 ba= nb
+bf= Muskeltrekninger
+nn= Muskelrykkingar
 nn= Muskeltrekkingar
 nn= Muskeltrekningar
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-13T18:16:30Z
 
 id= REAL006670
 te= Koagulering
@@ -60883,9 +60898,9 @@ st= REAL029087
 
 id= REAL007480
 te= Hydrologisk fjernanalyse
-ba= ngh
-nn= Hydrologisk fjernanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-13T17:03:02Z
+fly= REAL003382
 
 id= REAL007481
 te= Java
@@ -63362,11 +63377,14 @@ ba= nf
 ba= ngh
 ba= nq
 ba= ns
+bf= Hydroelektrisitet
 nn= Vasskraft
+nn= Hydroelektrisitet
 en= Hydropower
 en= Water power
 tio= 2014-08-25T00:00:00Z
 st= REAL017893
+st= REAL019407
 st= REAL029090
 
 id= REAL007798
@@ -65199,10 +65217,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008028
 te= Asimuter
-ba= nb
-ba= ngh
-nn= Asimutar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-13T15:29:44Z
 
 id= REAL008029
 te= Kopernikansk kosmologi
@@ -67925,11 +67941,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008372
 te= Hydrologiske modeller
-ba= ngh
-nn= Hydrologiske modellar
 tio= 2014-08-25T00:00:00Z
-st= REAL021270
-st= REAL028184
+tis= 2017-11-13T16:35:39Z
+fly= REAL005521
 
 id= REAL008373
 te= Rekursive sekvenser
@@ -76879,9 +76893,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009475
 te= Mellomprodukter
-ba= nk
-nn= Mellomprodukt
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-13T17:09:52Z
+fly= REAL005802
 
 id= REAL009476
 te= Intelligente agenter
@@ -80073,10 +80087,9 @@ tie= 2014-11-21T00:00:00Z
 
 id= REAL009870
 te= Hydroelektrisitet
-ba= na
-nn= Hydroelektrisitet
 tio= 2014-08-25T00:00:00Z
-st= REAL019407
+tis= 2017-11-13T17:04:31Z
+fly= REAL007797
 
 id= REAL009871
 te= Vitenskapelig databehandling
@@ -117341,7 +117354,7 @@ en= Fluid mechanics
 ms= 76
 dw= 532
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-17T13:15:16Z
+tie= 2017-11-13T15:26:49Z
 st= REAL014181
 st= REAL014946
 st= REAL015055
@@ -117366,11 +117379,13 @@ ba= nm
 bf= Væskedynamikk
 bf= Strømningsmekanikk
 bf= Strømningslære
+bf= Hydromekanikk
 so= REAL013743
 nn= Fluiddynamikk
 nn= Væskedynamikk
 nn= Strøymingsmekanikk
 nn= Strøymingslære
+nn= Hydromekanikk
 en= Fluid dynamics
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-17T13:15:24Z
