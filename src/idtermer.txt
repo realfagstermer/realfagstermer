@@ -29681,6 +29681,7 @@ fly= REAL000567
 
 id= REAL003633
 te= Hydromekanikk
+en= Hydromechanics
 tio= 2014-08-25T00:00:00Z
 tie= 2017-11-13T15:26:35Z
 tis= 2017-11-13T15:27:02Z
@@ -67975,6 +67976,7 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008372
 te= Hydrologiske modeller
+en= Hydrological models
 tio= 2014-08-25T00:00:00Z
 tis= 2017-11-13T16:35:39Z
 fly= REAL005521
@@ -71776,6 +71778,9 @@ en= Windows 3.1
 en= Windows nt
 en= Openwindows
 en= Windows-95
+en= Windows XP
+en= Windows Vista
+en= Windows NT
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
 st= REAL019032
