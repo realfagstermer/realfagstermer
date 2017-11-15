@@ -2465,6 +2465,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030661
 te= Midthordaland
+en= Midthordaland
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030662
