@@ -6594,11 +6594,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-09-26T12:50:14Z
 
 id= REAL000817
-te= Klassisk feltteori
+te= Klassiske feltteorier
 ba= nf
 ba= nm
+bf= Klassisk feltteori
+nn= Klassiske feltteoriar
 nn= Klassisk feltteori
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-17T20:34:05Z
 st= REAL015078
 
 id= REAL000819
@@ -7426,6 +7429,7 @@ bf= Clusterkjemi
 nn= Klyngekjemi
 nn= Clusterkjemi
 nn= Klyngjekjemi
+en= Cluster chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000927
@@ -29681,7 +29685,6 @@ fly= REAL000567
 
 id= REAL003633
 te= Hydromekanikk
-en= Hydromechanics
 tio= 2014-08-25T00:00:00Z
 tie= 2017-11-13T15:26:35Z
 tis= 2017-11-13T15:27:02Z
@@ -37517,6 +37520,7 @@ id= REAL004591
 te= Haskell
 ba= ni
 nn= Haskell
+en= Haskell
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -58963,6 +58967,7 @@ ba= nm
 bf= Kjemisk teknologi
 nn= Kjemiteknikk
 nn= Kjemisk teknologi
+en= Chemical engineering
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T11:26:23Z
 st= REAL014834
@@ -67976,7 +67981,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008372
 te= Hydrologiske modeller
-en= Hydrological models
 tio= 2014-08-25T00:00:00Z
 tis= 2017-11-13T16:35:39Z
 fly= REAL005521
@@ -71778,9 +71782,6 @@ en= Windows 3.1
 en= Windows nt
 en= Openwindows
 en= Windows-95
-en= Windows XP
-en= Windows Vista
-en= Windows NT
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
 st= REAL019032
@@ -83875,9 +83876,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010303
 te= Brøk
-ba= nm
-nn= Brøk
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-17T15:59:22Z
 
 id= REAL010304
 te= Romferder
@@ -86829,6 +86829,7 @@ id= REAL010696
 te= Klassekroppteori
 ba= nm
 nn= Klassekroppteori
+en= Class field theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010697
@@ -93583,6 +93584,7 @@ te= Kjøkkenkjemi
 ba= nk
 nn= Kjøkkenkjemi
 nn= Kjøkenkjemi
+en= Kitchen chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011590
@@ -99806,6 +99808,7 @@ ba= nk
 ba= nc
 ak= Co
 nn= Kobolt
+en= Cobalt
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012341
@@ -103198,6 +103201,7 @@ so= REAL012634
 so= REAL000382
 nn= Kjønnsroller
 nn= Kvinnespørsmål
+en= Gender roles
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-03T00:00:00Z
 st= REAL025787
