@@ -295,6 +295,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030255
 te= Romsdal
+en= Romsdal
 tio= 2015-02-20T13:08:04Z
 tie= 2017-08-11T14:32:31Z
 tis= 2017-08-11T14:32:31Z
@@ -515,6 +516,8 @@ id= REAL030297
 te= Sameland
 bf= Lappland
 bf= Sápmi
+en= Sápmi
+en= Lapland
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-27T23:05:12Z
 
@@ -1068,6 +1071,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030398
 te= Harvard
+en= Harvard
 tio= 2015-02-20T13:08:04Z
 tis= 2017-10-07T18:34:32Z
 
@@ -2141,6 +2145,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030599
 te= Langøya
+en= Langøya
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030600
@@ -2579,6 +2584,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030682
 te= Bjerkreimvassdraget
 bf= Bjerkreimselva
+en= Bjerkreimvassdraget
+en= Bjerkreimselva
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030683
@@ -2756,6 +2763,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030716
 te= Sør-Afrika (område)
+en= Southern Africa
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030717
@@ -3036,6 +3044,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030770
 te= Newcastle
+en= Newcastle
+en= Newcaste upon Tyne
+en= Newcastle, New South Wales
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-24T17:41:06Z
 tis= 2017-07-24T17:41:06Z
@@ -3367,6 +3378,7 @@ tie= 2017-10-07T18:40:36Z
 
 id= REAL030834
 te= Håkedal
+en= Håkedal
 tio= 2015-02-20T13:08:04Z
 tis= 2017-10-07T23:55:54Z
 
@@ -3822,6 +3834,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030922
 te= Brekken
+en= Brekken
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030923
@@ -3841,6 +3854,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030926
 te= Borussia
+en= Borussia
 tio= 2015-02-20T13:08:04Z
 tis= 2017-10-08T01:28:38Z
 fly= REAL030309
@@ -4293,6 +4307,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031008
 te= Jotundekket
 ba= nc
+en= Jotundekket
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031009
@@ -4398,6 +4413,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031023
 te= Osloriften
 ba= nc
+en= Oslo Graben
+en= Oslo Rift
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031024
@@ -4551,6 +4568,8 @@ tie= 2017-10-06T18:05:39Z
 
 id= REAL031047
 te= Gautefallheia
+en= Gautefallheia
+en= Gautefall
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031048
@@ -4696,6 +4715,8 @@ tie= 2015-01-23T00:00:00Z
 id= REAL031303
 te= Statfjordfeltet
 bf= Statfjord
+en= Statfjord oil field
+en= Statfjord
 tio= 2015-01-23T00:00:00Z
 tie= 2017-10-27T19:13:31Z
 

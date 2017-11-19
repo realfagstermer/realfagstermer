@@ -239,6 +239,8 @@ bf= Oppslagsverker
 bf= Konversasjonsleksika
 bf= Leksika
 bf= Leksikon
+en= Reference works
+en= Encyclopedias
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030101
@@ -247,6 +249,9 @@ bf= Definisjonsordbøker
 bf= Fremmedordbøker
 bf= Synonymordbøker
 bf= Fagordbøker
+en= Dictionaries
+en= Synonym dictionaries
+en= Wordbooks
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030102
@@ -267,6 +272,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030105
 te= Science fiction
+en= Science fiction
 tio= 2015-02-20T13:08:04Z
 st= REAL031080
 st= REAL031082
@@ -395,6 +401,9 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030126
 te= Kokebøker
 bf= Matoppskrifter
+en= Cookbooks
+en= Cookery book
+en= Recipes
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030127
@@ -512,6 +521,8 @@ id= REAL030148
 te= Sjøkart
 ba= na
 ba= ngh
+en= Nautical charts
+en= Navigation charts
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030149
@@ -578,6 +589,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030160
 te= Romaner
+en= Novels
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030161
@@ -591,6 +603,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030163
 te= Aviser
+en= Newspapers
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030164
@@ -715,6 +728,7 @@ tie= 2015-06-04T15:44:23Z
 id= REAL031453
 te= Kommentarutgaver
 bf= Kommentarer
+en= Commentaries
 tio= 2015-06-04T15:26:46Z
 tie= 2015-06-04T15:26:52Z
 
