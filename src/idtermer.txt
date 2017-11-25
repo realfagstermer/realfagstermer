@@ -4059,10 +4059,14 @@ nn= Myrområde
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000502
-te= Fjelløver
+te= Fjelløve
 ba= nb
-nn= Fjelløver
+bf= Puma
+nn= Fjelløve
+nn= Puma
+la= Puma concolor
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-24T12:53:32Z
 
 id= REAL000503
 te= Plasmamodifisering
@@ -45740,8 +45744,12 @@ st= REAL026534
 id= REAL005644
 te= Harer
 ba= nb
+bf= Harefamilien
 nn= Harar
+nn= Harefamilien
+la= Leporidae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-24T13:21:25Z
 
 id= REAL005645
 te= Lus
@@ -69740,8 +69748,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008554
 te= Finnhvaler
 ba= nb
+bf= Finnhvalfamilien
 nn= Finnkvalar
+la= Balaenopteridae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-24T12:47:57Z
 
 id= REAL008555
 te= Reservoarevaluering
