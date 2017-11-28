@@ -2209,8 +2209,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000272
 te= Fluefiske
 ba= nb
+bf= Fiskefluer
+bf= Fluebinding
+bf= Laksefluer
 nn= Flugefiske
+nn= Fiskefluger
+nn= Flugebinding
+nn= Laksefluger
 en= Fly fishing
+en= Artificial flies
+en= Fly tying
 tio= 2014-08-25T00:00:00Z
 st= REAL027845
 
@@ -4326,9 +4334,9 @@ fly= REAL008167
 
 id= REAL000536
 te= Ionebalanse
-ba= nb
-nn= Ionebalanse
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:34:03Z
+fly= REAL010614
 
 id= REAL000537
 te= Karriereveiledning
@@ -9310,10 +9318,17 @@ tio= 2014-08-25T00:00:00Z
 tis= 2017-09-18T11:57:45Z
 
 id= REAL001148
-te= Forskningsfond
+te= Forskningsfinansiering
 ba= na
-nn= Forskingsfond
+bf= Finansiering
+nn= Forskningsfinanisering
+nn= Finansiering
+en= Research funding
+en= Financing
+en= Research financing
+en= Science funding
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-27T15:48:19Z
 
 id= REAL001149
 te= Grønn mamba
@@ -16852,9 +16867,9 @@ st= REAL026138
 
 id= REAL002086
 te= Stomata
-ba= nb
-nn= Stomata
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:35:33Z
+fly= REAL007329
 
 id= REAL002087
 te= Proteinrensing
@@ -17319,9 +17334,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002134
 te= T-celler
-ba= nb
-nn= T-celler
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:36:12Z
+fly= REAL007375
 
 id= REAL002135
 te= Elektrokommunikasjon
@@ -24440,11 +24455,12 @@ en= Handwriting analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002981
-te= Fjellgorillaer
+te= Fjellgorilla
 ba= nb
-nn= Fjellgorillaer
-nn= Fjellgorillaar
+nn= Fjellgorilla
+la= Gorilla beringei beringei
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-27T14:57:00Z
 
 id= REAL002982
 te= Aromastoffer
@@ -25335,7 +25351,9 @@ st= REAL027152
 id= REAL003084
 te= Meiofauna
 ba= nb
+bf= Meiobentos
 nn= Meiofauna
+nn= Meiobentos
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003085
@@ -29034,9 +29052,11 @@ ba= ngh
 ba= nq
 ba= ns
 bf= Fanerogamer
+bf= Spermatofytter
 nn= Frøplanter
 nn= Fanerogamar
 nn= Frøplantar
+nn= Spermatofyttar
 tio= 2014-08-25T00:00:00Z
 st= REAL017016
 st= REAL021764
@@ -29937,10 +29957,12 @@ ba= nb
 ba= ns
 bf= Sauehold
 bf= Får
+bf= Lam
 nn= Sauer
 nn= Sauar
 nn= Sauehald
 nn= Får
+nn= Lam
 la= Ovis sp.
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-31T11:20:41Z
@@ -30702,11 +30724,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003750
 te= Finansiering
-ba= nm
-ba= ns
-nn= Finansiering
-en= Financing
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:47:22Z
+fly= REAL001148
 
 id= REAL003751
 te= Høyere utdanning
@@ -33929,10 +33949,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004137
 te= Fiskefluer
-ba= nb
-nn= Fiskefluger
-en= Artificial flies
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:43:19Z
+fly= REAL000272
 
 id= REAL004138
 te= Bergverk
@@ -40787,11 +40806,9 @@ st= REAL027778
 
 id= REAL005004
 te= Peptidaser
-ba= nb
-nn= Peptidasar
 tio= 2014-08-25T00:00:00Z
-st= REAL024462
-st= REAL026425
+tis= 2017-11-27T15:32:47Z
+fly= REAL013393
 
 id= REAL005005
 te= Fotokjemi
@@ -42640,9 +42657,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005239
 te= Lam
-ba= nb
-nn= Lam
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T13:08:50Z
+fly= REAL003652
 
 id= REAL005240
 te= Glommaprosjektet
@@ -50755,9 +50772,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006251
 te= Spermatofytter
-ba= nk
-nn= Spermatofyttar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:34:54Z
+fly= REAL003543
 
 id= REAL006252
 te= Trafikkoptimalisering
@@ -52709,9 +52726,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006468
 te= Øklogisk forskning
-ba= nb
-nn= Økologisk forsking
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T14:46:05Z
 
 id= REAL006469
 te= Geografi
@@ -53096,9 +53112,9 @@ st= REAL029675
 
 id= REAL006498
 te= Meiobentos
-ba= nb
-nn= Meiobentos
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:40:40Z
+fly= REAL003084
 
 id= REAL006499
 te= Fertilitet
@@ -59820,7 +59836,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007329
 te= Spalteåpninger
 ba= nb
+bf= Stomata
 nn= Spalteopningar
+nn= Stomata
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007330
@@ -60176,7 +60194,9 @@ id= REAL007375
 te= T-lymfocytter
 ba= nb
 ba= ne
+bf= T-celler
 nn= T-lymfocyttar
+nn= T-celler
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007376
@@ -74604,10 +74624,9 @@ fly= REAL005769
 
 id= REAL009147
 te= Fluebinding
-ba= nb
-nn= Flugebinding
-en= Fly tying
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:43:32Z
+fly= REAL000272
 
 id= REAL009149
 te= Isbreavsetninger
@@ -86407,7 +86426,9 @@ st= REAL027034
 id= REAL010614
 te= Ioneregulering
 ba= nb
+bf= Ionebalanse
 nn= Ioneregulering
+nn= Ionebalanse
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010615
@@ -90481,9 +90502,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011160
 te= Laksefluer
-ba= nb
-nn= Laksefluger
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-27T15:43:45Z
+fly= REAL000272
 
 id= REAL011161
 te= Fabrikker
@@ -111941,9 +111962,11 @@ ba= nb
 ba= ne
 bf= Proteinaser
 bf= Proteolytiske enzymer
+bf= Peptidaser
 nn= Proteasar
 nn= Proteinasar
 nn= Proteolytiske enzym
+nn= Peptidasar
 en= Proteases
 en= Proteinase
 en= Peptidases
@@ -125240,4 +125263,13 @@ ot= REAL001038
 de= ikke-abelsk gaugeteori som bl.a. danner grunnlag for kvantekromodynamikk og standardmodellen
 tio= 2017-11-14T12:54:55Z
 tie= 2017-11-14T13:15:47Z
+
+id= REAL031911
+te= Stortare
+nn= Stortare
+en= Tangle
+en= Cuvie
+la= Laminaria hyperborea
+tio= 2017-11-27T15:20:39Z
+tie= 2017-11-27T15:23:30Z
 
