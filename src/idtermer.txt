@@ -11495,14 +11495,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001414
 te= COsmic Background Explorer
-ba= na
-ak= COBE
-nn= Cosmic Background Explorer
-nn= COBE
-en= COBE
-en= Cosmic Background Explorer
 tio= 2014-08-25T00:00:00Z
-st= REAL015932
+tis= 2017-11-30T14:22:21Z
 
 id= REAL001415
 te= Naturformer
@@ -12157,9 +12151,9 @@ st= REAL029664
 
 id= REAL001485
 te= Glia
-ba= nb
-nn= Glia
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-30T14:26:11Z
+fly= REAL010290
 
 id= REAL001486
 te= Samfunnsfag
@@ -24173,10 +24167,13 @@ en= Ear recognition
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002948
-te= Brunsten
+te= Brunstein
 ba= nc
+bf= Brunsten
 nn= Brunstein
+de= Mangan(IV)oksid,  manganholdig mineral
 tio= 2014-08-25T00:00:00Z
+tie= 2017-11-30T15:34:23Z
 
 id= REAL002949
 te= Flagellater
@@ -43241,10 +43238,8 @@ st= REAL031471
 
 id= REAL005313
 te= Cocoon
-ba= ni
-nn= Cocoon
-en= Cocoon
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-30T14:22:13Z
 
 id= REAL005315
 te= Laboratorieplasma
@@ -50391,9 +50386,8 @@ st= REAL024717
 
 id= REAL006202
 te= Analysedata
-ba= nk
-nn= Analysedata
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-30T14:23:53Z
 
 id= REAL006203
 te= Kategorier
@@ -78450,10 +78444,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009634
 te= Dyregrupper
-ba= nb
-nn= Dyregrupper
-en= Animal groups
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-30T15:31:59Z
 
 id= REAL009635
 te= Soppdyrking
@@ -83997,9 +83989,11 @@ ba= nb
 ba= ne
 bf= Nevroner
 bf= Neuroner
+bf= Glia
 nn= Nerveceller
 nn= Nevron
 nn= Neuron
+nn= Glia
 tio= 2014-08-25T00:00:00Z
 st= REAL014206
 st= REAL023092
@@ -108565,12 +108559,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013091
 te= Galton-watson
-ba= nm
-nn= Galton-watson
-en= Galton-watson
-ms= 60.67
-dw= 519.233
 tio= 2014-08-25T00:00:00Z
+tis= 2017-11-30T14:23:21Z
 
 id= REAL013092
 te= Fødsel-og-død-prosesser
@@ -123721,11 +123711,21 @@ tio= 2015-09-21T09:00:13Z
 tie= 2015-09-21T09:01:37Z
 
 id= REAL031493
-te= Boreorganismer
-nn= Boreorganismar
-en= Borers
+te= Boremuslinger
+bf= Pelemark
+bf= Pæleormer
+bf= Boreskjell
+bf= Pælemark
+nn= Boremuslingar
+nn= Pelemark
+nn= Peleormar
+nn= Boreskjell
+en= Angelwings
+en= Shipworms
+en= Piddocks
+de= Muslingfamilie med omdannede skall. Borer ganger i tre, kalkstein eller leire.
 tio= 2015-09-21T09:02:27Z
-tie= 2015-09-21T09:02:47Z
+tie= 2017-11-30T15:31:18Z
 
 id= REAL031494
 te= Snøkrystaller
