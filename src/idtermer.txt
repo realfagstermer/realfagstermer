@@ -499,6 +499,7 @@ ba= ngh
 ba= nq
 ba= ns
 nn= Økosystem
+en= Ecosystems
 tio= 2014-08-25T00:00:00Z
 st= REAL014294
 st= REAL014744
@@ -1362,6 +1363,8 @@ te= Øyenstikkere
 ba= nb
 nn= Augestikkarar
 nn= Augnestikkarar
+en= Dragonflies
+en= Damselflies
 tio= 2014-08-25T00:00:00Z
 st= REAL025031
 st= REAL028504
@@ -1643,6 +1646,7 @@ id= REAL000199
 te= Økonomisk zoologi
 ba= nb
 nn= Økonomisk zoologi
+en= Economic zoology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000200
@@ -5545,6 +5549,7 @@ id= REAL000686
 te= Økosofi
 ba= nb
 nn= Økosofi
+en= Ecosophy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000687
@@ -17417,6 +17422,7 @@ id= REAL002144
 te= Økologisk effekt
 ba= ngh
 nn= Økologisk effekt
+en= Ecological effect
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002145
@@ -18083,6 +18089,7 @@ te= Økologiske retningslinjer
 ba= nb
 nn= Økologiske retningsliner
 nn= Økologiske retningslinjer
+en= Ecological guidelines
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002223
@@ -20463,6 +20470,7 @@ id= REAL002510
 te= Økologisk kartlegging
 ba= nb
 nn= Økologisk kartlegging
+en= Ecological mapping
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002511
@@ -22699,6 +22707,7 @@ id= REAL002773
 te= Økologisk heterogenitet
 ba= nb
 nn= Økologisk heterogenitet
+en= Ecological heterogeneity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002774
@@ -24455,6 +24464,7 @@ id= REAL002981
 te= Fjellgorilla
 ba= nb
 nn= Fjellgorilla
+en= Mountain gorilla
 la= Gorilla beringei beringei
 tio= 2014-08-25T00:00:00Z
 tie= 2017-11-27T14:57:00Z
@@ -31046,6 +31056,8 @@ id= REAL003781
 te= Økologiske faktorer
 ba= nb
 nn= Økologiske faktorar
+en= Ecological factors
+en= Environmental factors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003782
@@ -31424,6 +31436,7 @@ id= REAL003822
 te= Økologisk planlegging
 ba= nb
 nn= Økologisk planlegging
+en= Ecological planning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003823
@@ -32148,6 +32161,7 @@ id= REAL003908
 te= Ørkendyr
 ba= nb
 nn= Ørkendyr
+en= Desert animals
 tio= 2014-08-25T00:00:00Z
 st= REAL014534
 
@@ -32698,11 +32712,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003983
 te= Kråker
-ba= nb
-nn= Kråker
 tio= 2014-08-25T00:00:00Z
-st= REAL019748
-st= REAL022574
+tis= 2017-12-01T14:44:34Z
+fly= REAL009699
 
 id= REAL003984
 te= Bindevev
@@ -34964,6 +34976,7 @@ ba= ns
 bf= Petrogenese
 nn= Bergartsdanning
 nn= Petrogenese
+en= Petrogenesis
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-02T18:42:28Z
 st= REAL028084
@@ -36812,6 +36825,8 @@ nn= Øyre
 nn= Øyren
 nn= Øyret
 nn= Øyro
+en= Ear
+en= Ears
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-23T15:00:50Z
 
@@ -40322,6 +40337,7 @@ id= REAL004939
 te= Øgler
 ba= nb
 nn= Øgler
+en= Lizards
 tio= 2014-08-25T00:00:00Z
 st= REAL015182
 st= REAL016638
@@ -42447,6 +42463,7 @@ id= REAL005210
 te= Åtseletere
 ba= nk
 nn= Åtseletarar
+en= Scavengers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005211
@@ -47327,6 +47344,7 @@ te= Økologisk hagebruk
 ba= nb
 ba= nq
 nn= Økologisk hagebruk
+en= Ecological gardening
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005827
@@ -47903,6 +47921,8 @@ id= REAL005899
 te= Økologisk hydrologi
 ba= nb
 nn= Økologisk hydrologi
+en= Ecohydrology
+en= Ecological hydrology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005900
@@ -51276,6 +51296,7 @@ te= Ørkenspredning
 ba= nb
 ba= ngh
 nn= Ørkenspreiing
+en= Desertification
 tio= 2014-08-25T00:00:00Z
 st= REAL024258
 
@@ -76502,6 +76523,8 @@ id= REAL009388
 te= Økologisk modellering
 ba= nb
 nn= Økologisk modellering
+en= Ecological modeling
+en= Ecosystem models
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009389
@@ -77459,6 +77482,7 @@ ba= nb
 ba= ngh
 ba= nq
 nn= Økonomisk botanikk
+en= Economic botany
 tio= 2014-08-25T00:00:00Z
 st= REAL025719
 
@@ -78971,9 +78995,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009699
 te= Kråkefugler
 ba= nb
+bf= Kråker
+bf= Kråkefamilien
 nn= Kråkefuglar
+nn= Kråker
+nn= Kråkefamilien
+la= Corvidae
 tio= 2014-08-25T00:00:00Z
+tie= 2017-12-01T14:46:50Z
 st= REAL017214
+st= REAL022574
 
 id= REAL009701
 te= Vindgenererte bølger
@@ -90070,6 +90101,7 @@ id= REAL011096
 te= Økologisk kvalitet
 ba= nb
 nn= Økologisk kvalitet
+en= Ecological quality
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011097
@@ -90610,6 +90642,7 @@ te= Østers
 ba= nk
 ba= nb
 nn= Østers
+en= Oysters
 tio= 2014-08-25T00:00:00Z
 st= REAL020616
 
@@ -96928,6 +96961,7 @@ id= REAL011946
 te= Økologisk kontinuitet
 ba= nb
 nn= Økologisk kontinuitet
+en= Ecological continuity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011947
@@ -98051,6 +98085,8 @@ id= REAL012110
 te= Økologisk balanse
 ba= nb
 nn= Økologisk balanse
+en= Ecological balance
+en= Balance of nature
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012111
