@@ -18198,9 +18198,15 @@ st= REAL014482
 id= REAL002237
 te= Storkefugler
 ba= nb
+bf= Storker
 nn= Storkefuglar
+nn= Storkar
+la= Ciconiiformes
 tio= 2014-08-25T00:00:00Z
+tie= 2017-12-05T10:44:29Z
 st= REAL019745
+st= REAL014813
+st= REAL019105
 
 id= REAL002238
 te= Albumin
@@ -19410,9 +19416,9 @@ st= REAL017063
 
 id= REAL002382
 te= Primitive apterygota
-ba= nb
-nn= Primitive apterygota
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-05T10:33:35Z
+fly= REAL008244
 
 id= REAL002383
 te= Organosvovel
@@ -60012,11 +60018,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007350
 te= Primitive insekter
-ba= nb
-nn= Primitive insekt
 tio= 2014-08-25T00:00:00Z
-st= REAL014941
-st= REAL022996
+tis= 2017-12-05T10:39:22Z
+fly= REAL008244
 
 id= REAL007351
 te= Leseteknikk
@@ -67228,7 +67232,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008244
 te= Urinsekter
 ba= nb
+bf= Primitive apterygota
+bf= Primitive insekter
 nn= Urinsekt
+nn= Primitive apterygota
+nn= Primitive insekt
 tio= 2014-08-25T00:00:00Z
 st= REAL014829
 st= REAL016814
@@ -82748,12 +82756,9 @@ fly= REAL000775
 
 id= REAL010148
 te= Storker
-ba= nk
-ba= nb
-nn= Storkar
 tio= 2014-08-25T00:00:00Z
-st= REAL014813
-st= REAL019105
+tis= 2017-12-05T10:43:59Z
+fly= REAL002237
 
 id= REAL010149
 te= Hudkreft
@@ -91919,10 +91924,12 @@ st= REAL027532
 st= REAL029316
 
 id= REAL011343
-te= Orrfugler
+te= Orrfugl
 ba= nb
-nn= Orrfuglar
+nn= Orrfugl
+la= Lyrurus tetrix
 tio= 2014-08-25T00:00:00Z
+tie= 2017-12-05T10:23:06Z
 
 id= REAL011344
 te= Divinylbenzene
@@ -93387,9 +93394,8 @@ tie= 2017-09-09T16:57:20Z
 
 id= REAL011529
 te= Primitive amfibier
-ba= nb
-nn= Primitive amfibium
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-05T10:26:44Z
 
 id= REAL011530
 te= Hudpleie
