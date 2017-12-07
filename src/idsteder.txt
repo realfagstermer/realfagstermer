@@ -2596,8 +2596,10 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030684
 te= Mosambik
 bf= Moçambique
+bf= Mozambik
 en= Mozambique
 en= Republic of Mozambique
+en= Mozamibique
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030685
@@ -4087,9 +4089,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030974
 te= Mozambik
-en= Mozamibique
-en= Republic of Mozambique
 tio= 2015-02-20T13:08:04Z
+tis= 2017-12-06T14:34:12Z
+fly= REAL030684
 
 id= REAL030975
 te= Helgoland

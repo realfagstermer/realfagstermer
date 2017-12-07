@@ -18204,9 +18204,9 @@ nn= Storkar
 la= Ciconiiformes
 tio= 2014-08-25T00:00:00Z
 tie= 2017-12-05T10:44:29Z
-st= REAL019745
 st= REAL014813
 st= REAL019105
+st= REAL019745
 
 id= REAL002238
 te= Albumin
