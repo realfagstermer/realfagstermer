@@ -2468,9 +2468,14 @@ en= Bering Sea
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030661
-te= Midthordaland
-en= Midthordaland
+te= Midthordland
+bf= Midhordland
+bf= Midthordaland
+nn= Midthordland
+nn= Midhordland
+nn= Midthordaland
 tio= 2015-02-20T13:08:04Z
+tie= 2017-12-07T10:45:17Z
 
 id= REAL030662
 te= Benelux
