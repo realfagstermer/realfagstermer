@@ -22104,9 +22104,8 @@ st= REAL029781
 
 id= REAL002700
 te= Nattergaler
-ba= nb
-nn= Nattergalar
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-11T11:18:45Z
 
 id= REAL002702
 te= Boraner
@@ -90301,11 +90300,8 @@ tie= 2016-09-26T10:08:35Z
 
 id= REAL011123
 te= Nattergal
-ba= nb
-bf= Bulbuls
-nn= Nattergal
-nn= Bulbuls
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-11T11:19:12Z
 
 id= REAL011124
 te= Rotter
