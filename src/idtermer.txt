@@ -3985,10 +3985,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000492
 te= Biologiske data
-ba= ni
-nn= Biologiske data
-en= Biological data
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-14T11:21:49Z
 
 id= REAL000493
 te= Byggeteknikk
@@ -12767,10 +12765,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001566
 te= Biologiske databaser
-ba= ni
-nn= Biologiske databasar
-en= Biological databases
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-14T11:23:33Z
 
 id= REAL001567
 te= Integraloperatorer
@@ -95186,10 +95182,8 @@ st= REAL029453
 
 id= REAL011739
 te= Medisinske data
-ba= ni
-nn= Medisinske data
-en= Medical data
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-14T11:22:18Z
 
 id= REAL011740
 te= Gravitasjonsbølger
