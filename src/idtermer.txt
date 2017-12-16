@@ -13385,9 +13385,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001648
 te= Eta
-ba= na
-nn= Eta
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-15T15:36:22Z
 
 id= REAL001649
 te= Aritmetikk
@@ -19198,7 +19197,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002356
 te= Amatørastronomi
 ba= na
+bf= Praktisk astronomi
 nn= Amatørastronomi
+nn= Praktisk astronomi
 en= Amateur astronomy
 tio= 2014-08-25T00:00:00Z
 st= REAL015591
@@ -21226,9 +21227,8 @@ st= REAL027905
 
 id= REAL002589
 te= Historisk astrogeologi
-ba= na
-nn= Historisk astrogeologi
 tio= 2014-08-25T00:00:00Z
+tis= 2017-12-15T16:28:09Z
 
 id= REAL002590
 te= Tilapia
@@ -37397,10 +37397,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004562
 te= Praktisk astronomi
-ba= na
-nn= Praktisk astronomi
 tio= 2014-08-25T00:00:00Z
-st= REAL029563
+tis= 2017-12-15T16:35:17Z
+fly= REAL002356
 
 id= REAL004563
 te= Insulinsensitivitet

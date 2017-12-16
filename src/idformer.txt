@@ -157,7 +157,10 @@ fly= REAL030093
 
 id= REAL030086
 te= Himmelatlas
+bf= Historiske stjernekart
+bf= Stjernekart
 tio= 2015-02-20T13:08:04Z
+tie= 2017-12-15T16:03:45Z
 
 id= REAL030087
 te= Historie
@@ -478,6 +481,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030139
 te= Historiske stjernekart
 tio= 2015-02-20T13:08:04Z
+tis= 2017-12-15T16:03:39Z
+fly= REAL030086
 
 id= REAL030140
 te= Hydrografiske kart
