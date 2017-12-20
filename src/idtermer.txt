@@ -67274,6 +67274,7 @@ te= Boktrykkere
 ba= ns
 nn= Boktrykkjarar
 nn= Boktrykkarar
+en= Printers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008251
@@ -86329,6 +86330,7 @@ te= Arkivkunnskap
 ba= nq
 ba= ns
 nn= Arkivkunnskap
+en= Archival science
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010595
