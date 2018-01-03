@@ -5991,10 +5991,8 @@ st= REAL027281
 
 id= REAL000742
 te= Akrylonitril
-ba= nk
-nn= Akrylonitril
-en= Acrylonitrile
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-02T11:04:35Z
 
 id= REAL000743
 te= Logisk optimalisering
@@ -13722,10 +13720,8 @@ tis= 2017-09-28T17:52:39Z
 
 id= REAL001690
 te= Epa
-ba= nb
-ba= ne
-nn= Epa
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-02T21:11:31Z
 
 id= REAL001691
 te= Entomologer
@@ -18661,9 +18657,9 @@ tie= 2015-02-05T00:00:00Z
 
 id= REAL002300
 te= Dcb
-ba= nb
-nn= Dcb
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-02T21:06:22Z
+fly= REAL004103
 
 id= REAL002301
 te= Argumentasjonsanalyse
@@ -24734,12 +24730,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003014
 te= Deep Space Network
-ba= na
-ak= DSN
-nn= Deep Space Network
-nn= DSN
-en= Deep Space Network
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-02T21:07:02Z
 
 id= REAL003016
 te= Navnsetting
@@ -33674,7 +33666,9 @@ tie= 2016-12-06T12:03:05Z
 id= REAL004103
 te= Diklorbenzen
 ba= nb
+bf= Dcb
 nn= Diklorbenzen
+nn= Dcb
 en= Dichlorobenzene
 tio= 2014-08-25T00:00:00Z
 
@@ -36229,7 +36223,6 @@ st= REAL015235
 st= REAL015333
 st= REAL015334
 st= REAL015349
-st= REAL016158
 st= REAL017208
 st= REAL017516
 st= REAL017748
@@ -47278,12 +47271,8 @@ fly= REAL006690
 
 id= REAL005816
 te= Livets tre
-ba= nb
-nn= Livsens tre
-nn= Livstreet
-en= Tree of Life
-en= Etz Hayim
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-02T20:59:42Z
 
 id= REAL005817
 te= Hallusinogene sopper
@@ -55950,11 +55939,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006853
 te= Congener
-ba= nk
-nn= Congen
-en= Congener
-en= Congenes
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-02T21:05:16Z
 
 id= REAL006854
 te= Hyllebær
@@ -80196,7 +80182,6 @@ st= REAL026959
 st= REAL027198
 st= REAL027389
 st= REAL027663
-st= REAL028345
 st= REAL028637
 st= REAL029030
 st= REAL029077
@@ -90458,9 +90443,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011149
 te= Tidevannsprosesser
+bf= Tidevannsprosesse
+de= K
 tio= 2014-08-25T00:00:00Z
-tie= 2016-07-08T17:34:03Z
-tis= 2016-07-08T17:34:03Z
+tie= 2018-01-02T13:08:04Z
 
 id= REAL011150
 te= Terpenoider
@@ -122541,6 +122527,12 @@ bf= Arktisk-alpin region
 en= Arctic–alpine regions
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-02T13:28:24Z
+
+id= REAL031043
+te= Boreal sone
+ba= nk
+tio= 2015-02-20T13:08:04Z
+tie= 2018-01-01T18:10:41Z
 
 id= REAL031088
 te= Riemannhypotesen

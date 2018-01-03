@@ -2143,8 +2143,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030599
 te= Langøya
-en= Langøya
 tio= 2015-02-20T13:08:04Z
+tis= 2018-01-02T20:56:13Z
 
 id= REAL030600
 te= Kvitsjøen
@@ -2503,14 +2503,18 @@ en= Lake Baikal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030667
-te= Bajkal
+te= Bajkalbassenget
+bf= Bajkalbekkenet
+bf= Bajkal
+en= Baikal basin
 en= Baikal
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-02T17:30:42Z
 
 id= REAL030668
 te= Auma
-en= Auma
 tio= 2015-02-20T13:08:04Z
+tis= 2018-01-02T17:33:37Z
 
 id= REAL030669
 te= Armenia
@@ -3951,8 +3955,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030946
 te= Bandung
-en= Bandung
 tio= 2015-02-20T13:08:04Z
+tis= 2018-01-02T17:36:31Z
 
 id= REAL030947
 te= Balestrand
@@ -4539,12 +4543,6 @@ te= Middelhavsområdet
 bf= Middelhavslandene
 tio= 2015-02-20T13:08:04Z
 tie= 2016-03-10T11:02:44Z
-
-id= REAL031043
-te= Boreal sone
-ba= nk
-tio= 2015-02-20T13:08:04Z
-tie= 2017-10-06T18:10:41Z
 
 id= REAL031044
 te= Agder
