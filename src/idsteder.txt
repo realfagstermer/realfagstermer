@@ -1,3 +1,8 @@
+id= REAL013553
+te= Vassfaret
+nn= Vassfaret
+tio= 2014-08-25T00:00:00Z
+
 id= REAL030200
 te= Europa
 en= Europe
@@ -225,8 +230,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030242
 te= Harestua
-en= Harestua
 tio= 2015-02-20T13:08:04Z
+tis= 2018-01-12T19:46:02Z
 
 id= REAL030243
 te= Etiopia
@@ -1341,6 +1346,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030448
 te= Langtjern
 tio= 2015-02-20T13:08:04Z
+tis= 2018-01-12T15:01:09Z
 
 id= REAL030449
 te= Kypros
@@ -1447,9 +1453,12 @@ en= Børgefjell
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030469
-te= Bøhmen
+te= Böhmen
+bf= Bøhmen
+nn= Böhmen
 en= Bohemia
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-12T16:02:33Z
 
 id= REAL030470
 te= Bunnefjorden
@@ -1720,10 +1729,13 @@ en= Hamar
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030522
-te= Galapagos
+te= Galápagosøyene
+bf= Galapagos
+nn= Galápagosøyane
 en= Galápagos
 en= Galápagos Islands
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-12T15:51:44Z
 
 id= REAL030523
 te= Taiwan
@@ -2047,10 +2059,13 @@ en= Orlando
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030581
-te= Papua New Guinea
+te= Papua Ny-Guinea
+bf= Papua New Guinea
+nn= Papua Ny-Guinea
 en= Papua New Guinea
 en= Independent State of Papua New Guinea
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-12T15:01:38Z
 
 id= REAL030582
 te= Norskekysten
@@ -2410,7 +2425,9 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030649
 te= Børsjøen
 en= Børsjøen
+de= innsjø i Tynset kommune
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-12T16:00:00Z
 
 id= REAL030650
 te= Bykle
@@ -2720,9 +2737,11 @@ en= Vesterålen
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030706
-te= Vegårdsvassdraget
-en= Vegårdsvassdraget
+te= Vegårvassdraget
+nn= Vegårvassdraget
+en= Vegårvassdraget
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-12T14:59:49Z
 
 id= REAL030707
 te= Vegårshei
@@ -3511,8 +3530,11 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030859
 te= Gironde
+nn= Gironde
 en= Gironde
+de= departement sørvest i Frankrike
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-12T15:57:00Z
 
 id= REAL030860
 te= Gera
@@ -3579,7 +3601,9 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030872
 te= Fogo
 en= Fogo
+de= vulkansk øy i den kappverdiske øygruppen Sotavento
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-12T15:58:22Z
 
 id= REAL030873
 te= Flåmsdalen
@@ -3935,8 +3959,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030942
 te= Baroniet Rosendal
-en= Barony Rosendal
 tio= 2015-02-20T13:08:04Z
+tis= 2018-01-12T19:46:20Z
 
 id= REAL030943
 te= Barentshavet
@@ -4858,4 +4882,14 @@ nn= Ånderdalen nasjonalpark
 en= Ånderdalen National Park
 tio= 2017-10-27T19:21:01Z
 tie= 2017-10-27T19:21:14Z
+
+id= REAL031942
+te= Californiabukta
+bf= Californiabukten
+bf= Golfo de California
+nn= Californiabukta
+en= Gulf of California
+en= Sea of Cortez
+tio= 2018-01-12T17:38:00Z
+tie= 2018-01-12T17:38:25Z
 

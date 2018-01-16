@@ -178,11 +178,12 @@ en= Fluorine compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000027
-te= Document style semantics and spesification language
+te= Document Style Semantics and Specification Language
 ba= ni
 ak= DSSSL
 nn= Document style semantics and spesification language
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T17:34:48Z
 
 id= REAL000028
 te= Industri
@@ -395,13 +396,8 @@ st= REAL026956
 
 id= REAL000051
 te= Enzyme-linked immunosorbent analyse
-ba= ne
-ak= ELISA
-nn= Enzyme-linked immunosorbent assay
-nn= ELISA
-en= Enzyme-linked immunosorbent assay
-en= ELISA
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:11:57Z
 
 id= REAL000052
 te= Spetter
@@ -1357,6 +1353,7 @@ st= REAL024285
 st= REAL025805
 st= REAL029439
 st= REAL031311
+st= REAL031924
 
 id= REAL000167
 te= Øyenstikkere
@@ -1816,10 +1813,8 @@ tie= 2017-01-05T20:54:32Z
 
 id= REAL000225
 te= European Astronomical Meeting
-ba= na
-ak= EAM
-nn= European Astronomical Meeting
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:09:48Z
 
 id= REAL000226
 te= Reformer
@@ -2131,12 +2126,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000260
 te= European Southern Observatory
-ba= na
-ak= ESO
-nn= European Southern Observatory
-en= European Southern Observatory
-en= ESO
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:14:00Z
 
 id= REAL000261
 te= Mikrogravitasjon
@@ -3842,11 +3833,17 @@ tio= 2014-08-25T00:00:00Z
 st= REAL020866
 
 id= REAL000475
-te= Lacertae
+te= Firfislen
 ba= na
+bf= Lacertae
 ak= LAC
+nn= Øgla
 nn= Lacertae
+nn= Firfisla
+en= Lacerta
+de= stjernebilde
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T17:24:16Z
 
 id= REAL000476
 te= Formasjoner
@@ -5818,11 +5815,15 @@ tio= 2014-08-25T00:00:00Z
 st= REAL020307
 
 id= REAL000722
-te= Stable marriage problem
+te= Ekteskapsproblemet
 ba= ni
+bf= Stabilt ekteskapsproblem
+bf= Det stabile ekteskapsproblemet
+nn= Ekteskapsproblemet
 nn= Stabilt ekteskap-problem
-nn= Stable marriage problem
+en= Stable marriage problem
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T15:33:05Z
 
 id= REAL000723
 te= Paleomiljø
@@ -6257,11 +6258,8 @@ tie= 2015-10-21T13:00:29Z
 
 id= REAL000774
 te= Tester
-ba= nk
-ba= nb
-ba= nm
-nn= Testar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T18:43:34Z
 
 id= REAL000775
 te= Vitamin C
@@ -8299,11 +8297,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001022
 te= Elektrotermisk atomisering
-ba= nk
-nn= Elektrotermisk atomisering
-en= Electrothermal atomisation
-en= Electrothermal atomization
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:03:26Z
+fly= REAL005324
 
 id= REAL001023
 te= Transport
@@ -8490,7 +8486,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001040
 te= Organiske kompleksforbindelser
 ba= nk
+bf= Organometalliske komplekser
+so= REAL011497
 nn= Organiske komplekssambindingar
+nn= Organometalliske kompleks
+en= Organometallic complex
+en= Metal-organic complexes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001041
@@ -10992,12 +10993,8 @@ st= REAL016095
 
 id= REAL001343
 te= European Astrophysics Doctoral Network
-ba= na
-ak= EADN
-nn= European Astrophysics Doctoral Network
-en= European Astrophysics Doctoral Network
-en= EADN
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:10:11Z
 
 id= REAL001344
 te= Altruisme
@@ -11538,9 +11535,8 @@ st= REAL019307
 
 id= REAL001420
 te= Konvolusjoner
-ba= nm
-nn= Konvolusjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T18:48:12Z
 
 id= REAL001421
 te= Biologisk oseanografi
@@ -12849,7 +12845,6 @@ id= REAL001578
 te= Rødforskyvning
 ba= na
 bf= Blåforskyvning
-so= REAL005040
 nn= Raudforskyving
 nn= Raudforskuving
 nn= Blåforskyving
@@ -13503,9 +13498,8 @@ tie= 2015-03-19T09:34:11Z
 
 id= REAL001662
 te= Fornyelser
-ba= ngh
-nn= Fornyingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T16:38:30Z
 
 id= REAL001663
 te= Ioneegenskaper
@@ -14062,12 +14056,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001733
 te= Avføring
-ba= nb
-nn= Avføring
-nn= Feces
-en= Feces
 tio= 2014-08-25T00:00:00Z
-st= REAL020010
+tis= 2018-01-08T11:08:03Z
+fly= REAL007231
 
 id= REAL001734
 te= Binyrene
@@ -14142,9 +14133,8 @@ st= REAL025682
 
 id= REAL001741
 te= Uorganiske kompleksforbindelser
-ba= nk
-nn= Uorganiske komplekssambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:04:25Z
 
 id= REAL001742
 te= Antropologer
@@ -14844,9 +14834,8 @@ st= REAL018600
 
 id= REAL001834
 te= Biokoordinasjonskjemi
-ba= nk
-nn= Biokoordinasjonskjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T18:56:22Z
 
 id= REAL001835
 te= Metallografi
@@ -16173,6 +16162,7 @@ nn= Hugs
 nn= Hått
 en= Memory
 tio= 2014-08-25T00:00:00Z
+st= REAL031916
 
 id= REAL002002
 te= Kolloider
@@ -16802,7 +16792,6 @@ nn= Geoteknikk
 en= Geotechnics
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-07T23:45:03Z
-st= REAL014091
 st= REAL020898
 st= REAL021105
 st= REAL023126
@@ -19768,6 +19757,7 @@ tie= 2017-08-22T13:35:26Z
 st= REAL019398
 st= REAL020132
 st= REAL029479
+st= REAL031915
 
 id= REAL002426
 te= Fjellturer
@@ -19818,6 +19808,7 @@ st= REAL020639
 st= REAL021687
 st= REAL023698
 st= REAL027189
+st= REAL031936
 
 id= REAL002431
 te= Sertifisering
@@ -21298,10 +21289,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002600
 te= Signaturer
-ba= ni
-so= REAL010291
-nn= Signaturar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:18:56Z
 
 id= REAL002601
 te= Entomologi
@@ -22800,7 +22789,9 @@ id= REAL002784
 te= Digital telekommunikasjon
 ba= nc
 ba= ngh
+bf= Digital teleteknikk
 nn= Digital telekommunikasjon
+nn= Digital teleteknikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002785
@@ -23036,10 +23027,8 @@ st= REAL019970
 
 id= REAL002814
 te= Aminosyreanalyser
-ba= nc
-nn= Aminosyreanalysar
-en= Amino acid analyses
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-08T10:34:32Z
 
 id= REAL002815
 te= Havforskere
@@ -25257,7 +25246,6 @@ te= Gipsforekomster
 ba= nc
 nn= Gipsførekomstar
 tio= 2014-08-25T00:00:00Z
-st= REAL021051
 st= REAL026363
 
 id= REAL003072
@@ -25365,9 +25353,9 @@ st= REAL022297
 
 id= REAL003086
 te= Lacertae-objekter
-ba= na
-nn= Lacertae-objekt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T17:22:10Z
+fly= REAL008763
 
 id= REAL003087
 te= Kvantorisering
@@ -25663,10 +25651,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003124
 te= Fiskevann
-ba= nb
-nn= Fiskevatn
 tio= 2014-08-25T00:00:00Z
-st= REAL022982
+tis= 2018-01-12T16:27:59Z
 
 id= REAL003125
 te= Clipper
@@ -26153,12 +26139,8 @@ fly= REAL005197
 
 id= REAL003191
 te= European Northern Observatory
-ba= na
-ak= ENO
-nn= European Northern Observatory
-en= European Northern Observatory
-en= ENO
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:13:19Z
 
 id= REAL003192
 te= Reaksjonsmekanismer
@@ -26197,10 +26179,12 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-10-13T20:21:44Z
 
 id= REAL003196
-te= Fotokjemiske oksydanter
+te= Fotokjemiske oksidanter
 ba= nb
+bf= Fotokjemiske oksydanter
 nn= Fotokjemiske oksydantar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T17:13:13Z
 
 id= REAL003198
 te= Skulpturer
@@ -27534,9 +27518,12 @@ st= REAL031736
 id= REAL003360
 te= Sandwichkomplekser
 ba= nk
+bf= Sandwichforbindelser
+so= REAL005786
 nn= Sandwichkompleks
 en= Sandwich compounds
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T19:06:25Z
 
 id= REAL003361
 te= Spermiekonkurranse
@@ -29110,12 +29097,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003549
 te= Jet Propulsion Laboratory
-ba= na
-ak= JPL
-nn= Jet Propulsion Laboratory
-en= Jet Propulsion Laboratory
-en= JPL
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:48:44Z
 
 id= REAL003550
 te= Elektrisk hysterese
@@ -30183,8 +30166,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003682
 te= Gestagener
 ba= ne
+bf= Progestagener
 nn= Gestagen
+nn= Progestagen
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T18:35:36Z
 
 id= REAL003683
 te= Flyging
@@ -31037,13 +31023,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003779
 te= European Space Research Organisation
-ba= na
-ak= ESRO
-nn= European Space Research Organisation
-nn= ESRO
-en= European Space Research Organisation
-en= ESRO
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:16:04Z
 
 id= REAL003781
 te= Økologiske faktorer
@@ -32207,12 +32188,8 @@ tis= 2017-10-12T09:33:33Z
 
 id= REAL003916
 te= Flytting
-ba= nb
-ba= ns
-nn= Flytting
 tio= 2014-08-25T00:00:00Z
-st= REAL014853
-st= REAL017344
+tis= 2018-01-12T16:13:28Z
 
 id= REAL003917
 te= Monopoler
@@ -32369,10 +32346,23 @@ st= REAL026047
 st= REAL029596
 
 id= REAL003934
-te= Koreansk tegnsett
+te= CJKV-tegn
 ba= ni
+bf= Koreansk tegnsett
+bf= Kinesisk tegnsett
+bf= Japansk tegnsett
+bf= CJK-tegn
+bf= Vietnamesisk tegnsett
+nn= CJK-teikn
 nn= Koreansk teiknsett
+nn= Kinesisk teiknsett
+nn= Japansk teiknsett
+nn= Vietnamesisk teiknsett
+en= Chinese character set
+en= Japanese character set
+de= samlebetegnelse for kinesiske, japanske, koreanske og vietnamesiske tegn
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T19:13:43Z
 
 id= REAL003935
 te= Bresjøer
@@ -32443,10 +32433,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003946
 te= Temperert økologi
-ba= nk
-ba= nb
-nn= Temperert økologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-11T11:26:24Z
 
 id= REAL003947
 te= Strandlinjer
@@ -33863,7 +33851,6 @@ nn= Modellering
 en= Modeling
 tio= 2014-08-25T00:00:00Z
 st= REAL015205
-st= REAL015775
 st= REAL018372
 st= REAL019145
 st= REAL023400
@@ -34254,7 +34241,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004173
 te= Kompleksometri
 ba= nk
+bf= Kompleksometrisk titrering
+bf= Komplekstitrering
 nn= Kompleksometri
+nn= Kompleksometrisk titrering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004174
@@ -36177,10 +36167,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004412
 te= Miljø og utvikling
-ba= nb
-ak= MU
-nn= Miljø og utvikling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:16:35Z
 
 id= REAL004415
 te= Militærvesen
@@ -36472,10 +36460,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004445
 te= Flavoner
-ba= ne
-nn= Flavon
-en= Flavones
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:40:46Z
+fly= REAL005100
 
 id= REAL004446
 te= Atferdsøkologi
@@ -36805,10 +36792,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004484
 te= Filosofenes middagsproblem
-ba= ni
-nn= Middagsproblemet til filosofane
-en= Philosophers dinner problem
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T16:19:24Z
 
 id= REAL004486
 te= Øret
@@ -36974,13 +36959,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004506
 te= SOlar Heliospheric Observatory
-ba= na
-ak= SOHO
-nn= SOHO
-nn= Solar and Heliospheric Observatory
-en= SOlar Heliospheric Observatory
-en= SOHO
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:31:10Z
 
 id= REAL004507
 te= Menneskeaper
@@ -39145,6 +39125,7 @@ nn= Den naturvitskapelege metode
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-13T21:40:37Z
 st= REAL019594
+st= REAL031939
 
 id= REAL004789
 te= Koralldyr
@@ -40559,8 +40540,9 @@ id= REAL004971
 te= Primater
 ba= nk
 ba= nb
-nn= Primat
+nn= Primatar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T17:19:18Z
 st= REAL015825
 st= REAL016635
 st= REAL016649
@@ -40636,6 +40618,7 @@ st= REAL028881
 st= REAL029045
 st= REAL029562
 st= REAL029698
+st= REAL031926
 
 id= REAL004976
 te= Valsing
@@ -41123,11 +41106,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005040
 te= Fotometrisk rødforskyvning
-ba= na
-nn= Fotometrisk raudforskyving
-nn= Fotometrisk raudforskuving
-en= Photometric redshift
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T16:42:10Z
 
 id= REAL005041
 te= Samfunnsmessige påvirkninger
@@ -41517,10 +41497,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005094
 te= Eucalyptus
-ba= nk
-nn= Eukalyptus
-nn= Eucalyptus
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:05:08Z
+fly= REAL007009
 
 id= REAL005095
 te= Arkeometri
@@ -41568,9 +41547,15 @@ ba= nk
 ba= nb
 ba= ne
 ba= nq
+bf= Flavoner
+so= REAL013856
 nn= Flavonoid
+nn= Flavon
 en= Flavonoids
+en= Flavones
+de= forskjellige fenolforbindelser i planter (anthocyaniner, flavononer, flavoner, flavonoler, isoflavonoider, auroner, chalkoner, leukoanthocyanidiner og katechiner) [SNL]
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T15:43:10Z
 
 id= REAL005101
 te= Symboler
@@ -43323,6 +43308,7 @@ nn= Atomisering
 en= Atomization
 en= Atomisation
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T15:03:40Z
 
 id= REAL005325
 te= Glasifluvial
@@ -43378,11 +43364,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005332
 te= Cerro Tololo Inter-American Observatory
-ba= na
-ak= CTIO
-nn= Cerro Tololo Inter-American Observatory
-en= Cerro Tololo Inter-American Observatory
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:24:36Z
 
 id= REAL005333
 te= Miljøfaktorer
@@ -43393,9 +43376,8 @@ st= REAL016435
 
 id= REAL005334
 te= Organiske partikler
-ba= nc
-nn= Organiske partiklar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:15:05Z
 
 id= REAL005335
 te= Alpine tundraer
@@ -43420,9 +43402,8 @@ tie= 2015-05-06T17:00:48Z
 
 id= REAL005337
 te= Flisfyring
-ba= ngh
-nn= Flisfyring
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T16:31:54Z
 
 id= REAL005338
 te= Samfunnsøkonomi
@@ -43708,12 +43689,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005372
 te= European Physical Society
-ba= na
-ak= EPS
-nn= European Physical Society
-en= European Physical Society
-en= EPS
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:13:42Z
 
 id= REAL005373
 te= Bølgebrytning
@@ -46799,7 +46776,6 @@ st= REAL016786
 st= REAL020642
 st= REAL021793
 st= REAL023774
-st= REAL027210
 st= REAL028935
 
 id= REAL005758
@@ -47059,8 +47035,13 @@ id= REAL005786
 te= Metallkomplekser
 ba= nk
 ba= nb
+so= REAL011497
+so= REAL010470
+so= REAL012082
+so= REAL003360
 nn= Metallkompleks
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T19:06:24Z
 
 id= REAL005789
 te= Marin bentos
@@ -48143,6 +48124,7 @@ nn= Kremler
 tio= 2014-08-25T00:00:00Z
 st= REAL016812
 st= REAL028442
+st= REAL031928
 
 id= REAL005923
 te= Furunkulose
@@ -49049,10 +49031,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006038
 te= Oksidanter
-ba= nb
-ba= ngh
-nn= Oksidantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T17:13:07Z
+fly= REAL003196
 
 id= REAL006039
 te= Konvekse flater
@@ -49078,6 +49059,7 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-06-27T10:43:19Z
 st= REAL022601
 st= REAL029494
+st= REAL031933
 
 id= REAL006042
 te= Datering
@@ -54209,9 +54191,8 @@ st= REAL030003
 
 id= REAL006638
 te= Motstand
-ba= nk
-nn= Motstand
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T18:41:51Z
 
 id= REAL006639
 te= Matematiske illustrasjoner
@@ -55184,10 +55165,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006750
 te= Kinesisk tegnsett
-ba= ni
-nn= Kinesisk teiknsett
-en= Chinese character set
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:12:25Z
+fly= REAL003934
 
 id= REAL006751
 te= Katalysatorbiler
@@ -55292,9 +55272,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006767
 te= Seksualitet
-ba= nb
-nn= Seksualitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-11T12:04:31Z
+fly= REAL007922
 
 id= REAL006768
 te= Arbeidsgivere
@@ -55771,14 +55751,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006835
 te= European Space Agency
-ba= na
-ak= ESA
-nn= ESA
-nn= Den europeiske romfartsorganisasjonen
-nn= European Space Agency
-en= European Space Agency
-en= ESA
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:15:19Z
 
 id= REAL006836
 te= Metallbearbeiding
@@ -56285,6 +56259,7 @@ st= REAL026068
 st= REAL028094
 st= REAL028134
 st= REAL029792
+st= REAL031931
 
 id= REAL006889
 te= Dataprogrammer
@@ -57279,7 +57254,9 @@ st= REAL026907
 id= REAL007009
 te= Eukalyptus
 ba= nb
+bf= Eucalyptus
 nn= Eukalyptus
+nn= Eucalyptus
 en= Eucalyptus
 tio= 2014-08-25T00:00:00Z
 
@@ -57374,9 +57351,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007022
 te= Enterprise
-ba= nm
-nn= Enterprise
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:09:24Z
 
 id= REAL007023
 te= Varmevekslere
@@ -57423,13 +57399,16 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-10-31T17:10:37Z
 
 id= REAL007029
-te= Indianere
+te= Urfolk i Amerika
 ba= nb
 ba= ne
 ba= ns
+bf= Indianere
+nn= Urfolk i Amerika
 nn= Indianarar
 en= Indigenous peoples of the Americas
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-03T15:05:01Z
 st= REAL017532
 
 id= REAL007030
@@ -59047,10 +59026,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007231
 te= Ekskrementer
 ba= nb
+bf= Avføring
 nn= Ekskrement
+nn= Avføring
+nn= Feces
 en= Feces
 en= Feaces
 tio= 2014-08-25T00:00:00Z
+st= REAL020010
 
 id= REAL007232
 te= Propan
@@ -61003,9 +60986,9 @@ tie= 2015-07-10T12:36:42Z
 
 id= REAL007471
 te= Vietnamesisk tegnsett
-ba= ni
-nn= Vietnamesisk teiknsett
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:12:56Z
+fly= REAL003934
 
 id= REAL007472
 te= Eutrofiering
@@ -61512,9 +61495,8 @@ st= REAL029775
 
 id= REAL007533
 te= Koordinasjon
-ba= nk
-nn= Koordinasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T18:55:53Z
 
 id= REAL007534
 te= Arkiver
@@ -61899,10 +61881,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007586
 te= Dioxospiraner
-ba= nk
-nn= Dioxospiran
-en= Dioxospiranes
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T17:45:16Z
 
 id= REAL007587
 te= Konstruksjonsberegninger
@@ -62602,17 +62582,21 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-07-25T11:06:19Z
 
 id= REAL007669
-te= Maya
+te= Mayasivilisasjonen
 ba= nb
 bf= Maya-indianere
 bf= Mayakultur
+bf= Maya
+nn= Mayasivilisasjonen
 nn= Maya
 nn= Maya-indianarar
 nn= Mayakultur
+en= Maya civilization
 en= Mayans
 en= Maya peoples
 en= Maya culture
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-03T15:06:46Z
 
 id= REAL007670
 te= Reelle funksjoner
@@ -64554,7 +64538,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007922
 te= Seksuell atferd
 ba= nb
+bf= Seksualitet
 nn= Seksuell åtferd
+nn= Seksualitet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007923
@@ -67305,11 +67291,10 @@ st= REAL027160
 
 id= REAL008257
 te= Organometalliske komplekser
-ba= nk
-nn= Organometalliske kompleks
-en= Organometallic complex
-en= Metal-organic complexes
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T19:03:20Z
+tis= 2018-01-12T19:04:07Z
+fly= REAL001040
 
 id= REAL008258
 te= Syre-base-reaksjoner
@@ -67723,6 +67708,7 @@ ba= nb
 nn= Agnfiske
 en= Bait fishing
 tio= 2014-08-25T00:00:00Z
+st= REAL031920
 
 id= REAL008313
 te= Grunnvannsstrøm
@@ -68357,9 +68343,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008390
 te= Amplifisering
-ba= nb
-nn= Amplifisering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-08T10:39:04Z
 
 id= REAL008391
 te= Ikke-lineære svingninger
@@ -70118,10 +70103,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008591
 te= Forskyvninger
-ba= nc
-nn= Forskyvingar
-nn= Forskuvingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T16:40:34Z
 
 id= REAL008592
 te= Urbane edderkoppdyr
@@ -71027,6 +71010,7 @@ en= Entropy
 tio= 2014-08-25T00:00:00Z
 st= REAL017782
 st= REAL027900
+st= REAL031937
 
 id= REAL008701
 te= Forkjølelse
@@ -71068,10 +71052,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008707
 te= Energiutvinning
-ba= nk
-ba= ns
-nn= Energiutvinning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:07:46Z
 
 id= REAL008708
 te= Flex
@@ -71504,10 +71486,16 @@ nn= Yet Another Compiler Compiler
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008763
-te= Bl lac-objekter
+te= BL Lacertae-objekter
 ba= na
+bf= BL Lac-objekter
+bf= Lacertae-objekter
 nn= Bl lac-objekt
+nn= Lacertae-objekt
+en= BL Lacertae objects
+en= BL Lac objects
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T17:21:38Z
 
 id= REAL008764
 te= Innlandsfiske
@@ -72887,11 +72875,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008939
 te= Faint Object Camera
-ba= na
-ak= FOC
-nn= Faint Object Camera
-nn= FOC
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:17:25Z
 
 id= REAL008940
 te= Husmus
@@ -73975,7 +73960,6 @@ st= REAL024873
 st= REAL024984
 st= REAL025150
 st= REAL025228
-st= REAL025511
 st= REAL025761
 st= REAL025800
 st= REAL025996
@@ -74410,10 +74394,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009118
 te= Koordinasjonsforbindelser
-ba= nk
-nn= Koordinasjonssambindingar
 tio= 2014-08-25T00:00:00Z
-st= REAL023884
+tie= 2018-01-12T18:50:07Z
+tis= 2018-01-12T19:03:03Z
+fly= REAL011497
 
 id= REAL009119
 te= Binære hvite dverger
@@ -75112,6 +75096,7 @@ te= Tarmbakterier
 ba= nb
 nn= Tarmbakteriar
 tio= 2014-08-25T00:00:00Z
+st= REAL031938
 
 id= REAL009212
 te= Plantesuksesjon
@@ -75271,11 +75256,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009228
 te= Fletting
-ba= ni
-ba= ns
-nn= Fletting
-en= Merging
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:45:09Z
 
 id= REAL009229
 te= Frysing
@@ -75527,14 +75509,18 @@ id= REAL009262
 te= Celledifferensiering
 ba= nb
 bf= Differensiering
+bf= Epigenese
 so= REAL002232
 nn= Celledifferensiering
 nn= Differensiering
+nn= Epigenese
 en= Cell differentiation
 en= Cellular differentiation
+en= Epigenesis
 de= Prosess som en celletype gjennomgår i utviklingen mot en spesialisert celletype (SNL)
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-09T16:29:28Z
+st= REAL025198
 
 id= REAL009263
 te= Smerter
@@ -76270,10 +76256,13 @@ nn= Topologiske eigenskapar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009358
-te= Klinisk ernæringsfysiologi
+te= Klinisk ernæring
 ba= ne
+bf= Klinisk ernæringsfysiologi
+nn= Klinisk ernæring
 nn= Klinisk ernæringsfysiologi
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-11T15:33:13Z
 
 id= REAL009359
 te= Azeotroper
@@ -77760,6 +77749,7 @@ st= REAL027584
 st= REAL028920
 st= REAL029548
 st= REAL029606
+st= REAL031930
 
 id= REAL009560
 te= Grus
@@ -77931,10 +77921,8 @@ fly= REAL003395
 
 id= REAL009583
 te= Fingre
-ba= nb
-nn= Fingrar
-en= Fingers
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T16:21:24Z
 
 id= REAL009584
 te= Dypvannsrev
@@ -77959,11 +77947,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009587
 te= Epigenese
-ba= nb
-nn= Epigenese
-en= Epigenesis
 tio= 2014-08-25T00:00:00Z
-st= REAL025198
+tis= 2018-01-08T12:41:55Z
+fly= REAL009262
 
 id= REAL009588
 te= Kald fusjon
@@ -78201,10 +78187,14 @@ tie= 2017-01-02T14:18:43Z
 tis= 2017-01-02T14:18:43Z
 
 id= REAL009605
-te= Natrium-kalium pumpe
+te= Natrium–kalium-pumpe
 ba= nb
+bf= Natriumpumpe
+bf= Na+/K+-pumpe
+bf= Na+/K+-ATPase
 nn= Natrium-kalium-pumpe
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T17:42:04Z
 
 id= REAL009606
 te= Komplekse mangfoldigheter
@@ -78248,10 +78238,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009613
 te= Fiskeområder
-ba= nb
-nn= Fiskeområde
-en= Fishing areas
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T16:27:20Z
 
 id= REAL009614
 te= Styren
@@ -80338,10 +80326,9 @@ st= REAL018185
 
 id= REAL009868
 te= Japansk tegnsett
-ba= ni
-nn= Japansk teiknsett
-en= Japanese character set
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:12:33Z
+fly= REAL003934
 
 id= REAL009869
 te= Biologididaktikk
@@ -82337,8 +82324,10 @@ te= Bibliotekkataloger
 ba= na
 ba= ns
 nn= Bibliotekkatalogar
-en= Library catalog
+en= Library catalogs
+en= Library catalogues
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T11:47:35Z
 
 id= REAL010099
 te= Artsforvaltning
@@ -82882,6 +82871,7 @@ nn= Medisinske informasjonssystem
 tio= 2014-08-25T00:00:00Z
 tie= 2017-05-22T15:20:02Z
 st= REAL023597
+st= REAL031934
 
 id= REAL010167
 te= Bielver
@@ -85321,8 +85311,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010470
 te= Platinakomplekser
 ba= nk
+so= REAL005786
 nn= Platinakompleks
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T19:04:39Z
 
 id= REAL010471
 te= Akkumulasjonsstrender
@@ -85444,10 +85436,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010486
 te= Naturkrefter
-ba= na
-nn= Naturkrefter
-nn= Naturkrafter
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T19:20:34Z
 
 id= REAL010487
 te= Menneskets tankemodeller
@@ -86312,12 +86302,14 @@ en= Gait
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010594
-te= Arkivkunnskap
+te= Arkivvitenskap
 ba= nq
 ba= ns
+bf= Arkivkunnskap
 nn= Arkivkunnskap
 en= Archival science
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T11:48:15Z
 
 id= REAL010595
 te= Industridesign
@@ -87622,6 +87614,7 @@ st= REAL027187
 st= REAL028207
 st= REAL029730
 st= REAL029807
+st= REAL031935
 
 id= REAL010766
 te= Immunstimulering
@@ -87827,10 +87820,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010792
 te= Fikspunkt
-ba= ni
-nn= Fikspunkt
-en= Fix point
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:36:53Z
+fly= REAL011827
 
 id= REAL010793
 te= Tidevannskrefter
@@ -88209,9 +88201,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010852
 te= Digital teleteknikk
-ba= ngh
-nn= Digital teleteknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T17:27:49Z
+fly= REAL002784
 
 id= REAL010853
 te= Uorganisk analyse
@@ -89678,10 +89670,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011048
 te= Fløtning
-ba= ngh
-nn= Fløyting
 tio= 2014-08-25T00:00:00Z
-st= REAL015019
+tis= 2018-01-12T16:35:09Z
 
 id= REAL011049
 te= Kondensert materie
@@ -91834,12 +91824,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011333
 te= Datatilsynet
-ba= ni
-nn= Datatilsynet
-en= Norwegian Data Protection Authority
 tio= 2014-08-25T00:00:00Z
-st= REAL015596
-st= REAL027103
+tis= 2018-01-12T19:46:10Z
 
 id= REAL011334
 te= Sminke
@@ -92537,9 +92523,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011421
 te= Kompleksometrisk titrering
-ba= nk
-nn= Kompleksometrisk titrering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-11T15:28:25Z
+tis= 2018-01-11T15:29:04Z
+fly= REAL004173
 
 id= REAL011422
 te= Wienerfiltre
@@ -92579,6 +92566,7 @@ en= Mountain climbing
 tio= 2014-08-25T00:00:00Z
 st= REAL021758
 st= REAL029938
+st= REAL031925
 
 id= REAL011427
 te= Lineær regresjon
@@ -93125,9 +93113,22 @@ id= REAL011497
 te= Kompleksforbindelser
 ba= nk
 bf= Komplekser
+bf= Koordinasjonsforbindelser
+bf= Koordinasjonskjemi
+bf= Koordinasjonspolymerer
+bf= Komplekskjemi
+so= REAL005786
+so= REAL001040
 nn= Komplekssambindingar
 nn= Kompleks
+nn= Koordinasjonssambindingar
+nn= Koordinasjonskjemi
+nn= Koordinasjonspolymerar
+nn= Komplekskjemi
+de= salter som inneholder kompleksioner
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T19:03:19Z
+st= REAL023884
 
 id= REAL011498
 te= Datatyper
@@ -93260,9 +93261,9 @@ fly= REAL002445
 
 id= REAL011514
 te= Koordinasjonskjemi
-ba= nk
-nn= Koordinasjonskjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T18:58:57Z
+fly= REAL009118
 
 id= REAL011515
 te= Jordfysikk
@@ -95255,9 +95256,8 @@ tis= 2017-06-01T15:21:30Z
 
 id= REAL011749
 te= Laboratorietester
-ba= nk
-nn= Laboratorietestar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T18:39:28Z
 
 id= REAL011750
 te= Våpenfluer
@@ -95924,7 +95924,9 @@ id= REAL011827
 te= Fikspunkter
 ba= nm
 nn= Fikspunkt
+en= Fixed points
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T15:38:30Z
 
 id= REAL011828
 te= Likevektskonstanter
@@ -97536,10 +97538,13 @@ nn= Skriptspråk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012031
-te= NK-celler
+te= Naturlige dreperceller
 ba= nb
+bf= NK-celler
+nn= Naturlege dreperceller
 nn= NK-celler
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T16:46:58Z
 
 id= REAL012032
 te= Tcl/Tk
@@ -97869,8 +97874,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012082
 te= Gullkomplekser
 ba= nk
+so= REAL005786
 nn= Gullkompleks
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T19:04:52Z
 
 id= REAL012083
 te= Miljøstatistikk
@@ -103277,8 +103284,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012610
 te= Aluminiumkomplekser
-nn= Aluminiumkompleks
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-08T10:28:31Z
 
 id= REAL012611
 te= Aminosakkarider
@@ -103435,6 +103442,7 @@ nn= Etniske minoritetar
 nn= Minoritetsgrupper
 nn= Språklege minoritetar
 tio= 2014-08-25T00:00:00Z
+st= REAL031912
 
 id= REAL012624
 te= Rusavhengighet
@@ -103910,21 +103918,27 @@ tie= 2015-06-15T17:03:45Z
 st= REAL028066
 
 id= REAL012658
-te= Mössbauer-effekten
-bf= Møssbauereffekt
+te= Mössbauereffekten
+bf= Møssbauereffekten
+bf= Mößbauereffekten
+bf= Møßbauereffekten
 nn= Mössbauer-effekten
 nn= Møssbauereffekt
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T16:53:22Z
 
 id= REAL012659
 te= Mössbauerspektroskopi
 bf= Møssbauerspektroskopi
+bf= Mößbauerspektroskopi
+bf= Møßbauerspektroskopi
 nn= Mössbauerspektroskopi
 nn= Møssbauerspektroskopi
 en= Mössbauer spectroscopy
 en= Moessbauer spectroscopy
 en= Mößbauer spectroscopy
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T16:53:46Z
 
 id= REAL012660
 te= Møteteknikk
@@ -106536,7 +106550,6 @@ ba= nb
 bf= Tempererte områder
 bf= Tempererte soner
 bf= Midlere breddegrader
-so= REAL003946
 nn= Tempererte soner
 nn= Tempererte område
 en= Temperate climate
@@ -107441,9 +107454,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012978
 te= Komplekskjemi
-nn= Komplekskjemi
 tio= 2014-08-25T00:00:00Z
-st= REAL022331
+tis= 2018-01-12T19:03:38Z
+fly= REAL011497
 
 id= REAL012979
 te= Datalingvistikk
@@ -107479,8 +107492,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012984
 te= Koordinasjonspolymerer
-nn= Koordinasjonspolymerar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T18:59:03Z
+fly= REAL009118
 
 id= REAL012985
 te= Korrespondanseanalyser
@@ -108879,12 +108893,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013119
 te= Faktorielle forsøksplaner
-ba= nm
-nn= Faktorielle forsøksplanar
-en= Factorial design of experiments
-ms= 62.63
-dw= 519.57
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T15:18:16Z
 
 id= REAL013120
 te= Parvise sammenligninger
@@ -109687,12 +109697,8 @@ fly= REAL001345
 
 id= REAL013198
 te= Adaptiv systemkontroll
-ba= nm
-nn= Adaptiv systemkontroll
-en= Adaptive system control
-ms= 93.70
-dw= 003
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-08T09:47:54Z
 
 id= REAL013200
 te= Nettverksteori
@@ -110279,6 +110285,8 @@ st= REAL021335
 st= REAL029321
 st= REAL029589
 st= REAL029634
+st= REAL031913
+st= REAL031914
 
 id= REAL013252
 te= Ulver
@@ -110973,6 +110981,7 @@ la= Leguminosae
 tio= 2014-08-25T00:00:00Z
 st= REAL023962
 st= REAL025670
+st= REAL031922
 
 id= REAL013310
 te= Buttnebber
@@ -111206,6 +111215,7 @@ st= REAL029508
 st= REAL029670
 st= REAL029732
 st= REAL031797
+st= REAL031923
 
 id= REAL013326
 te= Villblomster
@@ -112262,6 +112272,7 @@ st= REAL031093
 st= REAL031157
 st= REAL031200
 st= REAL031563
+st= REAL031921
 
 id= REAL013406
 te= Bildekunst
@@ -112953,7 +112964,6 @@ st= REAL017896
 st= REAL017905
 st= REAL018032
 st= REAL018099
-st= REAL018146
 st= REAL018183
 st= REAL018354
 st= REAL018420
@@ -113175,6 +113185,7 @@ st= REAL029934
 st= REAL029981
 st= REAL029987
 st= REAL030015
+st= REAL031927
 
 id= REAL013426
 te= Historiografi
@@ -113292,6 +113303,7 @@ st= REAL023577
 st= REAL025066
 st= REAL028209
 st= REAL028336
+st= REAL031932
 
 id= REAL013432
 te= Karriereplanlegging
@@ -114721,6 +114733,7 @@ st= REAL029363
 st= REAL029849
 st= REAL031114
 st= REAL031610
+st= REAL031917
 
 id= REAL013506
 te= Teknologihistorie
@@ -115335,11 +115348,6 @@ nn= K-teori
 en= K-theory
 tio= 2014-08-25T00:00:00Z
 st= REAL028401
-
-id= REAL013553
-te= Vassfaret
-nn= Vassfaret
-tio= 2014-08-25T00:00:00Z
 
 id= REAL013554
 te= Metodelære
@@ -119215,6 +119223,7 @@ st= REAL031700
 st= REAL031755
 st= REAL031756
 st= REAL031805
+st= REAL031929
 
 id= REAL013827
 te= Fisker
@@ -119312,7 +119321,6 @@ st= REAL029905
 st= REAL029966
 st= REAL031279
 st= REAL031346
-st= REAL031347
 
 id= REAL013828
 te= Systematikk
@@ -119851,9 +119859,8 @@ st= REAL031868
 
 id= REAL013848
 te= Fouriertransformert kjernemagnetisk resonans-spektroskopi
-ak= FT-NMR
-nn= Fouriertransformert kjernemagnetisk resonans-spektroskopi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-12T16:42:47Z
 
 id= REAL013849
 te= Fouriertransformert infrarød spektroskopi
@@ -119923,8 +119930,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013856
 te= Isoflavoner
+so= REAL005100
 nn= Isoflavon
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-12T15:43:09Z
 
 id= REAL013857
 te= Tektosilikater
@@ -123763,16 +123772,15 @@ tie= 2015-09-21T09:03:38Z
 
 id= REAL031496
 te= Flerbestandsmodellering
-nn= Fleirbestandsmodellering
 tio= 2015-09-21T11:35:54Z
 tie= 2015-09-21T11:35:54Z
+tis= 2018-01-12T16:33:33Z
 
 id= REAL031497
 te= Flerbestandsforvaltning
-nn= Fleirbestandsforvalting
-nn= Fleirbestandsforvaltning
 tio= 2015-09-21T11:36:27Z
 tie= 2015-09-21T11:36:27Z
+tis= 2018-01-12T16:33:13Z
 
 id= REAL031503
 te= Hverdagsfysikk
@@ -124302,10 +124310,9 @@ tie= 2016-11-08T14:11:21Z
 
 id= REAL031732
 te= Fiskestimer
-nn= Fiskestimar
-en= Fish schools
 tio= 2016-11-11T13:39:26Z
 tie= 2016-11-11T13:39:52Z
+tis= 2018-01-12T16:27:27Z
 
 id= REAL031740
 te= Dataassimilasjon
@@ -125298,4 +125305,18 @@ en= Cuvie
 la= Laminaria hyperborea
 tio= 2017-11-27T15:20:39Z
 tie= 2017-11-27T15:23:30Z
+
+id= REAL031940
+te= Berøringsgrensesnitt
+bf= Tøtsjgrensesnitt
+tio= 2018-01-12T17:29:24Z
+tie= 2018-01-12T17:29:28Z
+
+id= REAL031941
+te= Rommiljø
+no= github:#1108
+nn= Rommiljø
+en= Space environment
+tio= 2018-01-12T17:35:54Z
+tie= 2018-01-12T17:36:57Z
 
