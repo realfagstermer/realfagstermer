@@ -1486,9 +1486,15 @@ en= Yellowstone
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030476
-te= Vosges
+te= Vogesene
+bf= Vosges
+bf= Vosges-fjellene
+nn= Vogesane
 en= Vosges
+en= Vosges Mountains
+de= fjellkjede øst i Frankrike
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-17T09:35:40Z
 
 id= REAL030477
 te= Vest-Europa
@@ -1967,9 +1973,9 @@ nn= Stugusjøen
 nn= Stuggusjøen
 en= Stugusjøen
 en= Stuggusjøen
-de= innsjø i Sør-Trøndelag
+de= innsjø i Tydal, Trøndelag
 tio= 2015-02-20T13:08:04Z
-tie= 2017-10-27T18:52:41Z
+tie= 2018-01-17T12:33:02Z
 
 id= REAL030565
 te= Stockholm
@@ -2818,9 +2824,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030721
 te= Sølna
-en= Sølna
-en= Solna municipality
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-17T12:25:58Z
+tis= 2018-01-17T12:31:21Z
 
 id= REAL030722
 te= Szklarska Poręba
@@ -2906,9 +2912,15 @@ en= Sigdal
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030738
-te= Transylvania
+te= Transilvania
+bf= Siebenbürgen
+bf= Transylvania
+nn= Transilvania
+nn= Siebenbürgen
 en= Transylvania
+de= landskap i Romania
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-17T12:22:38Z
 
 id= REAL030739
 te= Mellom-Amerika
@@ -4664,8 +4676,10 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031061
 te= Sørnesset
-en= Sørnesset
+no= Se BARE
 tio= 2015-02-20T13:08:04Z
+tie= 2018-01-17T12:21:30Z
+tis= 2018-01-17T12:21:28Z
 
 id= REAL031062
 te= Øst-Tyskland
@@ -4701,16 +4715,17 @@ tio= 2015-02-20T13:08:04Z
 tie= 2014-10-20T00:00:00Z
 
 id= REAL031213
-te= Lipariske øyer
+te= Lipariøyene
 bf= Eoliske øyer
 bf= De lipariske øyer
 bf= De eoliske øyer
+bf= Lipariske øyer
 en= Aeolian Islands
 en= Lipari Islands
 en= Lipari Group
 de= Lipariske øyer, vulkansk øygruppe i Italia, i Tyrrenske hav, nord for nordøsthjørnet av Sicilia, består av 7 større og 11 mindre øyer, 117 km2. (SNL)
 tio= 2015-02-20T13:08:04Z
-tie= 2017-09-29T22:18:41Z
+tie= 2018-01-17T09:26:57Z
 
 id= REAL031222
 te= Lyngsalpene
