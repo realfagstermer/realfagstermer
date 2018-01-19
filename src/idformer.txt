@@ -159,6 +159,12 @@ id= REAL030086
 te= Himmelatlas
 bf= Historiske stjernekart
 bf= Stjernekart
+en= Celestial atlases
+en= Celestial maps
+en= Star charts
+en= Celestial charts
+en= Star atlases
+en= Star maps
 tio= 2015-02-20T13:08:04Z
 tie= 2017-12-15T16:03:45Z
 

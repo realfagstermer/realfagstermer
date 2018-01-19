@@ -1,6 +1,7 @@
 id= REAL013553
 te= Vassfaret
 nn= Vassfaret
+en= Vassfaret
 tio= 2014-08-25T00:00:00Z
 
 id= REAL030200
@@ -230,6 +231,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030242
 te= Harestua
+en= Harestua
 tio= 2015-02-20T13:08:04Z
 tis= 2018-01-12T19:46:02Z
 
@@ -300,6 +302,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030255
 te= Romsdal
+en= Romsdal
 tio= 2015-02-20T13:08:04Z
 tie= 2017-08-11T14:32:31Z
 tis= 2017-08-11T14:32:31Z
@@ -1075,6 +1078,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030398
 te= Harvard
+en= Harvard
 tio= 2015-02-20T13:08:04Z
 tis= 2017-10-07T18:34:32Z
 
@@ -2164,6 +2168,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030599
 te= Langøya
+en= Langøya
 tio= 2015-02-20T13:08:04Z
 tis= 2018-01-02T20:56:13Z
 
@@ -2497,6 +2502,7 @@ bf= Midthordaland
 nn= Midthordland
 nn= Midhordland
 nn= Midthordaland
+en= Midthordaland
 tio= 2015-02-20T13:08:04Z
 tie= 2017-12-07T10:45:17Z
 
@@ -2536,6 +2542,7 @@ tie= 2018-01-02T17:30:42Z
 
 id= REAL030668
 te= Auma
+en= Auma
 tio= 2015-02-20T13:08:04Z
 tis= 2018-01-02T17:33:37Z
 
@@ -3084,6 +3091,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030770
 te= Newcastle
+en= Newcastle
+en= Newcastle, New South Wales
+en= Newcaste upon Tyne
 tio= 2015-02-20T13:08:04Z
 tie= 2017-07-24T17:41:06Z
 tis= 2017-07-24T17:41:06Z
@@ -3415,6 +3425,7 @@ tie= 2017-10-07T18:40:36Z
 
 id= REAL030834
 te= Håkedal
+en= Håkedal
 tio= 2015-02-20T13:08:04Z
 tis= 2017-10-07T23:55:54Z
 
@@ -3895,6 +3906,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030926
 te= Borussia
+en= Borussia
 tio= 2015-02-20T13:08:04Z
 tis= 2017-10-08T01:28:38Z
 fly= REAL030309
@@ -3971,6 +3983,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030942
 te= Baroniet Rosendal
+en= Barony Rosendal
 tio= 2015-02-20T13:08:04Z
 tis= 2018-01-12T19:46:20Z
 
@@ -3991,6 +4004,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030946
 te= Bandung
+en= Bandung
 tio= 2015-02-20T13:08:04Z
 tis= 2018-01-02T17:36:31Z
 
@@ -4134,6 +4148,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030974
 te= Mozambik
+en= Mozamibique
+en= Republic of Mozambique
 tio= 2015-02-20T13:08:04Z
 tis= 2017-12-06T14:34:12Z
 fly= REAL030684
