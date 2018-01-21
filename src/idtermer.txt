@@ -40545,7 +40545,10 @@ ba= ni
 nn= Hòlband
 nn= Holband
 en= Paper tape
+en= Punched tape
+en= Perforated paper tape
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-20T02:07:38Z
 
 id= REAL004968
 te= Faunistikk
@@ -82051,8 +82054,10 @@ ba= ni
 ba= ns
 nn= Hòlkort
 nn= Holkort
-en= Punch card
+en= Punched cards
+en= Punch cards
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-20T02:09:20Z
 
 id= REAL010059
 te= Trekjemi
