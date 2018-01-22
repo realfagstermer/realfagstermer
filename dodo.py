@@ -203,7 +203,8 @@ def task_build_extras():
                         '%s.scheme.ttl' % config['basename'],
                         'src/ub-onto.ttl',
                         'src/categories_and_mappings.ttl',
-                     ])
+                     ],
+                     with_ccmapper_candidates=True)
         logger.info('Wrote dist/%s.complete.ttl', config['basename'])
 
     return {
