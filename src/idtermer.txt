@@ -1051,6 +1051,7 @@ id= REAL000133
 te= Ionomerer
 ba= nk
 nn= Ionomerar
+en= Ionomers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000134
@@ -50086,6 +50087,7 @@ id= REAL006158
 te= Ringer
 ba= nm
 nn= Ringar
+en= Rings
 tio= 2014-08-25T00:00:00Z
 st= REAL021622
 
@@ -73218,6 +73220,7 @@ ba= ns
 so= REAL007833
 no= transportteori for elektroner, typisk kvantemekaniske beskrivelser av elektrontransport i krystaller
 nn= Elektrontransport
+en= Electron transport
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-15T14:30:21Z
 
@@ -79043,6 +79046,7 @@ id= REAL009698
 te= Huminsyrer
 ba= nk
 nn= Huminsyrer
+en= Humic acids
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-19T23:48:14Z
 
@@ -94175,6 +94179,7 @@ id= REAL011613
 te= Riemannske mangfoldigheter
 ba= nm
 nn= Riemannske mangfald
+en= Riemannian manifolds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011614
