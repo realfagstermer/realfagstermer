@@ -1,3 +1,9 @@
+id= REAL011428
+te= Karoo
+ba= nc
+nn= Karoo
+tio= 2014-08-25T00:00:00Z
+
 id= REAL013553
 te= Vassfaret
 nn= Vassfaret
@@ -4909,4 +4915,9 @@ en= Gulf of California
 en= Sea of Cortez
 tio= 2018-01-12T17:38:00Z
 tie= 2018-01-12T17:38:25Z
+
+id= REAL031950
+te= Titan (måne)
+tio= 2018-01-23T16:42:31Z
+tie= 2018-01-23T16:43:21Z
 
