@@ -10978,10 +10978,9 @@ tie= 2015-02-05T00:00:00Z
 
 id= REAL001339
 te= Strålehygiene
-ba= nk
-ba= nf
-nn= Strålehygiene
 tio= 2014-08-25T00:00:00Z
+tis= 2018-01-24T14:26:53Z
+fly= REAL003088
 
 id= REAL001340
 te= Bremekanikk
@@ -25407,9 +25406,16 @@ id= REAL003088
 te= Helsefysikk
 ba= nk
 ba= nf
+bf= Strålingsfysikk
+bf= Strålehygiene
+so= REAL006137
 nn= Helsefysikk
+nn= Strålingsfysikk
+nn= Strålehygiene
 en= Health physics
+de=  læren om de biologiske virkningene av ioniserende stråling (røntgenstråler, radioaktivitet m.m.) og om forebyggelse av stråleskader [SNL]
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-24T14:25:59Z
 
 id= REAL003089
 te= Kjemiske strukturer
@@ -45515,6 +45521,7 @@ te= Arktiske havområder
 ba= nb
 so= REAL031949
 nn= Arktiske havområde
+en= Arctic seas
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-23T16:09:10Z
 st= REAL018114
@@ -49947,7 +49954,7 @@ ba= nf
 bf= Strålebiologi
 bf= Strålingsbiologi
 bf= Strålingsbiofysikk
-so= REAL009236
+so= REAL003088
 nn= Strålebiologi
 nn= Radiobiologi
 nn= Strålingsbiologi
@@ -57392,6 +57399,7 @@ te= Arktisk vegetasjon
 ba= nb
 ba= nq
 nn= Arktisk vegetasjon
+en= Arctic vegetation
 tio= 2014-08-25T00:00:00Z
 st= REAL022984
 
@@ -69694,6 +69702,7 @@ te= Akustiske metoder
 ba= nb
 no= i biologi/havforskning
 nn= Akustiske metodar
+en= Acoustic methods
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-23T16:24:50Z
 
@@ -75411,13 +75420,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009236
 te= Strålingsfysikk
-ba= nk
-ba= nf
-so= REAL006137
-nn= Strålingsfysikk
 de= del av fysikken som omfatter utsendelse, forplantning, absorpsjon og virkning av radioaktiv og annen ioniserende stråling, spesielt virkning av ioniserende stråling på organisk stoff [SNL]
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-07T19:23:29Z
+tis= 2018-01-24T14:25:40Z
+fly= REAL003088
 
 id= REAL009237
 te= Dataindustri
@@ -125507,8 +125514,9 @@ st= REAL031946
 
 id= REAL031947
 te= Padling
+bf= 🛶
 tio= 2018-01-23T15:46:24Z
-tie= 2018-01-23T15:46:24Z
+tie= 2018-01-24T14:15:48Z
 st= REAL031948
 
 id= REAL031949
