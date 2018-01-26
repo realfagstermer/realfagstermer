@@ -90,6 +90,7 @@ ba= ns
 nn= Cellesyklus
 en= Cell cycle
 tio= 2014-08-25T00:00:00Z
+st= REAL031952
 
 id= REAL000016
 te= Mikroreaksjoner
@@ -5064,6 +5065,7 @@ st= REAL016240
 st= REAL024731
 st= REAL026157
 st= REAL027322
+st= REAL031964
 
 id= REAL000621
 te= Antarktisk geofysikk
@@ -23417,6 +23419,7 @@ en= Jellyfish
 en= Jellies
 en= Jellyfishes
 tio= 2014-08-25T00:00:00Z
+st= REAL031956
 
 id= REAL002855
 te= Landformer
@@ -23771,6 +23774,7 @@ st= REAL026006
 st= REAL026308
 st= REAL028464
 st= REAL029837
+st= REAL031959
 
 id= REAL002887
 te= Mappeevaluering
@@ -24318,6 +24322,7 @@ st= REAL031116
 st= REAL031205
 st= REAL031528
 st= REAL031593
+st= REAL031954
 
 id= REAL002959
 te= Syntetiske polymerer
@@ -25413,7 +25418,7 @@ nn= Helsefysikk
 nn= Strålingsfysikk
 nn= Strålehygiene
 en= Health physics
-de=  læren om de biologiske virkningene av ioniserende stråling (røntgenstråler, radioaktivitet m.m.) og om forebyggelse av stråleskader [SNL]
+de= læren om de biologiske virkningene av ioniserende stråling (røntgenstråler, radioaktivitet m.m.) og om forebyggelse av stråleskader [SNL]
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-24T14:25:59Z
 
@@ -56420,6 +56425,7 @@ ba= ngh
 nn= Samferdsle
 nn= Samferdsel
 tio= 2014-08-25T00:00:00Z
+st= REAL031965
 
 id= REAL006897
 te= Skriveregler
@@ -57272,6 +57278,7 @@ ba= nq
 nn= Torvmyrer
 nn= Torvmyrar
 tio= 2014-08-25T00:00:00Z
+st= REAL031962
 
 id= REAL007001
 te= Naturlegemidler
@@ -59127,6 +59134,7 @@ en= Feces
 en= Feaces
 tio= 2014-08-25T00:00:00Z
 st= REAL020010
+st= REAL031951
 
 id= REAL007232
 te= Propan
@@ -69761,6 +69769,7 @@ ba= nk
 nn= Studietilhøve
 nn= Studieforhold
 tio= 2014-08-25T00:00:00Z
+st= REAL031960
 
 id= REAL008540
 te= Moduli
@@ -75158,6 +75167,7 @@ id= REAL009202
 te= Vektorarkitektur
 ba= ni
 nn= Vektorarkitektur
+en= Vector architecture
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009203
@@ -77442,6 +77452,7 @@ en= Fertilizer
 tio= 2014-08-25T00:00:00Z
 st= REAL017055
 st= REAL020607
+st= REAL031953
 
 id= REAL009501
 te= Akkvisisjon
@@ -86394,6 +86405,7 @@ st= REAL022020
 st= REAL023123
 st= REAL024168
 st= REAL025082
+st= REAL031958
 
 id= REAL010591
 te= Grenseverdiproblemer
@@ -92719,6 +92731,7 @@ tio= 2014-08-25T00:00:00Z
 st= REAL021758
 st= REAL029938
 st= REAL031925
+st= REAL031955
 
 id= REAL011427
 te= Lineær regresjon
@@ -94179,6 +94192,7 @@ te= Teleoster
 ba= nb
 nn= Teleostar
 tio= 2014-08-25T00:00:00Z
+st= REAL031963
 
 id= REAL011608
 te= Creutzfeld jakob
@@ -97417,6 +97431,7 @@ nn= Mikrometeorittar
 en= Micrometeorites
 tio= 2014-08-25T00:00:00Z
 tie= 2015-01-23T00:00:00Z
+st= REAL031957
 
 id= REAL011991
 te= Koronaen
@@ -110298,6 +110313,7 @@ nn= Rettslære
 tio= 2014-08-25T00:00:00Z
 st= REAL014296
 st= REAL024828
+st= REAL031961
 
 id= REAL013239
 te= Rettsinformatikk
