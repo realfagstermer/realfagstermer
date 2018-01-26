@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - pip install -U -r requirements.txt --process-dependency-links
+  build:
+    commands:
+      - doit build-core build-extras
+
