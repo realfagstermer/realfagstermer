@@ -387,12 +387,14 @@ def task_stats():
 
         for featureName in features.keys():
 
-            features[featureName] = int(g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+            vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
             PREFIX mads: <http://www.loc.gov/mads/rdf/v1#>
             SELECT (COUNT(DISTINCT ?o) AS ?c)
             WHERE {
               ?s skos:%s ?o
-            }""" % featureName).bindings[0].values()[0].value)
+            }""" % featureName).bindings[0].values()
+
+            features[featureName] = int(next(vals).value)
 
         terms = {}
         for triple in g.triples_choices((None, [rdflib.namespace.SKOS.prefLabel, rdflib.namespace.SKOS.altLabel], None)):
@@ -408,12 +410,13 @@ def task_stats():
 
         for facetName, facet in facets.items():
 
-            facets[facetName]['concepts'] = int(g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+            vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
             PREFIX ubo: <http://data.ub.uio.no/onto#>
             SELECT (COUNT(DISTINCT ?s) AS ?c)
             WHERE {
               ?s a ubo:%s .
-            }""" % (facetName)).bindings[0].values()[0].value)
+            }""" % (facetName)).bindings[0].values()
+            facets[facetName]['concepts'] = int(next(vals).value)
 
             sumConceptsWithStrings += facets[facetName]['concepts']
 
@@ -424,23 +427,25 @@ def task_stats():
 
             for langName in facet['prefLabels'].keys():
 
-                facets[facetName]['prefLabels'][langName] = int(g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+                vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
                 PREFIX ubo: <http://data.ub.uio.no/onto#>
                 SELECT (COUNT(DISTINCT ?o) AS ?c)
                 WHERE {
                   ?s a ubo:%s .
                   ?s skos:prefLabel ?o .
                   FILTER(langMatches(lang(?o), "%s"))
-                }""" % (facetName, langName)).bindings[0].values()[0].value)
+                }""" % (facetName, langName)).bindings[0].values()
+                facets[facetName]['prefLabels'][langName] = int(next(vals).value)
 
-                facets[facetName]['altLabels'][langName] = int(g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+                vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
                 PREFIX ubo: <http://data.ub.uio.no/onto#>
                 SELECT (COUNT(DISTINCT ?o) AS ?c)
                 WHERE {
                   ?s a ubo:%s .
                   ?s skos:altLabel ?o .
                   FILTER(langMatches(lang(?o), "%s"))
-                }""" % (facetName, langName)).bindings[0].values()[0].value)
+                }""" % (facetName, langName)).bindings[0].values()
+                facets[facetName]['altLabels'][langName] = int(next(vals).value)
 
                 facets[facetName]['terms'] += facets[facetName]['prefLabels'][langName] + facets[facetName]['altLabels'][langName]
 
