@@ -86874,12 +86874,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010660
 te= Prinsipalkomponentanalyse
 ba= ni
+bf= Hovedkomponentanalyse
 ak= PCA
 nn= Prinsipalkomponentanalyse
 nn= PCA
 en= Principal component analysis
 tio= 2014-08-25T00:00:00Z
-tie= 2015-01-26T00:00:00Z
+tie= 2018-01-27T02:01:33Z
 
 id= REAL010661
 te= Binærtrær
@@ -88116,14 +88117,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-02-12T00:00:00Z
 
 id= REAL010827
-te= Mimd
+te= MIMD
 ba= ni
 no= Multiple instruction stream, multiple data stream
-nn= Mimd
+nn= MIMD
 en= Multiple instruction, multiple data
 en= Multiple instruction stream, multiple data stream
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-12T00:00:00Z
+tie= 2018-01-27T01:20:07Z
 
 id= REAL010828
 te= Bygningsstein
@@ -89011,9 +89012,9 @@ bf= Brannvegger
 nn= Brannmurar
 nn= Brannveggar
 nn= Brannvegger
-en= Fire wall
+en= Firewalls
 tio= 2014-08-25T00:00:00Z
-tie= 2015-07-10T11:35:17Z
+tie= 2018-01-27T02:35:51Z
 
 id= REAL010945
 te= Akkresjon
