@@ -4924,3 +4924,35 @@ te= Titan (måne)
 tio= 2018-01-23T16:42:31Z
 tie= 2018-01-23T16:43:21Z
 
+id= REAL031966
+te= Bohuslän
+nn= Bohuslän
+en= Bohuslän
+de= landskap i Sverige
+tio= 2018-01-29T14:27:38Z
+tie= 2018-01-29T14:28:07Z
+
+id= REAL031967
+te= Osterøy
+nn= Osterøy
+en= Osterøy
+de= øy i Hordaland
+tio= 2018-01-29T14:28:42Z
+tie= 2018-01-29T14:29:26Z
+
+id= REAL031968
+te= Hemsedal
+nn= Hemsedal
+en= Hemsedal
+de= dalføre og kommune i Buskerud
+tio= 2018-01-29T14:30:07Z
+tie= 2018-01-29T14:30:45Z
+
+id= REAL031969
+te= Follo
+nn= Follo
+en= Follo
+de= distrikt i Akershus
+tio= 2018-01-29T14:32:39Z
+tie= 2018-01-29T14:34:31Z
+
