@@ -6026,10 +6026,12 @@ st= REAL017604
 id= REAL000745
 te= Elvesletter
 ba= nc
+bf= Alluvialsletter
 nn= Elvesletter
 en= Floodplains
 en= Flood plains
 tio= 2014-08-25T00:00:00Z
+tie= 2018-01-31T21:55:08Z
 
 id= REAL000747
 te= Studiekvalitet
