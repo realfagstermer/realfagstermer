@@ -10863,10 +10863,15 @@ ba= nb
 bf= Genitalier
 bf= Kvinnelige kjønnsorganer
 bf= Mannlige kjønnsorganer
+bf= Forplantningsorganer
 nn= Kjønnsorgan
 nn= Genitalia
 nn= Kvinnelege kjønnsorgan
 nn= Mannlege kjønnsorgan
+nn= Forplantingsorgan
+nn= Forplantningsorgan
+nn= Økslingsorgan
+en= Sex organs
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T16:02:00Z
 
@@ -12354,12 +12359,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001517
 te= Forskningsprosjekter
-ba= ne
-ba= ngh
-ba= ns
-nn= Forskingsprosjekt
-en= Research projects
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-05T09:52:33Z
+fly= REAL006010
 
 id= REAL001518
 te= Overgangssoner
@@ -17715,12 +17717,9 @@ tie= 2014-09-29T00:00:00Z
 
 id= REAL002175
 te= Forplantningsorganer
-ba= nb
-nn= Forplantingsorgan
-nn= Forplantningsorgan
-nn= Økslingsorgan
-en= Sex organs
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-05T09:45:22Z
+fly= REAL001324
 
 id= REAL002176
 te= Trykk
@@ -18215,10 +18214,9 @@ st= REAL025435
 
 id= REAL002242
 te= Reseptlesing
-ba= ne
-nn= Reseptlesing
 tio= 2014-08-25T00:00:00Z
-st= REAL017914
+tis= 2018-02-05T10:04:48Z
+fly= REAL003331
 
 id= REAL002243
 te= Klyngesystemer
@@ -27219,8 +27217,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003331
 te= Resepter
 ba= ne
+bf= Forskrivning
+bf= Reseptlesing
 nn= Reseptar
+nn= Forskriving
+nn= Reseptlesing
 tio= 2014-08-25T00:00:00Z
+st= REAL017914
 
 id= REAL003332
 te= Muskelvev
@@ -46487,10 +46490,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005726
 te= Forråtnelse
-ba= nb
-nn= Rotning
-en= Biodegradation
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-05T09:46:43Z
+fly= REAL011768
 
 id= REAL005727
 te= Network file system
@@ -48562,11 +48564,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005981
 te= Forplantningsøkologi
-ba= nb
-nn= Forplantingsøkologi
-nn= Forplantningsøkologi
-nn= Økslingsøkologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-05T09:44:40Z
+fly= REAL006964
 
 id= REAL005982
 te= Ammoniakksyntese
@@ -48783,10 +48783,13 @@ ba= nq
 ba= ns
 bf= Forsking
 bf= Forskningsarbeid
+bf= Forskningsprosjekter
 so= REAL031771
 nn= Forsking
 nn= Forskingsarbeid
+nn= Forskingsprosjekt
 en= Research
+en= Research projects
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-26T19:01:44Z
 st= REAL014172
@@ -56910,7 +56913,11 @@ st= REAL014640
 id= REAL006964
 te= Reproduksjonsøkologi
 ba= nb
+bf= Forplantningsøkologi
 nn= Reproduksjonsøkologi
+nn= Forplantingsøkologi
+nn= Forplantningsøkologi
+nn= Økslingsøkologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006965
@@ -57707,15 +57714,18 @@ nn= Lagrangepunktet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007068
-te= Forstørrelsesglass
+te= Luper
 ba= ns
-bf= Luper
+bf= Forstørrelsesglass
+nn= Luper
 nn= Forstørringsglas
 nn= Aukeglas
-nn= Luper
+en= Dissecting microscopes
 en= Magnifying glasses
 en= Hard lenses
+en= Stereo microscopes
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-05T10:11:46Z
 st= REAL030049
 
 id= REAL007069
@@ -62643,9 +62653,9 @@ en= Fusion reactors
 en= Nuclear fusion
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-04T01:29:22Z
-st= REAL029839
-st= REAL027347
 st= REAL024669
+st= REAL027347
+st= REAL029839
 
 id= REAL007672
 te= Matavfall
@@ -89489,9 +89499,9 @@ fly= REAL006282
 
 id= REAL011011
 te= Forskrivning
-ba= ne
-nn= Forskriving
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-05T10:04:10Z
+fly= REAL003331
 
 id= REAL011012
 te= Kosmisk astrofysikk
@@ -95506,8 +95516,10 @@ ba= nb
 ba= ngh
 bf= Nedbryting
 bf= Biologisk nedbrytning
+bf= Forråtnelse
 so= REAL013609
 nn= Nedbryting
+nn= Rotning
 en= Biodegradation
 en= Degradation
 de= Biologisk nedbrytning
