@@ -23,6 +23,7 @@ ba= nf
 ba= ns
 bf= Kvasivitenskap
 bf= Psevdovitenskap
+en= Pseudoscience
 tio= 2014-08-25T00:00:00Z
 st= REAL026608
 st= REAL028789

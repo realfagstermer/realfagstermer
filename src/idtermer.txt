@@ -3630,6 +3630,7 @@ id= REAL000456
 te= Konodonter
 ba= nc
 nn= Konodontar
+en= Conodonts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000457
@@ -7122,6 +7123,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000888
 te= Grunnvarme
+en= Ground source heating
+en= Ground heating
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-12T13:23:00Z
 tis= 2018-02-12T13:23:22Z
@@ -8492,6 +8495,7 @@ te= Havbunnspredning
 ba= nc
 ba= ngh
 nn= Havbotnspreiing
+en= Seafloor spreading
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001040
@@ -11212,9 +11216,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001372
 te= Broraprosjektet
-ba= nc
-nn= Broraprosjektet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-12T22:02:42Z
 
 id= REAL001373
 te= Rekursive algoritmer
@@ -16078,6 +16081,8 @@ id= REAL001990
 te= Gruvehistorie
 ba= nc
 nn= Gruvehistorie
+en= History of mining
+en= Mining history
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001991
@@ -20179,6 +20184,7 @@ id= REAL002478
 te= Industrimineraler
 ba= nc
 nn= Industrimineral
+en= Industrial minerals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002479
@@ -20427,6 +20433,7 @@ nn= Grytehòlsjøar
 nn= Gryteholsjøar
 nn= Daudisgroper
 nn= Dødisgroper
+en= Kettles
 tio= 2014-08-25T00:00:00Z
 tie= 2017-06-19T12:10:17Z
 
@@ -22387,6 +22394,7 @@ ba= nc
 bf= Isotopteknikk
 nn= Isotopanalysar
 nn= Isotopteknikk
+en= Isotope analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002738
@@ -23554,6 +23562,7 @@ tie= 2014-11-28T00:00:00Z
 
 id= REAL002870
 te= Konnerudverket
+en= Konnerud Mines
 tio= 2014-08-25T00:00:00Z
 tis= 2018-02-12T18:48:43Z
 
@@ -25247,6 +25256,7 @@ id= REAL003071
 te= Gipsforekomster
 ba= nc
 nn= Gipsførekomstar
+en= Gypsum occurrences
 tio= 2014-08-25T00:00:00Z
 st= REAL026363
 
@@ -30257,6 +30267,7 @@ ba= ni
 ba= nc
 ba= ns
 nn= Jorderosjon
+en= Soil erosion
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003692
@@ -31290,6 +31301,7 @@ id= REAL003812
 te= Glimmermineraler
 ba= nc
 nn= Glimmermineral
+en= Mica minerals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003813
@@ -37915,6 +37927,7 @@ bf= Jordflyt
 bf= Jordkryp
 bf= Solifluksjon
 nn= Jordsig
+en= Solifluction
 de= langsom glidning av vannholdige jordmasser på hellende flate under påvirkning av tyngdekraften [Norsk geologisk ordbok]
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-12T14:30:54Z
@@ -44518,6 +44531,7 @@ te= Kildebergarter
 ba= nc
 nn= Kjeldebergartar
 nn= Kjeldebergarter
+en= Source rocks
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005481
@@ -45611,6 +45625,8 @@ ba= nm
 bf= Fundamenteringslære
 nn= Fundamentering
 nn= Fundamenteringslære
+en= Foundation engineering
+en= Foundation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005626
@@ -47285,6 +47301,7 @@ te= Kontinentale bergarter
 ba= nc
 nn= Kontinentale bergartar
 nn= Kontinentale bergarter
+en= Continental rocks
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005821
@@ -47787,6 +47804,7 @@ id= REAL005880
 te= Glasiale prosesser
 ba= nc
 nn= Glasiale prosessar
+en= Glacial processes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005881
@@ -48365,6 +48383,8 @@ te= Positroner
 ba= nk
 ba= nf
 nn= Positron
+en= Positrons
+en= Antielectrons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005952
@@ -49522,6 +49542,7 @@ bf= Uredelighet
 nn= Fusk
 nn= Juks
 nn= Ureielegheit
+en= Cheating
 tio= 2014-08-25T00:00:00Z
 st= REAL018640
 st= REAL019500
@@ -54353,6 +54374,8 @@ te= Industrihistorie
 ba= nk
 ba= nc
 nn= Industrihistorie
+en= Industrial history
+en= History of industry
 tio= 2014-08-25T00:00:00Z
 st= REAL014748
 
@@ -58398,6 +58421,10 @@ ba= nb
 ba= nf
 ba= ngh
 nn= Energiøkonomisering
+en= Energy conservation
+en= Energy efficiency
+en= Efficient energy use
+en= Energy-saving
 tio= 2014-08-25T00:00:00Z
 st= REAL024284
 
@@ -60692,6 +60719,7 @@ id= REAL007445
 te= Dvergnovaer
 ba= na
 nn= Dvergnovaer
+en= Dwarf novae
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007446
@@ -61516,6 +61544,8 @@ so= REAL004138
 ut= REAL011645
 ut= REAL001275
 nn= Gruver
+en= Mines
+en= Pits
 de= områder hvor man bryter eller har brutt ut økonomisk viktige mineraler, malmer eller bergarter, enten ved dagbrudd eller underjordsdrift [Norsk geologisk ordbok]
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-12T14:16:15Z
@@ -67771,6 +67801,7 @@ id= REAL008313
 te= Grunnvannsstrøm
 ba= nc
 nn= Grunnvasstraum
+en= Groundwater flow
 tio= 2014-08-25T00:00:00Z
 st= REAL021366
 
@@ -70068,6 +70099,7 @@ id= REAL008575
 te= Hornblende
 ba= nc
 nn= Hornblende
+en= Hornblende
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008576
@@ -71790,6 +71822,7 @@ te= Kjerneprøver
 ba= nc
 nn= Kjerneprøver
 nn= Kjerneprøvar
+en= Core samples
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008789
@@ -72240,6 +72273,7 @@ id= REAL008850
 te= Kjemisk forvitring
 ba= nc
 nn= Kjemisk forvitring
+en= Chemical weathering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008851
@@ -77662,6 +77696,8 @@ te= Innsjøsedimenter
 ba= nb
 ba= nc
 nn= Innsjøsediment
+en= Lake sediments
+en= Lacustrine sediments
 tio= 2014-08-25T00:00:00Z
 st= REAL016198
 
@@ -78728,6 +78764,8 @@ ba= nc
 bf= Granulittfacies
 nn= Granulittar
 nn= Granulittfacies
+en= Granulites
+en= Granulite facies
 tio= 2014-08-25T00:00:00Z
 tie= 2017-05-11T14:06:45Z
 st= REAL023180
@@ -93823,6 +93861,7 @@ te= Karst
 ba= nc
 ba= ns
 nn= Karst
+en= Karst
 tio= 2014-08-25T00:00:00Z
 st= REAL014575
 st= REAL018075
@@ -94178,6 +94217,7 @@ te= Fureflagellater
 ba= nb
 ba= nc
 nn= Fureflagellatar
+en= Dinophyceaes
 tio= 2014-08-25T00:00:00Z
 st= REAL029121
 
@@ -95221,6 +95261,7 @@ bf= Coccolitter
 so= REAL031484
 nn= Kokkolittar
 nn= Coccolittar
+en= Coccoliths
 de= Mikroskopiske, skiveformete kalkplater, ca. 1–30 μm i diameter, dannet som skallplater av planktoniske kalkflagellater. Disse er en bergartsdannende bestanddel i kalkstein/kalksediment.
 tio= 2014-08-25T00:00:00Z
 tie= 2016-12-06T12:08:15Z
@@ -95852,6 +95893,7 @@ ba= nc
 bf= Kontinentskråningen
 ot= REAL005523
 nn= Kontinentalskråning
+en= Continental slope
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-12T17:56:30Z
 
