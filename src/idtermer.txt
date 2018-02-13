@@ -7123,8 +7123,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000888
 te= Grunnvarme
-en= Ground source heating
-en= Ground heating
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-12T13:23:00Z
 tis= 2018-02-12T13:23:22Z
@@ -9451,13 +9449,9 @@ tie= 2017-10-31T21:07:34Z
 
 id= REAL001161
 te= Numerisk simulering
-ba= ni
-ba= ngh
-ba= nm
-ba= ns
-nn= Numerisk simulering
-en= Numerical simulation
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-13T20:58:28Z
+fly= REAL002496
 
 id= REAL001162
 te= Tsjerenkovstråling
@@ -9577,10 +9571,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001179
 te= Interstellart stoff
-ba= na
-nn= Interstellart stoff
 tio= 2014-08-25T00:00:00Z
-st= REAL015183
+tis= 2018-02-13T14:12:14Z
+fly= REAL005998
 
 id= REAL001180
 te= Grafiske systemer
@@ -9805,8 +9798,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001207
 te= Interstellare molekyler
 ba= na
+ot= REAL005998
+ot= REAL012861
 nn= Interstellare molekyl
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-13T14:13:21Z
 
 id= REAL001208
 te= Frukter
@@ -15334,9 +15330,9 @@ tis= 2018-02-12T20:49:45Z
 
 id= REAL001888
 te= Interstellare partikler
-ba= nk
-nn= Interstellare partiklar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-13T14:12:07Z
+fly= REAL005998
 
 id= REAL001889
 te= Analytisk geokjemi
@@ -15721,10 +15717,9 @@ st= REAL023652
 
 id= REAL001944
 te= Optisk mikroskopi
-ba= nc
-ba= ns
-nn= Optisk mikroskopi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-13T20:31:43Z
+fly= REAL005331
 
 id= REAL001945
 te= Dynamisk logikk
@@ -20332,8 +20327,15 @@ id= REAL002496
 te= Numerisk modellering
 ba= nc
 ba= ngh
+bf= Numerisk simulering
+no= inkl. eng. computer simulation
 nn= Numerisk modellering
+nn= Numerisk simulering
+nn= Computer simulation
+en= Numerical modelling
+en= Numerical simulation
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-13T20:59:02Z
 
 id= REAL002498
 te= Infrarøde spektra
@@ -23562,7 +23564,6 @@ tie= 2014-11-28T00:00:00Z
 
 id= REAL002870
 te= Konnerudverket
-en= Konnerud Mines
 tio= 2014-08-25T00:00:00Z
 tis= 2018-02-12T18:48:43Z
 
@@ -38041,9 +38042,15 @@ id= REAL004647
 te= Datamodeller
 ba= ni
 ba= ns
+bf= Datamodellering
+no= OBS: "computer simulation" skal ikke hit, men til numerisk modellering e.l.
 nn= Datamodellar
+nn= Datamodellering
 en= Data models
+en= Data modeling
+de= beskrivelse av datastrukturer i tabeller e.l.
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-13T20:56:29Z
 
 id= REAL004648
 te= Polymerisasjonskontroll
@@ -43375,8 +43382,10 @@ id= REAL005331
 te= Lysmikroskopi
 ba= nk
 ba= nb
+bf= Optisk mikroskopi
 nn= Ljosmikroskopi
 nn= Lysmikroskopi
+nn= Optisk mikroskopi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005332
@@ -48705,8 +48714,25 @@ tis= 2017-10-28T12:59:27Z
 id= REAL005998
 te= Interstellart medium
 ba= na
+bf= Interstellar materie
+bf= Interstellart støv
+bf= Interstellare partikler
+bf= Interstellart stoff
+ak= ISM
+ut= REAL001207
 nn= Interstellart medium
+nn= Interstellar materie
+nn= Interstellart støv
+nn= Interstellare partiklar
+nn= Interstellart stoff
+en= Interstellar medium
+en= ISM
+en= Interstellar dust
+de= Stoffet mellem stjernene i en galakse kalles det interstellare medium og består av 99 % gass og 1 % støv (Niels Bohr Institutets fysikleksikon)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-13T14:15:10Z
+st= REAL019511
+st= REAL023758
 
 id= REAL005999
 te= Fugleliv
@@ -51841,11 +51867,9 @@ fly= REAL013660
 
 id= REAL006361
 te= Datamodellering
-ba= ngh
-ba= ns
-nn= Datamodellering
-en= Data modeling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-13T20:56:42Z
+fly= REAL004647
 
 id= REAL006362
 te= Nøytralinoer
@@ -83311,6 +83335,7 @@ ba= nc
 ba= ngh
 ba= nq
 ba= ns
+ut= REAL031970
 nn= Reiser
 tio= 2014-08-25T00:00:00Z
 st= REAL016043
@@ -90735,9 +90760,8 @@ st= REAL027440
 
 id= REAL011170
 te= Interstellart rom
-ba= na
-nn= Interstellart rom
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-13T14:13:56Z
 
 id= REAL011171
 te= Elliptiske kurver
@@ -93945,8 +93969,11 @@ te= Oljepolitikk
 ba= nk
 ba= nb
 ba= nc
+bf= Petroleumspolitikk
 nn= Oljepolitikk
+nn= Petroleumspolitikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-13T20:37:24Z
 st= REAL018719
 st= REAL018831
 st= REAL022155
@@ -95991,10 +96018,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011815
 te= Modningsstudier
-ba= nc
-nn= Mogningsstudiar
-nn= Modningsstudiar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-13T21:04:31Z
 
 id= REAL011816
 te= Halsen
@@ -97577,10 +97602,13 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-04-05T13:59:55Z
 
 id= REAL012013
-te= Oljeøkonomi
+te= Petroleumsøkonomi
 ba= nc
+bf= Oljeøkonomi
+nn= Petroleumsøkonomi
 nn= Oljeøkonomi
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-13T20:37:09Z
 st= REAL021283
 
 id= REAL012014
@@ -106446,22 +106474,16 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012860
 te= Interstellar materie
-ba= na
-bf= Interstellart støv
-ak= ISM
-nn= Interstellar materie
-nn= Interstellart støv
-en= Interstellar medium
-en= ISM
-en= Interstellar dust
 tio= 2014-08-25T00:00:00Z
-st= REAL019511
-st= REAL023758
+tis= 2018-02-13T14:11:39Z
+fly= REAL005998
 
 id= REAL012861
 te= Interstellare aminosyrer
+ut= REAL001207
 nn= Interstellare aminosyrer
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-13T14:13:21Z
 
 id= REAL012864
 te= Braner
@@ -125527,4 +125549,16 @@ te= Nordishavet
 so= REAL005607
 tio= 2018-01-23T16:09:10Z
 tie= 2018-01-23T16:09:12Z
+
+id= REAL031970
+te= Bilturer
+ot= REAL010194
+nn= Bilturar
+en= Road trips
+en= Automobile travel
+en= Automobile traveling
+en= Traveling by car
+tio= 2018-02-13T13:44:43Z
+tie= 2018-02-13T13:50:55Z
+st= REAL031971
 
