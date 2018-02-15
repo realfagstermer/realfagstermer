@@ -14442,10 +14442,11 @@ tie= 2017-02-21T19:08:48Z
 tis= 2017-02-21T19:08:48Z
 
 id= REAL001777
-te= Sneglehus
+te= Sneglehuset
 ba= nb
-nn= Sniglehus
+nn= Sniglehuset
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-15T14:54:36Z
 
 id= REAL001778
 te= Bregner
