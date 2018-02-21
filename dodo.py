@@ -1,3 +1,4 @@
+# vi:autoindent:sw=4:ts=4:et
 # encoding=utf8
 
 import logging
@@ -389,12 +390,15 @@ def task_stats():
 
             vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
             PREFIX mads: <http://www.loc.gov/mads/rdf/v1#>
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
             SELECT (COUNT(DISTINCT ?o) AS ?c)
             WHERE {
               ?s skos:%s ?o
+              FILTER NOT EXISTS { ?s owl:deprecated true }
             }""" % featureName).bindings[0].values()
 
-            features[featureName] = int(next(vals).value)
+            features[featureName] = int(list(vals)[0].value)
 
         terms = {}
         for triple in g.triples_choices((None, [rdflib.namespace.SKOS.prefLabel, rdflib.namespace.SKOS.altLabel], None)):
@@ -408,15 +412,29 @@ def task_stats():
         sumConcepts = 0
         sumConceptsWithStrings = 0
 
+        vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+            PREFIX ubo: <http://data.ub.uio.no/onto#>
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+            SELECT (COUNT(DISTINCT ?s) AS ?c)
+            WHERE {
+              ?s owl:deprecated true .
+        }""").bindings[0].values()
+        deprecatedConcepts = int(list(vals)[0].value)
+
         for facetName, facet in facets.items():
+            print(facetName)
 
             vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
             PREFIX ubo: <http://data.ub.uio.no/onto#>
+            PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
             SELECT (COUNT(DISTINCT ?s) AS ?c)
             WHERE {
               ?s a ubo:%s .
+              FILTER NOT EXISTS { ?s owl:deprecated true } .
             }""" % (facetName)).bindings[0].values()
-            facets[facetName]['concepts'] = int(next(vals).value)
+            facets[facetName]['concepts'] = int(list(vals)[0].value)
 
             sumConceptsWithStrings += facets[facetName]['concepts']
 
@@ -429,27 +447,34 @@ def task_stats():
 
                 vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
                 PREFIX ubo: <http://data.ub.uio.no/onto#>
+                PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
                 SELECT (COUNT(DISTINCT ?o) AS ?c)
                 WHERE {
                   ?s a ubo:%s .
                   ?s skos:prefLabel ?o .
                   FILTER(langMatches(lang(?o), "%s"))
+                  FILTER NOT EXISTS { ?s owl:deprecated true } .
                 }""" % (facetName, langName)).bindings[0].values()
-                facets[facetName]['prefLabels'][langName] = int(next(vals).value)
+                facets[facetName]['prefLabels'][langName] = int(list(vals)[0].value)
 
                 vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
                 PREFIX ubo: <http://data.ub.uio.no/onto#>
+                PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
                 SELECT (COUNT(DISTINCT ?o) AS ?c)
                 WHERE {
                   ?s a ubo:%s .
                   ?s skos:altLabel ?o .
                   FILTER(langMatches(lang(?o), "%s"))
+                  FILTER NOT EXISTS { ?s owl:deprecated true } .
                 }""" % (facetName, langName)).bindings[0].values()
-                facets[facetName]['altLabels'][langName] = int(next(vals).value)
+                facets[facetName]['altLabels'][langName] = int(list(vals)[0].value)
 
                 facets[facetName]['terms'] += facets[facetName]['prefLabels'][langName] + facets[facetName]['altLabels'][langName]
 
         return {
+            'deprecatedConcepts': deprecatedConcepts,
             'concepts': sumConceptsWithStrings,
             'conceptsWithoutStrings': sumConcepts,
             'terms': terms,
