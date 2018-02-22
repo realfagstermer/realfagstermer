@@ -503,8 +503,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030142
 te= Nedbørskart
-ba= na
 tio= 2015-02-20T13:08:04Z
+tis= 2018-02-22T15:01:19Z
 
 id= REAL030143
 te= Planetkart

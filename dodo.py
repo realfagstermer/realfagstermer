@@ -370,13 +370,17 @@ def task_stats():
         mappingUris = {
             'agrovoc': 'http://aims.fao.org/aos/agrovoc/',
             'ddc': 'http://dewey.info/',
-            'tekord': 'http://data.ub.uio.no/tekord/'
+            'tekord': 'http://data.ub.uio.no/tekord/',
+            'wikidata': 'http://www.wikidata.org/',
+            'humord': 'http://data.ub.uio.no/humord',
         }
 
         mappings = {
             'agrovoc': 0,
             'ddc': 0,
-            'tekord': 0
+            'tekord': 0,
+            'humord': 0,
+            'wikidata': 0,
         }
 
         for x in g.triples_choices((None, [rdflib.namespace.SKOS.exactMatch, rdflib.namespace.SKOS.closeMatch, rdflib.namespace.SKOS.relatedMatch, rdflib.namespace.SKOS.broadMatch, rdflib.namespace.SKOS.narrowMatch], None)):
