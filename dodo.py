@@ -13,7 +13,6 @@ logger = logging.getLogger()
 from doit import get_var
 from roald import Roald
 from rdflib.graph import Graph, URIRef
-import rdflib.namespace
 import csv
 import time
 import json
@@ -266,13 +265,13 @@ def task_fuseki():
 #         graph = Graph()
 #         graph.load('dist/realfagstermer.ttl', format='turtle')
 #         concepts = {}
-#         for tr in graph.triples_choices((None, [rdflib.namespace.SKOS.prefLabel, rdflib.namespace.SKOS.altLabel], None)):
+#         for tr in graph.triples_choices((None, [SKOS.prefLabel, SKOS.altLabel], None)):
 #             uri = str(tr[0])
 #             term = tr[2].value
 #             lang = tr[2].language
 #             if uri not in concepts:
 #                 concepts[uri] = {'pref': {}, 'alt': {}}
-#             if tr[1] == rdflib.namespace.SKOS.prefLabel:
+#             if tr[1] == SKOS.prefLabel:
 #                 concepts[uri]['pref'][lang] = term
 #             else:
 #                 concepts[uri]['alt'][lang] = concepts[uri]['alt'].get(lang, []) + [term]
@@ -316,6 +315,12 @@ def task_fuseki():
 
 
 def task_stats():
+
+    # Note: We cannot import rdflib namespaces globally because doit
+    # think they are task creator classes because
+    # hasattr(Namespace, 'create_doit_tasks') evaluates to True, since
+    # a namespace can include *any* value.
+    from rdflib.namespace import SKOS
 
     def stats_from_graph(g):
 
@@ -383,7 +388,7 @@ def task_stats():
             'wikidata': 0,
         }
 
-        for x in g.triples_choices((None, [rdflib.namespace.SKOS.exactMatch, rdflib.namespace.SKOS.closeMatch, rdflib.namespace.SKOS.relatedMatch, rdflib.namespace.SKOS.broadMatch, rdflib.namespace.SKOS.narrowMatch], None)):
+        for x in g.triples_choices((None, [SKOS.mappingRelation], None)):
             if type(x[2]) == URIRef:
                 uri = str(x[2])
                 for k, v in mappingUris.items():
@@ -395,7 +400,6 @@ def task_stats():
             vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
             PREFIX mads: <http://www.loc.gov/mads/rdf/v1#>
             PREFIX owl: <http://www.w3.org/2002/07/owl#>
-
             SELECT (COUNT(DISTINCT ?o) AS ?c)
             WHERE {
               ?s skos:%s ?o
@@ -405,7 +409,7 @@ def task_stats():
             features[featureName] = int(list(vals)[0].value)
 
         terms = {}
-        for triple in g.triples_choices((None, [rdflib.namespace.SKOS.prefLabel, rdflib.namespace.SKOS.altLabel], None)):
+        for triple in g.triples_choices((None, [SKOS.prefLabel, SKOS.altLabel], None)):
             lang = triple[2].language
             if lang not in terms:
                 terms[lang] = 0
@@ -427,7 +431,6 @@ def task_stats():
         deprecatedConcepts = int(list(vals)[0].value)
 
         for facetName, facet in facets.items():
-            print(facetName)
 
             vals = g.query(u"""PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
             PREFIX ubo: <http://data.ub.uio.no/onto#>
