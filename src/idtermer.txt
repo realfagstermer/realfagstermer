@@ -870,11 +870,8 @@ tis= 2017-08-24T15:35:40Z
 
 id= REAL000106
 te= Major histocompatibility complex class 2
-ba= nb
-ak= MHC-II
-nn= Vevsameiningsgenkomplekset klasse 2
-nn= MHC
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:42:34Z
 
 id= REAL000107
 te= Symmetriske grupper
@@ -1381,12 +1378,10 @@ st= REAL028504
 
 id= REAL000168
 te= Evodevo
-ba= nb
-bf= Evo-devo
-nn= Evodevo
-nn= Evo-devo
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-30T12:24:38Z
+tis= 2018-02-27T11:37:27Z
+fly= REAL006540
 
 id= REAL000170
 te= Polarhistorie
@@ -4279,11 +4274,19 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000527
 te= Sjøpattedyr
 ba= nb
+bf= Marine sjøpattedyr
+bf= Marine pattedyr
 nn= Sjøpattedyr
+nn= Marine sjøpattedyr
+nn= Marine pattedyr
 tio= 2014-08-25T00:00:00Z
 st= REAL019277
 st= REAL025621
 st= REAL028652
+st= REAL026436
+st= REAL027185
+st= REAL027937
+st= REAL029841
 
 id= REAL000529
 te= Myelinmembraner
@@ -8745,10 +8748,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001065
 te= Fuglevern
-ba= nb
-ba= ngh
-nn= Fuglevern
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T11:59:33Z
 
 id= REAL001066
 te= Aspektorientert programmering
@@ -22008,9 +22009,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002688
 te= Fyringsbriketter
-ba= ngh
-nn= Fyringsbrikettar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:31:41Z
+fly= REAL009487
 
 id= REAL002689
 te= Visjoner
@@ -36044,9 +36045,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004383
 te= Magmatisk differensiasjon
-ba= nc
-nn= Magmatisk differensiasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:39:06Z
+fly= REAL010894
 
 id= REAL004384
 te= Hydrokortison
@@ -37016,11 +37017,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004504
 te= Major histocompatibility complex
-ba= nb
-ak= MHC
-nn= Vevsameiningsgenkomplekset
-nn= MHC
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:42:28Z
 
 id= REAL004505
 te= Kompleks geometri
@@ -43299,12 +43297,10 @@ tis= 2017-06-01T13:44:17Z
 
 id= REAL005310
 te= Ontogenese
-ba= nb
-bf= Ontogeni
-nn= Ontogenese
-nn= Ontogeni
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-22T15:51:05Z
+tis= 2018-02-27T11:39:34Z
+fly= REAL006540
 
 id= REAL005311
 te= Funksjonskropper
@@ -53502,10 +53498,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006528
 te= Magnetiske ertser
-ba= nc
-nn= Magnetiske ertsar
 tio= 2014-08-25T00:00:00Z
-st= REAL019435
+tis= 2018-02-27T12:48:42Z
 
 id= REAL006530
 te= Abaloner
@@ -53587,9 +53581,23 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006540
 te= Utviklingsbiologi
 ba= nb
+bf= Evodevo
+bf= Evo-devo
+bf= Evolusjonær utviklingsbiologi
+bf= Ontogenese
+bf= Ontogeni
 nn= Utviklingsbiologi
+nn= Evodevo
+nn= Evo-devo
+nn= Evolusjonær utviklingsbiologi
+nn= Ontogenese
+nn= Ontogeni
 en= Developmental biology
+en= Evodevo
+en= Evo-devo
+en= Evolutionary developmental biology
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-27T11:39:38Z
 st= REAL018034
 st= REAL027542
 
@@ -55275,9 +55283,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006737
 te= Makrellfiske
-ba= nb
-nn= Makrellfiske
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:45:52Z
+fly= REAL011641
 
 id= REAL006738
 te= Konvekse funksjoner
@@ -57257,9 +57265,8 @@ st= REAL027947
 
 id= REAL006990
 te= Semimikro
-ba= nk
-nn= Semimikro
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:50:13Z
 
 id= REAL006991
 te= Havrett
@@ -69755,7 +69762,9 @@ st= REAL031589
 id= REAL008526
 te= Magnetokalorisk effekt
 ba= nk
+bf= Magnetisk avkjøling
 nn= Magnetokalorisk effekt
+nn= Magnetisk avkjøling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008528
@@ -72905,9 +72914,9 @@ st= REAL014148
 
 id= REAL008913
 te= Marine sjøpattedyr
-ba= nb
-nn= Marine sjøpattedyr
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T11:41:37Z
+fly= REAL000527
 
 id= REAL008914
 te= Karbokationer
@@ -77466,8 +77475,10 @@ te= Biobrensel
 ba= nb
 ba= nf
 ba= ngh
+bf= Fyringsbriketter
 nn= Biobrensel
 nn= Biobrensle
+nn= Fyringsbrikettar
 en= Biofuels
 tio= 2014-08-25T00:00:00Z
 
@@ -78543,10 +78554,11 @@ tio= 2014-08-25T00:00:00Z
 st= REAL021005
 
 id= REAL009618
-te= Makroprosesser
+te= Markov-prosesser
 ba= nm
-nn= Makroprosessar
+nn= Markov-prosessar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-02-27T12:53:50Z
 
 id= REAL009619
 te= Kolatrær
@@ -81183,13 +81195,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009937
 te= Marine pattedyr
-ba= nb
-nn= Marine pattedyr
 tio= 2014-08-25T00:00:00Z
-st= REAL026436
-st= REAL027185
-st= REAL027937
-st= REAL029841
+tis= 2018-02-27T11:42:01Z
+fly= REAL000527
 
 id= REAL009938
 te= Onkologi
@@ -83999,7 +84007,6 @@ st= REAL025451
 st= REAL025756
 st= REAL025915
 st= REAL026983
-st= REAL026986
 st= REAL027006
 st= REAL027360
 st= REAL027500
@@ -85002,9 +85009,8 @@ st= REAL031791
 
 id= REAL010386
 te= Fulbright-stipend
-ba= nk
-nn= Fulbright-stipend
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:30:33Z
 
 id= REAL010387
 te= Personlig digital assistent
@@ -88842,9 +88848,11 @@ te= Magmatisme
 ba= nc
 bf= Magmatiske prosesser
 bf= Magma
+bf= Magmatisk differensiasjon
 nn= Magmatisme
 nn= Magmatiske prosessar
 nn= Magma
+nn= Magmatisk differensiasjon
 en= Magmatism
 en= Magmatic processes
 en= Magma
@@ -94647,7 +94655,9 @@ te= Fiske
 ba= nk
 ba= nb
 ba= ns
+bf= Makrellfiske
 nn= Fiske
+nn= Makrellfiske
 en= Fishing
 tio= 2014-08-25T00:00:00Z
 st= REAL015017
@@ -95325,11 +95335,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011718
 te= Fttc
-ba= ni
 no= Fiber to the curb
-nn= Fttc
-en= Fiber to the curb
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T11:58:00Z
 
 id= REAL011719
 te= Hybride systemer
@@ -95405,9 +95413,9 @@ fly= REAL011757
 
 id= REAL011731
 te= Magnetisk avkjøling
-ba= nk
-nn= Magnetisk avkjøling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:41:29Z
+fly= REAL008526
 
 id= REAL011732
 te= Kommunal kartlegging
@@ -97884,9 +97892,9 @@ st= REAL014407
 
 id= REAL012034
 te= Sildefiske
-ba= nb
-nn= Sildefiske
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:44:46Z
+fly= REAL013666
 
 id= REAL012035
 te= Lokalmiljø
@@ -108596,8 +108604,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013060
 te= Makroanalyser
-nn= Makroanalysar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:49:52Z
 
 id= REAL013061
 te= Marikåper
@@ -109791,21 +109799,20 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013175
 te= Økonomisk operasjonsanalyse
 ba= nm
+bf= Generell økonomisk operasjonsanalyse
 nn= Økonomisk operasjonsanalyse
+nn= Generell økonomisk operasjonsanalyse
 en= Operations research
+en= General operations research
 ms= 90.30
 dw= 330.0151
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013176
 te= Generell økonomisk operasjonsanalyse
-ba= nm
-so= REAL013175
-nn= Generell økonomisk operasjonsanalyse
-en= General operations research
-ms= 90
-dw= 330.0151
 tio= 2014-08-25T00:00:00Z
+tis= 2018-02-27T12:32:57Z
+fly= REAL013175
 
 id= REAL013177
 te= Økonomisk optimering
@@ -117210,7 +117217,9 @@ st= REAL019474
 id= REAL013666
 te= Sildefiskeri
 ba= nb
+bf= Sildefiske
 nn= Sildefiskeri
+nn= Sildefiske
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013667
@@ -125738,4 +125747,12 @@ en= Basin inversion
 de= det fenomen at eldre bergartslag ligger over yngre, lagene ligger opp-ned, som f.eks. i en overbikket fold (Norsk geologisk ordbok)
 tio= 2018-02-22T17:46:23Z
 tie= 2018-02-22T18:08:55Z
+
+id= REAL031976
+te= Sarkomer
+nn= Sarkom
+en= Sarcomas
+de= Uensartet gruppe av kreftsykdommer som utgår fra blant annet knokler, muskler, fettvev, bindevev, blodkar og nerveskjeder (fra nhi.no)
+tio= 2018-02-27T10:35:05Z
+tie= 2018-02-27T10:35:34Z
 
