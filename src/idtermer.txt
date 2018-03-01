@@ -4282,10 +4282,10 @@ nn= Marine pattedyr
 tio= 2014-08-25T00:00:00Z
 st= REAL019277
 st= REAL025621
-st= REAL028652
 st= REAL026436
 st= REAL027185
 st= REAL027937
+st= REAL028652
 st= REAL029841
 
 id= REAL000529
@@ -13126,12 +13126,9 @@ st= REAL027262
 
 id= REAL001607
 te= Entozoa
-ba= nb
-nn= Entozoa
-en= Entozoa
 tio= 2014-08-25T00:00:00Z
-st= REAL024102
-st= REAL026693
+tis= 2018-03-01T14:18:04Z
+fly= REAL005046
 
 id= REAL001608
 te= Korrosjonskontroll
@@ -41242,15 +41239,23 @@ st= REAL022479
 st= REAL024450
 
 id= REAL005046
-te= Endoparasittisme
+te= Endoparasitter
 ba= nb
 bf= Endozoa
-bf= Endoparasitter
-nn= Endoparasittisme
+bf= Entozoa
+bf= Endoparasittisme
 nn= Endoparasittar
+nn= Endoparasittisme
 nn= Endozoa
+nn= Entozoa
+en= Endoparasites
+en= Entozoa
+en= Endoparasitism
+en= Endozoa
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-11T00:00:00Z
+tie= 2018-03-01T14:29:22Z
+st= REAL024102
+st= REAL026693
 
 id= REAL005047
 te= Magnetostratigrafi
