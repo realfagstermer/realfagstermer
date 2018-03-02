@@ -12000,9 +12000,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001466
 te= Matrikspreferanser
-ba= nk
-nn= Matrikspreferansar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:26:33Z
 
 id= REAL001467
 te= Allemannsrett
@@ -13636,13 +13635,9 @@ st= REAL029961
 
 id= REAL001674
 te= Frekvensmodulasjon
-ba= ni
-bf= Frekvensmodulering
-ak= FM
-nn= Frekvensmodulasjon
-nn= Frekvensmodulering
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-07T14:29:14Z
+tis= 2018-03-02T19:19:27Z
 
 id= REAL001675
 te= Atoller
@@ -49957,9 +49952,8 @@ tis= 2017-09-06T14:36:30Z
 
 id= REAL006128
 te= Matriksinterferenser
-ba= nk
-nn= Matriksinterferensar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:26:18Z
 
 id= REAL006129
 te= Deduksjon
@@ -75210,11 +75204,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009190
 te= Maternell vektøkning
-ba= ne
-nn= Maternell vektauke
-en= Maternal weight gain
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-05T00:00:00Z
+tis= 2018-03-02T19:25:16Z
 
 id= REAL009191
 te= Dolomitt
@@ -75644,9 +75636,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009246
 te= O-notasjon
-ba= ni
-nn= O-notasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:33:37Z
 
 id= REAL009247
 te= Gullris
@@ -76797,12 +76788,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009396
 te= Fremmedord
-ba= ne
-ba= ns
-nn= Framandord
-en= Unadopted loanwords
 tio= 2014-08-25T00:00:00Z
-st= REAL017135
+tis= 2018-03-02T19:20:08Z
 
 id= REAL009397
 te= Debris
@@ -80257,7 +80244,6 @@ en= Hydrocarbon exploration
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T14:03:01Z
 st= REAL018170
-st= REAL022092
 st= REAL022359
 st= REAL023907
 st= REAL024310
@@ -111920,12 +111906,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013357
 te= Matematisk astrofysikk
-ba= nm
-nn= Matematisk astrofysikk
-en= Mathematical astrophysics
-ms= 85
-dw= 523.1151
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:24:47Z
 
 id= REAL013358
 te= Økonomi - spill
@@ -116567,7 +116549,6 @@ bf= Slamstrømmer
 so= REAL031690
 so= REAL013623
 so= REAL002576
-so= REAL031863
 nn= Jordskred
 nn= Jordras
 nn= Flomskred
