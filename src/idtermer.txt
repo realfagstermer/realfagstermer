@@ -1737,9 +1737,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000214
 te= Numerisk termodynamikk
-ba= nm
-nn= Numerisk termodynamikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T22:11:07Z
 
 id= REAL000215
 te= Konformasjonsanalyse
@@ -4783,8 +4782,15 @@ fly= REAL005197
 id= REAL000581
 te= Opposisjoneffekten
 ba= na
+bf= Opposisjonseffekten
+bf= Seeliger-effekten
 nn= Opposisjoneffekten
+en= Opposition surge
+en= Opposition effect
+en= Opposition spike
+en= Seeliger effect
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T20:00:38Z
 
 id= REAL000582
 te= Maling
@@ -4954,9 +4960,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000605
 te= Voyager
-ba= na
-nn= Voyager
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T22:08:57Z
 
 id= REAL000606
 te= Avblading
@@ -5043,10 +5048,9 @@ st= REAL022618
 
 id= REAL000617
 te= Maskinen frederic
-ba= ni
-nn= Maskinen frederic
-nn= Maskina frederic
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:38:03Z
+fly= REAL031977
 
 id= REAL000618
 te= Enzyminhibitorer
@@ -5178,10 +5182,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000634
 te= Oksidasjonsreaksjoner
-ba= nk
-nn= Oksidasjonsreaksjonar
-en= Oxidation reactions
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:21:22Z
 
 id= REAL000635
 te= Røykgass
@@ -5653,11 +5655,14 @@ nn= Dataregistrering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000695
-te= Natural organic matter
+te= Naturlig organisk materie
 ba= nk
 ak= NOM
+ut= REAL006601
 nn= Naturleg organisk materiale
+en= Natural Organic Matter
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T20:10:21Z
 
 id= REAL000696
 te= Dypvannskarbonater
@@ -5687,9 +5692,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000700
 te= Oscillometri
-ba= nk
-nn= Oscillometri
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:14:08Z
 
 id= REAL000701
 te= Enhetlig feltteori
@@ -6397,9 +6401,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000785
 te= Sklerose
-ba= ne
-nn= Sklerose
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T22:07:08Z
 
 id= REAL000786
 te= Akklimatisering
@@ -10109,7 +10112,6 @@ st= REAL016761
 st= REAL017639
 st= REAL017998
 st= REAL020837
-st= REAL020883
 st= REAL026112
 st= REAL026958
 st= REAL029348
@@ -10372,9 +10374,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001274
 te= Programvareflytting
-ba= ni
-nn= Programvareflytting
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:03:00Z
 
 id= REAL001275
 te= Kullgruver
@@ -11350,14 +11351,15 @@ en= Multi language systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001390
-te= Total dissolved solids
+te= Totalt oppløste partikler
 ba= nk
+bf= Totalt oppløst stoff
 ak= TDS
+nn= Totalt oppløyste partiklar
 nn= Totalt oppløyste stoff
-nn= TDS
 en= Total dissolved solids
-en= TDS
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T20:12:11Z
 
 id= REAL001391
 te= Ugler
@@ -11529,9 +11531,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001413
 te= Optisk partikkelanalyse
-ba= nb
-nn= Optisk partikkelanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:04:16Z
+fly= REAL011832
 
 id= REAL001414
 te= COsmic Background Explorer
@@ -12331,9 +12333,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001506
 te= Praktiske hjelpemidler
-ba= nb
-nn= Praktiske hjelpemiddel
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:53:02Z
 
 id= REAL001507
 te= Skogsjord
@@ -13017,9 +13018,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001594
 te= Prekursorer
-ba= nk
-nn= Prekursorar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:19:29Z
 
 id= REAL001595
 te= Legeringer
@@ -21904,9 +21904,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002674
 te= Prøveinnføring
-ba= nk
-nn= Prøveinnføring
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:00:34Z
 
 id= REAL002675
 te= Kausalitet
@@ -22210,9 +22209,8 @@ st= REAL029847
 
 id= REAL002711
 te= Regneprogrammer
-ba= nk
-nn= Rekneprogram
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:09:51Z
 
 id= REAL002712
 te= Siamesiske tvillinger
@@ -24309,9 +24307,11 @@ id= REAL002958
 te= Datahistorie
 ba= ni
 ba= ns
+so= REAL031977
 nn= Datahistorie
 en= Computer history
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T21:38:53Z
 st= REAL014662
 st= REAL015943
 st= REAL016691
@@ -24592,9 +24592,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002993
 te= Oppgradering
-ba= nk
-nn= Oppgradering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:46:54Z
 
 id= REAL002994
 te= Politisk filosofi
@@ -29684,15 +29683,13 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003612
 te= Prosessorkommunikasjon
-ba= ni
-nn= Prosessorkommunikasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:58:08Z
 
 id= REAL003613
 te= Partiell evaluering
-ba= ni
-nn= Partiell evaluering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:16:54Z
 
 id= REAL003614
 te= Fossile pattedyr
@@ -29702,10 +29699,16 @@ tio= 2014-08-25T00:00:00Z
 st= REAL021902
 
 id= REAL003615
-te= Reaksjonsprosesser
+te= Kjemiske reaktorer
 ba= nk
-nn= Reaksjonsprosessar
+bf= Lab-reaktorer
+bf= Reaktorer (kjemi)
+nn= Reaktorar (kjemi)
+nn= Kjemiske reaktorar
+nn= Lab-reaktorar
+de= prosessutstyr der kjemiske reaksjoner finner sted
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T21:08:42Z
 
 id= REAL003616
 te= Elektronkonfigurasjon
@@ -31399,7 +31402,6 @@ st= REAL019288
 st= REAL025596
 st= REAL027913
 st= REAL029590
-st= REAL031329
 
 id= REAL003818
 te= Nattravner
@@ -33294,9 +33296,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004052
 te= Bibliotekpolitikk
-ba= ns
-nn= Bibliotekpolitikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T22:00:48Z
+fly= REAL010949
 
 id= REAL004054
 te= Anastomoserende elver
@@ -36662,9 +36664,8 @@ tis= 2017-05-11T13:05:57Z
 
 id= REAL004461
 te= Organisk petroleumsgeologi
-ba= nc
-nn= Organisk petroleumsgeologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:06:12Z
 
 id= REAL004462
 te= Prosesskontroll
@@ -36844,9 +36845,10 @@ id= REAL004482
 te= Rekombinant DNA
 ba= nk
 ba= nb
+bf= rDNA
 nn= Rekombinant DNA
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-06T00:00:00Z
+tie= 2018-03-02T21:58:20Z
 
 id= REAL004483
 te= Religiøse sekter
@@ -37328,9 +37330,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004552
 te= Praktisk kjemi
-ba= nb
-nn= Praktisk kjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:49:08Z
+fly= REAL010719
 
 id= REAL004553
 te= Kvinnelige matematikere
@@ -37442,10 +37444,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004564
 te= Oppløsningslikevekter
-ba= nk
-nn= Oppløysingsjamvekter
-nn= Oppløysingslikevekter
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:48:42Z
 
 id= REAL004565
 te= Gromov-Witten-teori
@@ -38654,9 +38654,8 @@ st= REAL029553
 
 id= REAL004718
 te= Parallellimport
-ba= ne
-nn= Parallellimport
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:16:01Z
 
 id= REAL004719
 te= Kompresjon
@@ -41800,9 +41799,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005115
 te= Praktiske metoder
-ba= nb
-nn= Praktiske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:53:31Z
 
 id= REAL005116
 te= Nattlysfamilien
@@ -42590,9 +42588,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005215
 te= Polarstrømmer
-ba= ngh
-nn= Polarstraumar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:32:19Z
 
 id= REAL005216
 te= Parallellitet
@@ -44910,9 +44907,8 @@ tie= 2017-09-19T09:03:31Z
 
 id= REAL005516
 te= Protokollmaskin
-ba= ni
-nn= Protokollmaskin
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:59:52Z
 
 id= REAL005517
 te= Dødsårsaker
@@ -45977,10 +45973,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005659
 te= Organisk spektroskopi
-ba= nk
-nn= Organisk spektroskopi
-en= Organic spectroscopy
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:06:32Z
 
 id= REAL005660
 te= Samvirkende systemer
@@ -46511,7 +46505,6 @@ st= REAL015395
 st= REAL015528
 st= REAL017858
 st= REAL018889
-st= REAL020879
 st= REAL022985
 st= REAL023234
 st= REAL023959
@@ -46692,12 +46685,9 @@ st= REAL014910
 
 id= REAL005738
 te= Nusse
-ba= ni
-bf= N.u.s.s.e.
-nn= Nusse
-nn= N.u.s.s.e.
 tio= 2014-08-25T00:00:00Z
-st= REAL020886
+tis= 2018-03-02T21:54:19Z
+fly= REAL031977
 
 id= REAL005739
 te= Vakuoler
@@ -47152,7 +47142,6 @@ te= Metallkomplekser
 ba= nk
 ba= nb
 so= REAL011497
-so= REAL010470
 so= REAL012082
 so= REAL003360
 nn= Metallkompleks
@@ -47305,10 +47294,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005807
 te= Univac
-ba= ni
-nn= UNIVAC
 tio= 2014-08-25T00:00:00Z
-st= REAL019107
+tis= 2018-03-02T21:52:29Z
+fly= REAL031977
 
 id= REAL005808
 te= Kommensalisme
@@ -54053,13 +54041,15 @@ en= Esters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006601
-te= Dissolved Natural Organic Matter
+te= Løst naturlig organisk materiale
 ba= nk
 ak= DNOM
+ot= REAL000695
 nn= Løyst naturleg organisk materiale
 en= Dissolved Natural Organic Matter
 en= DNOM
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T20:10:21Z
 
 id= REAL006602
 te= C. elegans
@@ -54085,14 +54075,10 @@ st= REAL017593
 
 id= REAL006604
 te= Atanasoff-Berry Computer
-ba= ni
-ak= ABC
-nn= Atanasoff-Berry datamaskin
-nn= Atanasoff-Berry PC
-nn= Atanasoff-Berry Computer
-en= Atanasoff-Berry computer
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-24T11:25:12Z
+tis= 2018-03-02T21:51:31Z
+fly= REAL031977
 
 id= REAL006605
 te= Partisjonering
@@ -57026,9 +57012,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006960
 te= Programmeringsuttrykk
-ba= ni
-nn= Programmeringsuttrykk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:02:46Z
 
 id= REAL006961
 te= Terrestrisk økologi
@@ -63732,10 +63717,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007791
 te= Postmaskiner
-ba= ni
-nn= Postmaskiner
-nn= Postmaskinar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:32:46Z
 
 id= REAL007792
 te= Trådløs kommunikasjon
@@ -64601,10 +64584,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007908
 te= Oscillografisk polarografi
-ba= nk
-nn= Oscillografisk polarografi
-en= Oscillographic polarography
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:13:49Z
 
 id= REAL007909
 te= Romlig fordeling
@@ -68288,9 +68269,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008361
 te= Profesjonskultur
-ba= ni
-nn= Profesjonskultur
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:54:30Z
 
 id= REAL008362
 te= Immunoblot
@@ -68656,9 +68636,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008401
 te= Prosessering
-ba= nm
-nn= Prosessering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:56:59Z
 
 id= REAL008403
 te= Primula
@@ -69652,9 +69631,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008513
 te= Optisk romforskning
-ba= na
-nn= Optisk romforsking
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:04:46Z
 
 id= REAL008514
 te= Radiografi
@@ -70505,9 +70483,8 @@ tie= 2017-09-29T22:21:53Z
 
 id= REAL008614
 te= Organiske systemer
-ba= nm
-nn= Organiske system
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:13:29Z
 
 id= REAL008615
 te= Fjordfiske
@@ -72352,9 +72329,8 @@ tie= 2017-07-31T16:45:14Z
 
 id= REAL008844
 te= Florence-prosjektet
-ba= ni
-nn= Florence-prosjektet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:39:30Z
 
 id= REAL008845
 te= Vannføring
@@ -72501,12 +72477,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008863
 te= Likevekt
-ba= nk
-ba= nb
-ba= nc
-nn= Jamvekt
-nn= Likevekt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:52:26Z
+fly= REAL011055
 
 id= REAL008864
 te= Dare
@@ -73268,7 +73241,6 @@ st= REAL029499
 st= REAL030013
 st= REAL031100
 st= REAL031844
-st= REAL031845
 
 id= REAL008956
 te= Polymeraser
@@ -73716,10 +73688,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009010
 te= Pulsed Field Gradient-Nuclear Magnetic Resonance
-ba= nk
-ak= PFG-NMR
-nn= Pulsa feltgradient kjernemagnetisk resonans
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:01:48Z
 
 id= REAL009011
 te= Kjemisk embryologi
@@ -74827,10 +74797,8 @@ tie= 2015-08-07T15:03:33Z
 
 id= REAL009144
 te= Organiske naturstoffer
-ba= nk
-nn= Organiske naturstoff
 tio= 2014-08-25T00:00:00Z
-st= REAL027992
+tis= 2018-03-02T20:12:50Z
 
 id= REAL009145
 te= Viltforvaltning
@@ -75712,10 +75680,8 @@ tis= 2017-05-29T14:35:50Z
 
 id= REAL009258
 te= Elektrokjemiske grenseflater
-ba= nk
-nn= Elektrokjemiske grenseflater
-en= Electrochemical interfaces
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:30:56Z
 
 id= REAL009259
 te= Antimikrobielle behandlinger
@@ -76676,11 +76642,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009377
 te= Parallell optimalisering
-ba= ni
-nn= Parallell optimalisering
-en= Parallel optimization
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-10T00:00:00Z
+tis= 2018-03-02T20:15:43Z
 
 id= REAL009378
 te= Elektroniske tjenester
@@ -80244,6 +80208,7 @@ en= Hydrocarbon exploration
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T14:03:01Z
 st= REAL018170
+st= REAL022092
 st= REAL022359
 st= REAL023907
 st= REAL024310
@@ -80668,11 +80633,9 @@ st= REAL024622
 
 id= REAL009875
 te= Likevekter
-ba= nk
-nn= Jamvekter
-nn= Likevekter
-en= Equilibria
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:51:55Z
+fly= REAL011055
 
 id= REAL009876
 te= Økologiske data
@@ -81829,10 +81792,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010007
 te= Pi-ressurser
-ba= ni
-nn= Pi-ressursar
 de= Partielle og intermitterende - avbrutte - ressurser
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:38:23Z
 
 id= REAL010008
 te= Beredskapsplaner
@@ -82715,10 +82677,8 @@ fly= REAL000962
 
 id= REAL010114
 te= Digitale byer
-ba= ni
-nn= Digitale byar
-en= Digital cities
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:21:48Z
 
 id= REAL010115
 te= Forskningsinstitusjoner
@@ -83166,9 +83126,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010169
 te= Programkopiering
-ba= ni
-nn= Programkopiering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:02:34Z
 
 id= REAL010170
 te= Tilbakekopling
@@ -83682,9 +83641,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010225
 te= Patogene stoffer
-ba= nb
-nn= Patogene stoff
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:41:35Z
+fly= REAL011191
 
 id= REAL010226
 te= Skyfysikk
@@ -85578,11 +85537,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010470
 te= Platinakomplekser
-ba= nk
-so= REAL005786
-nn= Platinakompleks
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-12T19:04:39Z
+tis= 2018-03-02T20:44:12Z
 
 id= REAL010471
 te= Akkumulasjonsstrender
@@ -86299,7 +86256,6 @@ st= REAL026551
 st= REAL027416
 st= REAL027731
 st= REAL028321
-st= REAL031739
 
 id= REAL010561
 te= Islamsk vitenskapshistorie
@@ -87038,10 +86994,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010654
 te= Optisk stereoisomeri
-ba= nk
-nn= Optisk stereoisomeri
 tio= 2014-08-25T00:00:00Z
-st= REAL027121
+tis= 2018-03-02T20:05:32Z
 
 id= REAL010655
 te= Motorkjøretøyer
@@ -87512,7 +87466,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010719
 te= Anvendt kjemi
 ba= nk
+bf= Praktisk kjemi
 nn= Bruksretta kjemi
+nn= Praktisk kjemi
 en= Applied chemistry
 tio= 2014-08-25T00:00:00Z
 
@@ -87623,11 +87579,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010735
 te= Oljespredning
-ba= ni
-bf= Oljedrift
-nn= Oljespreiing
-nn= Oljedrift
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:45:10Z
+fly= REAL013469
 
 id= REAL010736
 te= Grenseverdier
@@ -88536,9 +88490,8 @@ st= REAL028147
 
 id= REAL010859
 te= Protonledningsevne
-ba= nk
-nn= Protonleiingsevne
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:00:11Z
 
 id= REAL010860
 te= Offshore
@@ -89260,8 +89213,10 @@ id= REAL010949
 te= Bibliotekvesen
 ba= ns
 bf= Bibliotekvirksomhet
+bf= Bibliotekpolitikk
 nn= Bibliotekvesen
 nn= Bibliotekverksemd
+nn= Bibliotekpolitikk
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-20T11:11:49Z
 st= REAL023699
@@ -90010,10 +89965,23 @@ id= REAL011055
 te= Kjemisk likevekt
 ba= nc
 ba= nm
+bf= Likevekter
+bf= Likevekt
+bf= Likevekt (kjemi)
+bf= Ionelikevekter
 nn= Kjemisk jamvekt
 nn= Kjemisk likevekt
+nn= Jamvekter
+nn= Likevekter
+nn= Jamvekt
+nn= Likevekt
+nn= Ionejamvekter
+nn= Ionelikevekter
 en= Chemical equilibrium
+en= Equilibria
+en= Ionic equilibria
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T19:52:33Z
 
 id= REAL011056
 te= Løvskognonne
@@ -90645,9 +90613,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011135
 te= Prøvemetoder
-ba= nk
-nn= Prøvemetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:01:08Z
 
 id= REAL011136
 te= Marine installasjoner
@@ -91043,7 +91010,9 @@ te= Patogener
 ba= nk
 ba= nb
 ba= ne
+bf= Patogene stoffer
 nn= Patogen
+nn= Patogene stoff
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011192
@@ -91695,9 +91664,8 @@ st= REAL029943
 
 id= REAL011281
 te= Organiske modifikatorer
-ba= nk
-nn= Organiske modifikatorar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:07:15Z
 
 id= REAL011282
 te= Arboreter
@@ -92604,9 +92572,8 @@ st= REAL027291
 
 id= REAL011392
 te= Optisk form
-ba= nm
-nn= Optisk form
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:03:27Z
 
 id= REAL011393
 te= Kompressibilitet
@@ -94279,12 +94246,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011600
 te= Parts-per-billion
-ba= nk
-ak= PBB
-nn= Ppb
-nn= Delar per milliard
-nn= Parts-per-billion
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:17:21Z
 
 id= REAL011601
 te= Sannsynlighetsalgoritmer
@@ -95149,7 +95112,6 @@ st= REAL023224
 st= REAL027296
 st= REAL028145
 st= REAL028474
-st= REAL031737
 
 id= REAL011694
 te= Bokstaver
@@ -95196,10 +95158,8 @@ st= REAL026103
 
 id= REAL011699
 te= Papirkvalitet
-ba= ni
-nn= Papirkvalitet
-en= Paper quality
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:15:22Z
 
 id= REAL011700
 te= Nevromodulatorer
@@ -96282,7 +96242,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011832
 te= Partikkelanalyse
 ba= nk
+bf= Optisk partikkelanalyse
 nn= Partikkelanalyse
+nn= Optisk partikkelanalyse
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011833
@@ -96640,11 +96602,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011877
 te= Ionelikevekter
-ba= nk
-nn= Ionejamvekter
-nn= Ionelikevekter
-en= Ionic equilibria
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T19:56:23Z
+fly= REAL011055
 
 id= REAL011878
 te= Nettverkssikkerhet
@@ -96972,9 +96932,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011911
 te= Overflatemodifikasjon
-ba= nk
-nn= Overflatemodifikasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:13:52Z
 
 id= REAL011912
 te= Vevkjerringer
@@ -97849,9 +97808,8 @@ fly= REAL008728
 
 id= REAL012029
 te= Prøvekonstruksjon
-ba= nk
-nn= Prøvekonstruksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:00:55Z
 
 id= REAL012030
 te= Skriptspråk
@@ -98423,9 +98381,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012115
 te= Psykonevroendokrinologi
-ba= nb
-nn= Psykonevroendokrinologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:01:21Z
 
 id= REAL012116
 te= Dopamin
@@ -98564,9 +98521,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012139
 te= Planetrotasjon
-ba= na
-nn= Planetrotasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:42:14Z
 
 id= REAL012140
 te= Mønstergenerering
@@ -101547,7 +101503,6 @@ id= REAL012432
 te= Fuzzy logikk
 ba= ni
 bf= Diffus logikk
-so= REAL031780
 nn= Fuzzy logikk
 nn= Diffus logikk
 en= Fuzzy logic
@@ -105636,11 +105591,13 @@ id= REAL012758
 te= Organometalliske forbindelser
 ba= nk
 bf= Metallorganiske forbindelser
+ak= MOF
 nn= Organometalliske sambindingar
 nn= Metallorganiske sambindingar
 en= Organometallic compounds
 en= Metal-organic compounds
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T20:45:53Z
 
 id= REAL012759
 te= Beinskjørhet
@@ -106984,7 +106941,6 @@ st= REAL026707
 st= REAL027124
 st= REAL028363
 st= REAL028717
-st= REAL028806
 st= REAL031400
 
 id= REAL012898
@@ -108426,8 +108382,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013036
 te= Rensevæsker
-nn= Reinsevæsker
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:27:18Z
 
 id= REAL013037
 te= Reologi
@@ -110004,12 +109960,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013194
 te= Optimal systemkontroll
-ba= nm
-nn= Optimal systemkontroll
-en= Optimal system control
-ms= 93.40
-dw= 003
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:02:39Z
 
 id= REAL013195
 te= Systemkontroll
@@ -110100,12 +110052,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013205
 te= Probabilistisk automatateori
-ba= nm
-nn= Probabilistisk automatateori
-en= Probabilistic automata
-ms= 94.45
-dw= 005.131
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:18:27Z
 
 id= REAL013206
 te= Formelle språk
@@ -114288,9 +114236,13 @@ ba= nc
 bf= Oljeforurensing
 bf= Oljesøl
 bf= Oljeutslipp
+bf= Oljespredning
+bf= Oljedrift
 nn= Oljeforureining
 nn= Oljesøl
 nn= Oljeutslepp
+nn= Oljespreiing
+nn= Oljedrift
 en= Oil spills
 en= Oil pollution
 tio= 2014-08-25T00:00:00Z
@@ -115083,8 +115035,16 @@ ba= na
 ba= nf
 ba= nm
 ba= ns
+bf= Tidspilen
+bf= Tidens asymmetri
 nn= Tidsomgrepet
+en= Time (concept)
+en= Arrow of time
+en= Time's arrow
+en= Direction of time
+en= Asymmetry of time
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-02T21:46:13Z
 st= REAL021314
 st= REAL021759
 st= REAL025047
@@ -115901,12 +115861,8 @@ st= REAL026780
 
 id= REAL013569
 te= Partikkelmekanikk
-ba= nm
-nn= Partikkelmekanikk
-en= Mechanics of particles
-ms= 70
-dw= 531.16
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T20:40:21Z
 
 id= REAL013570
 te= Elastisitet
@@ -120448,8 +120404,8 @@ st= REAL024016
 id= REAL013873
 te= Organiske produkter
 no= Lite presist om det står alene, brukes helst som underinndeling i streng, f.eks. "skogbruk : organiske produkter". ML/HSK 110913
-nn= Organiske produkt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-02T21:22:49Z
 
 id= REAL013874
 te= Elektrokjemiske reaktorer
@@ -121377,13 +121333,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013941
 te= ENIAC
-ba= ni
-nn= ENIAC
-en= ENIAC
 de= Electrical Numerical Integrator And Calculator
 tio= 2014-08-25T00:00:00Z
-st= REAL020988
-st= REAL021518
+tis= 2018-03-02T21:52:20Z
+fly= REAL031977
 
 id= REAL013942
 te= Bergamott
@@ -124192,11 +124145,9 @@ tie= 2015-10-12T12:03:09Z
 
 id= REAL031511
 te= Oppvekstområder
-bf= Oppveksthabitat
-en= Nursery habitat
-en= Nursery areas
 tio= 2015-10-12T12:04:28Z
 tie= 2016-04-21T11:24:59Z
+tis= 2018-03-02T20:01:47Z
 
 id= REAL031513
 te= Basestasjoner
@@ -124915,14 +124866,9 @@ tie= 2016-12-19T16:35:10Z
 
 id= REAL031780
 te= Probabilistisk logikk
-bf= Sannsynlighetslogikk
-so= REAL012432
-nn= Probabilistisk logikk
-nn= Sannsynslogikk
-en= Probabilistic logic
-en= Probability logic
 tio= 2016-12-19T16:35:48Z
 tie= 2016-12-19T16:37:06Z
+tis= 2018-03-02T21:19:07Z
 
 id= REAL031789
 te= ICP-MS
@@ -125741,4 +125687,53 @@ en= Sarcomas
 de= Uensartet gruppe av kreftsykdommer som utgår fra blant annet knokler, muskler, fettvev, bindevev, blodkar og nerveskjeder (fra nhi.no)
 tio= 2018-02-27T10:35:05Z
 tie= 2018-02-27T10:35:34Z
+
+id= REAL031977
+te= Tidlige datamaskiner
+bf= Historiske datamaskiner
+bf= Maskinen frederic
+bf= Atanasoff-Berry Computer
+bf= ENIAC
+bf= Univac
+bf= Nusse
+bf= N.u.s.s.e.
+ak= ABC
+so= REAL002958
+nn= Tidlege datamaskinar
+nn= Maskinen frederic
+nn= Maskina frederic
+nn= Atanasoff-Berry datamaskin
+nn= Atanasoff-Berry PC
+nn= Atanasoff-Berry Computer
+nn= ENIAC
+nn= UNIVAC
+nn= Nusse
+nn= N.u.s.s.e.
+en= Early computers
+en= Atanasoff-Berry computer
+en= ENIAC
+de= datamaskiner utviklet frem til tidlig på 1960-tallet, før integrerte kretser Electrical Numerical Integrator And Calculator
+tio= 2018-03-02T21:35:01Z
+tie= 2018-03-02T21:38:53Z
+st= REAL019107
+st= REAL020988
+st= REAL021518
+
+id= REAL031978
+te= Kvantemekaniske fortolkninger
+bf= Fortolkninger av kvantemekanikken
+bf= Kvantemekaniske interpretasjoner
+bf= Kvantemekaniske fortolkinger
+bf= Tolkninger av kvantemekanikken
+bf= København-fortolkningen
+bf= København-tolkningen
+bf= Transaksjonstolkning av kvantemekanikken
+nn= Kvantemekaniske fortolkingar
+nn= København-fortolkinga
+nn= Transaksjonsfortolkinga
+en= Interpretations of quantum mechanics
+en= Copenhagen interpretation
+en= Transactional interpretation of quantum mechanics
+tio= 2018-03-02T22:35:14Z
+tie= 2018-03-02T22:50:57Z
 
