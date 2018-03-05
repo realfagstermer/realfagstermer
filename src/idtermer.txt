@@ -279,9 +279,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000035
 te= Elveløp
 ba= nc
+bf= Forgrenet elveløp
 nn= Elvefar
 nn= Elvelaup
 nn= Elveløp
+nn= Forgreina elvelaup
+nn= Forgreina elveløp
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000036
@@ -4027,11 +4030,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000495
 te= Forstøver
-ba= nk
-nn= Forstøvar
-en= Nebulizer
-en= Analytical nebulizer
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-05T10:40:40Z
 
 id= REAL000496
 te= Beinkreft
@@ -15848,9 +15848,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001956
 te= Forsvarsstoffer
-ba= nb
-nn= Forsvarsstoff
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-05T10:43:59Z
+fly= REAL012827
 
 id= REAL001957
 te= Organografi
@@ -24617,7 +24617,7 @@ nn= Flatmarkar
 en= Flatworms
 la= Platyhelminthes
 tio= 2014-08-25T00:00:00Z
-tie= 2017-06-22T21:37:31Z
+tie= 2018-03-05T09:33:12Z
 
 id= REAL002997
 te= Hydrologi
@@ -43470,10 +43470,8 @@ tis= 2018-01-12T15:24:36Z
 
 id= REAL005333
 te= Miljøfaktorer
-ba= nb
-nn= Miljøfaktorar
 tio= 2014-08-25T00:00:00Z
-st= REAL016435
+tis= 2018-03-05T11:06:18Z
 
 id= REAL005334
 te= Organiske partikler
@@ -49422,12 +49420,8 @@ fly= REAL009730
 
 id= REAL006066
 te= Mikrokosmos
-ba= nb
-ba= ns
-nn= Mikrokosmos
 tio= 2014-08-25T00:00:00Z
-st= REAL020490
-st= REAL026042
+tis= 2018-03-05T11:04:26Z
 
 id= REAL006067
 te= Laguner
@@ -64398,10 +64392,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007882
 te= Forgrenet elveløp
-ba= nc
-nn= Forgreina elvelaup
-nn= Forgreina elveløp
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-05T10:37:42Z
+fly= REAL000035
 
 id= REAL007883
 te= Medarbeidere
@@ -79506,8 +79499,14 @@ tie= 2015-02-11T00:00:00Z
 id= REAL009739
 te= Organometallisk syntese
 ba= nk
+bf= Organometalliske reaksjonsmekanismer
+bf= Metallkatalysatorer
 nn= Organometallisk syntese
+nn= Organometalliske reaksjonsmekanismar
+nn= Metallkatalysatorar
 en= Organometallic synthesis
+en= Organometallic reaction mechanisms
+en= Metal-organic reaction mechanisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009740
@@ -82352,11 +82351,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010074
 te= Organometalliske reaksjonsmekanismer
-ba= nk
-nn= Organometalliske reaksjonsmekanismar
-en= Organometallic reaction mechanisms
-en= Metal-organic reaction mechanisms
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-05T11:02:27Z
+fly= REAL009739
 
 id= REAL010075
 te= Organisk syntese
@@ -88268,12 +88265,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010824
 te= Ormer
-ba= nb
-ba= ne
-nn= Ormar
 tio= 2014-08-25T00:00:00Z
-st= REAL022105
-st= REAL024200
+tis= 2018-03-05T09:29:09Z
 
 id= REAL010825
 te= Optisk databehandling
@@ -88676,11 +88669,9 @@ tie= 2017-10-08T14:43:51Z
 
 id= REAL010885
 te= Innvollsormer
-ba= nb
-nn= Innvolsmakkar
-nn= Innvolsmarkar
-nn= Innvolsormar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-05T09:32:29Z
+fly= REAL002996
 
 id= REAL010886
 te= Oracle
@@ -96798,9 +96789,9 @@ st= REAL028152
 
 id= REAL011896
 te= Metallkatalysatorer
-ba= nk
-nn= Metallkatalysatorar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-05T11:02:48Z
+fly= REAL009739
 
 id= REAL011898
 te= Aromatiske substitusjonsreaksjoner
@@ -106253,9 +106244,11 @@ te= Sekundære metabolitter
 ba= nb
 bf= Sekundære plantestoffer
 bf= Sekundær metabolisme
+bf= Forsvarsstoffer
 nn= Sekundære metabolittar
 nn= Sekundær metabolisme
 nn= Sekundære plantestoff
+nn= Forsvarsstoff
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-12T14:55:20Z
 
@@ -125638,12 +125631,14 @@ st= REAL031946
 id= REAL031947
 te= Kano- og kajakkpadling
 bf= Padling
+bf= Padleturer
 nn= Kano- og kajakkpadling
 nn= Padling
+nn= Padleturar
 en= Canoeing and kayaking
 en= Paddling
 tio= 2018-01-23T15:46:24Z
-tie= 2018-01-29T14:45:30Z
+tie= 2018-03-05T11:58:33Z
 st= REAL031948
 
 id= REAL031949
