@@ -15354,7 +15354,7 @@ en= Walsh–Fourier transforms
 en= Hadamard matrices
 en= Hadamard–Rademacher–Walsh transforms
 tio= 2014-08-25T00:00:00Z
-tie= 2017-03-01T19:21:51Z
+tie= 2018-03-07T16:01:52Z
 
 id= REAL001886
 te= Kompaksjon
@@ -19907,8 +19907,11 @@ id= REAL002439
 te= Partikkeldetektorer
 ba= na
 ba= nf
+bf= Pikseldetektorer
+no= For fotoner, se også CCD, CMOS o.l.
 nn= Partikkeldetektorar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-07T17:24:30Z
 
 id= REAL002440
 te= Kommandospråk
@@ -56167,8 +56170,10 @@ id= REAL006859
 te= Stråleskader
 ba= nk
 ba= nf
+so= REAL031980
 nn= Stråleskadar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-07T18:21:10Z
 st= REAL017071
 st= REAL025450
 
@@ -67862,9 +67867,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008304
 te= Celledannelse
-ba= nb
-nn= Celledanning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-07T18:55:34Z
 
 id= REAL008305
 te= Tiur
@@ -79898,8 +79902,10 @@ tie= 2015-05-19T13:27:54Z
 id= REAL009790
 te= Strålingseffekter
 ba= nk
+so= REAL031980
 nn= Strålingseffektar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-07T18:20:40Z
 
 id= REAL009791
 te= Deformering
@@ -94940,8 +94946,10 @@ id= REAL011675
 te= Harmonisk analyse
 ba= na
 ba= nm
+so= REAL031979
 nn= Harmonisk analyse
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-07T16:01:43Z
 st= REAL021494
 st= REAL028081
 
@@ -97017,7 +97025,7 @@ tis= 2017-01-18T16:19:25Z
 fly= REAL006663
 
 id= REAL011921
-te= Fouriertransformasjoner
+te= Fouriertransformasjon
 ba= ni
 ba= nk
 ba= na
@@ -97027,12 +97035,14 @@ ba= nm
 bf= Diskret fouriertransformasjon
 ak= FFT
 ak= DTFT
-nn= Fouriertransformasjonar
+ak= FT
+so= REAL031979
+nn= Fouriertransformasjon
 nn= Diskret fouriertransformasjon
-en= Fourier transformations
+en= Fourier transform
 en= Discrete Fourier transform
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-20T22:21:42Z
+tie= 2018-03-07T16:02:00Z
 
 id= REAL011922
 te= Eupatorium
@@ -116195,10 +116205,12 @@ tie= 2016-10-12T14:20:22Z
 
 id= REAL013598
 te= Bruer
+bf= Broer
 nn= Bruer
 en= Bridges
 de= Et byggverk som forbinder ferdselsårer over fysiske hindringer (SNL)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-07T18:53:30Z
 
 id= REAL013599
 te= Fisketrapper
@@ -121551,10 +121563,14 @@ st= REAL028549
 id= REAL013958
 te= Obstetrikk
 bf= Svangerskapskomplikasjoner
+bf= Fødselshjelp
 nn= Obstetrikk
 nn= Svangerskapskomplikasjonar
+nn= Fødselshjelp
 en= Obstetrics
+en= Obstetric aid
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-07T18:50:57Z
 st= REAL023910
 
 id= REAL013959
@@ -122703,6 +122719,7 @@ en= Solar cells
 tio= 2014-08-25T00:00:00Z
 st= REAL016411
 st= REAL018747
+st= REAL031982
 
 id= REAL014050
 te= Atferdsgenetikk
@@ -125751,4 +125768,43 @@ en= Copenhagen interpretation
 en= Transactional interpretation of quantum mechanics
 tio= 2018-03-02T22:35:14Z
 tie= 2018-03-02T22:50:57Z
+
+id= REAL031979
+te= Sfærisk-harmonisk transformasjon
+ak= SHT
+so= REAL011675
+so= REAL011921
+nn= Sfærisk-harmonisk transformasjon
+en= Spherical Harmonic Transform
+tio= 2018-03-07T16:00:33Z
+tie= 2018-03-07T16:01:59Z
+
+id= REAL031980
+te= Strålingstoleranse
+bf= Strålingsherding
+so= REAL009790
+so= REAL006859
+nn= Strålingstoleranse
+nn= Strålingsherding
+en= Radiation tolerance
+en= Radiation hardening
+en= Radiation hardness
+en= Rad-hard
+en= Radiation resistance
+en= Rad hardening
+de= materialers (særlig elektriske komponenter) toleranse for ioniserende stråling
+tio= 2018-03-07T18:15:01Z
+tie= 2018-03-07T18:21:10Z
+
+id= REAL031983
+te= Hørselshjelpemidler
+bf= Cochleaimplantater
+bf= Cochlea-implantater
+nn= Høyrselshjelpemiddel
+nn= Cochleaimplantat
+nn= Cochlea-implantat
+en= Hearing aids
+en= Cochlear implants
+tio= 2018-03-07T18:57:09Z
+tie= 2018-03-07T19:03:28Z
 
