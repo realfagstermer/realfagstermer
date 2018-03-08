@@ -2247,13 +2247,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000275
 te= EØS
-ba= ne
-bf= Det europeiske økonomiske samarbeidsområde
-nn= EØS
-en= EEA
-en= European Economic Area
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-25T10:08:44Z
+tis= 2018-03-08T19:33:12Z
 
 id= REAL000276
 te= Flydesign
@@ -3238,11 +3234,8 @@ tis= 2017-01-24T10:09:22Z
 
 id= REAL000404
 te= Ansvar
-ba= ni
-ba= ns
-nn= Ansvar
-en= Responsibility
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-08T14:37:17Z
 
 id= REAL000405
 te= Almagest
@@ -4338,7 +4331,6 @@ st= REAL021809
 st= REAL025183
 st= REAL025706
 st= REAL026219
-st= REAL027847
 st= REAL028471
 
 id= REAL000534
@@ -43719,10 +43711,17 @@ tie= 2017-09-25T13:03:08Z
 id= REAL005363
 te= Kjønnshormoner
 ba= nb
+bf= Androgener
+bf= Østrogener
 nn= Kjønnshormon
+nn= Androgen
+nn= Østrogen
 en= Sex steroids
 en= gonadal steroids
 en= gonadocorticoids
+en= Androgens
+en= Oestrogen
+en= Estrogen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005364
@@ -62815,10 +62814,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007674
 te= Androgener
-ba= nb
-nn= Androgen
-en= Androgens
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-08T14:19:31Z
+fly= REAL005363
 
 id= REAL007676
 te= Vedanatomi
@@ -70882,12 +70880,9 @@ st= REAL028523
 
 id= REAL008659
 te= Østrogener
-ba= nb
-ba= ne
-nn= Østrogen
-en= Oestrogen
-en= Estrogen
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-08T14:20:19Z
+fly= REAL005363
 
 id= REAL008660
 te= Brønner
@@ -125803,8 +125798,9 @@ bf= Cochlea-implantater
 nn= Høyrselshjelpemiddel
 nn= Cochleaimplantat
 nn= Cochlea-implantat
+nn= Høyrslehjelpemiddel
 en= Hearing aids
 en= Cochlear implants
 tio= 2018-03-07T18:57:09Z
-tie= 2018-03-07T19:03:28Z
+tie= 2018-03-08T19:35:32Z
 
