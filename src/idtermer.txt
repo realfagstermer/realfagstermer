@@ -36349,7 +36349,6 @@ ba= na
 ba= nf
 ba= ngh
 ut= REAL004858
-ut= REAL005027
 ut= REAL007714
 ut= REAL010419
 ut= REAL006979
@@ -41097,13 +41096,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005027
 te= Nordlysobservatorier
-ba= ngh
-ot= REAL004422
-nn= Nordljosobservatorium
-nn= Nordlysobservatorium
-en= Auroral observatories
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T15:52:57Z
+tis= 2018-03-09T12:56:07Z
 
 id= REAL005028
 te= Legemiddelopptak
@@ -116828,7 +116823,6 @@ nn= Ekstraterrestrisk intelligens
 nn= Utanomjordisk intelligent liv
 en= Extraterrestrial intelligent life
 en= Extraterrestrial intelligence
-en= Extraterrestrial intelligent life
 tio= 2014-08-25T00:00:00Z
 st= REAL031260
 
