@@ -13412,6 +13412,7 @@ id= REAL001647
 te= Formodninger
 ba= nm
 nn= Formodningar
+en= Conjectures
 de= en antatt sann setning som ennå ikke har blitt bevist
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-23T17:22:50Z
@@ -51116,6 +51117,9 @@ ba= nf
 bf= Kinetisk gassteori
 nn= Kinetisk teori
 nn= Kinetisk gassteori
+en= Kinetic theory
+en= Kinetic theory of gases
+en= Kinetic gas theory
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-20T20:53:07Z
 st= REAL016522
@@ -63940,6 +63944,7 @@ ba= ns
 bf= Kontinentsokkelen
 ot= REAL005523
 nn= Kontinentalsokkelen
+en= Continental shelf
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-12T17:56:41Z
 st= REAL014180
@@ -65892,6 +65897,7 @@ te= Runge–Kutta-metoder
 ba= ni
 bf= Runge-Kutta-metoden
 nn= Runge-Kutta-metoden
+en= Runge–Kutta methods
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-29T16:21:27Z
 
@@ -66702,6 +66708,7 @@ id= REAL008156
 te= Hardys ulikhet
 ba= nm
 nn= Hardys ulikskap
+en= Hardy's inequality
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-12T11:48:45Z
 
@@ -95252,6 +95259,7 @@ ba= ns
 ut= REAL008209
 ut= REAL008457
 nn= Relasjonsdatabasar
+en= Relational databases
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-24T00:36:29Z
 
@@ -125625,6 +125633,7 @@ tie= 2017-11-03T15:01:47Z
 
 id= REAL031908
 te= Groruditt
+en= Grorudite
 tio= 2017-11-07T20:48:02Z
 tie= 2017-11-07T20:48:02Z
 
