@@ -82647,9 +82647,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010104
 te= Xad-8
-ba= nk
-nn= Xad-8
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-12T19:28:02Z
 
 id= REAL010105
 te= Ekstremverdier
@@ -124157,11 +124156,11 @@ tio= 2015-09-22T11:01:35Z
 tie= 2015-09-22T11:04:53Z
 
 id= REAL031504
-te= SuperCollidor
-nn= SuperCollidor
+te= SuperCollider
+nn= SuperCollider
 de= Programmeringsspråk
 tio= 2015-09-28T13:38:33Z
-tie= 2015-09-28T13:38:47Z
+tie= 2018-03-12T18:19:56Z
 
 id= REAL031505
 te= Teiner
