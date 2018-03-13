@@ -36217,10 +36217,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004407
 te= Sol-observasjon
-ba= ni
-nn= Solobservasjon
-nn= Sol-observasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-13T13:16:11Z
 
 id= REAL004408
 te= Avisingsvæske
@@ -47038,11 +47036,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005772
 te= Autopiloter
-ba= ni
-nn= Autopilotar
-en= Autopilot
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-05T00:00:00Z
+tis= 2018-03-13T13:10:36Z
 
 id= REAL005773
 te= Eksperimentalfysikk
@@ -88250,7 +88246,6 @@ en= Foodborne illnesses
 en= Foodborne diseases
 en= foodborne disease
 en= food poisoning
-en= Food poisoning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010812
