@@ -125895,3 +125895,14 @@ en= Cochlear implants
 tio= 2018-03-07T18:57:09Z
 tie= 2018-03-08T19:35:32Z
 
+id= REAL031984
+te= Konkurranseprogrammering
+bf= Programmeringskonkurranser
+nn= Konkurranseprogrammering
+nn= Programmeringskonkurransar
+nn= Programmeringstevlingar
+en= Competitive programming
+en= Programming contests
+tio= 2018-03-14T14:27:01Z
+tie= 2018-03-14T14:30:14Z
+
