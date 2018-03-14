@@ -24,30 +24,22 @@ Tips:
 
 Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 
-* [@bibliomari](https://github.com/bibliomari) :
-  Mari Lundevall, tidligere redaksjonsleder.
 * [@BioHeidi](https://github.com/BioHeidi) :
   Heidi Konestabo, klassifiserer biovitenskap.
 * [@danmichaelo](https://github.com/danmichaelo) :
-  Dan Michael O. Heggø, klassifiserer fysikk og materialvitenskap, utvikler Emnesøk og Neo.
+  Dan Michael O. Heggø, klassifiserer fysikk og materialvitenskap, utvikler Emnesøk.
 * [@edinab](https://github.com/edinab) :
   Edina Pozer Bue, klassifiserer geofag og meteorologi.
-* [@ewinge](https://github.com/ewinge) :
-  Erik Winge, utvikler Neo (og juridiske emneord, m.m.).
 * [@grosyn](https://github.com/grosyn) :
-  Gro Synnøve Nesland Lindgaard, klassifiserer for biblioteket ved Naturhistorisk museum.
+  Gro Synnøve Nesland Lindgaard, klassifiserer litt innimellom katalogiseringen.
 * [@haraldse](https://github.com/haraldse) :
   Kirsten Borse Haraldsen, klassifiserer biovitenskap.
-* [@henriasv](https://github.com/henriasv) :
-  Henrik Andersen Sveinsson, klassifiserer fysikk.
 * [@iloveyellow](https://github.com/iloveyellow) :
-  Solveig Isis Sørbø, klassifiserer hva som helst
-* [@knuthe](https://github.com/knuthe) :
-  Knut Hegna, klassifiserer informatikk, utvikler Roald og Sonja.
-* [@kristinran](https://github.com/kristinran) :
-  Kristin Rangnes, klassifiserer geofag, i permisjon.
+  Solveig Isis Sørbø, tenker lure tanker om taksonomier
 * [@kyrretl](https://github.com/kyrretl) :
   Kyrre Traavik Låberg, biolog, utvikler Emnesøk.
+* [@starseekr](https://github.com/starseekr) :
+  Trude Westby, klassifiserer informatikk.
 * [@superLine](https://github.com/superLine) :
   Line Nybakk Akerholt, klassifiserer astrofysikk.
 * [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
@@ -64,14 +56,27 @@ Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
   Ingunn Rødland, klassifiserer kjemi.
 * [@Hypsibius](https://github.com/Hypsibius) :
   Hege Folkestad, klassifiserer biovitenskap.
-* [@jw-geo](https://github.com/jw-geo) :
-  Johannes Wiest, student, klassifiserer geologi.
 * [@beatekh](https://github.com/beatekh) :
-  Beate Krøvel Humberset, klassifiserer matematikk, informatikk og fysikk (tar over for @mittinatten).
-* [@mittinatten](https://github.com/mittinatten) :
-  Simon Mitternacht, klassifiserer matematikk, informatikk og fysikk (teoretisk).
+  Beate Krøvel Humberset, klassifiserer matematikk, informatikk og fysikk.
 * [@mzyg](https://github.com/mzyg) :
   Marta Zygmuntowska, klassifiserer geofag, fysikk (anvendt) og teknologi.
+  
+Realfagstermer venner:
+
+* [@bibliomari](https://github.com/bibliomari) :
+  Mari Lundevall, tidligere redaksjonsleder.
+* [@ewinge](https://github.com/ewinge) :
+  Erik Winge, utvikler Neo (og juridiske emneord, m.m.).
+* [@henriasv](https://github.com/henriasv) :
+  Henrik Andersen Sveinsson, klar til å klassifisere fysikk ved behov.
+* [@jw-geo](https://github.com/jw-geo) :
+  Johannes Wiest, student, klassifiserte geologi.
+* [@knuthe](https://github.com/knuthe) :
+  Knut Hegna, klassifiserte informatikk, utviklet Roald og Sonja.
+* [@kristinran](https://github.com/kristinran) :
+  Kristin Rangnes, klassifiserte geofag.
+* [@mittinatten](https://github.com/mittinatten) :
+  Simon Mitternacht, klassifiserte matematikk, informatikk og fysikk (teoretisk).
 
 For å varsle alle: @realfagstermer/alle
 
