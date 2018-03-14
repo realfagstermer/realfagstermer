@@ -61,7 +61,7 @@ Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
 * [@mzyg](https://github.com/mzyg) :
   Marta Zygmuntowska, klassifiserer geofag, fysikk (anvendt) og teknologi.
   
-Realfagstermer venner:
+Realfagstermers venner:
 
 * [@bibliomari](https://github.com/bibliomari) :
   Mari Lundevall, tidligere redaksjonsleder.
