@@ -1323,7 +1323,6 @@ en= Electronics
 tio= 2014-08-25T00:00:00Z
 st= REAL015678
 st= REAL016147
-st= REAL017126
 st= REAL017842
 st= REAL019173
 st= REAL021269
@@ -1889,12 +1888,12 @@ nn= Soppfysiologi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000232
-te= Universal personal telecommunication
+te= Universal Personal Telecommunications
 ba= ni
 ak= UPT
-nn= UPT
-nn= Universal personal telecommunication
+nn= Universal Personal Telecommunications
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-15T20:20:06Z
 
 id= REAL000234
 te= Seismisk kartlegging
@@ -4697,7 +4696,6 @@ ba= ni
 nn= Inverse problem
 en= Inverse problems
 tio= 2014-08-25T00:00:00Z
-st= REAL018999
 st= REAL021605
 
 id= REAL000572
@@ -7492,10 +7490,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000925
 te= Anvendt vitenskap
-ba= nk
-nn= Bruksretta vitskap
-en= Applied science
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T11:01:37Z
 
 id= REAL000926
 te= Klyngekjemi
@@ -9962,12 +9958,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001221
 te= Apoteklovgivning
 ba= ne
-so= REAL012687
+bf= Apotekloven
+bf= Medisinalloven
 nn= Apoteklovgjeving
 nn= Apoteklovgiving
+nn= Apoteklova
+nn= Medisinallova
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-12T18:31:47Z
 st= REAL016131
+st= REAL028044
 
 id= REAL001222
 te= Lavlandsområder
@@ -11165,9 +11165,8 @@ fly= REAL008887
 
 id= REAL001361
 te= Reaktivitet
-ba= nk
-nn= Reaktivitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T18:08:02Z
 
 id= REAL001363
 te= Business process reengineering
@@ -21181,9 +21180,9 @@ tie= 2017-03-20T18:35:36Z
 
 id= REAL002580
 te= Antropogeni
-ba= nb
-nn= Antropogeni
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T10:55:57Z
+fly= REAL010984
 
 id= REAL002581
 te= Fennikel
@@ -24405,10 +24404,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002965
 te= Kvikksølvlagre
-ba= nk
-nn= Kvikksølvlager
-nn= Kvikksylvlager
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T20:23:58Z
 
 id= REAL002967
 te= Deformasjonsteori
@@ -24419,12 +24416,8 @@ fly= REAL031725
 
 id= REAL002968
 te= Elefantapoteket
-ba= ne
-nn= Elefantapoteket
 tio= 2014-08-25T00:00:00Z
-st= REAL019684
-st= REAL023152
-st= REAL024974
+tis= 2018-03-15T11:05:14Z
 
 id= REAL002969
 te= Primtall
@@ -28735,9 +28728,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003498
 te= Apotekdrift
-ba= ne
-nn= Apotekdrift
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T11:05:45Z
+fly= REAL012686
 
 id= REAL003499
 te= Dinoflagellater
@@ -32503,12 +32496,10 @@ tis= 2017-06-01T16:23:56Z
 
 id= REAL003942
 te= RS-232
-ba= ni
-bf= RS-232c
-nn= RS-232
-nn= RS-232c
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-26T15:28:43Z
+tis= 2018-03-15T17:13:53Z
+fly= REAL007337
 
 id= REAL003944
 te= Eremittkreps
@@ -33856,11 +33847,8 @@ st= REAL020999
 st= REAL021529
 st= REAL022182
 st= REAL022749
-st= REAL024012
 st= REAL024029
-st= REAL024985
 st= REAL026097
-st= REAL026736
 st= REAL026777
 st= REAL028104
 st= REAL028850
@@ -37860,8 +37848,9 @@ ak= BPR
 nn= Georadar
 nn= Bakkepenetrerande radar
 en= Ground penetrating radar
+en= Ground-penetrating radar
 tio= 2014-08-25T00:00:00Z
-tie= 2017-09-26T12:39:52Z
+tie= 2018-03-15T17:14:39Z
 
 id= REAL004613
 te= Plantehormoner
@@ -41671,11 +41660,15 @@ ba= nb
 ba= ne
 ba= nq
 bf= Flavoner
+bf= Antocyaniner
 so= REAL013856
 nn= Flavonoid
 nn= Flavon
+nn= Antocyanin
 en= Flavonoids
 en= Flavones
+en= Anthocyanins
+en= Anthocyans
 de= forskjellige fenolforbindelser i planter (anthocyaniner, flavononer, flavoner, flavonoler, isoflavonoider, auroner, chalkoner, leukoanthocyanidiner og katechiner) [SNL]
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-12T15:43:10Z
@@ -50943,12 +50936,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006253
 te= Antocyaniner
-ba= ne
-nn= Antocyanin
-en= Anthocyanins
-en= Anthocyans
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-09T21:45:11Z
+tis= 2018-03-15T10:52:10Z
+fly= REAL005100
 
 id= REAL006254
 te= Fysikalsk geografi
@@ -56732,9 +56723,15 @@ ba= nf
 ba= ngh
 ba= nm
 ba= ns
+bf= Algoritmeutvikling
+bf= Algoritmeteknikker
 nn= Algoritmar
+nn= Algoritmeutvikling
+nn= Algoritmeteknikkar
 en= Algorithms
+en= Algorithm engineering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-15T17:03:54Z
 st= REAL022084
 st= REAL022385
 
@@ -58314,7 +58311,9 @@ st= REAL018355
 id= REAL007114
 te= Handelsvarer
 ba= ne
+bf= Varer
 nn= Handelsvarer
+nn= Varer
 tio= 2014-08-25T00:00:00Z
 st= REAL020747
 st= REAL029415
@@ -60084,7 +60083,11 @@ st= REAL014469
 id= REAL007337
 te= Seriell kommunikasjon
 ba= ni
+bf= RS-232
+bf= RS-232c
 nn= Seriell kommunikasjon
+nn= RS-232
+nn= RS-232c
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007338
@@ -64355,7 +64358,6 @@ ba= nq
 nn= Arealbruk
 en= Land use
 tio= 2014-08-25T00:00:00Z
-st= REAL015105
 
 id= REAL007869
 te= Former
@@ -65039,16 +65041,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007956
 te= Anvendelser
-ba= ni
-ba= nk
-ba= nb
-ba= nf
-ba= nm
-nn= Bruk
-en= Applications
 tio= 2014-08-25T00:00:00Z
-st= REAL017578
-st= REAL021752
+tis= 2018-03-15T10:59:09Z
 
 id= REAL007957
 te= Deltasigmamodulatorer
@@ -66300,11 +66294,9 @@ st= REAL031253
 
 id= REAL008097
 te= Apotekkrukker
-ba= ne
-nn= Apotekkrukker
-en= Medicinal jars
-en= Drug jars
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T11:07:42Z
+fly= REAL012688
 
 id= REAL008098
 te= Vin
@@ -66395,9 +66387,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008112
 te= Vitenskapelige betraktninger
 ba= nb
+bf= Vitenskapelig perspektiv
 nn= Vitskaplege betraktningar
 nn= Vitskapelege betraktningar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-15T19:45:12Z
 
 id= REAL008113
 te= Markedsanalyser
@@ -68500,9 +68494,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008381
 te= Varer
-ba= nk
-nn= Varer
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T19:49:38Z
+fly= REAL007114
 
 id= REAL008382
 te= Tvillingparadokset
@@ -70380,10 +70374,8 @@ st= REAL017735
 
 id= REAL008594
 te= Anvendt forskning
-ba= ns
-nn= Bruksretta forsking
-en= Applied science
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T11:00:57Z
 
 id= REAL008595
 te= Hele funksjoner
@@ -76571,9 +76563,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009363
 te= Valensskall
-ba= nk
-nn= Valensskal
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T19:52:37Z
 
 id= REAL009364
 te= Eclipse
@@ -76993,12 +76984,14 @@ nn= Brøyske
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009420
-te= Antidoter
+te= Motgifter
 ba= ne
+bf= Antidoter
 nn= Antidotar
 nn= Motgifter
 en= Antidotes
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-15T10:44:05Z
 
 id= REAL009421
 te= Store databaser
@@ -80949,12 +80942,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009911
 te= Apotekere
 ba= ne
-so= REAL010822
+bf= Apotekpersonale
 nn= Apotekarar
+nn= Apotekpersonale
 en= Pharmacists
 en= Druggists
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-19T08:23:46Z
+st= REAL015627
 st= REAL021266
 st= REAL026070
 st= REAL026603
@@ -83097,8 +83092,9 @@ ba= nb
 ba= ns
 so= REAL010531
 nn= Redigering
+de= det å gi (tekst, dokument) en form som passer for offentliggjørelse; lede utgivelsen av større verk med flere medarbeidere; besørge, forestå den journalistiske ledelse av en avis, et tidsskrift el.l. [SNL]
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-07T14:37:18Z
+tie= 2018-03-15T19:43:10Z
 
 id= REAL010157
 te= Gravitasjonsstråling
@@ -88322,12 +88318,10 @@ tie= 2018-02-22T13:30:57Z
 
 id= REAL010822
 te= Apotekpersonale
-ba= ne
-so= REAL009911
-nn= Apotekpersonale
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-19T08:23:45Z
-st= REAL015627
+tis= 2018-03-15T11:06:06Z
+fly= REAL009911
 
 id= REAL010823
 te= Rasmark
@@ -89549,7 +89543,9 @@ id= REAL010984
 te= Humanevolusjon
 ba= nb
 bf= Menneskets evolusjon
+bf= Antropogeni
 nn= Humanevolusjon
+nn= Antropogeni
 en= Human evolution
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T17:26:30Z
@@ -91854,8 +91850,10 @@ tie= 2017-09-05T17:58:46Z
 id= REAL011293
 te= Manteldynamikk
 ba= nc
+bf= Mantelkonveksjon
 nn= Manteldynamikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-15T20:14:31Z
 
 id= REAL011294
 te= Kulturgeografi
@@ -94573,10 +94571,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011629
 te= Varmebehandling
-ba= nk
-nn= Varmehandsaming
-nn= Varmebehandling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T19:47:48Z
 
 id= REAL011631
 te= Verneverdi
@@ -98152,9 +98148,8 @@ tie= 2017-02-17T21:26:23Z
 
 id= REAL012067
 te= Tetonikk
-ba= nc
-nn= Tetonikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T19:58:28Z
 
 id= REAL012068
 te= Flervalgsoppgaver
@@ -101097,10 +101092,12 @@ st= REAL027235
 id= REAL012396
 te= Pleistocen
 ba= nc
+so= REAL012545
 no= Geologisk tid
 nn= Pleistocen
 de= Tidsavsnitt i kvartær, 2,6 millioner til 117 000 år siden.
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-15T20:09:01Z
 st= REAL025572
 st= REAL025858
 
@@ -101141,14 +101138,16 @@ st= REAL026675
 id= REAL012400
 te= Arkeikum
 ba= nc
+bf= Arkeozoikum
 so= REAL012255
 no= Geologisk tid
 nn= Arkeikum
+nn= Arkeozoikum
 en= Archean
 en= Archean Eon
 de= Tidsavsnitt i prekambrium, 4000 millioner til 2500 millioner år før nåtid.
 tio= 2014-08-25T00:00:00Z
-tie= 2017-03-22T12:54:20Z
+tie= 2018-03-15T11:13:36Z
 
 id= REAL012401
 te= Dyphavssedimenter
@@ -101940,7 +101939,6 @@ st= REAL019169
 st= REAL021885
 st= REAL023995
 st= REAL024793
-st= REAL025247
 st= REAL031820
 
 id= REAL012458
@@ -102827,12 +102825,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012535
 te= Approksimasjon av funksjoner
-ba= nm
-nn= Approksimasjon av funksjonar
-en= Approximation of functions
-ms= 65.20
-dw= 518.6
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T11:10:29Z
 
 id= REAL012537
 te= Matematisk optimering
@@ -102935,6 +102929,7 @@ bf= Glasiale perioder
 bf= Glasialtider
 so= REAL013385
 so= REAL000968
+so= REAL012396
 no= Brukes for istider som begrep. For tidfesting til geologisk periode, bruk siste istid, eventuelt foreslå innførsler for andre istider. ml 9.11.11
 nn= Istider
 nn= Glasialar
@@ -104735,9 +104730,11 @@ te= Apotek
 ba= ne
 bf= Apotekvesen
 bf= Apotekvesenet
+bf= Apotekdrift
 nn= Apotek
 nn= Apotekvesen
 nn= Apotekvesenet
+nn= Apotekdrift
 en= Pharmacy
 tio= 2014-08-25T00:00:00Z
 st= REAL014797
@@ -104756,21 +104753,21 @@ st= REAL029973
 
 id= REAL012687
 te= Apotekloven
-bf= Medisinalloven
-so= REAL001221
-nn= Apoteklova
-nn= Medisinallova
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-12T18:31:46Z
-st= REAL015369
-st= REAL028044
+tis= 2018-03-15T11:06:44Z
+fly= REAL001221
 
 id= REAL012688
 te= Apotekinnredning
 ba= ne
 bf= Apotekinventar
+bf= Apotekkrukker
 nn= Apotekinnreiing
 nn= Apotekinventar
+nn= Apotekkrukker
+en= Medicinal jars
+en= Drug jars
 tio= 2014-08-25T00:00:00Z
 st= REAL016412
 st= REAL022492
@@ -108388,10 +108385,13 @@ te= Pålitelighet
 ba= ni
 ba= nm
 bf= Reliabilitet
+no= For pålitelighet i teknikk, se pålitelighetsteknikk eller driftssikkerhet
 nn= Pålitelegskap
 nn= Pålitelegheit
 nn= Reliabilitet
+de= i hvilken grad man får samme resultater når en måling eller undersøkelse gjentas under identiske forhold
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-15T17:32:49Z
 
 id= REAL013031
 te= Temperaturregulering
@@ -109079,12 +109079,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013100
 te= Anvendelser av sannsynlighetsregning
-ba= nm
-nn= Bruk av sannsynsrekning
-en= Probability applications
-ms= 60.90
-dw= 519.8
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-15T10:59:52Z
 
 id= REAL013101
 te= Statistikkens grunnlag
@@ -110102,7 +110098,6 @@ en= Automata theory
 ms= 94
 dw= 005.131
 tio= 2014-08-25T00:00:00Z
-st= REAL019844
 
 id= REAL013202
 te= Kommunikasjonsteori
@@ -115055,7 +115050,6 @@ st= REAL027010
 st= REAL027193
 st= REAL027398
 st= REAL027411
-st= REAL027897
 st= REAL028246
 st= REAL028572
 st= REAL029560
