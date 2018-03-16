@@ -4145,8 +4145,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000508
 te= Todimensjonale systemer
 ba= nf
+so= REAL002527
+so= REAL003139
 nn= Todimensjonale system
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-16T19:24:48Z
 
 id= REAL000509
 te= Fosfolipider
@@ -5671,7 +5674,7 @@ ut= REAL006601
 nn= Naturleg organisk materiale
 en= Natural Organic Matter
 tio= 2014-08-25T00:00:00Z
-tie= 2018-03-02T20:10:21Z
+tie= 2018-03-16T17:31:32Z
 
 id= REAL000696
 te= Dypvannskarbonater
@@ -10996,12 +10999,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001335
 te= Nobelstiftelsen
-ba= ns
-nn= Nobelstiftinga
-en= Nobel Foundation
 tio= 2014-08-25T00:00:00Z
-st= REAL019735
-st= REAL019909
+tis= 2018-03-16T17:21:46Z
 
 id= REAL001336
 te= Puls
@@ -12762,14 +12761,19 @@ st= REAL014205
 st= REAL016680
 
 id= REAL001561
-te= Time-of-flight mass spectrometry
+te= Flyvetidsmassespektrometri
 ba= nk
+bf= TOF-massespektrometri
+bf= Flytidsmassespektrometri
 ak= TOF-MS
+ak= TOFMS
+no= CHMO:0000981
 nn= Time-of-flight massespektrometri
+nn= TOF-massespektrometri
 en= Time-of-flight mass spectrometry
-en= TOFMS
-en= TOF-MS
+en= Time-of-flight mass spectrometer
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-16T18:35:31Z
 
 id= REAL001562
 te= Radarer
@@ -19564,9 +19568,8 @@ fly= REAL003263
 
 id= REAL002396
 te= Oslonett
-ba= ni
-nn= Oslonett
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-16T17:23:40Z
 
 id= REAL002397
 te= Økonomisk vekst
@@ -20697,6 +20700,7 @@ bf= Nanostrukturerte materialer
 bf= Nanostrukturer
 so= REAL011463
 so= REAL003139
+so= REAL000508
 ut= REAL031623
 nn= Nanomateriale
 nn= Nanostrukturar
@@ -20705,7 +20709,7 @@ en= Nanomaterials
 en= Nanostructured materials
 en= Nanostructures
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-31T18:24:22Z
+tie= 2018-03-16T19:24:38Z
 st= REAL017803
 st= REAL020745
 st= REAL022714
@@ -25866,6 +25870,7 @@ te= Lavdimensjonale systemer
 ba= nf
 bf= Lavdimensjonale lagstrukturer
 so= REAL002527
+so= REAL000508
 ut= REAL002853
 nn= Lågdimensjonale system
 nn= Lågdimensjonale lagstrukturar
@@ -25873,7 +25878,7 @@ en= Low-dimensional systems
 en= Low dimensional systems
 de= systemer som i praksis er begrenset til én eller to dimensjoner
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-31T18:29:51Z
+tie= 2018-03-16T19:24:47Z
 
 id= REAL003140
 te= Plantemedisiner
@@ -26927,10 +26932,8 @@ tie= 2017-02-01T13:09:47Z
 
 id= REAL003280
 te= Byggesett
-ba= nb
-nn= Byggjesett
-nn= Byggesett
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-16T17:19:09Z
 
 id= REAL003282
 te= Dietetikk
@@ -35223,10 +35226,12 @@ nn= Øybiogeografi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004277
-te= Elementenes fordeling
+te= Grunnstoffenes fordeling
 ba= na
+bf= Elementenes fordeling
 nn= Elementfordelinga
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-16T18:23:20Z
 st= REAL025229
 
 id= REAL004278
@@ -38312,9 +38317,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004668
 te= Karkryptogamer
-ba= nb
-nn= Karkryptogam
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-16T18:09:54Z
+fly= REAL008144
 
 id= REAL004669
 te= Regresjonsmodeller
@@ -45796,11 +45801,15 @@ tis= 2017-09-25T13:05:19Z
 fly= REAL002553
 
 id= REAL005627
-te= Biologisk homologi
+te= Homologi (biologi)
 ba= ns
+bf= Biologisk homologi
+nn= Homologi (biologi)
 nn= Biologisk homologi
+en= Homology (biology)
 en= Biological homology
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-16T18:55:29Z
 
 id= REAL005628
 te= Forsvarspolitikk
@@ -45997,11 +46006,15 @@ nn= Væsketilstanden
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005651
-te= Homologi
+te= Homologi (matematikk)
 ba= nm
 ba= ns
-nn= Homologi
+bf= Homologiteori
+nn= Homologi (matematikk)
+nn= Homologiteori
+en= Homology (mathematics)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-16T18:56:48Z
 
 id= REAL005652
 te= Veterinærarbeid
@@ -53229,10 +53242,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006491
 te= Dissosiasjonsenergier
-ba= nk
-nn= Dissosiasjonsenergiar
-en= Dissociation energies
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-16T18:47:32Z
 
 id= REAL006492
 te= Husdyrhold
@@ -55464,9 +55475,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006756
 te= Halogenerte difenylforbindelser
-ba= nk
-nn= Halogenerte difenylsambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-16T18:12:43Z
 
 id= REAL006757
 te= Faselikevekter
@@ -56730,10 +56740,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006919
 te= Byggemetoder
-ba= nb
-nn= Byggjemetodar
-nn= Byggemetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-16T17:19:26Z
 
 id= REAL006920
 te= Relativistisk kvantemekanikk
@@ -66704,8 +66712,10 @@ te= Karsporeplanter
 ba= nk
 ba= nb
 ba= nq
+bf= Karkryptogamer
 nn= Karsporeplanter
 nn= Karsporeplantar
+nn= Karkryptogam
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008145
@@ -74764,10 +74774,16 @@ id= REAL009122
 te= Genetisk fingeravtrykk
 ba= ne
 bf= DNA-fingerprinting
+bf= DNA-testing
+bf= DNA-typing
+bf= DNA-profilering
 nn= Genetisk fingeravtrykk
 nn= DNA-fingerprinting
+nn= DNA-testing
+nn= DNA-typing
+nn= DNA-profilering
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-14T14:18:18Z
+tie= 2018-03-16T17:41:00Z
 
 id= REAL009123
 te= Smittevern
@@ -79436,10 +79452,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009716
 te= Hjernehinnebetennelse
 ba= ne
+bf= Meningitt
 nn= Hjernehinnebetennelse
 nn= Meningitt
 en= Meningitis
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-16T19:15:25Z
 
 id= REAL009717
 te= Kirurgi
@@ -85998,9 +86016,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010509
 te= Homologiteori
-ba= nm
-nn= Homologiteori
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-16T18:57:59Z
+fly= REAL005651
 
 id= REAL010511
 te= Dekoding
@@ -86580,12 +86598,17 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010585
 te= Fåbørstemarker
 ba= nb
+bf= Fåbørsteormer
+bf= Fåbørstemakker
+ot= REAL012614
+ut= REAL012958
 nn= Fåbørstemakkar
 nn= Fåbørstemarkar
+nn= Fåbørsteormar
 la= Oligochaeta
 dw= 592.64
 tio= 2014-08-25T00:00:00Z
-tie= 2014-11-12T00:00:00Z
+tie= 2018-03-16T18:19:24Z
 
 id= REAL010586
 te= Ekstremt regn
@@ -88304,11 +88327,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010806
 te= Dissosiasjonskonstanter
-ba= nk
-nn= Dissosiasjonskonstantar
-en= Dissociation constants
 tio= 2014-08-25T00:00:00Z
-st= REAL015640
+tis= 2018-03-16T18:47:51Z
 
 id= REAL010808
 te= Rollespill
@@ -98594,9 +98614,9 @@ tie= 2015-07-30T13:40:29Z
 
 id= REAL012123
 te= NOM
-ba= nk
-nn= NOM
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-16T17:31:26Z
+fly= REAL000695
 
 id= REAL012124
 te= Yrkesveiledning
@@ -103799,6 +103819,7 @@ ba= nb
 ba= ns
 bf= Leddmark
 bf= Annelider
+ut= REAL010585
 nn= Leddormar
 nn= Annelidar
 nn= Leddmakk
@@ -107804,6 +107825,8 @@ ba= nb
 bf= Meitemark
 bf= Jordbørsteorm
 bf= Jordbørstemark
+bf= Meitemakk
+ot= REAL010585
 nn= Meitemakkar
 nn= Jordbørstemakk
 nn= Jordbørstemark
@@ -107812,6 +107835,7 @@ nn= Meitemakk
 nn= Meitemark
 nn= Meitemarkar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-16T18:20:08Z
 st= REAL021396
 st= REAL031237
 
@@ -116757,12 +116781,15 @@ ba= nb
 ba= ne
 bf= Genmanipulering
 bf= Genetiske manipulasjoner
+bf= Gensløyd
 nn= Genmodifisering
 nn= Genetiske manipulasjonar
 nn= Genmanipulering
+nn= Gensløyd
 en= Genetic engineering
 en= Genetic modification
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-16T18:14:01Z
 
 id= REAL013625
 te= Eggdannelse
@@ -121732,16 +121759,9 @@ st= REAL028549
 
 id= REAL013958
 te= Obstetrikk
-bf= Svangerskapskomplikasjoner
-bf= Fødselshjelp
-nn= Obstetrikk
-nn= Svangerskapskomplikasjonar
-nn= Fødselshjelp
-en= Obstetrics
-en= Obstetric aid
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-07T18:50:57Z
-st= REAL023910
+tis= 2018-03-16T18:43:41Z
 
 id= REAL013959
 te= Legemidler

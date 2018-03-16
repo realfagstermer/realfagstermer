@@ -3750,8 +3750,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030897
 te= Domkirkeodden
-en= Domkirkeodden
 tio= 2015-02-20T13:08:04Z
+tis= 2018-03-16T17:36:24Z
 
 id= REAL030898
 te= Dominikanske republikk
