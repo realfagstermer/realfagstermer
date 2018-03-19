@@ -38328,8 +38328,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004668
 te= Karkryptogamer
-en= Pteridophytes
-en= Pteridophyta
 tio= 2014-08-25T00:00:00Z
 tis= 2018-03-16T18:09:54Z
 fly= REAL008144
@@ -46107,9 +46105,8 @@ fly= REAL006010
 
 id= REAL005662
 te= Avstriping
-ba= ni
-nn= Avstriping
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-19T12:24:48Z
 
 id= REAL005664
 te= Populærfysikk
@@ -68092,12 +68089,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008319
 te= Autoimmune sykdommer
 ba= nb
-so= REAL009568
+bf= Autoimmunitet
 nn= Autoimmune sjukdomar
 nn= Autoimmune sjukdommar
+nn= Autoimmunitet
 en= Autoimmune diseases
+en= Autoimmunity
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-20T10:26:28Z
+tie= 2018-03-19T14:40:05Z
 
 id= REAL008320
 te= Botanisk nomenklatur
@@ -78185,12 +78184,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009568
 te= Autoimmunitet
-ba= nb
-so= REAL008319
-nn= Autoimmunitet
-en= Autoimmunity
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-20T10:26:29Z
+tis= 2018-03-19T14:35:30Z
+fly= REAL008319
 
 id= REAL009569
 te= Koblingsmetoder
@@ -83592,7 +83589,6 @@ ba= nc
 ba= ngh
 ba= nq
 ba= ns
-ut= REAL031970
 nn= Reiser
 tio= 2014-08-25T00:00:00Z
 st= REAL016043
@@ -125900,15 +125896,9 @@ tie= 2018-01-23T16:09:12Z
 
 id= REAL031970
 te= Bilturer
-ot= REAL010194
-nn= Bilturar
-en= Road trips
-en= Automobile travel
-en= Automobile traveling
-en= Traveling by car
 tio= 2018-02-13T13:44:43Z
 tie= 2018-02-13T13:50:55Z
-st= REAL031971
+tis= 2018-03-19T15:22:41Z
 
 id= REAL031972
 te= Eksoskjelett
