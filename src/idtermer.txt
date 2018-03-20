@@ -11584,7 +11584,9 @@ st= REAL026561
 id= REAL001417
 te= Metallholdige polymerer
 ba= nk
+bf= Metallpolymerer
 nn= Metallhaldige polymerar
+nn= Metallpolymerar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001418
@@ -14277,15 +14279,16 @@ st= REAL016250
 st= REAL031333
 
 id= REAL001751
-te= Postscript
+te= PostScript
 ba= ni
 ba= nm
 bf= Encapsulated postscript
 bf= Eps
-nn= Postscript
+nn= PostScript
 nn= Encapsulated postscript
 nn= Eps
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-20T21:05:35Z
 
 id= REAL001752
 te= Differensmetoder
@@ -19223,10 +19226,13 @@ tio= 2014-08-25T00:00:00Z
 st= REAL017384
 
 id= REAL002351
-te= Heapsort
+te= Haugsortering
 ba= ni
+bf= Heapsort
+nn= Haugsortering
 nn= Heapsort
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-20T21:04:45Z
 
 id= REAL002352
 te= Grunnvannskjemi
@@ -21251,9 +21257,9 @@ tis= 2017-09-26T12:45:29Z
 
 id= REAL002584
 te= Metallpolymerer
-ba= nk
-nn= Metallpolymerar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-20T21:14:17Z
+fly= REAL001417
 
 id= REAL002585
 te= Instrumentering
@@ -21481,9 +21487,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002609
 te= Very Large Telescope Interferometer (VLTI)
-ba= na
-nn= Very Large Telescope Interferometer (VLTI)
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-20T13:52:55Z
+fly= REAL009529
 
 id= REAL002611
 te= Senking
@@ -49994,8 +50000,12 @@ st= REAL026010
 id= REAL006121
 te= Messierobjekter
 ba= na
+bf= Messierkatalogen
+bf= Messier-objeker
 nn= Messierobjekt
+nn= Messierkatalogen
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-20T15:35:55Z
 st= REAL017962
 
 id= REAL006122
@@ -52600,11 +52610,12 @@ st= REAL029449
 st= REAL029806
 
 id= REAL006431
-te= Vrml
+te= VRML
 ba= ni
 no= Virtual reality modeling language
 nn= VRML
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-20T13:53:39Z
 
 id= REAL006433
 te= Enrico fermi
@@ -54734,8 +54745,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006675
 te= Prototyping
 ba= ni
+bf= Prototyper
 nn= Grunnforming
 nn= Prototyping
+nn= Prototypar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006676
@@ -55525,9 +55538,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006764
 te= Lineære rom
-ba= nm
-nn= Lineære rom
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-20T15:41:06Z
+fly= REAL007387
 
 id= REAL006765
 te= Revolusjoner
@@ -55629,9 +55642,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006778
 te= Vold
-ba= ns
-nn= Vald
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-20T21:10:50Z
 
 id= REAL006779
 te= IT-drift
@@ -60545,7 +60557,11 @@ id= REAL007387
 te= Vektorrom
 ba= ni
 ba= nm
+bf= Lineære vektorrom
+bf= Lineære rom
 nn= Vektorrom
+nn= Lineære vektorrom
+nn= Lineære rom
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007388
@@ -77903,9 +77919,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009529
 te= Very Large Telescope Interferometer
 ba= na
+bf= Very Large Telescope Interferometer (VLTI)
 ak= VLTI
 nn= Very Large Telescope Interferometer
 nn= VLTI
+nn= Very Large Telescope Interferometer (VLTI)
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009530
@@ -78821,9 +78839,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009633
 te= Lineære vektorrom
-ba= nm
-nn= Lineære vektorrom
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-20T15:40:58Z
+fly= REAL007387
 
 id= REAL009634
 te= Dyregrupper
@@ -80889,9 +80907,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009889
 te= Prototyper
-ba= ni
-nn= Prototypar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-20T21:02:31Z
+fly= REAL006675
 
 id= REAL009890
 te= Leppeblomstfamilien
@@ -85221,8 +85239,11 @@ tie= 2016-11-25T15:59:00Z
 id= REAL010397
 te= Viskosimetri
 ba= nk
+bf= Viskosimetre
 nn= Viskosimetri
+nn= Viskosimetre
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-20T21:11:48Z
 
 id= REAL010398
 te= Arvelighet
@@ -89175,9 +89196,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010918
 te= Vindmøller
 ba= nf
+so= REAL014010
 nn= Vindmøller
 nn= Vindmylner
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-20T21:07:36Z
 
 id= REAL010919
 te= Råstoffer
@@ -89815,7 +89838,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011003
 te= Voltametri
 ba= nk
+bf= Voltameter
 nn= Voltametri
+nn= Voltameter
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011004
@@ -90767,9 +90792,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011127
 te= Voltameter
-ba= nk
-nn= Voltameter
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-20T21:11:20Z
+fly= REAL011003
 
 id= REAL011128
 te= Minne
@@ -122491,8 +122516,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL014010
 te= Vindturbiner
+so= REAL010918
 nn= Vindturbinar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-20T21:07:38Z
 
 id= REAL014011
 te= Emosjonell design
@@ -123683,12 +123710,6 @@ en= Blackbirds
 la= Icteridae
 tio= 2015-02-23T09:39:27Z
 tie= 2015-02-23T09:40:04Z
-
-id= REAL031358
-te= Øvre pasvik
-nn= Øvre Pasvik
-tio= 2015-02-23T15:23:14Z
-tie= 2015-02-23T15:23:14Z
 
 id= REAL031361
 te= Pankreassykdom
