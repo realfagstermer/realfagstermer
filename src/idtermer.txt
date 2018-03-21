@@ -5911,6 +5911,7 @@ ba= nf
 bf= Turbopascal
 nn= Pascal
 nn= Turbopascal
+en= Pascal
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -14287,6 +14288,7 @@ bf= Eps
 nn= PostScript
 nn= Encapsulated postscript
 nn= Eps
+en= PostScript
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-20T21:05:35Z
 
@@ -19231,6 +19233,7 @@ ba= ni
 bf= Heapsort
 nn= Haugsortering
 nn= Heapsort
+en= Heapsort
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-20T21:04:45Z
 
@@ -21257,6 +21260,8 @@ tis= 2017-09-26T12:45:29Z
 
 id= REAL002584
 te= Metallpolymerer
+en= Metal polymers
+en= Metallic polymers
 tio= 2014-08-25T00:00:00Z
 tis= 2018-03-20T21:14:17Z
 fly= REAL001417
@@ -43302,6 +43307,7 @@ id= REAL005299
 te= Metallurgiske industrier
 ba= nk
 nn= Metallurgiske industriar
+en= Metallurgical industries
 tio= 2014-08-25T00:00:00Z
 st= REAL027352
 
@@ -50004,6 +50010,8 @@ bf= Messierkatalogen
 bf= Messier-objeker
 nn= Messierobjekt
 nn= Messierkatalogen
+en= Messier objects
+en= Messier Catalogue
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-20T15:35:55Z
 st= REAL017962
@@ -52614,6 +52622,8 @@ te= VRML
 ba= ni
 no= Virtual reality modeling language
 nn= VRML
+en= VRML
+en= Virtual Reality Modeling Language
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-20T13:53:39Z
 
@@ -58011,6 +58021,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Plast
+en= Plastics
 tio= 2014-08-25T00:00:00Z
 st= REAL022421
 st= REAL027294
@@ -60562,6 +60573,8 @@ bf= Lineære rom
 nn= Vektorrom
 nn= Lineære vektorrom
 nn= Lineære rom
+en= Vector spaces
+en= Linear spaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007388
@@ -81722,6 +81735,7 @@ id= REAL009979
 te= Membranlipider
 ba= nb
 nn= Membranlipid
+en= Membrane lipids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009980
@@ -85242,6 +85256,7 @@ ba= nk
 bf= Viskosimetre
 nn= Viskosimetri
 nn= Viskosimetre
+en= Viscosimetry
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-20T21:11:48Z
 
@@ -88531,6 +88546,7 @@ id= REAL010831
 te= Platinakatalysatorer
 ba= nk
 nn= Platinakatalysatorar
+en= Platinum catalysts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010832
@@ -89841,6 +89857,9 @@ ba= nk
 bf= Voltameter
 nn= Voltametri
 nn= Voltameter
+en= Voltammetry
+en= Coulometers
+en= Voltameters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011004
@@ -96237,6 +96256,7 @@ id= REAL011801
 te= Plastider
 ba= nb
 nn= Plastid
+en= Plastids
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011802
