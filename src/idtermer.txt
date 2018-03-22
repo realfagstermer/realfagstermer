@@ -27148,9 +27148,8 @@ tie= 2016-06-27T11:04:47Z
 
 id= REAL003308
 te= Urban entomologi
-ba= nb
-nn= Urban entomologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-22T14:40:41Z
 
 id= REAL003309
 te= Skoleklasser
@@ -70475,9 +70474,8 @@ tis= 2018-01-12T16:40:34Z
 
 id= REAL008592
 te= Urbane edderkoppdyr
-ba= nb
-nn= Urbane edderkoppdyr
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-22T14:40:36Z
 
 id= REAL008593
 te= Nøkleblomfamilien
