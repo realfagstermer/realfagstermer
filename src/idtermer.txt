@@ -14,9 +14,9 @@ tie= 2017-10-08T01:14:50Z
 
 id= REAL000004
 te= Tunge atomkjerner
-ba= nk
-nn= Tunge atomkjernar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-23T16:57:12Z
+fly= REAL009778
 
 id= REAL000005
 te= Diskontinuitet
@@ -57263,13 +57263,18 @@ id= REAL006977
 te= Transuraner
 ba= nk
 ba= nf
+bf= Tunge grunnstoffer
+bf= Tunge elementer
 so= REAL012416
+so= REAL012383
 nn= Transuran
+nn= Tunge grunnstoff
+nn= Tunge element
 en= Transuranium elements
 en= Transuranic elements
 de= Alle grunnstoffer med atomnummer høyere enn 92 (uran). De er alle framstilt kunstig, er ustabile og desintegrerer over tid.
 tio= 2014-08-25T00:00:00Z
-tie= 2014-09-26T00:00:00Z
+tie= 2018-03-23T17:09:48Z
 st= REAL026828
 
 id= REAL006978
@@ -62647,10 +62652,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007643
 te= Moderne alkymi
-ba= nk
-nn= Moderne alkymi
 tio= 2014-08-25T00:00:00Z
-st= REAL016562
+tis= 2018-03-23T16:50:47Z
 
 id= REAL007645
 te= Fotomedisin
@@ -79964,12 +79967,10 @@ st= REAL025292
 
 id= REAL009778
 te= Supertunge grunnstoffer
-ba= nk
-bf= Supertunge elementer
-nn= Supertunge grunnstoff
-nn= Supertunge element
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-08T20:21:46Z
+tie= 2018-03-23T16:57:40Z
+tis= 2018-03-23T17:00:28Z
+fly= REAL012383
 
 id= REAL009779
 te= Silikonplast
@@ -101037,8 +101038,12 @@ nn= Grunnstoffgruppe 16
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012383
-te= Transaktinider
+te= Transactinider
 ba= nk
+bf= Supertunge grunnstoffer
+bf= Supertunge elementer
+bf= Supertunge atomer
+bf= Transaktinider
 so= REAL012358
 so= REAL012325
 so= REAL012362
@@ -101047,9 +101052,14 @@ so= REAL012335
 so= REAL012344
 so= REAL012324
 so= REAL012359
+so= REAL006977
+nn= Transactinid
 nn= Transaktinid
-de= Grunnstoffene med atomnummer fra 104 til og med 118
+nn= Supertunge grunnstoff
+nn= Supertunge element
+de= Grunnstoffer med atomnummer 104 og høyere
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-23T17:12:43Z
 
 id= REAL012384
 te= Antivirale legemidler
@@ -111182,7 +111192,9 @@ ba= nk
 bf= Tungioner
 nn= Tunge ion
 nn= Tungion
+de= Innen kjernefysikk, ion med masse større enn helium-4-kjernen (alfapartikkel)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-23T17:08:19Z
 
 id= REAL013279
 te= Tynnfilmer
