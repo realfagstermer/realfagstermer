@@ -988,6 +988,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000122
 te= Ikke-lineær regresjon
 ba= nm
+ot= REAL013113
 nn= Ikkje-lineær regresjon
 en= Nonlinear regression
 tio= 2014-08-25T00:00:00Z
@@ -1615,9 +1616,8 @@ tie= 2014-11-12T00:00:00Z
 
 id= REAL000192
 te= Konsekvenser
-ba= nb
-nn= Konsekvensar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T11:53:19Z
 
 id= REAL000193
 te= Absorpsjonsspektra
@@ -3039,9 +3039,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000373
 te= Anleggsvirksomhet
-ba= ngh
-nn= Anleggsverksemd
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T18:20:42Z
 
 id= REAL000374
 te= Interpolasjonsteori
@@ -4850,9 +4849,8 @@ st= REAL025939
 
 id= REAL000586
 te= Selektivitet
-ba= nk
-nn= Selektivitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T15:43:57Z
 
 id= REAL000587
 te= Opsjoner
@@ -5014,6 +5012,7 @@ ba= ni
 ba= nm
 nn= Stokastisk modellering
 en= Stochastic modelling
+en= Stochastic modeling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000611
@@ -7714,10 +7713,9 @@ st= REAL027330
 
 id= REAL000950
 te= Reservoarer
-ba= nc
-ba= ngh
-nn= Reservoar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T12:29:47Z
+fly= REAL003856
 
 id= REAL000952
 te= Molekyler
@@ -7832,10 +7830,8 @@ tie= 2017-03-27T17:00:55Z
 
 id= REAL000963
 te= Laboratoriemetoder
-ba= nb
-nn= Laboratoriemetodar
 tio= 2014-08-25T00:00:00Z
-st= REAL025272
+tis= 2018-03-26T11:57:52Z
 
 id= REAL000964
 te= Informatikkfaget
@@ -8119,7 +8115,7 @@ id= REAL000997
 te= Kolonistyre
 ba= ns
 bf= Kolonialisme
-so= REAL007159
+so= REAL031328
 nn= Kolonistyre
 nn= Kolonialisme
 en= Colonial rule
@@ -10656,11 +10652,17 @@ tie= 2016-11-30T13:24:42Z
 tis= 2016-11-30T13:24:42Z
 
 id= REAL001305
-te= Seismiske hastigheter
+te= Akustisk logging
 ba= nc
+bf= Sonisk logging
+bf= Seismiske hastigheter
+nn= Akustisk logging
 nn= Seismiske snøggleikar
 nn= Seismiske hastigheiter
+nn= Sonisk logging
+de= Måling av seismiske bølgers hastighet i borehull [NGU]
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T17:46:05Z
 
 id= REAL001306
 te= Ur
@@ -11869,9 +11871,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001450
 te= Skjoma
-ba= ngh
-nn= Skjoma
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T15:58:16Z
 
 id= REAL001451
 te= Geodatasystemer
@@ -15786,12 +15787,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001943
 te= Sjøer
-ba= nb
-ba= ngh
-ba= nq
-nn= Sjøar
 tio= 2014-08-25T00:00:00Z
-st= REAL023652
+tis= 2018-03-26T16:22:50Z
+fly= REAL003414
 
 id= REAL001944
 te= Optisk mikroskopi
@@ -16743,6 +16741,7 @@ te= Automatisk modellering
 ba= ni
 nn= Automatisk modellering
 en= Automatic modeling
+en= Automatic modelling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002064
@@ -18129,10 +18128,10 @@ tie= 2017-03-01T18:39:32Z
 
 id= REAL002219
 te= Bredemte sjøer
-ba= nq
-nn= Bredemte sjøar
-en= Proglacial lakes
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T16:03:49Z
+tis= 2018-03-26T16:18:07Z
+fly= REAL031862
 
 id= REAL002220
 te= Målere
@@ -18755,6 +18754,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002304
 te= Ikke-parametrisk regresjon
 ba= nm
+ot= REAL013113
 nn= Ikkje-parametrisk regresjon
 en= Nonparametric regression
 tio= 2014-08-25T00:00:00Z
@@ -20114,9 +20114,9 @@ tie= 2017-07-23T10:56:19Z
 
 id= REAL002458
 te= Digital fotogrammetri
-ba= ngh
-nn= Digital fotogrammetri
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T13:31:51Z
+fly= REAL009244
 
 id= REAL002459
 te= Belegg
@@ -20424,8 +20424,8 @@ nn= Numerisk modellering
 nn= Numerisk simulering
 nn= Computer simulation
 en= Numerical modelling
-en= Numerical simulation
 en= Numerical modeling
+en= Numerical simulation
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-13T20:59:02Z
 
@@ -20523,6 +20523,7 @@ id= REAL002507
 te= Grytehullsjøer
 ba= nc
 bf= Dødisgroper
+ot= REAL003414
 nn= Grytehòlsjøar
 nn= Gryteholsjøar
 nn= Daudisgroper
@@ -20817,7 +20818,6 @@ bf= Bistand
 bf= Utviklingshjelp
 bf= Internasjonal utviklingshjelp
 bf= Utviklingssamarbeid
-so= REAL003132
 nn= Bistandsarbeid
 nn= Utviklingshjelp
 nn= Internasjonal utviklingshjelp
@@ -20863,9 +20863,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002544
 te= Lineære regresjonsmodeller
-ba= nm
-nn= Lineære regresjonsmodellar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T17:34:02Z
+fly= REAL011427
 
 id= REAL002545
 te= Elektronspektra
@@ -21631,10 +21631,13 @@ nn= Integrerbare strukturar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002629
-te= Halvørkner
+te= Steppeklima
 ba= ngh
+bf= Halvørkner
+nn= Steppeklima
 nn= Halvørkenar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T12:21:29Z
 
 id= REAL002630
 te= Informasjons- og kommunikasjonsteknologi
@@ -22076,10 +22079,9 @@ st= REAL028712
 
 id= REAL002690
 te= Oljevirksomhet
-ba= nb
-nn= Oljeverksemd
 tio= 2014-08-25T00:00:00Z
-st= REAL023768
+tis= 2018-03-26T17:09:48Z
+fly= REAL010611
 
 id= REAL002691
 te= Marin bioteknologi
@@ -22992,9 +22994,8 @@ st= REAL031127
 
 id= REAL002794
 te= Arealregulering
-ba= ns
-nn= Arealregulering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T18:22:26Z
 
 id= REAL002795
 te= Evolusjonær databehandling
@@ -23927,9 +23928,9 @@ st= REAL031165
 
 id= REAL002899
 te= Submarine ras
-ba= nc
-nn= Submarine ras
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T19:01:30Z
+fly= REAL013623
 
 id= REAL002900
 te= Marin strandvegetasjon
@@ -24480,9 +24481,8 @@ fly= REAL011368
 
 id= REAL002971
 te= Vannkilder
-ba= ngh
-nn= Vasskjelder
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T13:58:52Z
 
 id= REAL002972
 te= Splines
@@ -25816,12 +25816,9 @@ st= REAL028683
 
 id= REAL003132
 te= Nødhjelp
-ba= ngh
-so= REAL002539
-nn= Naudhjelp
-nn= Nødhjelp
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-05T14:46:11Z
+tis= 2018-03-26T15:27:07Z
 
 id= REAL003133
 te= ODMG
@@ -25864,8 +25861,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003138
 te= Undervannstopografi
 ba= ngh
+so= REAL005586
 nn= Undervasstopografi
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T17:19:24Z
 st= REAL017644
 st= REAL022620
 
@@ -26055,11 +26054,14 @@ en= Parallel systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003166
-te= Vannbruksplaner
+te= Vannbruksplanlegging
 ba= ngh
+bf= Vannbruksplaner
 nn= Vassbruksplanar
 nn= Vassbruksplaner
+nn= Vassbruksplanlegging
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T13:55:52Z
 
 id= REAL003167
 te= Jordas mantel
@@ -27040,18 +27042,9 @@ st= REAL029882
 
 id= REAL003295
 te= Oljegeologi
-ba= nk
-ba= nc
-ba= ngh
-ba= nm
-nn= Oljegeologi
 tio= 2014-08-25T00:00:00Z
-st= REAL016616
-st= REAL016726
-st= REAL016756
-st= REAL023948
-st= REAL025374
-st= REAL029678
+tis= 2018-03-26T17:10:48Z
+fly= REAL006694
 
 id= REAL003296
 te= Synsprosesser
@@ -28074,8 +28067,14 @@ ba= nc
 ba= ngh
 ba= nq
 ba= ns
+bf= Sjøer
+so= REAL031862
+ut= REAL008843
+ut= REAL002507
 nn= Innsjøar
+nn= Sjøar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T16:23:15Z
 st= REAL020130
 st= REAL020181
 st= REAL021127
@@ -28481,10 +28480,15 @@ st= REAL027392
 st= REAL027495
 
 id= REAL003463
-te= Havklima
+te= Maritimt klima
 ba= ngh
+bf= Kystklima
+bf= Havklima
+nn= Maritimt klima
 nn= Havklima
+nn= Kystklima
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T13:29:27Z
 
 id= REAL003464
 te= Bipolare transistorer
@@ -30385,10 +30389,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003693
 te= Marginer
-ba= nc
-nn= Marginar
 tio= 2014-08-25T00:00:00Z
-st= REAL014781
+tis= 2018-03-26T13:14:53Z
 
 id= REAL003694
 te= Livssyn
@@ -31812,9 +31814,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003856
 te= Oljereservoarer
-ba= nk
-nn= Oljereservoar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T12:30:49Z
+fly= REAL006430
 
 id= REAL003857
 te= Utstillingsteknikk
@@ -32467,9 +32469,8 @@ tie= 2017-10-06T16:47:36Z
 
 id= REAL003932
 te= Svarte (folkegrupper)
-ba= ns
-nn= Svarte (folkegrupper)
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T11:48:49Z
 
 id= REAL003933
 te= Sangfugler
@@ -33977,7 +33978,9 @@ ba= nq
 ba= ns
 nn= Modellering
 en= Modeling
+en= Modelling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T13:18:17Z
 st= REAL015205
 st= REAL018372
 st= REAL019145
@@ -35468,10 +35471,12 @@ te= Oljeboring
 ba= nc
 ba= ngh
 ba= nm
+so= REAL006938
 nn= Oljeboring
 en= Oil drilling
 en= Oil well drilling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T18:35:32Z
 st= REAL014794
 st= REAL019155
 st= REAL026855
@@ -35805,9 +35810,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004347
 te= Kontinenter
-ba= nc
-nn= Kontinent
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T18:39:41Z
 
 id= REAL004348
 te= Malaria
@@ -36321,6 +36325,7 @@ st= REAL028729
 id= REAL004416
 te= Kvantitativ regresjonsanalyse
 ba= nm
+ot= REAL013113
 nn= Kvantitativ regresjonsanalyse
 tio= 2014-08-25T00:00:00Z
 
@@ -37414,9 +37419,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004554
 te= Deltasekvenser
-ba= nc
-nn= Deltasekvensar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T11:52:44Z
 
 id= REAL004555
 te= Personlige datamaskiner
@@ -38174,6 +38178,7 @@ nn= Datamodellar
 nn= Datamodellering
 en= Data models
 en= Data modeling
+en= Data modelling
 de= beskrivelse av datastrukturer i tabeller e.l.
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-13T20:56:29Z
@@ -38335,9 +38340,9 @@ fly= REAL008144
 
 id= REAL004669
 te= Regresjonsmodeller
-ba= nm
-nn= Regresjonsmodellar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T17:35:33Z
+fly= REAL013113
 
 id= REAL004670
 te= Bifunksjonelle forbindelser
@@ -39071,9 +39076,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004762
 te= Brentformasjonen
-ba= nc
-nn= Brentformasjonen
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T18:36:24Z
 
 id= REAL004763
 te= Typesetting
@@ -39958,9 +39962,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004877
 te= Fjellvann
-ba= nb
-nn= Fjellvatn
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T16:04:46Z
+fly= REAL008843
 
 id= REAL004878
 te= Fjellinsekter
@@ -43005,9 +43009,8 @@ fly= REAL005687
 
 id= REAL005262
 te= Livsstil
-ba= nb
-nn= Livsstil
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T11:59:02Z
 
 id= REAL005263
 te= Kjemiske mutagener
@@ -45031,6 +45034,7 @@ bf= Hydrologiske modeller
 nn= Hydrologisk modellering
 nn= Hydrologiske modellar
 en= Hydrologic modeling
+en= Hydrologic modelling
 tio= 2014-08-25T00:00:00Z
 st= REAL021270
 st= REAL028184
@@ -45259,11 +45263,8 @@ fly= REAL004958
 
 id= REAL005555
 te= Boring
-ba= nk
-ba= nc
-ba= nf
-nn= Boring
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T18:30:39Z
 
 id= REAL005556
 te= Kroppslyder
@@ -45487,19 +45488,19 @@ te= Batymetri
 ba= ni
 ba= nc
 ba= ns
+so= REAL003138
 nn= Batymetri
 en= Bathymetry
 de= Måling av havdyp
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T17:19:23Z
 st= REAL014702
 st= REAL019340
 
 id= REAL005587
 te= Analytiske målemetoder
-ba= nk
-ba= nc
-nn= Analytiske målemetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T18:19:19Z
 
 id= REAL005588
 te= Vulkanske xenolitter
@@ -46306,11 +46307,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005685
 te= Regresjon
-ba= nc
-ba= nm
-nn= Regresjon
 tio= 2014-08-25T00:00:00Z
-st= REAL029861
+tis= 2018-03-26T17:33:20Z
+fly= REAL013113
 
 id= REAL005686
 te= Skriftspråk
@@ -47260,9 +47259,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005790
 te= Loggdata
-ba= nc
-nn= Loggdata
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T17:52:05Z
+fly= REAL012942
 
 id= REAL005791
 te= Kunnskapsinnsamling
@@ -48263,29 +48262,8 @@ st= REAL026530
 
 id= REAL005916
 te= Landskap
-ba= nk
-ba= na
-ba= nb
-ba= nc
-ba= nq
-ba= ns
-nn= Landskap
 tio= 2014-08-25T00:00:00Z
-st= REAL016327
-st= REAL016961
-st= REAL016993
-st= REAL017360
-st= REAL019584
-st= REAL020105
-st= REAL020493
-st= REAL021860
-st= REAL022447
-st= REAL026400
-st= REAL028424
-st= REAL028944
-st= REAL029095
-st= REAL029567
-st= REAL029735
+tis= 2018-03-26T18:48:05Z
 
 id= REAL005917
 te= Transaksjonsmodeller
@@ -48796,9 +48774,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005986
 te= Kondensat
-ba= nc
-nn= Kondensat
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T18:38:58Z
 
 id= REAL005987
 te= Komponentbasert programmering
@@ -49661,10 +49638,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006085
 te= Værprognoser
-ba= ngh
-nn= Vêrprognosar
-nn= Verprognosar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T17:17:13Z
+fly= REAL011507
 
 id= REAL006086
 te= Vitenskapelig veiledning
@@ -51802,9 +51778,10 @@ ba= nq
 bf= Arealforvaltning
 nn= Arealplanlegging
 nn= Arealforvalting
-en= Spatial planning
-en= Spatial administration
+en= Land-use planning
+en= Land planning
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T18:23:08Z
 st= REAL025661
 
 id= REAL006339
@@ -52096,6 +52073,7 @@ ba= nb
 bf= Økologiske analyser
 bf= Økologiske aspekter
 bf= Økologiske konsekvenser
+so= REAL013722
 nn= Økologiske effektar
 nn= Økologiske analysar
 nn= Økologiske aspekt
@@ -52104,6 +52082,7 @@ en= Ecological effects
 en= Ecological analysis
 en= Ecological consequences
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T11:53:42Z
 
 id= REAL006369
 te= Dyrking
@@ -52540,13 +52519,18 @@ bf= Hydrokarbonforekomster
 bf= Hydrokarbonavsetninger
 bf= Oljeforekomster
 bf= Gassforekomster
+bf= Oljereservoarer
+bf= Reservoarer
 so= REAL004145
+so= REAL011872
 nn= Petroleumsførekomstar
 nn= Hydrokarbonførekomstar
 nn= Hydrokarbonavsetjingar
 nn= Hydrokarbonavsettingar
 nn= Oljeførekomstar
 nn= Gassførekomstar
+nn= Oljereservoar
+nn= Reservoar
 en= Petroleum reservoirs
 en= Oil and gas reservoirs
 en= Hydrocarbon reservoirs
@@ -54758,11 +54742,13 @@ ba= ngh
 ba= nq
 ba= ns
 bf= Geografisk utbredelse
+bf= Biologisk geografi
 nn= Biogeografi
 nn= Geografisk utbreiing
+nn= Biologisk geografi
 en= Biogeography
 tio= 2014-08-25T00:00:00Z
-tie= 2017-03-27T08:55:24Z
+tie= 2018-03-26T18:08:43Z
 st= REAL014558
 st= REAL015015
 st= REAL015203
@@ -54923,7 +54909,9 @@ ba= nc
 ba= nf
 ba= ngh
 ba= ns
+bf= Oljegeologi
 nn= Petroleumsgeologi
+nn= Oljegeologi
 en= Petroleum geology
 tio= 2014-08-25T00:00:00Z
 tie= 2016-10-11T18:40:37Z
@@ -55172,10 +55160,8 @@ st= REAL022496
 
 id= REAL006719
 te= Kjemisk kvalitet
-ba= nc
-nn= Kjemisk kvalitet
 tio= 2014-08-25T00:00:00Z
-st= REAL014126
+tis= 2018-03-26T12:38:50Z
 
 id= REAL006720
 te= Funksjonsrom
@@ -56359,9 +56345,8 @@ tie= 2015-02-05T00:00:00Z
 
 id= REAL006869
 te= Submarine vifter
-ba= nc
-nn= Submarine vifter
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T19:04:18Z
 
 id= REAL006870
 te= Hydroakustikk
@@ -56945,10 +56930,12 @@ id= REAL006938
 te= Brønnboring
 ba= nc
 ba= ngh
+so= REAL004306
 nn= Brunnboring
 nn= Brønnboring
 en= Well drilling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T18:35:31Z
 st= REAL018748
 st= REAL025356
 st= REAL028480
@@ -58297,6 +58284,7 @@ ak= CAM
 so= REAL031569
 nn= Datastøtta modellering
 en= Computer aided modeling
+en= Computer aided modelling
 tio= 2014-08-25T00:00:00Z
 tie= 2016-01-21T13:01:26Z
 
@@ -58766,13 +58754,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007159
 te= Kolonier
-ba= nb
-ba= nc
-ba= ns
-so= REAL000997
-nn= Koloniar
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-03T00:00:00Z
+tis= 2018-03-26T13:32:43Z
+fly= REAL031328
 
 id= REAL007160
 te= Objektorienterte språk
@@ -59132,6 +59117,7 @@ te= Geokjemisk modellering
 ba= nc
 nn= Geokjemisk modellering
 en= Geochemical modelling
+en= Geochemical modeling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007208
@@ -64747,12 +64733,13 @@ ba= nb
 bf= Romlig struktur
 bf= Romlig økologi
 bf= Romlige mønstre
+so= REAL011368
 nn= Romleg fordeling
 nn= Romleg struktur
 nn= Romleg økologi
 nn= Romlege mønster
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-28T14:22:39Z
+tie= 2018-03-26T15:52:10Z
 
 id= REAL007910
 te= Økologiske systemer
@@ -66958,7 +66945,8 @@ id= REAL008173
 te= Objektorientert modellering
 ba= ni
 nn= Objektorientert modellering
-en= Objectoriented modelling
+en= Object oriented modelling
+en= Object oriented modeling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008175
@@ -67422,16 +67410,16 @@ nn= Katalytisk spalting
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008230
-te= Rekombinasjon
+te= Genetisk rekombinasjon
 ba= nk
-bf= Genetisk rekombinasjon
 bf= Genetisk rekombinering
+bf= Rekombinasjon
 so= REAL004482
 nn= Rekombinasjon
 nn= Genetisk rekombinasjon
 nn= Genetisk rekombinering
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-06T00:00:00Z
+tie= 2018-03-26T12:00:04Z
 st= REAL024661
 
 id= REAL008231
@@ -68508,10 +68496,12 @@ tis= 2017-11-13T16:35:39Z
 fly= REAL005521
 
 id= REAL008373
-te= Rekursive sekvenser
+te= Rekursive tallfølger
 ba= nm
+bf= Rekursive sekvenser
 nn= Rekursive sekvensar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T10:57:03Z
 
 id= REAL008374
 te= Syntetiske immunogener
@@ -71347,11 +71337,8 @@ fly= REAL005017
 
 id= REAL008698
 te= Kjemiske forandringer
-ba= nc
-nn= Kjemiske forandringar
-nn= Kjemiske endringar
 tio= 2014-08-25T00:00:00Z
-st= REAL016326
+tis= 2018-03-26T12:38:10Z
 
 id= REAL008700
 te= Entropi
@@ -72479,7 +72466,10 @@ id= REAL008843
 te= Alpine innsjøer
 ba= nb
 bf= Fjellsjøer
+bf= Fjellvann
+ot= REAL003414
 nn= Alpine innsjøar
+nn= Fjellvatn
 en= Alpine lakes
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T16:45:14Z
@@ -74534,8 +74524,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009087
 te= Øygrupper
 ba= nq
+bf= Arkipeler
 nn= Øygrupper
+nn= Arkipel
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T12:19:14Z
 
 id= REAL009088
 te= Dioxiraner
@@ -75758,7 +75751,9 @@ ba= nc
 ba= ngh
 ba= nm
 ba= ns
+bf= Digital fotogrammetri
 nn= Fotogrammetri
+nn= Digital fotogrammetri
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009245
@@ -76388,12 +76383,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-02-02T00:00:00Z
 
 id= REAL009325
-te= Oljefeller
+te= Petroleumsfeller
 ba= nc
+bf= Oljefeller
 nn= Oljefeller
 en= Petroleum traps
 en= Oil traps
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T17:07:18Z
 
 id= REAL009326
 te= Galerkinmetoder
@@ -76883,6 +76880,7 @@ te= Økologisk modellering
 ba= nb
 nn= Økologisk modellering
 en= Ecological modeling
+en= Ecological modelling
 en= Ecosystem models
 tio= 2014-08-25T00:00:00Z
 
@@ -76925,9 +76923,9 @@ tis= 2018-03-02T19:20:08Z
 
 id= REAL009397
 te= Debris
-ba= na
-nn= Debris
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T19:22:43Z
+fly= REAL012828
 
 id= REAL009398
 te= Digital botanikk
@@ -77148,17 +77146,21 @@ st= REAL018108
 st= REAL025875
 
 id= REAL009424
-te= Grenselag
+te= Grenselagsmeteorologi
 ba= ngh
 bf= Grensesjikt
 bf= Grenselagsteori
 bf= Grenselagsstrømninger
+bf= Planetære grenselag
+bf= Atmosfæriske grenselag
+bf= Grenselag
+nn= Grenselagsmeteorologi
 nn= Grenselag
 nn= Grensesjikt
 nn= Grenselagsteori
 nn= Grenselagsstrøymingar
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-21T21:57:29Z
+tie= 2018-03-26T13:42:13Z
 
 id= REAL009425
 te= Bambus
@@ -77828,9 +77830,10 @@ st= REAL021166
 
 id= REAL009517
 te= Tyngdemodellering
-ba= nc
-nn= Tyngdemodellering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T19:07:47Z
+tis= 2018-03-26T19:16:33Z
+fly= REAL011701
 
 id= REAL009518
 te= Drakthistorie
@@ -78615,10 +78618,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009610
 te= Værobservasjoner
-ba= ngh
-nn= Vêrobservasjonar
-nn= Verobservasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T17:20:57Z
 
 id= REAL009611
 te= Ørretoppdrett
@@ -80735,12 +80736,12 @@ nn= Kjemisk tilstand
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009867
-te= Morgan-Keenan klassifikasjon
+te= Morgan–Keenan-klassifikasjon
 ba= na
 ot= REAL008560
 nn= Morgan-Keenan-klassifikasjon
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-17T10:38:28Z
+tie= 2018-03-26T11:33:56Z
 st= REAL018185
 
 id= REAL009868
@@ -83471,10 +83472,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010177
 te= Dybdeforhold
-ba= ngh
-nn= Djupnetilhøve
-nn= Djupneforhold
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T17:26:48Z
 
 id= REAL010178
 te= Store teleskoper
@@ -84336,9 +84335,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010278
 te= Sekvensielle program
-ba= ni
-nn= Sekvensielle program
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T10:43:21Z
 
 id= REAL010279
 te= Naturforskere
@@ -86843,6 +86841,7 @@ so= REAL002384
 nn= Bassengmodellering
 nn= Bassengsimulering
 en= Basin modelling
+en= Basin modeling
 en= Basin simulation
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-15T15:19:16Z
@@ -86851,10 +86850,30 @@ id= REAL010611
 te= Petroleumsindustri
 ba= nk
 ba= nc
+bf= Oljeindustri
+bf= Petroleumsvirksomhet
+bf= Oljevirksomhet
+so= REAL012566
 nn= Petroleumsindustri
+nn= Oljeindustri
+nn= Petroleumsverksemd
+nn= Oljeverksemd
+en= Petroleum industry
+en= Oil industry
 tio= 2014-08-25T00:00:00Z
 st= REAL014679
+st= REAL016616
+st= REAL016726
+st= REAL016756
+st= REAL020506
 st= REAL022625
+st= REAL023768
+st= REAL023948
+st= REAL025374
+st= REAL025848
+st= REAL028275
+st= REAL029296
+st= REAL029678
 
 id= REAL010612
 te= Naturstoffkjemi
@@ -90490,10 +90509,12 @@ ba= nc
 ba= ngh
 ba= nq
 ba= ns
-bf= Geohazard
+bf= Geofarer
+bf= Katastrofegeologi
 nn= Naturkatastrofar
 nn= Geohazard
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T18:13:33Z
 st= REAL016840
 st= REAL021613
 st= REAL024705
@@ -90921,10 +90942,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011149
 te= Tidevannsprosesser
-bf= Tidevannsprosesse
-de= K
 tio= 2014-08-25T00:00:00Z
-tie= 2018-01-02T13:08:04Z
+tie= 2018-03-26T13:43:43Z
 
 id= REAL011150
 te= Terpenoider
@@ -91643,10 +91662,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011248
 te= Temperaturnormaler
-ba= nb
-ba= ngh
-nn= Temperaturnormalar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T17:16:09Z
 
 id= REAL011249
 te= Lagrangeinterpolasjon
@@ -92578,12 +92595,13 @@ te= Romlig statistikk
 ba= nb
 ba= nm
 bf= Romlig analyse
+so= REAL007909
 nn= Romleg statistikk
 nn= Romleg analyse
 en= Spatial statistics
 en= Spatial analysis
 tio= 2014-08-25T00:00:00Z
-tie= 2016-06-28T14:14:37Z
+tie= 2018-03-26T15:52:10Z
 st= REAL031716
 
 id= REAL011369
@@ -93070,7 +93088,10 @@ id= REAL011427
 te= Lineær regresjon
 ba= ni
 ba= nm
+bf= Lineære regresjonsmodeller
+ot= REAL013113
 nn= Lineær regresjon
+nn= Lineære regresjonsmodellar
 en= Linear regression
 tio= 2014-08-25T00:00:00Z
 
@@ -93577,17 +93598,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011494
 te= Petroleumsvirksomhet
-ba= nk
-ba= nb
-ba= nc
-ba= ngh
-nn= Petroleumsverksemd
 tio= 2014-08-25T00:00:00Z
-st= REAL014153
-st= REAL020159
-st= REAL025848
-st= REAL028275
-st= REAL029296
+tis= 2018-03-26T17:09:26Z
+fly= REAL010611
 
 id= REAL011495
 te= Statistisk biostatistikk
@@ -93695,11 +93708,14 @@ te= Værvarsling
 ba= nm
 ba= ns
 bf= Værmelding
+bf= Værprognoser
 so= REAL000685
 nn= Vêrvarsling
 nn= Vervarsling
 nn= Vêrmelding
 nn= Vermelding
+nn= Vêrprognosar
+nn= Verprognosar
 en= Weather forecasting
 en= Weather forecasts
 tio= 2014-08-25T00:00:00Z
@@ -95397,15 +95413,20 @@ nn= Nevromodulatorar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011701
-te= Gravimetri
+te= Gravimetri (geologi)
 ba= nc
 ba= ngh
+bf= Tyngdemodellering
+bf= Tetthetsmodellering
+bf= Tyngdeanomalier
 so= REAL031909
-nn= Gravimetri
-en= Gravimetry
+nn= Gravimetri (geologi)
+nn= Tyngdemodellering
+nn= Tettleiksmodellering
+en= Gravimetry (geology)
 de= Gravimetri er måling av gravitasjon (tyngdekraft)
 tio= 2014-08-25T00:00:00Z
-tie= 2017-11-08T15:13:30Z
+tie= 2018-03-26T19:18:48Z
 st= REAL020769
 st= REAL021035
 
@@ -96817,8 +96838,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011872
 te= Reservoargeologi
 ba= nc
+so= REAL006430
 nn= Reservoargeologi
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T12:31:06Z
 st= REAL019100
 
 id= REAL011873
@@ -99794,11 +99817,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012251
 te= Skredfare
-ba= ngh
-bf= Rasfare
-nn= Skredfare
-nn= Rasfare
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T16:26:11Z
 
 id= REAL012252
 te= Fotokjemisk nedbrytning
@@ -100239,12 +100259,17 @@ nn= Tilstandslikningar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012303
-te= Kritt-tertiær-grensen
+te= Kritt-paleogen-grensen
 ba= nc
 bf= K/T-grensen
+bf= Kritt-tertiær-grensen
+bf= K-Pg-grensen
+nn= Kritt-paleogen-grensa
 nn= Kritt-tertiær-grensa
 nn= K/T-grensa
+de= geologisk signatur
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T18:43:32Z
 
 id= REAL012304
 te= Tertiær
@@ -101327,10 +101352,14 @@ id= REAL012401
 te= Dyphavssedimenter
 ba= ns
 bf= Dyphavsavsetninger
+bf= Pelagiske sedimenter
+so= REAL012415
 nn= Djuphavssediment
 nn= Djuphavsavsetjingar
 nn= Djuphavsavsettingar
+nn= Pelagiske sediment
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T16:41:15Z
 
 id= REAL012402
 te= Fluviale sedimenter
@@ -101534,11 +101563,15 @@ ba= nc
 ba= ngh
 bf= Marine avsetninger
 bf= Havbunnssedimenter
+bf= Havavsetninger
+so= REAL012401
 nn= Marine sediment
 nn= Havbotnsediment
 nn= Marine avsetjingar
 nn= Marine avsettingar
+nn= Havavsettingar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T17:59:21Z
 st= REAL014249
 st= REAL014724
 st= REAL016709
@@ -103324,14 +103357,9 @@ st= REAL026093
 
 id= REAL012565
 te= Oljeindustri
-ba= nk
-ba= nc
-ba= ngh
-so= REAL012566
-nn= Oljeindustri
-en= Petroleum industry
 tio= 2014-08-25T00:00:00Z
-st= REAL020506
+tis= 2018-03-26T14:00:31Z
+fly= REAL010611
 
 id= REAL012566
 te= Oljeutvinning
@@ -103339,7 +103367,7 @@ ba= nk
 ba= nc
 ba= ngh
 ba= nm
-so= REAL012565
+so= REAL010611
 nn= Oljeutvinning
 en= Petroleum extraction
 en= Oil extraction
@@ -106531,6 +106559,7 @@ en= Space trash
 en= Space waste
 en= Space litter
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T19:22:49Z
 
 id= REAL012829
 te= Schrödingerligningen
@@ -107727,14 +107756,18 @@ ba= nc
 bf= Logging
 bf= Borelogging
 bf= Brønnlogging
+bf= Loggdata
 nn= Borehòlslogging
 nn= Boreholslogging
 nn= Borelogging
 nn= Brunnlogging
 nn= Brønnlogging
 nn= Logging
+nn= Loggdata
 en= Well logging
+en= Well logs
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T18:32:14Z
 st= REAL028791
 
 id= REAL012943
@@ -109373,12 +109406,8 @@ fly= REAL004658
 
 id= REAL013110
 te= Sekvensielle metoder
-ba= nm
-nn= Sekvensielle metodar
-en= Sequential methods
-ms= 62.45
-dw= 519.54
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-26T10:43:03Z
 
 id= REAL013111
 te= Informasjonsteoretiske metoder
@@ -109405,11 +109434,23 @@ ba= ni
 ba= nk
 ba= nm
 ba= ns
+bf= Regresjon
+bf= Regresjonsmodeller
+ut= REAL011427
+ut= REAL004416
+ut= REAL000122
+ut= REAL002304
 nn= Regresjonsanalyse
+nn= Regresjon
+nn= Regresjonsmodellar
 en= Regression analysis
+en= Regression
+en= Regression models
 ms= 62.55
 dw= 519.536
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T17:36:40Z
+st= REAL029861
 
 id= REAL013114
 te= Hierarkiske modeller
@@ -116740,7 +116781,6 @@ so= REAL013620
 so= REAL013621
 so= REAL013622
 so= REAL013623
-so= REAL012251
 so= REAL031690
 nn= Skred
 nn= Ras
@@ -116756,15 +116796,17 @@ id= REAL013620
 te= Fjellskred
 ba= nc
 bf= Steinras
+bf= Steinskred
 so= REAL013619
 nn= Fjellskred
 nn= Steinras
+nn= Steinskred
 en= Rockfalls
 en= Rockslides
 en= Rock avalanches
 de= Massebevegelse hvor store bergmasser styrter ut fra et fjell.
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-14T14:29:51Z
+tie= 2018-03-26T16:28:45Z
 
 id= REAL013621
 te= Jordskred
@@ -116820,11 +116862,13 @@ te= Undervannskred
 ba= nc
 bf= Undersjøiske ras
 bf= Undersjøiske skred
+bf= Submarine ras
 so= REAL013621
 so= REAL002576
 nn= Undervasskred
 nn= Undersjøiske skred
 nn= Undersjøiske ras
+nn= Submarine ras
 en= Submarine slides
 en= Marine landslides
 en= Submarine landslides
@@ -118077,6 +118121,7 @@ ba= nb
 bf= Miljøpåvirkninger
 bf= Miljørisiko
 bf= Miljøkonsekvenser
+so= REAL006368
 nn= Miljøeffektar
 nn= Miljøkonsekvensar
 nn= Miljøpåverknadar
@@ -119019,6 +119064,7 @@ no= Brukes om teoretiske beregninger av molekylstrukturer; bindinger, avstander,
 nn= Molekylmodellering
 nn= Molekylær modellering
 en= Molecular modelling
+en= Molecular modeling
 de= Beregningsmodeller. Modellering av molekylers struktur og reaksjoner med teoretiske metoder.
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-19T09:37:04Z
@@ -119201,6 +119247,7 @@ nn= Utrydjing
 nn= Utsletting
 en= Extinction
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-26T18:17:36Z
 st= REAL018967
 
 id= REAL013807
@@ -120343,6 +120390,7 @@ id= REAL013842
 te= Multiskalamodellering
 nn= Multiskalamodellering
 en= Multiscale modeling
+en= Multiscale modelling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013843
@@ -123582,7 +123630,10 @@ tie= 2017-02-10T23:34:28Z
 
 id= REAL031328
 te= Kolonisering
+bf= Kolonier
+so= REAL000997
 nn= Kolonisering
+nn= Koloniar
 tio= 2015-02-03T00:00:00Z
 tie= 2015-02-03T00:00:00Z
 
@@ -123641,12 +123692,16 @@ tie= 2015-02-13T00:00:00Z
 
 id= REAL031352
 te= Sjøskorpioner
+bf= Eurypterider
 so= REAL005844
 no= Dersom vi får mulighet for å legge på samme latinske termer på to innførsler ønsker vi Merostomata i tillegg på denne. Inntil videre peker vi til dolkhaler.
 nn= Sjøskorpionar
+nn= Eurypteridar
+en= Sea scorpions
+en= Eurypterids
 la= Eurypterida
 tio= 2015-02-17T00:00:00Z
-tie= 2015-02-17T00:00:00Z
+tie= 2018-03-26T13:26:15Z
 st= REAL031388
 
 id= REAL031353
@@ -124797,6 +124852,7 @@ tie= 2016-11-08T13:10:04Z
 id= REAL031731
 te= Geodynamisk modellering
 nn= Geodynamisk modellering
+en= Geodynamic modeling
 en= Geodynamic modelling
 tio= 2016-11-08T14:10:59Z
 tie= 2016-11-08T14:11:21Z
@@ -125396,12 +125452,17 @@ id= REAL031862
 te= Glasilakustrin
 bf= Bresjøer
 bf= Glasiolakustrin
+bf= Bredemte sjøer
+bf= Bredemte innsjøer
 so= REAL010731
 so= REAL012406
 nn= Glasilakustrin
 nn= Bresjøar
 nn= Glasiolakustrin
+nn= Bredemte sjøar
+nn= Bredemte innsjøar
 en= Glaciolacustrine
+en= Proglacial lakes
 de= Former, prosesser eller materiale som har tilknytning til bresjøer. (NGO)
 tio= 2017-04-03T12:53:36Z
 tie= 2017-04-03T12:54:49Z
@@ -125770,13 +125831,16 @@ tio= 2017-11-07T20:48:02Z
 tie= 2017-11-07T20:48:02Z
 
 id= REAL031909
-te= Gravimetrisk analyse (Kjemi)
+te= Gravimetri (kjemi)
+bf= Gravimetrisk analyse (Kjemi)
 so= REAL011701
+nn= Gravimetri (kjemi)
 nn= Gravimetrisk analyse
+en= Gravimetry (chemistry)
 en= Gravimetric analysis
 de= Gravimetrisk analyse angir nøyaktig vekt til prøvemateriale
 tio= 2017-11-08T15:11:02Z
-tie= 2017-11-08T15:13:00Z
+tie= 2018-03-26T19:18:16Z
 
 id= REAL031910
 te= Yang–Mills-teori
@@ -126007,4 +126071,17 @@ nn= Kreatin
 en= Creatine
 tio= 2018-03-21T12:26:30Z
 tie= 2018-03-21T12:34:01Z
+
+id= REAL031986
+te= Kratersjøer
+bf= Vulkanske sjøer
+bf= Vulkanske innsjøer
+bf= Vulkansjøer
+nn= Kratersjøar
+nn= Vulkansjøar
+en= Crater lakes
+en= Caldera lakes
+en= Volcanic lakes
+tio= 2018-03-26T16:19:15Z
+tie= 2018-03-26T16:20:13Z
 

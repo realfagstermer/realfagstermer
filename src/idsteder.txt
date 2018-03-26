@@ -2240,9 +2240,13 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030611
 te= Nordishavet
+bf= Polhavet
+nn= Nordishavet
+nn= Polhavet
 en= Arctic Ocean
 en= Arctic Sea
 tio= 2015-02-20T13:08:04Z
+tie= 2018-03-26T12:03:02Z
 
 id= REAL030612
 te= Irak
