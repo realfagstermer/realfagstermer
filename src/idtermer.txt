@@ -12638,6 +12638,7 @@ ba= nf
 ba= ns
 so= REAL000644
 nn= Solflekkar
+en= Sunspots
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-28T01:02:45Z
 st= REAL019587
@@ -21683,6 +21684,7 @@ bf= Mellommenneskelige relasjoner
 nn= Sosiale relasjonar
 nn= Mellommenneskelege forhold
 nn= Mellommenneskelege relasjonar
+en= Social relations
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T16:10:11Z
 
@@ -28256,6 +28258,7 @@ id= REAL003438
 te= Ruby
 ba= ni
 nn= Ruby
+en= Ruby
 de= Programmeringsverktøy
 tio= 2014-08-25T00:00:00Z
 
@@ -53822,6 +53825,7 @@ ba= nf
 bf= Satellittsamband
 nn= Satellittkommunikasjon
 nn= Satellittsamband
+en= Satellite communication
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-20T14:23:14Z
 st= REAL027408
@@ -62044,6 +62048,7 @@ id= REAL007562
 te= Scala
 ba= ni
 nn= Scala
+en= Scala
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -76856,6 +76861,7 @@ ba= nm
 bf= Groupoider
 nn= Gruppoid
 nn= Groupoid
+en= Groupoids
 tio= 2014-08-25T00:00:00Z
 tie= 2017-05-12T13:16:05Z
 
@@ -97926,6 +97932,7 @@ te= Sinkoksid
 ba= nk
 so= REAL031866
 nn= Sinkoksid
+en= Zinc oxide
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-05T13:59:55Z
 
