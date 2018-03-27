@@ -527,6 +527,7 @@ tis= 2017-11-02T11:05:23Z
 id= REAL030147
 te= Seismisk atlas
 ba= nc
+en= Seismic atlases
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030148

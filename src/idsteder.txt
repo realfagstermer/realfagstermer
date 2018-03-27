@@ -2,6 +2,7 @@ id= REAL011428
 te= Karoo
 ba= nc
 nn= Karoo
+en= Karoo
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013553
@@ -4282,6 +4283,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030996
 te= Gardermoendeltaet
 ba= nc
+en= Gardermoen delta
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030997
