@@ -1,0 +1,34 @@
+@prefix real: <http://data.ub.uio.no/realfagstermer/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix agrovoc: <http://aims.fao.org/aos/agrovoc/> .
+
+real:c006839
+  a skos:Concept ;
+  skos:exactMatch agrovoc:c_29110 ;
+  skos:prefLabel "Polychaeta"@la, "Flerbørstemarker"@nb, "Fleirbørstemakkar"@nn .
+
+real:c001651
+  a skos:Concept ;
+  skos:exactMatch agrovoc:c_10195 ;
+  skos:prefLabel "Agurker"@nb, "Agurkar"@nn .
+
+real:c008094
+  a skos:Concept ;
+  skos:exactMatch agrovoc:c_13551 ;
+  skos:prefLabel "Poteter"@nb, "Potetar"@nn .
+
+real:c003927
+  a skos:Concept ;
+  skos:exactMatch agrovoc:c_49984 ;
+  skos:prefLabel "Kjernefysikk"@nb, "Kjernefysikk"@nn .
+
+real:c012704
+  a skos:Concept ;
+  skos:exactMatch agrovoc:c_29550 ;
+  skos:prefLabel "Atmosfærefysikk"@nb, "Atmosfærefysikk"@nn .
+
+real:c013800
+  a skos:Concept ;
+  skos:exactMatch agrovoc:c_550 ;
+  skos:prefLabel "Akvakultur"@nb, "Akvakultur"@nn .
+

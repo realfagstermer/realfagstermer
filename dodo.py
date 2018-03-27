@@ -77,12 +77,14 @@ def task_fetch_extras():
         'name': None
     }
     for file in [
-        {'remote': 'https://mapper.biblionaut.net/export.rdf',
-            'local': 'src/mumapper.rdf'},
-        {'remote': 'https://lambda.biblionaut.net/real_hume.rdf',
-            'local': 'src/hume.rdf'},
-        {'remote': 'https://lambda.biblionaut.net/ccmapper_ddc.rdf',
-            'local': 'src/ddc.rdf'},
+        {'remote': 'https://mapper.biblionaut.net/export/real_tekord_mappings.ttl',
+            'local': 'src/real_tekord_mappings.ttl'},
+        {'remote': 'https://mapper.biblionaut.net/export/real_agrovoc_mappings.ttl',
+            'local': 'src/real_agrovoc_mappings.ttl'},
+        {'remote': 'https://lambda.biblionaut.net/export/real_hume_mappings.ttl',
+            'local': 'src/real_hume_mappings.ttl'},
+        {'remote': 'https://lambda.biblionaut.net/export/ccmapper_mappings.ttl',
+            'local': 'src/ccmapper_mappings.ttl'},
         # {'remote': 'https://rawgit.com/realfagstermer/prosjekt-kinderegg/master/categories_and_mappings.ttl',
         #     'local': 'src/categories_and_mappings.ttl'},
     ]:
@@ -126,7 +128,10 @@ def task_build_core():
     return {
         'doc': 'Build core distribution files (JSON + TTL)',
         'basename': 'build-core',
-        'actions': [build],
+        'actions': [
+            'mkdir -p dist',
+            build,
+        ],
         'file_dep': [
             'src/idtermer.txt',
             'src/idsteder.txt',
@@ -153,7 +158,7 @@ def task_build_extras():
         roald.set_uri_format('http://data.ub.uio.no/%s/c{id}' % config['basename'], 'REAL')
 
         roald.load('src/categories_and_mappings.ttl', format='skos')  # From soksed
-        roald.load('src/hume.rdf', format='skos')  # Humord mappings from mymapper
+        roald.load('src/real_hume_mappings.ttl', format='skos')  # Humord mappings from mymapper
 
         # 1) MARC21 with $9 fields for CCMapper
         marc21options = {
@@ -167,8 +172,9 @@ def task_build_extras():
                      **marc21options)
         logger.info('Wrote dist/%s.ccmapper.marc21.xml', config['basename'])
 
-        roald.load('src/mumapper.rdf', format='skos')  # Tekord mappings
-        roald.load('src/ddc.rdf', format='skos')  # Mappings from CCMapper
+        roald.load('src/real_tekord_mappings.ttl', format='skos')  # Tekord mappings
+        roald.load('src/real_agrovoc_mappings.ttl', format='skos')  # Agrovoc mappings
+        roald.load('src/ccmapper_mappings.ttl', format='skos')  # Mappings from CCMapper
 
         # 1) MARC21 for Alma and general use
         marc21options = {
@@ -196,17 +202,20 @@ def task_build_extras():
     return {
         'doc': 'Build extra distribution files (RDF/SKOS with mappings + MARC21XML)',
         'basename': 'build-extras',
-        'actions': [build],
+        'actions': [
+            'mkdir -p dist',
+            build,
+        ],
         'file_dep': [
             'src/idtermer.txt',
             'src/idsteder.txt',
             'src/idformer.txt',
             'src/idtider.txt',
             'src/idstrenger.txt',
-            'src/mumapper.rdf',
-            'src/hume.rdf',
-            'src/ddc.rdf',
-            # 'src/nynorsk.ttl',
+            'src/real_tekord_mappings.ttl',
+            'src/real_agrovoc_mappings.ttl',
+            'src/real_hume_mappings.ttl',
+            'src/ccmapper_mappings.ttl',
             'src/categories_and_mappings.ttl',
             'src/ub-onto.ttl',
             '%s.scheme.ttl' % config['basename']

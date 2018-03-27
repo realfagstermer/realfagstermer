@@ -1,0 +1,241 @@
+{
+  "REAL004151": {
+    "altLabel": [], 
+    "prefLabel": "Trace fossils"
+  }, 
+  "REAL003294": {
+    "altLabel": [], 
+    "prefLabel": "Soil"
+  }, 
+  "REAL010512": {
+    "altLabel": [], 
+    "prefLabel": "Dynamic oceanography"
+  }, 
+  "REAL030137": {
+    "altLabel": [], 
+    "prefLabel": "Geological atlases"
+  }, 
+  "REAL006005": {
+    "altLabel": [], 
+    "prefLabel": "Depth conversion"
+  }, 
+  "REAL009039": {
+    "altLabel": [], 
+    "prefLabel": "Pedology"
+  }, 
+  "REAL003050": {
+    "altLabel": [], 
+    "prefLabel": "Physical methods"
+  }, 
+  "REAL013267": {
+    "altLabel": [], 
+    "prefLabel": "Environmental research"
+  }, 
+  "REAL031048": {
+    "altLabel": [], 
+    "prefLabel": "Gjerstadskogene"
+  }, 
+  "REAL010887": {
+    "altLabel": [
+      "Plant fossils"
+    ], 
+    "prefLabel": "Fossil plants"
+  }, 
+  "REAL006932": {
+    "altLabel": [
+      "Molecular bonding models", 
+      "Theories of chemical bonding", 
+      "Chemical bonding theories"
+    ], 
+    "prefLabel": "Chemical bonding models"
+  }, 
+  "REAL006742": {
+    "altLabel": [], 
+    "prefLabel": "Photogrammetric methods"
+  }, 
+  "REAL005834": {
+    "altLabel": [
+      "Fossil reefs"
+    ], 
+    "prefLabel": "Fossil coral reefs"
+  }, 
+  "REAL011786": {
+    "altLabel": [], 
+    "prefLabel": "Earth's gravitational field"
+  }, 
+  "REAL007484": {
+    "altLabel": [
+      "History of human settlement"
+    ], 
+    "prefLabel": "Human settlement history"
+  }, 
+  "REAL010199": {
+    "altLabel": [], 
+    "prefLabel": "Bergen Arcs"
+  }, 
+  "REAL004541": {
+    "altLabel": [], 
+    "prefLabel": "Fosil fish"
+  }, 
+  "REAL005469": {
+    "altLabel": [], 
+    "prefLabel": "Fractionation"
+  }, 
+  "REAL030138": {
+    "altLabel": [], 
+    "prefLabel": "Geological maps"
+  }, 
+  "REAL011621": {
+    "altLabel": [
+      "Environmental geography", 
+      "Integrative geography", 
+      "Human\u2013environment geography"
+    ], 
+    "prefLabel": "Integrated geography"
+  }, 
+  "REAL004409": {
+    "altLabel": [], 
+    "prefLabel": "Soil types"
+  }, 
+  "REAL005938": {
+    "altLabel": [
+      "Geotechnical surveys"
+    ], 
+    "prefLabel": "Geotechnical measurements"
+  }, 
+  "REAL006292": {
+    "altLabel": [
+      "Isotope geochemistry"
+    ], 
+    "prefLabel": "Isotope geology"
+  }, 
+  "REAL002324": {
+    "altLabel": [], 
+    "prefLabel": "Global climate systems"
+  }, 
+  "REAL030124": {
+    "altLabel": [], 
+    "prefLabel": "Geophysical maps"
+  }, 
+  "REAL008338": {
+    "altLabel": [], 
+    "prefLabel": "Soil analyses"
+  }, 
+  "REAL011944": {
+    "altLabel": [], 
+    "prefLabel": "Dynamic meteorology"
+  }, 
+  "REAL001305": {
+    "altLabel": [
+      "Sonic logging", 
+      "Seismic speeds"
+    ], 
+    "prefLabel": "Acoustic logging"
+  }, 
+  "REAL001303": {
+    "altLabel": [
+      "Wind-generated waves", 
+      "Wind waves"
+    ], 
+    "prefLabel": "Ocean waves"
+  }, 
+  "REAL010298": {
+    "altLabel": [
+      "Dynamic modelling"
+    ], 
+    "prefLabel": "Dynamic modeling"
+  }, 
+  "REAL000076": {
+    "altLabel": [], 
+    "prefLabel": "Petrochemical industry"
+  }, 
+  "REAL006273": {
+    "altLabel": [], 
+    "prefLabel": "Geological methods"
+  }, 
+  "REAL001177": {
+    "altLabel": [], 
+    "prefLabel": "Ida"
+  }, 
+  "REAL004122": {
+    "altLabel": [], 
+    "prefLabel": "Shale"
+  }, 
+  "REAL031405": {
+    "altLabel": [
+      "Geotope protection"
+    ], 
+    "prefLabel": "Protected geological areas"
+  }, 
+  "REAL001118": {
+    "altLabel": [], 
+    "prefLabel": "Geological prospecting"
+  }, 
+  "REAL006254": {
+    "altLabel": [
+      "Geosystems", 
+      "Physiography"
+    ], 
+    "prefLabel": "Physical geography"
+  }, 
+  "REAL012395": {
+    "altLabel": [], 
+    "prefLabel": "Permian"
+  }, 
+  "REAL006371": {
+    "altLabel": [], 
+    "prefLabel": "Planktonic microfossils"
+  }, 
+  "REAL003310": {
+    "altLabel": [], 
+    "prefLabel": "Physical properties"
+  }, 
+  "REAL010368": {
+    "altLabel": [
+      "Sea floor geology", 
+      "Ocean floor geology", 
+      "Regional sea floor geology", 
+      "Ocean bed geology"
+    ], 
+    "prefLabel": "Sea bed geology"
+  }, 
+  "REAL010185": {
+    "altLabel": [
+      "Traditional architecture", 
+      "Folk architecture"
+    ], 
+    "prefLabel": "Vernacular architecture"
+  }, 
+  "REAL011512": {
+    "altLabel": [], 
+    "prefLabel": "Fossil algae"
+  }, 
+  "REAL007107": {
+    "altLabel": [
+      "Geological time scales"
+    ], 
+    "prefLabel": "Geological time"
+  }, 
+  "REAL030797": {
+    "altLabel": [], 
+    "prefLabel": "Lyngdalsvassdraget"
+  }, 
+  "REAL006042": {
+    "altLabel": [
+      "Dating methods", 
+      "Chronological dating"
+    ], 
+    "prefLabel": "Dating"
+  }, 
+  "REAL005963": {
+    "altLabel": [], 
+    "prefLabel": "Iron precipitation"
+  }, 
+  "REAL009793": {
+    "altLabel": [
+      "Ocean floor", 
+      "Sea floor"
+    ], 
+    "prefLabel": "Seabed"
+  }
+}

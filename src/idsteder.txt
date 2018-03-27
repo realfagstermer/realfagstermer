@@ -1,3 +1,13 @@
+id= REAL010199
+te= Bergensfeltet
+ba= nc
+bf= Bergensbuene
+nn= Bergensfeltet
+nn= Bergensbogane
+en= Bergen Arcs
+tio= 2014-08-25T00:00:00Z
+tie= 2018-03-27T17:06:30Z
+
 id= REAL011428
 te= Karoo
 ba= nc
@@ -3244,6 +3254,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030797
 te= Lyngdalsvassdraget
+en= Lyngdalsvassdraget
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030798
@@ -4530,8 +4541,8 @@ tie= 2018-01-24T14:16:35Z
 
 id= REAL031031
 te= Sollia
-ba= ngh
 tio= 2015-02-20T13:08:04Z
+tis= 2018-03-27T21:25:54Z
 
 id= REAL031032
 te= Sørkedalsvassdraget
@@ -4631,6 +4642,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031048
 te= Gjerstadskogene
+en= Gjerstadskogene
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031049

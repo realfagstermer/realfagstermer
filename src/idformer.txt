@@ -68,6 +68,7 @@ te= Atlas
 bf= Verdensatlas
 en= Atlases
 tio= 2015-02-20T13:08:04Z
+tie= 2018-03-27T18:26:12Z
 
 id= REAL030071
 te= Barnelitteratur
@@ -402,6 +403,7 @@ tie= 2016-06-22T11:47:36Z
 
 id= REAL030124
 te= Geofysiske kart
+en= Geophysical maps
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030125
@@ -425,9 +427,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030128
 te= Breatlas
-ba= nc
-ba= ngh
 tio= 2015-02-20T13:08:04Z
+tis= 2018-03-27T18:26:07Z
+fly= REAL030137
 
 id= REAL030129
 te= Digitale kart
@@ -471,18 +473,23 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030136
 te= Geofysisk atlas
-ba= nc
 tio= 2015-02-20T13:08:04Z
+tis= 2018-03-27T18:29:44Z
+fly= REAL030137
 
 id= REAL030137
 te= Geologisk atlas
 ba= nc
+bf= Geofysisk atlas
+bf= Geokjemisk atlas
+en= Geological atlases
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030138
 te= Geologiske kart
 ba= nc
 ba= ngh
+en= Geological maps
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030139
@@ -764,6 +771,8 @@ id= REAL031678
 te= Geokjemisk atlas
 tio= 2016-05-24T13:39:56Z
 tie= 2016-05-24T13:39:56Z
+tis= 2018-03-27T18:29:51Z
+fly= REAL030137
 
 id= REAL031719
 te= Efemerider
