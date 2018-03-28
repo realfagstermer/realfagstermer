@@ -2318,8 +2318,10 @@ tie= 2015-02-02T00:00:00Z
 id= REAL000281
 te= Studiebøker
 ba= nk
+no= OBS: study guides, ikke generelle lærebøker
 nn= Studiebøker
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:34:51Z
 st= REAL021461
 
 id= REAL000282
@@ -3225,8 +3227,25 @@ tie= 2017-07-31T16:24:48Z
 id= REAL000397
 te= Synsforstyrrelser
 ba= nf
+bf= Synsskader
+bf= Makropsi
+bf= Synshemning
+bf= Mikropsi
+bf= Hemeralopi
+bf= Dagblindhet
+bf= Metamorfopsi
+so= REAL002856
 nn= Synsforstyrringar
+nn= Synsskadar
+nn= Makropsi
+nn= Mikropsi
+nn= Hemeralopi
+nn= Dagblindhet
+nn= Metamorfopsi
+nn= Synshemning
+de= Samlebetegnelse på synsdefekter som begrenser én eller flere av øyets funksjoner [MESH]
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:33:09Z
 
 id= REAL000398
 te= Overflatebehandling
@@ -16546,8 +16565,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002029
 te= Kautsjuk
 ba= ne
+so= REAL010526
 nn= Kautsjuk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:11:21Z
 
 id= REAL002030
 te= Kompleksoner
@@ -20135,9 +20156,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002451
 te= Bindingsenergier
-ba= nk
-nn= Bindingsenergiar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-28T10:47:15Z
 
 id= REAL002452
 te= Tomografi
@@ -23590,11 +23610,13 @@ ba= ni
 bf= Blinde
 bf= Synshemmede
 so= REAL011331
+so= REAL000397
 nn= Svaksynte
 nn= Blinde
 nn= Synshemja
 nn= Synshemma
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:33:10Z
 st= REAL014259
 
 id= REAL002857
@@ -24674,9 +24696,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002985
 te= Elektrontilstander
-ba= nk
-nn= Elektrontilstandar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-28T10:57:03Z
+fly= REAL003616
 
 id= REAL002986
 te= Tekniske rapporter
@@ -29887,10 +29909,11 @@ tie= 2018-03-02T21:08:42Z
 
 id= REAL003616
 te= Elektronkonfigurasjon
+bf= Elektrontilstander
+so= REAL012150
+nn= Elektrontilstandar
 tio= 2014-08-25T00:00:00Z
-tie= 2017-07-03T17:36:52Z
-tis= 2017-07-03T17:36:52Z
-fly= REAL012150
+tie= 2018-03-28T10:57:08Z
 
 id= REAL003618
 te= Dioksinderivater
@@ -34349,9 +34372,8 @@ tie= 2017-09-20T20:17:06Z
 
 id= REAL004153
 te= Heterogene systemer
-ba= nm
-nn= Heterogene system
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-28T11:05:54Z
 
 id= REAL004154
 te= Sykloaddisjonsreaksjoner
@@ -36982,9 +37004,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004476
 te= Elektroniske strukturer
-ba= nk
-nn= Elektroniske strukturar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-28T10:52:21Z
+fly= REAL012150
 
 id= REAL004477
 te= Været
@@ -53548,9 +53570,8 @@ st= REAL018079
 
 id= REAL006501
 te= Distribusjonskoeffisient
-ba= nk
-nn= Distribusjonskoeffisient
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-28T10:51:01Z
 
 id= REAL006502
 te= Parapsykologi
@@ -59917,9 +59938,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007278
 te= Elektrotermisk fordampning
-ba= nk
-nn= Elektrotermisk fordamping
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-28T11:00:31Z
 
 id= REAL007279
 te= Idealer
@@ -71307,14 +71327,15 @@ tis= 2018-01-18T12:09:25Z
 fly= REAL008471
 
 id= REAL008667
-te= Forgiftninger
+te= Forgiftning
 ba= nk
 ba= nb
 ba= ne
 ba= ngh
 ba= nq
-nn= Forgiftingar
+nn= Forgifting
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:02:52Z
 st= REAL016422
 st= REAL022723
 
@@ -74328,8 +74349,11 @@ id= REAL009045
 te= Dislokasjoner
 ba= nf
 ba= nm
+so= REAL013909
 nn= Dislokasjonar
+de= en type krystalldefekt
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T10:49:32Z
 
 id= REAL009046
 te= Astronomisk optikk
@@ -74467,8 +74491,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009061
 te= Flammeanalyse
 ba= nk
+bf= Flammetest
 nn= Flammeanalyse
+nn= Flammetest
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:01:35Z
 
 id= REAL009062
 te= Farvannsbeskrivelser
@@ -74897,10 +74924,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009102
 te= Flyktighet
-ba= nb
-nn= Flyktigheit
-nn= Volatilitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-28T11:02:31Z
 
 id= REAL009103
 te= Logisk design
@@ -86481,8 +86506,10 @@ id= REAL010526
 te= Gummi
 ba= nk
 ba= ne
+so= REAL002029
 nn= Gummi
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:11:19Z
 
 id= REAL010527
 te= Frysetørring
@@ -88097,10 +88124,8 @@ st= REAL027060
 
 id= REAL010734
 te= Eksperimentell termodynamikk
-ba= nk
-ba= ns
-nn= Eksperimentell termodynamikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-28T10:51:51Z
 
 id= REAL010735
 te= Oljespredning
@@ -94690,10 +94715,12 @@ st= REAL029401
 id= REAL011588
 te= Kjøkkenkjemi
 ba= nk
+so= REAL012244
 nn= Kjøkkenkjemi
 nn= Kjøkenkjemi
 en= Kitchen chemistry
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:08:38Z
 
 id= REAL011590
 te= Friluftsliv
@@ -99201,12 +99228,16 @@ id= REAL012150
 te= Elektronstruktur
 ba= nk
 bf= Elektronkonfigurasjon
+bf= Elektroniske strukturer
 so= REAL011638
+so= REAL003616
+no= "Elektroniske strukturer" er en dårlig term, flyttes til hiddenLabel når vi får det
 nn= Elektronstruktur
 nn= Elektronkonfigurasjon
+nn= Elektroniske strukturar
 en= Electronic structure
 tio= 2014-08-25T00:00:00Z
-tie= 2018-01-20T01:58:18Z
+tie= 2018-03-28T10:57:09Z
 st= REAL025410
 
 id= REAL012152
@@ -100096,11 +100127,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012244
 te= Hverdagskjemi
 ba= nk
+bf= Amatørkjemi
 so= REAL031503
+so= REAL011588
 nn= Kvardagskjemi
+nn= Amatørkjemi
 de= Kjemi med relevans til husholdningsprodukter og hverdagsprosesser i private husholdninger
 tio= 2014-08-25T00:00:00Z
-tie= 2015-09-22T11:01:45Z
+tie= 2018-03-28T11:09:10Z
 st= REAL027936
 
 id= REAL012245
@@ -121568,11 +121602,13 @@ bf= Krystalldefekter
 bf= Defektkjemi
 bf= Defekter
 so= REAL003168
+so= REAL009045
 nn= Krystallfeil
 nn= Defektar
 nn= Defektkjemi
 nn= Krystalldefektar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T10:48:16Z
 
 id= REAL013910
 te= Feltteorier
