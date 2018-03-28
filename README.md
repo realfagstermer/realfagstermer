@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/github/license/realfagstermer/realfagstermer.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Build Status](https://travis-ci.org/realfagstermer/realfagstermer.svg?branch=test-travis)](https://travis-ci.org/realfagstermer/realfagstermer)
+[![Build Status](https://travis-ci.org/realfagstermer/realfagstermer.svg?branch=master)](https://travis-ci.org/realfagstermer/realfagstermer)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/realfagstermer/realfagstermer.svg)]()
 [![Nye termforslag](https://img.shields.io/waffle/label/realfagstermer/realfagstermer/nytermforslag.svg
 )](https://github.com/realfagstermer/realfagstermer/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Anytermforslag)
