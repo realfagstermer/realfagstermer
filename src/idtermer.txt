@@ -1165,6 +1165,7 @@ id= REAL000144
 te= Lineatin
 ba= nk
 nn= Lineatin
+en= Lineatin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000145
@@ -2320,6 +2321,7 @@ te= Studiebøker
 ba= nk
 no= OBS: study guides, ikke generelle lærebøker
 nn= Studiebøker
+en= Study guides
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:34:51Z
 st= REAL021461
@@ -2490,6 +2492,7 @@ te= Morsomsorg
 ba= nb
 nn= Morsomsut
 nn= Morsomsorg
+en= Maternal care
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000304
@@ -3210,6 +3213,7 @@ id= REAL000393
 te= Komiteer
 ba= ns
 nn= Komitear
+en= Committees
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000396
@@ -3243,6 +3247,14 @@ nn= Hemeralopi
 nn= Dagblindhet
 nn= Metamorfopsi
 nn= Synshemning
+en= Vision disorders
+en= Micropsias
+en= Visual impairments
+en= Metamorphopsias
+en= Hemeralopias
+en= Vision disabilities
+en= Visual dysfunctions
+en= Macropsias
 de= Samlebetegnelse på synsdefekter som begrenser én eller flere av øyets funksjoner [MESH]
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:33:09Z
@@ -3253,6 +3265,7 @@ ba= nk
 ba= nf
 nn= Overflatehandsaming
 nn= Overflatebehandling
+en= Surface finishing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000399
@@ -3414,6 +3427,7 @@ id= REAL000421
 te= Materialegenskaper
 ba= nk
 nn= Materialeigenskapar
+en= Material properties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000422
@@ -3597,6 +3611,7 @@ id= REAL000441
 te= Hjerneødem
 ba= ne
 nn= Hjerneødem
+en= Cerebral edema
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000442
@@ -3899,6 +3914,7 @@ ba= nb
 bf= Smoltifikasjon
 nn= Smoltifisering
 nn= Smoltifikasjon
+en= Smoltification
 tio= 2014-08-25T00:00:00Z
 st= REAL020866
 
@@ -4464,6 +4480,7 @@ id= REAL000542
 te= Tabletter
 ba= ne
 nn= Tablettar
+en= Tablets
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000543
@@ -4822,6 +4839,7 @@ id= REAL000578
 te= Polytiofener
 ba= nk
 nn= Polytiofen
+en= Polythiophenes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000579
@@ -5069,6 +5087,7 @@ te= Smitte
 ba= nb
 ba= ne
 nn= Smitte
+en= Transmission
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000613
@@ -5687,6 +5706,7 @@ id= REAL000691
 te= Mykopatologi
 ba= nb
 nn= Mykopatologi
+en= Mycopathology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000692
@@ -5723,6 +5743,7 @@ ak= NOM
 ut= REAL006601
 nn= Naturleg organisk materiale
 en= Natural Organic Matter
+en= NOM
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-16T17:31:32Z
 
@@ -5776,6 +5797,8 @@ te= Overtro
 ba= nb
 ba= nq
 nn= Overtru
+en= Superstition
+en= Superstitious beliefs
 tio= 2014-08-25T00:00:00Z
 st= REAL029995
 
@@ -6807,6 +6830,7 @@ id= REAL000827
 te= Uorganiske membraner
 ba= nk
 nn= Uorganiske membranar
+en= Inorganic membranes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000828
@@ -9046,6 +9070,8 @@ te= Hemoglobin
 ba= nk
 ba= nb
 nn= Hemoglobin
+en= Hemoglobin
+en= Haemoglobin
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T15:58:49Z
 
@@ -11052,6 +11078,7 @@ id= REAL001332
 te= Te
 ba= ne
 nn= Te
+en= Tea
 tio= 2014-08-25T00:00:00Z
 st= REAL018576
 st= REAL020789
@@ -13857,6 +13884,8 @@ id= REAL001688
 te= Blyforurensning
 ba= nk
 nn= Blyforureining
+en= Lead pollution
+en= Lead poisioning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001689
@@ -14385,6 +14414,7 @@ id= REAL001754
 te= Ultramikroelektroder
 ba= nk
 nn= Ultramikroelektrodar
+en= Ultramicroelectrodes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001755
@@ -16567,6 +16597,9 @@ te= Kautsjuk
 ba= ne
 so= REAL010526
 nn= Kautsjuk
+en= Natural rubber
+en= India rubber
+en= Caoutchouc
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:11:21Z
 
@@ -19603,6 +19636,7 @@ te= Varmetransport
 ba= nf
 so= REAL013967
 nn= Varmetransport
+en= Heat transfer
 tio= 2014-08-25T00:00:00Z
 tie= 2015-09-22T12:18:13Z
 
@@ -19794,6 +19828,7 @@ id= REAL002409
 te= Medisinsk historie
 ba= nb
 nn= Medisinsk historie
+en= History of medicine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002410
@@ -21765,6 +21800,7 @@ te= Kosttilskudd
 ba= nb
 ba= ne
 nn= Kosttilskot
+en= Dietary supplements
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002633
@@ -24009,6 +24045,7 @@ te= Vaskulært endotel
 ba= nb
 so= REAL009737
 nn= Vaskulært endotel
+en= Vascular endothelium
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-11T00:00:00Z
 
@@ -24643,6 +24680,8 @@ id= REAL002978
 te= Legumain
 ba= ne
 nn= Legumain
+en= Legumain
+en= LGMN
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002979
@@ -27974,6 +28013,7 @@ id= REAL003385
 te= Hydroklorid
 ba= ne
 nn= Hydroklorid
+en= Hydrochloride
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003386
@@ -28749,6 +28789,8 @@ id= REAL003477
 te= Elektroniske resepter
 ba= ne
 nn= Elektroniske reseptar
+en= Electronic prescriptions
+en= Electronic prescribing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003478
@@ -31948,6 +31990,7 @@ id= REAL003855
 te= Hydrering
 ba= nk
 nn= Hydrering
+en= Hydration
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003856
@@ -32126,6 +32169,7 @@ ba= nk
 ba= nb
 ba= ne
 nn= Patentar
+en= Patents
 tio= 2014-08-25T00:00:00Z
 st= REAL014629
 st= REAL017515
@@ -32208,6 +32252,7 @@ id= REAL003884
 te= Relativistiske effekter
 ba= nk
 nn= Relativistiske effektar
+en= Relativistic effects
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003885
@@ -32480,6 +32525,7 @@ te= Plasmadiagnostikk
 ba= na
 ba= nf
 nn= Plasmadiagnostikk
+en= Plasma diagnostics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003919
@@ -32654,6 +32700,7 @@ id= REAL003936
 te= Turbiditet
 ba= nk
 nn= Turbiditet
+en= Turbidity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003937
@@ -32829,6 +32876,7 @@ id= REAL003961
 te= Litiumforbindelser
 ba= nk
 nn= Litiumsambindingar
+en= Lithium compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003962
@@ -34736,6 +34784,7 @@ ba= nk
 ba= nb
 ba= nf
 nn= Inneklima
+en= Indoor climate
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004200
@@ -35463,6 +35512,7 @@ id= REAL004283
 te= Hydroksyetylcellulose
 ba= nk
 nn= Hydroksyetylcellulose
+en= Hydroxyethyl cellulose
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004284
@@ -36182,6 +36232,7 @@ ba= ns
 bf= Medisinens historie
 so= REAL031331
 nn= Medisinhistorie
+en= History of medicine
 de= Brukes om medisinfagets historie
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-09T00:00:00Z
@@ -43683,6 +43734,7 @@ id= REAL005327
 te= Varmekapasitet
 ba= nk
 nn= Varmekapasitet
+en= Heat capacity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005328
@@ -48107,6 +48159,8 @@ id= REAL005874
 te= Nyretransplantasjoner
 ba= ne
 nn= Nyretransplantasjonar
+en= Kidney transplantations
+en= Renal transplantations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005875
@@ -51055,6 +51109,7 @@ te= Viskoelastisitet
 ba= nk
 ba= nf
 nn= Viskoelastisitet
+en= Viscoelasticity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006236
@@ -54456,6 +54511,7 @@ id= REAL006613
 te= Ultrasentrifugering
 ba= nb
 nn= Ultrasentrifugering
+en= Ultracentrifugation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006614
@@ -54930,6 +54986,8 @@ bf= Prototyper
 nn= Grunnforming
 nn= Prototyping
 nn= Prototypar
+en= Prototyping
+en= Prototypes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006676
@@ -57874,6 +57932,8 @@ id= REAL007025
 te= Fytoøstrogener
 ba= ne
 nn= Fytoøstrogen
+en= Phytoestrogens
+en= Phyto-oestrogens
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007026
@@ -58098,6 +58158,7 @@ id= REAL007058
 te= Pulver
 ba= nk
 nn= Pulver
+en= Powder
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007059
@@ -59743,6 +59804,7 @@ id= REAL007255
 te= Håranalyse
 ba= nk
 nn= Håranalyse
+en= Hair analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007256
@@ -61040,6 +61102,7 @@ te= Ledd
 ba= nb
 ba= nm
 nn= Ledd
+en= Joints
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007429
@@ -65277,6 +65340,7 @@ ba= nb
 ba= nq
 ba= ns
 nn= Kalking
+en= Liming
 tio= 2014-08-25T00:00:00Z
 st= REAL016728
 
@@ -70318,6 +70382,7 @@ ba= nc
 bf= Jordbunnskjemi
 nn= Jordkjemi
 nn= Jordbotnkjemi
+en= Soil chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL019229
 st= REAL027801
@@ -70778,6 +70843,7 @@ id= REAL008600
 te= Kolin
 ba= ns
 nn= Kolin
+en= Choline
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008601
@@ -71705,6 +71771,7 @@ id= REAL008712
 te= Kolloidale partikler
 ba= nk
 nn= Kolloidale partiklar
+en= Colloidal particles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008713
@@ -74351,6 +74418,8 @@ ba= nf
 ba= nm
 so= REAL013909
 nn= Dislokasjonar
+en= Dislocations
+en= Taylor's dislocations
 de= en type krystalldefekt
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T10:49:32Z
@@ -74494,6 +74563,7 @@ ba= nk
 bf= Flammetest
 nn= Flammeanalyse
 nn= Flammetest
+en= Flame tests
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:01:35Z
 
@@ -74924,6 +74994,7 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009102
 te= Flyktighet
+en= Volatility
 tio= 2014-08-25T00:00:00Z
 tis= 2018-03-28T11:02:31Z
 
@@ -79265,6 +79336,7 @@ id= REAL009647
 te= Mutagener
 ba= nb
 nn= Mutagen
+en= Mutagens
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009648
@@ -84419,6 +84491,11 @@ nn= Medisinplantar
 nn= Medisinske plantar
 nn= Medisinske planter
 nn= Urtemedisin
+en= Medicinal plants
+en= Medicinal herbs
+en= Medical herbs
+en= Herbalism
+en= Herbal medicine
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-07T21:12:46Z
 st= REAL014441
@@ -86106,6 +86183,7 @@ id= REAL010476
 te= Nitrider
 ba= nk
 nn= Nitrid
+en= Nitrides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010477
@@ -92101,6 +92179,7 @@ id= REAL011263
 te= Jordbrukskjemi
 ba= ns
 nn= Jordbrukskjemi
+en= Agricultural chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011264
@@ -97816,6 +97895,8 @@ id= REAL011942
 te= Arktisk medisin
 ba= nb
 nn= Arktisk medisin
+en= Arctic medicine
+en= Polar medicine
 tio= 2014-08-25T00:00:00Z
 st= REAL017785
 
@@ -99368,6 +99449,7 @@ ba= nc
 ba= ns
 ak= Ni
 nn= Nikkel
+en= Nickel
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012168
@@ -100132,6 +100214,8 @@ so= REAL031503
 so= REAL011588
 nn= Kvardagskjemi
 nn= Amatørkjemi
+en= Home chemistry
+en= Amateur chemistry
 de= Kjemi med relevans til husholdningsprodukter og hverdagsprosesser i private husholdninger
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:09:10Z
@@ -101093,6 +101177,7 @@ te= Niob
 ba= nk
 ak= Nb
 nn= Niob
+en= Niobium
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012350
@@ -101287,6 +101372,7 @@ te= F-blokken
 ba= nk
 nn= F-blokka
 nn= F-blokken
+en= F-block
 de= Grunnstoffgruppe
 tio= 2014-08-25T00:00:00Z
 
@@ -107352,6 +107438,7 @@ so= REAL012871
 so= REAL002445
 nn= Svevn
 nn= Søvn
+en= Sleep
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012873
@@ -111290,6 +111377,8 @@ tie= 2015-02-23T09:51:49Z
 id= REAL013253
 te= Varmebestandige materialer
 nn= Varmefaste materiale
+en= High temperature materials
+en= High-temperature materials
 de= Innen kjemi/ingeniørfag
 tio= 2014-08-25T00:00:00Z
 
@@ -122212,6 +122301,8 @@ ba= nk
 bf= Nanotoksikologi
 nn= Nanotoksisitet
 nn= Nanotoksikologi
+en= Nanotoxicity
+en= Nanotoxicology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013955
