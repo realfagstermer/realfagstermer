@@ -17583,11 +17583,14 @@ en= Metallic compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002140
-te= Bevegelsesapparatet
+te= Muskel-skjelett-systemet
 ba= ne
+bf= Bevegelsesapparatet
+nn= Muskel-skjelett-systemet
 nn= Rørsleapparatet
 nn= Bevegelsesapparatet
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-31T16:57:29Z
 
 id= REAL002141
 te= Karikaturer
@@ -25303,11 +25306,12 @@ nn= Polymere immunoglobulin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003055
-te= Xmm-newton
+te= XMM-Newton
 ba= na
-nn= Xmm-newton
+nn= XMM-Newton
 nn= X-ray Multimirror Mission-Newton
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-31T17:28:46Z
 
 id= REAL003056
 te= Internettressurser
@@ -27412,10 +27416,11 @@ nn= Kunnskapssamfunnet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003320
-te= Klimakteriet
-ba= ne
-nn= Klimakteriet
+te= Klimakterium
 tio= 2014-08-25T00:00:00Z
+tie= 2018-03-31T17:14:09Z
+tis= 2018-03-31T17:16:11Z
+fly= REAL012761
 
 id= REAL003321
 te= Fyrverkeri
@@ -52612,11 +52617,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006406
 te= Very Large Telescope
-ba= na
-ak= VLT
-nn= Very Large Telescope
-nn= VLT
 tio= 2014-08-25T00:00:00Z
+tis= 2018-03-31T17:27:10Z
 
 id= REAL006407
 te= Schwarzhildløsningen
@@ -75026,7 +75028,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009102
 te= Flyktighet
-en= Volatility
 tio= 2014-08-25T00:00:00Z
 tis= 2018-03-28T11:02:31Z
 
@@ -106432,8 +106433,14 @@ id= REAL012761
 te= Overgangsalderen
 ba= ne
 bf= Menopausen
+bf= Klimakterium
+bf= Klimakteriet
+bf= Overgangsalder
 nn= Overgangsalderen
 nn= Menopausen
+nn= Klimakterium
+nn= Klimakteriet
+nn= Overgangsalder
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012762
