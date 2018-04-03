@@ -1073,10 +1073,13 @@ te= Kvantestatistikk
 ba= nk
 ba= nf
 ba= nm
+bf= Kvantestatistisk mekanikk
 nn= Kvantestatistikk
 en= Quantum statistics
 en= Particle statistics
+en= Quantum statistical mechanics
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-03T19:15:48Z
 st= REAL022252
 st= REAL023296
 
@@ -30288,6 +30291,7 @@ tie= 2015-05-07T17:30:33Z
 st= REAL015285
 st= REAL016806
 st= REAL019212
+st= REAL031987
 
 id= REAL003651
 te= Optimal desisjonsteori
@@ -79745,9 +79749,8 @@ st= REAL020209
 
 id= REAL009692
 te= Væskestruktur
-ba= nk
-nn= Væskestruktur
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-03T19:27:54Z
 
 id= REAL009693
 te= Ganglier
@@ -94760,7 +94763,6 @@ ba= ns
 nn= Programmeringsspråk
 en= Programming languages
 tio= 2014-08-25T00:00:00Z
-st= REAL015238
 
 id= REAL011576
 te= Miljøbetingelser
