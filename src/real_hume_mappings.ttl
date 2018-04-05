@@ -3712,11 +3712,6 @@ real:c004559
   skos:exactMatch hume:c08261 ;
   skos:prefLabel "Electricity"@en, "Elektrisitet"@nb, "Elektrisitet"@nn .
 
-real:c004566
-  a skos:Concept ;
-  skos:exactMatch hume:c06301 ;
-  skos:prefLabel "Syntactic analysis"@en, "Syntaktisk analyse"@nb, "Syntaktisk analyse"@nn .
-
 real:c004569
   a skos:Concept ;
   skos:exactMatch hume:c23136 ;
