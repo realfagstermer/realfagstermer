@@ -55940,10 +55940,16 @@ en= Bench marking
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006777
-te= Melkesekresjon
+te= Laktasjon
 ba= nb
+bf= Melkesekresjon
+bf= Melkeproduksjon
+nn= Laktasjon
 nn= Mjølkesekresjon
+nn= Mjølkeproduksjon
+en= Lactation
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-11T18:57:24Z
 
 id= REAL006778
 te= Vold
@@ -89290,9 +89296,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010875
 te= Melkeproduksjon
-ba= nb
-nn= Mjølkeproduksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-11T18:56:55Z
+fly= REAL006777
 
 id= REAL010876
 te= Drasjering
@@ -126658,26 +126664,9 @@ id= REAL031988
 te= Altmetri
 nn= Altmetri
 en= Altmetrics
-de= alternative måter å måle forskningsproduksjon og -gjennomslag på (Glosbe)
+de= alternative måter å måle forskningsproduksjon og -gjennomslag på
 tio= 2018-04-05T13:14:34Z
 tie= 2018-04-11T10:56:35Z
-
-id= REAL031990
-te= Memokort
-bf= Puggekort
-bf= Lærekort
-bf= Memoreringskort
-bf= Læringskort
-bf= Huskekort
-bf= Flashkort
-nn= Memokort
-nn= Puggekort
-nn= Hugsekort
-nn= Lærekort
-en= Flashcards
-en= Flash cards
-tio= 2018-04-11T11:19:52Z
-tie= 2018-04-11T11:29:48Z
 
 id= REAL031991
 te= Fagkultur

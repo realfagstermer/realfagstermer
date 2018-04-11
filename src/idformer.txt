@@ -783,3 +783,20 @@ de= Tabeller over forutberegnede posisjoner for himmellegemer. Brukes også i be
 tio= 2016-08-30T10:58:07Z
 tie= 2016-08-30T11:00:55Z
 
+id= REAL031990
+te= Memokort
+bf= Puggekort
+bf= Lærekort
+bf= Memoreringskort
+bf= Læringskort
+bf= Huskekort
+bf= Flashkort
+nn= Memokort
+nn= Puggekort
+nn= Hugsekort
+nn= Lærekort
+en= Flashcards
+en= Flash cards
+tio= 2018-04-11T11:19:52Z
+tie= 2018-04-11T11:29:48Z
+
