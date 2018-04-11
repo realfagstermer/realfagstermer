@@ -16703,10 +16703,15 @@ st= REAL017096
 id= REAL002037
 te= Fagdisipliner
 ba= ngh
+bf= Disipliner
+bf= Fag
 nn= Fagdisiplinar
+nn= Disiplinar
+nn= Fag
 en= Academic disciplines
 en= Disciplines
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-11T11:46:04Z
 
 id= REAL002038
 te= Svartedauden
@@ -41307,9 +41312,8 @@ tis= 2017-01-05T19:08:23Z
 
 id= REAL005012
 te= Plastiske bearbeidingsprosesser
-ba= nk
-nn= Plastiske omarbeidingsprosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-11T18:38:39Z
 
 id= REAL005014
 te= Hyperlipidemi
@@ -55993,10 +55997,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006787
 te= Plastisitetsteori
-ba= nk
-ba= nm
-nn= Plastisitetsteori
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-11T18:38:15Z
+fly= REAL031993
 
 id= REAL006788
 te= Halekreps
@@ -61013,9 +61016,8 @@ tis= 2017-10-08T20:26:56Z
 
 id= REAL007406
 te= Lambda
-ba= nb
-nn= Lambda
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-11T18:11:24Z
 
 id= REAL007407
 te= Fjorder
@@ -116758,16 +116760,9 @@ st= REAL022390
 
 id= REAL013571
 te= Plastisitet
-ba= nk
-ba= na
-ba= nb
-ba= nf
-ba= nm
-nn= Plastisitet
-en= Plasticity
-ms= 73
-dw= 531.385
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-11T18:35:47Z
+fly= REAL031993
 
 id= REAL013572
 te= Akustikk
@@ -118137,10 +118132,12 @@ id= REAL013675
 te= Fenotypisk plastisitet
 ba= nb
 bf= Fleksible trekk
+bf= Plastisitet (evolusjonsbiologi)
 nn= Fenotypisk plastisitet
 nn= Fleksible trekk
 en= Phenotypic plasticity
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-11T18:28:33Z
 
 id= REAL013676
 te= Torsjon
@@ -126501,7 +126498,7 @@ id= REAL031970
 te= Bilturer
 tio= 2018-02-13T13:44:43Z
 tie= 2018-02-13T13:50:55Z
-tis= 2018-03-19T15:22:41Z
+st= REAL031989
 
 id= REAL031972
 te= Eksoskjelett
@@ -126661,6 +126658,56 @@ id= REAL031988
 te= Altmetri
 nn= Altmetri
 en= Altmetrics
+de= alternative måter å måle forskningsproduksjon og -gjennomslag på (Glosbe)
 tio= 2018-04-05T13:14:34Z
-tie= 2018-04-05T13:15:28Z
+tie= 2018-04-11T10:56:35Z
+
+id= REAL031990
+te= Memokort
+bf= Puggekort
+bf= Lærekort
+bf= Memoreringskort
+bf= Læringskort
+bf= Huskekort
+bf= Flashkort
+nn= Memokort
+nn= Puggekort
+nn= Hugsekort
+nn= Lærekort
+en= Flashcards
+en= Flash cards
+tio= 2018-04-11T11:19:52Z
+tie= 2018-04-11T11:29:48Z
+
+id= REAL031991
+te= Fagkultur
+bf= Akademisk kultur
+nn= Fagkultur
+nn= Akademisk kultur
+en= Disciplinary culture
+en= Academic culture
+tio= 2018-04-11T11:50:01Z
+tie= 2018-04-11T12:10:13Z
+st= REAL031992
+
+id= REAL031993
+te= Plastisitet (mekanikk)
+bf= Plastisitet (materialvitenskap)
+bf= Plastisitet
+bf= Plastisitet (fysikk)
+bf= Plastisitetsteori
+nn= Plastisitet
+nn= Plastisitetsteori
+en= Plasticity
+tio= 2018-04-11T18:26:25Z
+tie= 2018-04-11T18:38:11Z
+
+id= REAL031994
+te= Nevroplastisitet
+bf= Plastisitet (medisin)
+bf= Nevrologisk plastisitet
+bf= Plastisitet (nevrobiologi)
+nn= Nevroplastisitet
+tio= 2018-04-11T18:27:33Z
+tie= 2018-04-11T18:31:22Z
 

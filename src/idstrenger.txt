@@ -76951,3 +76951,14 @@ bf= Væskesimulering
 bf= Væskemodellering
 tio= 2018-04-03T19:27:48Z
 
+id= REAL031989
+da= REAL031970
+dz= REAL030753
+tio= 2018-04-11T12:03:06Z
+
+id= REAL031992
+da= REAL031991
+db= REAL013455
+bf= Matematikkultur
+tio= 2018-04-11T18:10:17Z
+
