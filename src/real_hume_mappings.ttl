@@ -2153,11 +2153,6 @@ real:c002654
   skos:exactMatch hume:c22092 ;
   skos:prefLabel "Digitale læremidler"@nb, "Digitale læremiddel"@nn .
 
-real:c002656
-  a skos:Concept ;
-  skos:exactMatch hume:c00508 ;
-  skos:prefLabel "Cosmos"@en, "Kosmos"@nb, "Kosmos"@nn .
-
 real:c002657
   a skos:Concept ;
   skos:exactMatch hume:c20365 ;
