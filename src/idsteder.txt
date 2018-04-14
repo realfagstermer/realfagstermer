@@ -3865,8 +3865,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030914
 te= Bøelva
-en= Bøelva
 tio= 2015-02-20T13:08:04Z
+tis= 2018-04-13T20:44:17Z
 
 id= REAL030915
 te= Bødalsbreen
