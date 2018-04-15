@@ -58234,6 +58234,7 @@ ba= nk
 bf= Olympiader
 nn= Olympiske leikar
 nn= Olympiadar
+en= Olympic games
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-23T11:28:04Z
 st= REAL029071
@@ -74597,6 +74598,7 @@ ba= nb
 bf= Villmarker
 nn= Villmark
 nn= Villmarker
+en= Wilderness
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-23T13:34:56Z
 
@@ -121985,6 +121987,7 @@ ba= nb
 bf= Planteernæring
 nn= Plantenæring
 nn= Planteernæring
+en= Plant nutrition
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013924
