@@ -656,9 +656,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000076
 te= Petrokjemisk industri
 ba= nc
+so= REAL010611
 nn= Petrokjemisk industri
 en= Petrochemical industry
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T18:41:22Z
 st= REAL024443
 
 id= REAL000077
@@ -2974,12 +2976,18 @@ ba= nf
 ba= nq
 ba= ns
 bf= Miljøvernpolitikk
+bf= Økopolitikk
+bf= Sosial økopolitikk
 nn= Miljøpolitikk
 nn= Miljøvernpolitikk
+nn= Økopolitikk
+nn= Sosial økopolitikk
 en= Environmental policy
+de= Økopolitikk, synspunktene til en bevegelse som ikke er organisert som eget politisk parti, men på tverrpolitisk grunnlag forsøker å få gehør for økosofisk og økologisk virksomme prinsipper og synspunkter i praktisk politikk. (SNL)
 tio= 2014-08-25T00:00:00Z
-tie= 2016-12-06T12:45:54Z
+tie= 2018-04-16T18:48:21Z
 st= REAL025269
+st= REAL029740
 
 id= REAL000363
 te= Sjøfiske
@@ -3156,12 +3164,13 @@ te= Likestilling
 ba= ns
 bf= Likestillingspolitikk
 so= REAL012628
+so= REAL010901
 nn= Jamstilling
 nn= Jamstillingspolitikk
 nn= Likestilling
 nn= Likestillingspolitikk
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-03T00:00:00Z
+tie= 2018-04-16T18:47:18Z
 
 id= REAL000384
 te= Økologisk samspill
@@ -3476,9 +3485,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000425
 te= Titrerkurver
-ba= nk
-nn= Titrerkurver
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T17:29:54Z
 
 id= REAL000426
 te= Modeller
@@ -7577,9 +7585,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000919
 te= Feltornitologi
-ba= nb
-nn= Feltornitologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T15:18:16Z
 
 id= REAL000920
 te= Asteroseismologi
@@ -7755,8 +7762,15 @@ id= REAL000941
 te= Skogtaksering
 ba= nb
 ba= nq
+bf= Skogtaksasjon
+bf= Taksering (skogbruk)
+bf= Taksasjon (skogbruk)
 nn= Skogtaksering
+nn= Skogtaksasjon
+nn= Taksering (skogbruk)
+nn= Taksasjon (skogbruk)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T15:39:36Z
 
 id= REAL000942
 te= Energikostnad
@@ -13845,9 +13859,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001677
 te= Gassindustri
-ba= ns
-nn= Gassindustri
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T18:41:13Z
+fly= REAL010611
 
 id= REAL001678
 te= Koordinatsystemer
@@ -26227,9 +26241,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003157
 te= Syrenøytraliseringskapasitet
-ba= nk
-nn= Syrenøytraliseringskapasitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T19:39:28Z
 
 id= REAL003158
 te= Morseteori
@@ -38233,9 +38246,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004616
 te= Økonomisk miljøpolitikk
-ba= nb
-nn= Økonomisk miljøpolitikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T18:48:12Z
+fly= REAL000362
 
 id= REAL004617
 te= Modningsprosesser
@@ -38845,9 +38858,21 @@ st= REAL014820
 id= REAL004693
 te= Supramolekylær kjemi
 ba= nk
+bf= Supermolekyler
+bf= Supramolekyler
+bf= Supermolekylære systemer
+bf= Supramolekylære komplekser
 nn= Supramolekylær kjemi
+nn= Supermolekyl
+nn= Supramolekyl
+nn= Supermolekylære system
 en= Supramolecular chemistry
+en= Supramolecular systems
+en= Supermolecules
+en= Supramolecular complexes
+en= Supramolecules
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T19:28:32Z
 
 id= REAL004694
 te= Marine samfunn
@@ -41220,9 +41245,12 @@ te= Nevrale nett
 ba= ni
 ba= nf
 bf= Nevralnett
+bf= Nevrale systemer
 nn= Nevrale nett
 nn= Nevralnett
+nn= Nevrale system
 en= Neural networks
+en= Neural systems
 tio= 2014-08-25T00:00:00Z
 st= REAL019022
 st= REAL020457
@@ -43387,9 +43415,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005273
 te= Misjon
-ba= ns
-nn= Misjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T17:46:39Z
 
 id= REAL005274
 te= Faste stoffer
@@ -49560,10 +49587,9 @@ st= REAL028530
 
 id= REAL006037
 te= Nevrale systemer
-ba= ni
-nn= Nevrale system
-en= Neural systems
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T18:27:54Z
+fly= REAL004999
 
 id= REAL006038
 te= Oksidanter
@@ -50231,9 +50257,8 @@ st= REAL024255
 
 id= REAL006114
 te= Taksering
-ba= nb
-nn= Taksering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T15:39:45Z
 
 id= REAL006115
 te= Dataforeninger
@@ -51918,11 +51943,11 @@ tie= 2014-11-19T00:00:00Z
 st= REAL023325
 
 id= REAL006321
-te= Syre-base-likevekter
-ba= nk
-nn= Syre-base-jamvekter
-nn= Syre-base-likevekter
+te= Syre–base-likevekt
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T19:32:07Z
+tis= 2018-04-16T19:32:21Z
+fly= REAL008258
 
 id= REAL006322
 te= Fast jord
@@ -56738,9 +56763,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006873
 te= Supermolekyler
-ba= nk
-nn= Supermolekyl
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T19:00:46Z
+tis= 2018-04-16T19:25:21Z
+fly= REAL004693
 
 id= REAL006874
 te= Periodiske koeffisienter
@@ -62322,6 +62348,9 @@ tie= 2016-06-22T11:42:47Z
 st= REAL019108
 st= REAL021224
 st= REAL022663
+st= REAL031996
+st= REAL031998
+st= REAL031999
 
 id= REAL007548
 te= Fluorescensanalyse
@@ -68046,11 +68075,22 @@ tis= 2018-01-12T19:04:07Z
 fly= REAL001040
 
 id= REAL008258
-te= Syre-base-reaksjoner
+te= Syre–base-reaksjoner
 ba= nk
-nn= Syre-base-reaksjonar
+bf= Syre–base-kjemi
+bf= Syre–base-teori
+bf= Syre–base-likevekt
+nn= Syre–base-reaksjonar
+nn= Syre–base-kjemi
+nn= Syre–base-teori
+nn= Syre–base-jamvekt
+nn= Syre–base-likevekt
 en= Acid–base reactions
+en= Acid–base chemistry
+en= Acid–base theory
+en= Acid–base equlibrium
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T19:31:57Z
 
 id= REAL008259
 te= Mengder
@@ -70082,9 +70122,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008495
 te= Syntetisk acetylenkjemi
-ba= nk
-nn= Syntetisk acetylenkjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T19:29:05Z
 
 id= REAL008496
 te= Ekorn
@@ -73492,13 +73531,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008916
 te= Feltbiologi
-ba= nb
-nn= Feltbiologi
-en= Field biology
 tio= 2014-08-25T00:00:00Z
-st= REAL019028
-st= REAL024073
-st= REAL025683
+tis= 2018-04-16T15:18:22Z
 
 id= REAL008917
 te= Dynamic random access memory
@@ -73972,15 +74006,9 @@ st= REAL027238
 
 id= REAL008973
 te= Feltgeologi
-ba= nc
-ba= ngh
-bf= Geologisk feltarbeid
-nn= Feltgeologi
-nn= Geologisk feltarbeid
-en= Field geology
-en= Geological fieldwork
 tio= 2014-08-25T00:00:00Z
 tie= 2016-12-30T13:29:43Z
+tis= 2018-04-16T15:18:28Z
 
 id= REAL008974
 te= Fuzzy systemer
@@ -76475,16 +76503,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009280
 te= Økopolitikk
-ba= nb
-ba= ngh
-ba= ns
-bf= Sosial økopolitikk
-nn= Økopolitikk
-nn= Sosial økopolitikk
 de= Økopolitikk, synspunktene til en bevegelse som ikke er organisert som eget politisk parti, men på tverrpolitisk grunnlag forsøker å få gehør for økosofisk og økologisk virksomme prinsipper og synspunkter i praktisk politikk. (SNL)
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-22T10:47:27Z
-st= REAL029740
+tis= 2018-04-16T18:53:28Z
+fly= REAL000362
 
 id= REAL009281
 te= Sampling
@@ -82167,11 +82190,9 @@ ba= nm
 ba= ns
 so= REAL009980
 nn= Nettverk
-nn= Datanett
-nn= Datanettverk
 en= Network
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-18T07:50:32Z
+tie= 2018-04-16T18:18:56Z
 st= REAL021123
 st= REAL021817
 st= REAL025999
@@ -87360,14 +87381,18 @@ ba= nc
 bf= Oljeindustri
 bf= Petroleumsvirksomhet
 bf= Oljevirksomhet
+bf= Gassindustri
 so= REAL012566
+so= REAL000076
 nn= Petroleumsindustri
 nn= Oljeindustri
 nn= Petroleumsverksemd
 nn= Oljeverksemd
+nn= Gassindustri
 en= Petroleum industry
 en= Oil industry
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T18:41:22Z
 st= REAL014679
 st= REAL016616
 st= REAL016726
@@ -89565,8 +89590,13 @@ st= REAL025914
 id= REAL010901
 te= Kvinnesak
 ba= ns
+bf= Kvinnebevegelsen
+so= REAL012634
+so= REAL000382
 nn= Kvinnesak
+en= Feminist movement
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T18:47:17Z
 
 id= REAL010902
 te= Hydrografi
@@ -90112,9 +90142,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010971
 te= Termometrisk titremetri
-ba= nk
-nn= Termometrisk titremetri
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T19:40:12Z
 
 id= REAL010972
 te= Beleiringsteknikk
@@ -90553,10 +90582,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011031
 te= Feltøkologi
-ba= nk
-nn= Feltøkologi
-en= Field ecology
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T15:32:39Z
 
 id= REAL011032
 te= Barriere
@@ -98574,10 +98601,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012023
 te= Supermolekylære systemer
-ba= nk
-nn= Supermolekylære system
-en= Supramolecular systems
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T19:10:22Z
+fly= REAL006873
 
 id= REAL012024
 te= Intelligente systemer
@@ -104732,12 +104758,14 @@ te= Feministisk filosofi
 ba= ns
 bf= Feministfilosofi
 bf= Feminisme
+so= REAL010901
 nn= Feministisk filosofi
 nn= Feminisme
 nn= Feministfilosofi
 en= Feminist philosophy
 en= Feminism
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-16T18:45:31Z
 
 id= REAL012635
 te= Fiber
@@ -110417,13 +110445,8 @@ tie= 2016-07-08T20:55:02Z
 
 id= REAL013159
 te= Tetrafenylporfyrin
-ba= nk
-bf= Tetrafenylporfin
-bf= Tetraphenylporphyren
-nn= Tetrafenylporfyrin
-nn= Tetrafenylporfin
-nn= Tetraphenylporphyren
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-16T19:40:40Z
 
 id= REAL013160
 te= Spektralklasser
@@ -113554,7 +113577,6 @@ st= REAL025884
 st= REAL026280
 st= REAL027252
 st= REAL027795
-st= REAL028082
 st= REAL028380
 st= REAL028642
 st= REAL028697
