@@ -1,1 +1,9 @@
-{}
+{
+  "REAL010255": {
+    "altLabel": [
+      "Thrombi", 
+      "Blood clots"
+    ], 
+    "prefLabel": "Thrombosis"
+  }
+}

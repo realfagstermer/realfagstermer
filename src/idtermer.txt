@@ -2508,11 +2508,9 @@ tie= 2015-08-07T15:07:24Z
 
 id= REAL000303
 te= Morsomsorg
-ba= nb
-nn= Morsomsut
-nn= Morsomsorg
-en= Maternal care
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-18T17:03:36Z
+fly= REAL002878
 
 id= REAL000304
 te= Polymorfisme
@@ -17930,6 +17928,7 @@ ba= nb
 nn= Patogene bakteriar
 en= Pathogenic bacteria
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-18T16:48:56Z
 
 id= REAL002166
 te= Dokumentbehandling
@@ -20977,8 +20976,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002531
 te= Tyrosin
 ba= nb
+ak= Tyr
 nn= Tyrosin
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-18T16:46:16Z
 st= REAL021358
 
 id= REAL002532
@@ -23956,7 +23957,11 @@ id= REAL002878
 te= Yngelpleie
 ba= nk
 ba= nb
+bf= Morsomsorg
 nn= Yngelpleie
+nn= Morsomsut
+nn= Morsomsorg
+en= Maternal care
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002879
@@ -45721,6 +45726,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005573
 te= Tarmflora
 ba= ne
+so= REAL009211
 nn= Tarmflora
 tio= 2014-08-25T00:00:00Z
 
@@ -75954,8 +75960,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009211
 te= Tarmbakterier
 ba= nb
+so= REAL005573
 nn= Tarmbakteriar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-18T16:48:02Z
 st= REAL031938
 
 id= REAL009212
@@ -77092,9 +77100,9 @@ st= REAL029982
 
 id= REAL009353
 te= Patogene tarmbakterier
-ba= nb
-nn= Patogene tarmbakteriar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-18T16:48:39Z
+fly= REAL002165
 
 id= REAL009354
 te= Mosskorpioner
@@ -84582,8 +84590,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010255
 te= Trombose
 ba= ne
+bf= Blodpropper
+bf= Tromber
 nn= Trombose
+nn= Blodproppar
+nn= Trombar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-18T17:19:10Z
 
 id= REAL010256
 te= Klyngeteori
