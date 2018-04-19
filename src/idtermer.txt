@@ -84595,6 +84595,9 @@ bf= Tromber
 nn= Trombose
 nn= Blodproppar
 nn= Trombar
+en= Thrombosis
+en= Thrombi
+en= Blood clots
 tio= 2014-08-25T00:00:00Z
 tie= 2018-04-18T17:19:10Z
 
