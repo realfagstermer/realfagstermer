@@ -1645,11 +1645,6 @@ real:c002046
   skos:exactMatch hume:c15922 ;
   skos:prefLabel "Seeds"@en, "Frø"@nb, "Frø"@nn .
 
-real:c002070
-  a skos:Concept ;
-  skos:exactMatch hume:c06404 ;
-  skos:prefLabel "Kategorisering"@nb, "Kategorisering"@nn .
-
 real:c002071
   a skos:Concept ;
   skos:exactMatch hume:c07742 ;

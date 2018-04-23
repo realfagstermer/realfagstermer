@@ -9082,11 +9082,15 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-11-15T09:27:10Z
 
 id= REAL001095
-te= Aldringsforsøk
+te= Gerontologi
 ba= nb
+bf= Aldringsforsøk
+so= REAL003919
+nn= Gerontologi
 nn= Aldringsforsøk
 nn= Eldingsforsøk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-23T17:17:00Z
 
 id= REAL001096
 te= Tvillingstjerner
@@ -32629,10 +32633,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003919
 te= Geriatri
 ba= ne
+so= REAL001095
 nn= Geriatri
 en= Geriatrics
 en= Geriatric medicine
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-23T17:16:59Z
 
 id= REAL003921
 te= Muggsoppskader
@@ -46237,17 +46243,18 @@ tie= 2017-04-04T17:55:37Z
 tis= 2017-04-04T17:55:37Z
 
 id= REAL005638
-te= Aldersbestemmelse
+te= Aldersbestemmelse (biologi)
 ba= na
 ba= nb
 ba= nc
 ba= ngh
 so= REAL006042
 so= REAL004588
+so= REAL032000
 no= Brukes for aldersbestemmelse av levende vesener (dyr, planter). For geologisk, arkeologisk, astronomisk osv. datering, bruk Datering. ML 9.3.15
-nn= Aldersbestemming
+nn= Aldersbestemming (biologi)
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-09T15:07:31Z
+tie= 2018-04-23T18:37:07Z
 st= REAL023441
 
 id= REAL005639
@@ -126778,4 +126785,10 @@ en= Arduino
 en= Development boards
 tio= 2018-04-13T20:04:57Z
 tie= 2018-04-13T20:07:41Z
+
+id= REAL032000
+te= Aldersbestemmelse (astronomi)
+so= REAL005638
+tio= 2018-04-23T18:36:49Z
+tie= 2018-04-23T18:37:08Z
 
