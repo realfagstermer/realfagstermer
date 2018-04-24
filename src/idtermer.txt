@@ -10634,10 +10634,13 @@ en= Phytotrons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001288
-te= Lr-parsering
+te= LR-parsering
 ba= ni
-nn= Lr-parsering
+bf= LR-parsere
+nn= LR-parsering
+nn= LR-parsarar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-24T13:19:04Z
 
 id= REAL001289
 te= Kodein
@@ -25971,8 +25974,13 @@ id= REAL003118
 te= Termoelektrisitet
 ba= nk
 ba= nf
+bf= Termoelektrisk effekt
+bf= Seebeckeffekt
 nn= Termoelektrisitet
+nn= Termoelektrisk effekt
+nn= Seebeckeffekt
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-24T15:38:37Z
 st= REAL027735
 
 id= REAL003119
@@ -37851,6 +37859,7 @@ id= REAL004566
 te= Syntaktisk analyse
 ba= ni
 bf= Syntaktiske kategorier
+so= REAL010134
 nn= Syntaktisk analyse
 nn= Syntaktiske kategoriar
 en= Syntactic analysis
@@ -44403,8 +44412,10 @@ id= REAL005399
 te= Tekstprosessering
 ba= ni
 so= REAL013658
+so= REAL006274
 nn= Tekstprosessering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-24T13:52:19Z
 
 id= REAL005400
 te= Fyllstoffer
@@ -45562,9 +45573,8 @@ st= REAL022851
 
 id= REAL005549
 te= Lie
-ba= nm
-nn= Lie
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-24T13:08:32Z
 
 id= REAL005550
 te= Deteksjon
@@ -51536,9 +51546,14 @@ id= REAL006274
 te= Naturlig språk
 ba= ni
 ba= nb
+bf= Tolkning av naturlig språk
+ak= NLP
+so= REAL007234
+so= REAL005399
 nn= Naturleg språk
 en= Natural language processing
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-24T13:52:19Z
 st= REAL027851
 st= REAL029086
 
@@ -59748,9 +59763,17 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007234
 te= Tekstparsering
 ba= ni
+bf= Tekstparsere
+bf= Tekstparsing
+so= REAL006274
+so= REAL010134
 nn= Tekstparsering
+nn= Tekstparsarar
+nn= Tekstparsing
 en= Text parsing
+en= Text parsers
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-24T13:47:25Z
 
 id= REAL007236
 te= Gravitasjon
@@ -83044,10 +83067,13 @@ tis= 2016-07-08T17:52:30Z
 fly= REAL000430
 
 id= REAL010073
-te= Ll-parsering
+te= LL-parsering
 ba= ni
-nn= Ll-parsering
+bf= LL-parsere
+nn= LL-parsering
+nn= LL-parsarar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-24T13:20:41Z
 
 id= REAL010074
 te= Organometalliske reaksjonsmekanismer
@@ -83566,8 +83592,12 @@ tie= 2015-03-19T10:44:44Z
 id= REAL010134
 te= Parsering
 ba= ni
+bf= Parsing
+so= REAL004566
+so= REAL007234
 nn= Parsering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-04-24T13:47:32Z
 
 id= REAL010135
 te= Programmeringsteknikker
@@ -95224,9 +95254,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011617
 te= Akvateknikk
-ba= nb
-nn= Akvateknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-04-24T19:15:59Z
 
 id= REAL011618
 te= Genbanker
