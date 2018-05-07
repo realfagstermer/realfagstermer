@@ -24109,9 +24109,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002892
 te= Makrokosmos
-ba= ns
-nn= Makrokosmos
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-07T08:56:38Z
+fly= REAL013999
 
 id= REAL002893
 te= Taskekrabbe
@@ -26064,9 +26064,12 @@ st= REAL023603
 id= REAL003131
 te= Fotonikk
 ba= nf
+ut= REAL011969
+ut= REAL008009
 nn= Fotonikk
 en= Photonics
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-07T08:57:09Z
 st= REAL019090
 st= REAL028683
 
@@ -35852,8 +35855,10 @@ id= REAL004313
 te= Sosial atferd
 ba= nk
 ba= nb
+bf= Sosial adferd
 nn= Sosial åtferd
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-07T08:47:09Z
 st= REAL022028
 
 id= REAL004314
@@ -65195,10 +65200,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007905
 te= Mørke
-ba= nb
-nn= Mørke
-nn= Mørker
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-07T08:50:17Z
 
 id= REAL007907
 te= Rekreasjon
@@ -65342,9 +65345,11 @@ id= REAL007922
 te= Seksuell atferd
 ba= nb
 bf= Seksualitet
+bf= Seksuell adferd
 nn= Seksuell åtferd
 nn= Seksualitet
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-07T08:46:47Z
 
 id= REAL007923
 te= Nikkelforekomster
@@ -66080,9 +66085,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008009
 te= Biofotonikk
 ba= nb
+ot= REAL003131
 nn= Biofotonikk
 en= Biophotonics
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-07T08:57:09Z
 
 id= REAL008011
 te= Humantoksikologi
@@ -70559,9 +70566,8 @@ st= REAL015606
 
 id= REAL008545
 te= Kumultativ indeks
-ba= nk
-nn= Kumultativ indeks
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-07T08:59:22Z
 
 id= REAL008546
 te= Jordkjemi
@@ -98293,8 +98299,10 @@ fly= REAL006857
 id= REAL011969
 te= Nanofotonikk
 ba= nf
+ot= REAL003131
 nn= Nanofotonikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-07T08:57:04Z
 
 id= REAL011970
 te= Miljøprosesser
@@ -119981,6 +119989,7 @@ ba= nb
 ba= ns
 bf= Menneskets natur
 bf= Menneskelig atferd
+bf= Menneskelig adferd
 nn= Sosiobiologi
 nn= Menneskeleg natur
 nn= Menneskeleg åtferd
@@ -119988,6 +119997,7 @@ en= Sociobiology
 en= Human behavior
 en= Human nature
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-07T08:47:23Z
 
 id= REAL013811
 te= Jordalkalimetaller
@@ -123127,7 +123137,9 @@ ba= na
 ba= nf
 ba= nm
 ba= ns
+bf= Makrokosmos
 nn= Universet
+nn= Makrokosmos
 en= Universe
 tio= 2014-08-25T00:00:00Z
 st= REAL014821
@@ -126869,4 +126881,24 @@ en= Chemosynthesis
 de= Biologisk syntese av organiske forbindelser fra enkle karbonholdige molekyler.
 tio= 2018-05-04T14:23:20Z
 tie= 2018-05-04T14:27:55Z
+
+id= REAL032004
+te= Taksier
+bf= Fototaksier
+bf= Kjemotaksier
+bf= Geotaksier
+bf= Termotaksier
+nn= Taksiar
+nn= Fototaksiar
+nn= Kjemotaksiar
+nn= Geotaksiar
+nn= Termotaksiar
+en= Taxes
+en= Phototaxes
+en= Chemotaxes
+en= Geotaxes
+en= Thermotaxes
+de= bevegelse av enkle organismer eller organeller som respons på ytre stimuli [BPL]
+tio= 2018-05-07T10:00:09Z
+tie= 2018-05-07T10:04:29Z
 
