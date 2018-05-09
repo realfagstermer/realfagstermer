@@ -3379,8 +3379,11 @@ fly= REAL000954
 id= REAL000412
 te= Vaskemidler
 ba= nk
+bf= Rengjøringsmidler
 nn= Vaskemiddel
+nn= Reingjeringsmiddel
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-08T22:39:09Z
 
 id= REAL000413
 te= Atomteori
@@ -4498,10 +4501,13 @@ nn= Punktprosessar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000541
-te= Syntetisk gass
+te= Syntesegass
 ba= nk
-nn= Syntetisk gass
+bf= Syngass
+nn= Syntesegass
+nn= Syngass
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-08T22:36:16Z
 
 id= REAL000542
 te= Tabletter
@@ -23558,7 +23564,9 @@ id= REAL002839
 te= Kosmetikk
 ba= nk
 ba= ne
+bf= Sminke
 nn= Kosmetikk
+nn= Sminke
 en= Cosmetics
 tio= 2014-08-25T00:00:00Z
 st= REAL016810
@@ -27230,9 +27238,8 @@ tie= 2017-08-30T19:56:24Z
 
 id= REAL003284
 te= Karakterisering
-ba= nb
-nn= Karakterisering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-08T22:21:12Z
 
 id= REAL003285
 te= Desinfeksjon
@@ -29992,10 +29999,9 @@ st= REAL029272
 
 id= REAL003607
 te= Glassblåsing
-ba= ns
-nn= Glasblåsing
-en= Glassblowing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-08T22:46:07Z
+fly= REAL006948
 
 id= REAL003608
 te= Dobbelttrådet DNA
@@ -39024,9 +39030,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004712
 te= Vinyl
-ba= nk
-nn= Vinyl
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-08T22:47:30Z
 
 id= REAL004713
 te= Biomaterialer
@@ -39260,11 +39265,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004740
 te= Glasskunst
-ba= ns
-nn= Glaskunst
 tio= 2014-08-25T00:00:00Z
-st= REAL016124
-st= REAL020322
+tis= 2018-05-08T22:43:31Z
 
 id= REAL004741
 te= Solflekkdata
@@ -47090,9 +47092,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005731
 te= Karakteristikktall
-ba= nm
-nn= Karakteristikktal
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-08T22:23:30Z
 
 id= REAL005732
 te= Molekylbindinger
@@ -50245,9 +50246,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006108
 te= Sorg
-ba= ne
-nn= Sorg
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-08T22:16:05Z
 
 id= REAL006109
 te= Geodynamikk
@@ -57463,10 +57463,16 @@ tie= 2017-02-21T20:47:27Z
 st= REAL019542
 
 id= REAL006948
-te= Glassindustri
+te= Glassproduksjon
 ba= ns
+bf= Glassfremstilling
+bf= Glassindustri
+bf= Glassblåsing
 nn= Glasindustri
+nn= Glasblåsing
+en= Glassblowing
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-08T22:44:14Z
 
 id= REAL006949
 te= Industripolitikk
@@ -62070,10 +62076,13 @@ nn= Kvalitetstryggingssystem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007509
-te= Høysnue
+te= Pollenallergi
 ba= ne
+bf= Høysnue
+nn= Pollenallergi
 nn= Høysnue
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-08T22:29:14Z
 
 id= REAL007510
 te= Elektroniske medier
@@ -73621,11 +73630,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2014-09-29T00:00:00Z
 
 id= REAL008921
-te= Karakterer
+te= Karakterteori
 ba= ne
 ba= nm
+bf= Karakterer
+nn= Karakterteori
 nn= Karakterar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-08T22:20:28Z
 
 id= REAL008922
 te= Populasjonsstudier
@@ -84646,6 +84658,7 @@ te= Trombose
 ba= ne
 bf= Blodpropper
 bf= Tromber
+so= REAL011916
 nn= Trombose
 nn= Blodproppar
 nn= Trombar
@@ -84653,7 +84666,7 @@ en= Thrombosis
 en= Thrombi
 en= Blood clots
 tio= 2014-08-25T00:00:00Z
-tie= 2018-04-18T17:19:10Z
+tie= 2018-05-08T22:34:44Z
 
 id= REAL010256
 te= Klyngeteori
@@ -91169,10 +91182,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011093
 te= Vinylpolymerer
-ba= nk
-nn= Vinylpolymerar
-en= Vinyl polymers
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-08T22:48:58Z
 
 id= REAL011094
 te= Multimediatjenere
@@ -92949,9 +92960,9 @@ tis= 2018-01-12T19:46:10Z
 
 id= REAL011334
 te= Sminke
-ba= ne
-nn= Sminke
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-08T22:18:51Z
+fly= REAL002839
 
 id= REAL011335
 te= Like-til-like systemer
@@ -97860,8 +97871,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011916
 te= Trombolyse
 ba= ne
+so= REAL010255
 nn= Trombolyse
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-08T22:34:45Z
 
 id= REAL011917
 te= Problembasert læring
