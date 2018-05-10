@@ -2489,9 +2489,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000301
 te= Fasthet
-ba= nm
-nn= Fastleik
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-09T23:37:14Z
+fly= REAL009136
 
 id= REAL000302
 te= Satellittovervåking
@@ -3085,9 +3085,8 @@ tis= 2018-03-26T18:20:42Z
 
 id= REAL000374
 te= Interpolasjonsteori
-ba= nm
-nn= Interpolasjonsteori
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-09T22:44:40Z
 
 id= REAL000375
 te= Bioinformatic sequence markup language
@@ -5766,9 +5765,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000694
 te= Dataregistrering
-ba= nm
-nn= Dataregistrering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-09T23:53:24Z
 
 id= REAL000695
 te= Naturlig organisk materie
@@ -5821,10 +5819,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000702
 te= Hastighetskonstanter
-ba= nk
-nn= Snøggleikskonstantar
-nn= Hastigheitskonstantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-09T23:52:30Z
 
 id= REAL000703
 te= Overtro
@@ -6496,9 +6492,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000781
 te= Kritisk punkt
-ba= nm
-nn= Kritisk punkt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-09T23:54:31Z
+fly= REAL002408
 
 id= REAL000782
 te= Optiske egenskaper
@@ -19915,8 +19911,11 @@ fly= REAL010375
 id= REAL002408
 te= Kritiske fenomener
 ba= nf
+bf= Kritiske punkt
 nn= Kritiske fenomen
+nn= Kritiske punkt
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-09T23:54:59Z
 st= REAL026088
 
 id= REAL002409
@@ -28315,11 +28314,10 @@ st= REAL021205
 
 id= REAL003409
 te= SIL
-ba= ni
-nn= SIL
 de= Programmeringsspråk - simulering
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-02T00:00:00Z
+tis= 2018-05-09T22:47:28Z
 
 id= REAL003410
 te= Øremodeller
@@ -33931,11 +33929,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004082
 te= Klassisk fysikk
-ba= nf
-nn= Klassisk fysikk
-en= Classical physics
 tio= 2014-08-25T00:00:00Z
-st= REAL019464
+tis= 2018-05-09T22:11:26Z
+fly= REAL010474
 
 id= REAL004083
 te= Geometrisk programmering
@@ -54807,9 +54803,9 @@ st= REAL015846
 
 id= REAL006629
 te= Newtons mekanikk
-ba= ni
-nn= Newtons mekanikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-09T22:07:40Z
+fly= REAL010474
 
 id= REAL006630
 te= Reservoarmodellering
@@ -59900,9 +59896,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007247
 te= Mekanisk fasthet
-ba= nm
-nn= Mekanisk fastleik
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-09T23:37:30Z
+fly= REAL009136
 
 id= REAL007248
 te= Botanikere
@@ -75454,7 +75450,11 @@ id= REAL009136
 te= Fasthetslære
 ba= nf
 ba= nm
+bf= Fasthet
+bf= Mekanisk fasthet
 nn= Fastleikslære
+nn= Fastleik
+nn= Mekanisk fastleik
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009137
@@ -79259,10 +79259,10 @@ st= REAL021005
 
 id= REAL009618
 te= Markov-prosesser
-ba= nm
-nn= Markov-prosessar
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-27T12:53:50Z
+tis= 2018-05-10T00:03:58Z
+fly= REAL013083
 
 id= REAL009619
 te= Kolatrær
@@ -86401,7 +86401,12 @@ ba= nk
 ba= nf
 ba= nm
 ba= ns
+bf= Newtons mekanikk
+bf= Klassisk fysikk
 nn= Klassisk mekanikk
+nn= Newtons mekanikk
+nn= Klassisk fysikk
+en= Classical physics
 tio= 2014-08-25T00:00:00Z
 st= REAL017559
 st= REAL019961
@@ -109844,8 +109849,13 @@ id= REAL013083
 te= Markovprosesser
 ba= ni
 ba= nm
+bf= Markov-prosesser
+bf= Markovkjeder
 nn= Markovprosessar
+nn= Markov-prosessar
+nn= Markovkjeder
 en= Markov processes
+en= Markov chains
 ms= 60.62
 dw= 519.233
 tio= 2014-08-25T00:00:00Z
@@ -109896,13 +109906,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013088
 te= Markovkjeder
-ba= ni
-ba= nm
-nn= Markovkjeder
-en= Markov chains
-ms= 60.65
-dw= 519.233
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-10T00:05:00Z
+fly= REAL013083
 
 id= REAL013089
 te= Tilfeldig gang
