@@ -107,6 +107,8 @@ id= REAL030076
 te= Brev
 bf= Brevvekslinger
 bf= Korrespondanser
+en= Letters
+en= Correspondences
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030077

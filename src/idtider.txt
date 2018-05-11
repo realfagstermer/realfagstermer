@@ -115,6 +115,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030192
 te= Mellomkrigstiden
 ba= ns
+en= Interwar period
 de= Tiden mellom de to verdenskriger, 1918-39 [SNL]
 tio= 2015-02-20T13:08:04Z
 
