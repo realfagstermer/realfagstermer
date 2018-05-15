@@ -6569,7 +6569,12 @@ st= REAL029186
 id= REAL000788
 te= Elastomerer
 ba= nk
+bf= Syntetisk gummi
+bf= Gummi
+so= REAL005992
 nn= Elastomerar
+nn= Syntetisk gummi
+nn= Gummi
 en= Elastomers
 tio= 2014-08-25T00:00:00Z
 
@@ -16694,14 +16699,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002029
 te= Kautsjuk
-ba= ne
-so= REAL010526
-nn= Kautsjuk
-en= Natural rubber
-en= India rubber
-en= Caoutchouc
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:11:21Z
+tis= 2018-05-15T11:21:27Z
+fly= REAL005992
 
 id= REAL002030
 te= Kompleksoner
@@ -19099,6 +19100,7 @@ ba= ngh
 bf= Brennstoffer
 bf= Brennstoff
 bf= Drivstoffer
+bf= Drivstoff
 so= REAL001434
 so= REAL013831
 nn= Brensel
@@ -19108,7 +19110,7 @@ en= Fuels
 en= Fuel
 de= Materiale som gjennom forbrenning frigjør energi som kan brukes til oppvarming eller omgjøres til arbeid
 tio= 2014-08-25T00:00:00Z
-tie= 2018-05-14T14:52:40Z
+tie= 2018-05-15T14:25:03Z
 st= REAL016857
 
 id= REAL002318
@@ -43001,11 +43003,15 @@ nn= Krysning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005203
-te= Gummiplanter
+te= Plantegummier
 ba= ne
+bf= Gummiplanter
+nn= Plantegummiar
 nn= Gummiplanter
 nn= Gummiplantar
+de= Polysakkarider av naturlig opphav med bruksområder som tykningsmidler, geleringsmidler, emulgeringsmidler og stabilisatorer.
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-15T11:34:50Z
 
 id= REAL005204
 te= Endotoksiner
@@ -49269,10 +49275,19 @@ tis= 2017-10-06T17:52:39Z
 fly= REAL012847
 
 id= REAL005992
-te= Gummitrær
+te= Naturgummi
 ba= nk
+bf= Gummitrær
+bf= Kautsjuk
+so= REAL000788
 nn= Gummitre
+nn= Kautsjuk
+en= Natural rubber
+en= India rubber
+en= Caoutchouc
+de= Gummielastisk hydrokarbon som utvinnes av lateks (melkesaft) fra forskjellige tropiske og subtropiske planter [SNL]
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-15T11:22:06Z
 
 id= REAL005993
 te= Vekselvirkende bosonmodeller
@@ -62413,9 +62428,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007537
 te= Syntetisk gummi
-ba= nk
-nn= Syntetisk gummi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-15T11:25:10Z
+fly= REAL000788
 
 id= REAL007538
 te= Energiomvandling
@@ -76382,17 +76397,21 @@ tio= 2014-08-25T00:00:00Z
 tis= 2017-09-12T18:12:15Z
 
 id= REAL009242
-te= Havvann
+te= Sjøvann
 ba= nk
 ba= nb
 ba= nc
 ba= ngh
-bf= Sjøvann
-nn= Havvatn
+bf= Havvann
+bf= Saltvann
 nn= Sjøvatn
+nn= Havvatn
 en= Seawater
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-15T11:37:31Z
+st= REAL020626
 st= REAL021101
+st= REAL024912
 st= REAL028235
 
 id= REAL009243
@@ -80190,14 +80209,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009720
 te= Saltvann
-ba= nb
-so= REAL009242
 no= Brukes dersom saltvann er emne, ikke biotopen havvann/sjøvann
 nn= Saltvatn
 tio= 2014-08-25T00:00:00Z
 tie= 2014-11-10T00:00:00Z
-st= REAL020626
-st= REAL024912
 
 id= REAL009721
 te= Matematikkundervisning
@@ -86933,12 +86948,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010526
 te= Gummi
-ba= nk
-ba= ne
-so= REAL002029
-nn= Gummi
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:11:19Z
+tis= 2018-05-15T11:25:28Z
+fly= REAL000788
 
 id= REAL010527
 te= Frysetørring
