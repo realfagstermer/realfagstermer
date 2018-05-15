@@ -35031,6 +35031,7 @@ id= REAL004208
 te= Organisk sporanalyse
 ba= nc
 nn= Organisk sporanalyse
+en= Organic trace analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004209
@@ -56398,6 +56399,7 @@ id= REAL006815
 te= Ressursgeografi
 ba= ngh
 nn= Ressursgeografi
+en= Resource geography
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006816
