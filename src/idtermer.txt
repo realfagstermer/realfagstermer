@@ -26398,9 +26398,11 @@ te= Dammer
 ba= nb
 ba= ngh
 ba= ns
+bf= Tjern
 nn= Dammar
 en= Dams
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-16T13:50:06Z
 st= REAL015170
 st= REAL015269
 st= REAL018281
@@ -54206,7 +54208,10 @@ id= REAL006543
 te= Fotoperiodisitet
 ba= nb
 bf= Dagslengde
+bf= Daglengde
 nn= Fotoperiodisitet
+nn= Daglengd
+nn= Daglengde
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-26T09:26:25Z
 
@@ -70736,10 +70741,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008550
 te= Daglengde
-ba= nb
-nn= Daglengd
-nn= Daglengde
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-16T13:46:53Z
+fly= REAL006543
 
 id= REAL008551
 te= Numerisk beregning
