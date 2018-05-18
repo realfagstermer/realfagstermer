@@ -79,6 +79,9 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030072
 te= Berggrunnskart
 tio= 2015-02-20T13:08:04Z
+tie= 2018-05-18T14:38:13Z
+tis= 2018-05-18T14:38:50Z
+fly= REAL030138
 
 id= REAL030073
 te= Bestemmelseslitteratur
@@ -443,9 +446,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030130
 te= Dybdekart
-ba= nb
-ba= ngh
 tio= 2015-02-20T13:08:04Z
+tis= 2018-05-18T14:08:23Z
 
 id= REAL030131
 te= Folkediktning
@@ -492,8 +494,11 @@ id= REAL030138
 te= Geologiske kart
 ba= nc
 ba= ngh
+bf= Berggrunnskart
 en= Geological maps
+en= Geologic maps
 tio= 2015-02-20T13:08:04Z
+tie= 2018-05-18T14:39:00Z
 
 id= REAL030139
 te= Historiske stjernekart
