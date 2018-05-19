@@ -509,6 +509,9 @@ fly= REAL030086
 id= REAL030140
 te= Hydrografiske kart
 ba= ngh
+en= Hydrographic maps
+en= Hydrographic survey charts
+en= Hydrographic charts
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030141
