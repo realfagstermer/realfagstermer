@@ -49161,11 +49161,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005978
 te= Langtidsovervåking
-ba= nb
-bf= Langtidsovervåkning
-nn= Langtidsovervaking
 tio= 2014-08-25T00:00:00Z
 tie= 2015-08-07T15:06:46Z
+tis= 2018-05-20T23:44:32Z
 
 id= REAL005979
 te= Stjernepopulasjoner
@@ -49765,14 +49763,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006044
 te= Naturovervåking
-ba= nb
-ba= ngh
-ba= nq
-bf= Naturovervåkning
-nn= Naturovervaking
 tio= 2014-08-25T00:00:00Z
 tie= 2015-08-07T15:07:00Z
-st= REAL021794
+tis= 2018-05-20T23:45:38Z
+fly= REAL011245
 
 id= REAL006045
 te= Integrasjonsteori
@@ -88983,15 +88977,15 @@ en= Conservation areas
 en= Protected areas
 tio= 2014-08-25T00:00:00Z
 tie= 2018-05-18T19:24:56Z
+st= REAL015742
 st= REAL018458
+st= REAL021922
 st= REAL024868
+st= REAL025310
 st= REAL025930
 st= REAL027230
 st= REAL029695
-st= REAL021922
-st= REAL025310
 st= REAL031824
-st= REAL015742
 
 id= REAL010779
 te= Kombinatorisk tallteori
@@ -92454,7 +92448,10 @@ te= Miljøovervåking
 ba= nb
 ba= nq
 bf= Miljøovervåkning
+bf= Naturovervåking
+bf= Naturovervåkning
 nn= Miljøovervaking
+nn= Naturovervaking
 tio= 2014-08-25T00:00:00Z
 st= REAL016074
 st= REAL018738
@@ -99597,11 +99594,9 @@ tis= 2017-03-02T18:23:12Z
 
 id= REAL012129
 te= Kvalitetsovervåking
-ba= nk
-bf= Kvalitetsovervåkning
-nn= Kvalitetsovervaking
 tio= 2014-08-25T00:00:00Z
 tie= 2015-08-07T15:06:38Z
+tis= 2018-05-20T23:43:53Z
 
 id= REAL012130
 te= Storskalastruktur
