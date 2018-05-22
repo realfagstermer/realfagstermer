@@ -139,6 +139,7 @@ st= REAL031476
 
 id= REAL030081
 te= Felthåndbøker
+en= Field guides
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030082
@@ -185,6 +186,13 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030088
 te= Humor
 bf= Harsellas
+en= Humour
+en= Witticisms
+en= Amusing works
+en= Humor
+en= Humorous works
+en= Jokes
+en= Funny works
 tio= 2015-02-20T13:08:04Z
 tie= 2015-02-16T00:00:00Z
 
@@ -194,6 +202,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030090
 te= Klassifikasjonsskjemaer
+en= Classification schemes
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030091
