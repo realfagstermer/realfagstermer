@@ -572,8 +572,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030150
 te= Stofflister
-ba= nk
 tio= 2015-02-20T13:08:04Z
+tis= 2018-05-22T10:15:59Z
 
 id= REAL030151
 te= Studentrapporter
