@@ -26048,9 +26048,8 @@ st= REAL027735
 
 id= REAL003119
 te= Materialkutting
-ba= nk
-nn= Materialkutting
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-25T10:32:21Z
 
 id= REAL003120
 te= Prøvesprengninger
@@ -44968,7 +44967,7 @@ nn= Heterosykliske sambindingar
 nn= Heterosyklusar
 en= Heterocyclic compounds
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-16T00:00:00Z
+tie= 2018-05-25T11:22:57Z
 st= REAL014061
 st= REAL017128
 st= REAL026053
@@ -48351,10 +48350,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005865
 te= Klinisk legevitenskap
-ba= nm
-nn= Klinisk lækjevitskap
-nn= Klinisk legevitskap
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-25T10:39:20Z
 
 id= REAL005866
 te= Prevalens
@@ -56392,10 +56389,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006807
 te= Kjerner
-ba= na
-nn= Kjernar
 tio= 2014-08-25T00:00:00Z
-st= REAL027910
+tis= 2018-05-25T11:16:03Z
 
 id= REAL006808
 te= Definisjoner
@@ -64134,9 +64129,8 @@ fly= REAL007909
 
 id= REAL007744
 te= Skjæring
-ba= nk
-nn= Skjering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-25T10:32:13Z
 
 id= REAL007745
 te= Kjemisk nomenklatur
@@ -64496,10 +64490,16 @@ tis= 2017-08-29T15:02:48Z
 fly= REAL011894
 
 id= REAL007790
-te= Termisk metallskjæring
-ba= nk
+te= Metallskjæring
+bf= Termisk metallskjæring
+bf= Metallkutting
+bf= Metallklipping
+nn= Metallskjering
 nn= Termisk metallskjering
+nn= Metallkutting
+nn= Metallklipping
 tio= 2014-08-25T00:00:00Z
+tie= 2018-05-25T10:37:27Z
 
 id= REAL007791
 te= Postmaskiner
@@ -81865,9 +81865,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009914
 te= Pyridinforbindelser
-ba= nk
-nn= Pyridinsambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-25T11:22:49Z
+fly= REAL005457
 
 id= REAL009915
 te= Førsteordens logikk
@@ -88208,9 +88208,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010674
 te= Klipping
-ba= nk
-nn= Klipping
 tio= 2014-08-25T00:00:00Z
+tis= 2018-05-25T10:25:17Z
 
 id= REAL010675
 te= Kromgruppen
