@@ -5327,7 +5327,7 @@ real:c006857
 
 real:c006858
   a skos:Concept ;
-  skos:exactMatch hume:c05005, hume:c01104 ;
+  skos:exactMatch hume:c05005 ;
   skos:prefLabel "Legender"@nb, "Legender"@nn .
 
 real:c006864
