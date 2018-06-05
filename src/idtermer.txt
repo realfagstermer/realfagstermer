@@ -95578,6 +95578,7 @@ ba= nb
 bf= Separering
 nn= Separasjon
 nn= Separering
+en= Separation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011620
