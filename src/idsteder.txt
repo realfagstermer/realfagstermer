@@ -2453,8 +2453,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030648
 te= Calgary
-en= Calgary
 tio= 2015-02-20T13:08:04Z
+tis= 2018-06-06T14:18:42Z
 
 id= REAL030649
 te= Børsjøen
