@@ -17509,10 +17509,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002120
 te= Aromatiske planter
-ba= ns
-nn= Aromatiske planter
-nn= Aromatiske plantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-06-09T13:17:28Z
 
 id= REAL002121
 te= Sykliske makromolekyler
@@ -50628,17 +50626,9 @@ st= REAL026523
 
 id= REAL006143
 te= Arvelære
-ba= nb
-ba= ne
-ba= nq
-ba= ns
-nn= Arvelære
 tio= 2014-08-25T00:00:00Z
-st= REAL017179
-st= REAL019310
-st= REAL019350
-st= REAL021664
-st= REAL022890
+tis= 2018-06-09T13:26:15Z
+fly= REAL013424
 
 id= REAL006144
 te= STC Zebra
@@ -52769,10 +52759,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006391
 te= Artsnavn
-ba= nc
-nn= Artsnamn
 tio= 2014-08-25T00:00:00Z
-st= REAL025777
+tis= 2018-06-09T13:24:29Z
 
 id= REAL006392
 te= Mikroanalyser
@@ -56022,11 +56010,8 @@ st= REAL028691
 
 id= REAL006754
 te= Arealkartlegging
-ba= nb
-ba= nq
-nn= Arealkartlegging
 tio= 2014-08-25T00:00:00Z
-st= REAL027824
+tis= 2018-06-09T13:16:05Z
 
 id= REAL006755
 te= Syklopropanering
@@ -71486,7 +71471,9 @@ te= Barksopper
 ba= nb
 ba= nq
 nn= Borksoppar
+la= Corticiaceae
 tio= 2014-08-25T00:00:00Z
+tie= 2018-06-09T13:27:48Z
 st= REAL014211
 st= REAL015642
 st= REAL015843
@@ -87193,11 +87180,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010550
 te= Artsutryddelse
-ba= nb
-ba= ngh
-ba= nq
-nn= Artsutrydding
 tio= 2014-08-25T00:00:00Z
+tis= 2018-06-09T13:24:56Z
+fly= REAL013806
 
 id= REAL010551
 te= Kvastfinnefisker
@@ -91712,9 +91697,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011131
 te= Artsbevaring
-ba= nb
-nn= Artsbevaring
 tio= 2014-08-25T00:00:00Z
+tis= 2018-06-09T13:21:10Z
+fly= REAL013018
 
 id= REAL011134
 te= Mikrobølgeområdet
@@ -93432,10 +93417,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011363
 te= Bladplanter
-ba= ns
-nn= Bladplanter
-nn= Bladplantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-06-09T13:38:35Z
 
 id= REAL011364
 te= Settefisker
@@ -98848,10 +98831,13 @@ en= Molecular neurobiology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012004
-te= Heterostylisme
+te= Heterostyli
 ba= nb
+bf= Heterostylisme
 nn= Heterostylisme
+nn= Heterostyli
 tio= 2014-08-25T00:00:00Z
+tie= 2018-06-09T13:40:53Z
 
 id= REAL012005
 te= Vintermøte
@@ -99556,9 +99542,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012109
 te= Blomsterformer
-ba= nb
-nn= Blomeformer
 tio= 2014-08-25T00:00:00Z
+tis= 2018-06-09T13:41:17Z
 
 id= REAL012110
 te= Økologisk balanse
@@ -109434,6 +109419,7 @@ ba= nb
 ba= ngh
 ba= nq
 bf= Konserveringsbiologi
+bf= Artsbevaring
 nn= Bevaringsbiologi
 nn= Konserveringsbiologi
 en= Conservation biology
@@ -111399,11 +111385,8 @@ st= REAL029650
 
 id= REAL013208
 te= Beitemarkssopper
-ba= nq
-bf= Beitemarkssopp
-nn= Beitemarkssoppar
-nn= Beitemarkssopp
 tio= 2014-08-25T00:00:00Z
+tis= 2018-06-09T13:31:11Z
 
 id= REAL013209
 te= Blåvedsopper
@@ -114398,9 +114381,11 @@ ba= nq
 ba= ns
 bf= Genetisk kode
 bf= Genetiske koder
+bf= Arvelære
 nn= Genetikk
 nn= Genetisk kode
 nn= Genetiske kodar
+nn= Arvelære
 en= Genetics
 tio= 2014-08-25T00:00:00Z
 st= REAL016166
@@ -114430,7 +114415,6 @@ st= REAL027608
 st= REAL028218
 st= REAL029162
 st= REAL029617
-st= REAL029784
 st= REAL029843
 
 id= REAL013425
@@ -119194,10 +119178,9 @@ st= REAL017317
 
 id= REAL013725
 te= Bekjempelse
-bf= Bekjemping
 no= Skal kun brukes som $b (vedheng på hovedemneord), f.eks. $a lakselus $b bekjempelse
-nn= Tyning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-06-09T13:35:07Z
 
 id= REAL013726
 te= Ammoniumderivater
@@ -120279,12 +120262,14 @@ bf= Ekstinksjon
 bf= Utrydding
 bf= Utslettelse
 bf= Utdøing
+bf= Artsutryddelse
 so= REAL013807
 nn= Utrydding
 nn= Ekstinksjon
 nn= Utdøying
 nn= Utrydjing
 nn= Utsletting
+nn= Artsutrydding
 en= Extinction
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-26T18:17:36Z
