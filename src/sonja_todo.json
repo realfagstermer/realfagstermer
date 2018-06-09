@@ -1,1 +1,18 @@
-{}
+{
+  "REAL008617": {
+    "altLabel": [], 
+    "prefLabel": "Photodiodes"
+  }, 
+  "REAL010789": {
+    "altLabel": [], 
+    "prefLabel": "Fourier optics"
+  }, 
+  "REAL010736": {
+    "altLabel": [], 
+    "prefLabel": "Limits"
+  }, 
+  "REAL007330": {
+    "altLabel": [], 
+    "prefLabel": "Amplifiers"
+  }
+}
