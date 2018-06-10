@@ -60,6 +60,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030069
 te= Artslister
 bf= Sjekklister
+en= Species lists
+en= Checklists
 tio= 2015-02-20T13:08:04Z
 tie= 2015-10-01T11:09:19Z
 
@@ -92,6 +94,8 @@ bf= Bestemmelsestabeller
 bf= Bestemmelsesverk
 bf= Kjenningsnøkkel
 bf= Kjenningsnøkler
+en= Identification literature
+en= Identification keys
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030074

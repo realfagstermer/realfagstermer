@@ -4883,6 +4883,7 @@ id= REAL000577
 te= Beiteskader
 ba= nq
 nn= Beiteskadar
+en= Grazing damages
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000578
@@ -13819,6 +13820,7 @@ te= Blandingsskog
 ba= nb
 ba= ngh
 nn= Blandingsskog
+en= Mixed coniferous forest
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001670
@@ -14642,6 +14644,7 @@ ba= nb
 ba= nq
 ba= ns
 nn= Tilskjering
+en= Pruning
 tio= 2014-08-25T00:00:00Z
 st= REAL031706
 
@@ -34029,6 +34032,11 @@ nn= Bestandsberekningar
 nn= Bestandsmodellering
 nn= Bestandsvariasjon
 nn= Populasjonsanalyse
+en= Population analysis
+en= population modelling
+en= population variation
+en= Population modelling
+en= Population variation
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-14T10:52:18Z
 
@@ -36498,6 +36506,7 @@ te= Biokybernetikk
 ba= nf
 ba= nm
 nn= Biokybernetikk
+en= Biocybernetics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004383
@@ -37674,6 +37683,7 @@ id= REAL004534
 te= Bentiske reker
 ba= nb
 nn= Bentiske reker
+en= Benthic shrimps
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004535
@@ -47686,6 +47696,7 @@ te= Beplantninger
 ba= nb
 ba= ngh
 nn= Utplantingar
+en= Plantings
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005784
@@ -55024,6 +55035,7 @@ id= REAL006643
 te= Biomanipulasjon
 ba= nb
 nn= Biomanipulasjon
+en= Biomanipulation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006644
@@ -60217,6 +60229,7 @@ ba= nb
 ba= nm
 ba= ns
 nn= Bestandsutvikling
+en= Population evolution
 tio= 2014-08-25T00:00:00Z
 st= REAL029523
 
@@ -64641,6 +64654,7 @@ ba= nq
 ba= ns
 nn= Bløming
 nn= Blomstring
+en= Flowering
 tio= 2014-08-25T00:00:00Z
 st= REAL017740
 st= REAL021365
@@ -71471,6 +71485,7 @@ te= Barksopper
 ba= nb
 ba= nq
 nn= Borksoppar
+en= Corticioid fungi
 la= Corticiaceae
 tio= 2014-08-25T00:00:00Z
 tie= 2018-06-09T13:27:48Z
@@ -72615,6 +72630,7 @@ id= REAL008774
 te= Boniteter
 ba= nb
 nn= Bonitetar
+en= Site index
 tio= 2014-08-25T00:00:00Z
 st= REAL023976
 
@@ -74358,6 +74374,8 @@ te= Blomsterdyrking
 ba= nb
 ba= nq
 nn= Blomedyrking
+en= Flower cultivation
+en= Floriculture
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008987
@@ -83523,6 +83541,7 @@ ba= nb
 ba= nq
 nn= Artsforvalting
 nn= Artsforvaltning
+en= Species conservation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010100
@@ -97214,6 +97233,7 @@ id= REAL011807
 te= Biotelemetri
 ba= nb
 nn= Biotelemetri
+en= Biotelemetry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011808
@@ -99500,6 +99520,7 @@ id= REAL012102
 te= Arisaema
 ba= nq
 nn= Arisaema
+en= Arisaema
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012104
@@ -105954,6 +105975,8 @@ ba= nb
 bf= Halesekkdyr
 nn= Appendikulariar
 nn= Halesekkdyr
+en= Larvaceans
+en= Appendicularians
 la= Appendicularia (Larvacea)
 tio= 2014-08-25T00:00:00Z
 
@@ -106408,6 +106431,8 @@ te= Bentiske protozoer
 bf= Bentiske protozoa
 nn= Bentiske protozoar
 nn= Bentiske protozoa
+en= Benthic protozoa
+en= Benthic protozoans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012725
@@ -106693,6 +106718,7 @@ id= REAL012747
 te= Boklus
 ba= nb
 nn= Boklus
+en= Book lice
 la= Liposcelididae
 tio= 2014-08-25T00:00:00Z
 
@@ -111393,6 +111419,8 @@ te= Blåvedsopper
 bf= Blåvedsopp
 nn= Blåvedsoppar
 nn= Blåvedsopp
+en= Blue stain fungi
+en= Sap stain fungi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013210
@@ -112459,6 +112487,7 @@ id= REAL013301
 te= Berberisfamilien
 ba= ns
 nn= Berberisfamilien
+en= Barberries
 la= Berberidaceae
 tio= 2014-08-25T00:00:00Z
 st= REAL026533
@@ -120224,6 +120253,8 @@ ba= nb
 ba= ns
 no= Brukes kun når emnet er artsbestemmelse. Bruk ellers form bestemmelseslitteratur
 nn= Artsbestemming
+en= Species identification
+en= Biological identification
 tio= 2014-08-25T00:00:00Z
 st= REAL015853
 st= REAL019067
