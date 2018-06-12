@@ -188,16 +188,19 @@ def task_build_extras():
         logger.info('Wrote dist/%s.marc21.xml', config['basename'])
 
         # 3) RDF (core + mappings)
-        roald.export('dist/%s.complete.ttl' % config['basename'],
-                     format='rdfskos',
-                     include=[
-                        '%s.scheme.ttl' % config['basename'],
-                        'src/ub-onto.ttl',
-                        'src/categories_and_mappings.ttl',
-                     ],
-                     with_ccmapper_candidates=True,
-                     infer=True)
+        prepared = roald.prepare_export(format='rdfskos',
+            include=[
+                '%s.scheme.ttl' % config['basename'],
+                'src/ub-onto.ttl',
+                'src/categories_and_mappings.ttl',
+            ],
+            with_ccmapper_candidates=True,
+            infer=True
+        )
+        prepared.write('dist/%s.complete.ttl' % config['basename'], format='turtle')
         logger.info('Wrote dist/%s.complete.ttl', config['basename'])
+        prepared.write('dist/%s.complete.nt' % config['basename'], format='nt')
+        logger.info('Wrote dist/%s.complete.nt', config['basename'])
 
     return {
         'doc': 'Build extra distribution files (RDF/SKOS with mappings + MARC21XML)',
@@ -224,6 +227,7 @@ def task_build_extras():
             'dist/%s.marc21.xml' % config['basename'],
             'dist/%s.ccmapper.marc21.xml' % config['basename'],
             'dist/%s.complete.ttl' % config['basename'],
+            'dist/%s.complete.nt' % config['basename'],
         ]
     }
 
@@ -245,7 +249,8 @@ def task_publish_dumps():
         '%s.marc21.xml' % config['basename'],
         '%s.ccmapper.marc21.xml' % config['basename'],
         '%s.ttl' % config['basename'],
-        '%s.complete.ttl' % config['basename']
+        '%s.complete.ttl' % config['basename'],
+        '%s.complete.nt' % config['basename']
     ])
 
 
