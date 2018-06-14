@@ -1,1 +1,15 @@
-{}
+{
+  "REAL030087": {
+    "altLabel": [
+      "Historical presentation"
+    ], 
+    "prefLabel": "History"
+  }, 
+  "REAL006790": {
+    "altLabel": [
+      "Organophosphorus compounds", 
+      "Organic phosphorus compounds"
+    ], 
+    "prefLabel": "Phosphorus compounds"
+  }
+}

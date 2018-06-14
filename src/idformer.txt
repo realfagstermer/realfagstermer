@@ -185,6 +185,8 @@ id= REAL030087
 te= Historie
 bf= Historisk fremstilling
 bf= Historisk framstilling
+en= History
+en= Historical presentation
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030088

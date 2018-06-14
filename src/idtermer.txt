@@ -56259,6 +56259,9 @@ nn= Fosforsambindingar
 nn= Organiske fosforsambindingar
 nn= Fosfororganiske sambindingar
 nn= Organofosfor
+en= Phosphorus compounds
+en= Organophosphorus compounds
+en= Organic phosphorus compounds
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-22T15:16:44Z
 
