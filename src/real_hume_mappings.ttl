@@ -10258,11 +10258,6 @@ real:c013083
   skos:exactMatch hume:c28007 ;
   skos:prefLabel "Markov processes"@en, "Markovprosesser"@nb, "Markovprosessar"@nn .
 
-real:c013105
-  a skos:Concept ;
-  skos:exactMatch hume:c28491 ;
-  skos:prefLabel "Ranking"@en, "Rangering"@nb, "Rangering"@nn .
-
 real:c013108
   a skos:Concept ;
   skos:exactMatch hume:c00139 ;
