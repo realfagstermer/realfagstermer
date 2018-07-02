@@ -2834,11 +2834,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000348
 te= Pålitelighetsanalyse
-ba= nk
-ba= nm
-nn= Pålitelegskapsanalyse
-nn= Pålitelegheitsanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-02T12:05:03Z
+fly= REAL013030
 
 id= REAL000349
 te= Ifip-komiteer
@@ -58464,9 +58462,8 @@ st= REAL029071
 
 id= REAL007057
 te= Radioaktive sporstoffer
-ba= nk
-nn= Radioaktive sporstoff
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-02T12:11:38Z
 
 id= REAL007058
 te= Pulver
@@ -76686,9 +76683,9 @@ tie= 2016-09-08T09:09:02Z
 
 id= REAL009269
 te= Radioaktivitetsmålinger
-ba= nk
-nn= Radioaktivitetsmålingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-02T12:13:05Z
+fly= REAL010012
 
 id= REAL009270
 te= Kjeveløse fisker
@@ -82799,7 +82796,9 @@ tie= 2017-07-25T11:02:33Z
 id= REAL010012
 te= Strålingsdetektorer
 ba= nf
+bf= Radioaktivitetsmålinger
 nn= Strålingsdetektorar
+nn= Radioaktivitetsmålingar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010013
@@ -109617,10 +109616,13 @@ te= Pålitelighet
 ba= ni
 ba= nm
 bf= Reliabilitet
+bf= Pålitelighetsanalyse
 no= For pålitelighet i teknikk, se pålitelighetsteknikk eller driftssikkerhet
 nn= Pålitelegskap
 nn= Pålitelegheit
 nn= Reliabilitet
+nn= Pålitelegskapsanalyse
+nn= Pålitelegheitsanalyse
 de= i hvilken grad man får samme resultater når en måling eller undersøkelse gjentas under identiske forhold
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-15T17:32:49Z
