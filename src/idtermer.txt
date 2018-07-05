@@ -1998,9 +1998,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000243
 te= Byssustråder
-ba= nb
-nn= Byssustrådar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:45:07Z
 
 id= REAL000244
 te= Naturlig intelligens
@@ -4039,9 +4038,9 @@ st= REAL029230
 
 id= REAL000483
 te= Trål
-ba= nb
-nn= Trål
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:09:46Z
+fly= REAL011853
 
 id= REAL000484
 te= Petroleumsproduksjon
@@ -14774,10 +14773,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001784
 te= Bunntråling
-ba= nb
-nn= Botntråling
-en= Bottom trawling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:09:55Z
+fly= REAL011853
 
 id= REAL001785
 te= Harvard Mark I
@@ -18184,9 +18182,8 @@ st= REAL020142
 
 id= REAL002192
 te= Bål
-ba= nb
-nn= Bål
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:10:28Z
 
 id= REAL002193
 te= Serum
@@ -30975,12 +30972,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003721
 te= Bunnlandskap
-ba= ngh
-nn= Botnlandskap
-en= Seabed landscape
-en= Seafloor landscape
-en= Ocean floor landscape
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:40:12Z
+fly= REAL009793
 
 id= REAL003722
 te= Uorganiske polymerforbindelser
@@ -32403,10 +32397,12 @@ id= REAL003880
 te= Protister
 ba= nb
 bf= Protoktister
+bf= Protistologi
 so= REAL012723
 so= REAL013927
 nn= Protistar
 nn= Protoktistar
+nn= Protistologi
 tio= 2014-08-25T00:00:00Z
 tie= 2016-05-04T14:48:57Z
 st= REAL016962
@@ -34378,8 +34374,10 @@ st= REAL029742
 id= REAL004127
 te= Koalaer
 ba= nk
+bf= Pungbjørner
 nn= Koalaer
 nn= Koalaar
+nn= Pungbjørnar
 tio= 2014-08-25T00:00:00Z
 st= REAL021881
 
@@ -35324,8 +35322,12 @@ te= Solfysikk
 ba= na
 ba= nf
 ba= ns
+bf= Heliofysikk
 nn= Solfysikk
+nn= Heliofysikk
 en= Solar physics
+en= Heliophysics
+en= Physics of the sun
 tio= 2014-08-25T00:00:00Z
 st= REAL015502
 st= REAL015980
@@ -36898,7 +36900,6 @@ nn= Drivhus
 en= Greenhouse
 tio= 2014-08-25T00:00:00Z
 st= REAL031574
-st= REAL031575
 
 id= REAL004432
 te= Todimensjonal elektroforese
@@ -40723,10 +40724,17 @@ nn= Miljøtruslar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004915
-te= Buormer
+te= Buorm
 ba= nb
-nn= Buormar
+bf= Snok
+nn= Buorm
+nn= Snok
+en= Grass snake
+en= Ringed snake
+en= Water snake
+la= Natrix natrix
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-05T11:44:13Z
 st= REAL025687
 
 id= REAL004917
@@ -54451,9 +54459,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006571
 te= Dregging
-ba= nb
-nn= Dregging
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:10:03Z
+fly= REAL011853
 
 id= REAL006572
 te= Tropisk medisin
@@ -55032,10 +55040,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006643
 te= Biomanipulasjon
-ba= nb
-nn= Biomanipulasjon
-en= Biomanipulation
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:09:13Z
+fly= REAL013408
 
 id= REAL006644
 te= Skolehager
@@ -57974,9 +57981,9 @@ st= REAL015751
 
 id= REAL006993
 te= Proteinforskning
-ba= nb
-nn= Proteinforsking
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:37:34Z
+fly= REAL007798
 
 id= REAL006994
 te= Hypergrupper
@@ -64563,6 +64570,7 @@ nn= Protein
 nn= Eggekvitestoff
 en= Proteins
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-05T11:37:58Z
 st= REAL016476
 st= REAL017120
 st= REAL020090
@@ -65954,9 +65962,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007979
 te= Polypper
-ba= nb
-nn= Polyppar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:37:09Z
+fly= REAL013685
 
 id= REAL007980
 te= Automatisk læring
@@ -65973,10 +65981,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007982
 te= Pungbjørner
-ba= nk
-nn= Pungbjørnar
 tio= 2014-08-25T00:00:00Z
-st= REAL021777
+tis= 2018-07-05T11:02:22Z
+fly= REAL004127
 
 id= REAL007983
 te= Spektroskopiske metoder
@@ -66618,8 +66625,6 @@ en= Dendrology
 en= Xylology
 tio= 2014-08-25T00:00:00Z
 st= REAL023974
-st= REAL027853
-st= REAL028164
 
 id= REAL008059
 te= Draktfugler
@@ -66710,9 +66715,9 @@ st= REAL022132
 
 id= REAL008067
 te= Protistologi
-ba= nb
-nn= Protistologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:39:12Z
+fly= REAL003880
 
 id= REAL008068
 te= Uorganisk kjemi
@@ -74112,11 +74117,9 @@ st= REAL031100
 
 id= REAL008956
 te= Polymeraser
-ba= nb
-nn= Polymerasar
-en= Polymerases
 tio= 2014-08-25T00:00:00Z
-st= REAL017824
+tis= 2018-07-05T11:16:25Z
+fly= REAL009593
 
 id= REAL008957
 te= Tidebølger
@@ -79154,8 +79157,10 @@ ak= PCR
 nn= Polymerasekjedereaksjon
 nn= PCR
 en= Polymerase chain reaction
+en= Polymerases
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-13T13:47:30Z
+tie= 2018-07-05T11:16:39Z
+st= REAL017824
 
 id= REAL009594
 te= Latticer
@@ -80696,7 +80701,6 @@ te= Drivjakt
 ba= nb
 nn= Drivjakt
 tio= 2014-08-25T00:00:00Z
-st= REAL031576
 st= REAL031577
 
 id= REAL009772
@@ -80852,15 +80856,20 @@ te= Havbunnen
 ba= nc
 ba= ns
 bf= Havbunnsforhold
+bf= Bunnlandskap
 so= REAL010368
 so= REAL010615
 so= REAL001039
 nn= Havbotnen
 nn= Havbotnforhold
 nn= Havbotntilhøve
+nn= Botnlandskap
 en= Seabed
 en= Ocean floor
 en= Sea floor
+en= Seabed landscape
+en= Seafloor landscape
+en= Ocean floor landscape
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-27T20:46:18Z
 st= REAL014674
@@ -81261,7 +81270,6 @@ st= REAL023465
 st= REAL024607
 st= REAL025641
 st= REAL028140
-st= REAL031795
 
 id= REAL009841
 te= Energi
@@ -81638,9 +81646,8 @@ st= REAL023557
 
 id= REAL009883
 te= Proteinfunksjoner
-ba= nb
-nn= Proteinfunksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:38:10Z
 
 id= REAL009884
 te= Bildetolkning
@@ -82809,11 +82816,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010014
 te= Bunnplanter
-ba= nb
-nn= Botnplanter
-nn= Botnplantar
 tio= 2014-08-25T00:00:00Z
-st= REAL026829
+tis= 2018-07-05T11:39:51Z
 
 id= REAL010015
 te= Skrukketroll
@@ -91054,9 +91058,8 @@ tie= 2015-10-19T16:52:24Z
 
 id= REAL011052
 te= Bøhmtrær
-ba= ni
-nn= Bøhmtre
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:14:13Z
 
 id= REAL011053
 te= Talenettverk
@@ -97621,7 +97624,14 @@ st= REAL026590
 id= REAL011853
 te= Trålfiske
 ba= nb
+bf= Trål
+bf= Bunntråling
+bf= Dregging
 nn= Trålfiske
+nn= Trål
+nn= Botntråling
+nn= Dregging
+en= Bottom trawling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011854
@@ -99860,11 +99870,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012156
 te= Heliofysikk
-ba= na
-nn= Heliofysikk
-en= Heliophysics
-en= Physics of the sun
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T13:38:51Z
+fly= REAL004246
 
 id= REAL012158
 te= Flerdimensjonale objekter
@@ -106304,11 +106312,15 @@ st= REAL019683
 id= REAL012716
 te= Begerlaver
 bf= Begerlav
+bf= Busklaver
+bf= Busklav
 nn= Begerlav
+nn= Busklav
 en= Cup lichens
 la= Lecanorales
 tio= 2014-08-25T00:00:00Z
 st= REAL015577
+st= REAL022702
 
 id= REAL012717
 te= Begersopper
@@ -110709,13 +110721,13 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013140
 te= Ikke-lineær rotasjon
-nn= Ikkje-lineær rotasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T13:01:16Z
 
 id= REAL013141
 te= Lineær rotasjon
-nn= Lineær rotasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T13:01:20Z
 
 id= REAL013142
 te= Lineær rotordynamikk
@@ -112602,12 +112614,9 @@ st= REAL031922
 
 id= REAL013310
 te= Buttnebber
-ba= nb
-nn= Buttnebbar
-en= Parrotbills
-la= Paradoxornithidae
 de= Fuglefamilie i ordenen spurvefugler
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-05T11:44:55Z
 
 id= REAL013311
 te= Bier
@@ -114003,8 +114012,11 @@ ba= nf
 ba= nm
 ba= nq
 ba= ns
+bf= Biomanipulasjon
 nn= Bioteknologi
+nn= Biomanipulasjon
 en= Biotechnology
+en= Biomanipulation
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-16T00:00:00Z
 st= REAL015143
@@ -118712,8 +118724,10 @@ te= Nesledyr
 ba= nk
 ba= nb
 bf= Polyppdyr
+bf= Polypper
 nn= Nesledyr
 nn= Polyppdyr
+nn= Polyppar
 la= Cnidaria
 tio= 2014-08-25T00:00:00Z
 st= REAL017024
@@ -122068,10 +122082,9 @@ st= REAL029655
 
 id= REAL013892
 te= Busklaver
-bf= Busklav
-nn= Busklav
 tio= 2014-08-25T00:00:00Z
-st= REAL022702
+tis= 2018-07-05T11:45:38Z
+fly= REAL012716
 
 id= REAL013893
 te= Design
