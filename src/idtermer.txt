@@ -13033,9 +13033,12 @@ ba= nb
 ba= nc
 ba= nm
 ba= ns
+bf= Jordvann
 nn= Markvatn
+nn= Jordvatn
 en= Soil water
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-13T15:42:33Z
 
 id= REAL001570
 te= Fysisk oseanografi
