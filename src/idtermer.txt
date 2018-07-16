@@ -3205,9 +3205,8 @@ tie= 2017-10-07T20:16:57Z
 
 id= REAL000389
 te= Levedyktige bestander
-ba= nb
-nn= Levedyktige bestandar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T16:54:11Z
 
 id= REAL000390
 te= Psykoakustikk
@@ -7641,9 +7640,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000924
 te= Planisfærer
-ba= na
-nn= Planisfærar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T09:56:55Z
 
 id= REAL000925
 te= Anvendt vitenskap
@@ -8517,19 +8515,11 @@ st= REAL026236
 
 id= REAL001024
 te= Jordsmonn
-ba= nk
-ba= nb
-ba= nc
-ba= nq
-ba= ns
-nn= Jordsmonn
-en= Soil
 de= den øverste delen av jorden der det foregår forvitring og biologisk aktivitet [Norsk geologisk ordbok]
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-12T14:22:34Z
-st= REAL020968
-st= REAL028508
-st= REAL029143
+tis= 2018-07-16T10:09:42Z
+fly= REAL009039
 
 id= REAL001025
 te= Digital teori
@@ -9873,9 +9863,8 @@ tie= 2015-02-11T00:00:00Z
 
 id= REAL001191
 te= Jordorganismer
-ba= nb
-nn= Jordorganismar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:08:55Z
 
 id= REAL001192
 te= Kvantemekanikk
@@ -13163,7 +13152,6 @@ ba= nk
 ba= nb
 nn= Nerveimpulsar
 tio= 2014-08-25T00:00:00Z
-st= REAL024767
 
 id= REAL001584
 te= Mikrobiologiske modeller
@@ -14008,9 +13996,8 @@ tie= 2015-09-21T09:10:57Z
 
 id= REAL001693
 te= Elektromatografi
-ba= nb
-nn= Elektromatografi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T16:30:03Z
 
 id= REAL001694
 te= Homotopigrupper
@@ -18644,15 +18631,9 @@ st= REAL028550
 
 id= REAL002252
 te= Jordlære
-ba= nk
-ba= nb
-ba= nc
-ba= nq
-nn= Jordlære
 tio= 2014-08-25T00:00:00Z
-st= REAL014592
-st= REAL017090
-st= REAL029588
+tis= 2018-07-16T10:03:21Z
+fly= REAL009039
 
 id= REAL002253
 te= Tropisk mykologi
@@ -20461,10 +20442,9 @@ fly= REAL008221
 
 id= REAL002468
 te= Jordbiologi
-ba= nb
-nn= Jordbiologi
-en= Soil biology
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:05:34Z
+fly= REAL011764
 
 id= REAL002469
 te= Hyperglykemi
@@ -24128,11 +24108,8 @@ st= REAL031959
 
 id= REAL002887
 te= Mappeevaluering
-ba= ns
-bf= Mappevurdering
-nn= Mappeevaluering
-nn= Mappevurdering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T16:54:44Z
 
 id= REAL002889
 te= Vektoranalyse
@@ -24405,9 +24382,16 @@ ba= nc
 ba= ne
 ba= nm
 ba= ns
+bf= Leseteknikk
+so= REAL008089
 nn= Studieteknikk
+nn= Leseteknikk
+en= Study skills
 en= Study technique
+en= Academic skills
+en= Study strategies
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T15:35:23Z
 st= REAL015702
 st= REAL020263
 st= REAL021691
@@ -26920,9 +26904,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003235
 te= Plantestoffer
-ba= nb
-nn= Plantestoff
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:01:09Z
 
 id= REAL003236
 te= Havert
@@ -27359,21 +27342,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003294
 te= Jord
-ba= nk
-ba= nb
-ba= nc
-ba= nm
-ba= nq
-ba= ns
-nn= Jord
-en= Soil
 tio= 2014-08-25T00:00:00Z
-st= REAL016541
-st= REAL020956
-st= REAL022387
-st= REAL028999
-st= REAL029157
-st= REAL029882
+tis= 2018-07-16T10:03:34Z
+fly= REAL009039
 
 id= REAL003295
 te= Oljegeologi
@@ -28655,9 +28626,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003447
 te= Planteutbredelse
-ba= nk
-nn= Planteutbreiing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:02:43Z
 
 id= REAL003448
 te= Krabbefiske
@@ -29734,12 +29704,9 @@ tis= 2017-09-07T09:37:10Z
 
 id= REAL003571
 te= Jordundersøkelser
-ba= nc
-nn= Jordundersøkingar
 tio= 2014-08-25T00:00:00Z
-st= REAL021819
-st= REAL021894
-st= REAL021919
+tis= 2018-07-16T10:08:40Z
+fly= REAL009039
 
 id= REAL003573
 te= Svømming
@@ -30759,9 +30726,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003695
 te= Lederutvikling
-ba= ns
-nn= Leiarutvikling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T17:13:44Z
+fly= REAL013626
 
 id= REAL003696
 te= Eksekvering
@@ -32385,16 +32352,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003879
 te= Programmer
-ba= ni
-ba= nk
-ba= nb
-ba= ngh
-ba= nm
-nn= Program
-en= Computer programs
 tio= 2014-08-25T00:00:00Z
-st= REAL020079
-st= REAL024970
+tis= 2018-07-16T17:25:02Z
+fly= REAL006889
 
 id= REAL003880
 te= Protister
@@ -34197,9 +34157,8 @@ st= REAL025773
 
 id= REAL004106
 te= Datran
-ba= ni
-nn= Datran
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T17:19:44Z
 
 id= REAL004107
 te= Landbruksforskning
@@ -37552,14 +37511,12 @@ id= REAL004516
 te= Plasmadynamikk
 ba= na
 bf= Plasmastrømmer
-bf= Plasmainstabiliteter
+so= REAL032011
 nn= Plasmadynamikk
 nn= Plasmastraumar
-nn= Plasmainstabilitetar
 en= Plasma dynamics
-en= Plasma instabilities
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-17T21:24:01Z
+tie= 2018-07-16T17:34:09Z
 
 id= REAL004517
 te= Tensider
@@ -39295,9 +39252,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004734
 te= Jordfag
-ba= nk
-nn= Jordfag
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:06:44Z
+fly= REAL009039
 
 id= REAL004735
 te= Berggrunn
@@ -43190,8 +43147,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005223
 te= Flygeledere
 ba= ni
+bf= Flyveledere
 nn= Flygeleiarar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T15:38:44Z
 st= REAL014823
 
 id= REAL005224
@@ -45279,14 +45238,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005495
 te= Oljeressurser
-ba= nc
-nn= Oljeressursar
-en= Petroleum resources
-en= Oil resources
 tio= 2014-08-25T00:00:00Z
-st= REAL018248
-st= REAL025338
-st= REAL028613
+tis= 2018-07-16T09:35:12Z
+fly= REAL006430
 
 id= REAL005496
 te= Karboniumioner
@@ -53066,6 +53020,7 @@ bf= Oljeforekomster
 bf= Gassforekomster
 bf= Oljereservoarer
 bf= Reservoarer
+bf= Oljeressurser
 so= REAL004145
 so= REAL011872
 nn= Petroleumsførekomstar
@@ -53076,9 +53031,12 @@ nn= Oljeførekomstar
 nn= Gassførekomstar
 nn= Oljereservoar
 nn= Reservoar
+nn= Oljeressursar
 en= Petroleum reservoirs
 en= Oil and gas reservoirs
 en= Hydrocarbon reservoirs
+en= Petroleum resources
+en= Oil resources
 de= En ansamling av petroleum i en geologisk enhet i undergrunnen, påvist ved boring. Petroleumsforekomster kan unntaksvis også finnes på overflaten. (Norsk geologisk ordbok)
 tio= 2014-08-25T00:00:00Z
 tie= 2016-12-19T16:28:38Z
@@ -53086,24 +53044,15 @@ st= REAL014228
 st= REAL014428
 st= REAL016012
 st= REAL016722
-st= REAL017099
 st= REAL017950
 st= REAL018020
 st= REAL018188
 st= REAL018488
-st= REAL018647
-st= REAL018662
 st= REAL018844
-st= REAL018868
-st= REAL019211
-st= REAL019262
 st= REAL019501
 st= REAL020255
-st= REAL020282
 st= REAL020610
 st= REAL020796
-st= REAL021107
-st= REAL021391
 st= REAL021700
 st= REAL021865
 st= REAL022779
@@ -53114,18 +53063,12 @@ st= REAL025090
 st= REAL025455
 st= REAL025870
 st= REAL026076
-st= REAL026256
 st= REAL026260
-st= REAL026372
 st= REAL026616
 st= REAL027258
 st= REAL027422
-st= REAL027857
 st= REAL028374
-st= REAL029247
-st= REAL029306
 st= REAL029449
-st= REAL029806
 
 id= REAL006431
 te= VRML
@@ -54968,9 +54911,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006633
 te= Politisk innflytelse
-ba= ns
-nn= Politisk innverknad
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:02:59Z
 
 id= REAL006634
 te= Værtabeller
@@ -57097,13 +57039,16 @@ ba= nc
 ba= ne
 ba= ngh
 ba= nm
+bf= Programmer
 nn= Dataprogram
+nn= Program
 en= Computer programs
 tio= 2014-08-25T00:00:00Z
 st= REAL014225
 st= REAL017073
 st= REAL020401
 st= REAL023765
+st= REAL024970
 
 id= REAL006890
 te= Fysikkundervisning
@@ -58146,9 +58091,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007011
 te= Plantesugere
-ba= nb
-nn= Plantesugarar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:01:36Z
+fly= REAL008264
 
 id= REAL007012
 te= Sedimentære strender
@@ -59409,9 +59354,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007163
 te= Moderne algebra
-ba= nm
-nn= Moderne algebra
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T17:01:25Z
 
 id= REAL007164
 te= Uorganisk forurensning
@@ -60897,9 +60841,10 @@ fly= REAL008244
 
 id= REAL007351
 te= Leseteknikk
-ba= ns
-nn= Leseteknikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T15:31:10Z
+tis= 2018-07-16T15:33:43Z
+fly= REAL002927
 
 id= REAL007352
 te= Feltemisjon
@@ -65764,10 +65709,8 @@ st= REAL029561
 
 id= REAL007952
 te= Hypervideo
-ba= ni
-nn= Hypervideo
-en= Hypervideo
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T17:20:00Z
 
 id= REAL007953
 te= Allener
@@ -66282,9 +66225,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008013
 te= Plantedeler
-ba= nb
-nn= Plantedelar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:00:13Z
 
 id= REAL008014
 te= Ikke-lineær fysikk
@@ -66909,9 +66851,14 @@ id= REAL008089
 te= Leseferdighet
 ba= nk
 ba= ns
+bf= Lesekyndiget
+bf= Leseferdigheter
+bf= Lesekompetanse
+so= REAL002927
 nn= Lesedugleik
 nn= Leseferdigheit
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T15:31:51Z
 
 id= REAL008090
 te= Flash
@@ -68355,7 +68302,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008264
 te= Homoptera
 ba= nb
+bf= Plantesugere
 nn= Homoptera
+nn= Plantesugarar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008265
@@ -68875,10 +68824,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008335
 te= Plantedyrking
-ba= nb
-ba= nq
-nn= Plantedyrking
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T10:00:44Z
 
 id= REAL008336
 te= Fuglejakt
@@ -69659,7 +69606,6 @@ nn= Nervesystemet
 en= Nervous system
 tio= 2014-08-25T00:00:00Z
 st= REAL014443
-st= REAL021992
 st= REAL024024
 
 id= REAL008425
@@ -74770,9 +74716,34 @@ ba= nk
 ba= nb
 ba= nc
 ba= ngh
+bf= Jordlære
+bf= Jord
+bf= Jordfag
+bf= Jordundersøkelser
+bf= Jordsmonn
 nn= Pedologi
+nn= Jordlære
+nn= Jord
+nn= Jordfag
+nn= Jordundersøkingar
+nn= Jordsmonn
 en= Pedology
+en= Soil
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T10:09:52Z
+st= REAL014592
+st= REAL016541
+st= REAL017090
+st= REAL020956
+st= REAL020968
+st= REAL021819
+st= REAL021894
+st= REAL021919
+st= REAL022387
+st= REAL028999
+st= REAL029157
+st= REAL029588
+st= REAL029882
 
 id= REAL009040
 te= Gruppeveiledning
@@ -76964,12 +76935,15 @@ tis= 2016-09-26T10:08:13Z
 fly= REAL008770
 
 id= REAL009303
-te= Buffere
+te= Bufferløsninger
 ba= ni
 ba= nk
 ba= nb
-nn= Bufferar
+bf= Buffere (Kjemi)
+nn= Bufferløysingar
+nn= Bufferar (Kjemi)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T16:11:29Z
 
 id= REAL009304
 te= Dispersjoner
@@ -77942,11 +77916,9 @@ fly= REAL000816
 
 id= REAL009429
 te= Etnofarmakologi
-ba= ne
-nn= Etnofarmakologi
-en= Ethnopharmacology
 tio= 2014-08-25T00:00:00Z
-st= REAL019257
+tis= 2018-07-16T16:20:17Z
+fly= REAL010029
 
 id= REAL009430
 te= Vedrør
@@ -81179,7 +81151,6 @@ en= Hydrocarbon exploration
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T14:03:01Z
 st= REAL018170
-st= REAL022092
 st= REAL022359
 st= REAL023907
 st= REAL024310
@@ -82929,8 +82900,14 @@ fly= REAL014058
 id= REAL010029
 te= Etnofarmasi
 ba= ne
+bf= Etnofarmakologi
 nn= Etnofarmasi
+nn= Etnofarmakologi
+en= Ethnopharmacology
+en= Ethnopharmacy
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T16:21:00Z
+st= REAL019257
 st= REAL019892
 st= REAL021683
 
@@ -84561,10 +84538,18 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-05-22T09:46:46Z
 
 id= REAL010214
-te= Logplan '88
+te= Loglan
 ba= ni
+bf= Loglan-88
+bf= Loglan 88
+bf= Loglan '88
+nn= Loglan
 nn= Logplan '88
+nn= Loglan-88
+nn= Loglan 88
+de= objektorientert programmeringsspråk fra Universitetet i Warszawa, må ikke forveksles med det logiske språket utviklet av James Cooke Brown
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T16:53:16Z
 
 id= REAL010215
 te= Kompositter
@@ -85729,9 +85714,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010354
 te= Logger
-ba= ns
-nn= Loggar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T15:15:33Z
 
 id= REAL010355
 te= Kontinentaldrift
@@ -86450,8 +86434,12 @@ id= REAL010452
 te= Fjellrotter
 ba= nb
 ba= ns
+bf= Fjellmarkmus
 nn= Fjellrotter
+nn= Fjellmarkmus
+la= Microtus oeconomus
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T15:41:59Z
 
 id= REAL010453
 te= Multifraktaler
@@ -87393,9 +87381,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010574
 te= Surt ferskvann
-ba= nb
-nn= Surt ferskvatn
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T14:13:46Z
 
 id= REAL010575
 te= Systemkonfigurasjon
@@ -94490,8 +94477,11 @@ fly= REAL013384
 id= REAL011493
 te= Meteorstormer
 ba= na
+bf= Meteorsvermer
 nn= Meteorstormar
+nn= Meteorsvermar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-16T15:35:48Z
 
 id= REAL011494
 te= Petroleumsvirksomhet
@@ -96077,10 +96067,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011672
 te= Virtuelt klasserom
-ba= ni
-nn= Virtuelt klasserom
-en= Virtual class rooms
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T17:20:45Z
 
 id= REAL011673
 te= Masaier
@@ -96850,13 +96838,33 @@ te= Jordøkologi
 ba= nk
 ba= nb
 bf= Jordbunnsøkologi
+bf= Jordbiologi
+bf= Jordbunnssystemer
+bf= Jordbunn
+bf= Jordbunnslære
+bf= Jordbunnsystemer
 nn= Jordøkologi
 nn= Jordbotnøkologi
+nn= Jordbiologi
+nn= Jordbotnsystem
+nn= Jordbotn
+nn= Jordbotnlære
 en= Soil ecology
+en= Soil biology
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-15T14:37:22Z
+st= REAL016592
+st= REAL016732
+st= REAL017298
+st= REAL017565
+st= REAL017863
+st= REAL019079
+st= REAL021498
+st= REAL023158
+st= REAL023813
 st= REAL024915
 st= REAL026658
+st= REAL027729
 
 id= REAL011766
 te= Smågnagere
@@ -97350,7 +97358,6 @@ nn= Sentralnervesystemet
 en= Central nervous system
 en= CNS
 tio= 2014-08-25T00:00:00Z
-st= REAL017374
 st= REAL018016
 
 id= REAL011822
@@ -109763,8 +109770,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013041
 te= Lignocelluloser
-nn= Lignocellulosar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-16T16:54:28Z
 
 id= REAL013042
 te= Like-til-like
@@ -117945,8 +117952,10 @@ ba= ne
 ba= nm
 ba= ns
 bf= Lederskap
+bf= Lederutvikling
 nn= Leiing
 nn= Leiarskap
+nn= Leiarutvikling
 en= Management
 tio= 2014-08-25T00:00:00Z
 
@@ -119030,23 +119039,9 @@ st= REAL021583
 
 id= REAL013707
 te= Jordbunnssystemer
-bf= Jordbunn
-bf= Jordbunnslære
-bf= Jordbunnsystemer
-nn= Jordbotnsystem
-nn= Jordbotn
-nn= Jordbotnlære
 tio= 2014-08-25T00:00:00Z
-st= REAL016592
-st= REAL016732
-st= REAL017298
-st= REAL017565
-st= REAL017863
-st= REAL019079
-st= REAL021498
-st= REAL023158
-st= REAL023813
-st= REAL027729
+tis= 2018-07-16T10:06:00Z
+fly= REAL011764
 
 id= REAL013708
 te= Rotsystemer
@@ -127322,4 +127317,73 @@ tio= 2018-05-09T19:16:56Z
 tie= 2018-05-09T19:18:05Z
 tis= 2018-05-09T19:19:21Z
 fly= REAL031434
+
+id= REAL032007
+te= Filterspisere
+bf= Filterspisende
+bf= Filtrerere
+bf= Filteretere
+nn= Filteretarar
+nn= Filteretande
+nn= Filtrerarar
+en= Filter feeders
+tio= 2018-07-16T15:42:56Z
+tie= 2018-07-16T15:43:51Z
+
+id= REAL032008
+te= Mesokosmos
+bf= Mesokosmer
+nn= Mesokosmos
+nn= Mesokosmer
+en= Mesocosms
+tio= 2018-07-16T15:45:37Z
+tie= 2018-07-16T16:03:35Z
+
+id= REAL032009
+te= Buffere (Informatikk)
+bf= Databuffere
+nn= Bufferar (Informatikk)
+nn= Databufferar
+en= Buffers (Informatics)
+en= Data buffers
+tio= 2018-07-16T16:09:56Z
+tie= 2018-07-16T16:10:54Z
+
+id= REAL032010
+te= Skaperbevegelsen
+bf= Skaperverksteder
+bf= Skapere
+bf= Skaperkultur
+nn= Skaparrørsla
+nn= Skaparverkstadar
+nn= Skaparar
+nn= Skaparkultur
+en= Maker movement
+en= Maker spaces
+en= Makers
+en= Hackerspaces
+en= Makerspaces
+en= Hackspaces
+en= Hacklabs
+en= Library makerspaces
+en= Fab labs
+en= FabLab
+en= Maker culture
+tio= 2018-07-16T17:04:33Z
+tie= 2018-07-16T17:11:49Z
+
+id= REAL032011
+te= Plasmastabilitet
+bf= MHD-stabilitet
+bf= Plasmainstabiliteter
+bf= Plasmaustabiliteter
+so= REAL004516
+nn= Plasmastabilitet
+nn= Plasmainstabilitetar
+en= Plasma stability
+en= Plasma instabilities
+en= MHD instabilities
+en= MHD stability
+tio= 2018-07-16T17:30:35Z
+tie= 2018-07-16T17:34:10Z
 
