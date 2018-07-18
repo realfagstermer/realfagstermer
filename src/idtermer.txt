@@ -2651,6 +2651,7 @@ id= REAL000322
 te= Kvantegravitasjon
 ba= na
 ba= nf
+ut= REAL032012
 nn= Kvantegravitasjon
 en= Quantum gravity
 tio= 2014-08-25T00:00:00Z
@@ -12479,7 +12480,9 @@ id= REAL001500
 te= Laboratorieteknikker
 ba= nk
 ba= nb
+bf= Laboratoriekurs
 nn= Laboratorieteknikkar
+nn= Laboratoriekurs
 en= Laboratory techniques
 tio= 2014-08-25T00:00:00Z
 st= REAL026711
@@ -13519,8 +13522,8 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001636
 te= Ingeniørmekanikk
 ba= nf
-nn= Ingeniørmekanikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T18:07:44Z
 
 id= REAL001637
 te= Foldebelter
@@ -15471,9 +15474,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001874
 te= Intern rotasjon
-ba= nk
-nn= Intern rotasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:09:40Z
 
 id= REAL001875
 te= Stressproteiner
@@ -16684,9 +16686,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002027
 te= Databasert læring
-ba= ns
-nn= Databasert læring
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:12:19Z
+fly= REAL005343
 
 id= REAL002028
 te= Aerobiologi
@@ -22265,9 +22267,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002678
 te= Eg5
-ba= nb
-nn= Eg5
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T16:01:08Z
 
 id= REAL002679
 te= Kommunisme
@@ -27092,9 +27093,11 @@ ba= nk
 ba= ne
 bf= Instrumentelle analyser
 bf= Instrumentelle metoder
+bf= Instrumentanalyser
 nn= Instrumentell analyse
 nn= Instrumentelle analysar
 nn= Instrumentelle metodar
+nn= Instrumentanalysar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003260
@@ -27316,9 +27319,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003290
 te= Ingeriørmekanikk
-ba= nm
-nn= Ingeniørmekanikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:07:40Z
+fly= REAL001636
 
 id= REAL003291
 te= Sas
@@ -28476,10 +28479,8 @@ tis= 2017-03-22T13:12:36Z
 
 id= REAL003423
 te= Ustabilitet
-ba= nk
-ba= nf
-nn= Ustabilitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T17:46:35Z
 
 id= REAL003424
 te= Vannkraftutbygging
@@ -31323,8 +31324,6 @@ te= Kulturer
 ba= nb
 nn= Kulturar
 tio= 2014-08-25T00:00:00Z
-st= REAL016169
-st= REAL020151
 
 id= REAL003767
 te= K-algebraer
@@ -36534,9 +36533,8 @@ st= REAL015378
 
 id= REAL004391
 te= Hovedgrupper
-ba= nk
-nn= Hovudgrupper
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:35:29Z
 
 id= REAL004392
 te= Datakontrakter
@@ -36576,10 +36574,15 @@ en= Differentiable manifolds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004399
-te= Diffusjonsprøvetaking
+te= Passiv prøvetaking
 ba= nk
+bf= Diffusjonsprøvetaking
+bf= Diffusiv prøvetaking
+nn= Passiv prøvetaking
 nn= Diffusjonsprøvetaking
+nn= Diffusiv prøvetaking
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T18:51:05Z
 
 id= REAL004400
 te= Urbane områder
@@ -37512,11 +37515,12 @@ te= Plasmadynamikk
 ba= na
 bf= Plasmastrømmer
 so= REAL032011
+so= REAL013339
 nn= Plasmadynamikk
 nn= Plasmastraumar
 en= Plasma dynamics
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-16T17:34:09Z
+tie= 2018-07-18T17:20:17Z
 
 id= REAL004517
 te= Tensider
@@ -39379,8 +39383,10 @@ id= REAL004752
 te= Gruppekohomologi
 ba= nm
 nn= Gruppekohomologi
+en= Cohomology of groups
 en= Group cohomology
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T13:27:27Z
 
 id= REAL004753
 te= Biologiske artsbegreper
@@ -43180,7 +43186,9 @@ id= REAL005227
 te= Kohomologiteori
 ba= nm
 nn= Kohomologiteori
+en= Cohomology
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T13:25:55Z
 
 id= REAL005228
 te= Amatører
@@ -43871,9 +43879,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005319
 te= Informasjonsledelse
-ba= ngh
-nn= Informasjonsleiing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:06:46Z
 
 id= REAL005320
 te= Strålingsskader
@@ -44049,12 +44056,17 @@ id= REAL005343
 te= Datastøttet læring
 ba= ni
 ba= ns
+bf= Databasert læring
+bf= Digital læring
 ak= DSL
 so= REAL007895
 so= REAL010361
 nn= Datastøtta læring
+nn= Databasert læring
+nn= Digital læring
 en= Computer aided learning
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T18:21:17Z
 st= REAL015685
 
 id= REAL005344
@@ -48246,10 +48258,9 @@ st= REAL022738
 
 id= REAL005857
 te= Cohomology
-ba= nm
-nn= Cohomology
-en= Cohomology
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T13:25:50Z
+fly= REAL005227
 
 id= REAL005858
 te= Maude
@@ -49573,9 +49584,8 @@ fly= REAL001760
 
 id= REAL006021
 te= Handlingsvalg
-ba= ngh
-nn= Handlingsval
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:23:20Z
 
 id= REAL006022
 te= Melk
@@ -50497,9 +50507,11 @@ te= Feilsøking
 ba= ni
 ba= nk
 bf= Feilfinning
+so= REAL007081
 nn= Feilsøking
 nn= Feilfinning
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T13:41:21Z
 
 id= REAL006131
 te= Rosefamilien
@@ -56830,9 +56842,8 @@ st= REAL031735
 
 id= REAL006865
 te= Lederroller
-ba= ns
-nn= Leiarroller
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:06:14Z
 
 id= REAL006866
 te= Molekylær glykobiologi
@@ -57156,7 +57167,9 @@ tis= 2017-02-10T17:17:27Z
 id= REAL006904
 te= Silikoner
 ba= nk
+bf= Silikonplast
 nn= Silikon
+nn= Silikonplast
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006905
@@ -57850,9 +57863,8 @@ st= REAL020408
 
 id= REAL006981
 te= Dynamisk tilordning
-ba= ni
-nn= Dynamisk tilordning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:39:05Z
 
 id= REAL006982
 te= Variasjonsanalyse
@@ -58664,6 +58676,7 @@ te= Feilretting
 ba= ni
 bf= Avlusing
 bf= Feilbehandling
+so= REAL006130
 nn= Feilretting
 nn= Avlusing
 nn= Feilbehandling
@@ -58671,6 +58684,7 @@ nn= Feilhandsaming
 en= Debugging
 en= Error treatment
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T13:41:21Z
 
 id= REAL007082
 te= Bunter
@@ -63367,10 +63381,9 @@ st= REAL024179
 
 id= REAL007658
 te= Instrumentanalyser
-ba= nk
-ba= ne
-nn= Instrumentanalysar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T18:08:34Z
+fly= REAL003259
 
 id= REAL007659
 te= Gåsefugler
@@ -68124,9 +68137,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008241
 te= Høyfrekvent
-ba= nk
-nn= Høgfrekvent
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T13:47:10Z
 
 id= REAL008242
 te= Silvev
@@ -71424,10 +71436,11 @@ en= Wimberry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008634
-te= Homomorfiteori
+te= Homomorfismer
 ba= nm
-nn= Homomorfiteori
+nn= Homomorfismer
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T13:29:57Z
 
 id= REAL008635
 te= Kuler
@@ -73424,9 +73437,8 @@ tis= 2017-04-06T11:46:59Z
 
 id= REAL008880
 te= Homologisk kohomologi
-ba= nm
-nn= Homologisk kohomologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T13:24:37Z
 
 id= REAL008881
 te= Organisasjonsutvikling
@@ -76948,7 +76960,9 @@ tie= 2018-07-16T16:11:29Z
 id= REAL009304
 te= Dispersjoner
 ba= nk
+bf= Dispergering
 nn= Dispersjonar
+nn= Dispergering
 en= Dispersions
 de= Tofase-system der den ene fasen består av små partikler som er fordelt (dispergert) i den andre fasen (SNL)
 tio= 2014-08-25T00:00:00Z
@@ -80722,9 +80736,9 @@ fly= REAL012383
 
 id= REAL009779
 te= Silikonplast
-ba= nk
-nn= Silikonplast
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T13:15:30Z
+fly= REAL006904
 
 id= REAL009780
 te= Internasjonal utviklingshjelp
@@ -80790,9 +80804,9 @@ tis= 2017-06-01T15:04:50Z
 
 id= REAL009788
 te= Laboratoriekurs
-ba= nk
-nn= Laboratoriekurs
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T13:10:44Z
+fly= REAL001500
 
 id= REAL009789
 te= Nitrogenassimilasjon
@@ -82684,10 +82698,13 @@ nn= Arbeidsøkonomi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010000
-te= Talkum
+te= Talk
 ba= ne
+bf= Talkum
+nn= Talk
 nn= Talkum
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T13:07:17Z
 
 id= REAL010001
 te= Influenslinjer
@@ -82903,10 +82920,10 @@ ba= ne
 bf= Etnofarmakologi
 nn= Etnofarmasi
 nn= Etnofarmakologi
-en= Ethnopharmacology
 en= Ethnopharmacy
+en= Ethnopharmacology
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-16T16:21:00Z
+tie= 2018-07-18T12:52:31Z
 st= REAL019257
 st= REAL019892
 st= REAL021683
@@ -86505,11 +86522,12 @@ tio= 2014-08-25T00:00:00Z
 st= REAL022636
 
 id= REAL010462
-te= Ms-dos
+te= MS-DOS
 ba= ni
-nn= Ms-dos
+nn= MS-DOS
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T13:35:02Z
 
 id= REAL010463
 te= Søkestrategier
@@ -90111,9 +90129,9 @@ fly= REAL003011
 
 id= REAL010922
 te= Homologisk gruppeteori
-ba= nm
-nn= Homologisk gruppeteori
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T13:25:14Z
+fly= REAL004752
 
 id= REAL010923
 te= Fiskeøkologi
@@ -97571,9 +97589,9 @@ st= REAL027158
 
 id= REAL011847
 te= Dispergering
-ba= nm
-nn= Dispergering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T14:02:05Z
+fly= REAL009304
 
 id= REAL011848
 te= Intracellulære signaler
@@ -110359,12 +110377,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013103
 te= Eksakt effisiens
-ba= nm
-nn= Eksakt effisiens
-en= Exact efficiency
-ms= 62.16
-dw= 519.54
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-18T16:01:18Z
 
 id= REAL013104
 te= Asymptotisk effisiens
@@ -113001,10 +113015,22 @@ ba= na
 ba= nf
 ba= nm
 ba= ns
+bf= Magnetofluiddynamikk
+bf= Hydromagnetisme
+bf= Magnetogassdynamikk
 ak= MHD
+so= REAL004516
 nn= Magnetohydrodynamikk
-en= Magneto-hydrodynamics
+nn= Magnetofluiddynamikk
+nn= Hydromagnetisme
+nn= Magnetogassdynamikk
+en= Magnetohydrodynamics
+en= Magneto-fluid dynamics
+en= Hydromagnetics
+en= Magnetofluid dynamics
+de= Læren om dynamikken til elektrisk ledende fluider som plasma, flytende metall og elektrolytter [WP]
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-18T17:24:41Z
 st= REAL014106
 st= REAL018991
 st= REAL020941
@@ -122277,14 +122303,16 @@ ba= nm
 bf= Krystalldefekter
 bf= Defektkjemi
 bf= Defekter
+bf= Gitterfeil
 so= REAL003168
 so= REAL009045
 nn= Krystallfeil
 nn= Defektar
 nn= Defektkjemi
 nn= Krystalldefektar
+nn= Gitterfeil
 tio= 2014-08-25T00:00:00Z
-tie= 2018-03-28T10:48:16Z
+tie= 2018-07-18T13:00:46Z
 
 id= REAL013910
 te= Feltteorier
@@ -126903,23 +126931,11 @@ tio= 2017-10-30T10:15:05Z
 tie= 2017-10-31T10:46:36Z
 
 id= REAL031905
-te= Relasjonelle teorier
-bf= Relasjonelle tidromteorier
-bf= Relasjonell tid
-bf= Relasjonalisme
-bf= Relasjonsteorier
-bf= Relasjonell kvantemekanikk
-nn= Relasjonelle teoriar
-nn= Relasjonell tid
-nn= Relasjonalisme
-nn= Relasjonsteoriar
+te= Relasjonell kvantemekanikk
 nn= Relasjonell kvantemekanikk
-en= Relational theories
-en= Relational time
-en= Relationism
 en= Relational quantum mechanics
 tio= 2017-11-03T10:59:20Z
-tie= 2017-11-03T11:18:00Z
+tie= 2018-07-18T12:43:44Z
 
 id= REAL031906
 te= Dimensjonsanalyse
@@ -127390,4 +127406,27 @@ en= MHD instabilities
 en= MHD stability
 tio= 2018-07-16T17:30:35Z
 tie= 2018-07-16T17:34:10Z
+
+id= REAL032012
+te= Sløyfekvantegravitasjon
+bf= Sløyfe-kvantegravitasjon
+bf= Loop-kvantisering
+ak= LQG
+ot= REAL000322
+nn= Sløyfekvantegravitasjon
+nn= Sløyfe-kvantegravitasjon
+nn= Loop-kvantisering
+en= Loop quantum gravity
+en= Loop quantization
+tio= 2018-07-18T11:30:55Z
+tie= 2018-07-18T12:43:44Z
+
+id= REAL032013
+te= Hydrodynamisk stabilitet
+bf= Hydrodynamisk ustabilitet
+bf= Hydrodynamisk instabilitet
+nn= Hydrodynamic stability
+nn= Hydrodynamic instability
+tio= 2018-07-18T17:40:50Z
+tie= 2018-07-18T17:41:09Z
 
