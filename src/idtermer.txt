@@ -679,11 +679,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000081
 te= Stereoisomeri
-ba= nk
-nn= Stereoisomeri
-en= Stereoisomerism
 tio= 2014-08-25T00:00:00Z
-st= REAL022059
+tie= 2018-07-19T18:25:04Z
 
 id= REAL000082
 te= Antarktisk vegetasjon
@@ -1166,8 +1163,10 @@ id= REAL000143
 te= Radiokilder
 ba= na
 ba= nf
+ut= REAL009029
 nn= Radiokjelder
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T12:29:24Z
 st= REAL014796
 st= REAL026032
 
@@ -1179,10 +1178,13 @@ en= Lineatin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000145
-te= Dessin
+te= Dessins d'enfant
 ba= nm
-nn= Dessin
+bf= Dessins d'enfants
+nn= Dessins d'enfant
+nn= Dessins d'enfants
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T20:43:15Z
 
 id= REAL000146
 te= Hormoner
@@ -1501,14 +1503,25 @@ tis= 2016-12-20T19:43:50Z
 fly= REAL008399
 
 id= REAL000179
-te= Kiralitet
+te= Stereoisomeri
 ba= nk
 bf= Kirale molekyler
+bf= Speilbildeisomeri
+bf= Optisk isomeri
+bf= Kiralitet
+so= REAL007308
+nn= Stereoisomeri
 nn= Kiralitet
 nn= Kirale molekyl
+nn= Spegelbiletisomeri
+nn= Spegelbildeisomeri
+nn= Optisk isomeri
+en= Stereoisomerism
 en= Chirality
 en= Chiral molecules
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T18:48:58Z
+st= REAL022059
 
 id= REAL000180
 te= Arbeidsløshet
@@ -2281,9 +2294,9 @@ tis= 2017-09-12T19:12:11Z
 
 id= REAL000274
 te= Liming
-ba= nk
-nn= Liming
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T16:41:02Z
+fly= REAL005541
 
 id= REAL000275
 te= EØS
@@ -5380,9 +5393,8 @@ tie= 2017-05-26T12:45:16Z
 
 id= REAL000643
 te= Spe-kolonner
-ba= nk
-nn= Spe-kolonnar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:16:26Z
 
 id= REAL000644
 te= Aktive områder
@@ -5834,11 +5846,12 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-03-02T20:14:08Z
 
 id= REAL000701
-te= Enhetlig feltteori
+te= Enhetlige feltteorier
 ba= na
 ba= nm
-nn= Einskapleg feltteori
+nn= Einskaplege feltteoriar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T10:56:45Z
 
 id= REAL000702
 te= Hastighetskonstanter
@@ -6351,9 +6364,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000764
 te= Konform
-ba= nm
-nn= Konform
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:51:21Z
 
 id= REAL000765
 te= Refraktorer
@@ -6610,9 +6622,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000792
 te= Elektrolytiske løsninger
-ba= nk
-nn= Elektrolytiske løysingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:55:09Z
+fly= REAL000961
 
 id= REAL000793
 te= Temperatur
@@ -7449,9 +7461,11 @@ te= Viskositet
 ba= nk
 ba= nf
 ba= nm
+so= REAL010103
 nn= Viskositet
 en= Viscosity
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T12:34:18Z
 st= REAL020728
 
 id= REAL000909
@@ -7946,9 +7960,18 @@ ba= nk
 ba= nb
 ba= nf
 ba= ns
+bf= Elektrolytiske løsninger
+bf= Vandige elektrolytter
+bf= Ioniske løsninger
+so= REAL003478
 nn= Elektrolyttar
+nn= Elektrolytiske løysingar
+nn= Vassløyste elektrolyttar
+nn= Ioniske løysingar
 en= Electrolytes
+en= Aqueous electrolytes
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T18:56:13Z
 st= REAL018048
 
 id= REAL000962
@@ -8097,9 +8120,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000979
 te= Entropibaserte metoder
-ba= nm
-nn= Entropibaserte metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:44:05Z
+fly= REAL012531
 
 id= REAL000980
 te= Regulerte elver
@@ -9438,8 +9461,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001134
 te= Templater
 ba= nk
+bf= Kjemiske templater
+bf= Templatsyntese
+bf= Templatreaksjoner
 nn= Templat
+nn= Kjemiske templat
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T19:04:55Z
 
 id= REAL001135
 te= Dokumentadministrasjon
@@ -11165,10 +11193,11 @@ en= Frost
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001331
-te= Dualitet
+te= Dualiteter
 ba= nm
 nn= Dualitet
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T21:16:15Z
 
 id= REAL001332
 te= Te
@@ -11889,11 +11918,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001434
 te= Kjernebrensel
 ba= nf
+bf= Reaktorbrensel
+bf= Kjernefysisk brensel
+ot= REAL002317
 nn= Kjernebrensel
 nn= Kjernebrensle
+nn= Reaktorbrensel
 en= Nuclear fuel
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-24T17:45:00Z
+tie= 2018-07-19T19:19:29Z
 
 id= REAL001435
 te= Seismisk aktivitet
@@ -12305,7 +12338,10 @@ te= Flyteknikk
 ba= nf
 ba= nm
 ba= ns
+bf= Aeronautikk
 nn= Flyteknikk
+nn= Aeronautikk
+en= Aeronautics
 tio= 2014-08-25T00:00:00Z
 st= REAL014382
 st= REAL017721
@@ -12997,10 +13033,9 @@ st= REAL029983
 
 id= REAL001564
 te= Speilbildeisomeri
-ba= nk
-nn= Spegelbiletisomeri
-nn= Spegelbildeisomeri
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:24:04Z
+fly= REAL000081
 
 id= REAL001566
 te= Biologiske databaser
@@ -13208,9 +13243,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001592
 te= Ioniseringsmetoder
-ba= nk
-nn= Ioniseringsmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T14:02:32Z
+fly= REAL004321
 
 id= REAL001593
 te= Isocyanater
@@ -13341,9 +13376,9 @@ fly= REAL005046
 
 id= REAL001608
 te= Korrosjonskontroll
-ba= nk
-nn= Korrosjonskontroll
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:22:30Z
+fly= REAL010840
 
 id= REAL001609
 te= Økofysiologi
@@ -13850,7 +13885,7 @@ no= Eksperimentell metode. Termen brukes ofte om selve analysen også: "vi fant 
 nn= Spektroskopi
 en= Spectroscopy
 tio= 2014-08-25T00:00:00Z
-tie= 2016-07-08T16:39:35Z
+tie= 2018-07-19T13:43:34Z
 st= REAL015971
 st= REAL017273
 st= REAL018840
@@ -14077,9 +14112,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001702
 te= Datagrunnlag
-ba= nm
-nn= Datagrunnlag
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T21:14:24Z
+fly= REAL007008
 
 id= REAL001703
 te= Paranormale fenomener
@@ -14484,9 +14519,8 @@ tie= 2018-03-20T21:05:35Z
 
 id= REAL001752
 te= Differensmetoder
-ba= nm
-nn= Differensmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T20:49:20Z
 
 id= REAL001753
 te= Konvekse kropper
@@ -15439,7 +15473,9 @@ te= Kolorimetri
 ba= nk
 ba= ne
 ba= nf
+bf= Fargeanalyse
 nn= Kolorimetri
+nn= Fargeanalyse
 en= Colorimetry
 tio= 2014-08-25T00:00:00Z
 
@@ -15500,15 +15536,14 @@ st= REAL015616
 
 id= REAL001877
 te= Determinanter
-ba= nm
-nn= Determinantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T20:43:52Z
 
 id= REAL001878
 te= Komplekse forbindelser
-ba= nk
-nn= Komplekse sambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:46:19Z
+fly= REAL011497
 
 id= REAL001879
 te= Tidssoner
@@ -15619,9 +15654,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001890
 te= Mangangruppen
-ba= nk
-nn= Mangangruppa
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T16:37:06Z
 
 id= REAL001892
 te= Drammensgranitt
@@ -16136,9 +16170,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001961
 te= Koblinger
-ba= nm
-nn= Koplingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T14:18:03Z
 
 id= REAL001962
 te= Like-til-like fildeling
@@ -16707,9 +16740,9 @@ fly= REAL005992
 
 id= REAL002030
 te= Kompleksoner
-ba= nk
-nn= Kompleksoner
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:50:34Z
+fly= REAL004173
 
 id= REAL002031
 te= Mikrobiell metabolisme
@@ -17505,10 +17538,10 @@ tis= 2018-06-09T13:17:28Z
 
 id= REAL002121
 te= Sykliske makromolekyler
-ba= nk
-nn= Sykliske makromolekyl
-en= Cyclic macromolecules
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T18:14:05Z
+tis= 2018-07-19T18:16:54Z
+fly= REAL007530
 
 id= REAL002122
 te= Parabolske reflektorantenner
@@ -18009,10 +18042,19 @@ en= Artificial insemination
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002170
-te= Konformasjoner
+te= Konformasjonsisomeri
 ba= nk
+bf= Konformere
+bf= Rotasjonsisomeri
+bf= Konformasjoner
+bf= Rotamerer
+so= REAL007308
+nn= Konformasjonsisomeri
 nn= Konformasjonar
+nn= Rotasjonsisomeri
+nn= Rotamerer
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T18:49:16Z
 st= REAL026932
 
 id= REAL002171
@@ -18349,9 +18391,9 @@ st= REAL023656
 
 id= REAL002214
 te= Desisjonsteori
-ba= nm
-nn= Desisjonsteori
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:35:21Z
+fly= REAL013335
 
 id= REAL002216
 te= mRNA
@@ -18727,9 +18769,9 @@ st= REAL026501
 
 id= REAL002266
 te= Makromolekylære forbindelser
-ba= nk
-nn= Makromolekylære sambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:13:35Z
+fly= REAL009821
 
 id= REAL002267
 te= Teoretisk kritikk
@@ -19103,6 +19145,10 @@ bf= Drivstoffer
 bf= Drivstoff
 so= REAL001434
 so= REAL013831
+ut= REAL012097
+ut= REAL009487
+ut= REAL001434
+ut= REAL006068
 nn= Brensel
 nn= Brennstoff
 nn= Drivstoff
@@ -20230,6 +20276,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002443
 te= Elektrooptikk
 ba= nf
+so= REAL003131
 nn= Elektrooptikk
 tio= 2014-08-25T00:00:00Z
 st= REAL021341
@@ -21122,11 +21169,8 @@ fly= REAL011427
 
 id= REAL002545
 te= Elektronspektra
-ba= nk
-ba= nf
-nn= Elektronspektrum
-nn= Elektronspekter
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:12:06Z
 
 id= REAL002546
 te= Organometaller
@@ -21151,7 +21195,6 @@ st= REAL018982
 st= REAL019196
 st= REAL019249
 st= REAL019931
-st= REAL021020
 st= REAL022472
 st= REAL022553
 st= REAL022555
@@ -22557,13 +22600,17 @@ te= Bølgepakker
 ba= na
 ba= nf
 ba= nm
+bf= Wavelets
 nn= Bølgjepakker
 nn= Bylgjepakkar
 nn= Bylgjepakker
 nn= Bølgepakkar
 nn= Bølgepakker
 nn= Bølgjepakkar
+nn= Wavelets
+en= Wavelets
 tio= 2014-08-25T00:00:00Z
+st= REAL026395
 
 id= REAL002715
 te= Primtallsfordelinger
@@ -23219,8 +23266,12 @@ st= REAL029436
 id= REAL002791
 te= Bindingsavstander
 ba= nk
+bf= Bindingslengder
 nn= Bindingsavstandar
+nn= Bindingslengder
+de= avstand mellom to atomer som er bundet til hverandre kjemisk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T16:52:03Z
 st= REAL026467
 
 id= REAL002792
@@ -24162,9 +24213,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002895
 te= Markov
-ba= nm
-nn= Markov
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:06:14Z
+fly= REAL013083
 
 id= REAL002896
 te= Vaskulært endotel
@@ -24530,13 +24581,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002946
 te= Wavelets
-ba= na
-ba= nf
-ba= nm
-nn= Wavelets
-en= Wavelets
 tio= 2014-08-25T00:00:00Z
-st= REAL026395
+tis= 2018-07-19T14:21:21Z
+fly= REAL002714
 
 id= REAL002947
 te= Øregjenkjenning
@@ -25795,6 +25842,7 @@ ba= nk
 ba= nb
 ba= ne
 ba= nf
+so= REAL005541
 nn= Adhesjon
 en= Adhesion
 tio= 2014-08-25T00:00:00Z
@@ -26107,12 +26155,13 @@ st= REAL023603
 id= REAL003131
 te= Fotonikk
 ba= nf
+so= REAL002443
 ut= REAL011969
 ut= REAL008009
 nn= Fotonikk
 en= Photonics
 tio= 2014-08-25T00:00:00Z
-tie= 2018-05-07T08:57:09Z
+tie= 2018-07-19T14:24:09Z
 st= REAL019090
 st= REAL028683
 
@@ -26134,10 +26183,8 @@ tie= 2017-09-26T15:38:38Z
 
 id= REAL003134
 te= Lysstyrke
-ba= na
-nn= Ljosstyrke
-nn= Lysstyrke
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:39:23Z
 
 id= REAL003135
 te= Klassiske skrifter
@@ -26244,9 +26291,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003147
 te= Kontaktkjemi
-ba= nk
-nn= Kontaktkjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:24:36Z
+fly= REAL005052
 
 id= REAL003150
 te= Hygiene
@@ -26466,8 +26513,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003177
 te= Organiske silisiumforbindelser
 ba= nk
+bf= Organosilisiumforbindelser
 nn= Organiske silisiumsambindingar
+nn= Organosilisiumsambindingar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T17:03:59Z
 
 id= REAL003178
 te= Dinitrogen
@@ -26483,9 +26533,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003180
 te= Kraftkonstanter
-ba= nk
-nn= Kraftkonstantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:21:18Z
 
 id= REAL003181
 te= ITIL
@@ -26668,10 +26717,9 @@ st= REAL029080
 
 id= REAL003204
 te= Instrumentell ekstraksjon
-ba= nk
-ba= ne
-nn= Instrumentell ekstraksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T16:45:20Z
+fly= REAL007721
 
 id= REAL003205
 te= Studieguide
@@ -28647,8 +28695,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003450
 te= Organiske tinnforbindelser
 ba= nk
+bf= Organotinnforbindelser
 nn= Organiske tinnsambindingar
+nn= Organotinnsambindingar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T17:03:26Z
 
 id= REAL003451
 te= Standardtid
@@ -28945,6 +28996,7 @@ bf= Faste elektrolytter
 bf= Raske ioneledere
 bf= Superioniske ledere
 so= REAL002376
+so= REAL000961
 nn= Faststoffelektrolyttar
 nn= Faste elektrolyttar
 nn= Raske ioneleiarar
@@ -28954,7 +29006,7 @@ en= Solid electrolytes
 en= Superionic conductors
 de= Elektrolyttsystem som består av faste komponenter (SNL)
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-10T20:50:09Z
+tie= 2018-07-19T18:55:40Z
 
 id= REAL003479
 te= Sjø
@@ -29627,12 +29679,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003562
 te= Kobberreagenser
-ba= nk
-bf= Kopperreagenser
-nn= Koparreagensar
-nn= Koparreagens
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-05T13:43:56Z
+tis= 2018-07-19T17:44:16Z
 
 id= REAL003563
 te= Skala
@@ -30923,11 +30972,12 @@ nn= Oksygentransport
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003718
-te= Si-systemet
+te= SI-systemet
 ba= nk
 ba= ne
-nn= Si-systemet
+nn= SI-systemet
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T10:49:41Z
 st= REAL017025
 st= REAL028878
 
@@ -30964,9 +31014,8 @@ st= REAL020372
 
 id= REAL003724
 te= Energibehov
-ba= nb
-nn= Energibehov
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T11:02:45Z
 
 id= REAL003725
 te= Skogsdrift
@@ -32254,10 +32303,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003869
 te= Demringslys
-ba= ns
-nn= Demringsljos
-nn= Demringslys
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:36:40Z
 
 id= REAL003870
 te= Økologiske endringer
@@ -33633,9 +33680,8 @@ tie= 2017-02-21T20:58:48Z
 
 id= REAL004043
 te= Elastisk knekning
-ba= nm
-nn= Elastisk knekking
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T12:27:33Z
 
 id= REAL004044
 te= Green-Kubo-relasjoner
@@ -34440,9 +34486,8 @@ st= REAL029430
 
 id= REAL004139
 te= Europeisering
-ba= ns
-nn= Europeisering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:42:55Z
 
 id= REAL004140
 te= Landmåling
@@ -34707,10 +34752,8 @@ st= REAL029190
 
 id= REAL004171
 te= Komplekslikevekter
-ba= nk
-nn= Kompleksjamvekter
-nn= Komplekslikevekter
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:46:36Z
 
 id= REAL004172
 te= Eliminasjoner
@@ -34724,12 +34767,16 @@ te= Kompleksometri
 ba= nk
 bf= Kompleksometrisk titrering
 bf= Komplekstitrering
+bf= Kompleksoner
 nn= Kompleksometri
 nn= Kompleksometrisk titrering
+nn= Kompleksoner
 en= Complexometric titration
 en= Chelatometry
 en= Complexometry
+en= Complexons
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T17:55:06Z
 
 id= REAL004174
 te= Alkoholer
@@ -35951,8 +35998,11 @@ id= REAL004321
 te= Massespektroskopi
 ba= nk
 ba= nf
+bf= Massespektrografi
 nn= Massespektroskopi
+nn= Massespektrografi
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T17:17:50Z
 st= REAL016850
 st= REAL018528
 st= REAL029919
@@ -36063,9 +36113,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004332
 te= Organiske mellomprodukter
-ba= nk
-nn= Organiske mellomprodukt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:09:35Z
+fly= REAL005802
 
 id= REAL004333
 te= Fredning
@@ -37113,8 +37163,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004463
 te= Hyaluronan
 ba= nk
+bf= Hyaluronsyre
 nn= Hyaluronan
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T19:26:58Z
 
 id= REAL004464
 te= Ledelsesinformasjonssystemer
@@ -37221,10 +37273,15 @@ id= REAL004477
 te= Været
 ba= na
 bf= Vær
+bf= Værforhold
 nn= Vêret
 nn= Ver
 nn= Veret
 nn= Vêr
+nn= Vêrtilhøve
+nn= Verforhold
+nn= Vertilhøve
+nn= Vêrforhold
 en= Weather
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-23T13:56:28Z
@@ -38201,10 +38258,16 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-03-16T17:22:12Z
 
 id= REAL004601
-te= Emneordskataloger
+te= Kontrollerte vokabular
 ba= ns
+bf= Emneordslister
+bf= Emneordskataloger
+ut= REAL013752
+nn= Kontrollerte vokabular
 nn= Emneordskatalogar
+nn= Emneordslister
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T12:26:43Z
 st= REAL029496
 
 id= REAL004602
@@ -38400,9 +38463,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004629
 te= Horisontale fluider
-ba= nm
-nn= Horisontale fluid
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:51:03Z
+fly= REAL032014
 
 id= REAL004630
 te= Hydrokarboner
@@ -38421,9 +38484,8 @@ st= REAL023326
 
 id= REAL004631
 te= Indre rotasjonsisomere
-ba= nk
-nn= Indre rotasjonsisomerar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:33:45Z
 
 id= REAL004632
 te= Jordsig
@@ -38539,6 +38601,7 @@ id= REAL004646
 te= Biologiske makromolekyler
 ba= nk
 ba= ne
+ot= REAL009821
 nn= Biologiske makromolekyl
 en= Biological macromolecules
 tio= 2014-08-25T00:00:00Z
@@ -39623,9 +39686,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004783
 te= Matematisk mekanikk
-ba= nm
-nn= Matematisk mekanikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T12:42:39Z
+fly= REAL008656
 
 id= REAL004785
 te= Monocytter
@@ -40664,10 +40727,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004912
 te= Kjernespinn
-ba= nk
-ba= nm
-nn= Kjernespinn
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T14:05:26Z
+fly= REAL011773
 
 id= REAL004913
 te= Tallforståelse
@@ -41787,7 +41849,9 @@ ba= nc
 ba= ne
 ba= nf
 ba= nm
+bf= Kontaktkjemi
 nn= Overflatekjemi
+nn= Kontaktkjemi
 en= Surface chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL021294
@@ -42175,9 +42239,11 @@ st= REAL025742
 id= REAL005102
 te= Calixarener
 ba= nk
+ot= REAL007530
 nn= Calixaren
 en= Calixarenes
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T18:19:03Z
 
 id= REAL005103
 te= Pollen
@@ -42392,9 +42458,8 @@ tis= 2017-08-11T10:47:38Z
 
 id= REAL005127
 te= Kapillærprøving
-ba= nk
-nn= Kapillærprøving
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:32:51Z
 
 id= REAL005128
 te= Læringsprosesser
@@ -42989,11 +43054,16 @@ nn= Stellar koronagrafi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005201
-te= Markovfelter
+te= Markovfelt
 ba= ni
+bf= Markovfelter
 nn= Markovfelt
+en= Markov random fields
 en= Markov fields
+en= Markov networks
+en= Undirected graphical models
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T13:11:30Z
 
 id= REAL005202
 te= Krysning
@@ -43537,9 +43607,8 @@ st= REAL027601
 
 id= REAL005275
 te= Datahverdag
-ba= ngh
-nn= Datakvardag
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:41:54Z
 
 id= REAL005276
 te= En-standarder
@@ -44263,10 +44332,8 @@ st= REAL022262
 
 id= REAL005366
 te= Kjemodynamikk
-ba= na
-nn= Kjemodynamikk
 tio= 2014-08-25T00:00:00Z
-st= REAL029009
+tis= 2018-07-19T17:42:18Z
 
 id= REAL005367
 te= Lov
@@ -44380,9 +44447,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005384
 te= Kortlivede nuklider
-ba= ns
-nn= Kortliva nuklidar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:59:55Z
 
 id= REAL005385
 te= Reactive gaseous mercury
@@ -45609,8 +45675,13 @@ id= REAL005541
 te= Lim
 ba= nk
 ba= ne
+bf= Liming
+bf= Adhesiver
+so= REAL003091
 nn= Lim
+nn= Liming
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T16:42:12Z
 
 id= REAL005543
 te= Nukleærkjemi
@@ -47811,21 +47882,21 @@ tie= 2017-07-03T16:44:10Z
 tis= 2017-07-03T16:44:10Z
 
 id= REAL005802
-te= Reaksjonsintermediater
+te= Mellomprodukter
 ba= nk
 bf= Intermediater
-bf= Mellomprodukter
 bf= Reaktive mellomprodukter
+bf= Reaksjonsintermediater
+nn= Mellomprodukt
 nn= Reaksjonsintermediat
 nn= Intermediat
-nn= Mellomprodukt
 nn= Reaktive mellomprodukt
+en= Reaction intermediates
 en= Reactive intermediates
 en= Reactive intermediate products
 en= Intermediates
-en= Reaction intermediates
 tio= 2014-08-25T00:00:00Z
-tie= 2017-11-13T17:08:48Z
+tie= 2018-07-19T17:10:27Z
 
 id= REAL005804
 te= Gåseblom
@@ -48286,9 +48357,9 @@ st= REAL025970
 
 id= REAL005860
 te= Fargeanalyse
-ba= nk
-nn= Fargeanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:10:17Z
+fly= REAL001868
 
 id= REAL005861
 te= Massemedier
@@ -49979,6 +50050,7 @@ te= Fossilt brensel
 ba= nk
 ba= nc
 ba= nf
+ot= REAL002317
 nn= Fossilt brensel
 en= Fossil fuels
 tio= 2014-08-25T00:00:00Z
@@ -50732,14 +50804,8 @@ tis= 2017-04-03T14:08:50Z
 
 id= REAL006161
 te= Digitaliserte bølgespektra
-ba= ns
-nn= Digitaliserte bølgjespektrum
-nn= Digitaliserte bylgjespekter
-nn= Digitaliserte bylgjespektrum
-nn= Digitaliserte bølgespekter
-nn= Digitaliserte bølgespektrum
-nn= Digitaliserte bølgjespekter
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:33:54Z
 
 id= REAL006162
 te= Holisme
@@ -51320,10 +51386,9 @@ fly= REAL007316
 
 id= REAL006233
 te= Vandige elektrolytter
-ba= nk
-nn= Vassløyste elektrolyttar
-en= Aqueous electrolytes
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:55:18Z
+fly= REAL000961
 
 id= REAL006235
 te= Viskoelastisitet
@@ -51427,9 +51492,9 @@ st= REAL024718
 
 id= REAL006248
 te= Kjemisk informasjon
-ba= ne
-nn= Kjemisk informasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T17:35:48Z
+tis= 2018-07-19T17:35:43Z
 
 id= REAL006249
 te= Datasamfunnet
@@ -51682,8 +51747,10 @@ ba= nk
 ba= na
 ba= nf
 ba= ns
+bf= Kvanteelektronikk
 ot= REAL013127
 nn= Kvanteoptikk
+nn= Kvanteelektronikk
 en= Quantum optics
 tio= 2014-08-25T00:00:00Z
 tie= 2016-05-27T19:29:16Z
@@ -52692,8 +52759,18 @@ st= REAL031787
 id= REAL006382
 te= Kjemiske sensorer
 ba= nk
+bf= Kjemosensorer
+bf= Molekylsensorer
+bf= Elektrokjemiske sensorer
+bf= Kjemiske detektorer
 nn= Kjemiske sensorar
+nn= Kjemosensorar
+nn= Molekylsensorar
+nn= Elektrokjemiske sensorar
+nn= Kjemiske detektorar
+en= Electrochemical sensors
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T18:59:38Z
 
 id= REAL006383
 te= Pomeroner
@@ -53121,9 +53198,8 @@ st= REAL028520
 
 id= REAL006437
 te= Digitale signaler
-ba= ns
-nn= Digitale signal
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T20:52:14Z
 
 id= REAL006439
 te= Termisk desorpsjon
@@ -53385,9 +53461,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006456
 te= Ioniserende bakgrunnsstråling
-ba= nk
-nn= Ioniserande bakgrunnsstråling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:30:22Z
 
 id= REAL006457
 te= Elektrosprayionisering
@@ -55960,9 +56035,8 @@ fly= REAL003934
 
 id= REAL006751
 te= Katalysatorbiler
-ba= nk
-nn= Katalysatorbilar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:37:07Z
 
 id= REAL006753
 te= Informatikkundervisning
@@ -56018,7 +56092,9 @@ te= Enhetsoperasjoner
 ba= nk
 ba= nm
 nn= Einingsoperasjonar
+de= Steg i en prosess i kjemi-/prosessteknikk e.l.
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T10:51:49Z
 
 id= REAL006761
 te= European Geophysical Society
@@ -57145,10 +57221,11 @@ nn= Kanonar (litteratur)
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006901
-te= Datastøttet arbeidsmåling
-ba= ni
-nn= Datastøtta arbeidsmåling
+te= Medarbeiderovervåkning
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T10:39:12Z
+tis= 2018-07-19T10:41:25Z
+fly= REAL009472
 
 id= REAL006902
 te= Evaporitter
@@ -57361,10 +57438,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006928
 te= Reaktorbrensel
-ba= nf
-nn= Reaktorbrensel
-en= Nuclear fuel
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:19:20Z
+fly= REAL001434
 
 id= REAL006929
 te= Habitatfragmentering
@@ -58082,6 +58158,7 @@ ba= nm
 nn= Datautvinning
 en= Data mining
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T21:14:31Z
 st= REAL015231
 st= REAL026907
 
@@ -58688,9 +58765,9 @@ tie= 2018-07-18T13:41:21Z
 
 id= REAL007082
 te= Bunter
-ba= nm
-nn= Buntar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T20:32:39Z
+fly= REAL008683
 
 id= REAL007083
 te= Rekursjon
@@ -58977,9 +59054,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007116
 te= Kjemisk laserspektroskopi
-ba= ns
-nn= Kjemisk laserspektroskopi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:36:25Z
 
 id= REAL007117
 te= Brelære
@@ -59255,9 +59331,8 @@ tis= 2017-08-16T14:37:30Z
 
 id= REAL007151
 te= Differensialsystemer
-ba= nm
-nn= Differensialsystem
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T20:45:46Z
 
 id= REAL007152
 te= Gjensidig læring
@@ -59418,10 +59493,11 @@ en= Computational geography
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007169
-te= Karbenoid
+te= Karbenoider
 ba= nk
 nn= Karbenoid
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T19:33:57Z
 
 id= REAL007170
 te= Common Gateway Interface
@@ -60516,11 +60592,14 @@ id= REAL007308
 te= Isomerer
 ba= nk
 bf= Isomeri
+so= REAL000179
+so= REAL002170
 nn= Isomerar
 nn= Isomeri
 en= Isomers
 en= Isomerism
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T18:33:11Z
 
 id= REAL007309
 te= Forsvarsmekanismer
@@ -62349,13 +62428,19 @@ id= REAL007530
 te= Makrosykliske forbindelser
 ba= nk
 bf= Makrocykliske forbindelser
+bf= Makrosykliske molekyler
+bf= Sykliske makromolekyler
+ot= REAL009821
+ut= REAL005102
 nn= Makrosykliske sambindingar
+nn= Makrosykliske molekyl
+nn= Sykliske makromolekyl
 en= Macrocycles
 en= Macrocyclization
 en= Macrocyclic compounds
+en= Cyclic macromolecules
 tio= 2014-08-25T00:00:00Z
-tie= 2015-09-21T11:24:25Z
-st= REAL015476
+tie= 2018-07-19T18:19:03Z
 
 id= REAL007531
 te= Halogenerte flammehemmere
@@ -62732,10 +62817,11 @@ en= Fibrinolysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007577
-te= Burnside
+te= Burnside-problemet
 ba= nm
 nn= Burnside
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T20:35:25Z
 
 id= REAL007578
 te= Reetablering
@@ -63886,13 +63972,16 @@ nn= Elvekantvegetasjon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007721
-te= Ekstraksjon
+te= Ekstraksjon (kjemi)
 ba= nk
 ba= nb
 ba= ne
+bf= Instrumentell ekstraksjon
 nn= Ekstraksjon
+nn= Instrumentell ekstraksjon
 en= Extraction
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T16:45:30Z
 
 id= REAL007722
 te= Trådløse nettverk
@@ -64347,6 +64436,7 @@ ba= ns
 nn= Ion
 en= Ions
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T16:44:27Z
 st= REAL021726
 st= REAL022425
 st= REAL029513
@@ -65875,10 +65965,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007973
 te= Krystallografer
-ba= nk
-nn= Krystallografar
 tio= 2014-08-25T00:00:00Z
-st= REAL014374
+tis= 2018-07-19T17:20:11Z
 
 id= REAL007974
 te= Miljøetikk
@@ -66592,9 +66680,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008060
 te= Kjemisk uorden
-ba= nk
-nn= Kjemisk uorden
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:38:11Z
 
 id= REAL008061
 te= Parasittologi
@@ -68039,9 +68126,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008229
 te= Katalytisk spalting
-ba= nk
+bf= Katalytisk krakking
 nn= Katalytisk spalting
+nn= Katalytisk krakking
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T19:37:46Z
 
 id= REAL008230
 te= Genetisk rekombinasjon
@@ -70123,9 +70212,9 @@ st= REAL029629
 
 id= REAL008475
 te= Kjemiske templater
-ba= nk
-nn= Kjemiske templat
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:02:27Z
+fly= REAL001134
 
 id= REAL008478
 te= Single instruction multiple data
@@ -70223,10 +70312,9 @@ st= REAL029984
 
 id= REAL008486
 te= Lysreseptorer
-ba= nb
-nn= Ljosreseptorar
-nn= Lysreseptorar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:47:13Z
+fly= REAL010062
 
 id= REAL008487
 te= Lydbehandling
@@ -70354,12 +70442,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008502
 te= Værforhold
-ba= nb
-nn= Vêrtilhøve
-nn= Verforhold
-nn= Vertilhøve
-nn= Vêrforhold
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:19:45Z
+fly= REAL004477
 
 id= REAL008503
 te= Host identity protocol
@@ -70544,9 +70629,12 @@ id= REAL008526
 te= Magnetokalorisk effekt
 ba= nk
 bf= Magnetisk avkjøling
+bf= Magnetisk kjøling
 nn= Magnetokalorisk effekt
 nn= Magnetisk avkjøling
+nn= Magnetisk kjøling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T13:37:30Z
 
 id= REAL008528
 te= Helsefaremerking
@@ -71639,7 +71727,9 @@ ba= nc
 ba= nf
 ba= nm
 ba= ns
+bf= Matematisk mekanikk
 nn= Mekanikk
+nn= Matematisk mekanikk
 en= Mechanics
 tio= 2014-08-25T00:00:00Z
 st= REAL014107
@@ -71773,9 +71863,8 @@ tis= 2017-09-18T11:57:02Z
 
 id= REAL008673
 te= Desimalregning
-ba= nm
-nn= Desimalrekning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T20:36:20Z
 
 id= REAL008674
 te= Leire
@@ -71914,6 +72003,7 @@ te= Vektorbunter
 ba= nm
 nn= Vektorbuntar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T20:32:48Z
 
 id= REAL008684
 te= Meteosat
@@ -72039,9 +72129,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008702
 te= Korrelasjonsenergi
-ba= nk
-nn= Korrelasjonsenergi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:23:09Z
 
 id= REAL008703
 te= Rypejakt
@@ -73182,13 +73271,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008849
 te= Instabilitet
-ba= na
-ba= nf
-ba= ngh
-ba= nm
-nn= Ustabilitet
-nn= Instabilitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T14:51:14Z
 
 id= REAL008850
 te= Kjemisk forvitring
@@ -73367,9 +73451,9 @@ st= REAL028855
 
 id= REAL008871
 te= Makrosykliske molekyler
-ba= nk
-nn= Makrosykliske molekyl
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T16:37:52Z
+fly= REAL007530
 
 id= REAL008872
 te= Lakk
@@ -73424,10 +73508,15 @@ tio= 2014-08-25T00:00:00Z
 st= REAL023789
 
 id= REAL008878
-te= Kontakter
+te= Halvlederkontakter
 ba= nf
-nn= Kontaktar
+bf= Metall-halvleder-kontakter
+bf= Metall-halvleder-koplinger
+nn= Halvleiarkontaktar
+nn= Metall-halvleiar-kontaktar
+nn= Metall-halvleiar-koplingar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T13:27:47Z
 
 id= REAL008879
 te= Stråledeteksjon
@@ -74654,8 +74743,10 @@ id= REAL009029
 te= Ekstragalaktiske radiokilder
 ba= na
 ba= nf
+ot= REAL000143
 nn= Ekstragalaktiske radiokjelder
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T12:29:24Z
 
 id= REAL009030
 te= Entalpi
@@ -76429,9 +76520,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009239
 te= Kontinuerlige separasjonsmetoder
-ba= nk
-nn= Kontinuerlege separasjonsmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:57:15Z
 
 id= REAL009240
 te= Naturlig utvalg
@@ -76515,9 +76605,8 @@ tis= 2018-02-22T14:11:37Z
 
 id= REAL009249
 te= Kjemisk våtanalyse
-ba= nk
-nn= Kjemisk våtanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:39:46Z
 
 id= REAL009250
 te= Kunstgjødsel
@@ -77174,9 +77263,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009331
 te= Enhetsteorier
-ba= na
-nn= Einingsteoriar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:48:42Z
 
 id= REAL009332
 te= JavaServer Pages
@@ -77942,9 +78030,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009431
 te= Retinyl
-ba= nk
-nn= Retinyl
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:06:43Z
 
 id= REAL009432
 te= Marine mineraler
@@ -78251,7 +78338,7 @@ nn= Arbeidsliv
 nn= Arbeidslivet
 en= Working life
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-05T00:00:00Z
+tie= 2018-07-19T10:41:32Z
 st= REAL027200
 
 id= REAL009473
@@ -78270,8 +78357,6 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009475
 te= Mellomprodukter
 tio= 2014-08-25T00:00:00Z
-tis= 2017-11-13T17:09:52Z
-fly= REAL005802
 
 id= REAL009476
 te= Intelligente agenter
@@ -78350,6 +78435,7 @@ ba= nb
 ba= nf
 ba= ngh
 bf= Fyringsbriketter
+ot= REAL002317
 nn= Biobrensel
 nn= Biobrensle
 nn= Fyringsbrikettar
@@ -80202,9 +80288,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009709
 te= Massespektrografi
-ba= nk
-nn= Massespektrografi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T12:46:22Z
+fly= REAL004321
 
 id= REAL009710
 te= Mykobakterier
@@ -80500,15 +80586,13 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009746
 te= Ekstragalaktisk radioastronomi
-ba= na
-nn= Ekstragalaktisk radioastronomi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T12:39:21Z
 
 id= REAL009748
 te= Etterutdanning
-ba= ns
-nn= Etterutdanning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:43:18Z
 
 id= REAL009749
 te= Firmanavn
@@ -80940,9 +81024,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009804
 te= Bindingsindekser
-ba= nk
-nn= Bindingsindeksar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T16:50:06Z
 
 id= REAL009805
 te= Kirker
@@ -81083,7 +81166,11 @@ ba= nb
 ba= ne
 ba= nf
 ba= ns
+bf= Makromolekylære forbindelser
+ut= REAL011370
+ut= REAL004646
 nn= Makromolekyl
+nn= Makromolekylære sambindingar
 en= Macromolecules
 tio= 2014-08-25T00:00:00Z
 st= REAL015864
@@ -81474,10 +81561,8 @@ fly= REAL010166
 
 id= REAL009863
 te= Kjemiske forhold
-ba= nb
-nn= Kjemiske tilhøve
-nn= Kjemiske forhold
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:40:15Z
 
 id= REAL009864
 te= Høytemperatur-superledning
@@ -83207,7 +83292,10 @@ st= REAL025853
 id= REAL010062
 te= Fotoreseptorer
 ba= nb
+bf= Lysreseptorer
 nn= Fotoreseptorar
+nn= Ljosreseptorar
+nn= Lysreseptorar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010063
@@ -83568,8 +83656,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010103
 te= Viskøse væsker
 ba= nm
+so= REAL000908
 nn= Viskøse væsker
+de= Tyktflytende væsker
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T12:34:18Z
 
 id= REAL010104
 te= Xad-8
@@ -85454,11 +85545,8 @@ tie= 2015-08-07T13:00:53Z
 
 id= REAL010318
 te= Lysintensitet
-ba= na
-ba= nb
-nn= Ljosintensitet
-nn= Lysintensitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:45:28Z
 
 id= REAL010319
 te= Radioaktive stoffer
@@ -86987,9 +87075,9 @@ st= REAL020060
 
 id= REAL010519
 te= Kvanteelektronikk
-ba= ns
-nn= Kvanteelektronikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T14:17:13Z
+fly= REAL006278
 
 id= REAL010520
 te= Elektrodeprosesser
@@ -87088,11 +87176,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010530
 te= Transmisjon
-ba= nb
-ba= nf
-nn= Transmisjon
 tio= 2014-08-25T00:00:00Z
-st= REAL020511
+tis= 2018-07-19T12:35:53Z
 
 id= REAL010531
 te= Editering (genetikk)
@@ -87192,10 +87277,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010547
 te= Bruddberegninger
-ba= nm
-nn= Brotberekningar
-nn= Brottberekningar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T20:29:01Z
+fly= REAL011579
 
 id= REAL010548
 te= Refusjon
@@ -87449,9 +87533,8 @@ st= REAL028089
 
 id= REAL010581
 te= Våtanalyser
-ba= nk
-nn= Våtanalysar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:39:44Z
 
 id= REAL010582
 te= Farmasøytisk industri
@@ -89475,10 +89558,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010838
 te= Kjernespinnresonans
-ba= nk
-ba= ns
-nn= Kjernespinnresonans
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T14:19:39Z
+fly= REAL013583
 
 id= REAL010839
 te= Stueplanter
@@ -89492,7 +89574,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010840
 te= Korrosjonsvern
 ba= nk
+bf= Korrosjonskontroll
 nn= Korrosjonsvern
+nn= Korrosjonskontroll
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010841
@@ -93507,9 +93591,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011370
 te= Forgrenede makromolekyler
 ba= nk
+ot= REAL009821
 nn= Forgreina makromolekyl
 en= Branched macromolecules
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T18:14:05Z
 
 id= REAL011371
 te= Anova
@@ -93896,9 +93982,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011415
 te= Rotasjonsisomeri
-ba= nk
-nn= Rotasjonsisomeri
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:46:35Z
+fly= REAL002170
 
 id= REAL011416
 te= Blokkpolymerisering
@@ -93930,10 +94016,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011420
 te= Elektrokjemiske sensorer
-ba= nk
-nn= Elektrokjemiske sensorar
-en= Electrochemical sensors
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:00:05Z
+fly= REAL006382
 
 id= REAL011421
 te= Kompleksometrisk titrering
@@ -94130,10 +94215,13 @@ st= REAL028490
 st= REAL028756
 
 id= REAL011444
-te= Emneordskatalogisering
+te= Emneordsindeksering
 ba= ns
+bf= Emneordskatalogisering
+nn= Emneordsindeksering
 nn= Emneordskatalogisering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T12:17:39Z
 
 id= REAL011445
 te= Studenter
@@ -94350,12 +94438,9 @@ fly= REAL013796
 
 id= REAL011469
 te= Aeronautikk
-ba= ns
-nn= Aeronautikk
-en= Aeronautics
 tio= 2014-08-25T00:00:00Z
-st= REAL026369
-st= REAL029707
+tis= 2018-07-19T21:10:18Z
+fly= REAL001476
 
 id= REAL011470
 te= Mauralgoritmer
@@ -94421,9 +94506,8 @@ fly= REAL005863
 
 id= REAL011479
 te= Eierstrukturer
-ba= ns
-nn= Eigarstrukturar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T12:39:44Z
 
 id= REAL011481
 te= Fosfatsyklus
@@ -94529,6 +94613,7 @@ bf= Koordinasjonsforbindelser
 bf= Koordinasjonskjemi
 bf= Koordinasjonspolymerer
 bf= Komplekskjemi
+bf= Komplekse forbindelser
 so= REAL005786
 so= REAL001040
 nn= Komplekssambindingar
@@ -94537,6 +94622,7 @@ nn= Koordinasjonssambindingar
 nn= Koordinasjonskjemi
 nn= Koordinasjonspolymerar
 nn= Komplekskjemi
+nn= Komplekse sambindingar
 en= Coordination complexes
 en= Coordination compounds
 en= Complex chemistry
@@ -94775,9 +94861,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011525
 te= Enhetssystemer
-ba= ns
-nn= Einingssystem
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:49:28Z
+fly= REAL003718
 
 id= REAL011527
 te= Forgrening
@@ -95222,10 +95308,13 @@ ba= nk
 ba= nf
 ba= nm
 bf= Bruddstyrke
+bf= Bruddberegninger
 nn= Brotmekanikk
 nn= Brotstyrke
 nn= Brottmekanikk
 nn= Brottstyrke
+nn= Brotberekningar
+nn= Brottberekningar
 en= Fracture mechanics
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-09T14:11:31Z
@@ -95367,9 +95456,9 @@ st= REAL029656
 
 id= REAL011592
 te= Kvalitativ massespektroskopi
-ba= nk
-nn= Kvalitativ massespektroskopi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T17:17:41Z
+fly= REAL004321
 
 id= REAL011593
 te= Stokastisk kausalitet
@@ -96960,7 +97049,9 @@ id= REAL011773
 te= Spinn
 ba= nk
 ba= nf
+bf= Kjernespinn
 nn= Spinn
+nn= Kjernespinn
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011774
@@ -97685,10 +97776,12 @@ id= REAL011857
 te= Markovmodeller
 ba= ni
 so= REAL031321
+ut= REAL013083
+ut= REAL031321
 nn= Markovmodellar
 en= Markov models
 tio= 2014-08-25T00:00:00Z
-tie= 2015-01-29T00:00:00Z
+tie= 2018-07-19T13:09:33Z
 
 id= REAL011858
 te= Kamskjell
@@ -98488,9 +98581,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011948
 te= Kjemiske detektorer
-ba= nk
-nn= Kjemiske detektorar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:39:31Z
+fly= REAL006382
 
 id= REAL011949
 te= Sentrifugering
@@ -98559,10 +98652,14 @@ ba= nb
 ba= ne
 ba= nf
 ba= ns
+bf= Lysabsorpsjon
 nn= Absorpsjon
+nn= Ljosabsorpsjon
+nn= Lysabsorpsjon
 en= Absorption
+de= av lys eller annen elektromagnetisk stråling. For lyd, se lydabsorpsjon
 tio= 2014-08-25T00:00:00Z
-tie= 2014-11-07T00:00:00Z
+tie= 2018-07-19T13:43:34Z
 
 id= REAL011959
 te= Sosiale tjenester
@@ -99146,9 +99243,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012041
 te= Energisystemer
-ba= nk
-nn= Energisystem
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:13:57Z
 
 id= REAL012042
 te= Plasmalasere
@@ -99313,10 +99409,18 @@ fly= REAL009422
 id= REAL012066
 te= Støvplasma
 ba= na
+bf= Støvete plasma
+bf= Komplekse plasma
+bf= Kompleksplasma
 nn= Støvplasma
-en= Dusty plasma
+nn= Støvete plasma
+nn= Komplekse plasma
+nn= Kompleksplasma
+en= Dusty plasmas
+en= Complex plasmas
+de= Ionisert gass med ørsmå støvpartikler (mikro- og nanometerdimensjon)
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-17T21:26:23Z
+tie= 2018-07-19T15:09:40Z
 
 id= REAL012067
 te= Tetonikk
@@ -99522,14 +99626,18 @@ nn= Case
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012097
-te= Hydrogen (brensel)
+te= Hydrogendrivstoff
 ba= nk
+bf= Hydrogenbrensel
+bf= Hydrogen (brensel)
 so= REAL031886
+ot= REAL002317
 nn= Hydrogen (brensel)
+nn= Hydrogendrivstoff
 en= Hydrogen fuel
 en= Hydrogen
 tio= 2014-08-25T00:00:00Z
-tie= 2017-08-17T16:20:56Z
+tie= 2018-07-19T19:17:04Z
 
 id= REAL012098
 te= Bayesiansk modellering
@@ -100447,11 +100555,9 @@ fly= REAL012210
 
 id= REAL012212
 te= Lysabsorpsjon
-ba= nk
-ba= na
-nn= Ljosabsorpsjon
-nn= Lysabsorpsjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:43:15Z
+fly= REAL011958
 
 id= REAL012213
 te= Lydabsorpsjon
@@ -101085,10 +101191,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012282
 te= Evolusjonsligninger
-ba= nm
-bf= Evolusjonslikninger
-nn= Evolusjonslikningar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T10:42:29Z
+fly= REAL012631
 
 id= REAL012283
 te= Feltligninger
@@ -104027,7 +104132,7 @@ en= Monte Carlo methods
 ms= 65.15
 dw= 518.282
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-10T13:19:18Z
+tie= 2018-07-19T10:44:10Z
 st= REAL021877
 
 id= REAL012532
@@ -105135,7 +105240,10 @@ fly= REAL004320
 id= REAL012631
 te= Evolusjonssimulering
 ba= ni
+bf= Evolusjonsligninger
+bf= Evolusjonslikninger
 nn= Evolusjonssimulering
+nn= Evolusjonslikningar
 en= Evolution simulation
 tio= 2014-08-25T00:00:00Z
 
@@ -107798,9 +107906,12 @@ fly= REAL013147
 
 id= REAL012840
 te= Ikke-jernmetaller
+bf= Buntmetaller
 nn= Ikkje-jernmetall
 nn= Ikkje-jarnmetall
+nn= Buntmetall
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T19:29:53Z
 
 id= REAL012841
 te= Ikke-krystallinske materialer
@@ -109158,10 +109269,10 @@ nn= Korrespondanseanalysar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012986
-te= Korrosjoner
-nn= Korrosjonar
+te= Korrosjon
+nn= Korrosjon
 tio= 2014-08-25T00:00:00Z
-st= REAL028893
+tie= 2018-07-19T17:22:15Z
 
 id= REAL012987
 te= Den kosmologiske konstanten
@@ -109192,8 +109303,9 @@ tie= 2017-06-01T13:12:02Z
 
 id= REAL012991
 te= Krystalldannelser
-nn= Krystalldanningar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:02:49Z
+fly= REAL013596
 
 id= REAL012992
 te= Krystallsymmetri
@@ -109856,9 +109968,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013052
 te= Lysemisjoner
-nn= Ljosemisjonar
-nn= Lysemisjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T13:44:57Z
 
 id= REAL013053
 te= Læringsmiljøer
@@ -110169,11 +110280,14 @@ dw= 519.232
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013083
-te= Markovprosesser
+te= Markovkjeder og -prosesser
 ba= ni
 ba= nm
 bf= Markov-prosesser
 bf= Markovkjeder
+bf= Markovprosesser
+ot= REAL011857
+no= Ulike kilder er ikke konsekvente på skillet mellom Markovkjeder og prosesser. Begge deler er stokastiske prosesser, men noen kilder bruker Markovkjeder om tilfeller der tiden er diskret, andre bruker det om tilfeller der tilstandsrommet er diskret. Samler de derfor i ett emneord
 nn= Markovprosessar
 nn= Markov-prosessar
 nn= Markovkjeder
@@ -110182,6 +110296,7 @@ en= Markov chains
 ms= 60.62
 dw= 519.233
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T13:08:43Z
 
 id= REAL013084
 te= Huntprosesser
@@ -112249,10 +112364,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013272
 te= Elektrolytisk metallframstilling
-ba= nk
-bf= Elektrolytisk metallfremstilling
-nn= Elektrolytisk metallframstilling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T18:53:26Z
 
 id= REAL013273
 te= Magnesiumframstilling
@@ -112908,21 +113021,14 @@ fly= REAL000246
 
 id= REAL013331
 te= Karbonklynger
-ba= nk
-bf= Karbonclustere
-nn= Karbonklynger
-nn= Karboncluster
-nn= Karbonklyngjer
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T19:35:07Z
 
 id= REAL013332
 te= Ioneklynger
-ba= nk
-bf= Ioneclustere
-nn= Ioneklynger
-nn= Ionecluster
-nn= Ioneklyngjer
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-19T16:44:15Z
+fly= REAL007776
 
 id= REAL013333
 te= Musikksystemer
@@ -112965,7 +113071,9 @@ id= REAL013335
 te= Beslutningsteori
 ba= ni
 ba= nm
+bf= Desisjonsteori
 nn= Avgjerdsteori
+nn= Desisjonsteori
 en= Decision theory
 ms= 62.30
 dw= 519.542
@@ -117396,10 +117504,12 @@ ba= ne
 ba= nf
 bf= Kjernemagnetisk resonans-spektroskopi
 bf= NMR-spektroskopi
+bf= Kjernespinnresonans
 ak= NMR
 nn= Kjernemagnetisk resonans
 nn= Kjernemagnetisk resonans-spektroskopi
 nn= NMR-spektroskopi
+nn= Kjernespinnresonans
 en= Nuclear magnetic resonance
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-05T18:13:49Z
@@ -117534,11 +117644,13 @@ ba= nf
 bf= Krystallisasjon
 bf= Krystallisasjonsteori
 bf= Krystallvekst
+bf= Krystalldannelser
 nn= Krystallisering
 nn= Krystallisasjon
 nn= Krystallisasjonsteori
 nn= Krystallvekst
 nn= Krystallvokster
+nn= Krystalldanningar
 en= Crystallization
 en= Crystallisation
 en= Crystal growth
@@ -119527,10 +119639,12 @@ id= REAL013752
 te= Tesauruser
 ba= ns
 bf= Tesauri
+ot= REAL004601
 nn= Tesaurusar
 nn= Tesauri
 en= Thesauri
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-19T12:26:43Z
 st= REAL020544
 
 id= REAL013753
@@ -124673,10 +124787,11 @@ id= REAL031321
 te= Skjulte markovmodeller
 ak= HMM
 so= REAL011857
+ot= REAL011857
 nn= Skjulte markovmodellar
 en= Hidden Markov models
 tio= 2015-01-29T00:00:00Z
-tie= 2015-01-29T00:00:00Z
+tie= 2018-07-19T13:09:33Z
 
 id= REAL031322
 te= Evolusjonær medisin
@@ -127429,4 +127544,12 @@ nn= Hydrodynamic stability
 nn= Hydrodynamic instability
 tio= 2018-07-18T17:40:50Z
 tie= 2018-07-18T17:41:09Z
+
+id= REAL032014
+te= Rayleigh–Bénard-konveksjon
+bf= Bénardceller
+nn= Rayleigh–Bénard-konveksjon
+nn= Bénardceller
+tio= 2018-07-19T13:50:54Z
+tie= 2018-07-19T13:51:57Z
 

@@ -1,1 +1,397 @@
-{}
+{
+  "REAL010607": {
+    "prefLabel": "Organoboron",
+    "altLabel": []
+  },
+  "REAL013278": {
+    "prefLabel": "Heavy ions",
+    "altLabel": []
+  },
+  "REAL008439": {
+    "prefLabel": "Braid groups",
+    "altLabel": [
+      "Artin braid groups"
+    ]
+  },
+  "REAL009250": {
+    "prefLabel": "Synthetic fertilizers",
+    "altLabel": [
+      "Inorganic fertilizers",
+      "Mineral fertilizers",
+      "Chemical fertilizers"
+    ]
+  },
+  "REAL010109": {
+    "prefLabel": "Dialgebras",
+    "altLabel": [
+      "Dialgebra"
+    ]
+  },
+  "REAL011196": {
+    "prefLabel": "Copolymers",
+    "altLabel": [
+      "Block copolymers"
+    ]
+  },
+  "REAL003450": {
+    "prefLabel": "Organotin compounds",
+    "altLabel": []
+  },
+  "REAL007065": {
+    "prefLabel": "Organonitrogen compounds",
+    "altLabel": []
+  },
+  "REAL011460": {
+    "prefLabel": "Organopotassium",
+    "altLabel": [
+      "Organomagnesium"
+    ]
+  },
+  "REAL003405": {
+    "prefLabel": "Borel sets",
+    "altLabel": []
+  },
+  "REAL002791": {
+    "prefLabel": "Bond lengths",
+    "altLabel": [
+      "Bond distances"
+    ]
+  },
+  "REAL013609": {
+    "prefLabel": "Composting",
+    "altLabel": []
+  },
+  "REAL006965": {
+    "prefLabel": "Cryptands",
+    "altLabel": []
+  },
+  "REAL011759": {
+    "prefLabel": "Ion-selective electrodes",
+    "altLabel": [
+      "Specific ion electrodes",
+      "SIEs",
+      "Ion selective electrodes",
+      "ISE",
+      "ISEs",
+      "SIE"
+    ]
+  },
+  "REAL000215": {
+    "prefLabel": "Conformational analysis",
+    "altLabel": []
+  },
+  "REAL002459": {
+    "prefLabel": "Coatings",
+    "altLabel": []
+  },
+  "REAL012378": {
+    "prefLabel": "Transition metal compounds",
+    "altLabel": []
+  },
+  "REAL005827": {
+    "prefLabel": "Differential operators",
+    "altLabel": []
+  },
+  "REAL008229": {
+    "prefLabel": "Catalytic cracking",
+    "altLabel": []
+  },
+  "REAL010336": {
+    "prefLabel": "Organocatalysts",
+    "altLabel": []
+  },
+  "REAL012840": {
+    "prefLabel": "Non-ferrous metals",
+    "altLabel": []
+  },
+  "REAL002060": {
+    "prefLabel": "Inorganic materials",
+    "altLabel": []
+  },
+  "REAL002805": {
+    "prefLabel": "Binding agents",
+    "altLabel": [
+      "Binders"
+    ]
+  },
+  "REAL008831": {
+    "prefLabel": "Conjugated systems",
+    "altLabel": []
+  },
+  "REAL009238": {
+    "prefLabel": "Organoantimony",
+    "altLabel": []
+  },
+  "REAL008923": {
+    "prefLabel": "Rearrangement reactions",
+    "altLabel": []
+  },
+  "REAL001134": {
+    "prefLabel": "Template reactions",
+    "altLabel": [
+      "Templates",
+      "Template effects",
+      "Template-controlled reactions",
+      "Templated synthesis"
+    ]
+  },
+  "REAL006382": {
+    "prefLabel": "Molecular sensors",
+    "altLabel": [
+      "Chemical sensors",
+      "Chemosensors"
+    ]
+  },
+  "REAL011488": {
+    "prefLabel": "Sugar",
+    "altLabel": []
+  },
+  "REAL001218": {
+    "prefLabel": "Salt extraction",
+    "altLabel": [
+      "Salterns",
+      "Salt mining"
+    ]
+  },
+  "REAL005541": {
+    "prefLabel": "Adhesives",
+    "altLabel": [
+      "Glues"
+    ]
+  },
+  "REAL005725": {
+    "prefLabel": "Halogen compounds",
+    "altLabel": []
+  },
+  "REAL003486": {
+    "prefLabel": "Conducting polymers",
+    "altLabel": []
+  },
+  "REAL008967": {
+    "prefLabel": "Air quality",
+    "altLabel": []
+  },
+  "REAL007169": {
+    "prefLabel": "Carbenoids",
+    "altLabel": []
+  },
+  "REAL009946": {
+    "prefLabel": "Brauer groups",
+    "altLabel": []
+  },
+  "REAL001528": {
+    "prefLabel": "Petroleum products",
+    "altLabel": []
+  },
+  "REAL000145": {
+    "prefLabel": "Dessins d'enfant",
+    "altLabel": [
+      "Dessins d'enfants"
+    ]
+  },
+  "REAL008875": {
+    "prefLabel": "Automorphic forms",
+    "altLabel": [
+      "Automorphic functions"
+    ]
+  },
+  "REAL011310": {
+    "prefLabel": "Chitins",
+    "altLabel": []
+  },
+  "REAL004670": {
+    "prefLabel": "Bifunctional compounds",
+    "altLabel": []
+  },
+  "REAL012383": {
+    "prefLabel": "Transactinides",
+    "altLabel": [
+      "Transactinide elements",
+      "Super-heavy elements"
+    ]
+  },
+  "REAL003994": {
+    "prefLabel": "Genus theory",
+    "altLabel": []
+  },
+  "REAL001331": {
+    "prefLabel": "Dualities",
+    "altLabel": []
+  },
+  "REAL000849": {
+    "prefLabel": "Molecular orbital theory",
+    "altLabel": [
+      "MO theory"
+    ]
+  },
+  "REAL002087": {
+    "prefLabel": "Protein purification",
+    "altLabel": []
+  },
+  "REAL004463": {
+    "prefLabel": "Hyaluronic acid",
+    "altLabel": [
+      "Hyaluronan"
+    ]
+  },
+  "REAL006802": {
+    "prefLabel": "Soil contamination",
+    "altLabel": []
+  },
+  "REAL008485": {
+    "prefLabel": "History of chemistry",
+    "altLabel": []
+  },
+  "REAL012847": {
+    "prefLabel": "Non-stoichiometric compounds",
+    "altLabel": [
+      "Non-stoichiometry",
+      "Berthollides"
+    ]
+  },
+  "REAL012252": {
+    "prefLabel": "Photochemical degradation",
+    "altLabel": [
+      "Photodegradation"
+    ]
+  },
+  "REAL005037": {
+    "prefLabel": "Industrial waste",
+    "altLabel": []
+  },
+  "REAL009255": {
+    "prefLabel": "Complex fluids",
+    "altLabel": []
+  },
+  "REAL010733": {
+    "prefLabel": "Galois theory",
+    "altLabel": []
+  },
+  "REAL012063": {
+    "prefLabel": null,
+    "altLabel": [
+      "Creatine phosphokinase",
+      "CPK",
+      "Phospho-creatine kinase"
+    ]
+  },
+  "REAL003259": {
+    "prefLabel": "Instrumental analysis",
+    "altLabel": []
+  },
+  "REAL010883": {
+    "prefLabel": "Nanocubes",
+    "altLabel": []
+  },
+  "REAL001312": {
+    "prefLabel": "Plant chemistry",
+    "altLabel": []
+  },
+  "REAL005503": {
+    "prefLabel": "Organofluorine",
+    "altLabel": []
+  },
+  "REAL005617": {
+    "prefLabel": "Refractory materials",
+    "altLabel": [
+      "Refractories"
+    ]
+  },
+  "REAL005189": {
+    "prefLabel": "Artificial tissue",
+    "altLabel": []
+  },
+  "REAL000276": {
+    "prefLabel": "Aircraft design",
+    "altLabel": []
+  },
+  "REAL012376": {
+    "prefLabel": "Boron group",
+    "altLabel": [
+      "Element group 13"
+    ]
+  },
+  "REAL008736": {
+    "prefLabel": "Bioconjugation",
+    "altLabel": []
+  },
+  "REAL002598": {
+    "prefLabel": "Soil acidification",
+    "altLabel": []
+  },
+  "REAL003177": {
+    "prefLabel": "Organosilicon compounds",
+    "altLabel": []
+  },
+  "REAL005761": {
+    "prefLabel": "Coal dust",
+    "altLabel": []
+  },
+  "REAL004605": {
+    "prefLabel": "Differential forms",
+    "altLabel": []
+  },
+  "REAL000739": {
+    "prefLabel": "Photoexcitation",
+    "altLabel": []
+  },
+  "REAL002655": {
+    "prefLabel": "Chromium compounds",
+    "altLabel": []
+  },
+  "REAL007610": {
+    "prefLabel": "Decision models",
+    "altLabel": []
+  },
+  "REAL011315": {
+    "prefLabel": "Cross-linking",
+    "altLabel": []
+  },
+  "REAL010675": {
+    "prefLabel": "Chromium group",
+    "altLabel": []
+  },
+  "REAL012845": {
+    "prefLabel": "Nonmetals",
+    "altLabel": [
+      "Non-metals",
+      "Nonmetallics"
+    ]
+  },
+  "REAL004368": {
+    "prefLabel": "Stereoelectronic effects",
+    "altLabel": []
+  },
+  "REAL011348": {
+    "prefLabel": "Organonitrogen",
+    "altLabel": []
+  },
+  "REAL001735": {
+    "prefLabel": "Structural chemistry",
+    "altLabel": []
+  },
+  "REAL007225": {
+    "prefLabel": "Organic structural chemistry",
+    "altLabel": []
+  },
+  "REAL007577": {
+    "prefLabel": "Burnside problem",
+    "altLabel": []
+  },
+  "REAL002158": {
+    "prefLabel": "Air",
+    "altLabel": []
+  },
+  "REAL010840": {
+    "prefLabel": "Corrosion protection",
+    "altLabel": []
+  },
+  "REAL007932": {
+    "prefLabel": "Organopalladium",
+    "altLabel": []
+  },
+  "REAL010627": {
+    "prefLabel": "Copper compounds",
+    "altLabel": []
+  }
+}
