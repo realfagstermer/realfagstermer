@@ -284,7 +284,9 @@ tis= 2018-05-18T16:00:31Z
 id= REAL000036
 te= Dyrefotografering
 ba= nb
+bf= Fuglefotografering
 nn= Dyrefotografering
+nn= Fuglefotografering
 en= Wildlife photography
 tio= 2014-08-25T00:00:00Z
 
@@ -10633,11 +10635,13 @@ en= Elliptical galaxies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001277
-te= Velferdsstaten
+te= Velferdsstat
 ba= ns
-nn= Velferdsstaten
+so= REAL008394
+nn= Velferdsstat
 en= Welfare state
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T11:23:19Z
 
 id= REAL001278
 te= Ingeniørgeofysikk
@@ -13575,8 +13579,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001636
 te= Ingeniørmekanikk
 ba= nf
+ut= REAL032019
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-18T18:07:44Z
+tie= 2018-07-20T18:38:59Z
 
 id= REAL001637
 te= Foldebelter
@@ -14651,10 +14656,9 @@ st= REAL019342
 
 id= REAL001767
 te= Legemiddelindustri
-ba= ns
-nn= Lækjemiddelindustri
-nn= Legemiddelindustri
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:18:19Z
+fly= REAL010582
 
 id= REAL001768
 te= Turingmaskiner
@@ -15523,9 +15527,8 @@ fly= REAL006961
 
 id= REAL001873
 te= Sosiale problemer
-ba= ne
-nn= Sosiale problem
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:20:10Z
 
 id= REAL001874
 te= Intern rotasjon
@@ -20956,10 +20959,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002521
 te= Usikkerhetsberegninger
 ba= nk
+bf= Kvantifisering av usikkerhet
 nn= Uvisseberekningar
 nn= Usikkerheitsberekningar
 nn= Utryggleiksberekningar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T19:03:03Z
 
 id= REAL002522
 te= Måleenheter
@@ -26977,9 +26982,8 @@ tie= 2017-02-10T20:39:48Z
 
 id= REAL003234
 te= Klinisk arbeid
-ba= ne
-nn= Klinisk arbeid
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:31:02Z
 
 id= REAL003235
 te= Plantestoffer
@@ -27129,6 +27133,7 @@ te= Holomorfe funksjoner
 ba= nm
 nn= Holomorfe funksjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T13:32:01Z
 
 id= REAL003255
 te= Komplekse funksjoner
@@ -29439,6 +29444,8 @@ ba= ngh
 ba= nm
 ba= ns
 bf= Numeriske analyser
+ut= REAL032017
+ut= REAL011205
 nn= Numerisk analyse
 nn= Numeriske analysar
 en= Numerical analysis
@@ -30325,8 +30332,12 @@ te= Kontinuumsmekanikk
 ba= nk
 ba= nf
 ba= nm
+ut= REAL013568
+ut= REAL013743
+ut= REAL013037
 nn= Kontinuumsmekanikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T17:58:07Z
 st= REAL022643
 st= REAL023199
 
@@ -33363,8 +33374,13 @@ fly= REAL012784
 id= REAL003999
 te= Egenandeler
 ba= ne
-nn= Eigendelar
+bf= Egenbetaling
+bf= Brukerbetaling
+nn= Eigenandelar
+nn= Eigenbetaling
+nn= Brukarbetaling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T11:43:21Z
 
 id= REAL004001
 te= Kvadratiske funksjoner
@@ -35231,9 +35247,8 @@ st= REAL029197
 
 id= REAL004227
 te= Soneterapi
-ba= ne
-nn= Soneterapi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:26:53Z
 
 id= REAL004228
 te= Hopf-algebraer
@@ -36398,10 +36413,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004365
 te= Sosial velferd
-ba= nk
-ba= ne
-nn= Sosial velferd
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:22:05Z
+fly= REAL008394
 
 id= REAL004366
 te= Historieforskning
@@ -37340,9 +37354,17 @@ fly= REAL009064
 id= REAL004480
 te= Bevegelseslære
 ba= ne
+bf= Kinesiologi
+bf= Kroppsmekanikk
 nn= Rørslelære
 nn= Bevegelseslære
+nn= Kinesiologi
+nn= Kroppsmekanikk
+en= Kinesiology
+en= Human mechanics
+en= Human movement
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T20:55:54Z
 
 id= REAL004481
 te= Universiteter
@@ -44520,17 +44542,14 @@ st= REAL024822
 
 id= REAL005388
 te= Multiplikasjon
-ba= nm
-nn= Multiplikasjon
-en= Multiplication
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T10:36:56Z
 
 id= REAL005389
 te= Kinesiologi
-ba= ne
-nn= Kinesiologi
-en= Kinesiology
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T20:52:43Z
+fly= REAL004480
 
 id= REAL005390
 te= Forkastningssoner
@@ -44979,9 +44998,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005448
 te= Komplikasjoner
-ba= ne
-nn= Komplikasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T10:50:34Z
 
 id= REAL005449
 te= Algebraisk K-teori
@@ -47887,8 +47905,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005796
 te= Skjoldbruskkjertelen
 ba= nb
+bf= Skjoldkjertelen
+bf= Thyreoidea
 nn= Skjoldbruskkjertelen
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T11:07:46Z
 
 id= REAL005797
 te= Konkurranser
@@ -48137,10 +48158,12 @@ ba= nk
 ba= ne
 ba= ns
 bf= Legemiddelhistorie
+bf= Apotekhistorie
 so= REAL004375
 nn= Farmasihistorie
 nn= Lækjemiddelhistorie
 nn= Legemiddelhistorie
+nn= Apotekhistorie
 tio= 2014-08-25T00:00:00Z
 st= REAL014127
 st= REAL014232
@@ -66933,9 +66956,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008079
 te= Kjeder
-ba= nm
-nn= Kjeder
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T10:35:13Z
 
 id= REAL008080
 te= Teknisk dykking
@@ -69506,8 +69528,13 @@ te= Velferd
 ba= nk
 ba= nb
 ba= ns
+bf= Sosial velferd
+so= REAL031943
+so= REAL001277
 nn= Velferd
+nn= Sosial velferd
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T11:23:19Z
 
 id= REAL008395
 te= Økologisk forskning
@@ -70312,9 +70339,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008482
 te= Holistisk behandling
-ba= ne
-nn= Holistisk behandling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T10:55:11Z
 
 id= REAL008483
 te= Blåforskyvning
@@ -78746,10 +78772,8 @@ fly= REAL011701
 
 id= REAL009518
 te= Drakthistorie
-ba= ngh
-nn= Drakthistorie
 tio= 2014-08-25T00:00:00Z
-st= REAL014963
+tis= 2018-07-20T11:55:39Z
 
 id= REAL009519
 te= Økonomisk botanikk
@@ -83985,9 +84009,8 @@ st= REAL029645
 
 id= REAL010131
 te= Kostholdsundersøkelser
-ba= ne
-nn= Kosthaldsundersøkingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:29:41Z
 
 id= REAL010132
 te= AIX
@@ -84083,9 +84106,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010144
 te= Romvesener
-ba= na
-nn= Romvesen
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T13:36:01Z
+fly= REAL013639
 
 id= REAL010145
 te= Naturgass
@@ -85973,9 +85996,8 @@ st= REAL026522
 
 id= REAL010363
 te= Klinisk signifikans
-ba= ne
-nn= Klinisk signifikans
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:52:22Z
 
 id= REAL010364
 te= Kartdatabaser
@@ -86789,6 +86811,7 @@ ba= nm
 ba= ns
 bf= Newtons mekanikk
 bf= Klassisk fysikk
+ut= REAL032019
 nn= Klassisk mekanikk
 nn= Newtons mekanikk
 nn= Klassisk fysikk
@@ -87287,12 +87310,9 @@ tis= 2017-07-03T19:26:04Z
 
 id= REAL010534
 te= Apotekhistorie
-ba= ns
-nn= Apotekhistorie
 tio= 2014-08-25T00:00:00Z
-st= REAL018454
-st= REAL026320
-st= REAL028938
+tis= 2018-07-20T11:35:26Z
+fly= REAL005831
 
 id= REAL010535
 te= Codes
@@ -87620,9 +87640,14 @@ tis= 2018-07-19T17:39:44Z
 id= REAL010582
 te= Farmasøytisk industri
 ba= ne
+bf= Legemiddelindustri
+so= REAL013484
 nn= Farmasøytisk industri
+nn= Lækjemiddelindustri
+nn= Legemiddelindustri
 en= Pharmaceutical industry
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T11:18:47Z
 
 id= REAL010583
 te= Nærmiljø
@@ -89114,8 +89139,11 @@ st= REAL031935
 id= REAL010766
 te= Immunstimulering
 ba= ne
+bf= Immunstimulanter
 nn= Immunstimulering
+nn= Immunstimulanter
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T10:52:09Z
 
 id= REAL010767
 te= Fortidsvern
@@ -89412,11 +89440,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010802
 te= Koeffisienter
-ba= nm
-bf= Koeffisient
-nn= Koeffisientar
-nn= Koeffisient
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T10:39:35Z
 
 id= REAL010804
 te= Kognitiv psykologi
@@ -92419,6 +92444,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011205
 te= Spektralmetoder
 ba= na
+ot= REAL003528
 nn= Spektralmetodar
 tio= 2014-08-25T00:00:00Z
 
@@ -95404,6 +95430,7 @@ ba= nf
 ba= nm
 bf= Bruddstyrke
 bf= Bruddberegninger
+ot= REAL013568
 nn= Brotmekanikk
 nn= Brotstyrke
 nn= Brottmekanikk
@@ -98702,9 +98729,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011951
 te= Klinisk praksis
-ba= ne
-nn= Klinisk praksis
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:37:31Z
 
 id= REAL011952
 te= Infrared Space Observatory
@@ -104849,9 +104875,9 @@ st= REAL026439
 
 id= REAL012591
 te= Holomorfi
-ba= nm
-nn= Holomorfi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T13:31:31Z
+fly= REAL003254
 
 id= REAL012592
 te= Eldre
@@ -105386,6 +105412,7 @@ ba= nm
 bf= Endelige elementers metode
 bf= Elementmetoden
 ak= FEM
+so= REAL032016
 nn= Elementmetodar
 nn= Elementmetoden
 en= Element methods
@@ -105393,7 +105420,7 @@ en= Finite element method
 en= Finite element analysis
 en= Finite elements
 tio= 2014-08-25T00:00:00Z
-tie= 2017-08-15T12:18:06Z
+tie= 2018-07-20T17:20:01Z
 
 id= REAL012634
 te= Feministisk filosofi
@@ -109374,8 +109401,8 @@ st= REAL028463
 
 id= REAL012983
 te= Kontinuerlige infusjoner
-nn= Kontinuerlege infusjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T11:48:49Z
 
 id= REAL012984
 te= Koordinasjonspolymerer
@@ -109992,6 +110019,7 @@ ba= ne
 ba= nf
 ba= nm
 bf= Rheologi
+ot= REAL003636
 nn= Reologi
 nn= Rheologi
 en= Rheology
@@ -116015,10 +116043,12 @@ tie= 2015-08-07T15:06:51Z
 
 id= REAL013484
 te= Legemiddelproduksjon
+so= REAL010582
 nn= Lækjemiddelproduksjon
 nn= Legemiddelproduksjon
 en= Pharmaceutical compounding
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T11:18:48Z
 st= REAL015050
 st= REAL021615
 
@@ -117466,6 +117496,10 @@ te= Faststoffmekanikk
 ba= nm
 ba= ns
 so= REAL012641
+ot= REAL003636
+ut= REAL032018
+ut= REAL011579
+ut= REAL032019
 nn= Faststoffmekanikk
 en= Solid mechanics
 ms= 73
@@ -118389,11 +118423,18 @@ te= Ekstraterrestrisk liv
 ba= na
 ba= nb
 bf= Ekstraterrestrielt liv
+bf= Romvesener
+bf= Utenomjordisk liv
+bf= Utenomjordiske vesener
 so= REAL013638
 nn= Ekstraterrestrisk liv
 nn= Ekstraterrestrielt liv
+nn= Romvesen
+nn= Utenomjordisk liv
+nn= Utenomjordiske vesen
 en= Extraterrestrial life
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-20T13:37:13Z
 
 id= REAL013640
 te= Upartåete hovdyr
@@ -119652,6 +119693,7 @@ ba= nm
 bf= Væskemekanikk
 bf= Væskefysikk
 so= REAL013744
+ot= REAL003636
 nn= Fluidmekanikk
 nn= Væskemekanikk
 nn= Væskefysikk
@@ -119686,6 +119728,7 @@ bf= Strømningsmekanikk
 bf= Strømningslære
 bf= Hydromekanikk
 so= REAL013743
+ut= REAL032017
 nn= Fluiddynamikk
 nn= Væskedynamikk
 nn= Strøymingsmekanikk
@@ -119693,7 +119736,7 @@ nn= Strøymingslære
 nn= Hydromekanikk
 en= Fluid dynamics
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-17T13:15:24Z
+tie= 2018-07-20T17:58:07Z
 st= REAL015040
 
 id= REAL013745
@@ -123964,9 +124007,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL014018
 te= Fuglefotografering
-so= REAL000036
-nn= Fuglefotografering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T13:34:07Z
+fly= REAL000036
 
 id= REAL014019
 te= Kunnskapsallmenninger
@@ -127245,8 +127288,9 @@ tie= 2018-01-12T17:36:57Z
 
 id= REAL031943
 te= Velferdsteknologi
+so= REAL008394
 tio= 2018-01-18T12:30:19Z
-tie= 2018-01-18T12:30:19Z
+tie= 2018-07-20T11:23:07Z
 
 id= REAL031944
 te= Radiorekombinasjonslinjer
@@ -127674,4 +127718,65 @@ nn= Rayleigh–Bénard-konveksjon
 nn= Bénardceller
 tio= 2018-07-19T13:50:54Z
 tie= 2018-07-19T13:51:57Z
+
+id= REAL032015
+te= Grenseverdimetoden
+bf= Momentmetoden
+no= The electromagnetics community normally refers to the integral formulation as the method of moments (MoM). In mathematics, the MoM is often referred to as the boundary element method (BEM). -- Thomas Rylander. Computation electromagntics 2nd ed. (2013), p. 185
+nn= Grenseverdimetoden
+nn= Momentmetoden
+en= Method of moments
+en= Boundary element method
+tio= 2018-07-20T15:48:55Z
+tie= 2018-07-20T15:52:14Z
+
+id= REAL032016
+te= Maskenettfrie metoder
+so= REAL012633
+nn= Maskenettfrie metodar
+en= Meshfree methods
+en= Mesh-free methods
+de= Maskenettfrie alternativer til elementmetoden
+tio= 2018-07-20T17:17:41Z
+tie= 2018-07-20T17:21:17Z
+
+id= REAL032017
+te= Numerisk fluiddynamikk
+bf= Beregningsorientert fluiddynamikk
+ot= REAL013744
+ot= REAL003528
+nn= Numerisk fluiddynamikk
+en= Computational fluid dynamics
+tio= 2018-07-20T17:31:47Z
+tie= 2018-07-20T17:32:34Z
+
+id= REAL032018
+te= Kontaktmekanikk
+ot= REAL013568
+nn= Kontaktmekanikk
+en= Contact mechanics
+tio= 2018-07-20T17:53:17Z
+tie= 2018-07-20T17:53:30Z
+
+id= REAL032019
+te= Stive legemers dynamikk
+bf= Stive legemers mekanikk
+ot= REAL010474
+ot= REAL001636
+ot= REAL013568
+nn= Stive lekamars dynamikk
+nn= Stive lekamars mekanikk
+en= Rigid body dynamics
+en= Rigid-body dynamics
+tio= 2018-07-20T18:36:28Z
+tie= 2018-07-20T18:41:27Z
+
+id= REAL032020
+te= Kampsport
+bf= Kampidretter
+nn= Kampsport
+nn= Kampidrett
+en= Martial arts
+tio= 2018-07-20T20:45:39Z
+tie= 2018-07-20T20:48:13Z
 
