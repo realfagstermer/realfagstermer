@@ -1295,6 +1295,7 @@ id= REAL000157
 te= Kompleks multiplikasjon
 ba= nm
 nn= Kompleks multiplikasjon
+en= Complex multiplication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000158
@@ -2364,12 +2365,10 @@ st= REAL021461
 id= REAL000282
 te= Mekaniske datamaskiner
 ba= ns
-bf= Difference engine
-bf= Analytical engine
 nn= Mekaniske datamaskiner
 nn= Mekaniske datamaskinar
 tio= 2014-08-25T00:00:00Z
-tie= 2015-08-07T13:11:42Z
+tie= 2018-07-20T22:38:07Z
 st= REAL015449
 st= REAL025849
 
@@ -4816,6 +4815,7 @@ id= REAL000568
 te= Klassifiserende rom
 ba= nm
 nn= Klassifiserande rom
+en= Classifying spaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000569
@@ -10591,6 +10591,7 @@ id= REAL001270
 te= Medikamentell behandling
 ba= ne
 nn= Medikamentell behandling
+en= Drug treatment
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001271
@@ -10598,6 +10599,7 @@ te= Ryggmargen
 ba= nb
 ba= ne
 nn= Ryggmargen
+en= Spinal cord
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001272
@@ -14481,12 +14483,10 @@ tie= 2017-09-26T14:27:54Z
 
 id= REAL001744
 te= VLSI-design
-ba= ni
-bf= Vlsi-utlegg
-nn= VLSI-design
-nn= VLSI-utlegg
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-25T11:13:27Z
+tis= 2018-07-20T22:31:12Z
+fly= REAL008829
 
 id= REAL001745
 te= Vektorregning
@@ -15948,6 +15948,7 @@ ba= ni
 bf= Produktutforming
 nn= Produktdesign
 nn= Produktutforming
+en= Product design
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001929
@@ -20963,6 +20964,8 @@ bf= Kvantifisering av usikkerhet
 nn= Uvisseberekningar
 nn= Usikkerheitsberekningar
 nn= Utryggleiksberekningar
+en= Uncertainty quantification
+en= Uncertainty calculations
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-20T19:03:03Z
 
@@ -21310,6 +21313,8 @@ te= Dyregifter
 ba= nb
 ba= ne
 nn= Dyregifter
+en= Animal venoms
+en= Animal poisons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002555
@@ -21454,6 +21459,7 @@ id= REAL002573
 te= Knipper
 ba= nm
 nn= Knippe
+en= Sheafs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002574
@@ -21691,6 +21697,7 @@ id= REAL002596
 te= Matrisegrupper
 ba= nm
 nn= Matrisegrupper
+en= Matrix groups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002597
@@ -27132,6 +27139,7 @@ id= REAL003254
 te= Holomorfe funksjoner
 ba= nm
 nn= Holomorfe funksjonar
+en= Holomorphic functions
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-20T13:32:01Z
 
@@ -27712,6 +27720,8 @@ bf= Reseptlesing
 nn= Reseptar
 nn= Forskriving
 nn= Reseptlesing
+en= Prescriptions
+en= Medical prescriptions
 tio= 2014-08-25T00:00:00Z
 st= REAL017914
 
@@ -31255,6 +31265,7 @@ te= Næringsstoffer
 ba= nb
 ba= ns
 nn= Næringsstoff
+en= Nutrients
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003749
@@ -33117,9 +33128,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003962
 te= Smoltproduksjon
-ba= nb
-nn= Smoltproduksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T23:04:24Z
+fly= REAL007873
 
 id= REAL003963
 te= Navn
@@ -33379,6 +33390,7 @@ bf= Brukerbetaling
 nn= Eigenandelar
 nn= Eigenbetaling
 nn= Brukarbetaling
+en= Copayments
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-20T11:43:21Z
 
@@ -39452,6 +39464,7 @@ te= Pasientovervåking
 ba= ni
 bf= Pasientovervåkning
 nn= Pasientovervaking
+en= Patient monitoring
 tio= 2014-08-25T00:00:00Z
 tie= 2015-08-07T15:07:14Z
 
@@ -39575,6 +39588,11 @@ nn= Helsefarlege kjemikal
 nn= Helsefarlege kjemikaliar
 nn= Helsefarlege kjemikalium
 nn= Skadelege stoff
+en= Hazardous substances
+en= Hazardous materials
+en= Hazardous chemicals
+en= Harmful substances
+en= Chemical hazards
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-29T11:26:49Z
 st= REAL018199
@@ -41701,6 +41719,7 @@ te= Legemiddelopptak
 ba= ne
 nn= Lækjemiddelopptak
 nn= Legemiddelopptak
+en= Drug delivery
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005029
@@ -42562,6 +42581,9 @@ id= REAL005132
 te= Influensavaksiner
 ba= ne
 nn= Influensavaksinar
+en= Influenza vaccines
+en= Flu shots
+en= Flu vaccines
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005133
@@ -43349,6 +43371,7 @@ id= REAL005232
 te= Glukoseopptak
 ba= ne
 nn= Glukoseopptak
+en= Glucose uptake
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005233
@@ -47168,6 +47191,7 @@ id= REAL005712
 te= Kinesisk restteorem
 ba= nm
 nn= Kinesisk restteorem
+en= Chinese remainder theorem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005713
@@ -47908,6 +47932,8 @@ ba= nb
 bf= Skjoldkjertelen
 bf= Thyreoidea
 nn= Skjoldbruskkjertelen
+en= Thyroid gland
+en= Thyroid
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-20T11:07:46Z
 
@@ -50505,9 +50531,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006112
 te= Java2
-ba= ni
-nn= Java2
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T22:16:20Z
+fly= REAL007481
 
 id= REAL006113
 te= Hjelpemidler
@@ -59514,11 +59540,8 @@ st= REAL027418
 
 id= REAL007162
 te= Småbølger
-ba= na
-nn= Småbølgjer
-nn= Småbylgjer
-nn= Småbølger
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T23:09:55Z
 
 id= REAL007163
 te= Moderne algebra
@@ -62136,8 +62159,15 @@ id= REAL007481
 te= Java
 ba= ni
 ba= na
+bf= Java2
+bf= Java virtual machine
+ak= JVM
 nn= Java
+nn= Java2
+nn= JVM
+nn= Java Virtual Machine
 en= Java
+en= Java virtual machine
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -64038,6 +64068,7 @@ te= Stivelse
 ba= ne
 nn= Stive
 nn= Stivelse
+en= Starch
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007719
@@ -65133,6 +65164,7 @@ id= REAL007850
 te= Insulinsekresjon
 ba= ne
 nn= Insulinsekresjon
+en= Insulin secretion
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007852
@@ -65268,7 +65300,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007873
 te= Smolt
 ba= nb
+bf= Smoltproduksjon
+ut= REAL010266
 nn= Smolt
+nn= Smoltproduksjon
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007874
@@ -65767,6 +65802,7 @@ te= Mikroekstraksjon
 ba= nk
 ba= ne
 nn= Mikroekstraksjon
+en= Microextraction
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007940
@@ -66461,12 +66497,9 @@ st= REAL017667
 
 id= REAL008019
 te= Java virtual machine
-ba= ni
-ak= JVM
-nn= JVM
-nn= Java Virtual Machine
-en= Java virtual machine
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T22:16:44Z
+fly= REAL007481
 
 id= REAL008020
 te= Øvre jura
@@ -68345,6 +68378,7 @@ id= REAL008245
 te= Funksjonell mat
 ba= ne
 nn= Funksjonell mat
+en= Functional food
 tio= 2014-08-25T00:00:00Z
 st= REAL028978
 
@@ -73234,7 +73268,11 @@ fly= REAL009595
 id= REAL008829
 te= VLSI
 ba= ni
+bf= VLSI-design
+bf= Vlsi-utlegg
 nn= VLSI
+nn= VLSI-design
+nn= VLSI-utlegg
 en= Very-large-scale integration
 en= Very-large-scale-integration
 en= VLSI
@@ -74451,6 +74489,7 @@ te= Pest
 ba= nb
 ba= ne
 nn= Pest
+en= Plague
 tio= 2014-08-25T00:00:00Z
 st= REAL014376
 st= REAL022094
@@ -75662,11 +75701,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009117
 te= Vektorprosessering
-ba= ni
-bf= Vektorprosessorer
-nn= Vektorprosessering
-nn= Vektorprosessorar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-20T22:32:13Z
 
 id= REAL009118
 te= Koordinasjonsforbindelser
@@ -77196,6 +77232,7 @@ id= REAL009309
 te= Kvadratiske former
 ba= nm
 nn= Kvadratiske former
+en= Quadratic forms
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-03T00:00:00Z
 
@@ -80035,6 +80072,8 @@ id= REAL009663
 te= Romskip
 ba= ns
 nn= Romskip
+en= Spacecrafts
+en= Spaceships
 tio= 2014-08-25T00:00:00Z
 st= REAL031187
 
@@ -81163,6 +81202,7 @@ id= REAL009808
 te= Klinisk farmasi
 ba= ne
 nn= Klinisk farmasi
+en= Clinical pharmacy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009809
@@ -83398,6 +83438,8 @@ bf= Lysreseptorer
 nn= Fotoreseptorar
 nn= Ljosreseptorar
 nn= Lysreseptorar
+en= Photoreceptors
+en= Photosensory receptors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010063
@@ -85255,6 +85297,7 @@ fly= REAL010568
 id= REAL010266
 te= Laksesmolt
 ba= nb
+ot= REAL007873
 nn= Laksesmolt
 tio= 2014-08-25T00:00:00Z
 
@@ -85263,6 +85306,8 @@ te= Kostfiber
 ba= nb
 ba= ne
 nn= Kostfiber
+en= Dietary fibers
+en= Roughages
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010268
@@ -85444,6 +85489,9 @@ nn= Nerveceller
 nn= Nevron
 nn= Neuron
 nn= Glia
+en= Nerve cells
+en= Neurons
+en= Neurones
 tio= 2014-08-25T00:00:00Z
 st= REAL014206
 st= REAL023092
@@ -85635,6 +85683,7 @@ te= Molekyldynamikk
 ba= nk
 ba= na
 nn= Molekyldynamikk
+en= Molecular dynamics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010317
@@ -89142,6 +89191,8 @@ ba= ne
 bf= Immunstimulanter
 nn= Immunstimulering
 nn= Immunstimulanter
+en= Immunostimulation
+en= Immunostimulants
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-20T10:52:09Z
 
@@ -91324,6 +91375,10 @@ id= REAL011059
 te= Hjemmesykepleie
 ba= ne
 nn= Heimesjukepleie
+en= Home health nursing
+en= Home health care
+en= Home health nursing
+en= Home nursing care
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011060
@@ -92412,6 +92467,7 @@ id= REAL011199
 te= Myotuber
 ba= ne
 nn= Myotubar
+en= Myotubes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011200
@@ -92446,6 +92502,7 @@ te= Spektralmetoder
 ba= na
 ot= REAL003528
 nn= Spektralmetodar
+en= Spectral methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011206
@@ -95012,6 +95069,7 @@ id= REAL011530
 te= Hudpleie
 ba= ne
 nn= Hudpleie
+en= Skin care
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011531
@@ -95463,6 +95521,7 @@ te= Tran
 ba= nk
 ba= ne
 nn= Tran
+en= Cod liver oil
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011582
@@ -96312,6 +96371,7 @@ id= REAL011674
 te= Kurkumin
 ba= ne
 nn= Kurkumin
+en= Curcumin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011675
@@ -96455,6 +96515,7 @@ id= REAL011690
 te= Homeomorfi
 ba= nm
 nn= Homeomorfi
+en= Homeomorphism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011691
@@ -96854,6 +96915,7 @@ ba= nf
 ba= ns
 bf= Tyngdebølger
 bf= Gravitasjonsstråling
+bf= Gravitasjonskrusninger
 nn= Gravitasjonsbølgjer
 nn= Gravitasjonsbylgjer
 nn= Gravitasjonsbølger
@@ -96861,10 +96923,12 @@ nn= Tyngdebølgjer
 nn= Tyngdebylgjer
 nn= Tyngdebølger
 nn= Gravitasjonsstråling
+nn= Gravitasjonskrusingar
 en= Gravitational waves
 en= Gravitational radiation
+en= Gravitational ripples
 tio= 2014-08-25T00:00:00Z
-tie= 2017-03-07T22:58:26Z
+tie= 2018-07-20T23:08:52Z
 st= REAL024532
 
 id= REAL011741
@@ -99092,6 +99156,7 @@ id= REAL012001
 te= Hormese
 ba= nb
 nn= Hormese
+en= Hormesis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012002
@@ -100637,6 +100702,8 @@ bf= Medikamentregning
 nn= Lækjemiddelrekning
 nn= Legemiddelrekning
 nn= Medikamentrekning
+en= Pharmaceutical calculations
+en= Drug calculations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012208
@@ -107297,6 +107364,7 @@ bf= Pandemiske sykdommer
 nn= Pandemiar
 nn= Pandemiske sjukdomar
 nn= Pandemiske sjukdommar
+en= Pandemics
 tio= 2014-08-25T00:00:00Z
 st= REAL015558
 st= REAL020880
@@ -125076,6 +125144,7 @@ tie= 2015-02-11T00:00:00Z
 id= REAL031341
 te= Feilbehandling (medisin)
 nn= Feilbehandling (medisin)
+en= Medical malpractice
 tio= 2015-02-12T00:00:00Z
 tie= 2015-02-12T00:00:00Z
 
