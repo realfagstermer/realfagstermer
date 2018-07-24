@@ -1305,6 +1305,7 @@ bf= Nydarwinisme
 nn= Neodarwinisme
 nn= Ny-darwinisme
 nn= Nydarwinisme
+en= Neo-Darwinism
 tio= 2014-08-25T00:00:00Z
 tie= 2015-01-30T00:00:00Z
 
@@ -3715,6 +3716,8 @@ ba= ne
 bf= Aktivt oksygen
 nn= Reaktive oksygensambindingar
 nn= Aktivt oksygen
+en= Reactive oxygen species
+en= Active oxygen
 tio= 2014-08-25T00:00:00Z
 tie= 2017-08-08T11:05:34Z
 
@@ -4815,6 +4818,7 @@ id= REAL000565
 te= Trekkfugler
 ba= nb
 nn= Trekkfuglar
+en= Migratory birds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000566
@@ -22868,6 +22872,7 @@ nn= Organiske antimonsambindingar
 nn= Organoantimon
 en= Organoantimony compounds
 en= Organoantimony
+en= Organoantimony chemistry
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T19:38:38Z
 
@@ -24468,6 +24473,7 @@ id= REAL002913
 te= Fenotyper
 ba= nb
 nn= Fenotypar
+en= Phenotypes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002914
@@ -26163,6 +26169,8 @@ id= REAL003112
 te= Immunocytokjemi
 ba= nb
 nn= Immunocytokjemi
+en= Immunocytochemistry
+en= ICC
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003113
@@ -29636,6 +29644,7 @@ id= REAL003534
 te= Hanle-effekten
 ba= na
 nn= Hanle-effekten
+en= Hanle effect
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003536
@@ -30437,6 +30446,9 @@ id= REAL003634
 te= Inflasjonsteori
 ba= na
 nn= Inflasjonsteori
+en= Inflation theory
+en= Inflationary cosmology
+en= Cosmic inflation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003635
@@ -37801,6 +37813,7 @@ ba= ns
 bf= Intracellulær trafikk
 nn= Intracellulær transport
 nn= Intracellulær trafikk
+en= Intracellular transport
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-08T09:10:30Z
 
@@ -40815,6 +40828,8 @@ id= REAL004899
 te= Dyrekommunikasjon
 ba= nb
 nn= Dyrekommunikasjon
+en= Animal communication
+en= Animal signals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004900
@@ -42534,6 +42549,7 @@ te= Fenologi
 ba= nb
 ba= nq
 nn= Fenologi
+en= Phenology
 tio= 2014-08-25T00:00:00Z
 st= REAL029931
 
@@ -44253,6 +44269,8 @@ bf= Optisk mikroskopi
 nn= Ljosmikroskopi
 nn= Lysmikroskopi
 nn= Optisk mikroskopi
+en= Optical microscopy
+en= Light microscopy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005332
@@ -45283,6 +45301,9 @@ bf= Dyrebeskyttelse
 bf= Dyrevelferd
 nn= Dyrevern
 nn= Dyrevelferd
+en= Animal welfare
+en= Animal rights
+en= Animal protection
 tio= 2014-08-25T00:00:00Z
 tie= 2015-09-22T09:12:26Z
 st= REAL017975
@@ -45489,6 +45510,7 @@ ba= nk
 ba= nb
 ba= nm
 nn= Leik
+en= Play
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005490
@@ -51316,6 +51338,7 @@ id= REAL006197
 te= Feminisering
 ba= nb
 nn= Feminisering
+en= Feminization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006198
@@ -51591,6 +51614,7 @@ id= REAL006226
 te= Ultrafiltrering
 ba= nb
 nn= Ultrafiltrering
+en= Ultrafiltration
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006227
@@ -53436,6 +53460,7 @@ id= REAL006434
 te= Myologi
 ba= nb
 nn= Myologi
+en= Myology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006436
@@ -59041,6 +59066,7 @@ id= REAL007084
 te= Telomerer
 ba= nb
 nn= Telomerar
+en= Telomeres
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007085
@@ -60488,6 +60514,7 @@ te= Hagedammer
 ba= nb
 so= REAL003169
 nn= Hagedammar
+en= Garden ponds
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T18:29:59Z
 
@@ -63590,6 +63617,7 @@ ba= na
 bf= Kronometre
 nn= Kronometri
 nn= Kronometer
+en= Chronometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007640
@@ -65880,6 +65908,7 @@ id= REAL007925
 te= Leonidene
 ba= na
 nn= Leonidane
+en= Leonids
 tio= 2014-08-25T00:00:00Z
 st= REAL028435
 
@@ -67666,6 +67695,9 @@ ba= nk
 bf= Organiske fluorforbindelser
 ot= REAL000026
 nn= Organiske fluorsambindingar
+en= Organofluorine compounds
+en= Organofluorine chemistry
+en= Organofluorines
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T18:52:01Z
 
@@ -68438,6 +68470,9 @@ so= REAL004482
 nn= Rekombinasjon
 nn= Genetisk rekombinasjon
 nn= Genetisk rekombinering
+en= Genetic recombination
+en= Recombination
+en= Genetic reshuffling
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-26T12:00:04Z
 st= REAL024661
@@ -71483,6 +71518,8 @@ ba= na
 bf= Cepheider
 nn= Kefeid
 nn= Cepheid
+en= Cepheids variables
+en= Cepheid variables
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008587
@@ -71946,6 +71983,7 @@ id= REAL008646
 te= Zoonoser
 ba= nb
 nn= Zoonosar
+en= Zoonoses
 tio= 2014-08-25T00:00:00Z
 st= REAL014808
 st= REAL018656
@@ -75066,6 +75104,7 @@ te= Kvantitativ genetikk
 ba= nb
 ba= nm
 nn= Kvantitativ genetikk
+en= Quantitative genetics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009029
@@ -77618,6 +77657,7 @@ id= REAL009333
 te= Armillarsfærer
 ba= na
 nn= Armillarsfærar
+en= Armillary spheres
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009334
@@ -77944,6 +77984,7 @@ id= REAL009374
 te= Jupiter-familien
 ba= na
 nn= Jupiter-familien
+en= Jupiter family comets
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009375
@@ -79190,6 +79231,8 @@ ot= REAL001240
 ot= REAL002546
 nn= Nikkelorganiske sambindingar
 nn= Organiske nikkelsambindingar
+en= Organonickel compounds
+en= Organonickel chemistry
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T19:31:55Z
 
@@ -79223,6 +79266,7 @@ ba= ns
 bf= Genetisk diversitet
 nn= Genetisk variasjon
 nn= Genetisk diversitet
+en= Genetic diversity
 tio= 2014-08-25T00:00:00Z
 st= REAL022671
 st= REAL028912
@@ -80536,6 +80580,7 @@ ba= ns
 nn= Gangliar
 nn= Ganglie
 nn= Ganglion
+en= Ganglia
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009694
@@ -85051,6 +85096,8 @@ id= REAL010218
 te= Immunisering
 ba= ne
 nn= Immunisering
+en= Immunization
+en= Immunisation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010219
@@ -85233,6 +85280,7 @@ id= REAL010239
 te= Kommunikasjonssatellitter
 ba= na
 nn= Kommunikasjonssatellittar
+en= Communications satellites
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010240
@@ -90523,6 +90571,7 @@ id= REAL010911
 te= Krystalloptikk
 ba= na
 nn= Krystalloptikk
+en= Crystal optics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010912
@@ -92890,6 +92939,9 @@ bf= Organiske kopperforbindelser
 bf= Organiske kobberforbindelser
 nn= Organiske koparsambindingar
 nn= Kobberorganiske sambindingar
+en= Organocopper compounds
+en= Organic copper compunds
+en= Organocopper chemistry
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T18:54:44Z
 
@@ -92913,6 +92965,7 @@ id= REAL011228
 te= Genetikere
 ba= nb
 nn= Genetikarar
+en= Geneticists
 tio= 2014-08-25T00:00:00Z
 st= REAL029978
 
@@ -92960,6 +93013,7 @@ te= Krumme rom
 ba= na
 ba= nm
 nn= Krumme rom
+en= Curved spaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011238
@@ -93532,6 +93586,7 @@ id= REAL011305
 te= Insektøkologi
 ba= nb
 nn= Insektøkologi
+en= Insect ecology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011306
@@ -97333,6 +97388,9 @@ id= REAL011758
 te= Kjemiske reseptorer
 ba= nb
 nn= Kjemiske reseptorar
+en= Chemoreceptors
+en= Chemical receptors
+en= Chemosensors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011759
@@ -101546,6 +101604,7 @@ id= REAL012269
 te= Lagrange-punkter
 ba= na
 nn= Lagrange-punkt
+en= Lagrangian points
 tio= 2014-08-25T00:00:00Z
 st= REAL025642
 
@@ -108862,6 +108921,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012894
 te= Ikke-kodende RNA
 nn= Ikkje-kodande RNA
+en= Non-coding RNA
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012895
@@ -110406,6 +110466,7 @@ id= REAL013040
 te= Ligningsteori
 bf= Likningsteori
 nn= Likningsteori
+en= Theory of equations
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T18:19:50Z
 
@@ -112520,6 +112581,8 @@ ba= nb
 bf= Dyrefysiologi
 nn= Zoofysiologi
 nn= Dyrefysiologi
+en= Zoophysiology
+en= Animal physiology
 tio= 2014-08-25T00:00:00Z
 st= REAL021011
 st= REAL027090
@@ -119840,6 +119903,7 @@ ba= nb
 so= REAL013720
 nn= Genmodifiserte planter
 nn= Genmodifiserte plantar
+en= Genetically modified plants
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-10T10:04:00Z
 st= REAL019268
@@ -123472,6 +123536,10 @@ nn= Fylogenetisk analyse
 nn= Fylogenetisk klassifikasjon
 nn= Fylogenetiske tre
 nn= Fylogenomikk
+en= Phylogenetics
+en= Phylogenetic trees
+en= Phylogenetic classification
+en= Phylogenetic analysis
 tio= 2014-08-25T00:00:00Z
 st= REAL025837
 
