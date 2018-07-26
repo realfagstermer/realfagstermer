@@ -4552,6 +4552,7 @@ ba= ngh
 ba= nm
 ba= nq
 bf= Aktivitetsområder
+ut= REAL007036
 nn= Habitat
 nn= Aktivitetsområde
 tio= 2014-08-25T00:00:00Z
@@ -5740,13 +5741,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000683
 te= Mikrober
-ba= nk
-ba= nb
-ba= nc
-ba= ns
-nn= Mikrobar
 tio= 2014-08-25T00:00:00Z
-st= REAL018481
+tis= 2018-07-26T14:24:30Z
+fly= REAL011691
 
 id= REAL000684
 te= Fylogeografi
@@ -20040,9 +20037,8 @@ fly= REAL010778
 
 id= REAL002401
 te= Heterogenitet
-ba= nb
-nn= Heterogenitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-26T13:32:59Z
 
 id= REAL002402
 te= Symptomer
@@ -26830,11 +26826,9 @@ tie= 2017-10-13T20:21:44Z
 
 id= REAL003196
 te= Fotokjemiske oksidanter
-ba= nb
-bf= Fotokjemiske oksydanter
-nn= Fotokjemiske oksydantar
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-12T17:13:13Z
+tis= 2018-07-26T13:10:43Z
 
 id= REAL003198
 te= Skulpturer
@@ -30673,9 +30667,8 @@ fly= REAL007527
 
 id= REAL003656
 te= Forankring
-ba= nm
-nn= Forankring
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-26T13:09:24Z
 
 id= REAL003657
 te= Ferskvannsplankton
@@ -31181,8 +31174,8 @@ nn= Metersystemet
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-25T15:27:32Z
 st= REAL017025
-st= REAL028878
 st= REAL018755
+st= REAL028878
 
 id= REAL003719
 te= Gjenkjenning
@@ -44321,12 +44314,14 @@ ba= nk
 ba= nb
 bf= Optisk mikroskopi
 ut= REAL032022
+ut= REAL032023
 nn= Ljosmikroskopi
 nn= Lysmikroskopi
 nn= Optisk mikroskopi
 en= Optical microscopy
 en= Light microscopy
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-26T15:52:40Z
 
 id= REAL005332
 te= Cerro Tololo Inter-American Observatory
@@ -57522,9 +57517,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006892
 te= Historisk botanikk
-ba= nq
-nn= Historisk botanikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-26T13:59:51Z
 
 id= REAL006893
 te= Ultralyd
@@ -57672,10 +57666,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006912
 te= Mikroanatomi
-ba= nb
-nn= Mikroanatomi
 tio= 2014-08-25T00:00:00Z
-st= REAL016898
+tis= 2018-07-26T14:23:08Z
+fly= REAL010737
 
 id= REAL006913
 te= Iterative metoder
@@ -58726,6 +58719,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007036
 te= Mikrohabitater
 ba= nb
+ot= REAL000539
 nn= Mikrohabitat
 tio= 2014-08-25T00:00:00Z
 
@@ -63243,11 +63237,12 @@ te= Menneskekroppen
 ba= nb
 ba= ns
 bf= Kroppen
+so= REAL013846
 nn= Menneskekroppen
 nn= Kroppen
 en= Human body
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-19T11:28:58Z
+tie= 2018-07-26T14:21:58Z
 st= REAL024143
 st= REAL024973
 st= REAL026856
@@ -71757,11 +71752,18 @@ st= REAL028417
 st= REAL029771
 
 id= REAL008607
-te= Narkotiske planter
+te= Psykoaktive planter
 ba= nb
+bf= Psykedeliske planter
+bf= Narkotiske planter
 nn= Narkotiske planter
 nn= Narkotiske plantar
+nn= Psykoaktive planter
+nn= Psykoaktive plantar
+nn= Psykedeliske planter
+nn= Psykedeliske plantar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-26T14:54:50Z
 
 id= REAL008608
 te= Fossile dinoflagellatcyster
@@ -72454,9 +72456,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008685
 te= Heterogeniteter
-ba= ngh
-nn= Heterogenitetar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-26T13:33:42Z
 
 id= REAL008686
 te= Kriminaletterforskning
@@ -72487,9 +72488,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008690
 te= Molekylteori
 ba= nk
+bf= Moleylarisme
 nn= Molekylteori
+nn= Molekylarisme
+en= Molecular theory
+en= Molecularism
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-26T16:10:08Z
 st= REAL026347
+st= REAL032024
 
 id= REAL008691
 te= Programpakker
@@ -76756,8 +76763,10 @@ id= REAL009212
 te= Plantesuksesjon
 ba= nb
 ba= nq
+ot= REAL013795
 nn= Plantesuksesjon
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-26T12:46:51Z
 
 id= REAL009213
 te= Endocytose
@@ -86710,10 +86719,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010400
 te= Markører
-ba= nb
-ba= nq
-nn= Markørar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-26T14:39:11Z
 
 id= REAL010401
 te= Snømålinger
@@ -87874,16 +87881,17 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-01-18T16:32:44Z
 
 id= REAL010558
-te= Mikrosatellitter
+te= Genetiske markører
 ba= ni
 ba= na
 ba= nb
-bf= Genetiske markører
-nn= Mikrosatellittar
+bf= Mikrosatellitter
 nn= Genetiske markørar
-en= Microsatellites
+nn= Mikrosatellittar
 en= Genetic markers
+en= Microsatellites
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-26T14:37:42Z
 
 id= REAL010559
 te= Spiralgalakser
@@ -89316,8 +89324,10 @@ ba= ngh
 ba= nq
 ba= ns
 bf= Vevslære
+bf= Mikroanatomi
 nn= Histologi
 nn= Vevslære
+nn= Mikroanatomi
 en= Histology
 tio= 2014-08-25T00:00:00Z
 st= REAL017309
@@ -96932,7 +96942,9 @@ ba= nc
 ba= ne
 ba= nq
 ba= ns
+bf= Mikrober
 nn= Mikroorganismar
+nn= Mikrobar
 en= Microorganisms
 tio= 2014-08-25T00:00:00Z
 st= REAL014136
@@ -98620,9 +98632,8 @@ st= REAL015815
 
 id= REAL011885
 te= Nevromuskulær overføring
-ba= nb
-nn= Nevromuskulær overføring
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-26T12:53:01Z
 
 id= REAL011886
 te= Normalisering
@@ -103445,8 +103456,8 @@ en= Meteorite craters
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-25T14:50:05Z
 st= REAL016924
-st= REAL020117
 st= REAL017494
+st= REAL020117
 st= REAL029207
 
 id= REAL012422
@@ -111881,9 +111892,8 @@ fly= REAL008352
 
 id= REAL013172
 te= Tropiske dyrehager
-so= REAL012665
-nn= Tropiske dyrehagar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-07-26T12:21:10Z
 
 id= REAL013173
 te= Økonomisk matematikk
@@ -120998,12 +121008,14 @@ ba= nb
 ba= ngh
 bf= Økologisk suksesjon
 bf= Suksesjoner
+ut= REAL009212
 nn= Suksesjon
 nn= Suksesjonar
 nn= Økologisk suksesjon
 en= Succession
 en= Ecological succession
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-26T12:46:51Z
 
 id= REAL013796
 te= Horisontal genoverføring
@@ -121433,14 +121445,13 @@ id= REAL013818
 te= Mykoser
 ba= nb
 bf= Soppinfeksjoner
-bf= Medisinsk mykologi
 so= REAL013816
 so= REAL013632
-no= Bruk ved soppsykdommer hos menneske
+no= Bruk ved soppsykdommer hos menneske (og andre dyr?)
 nn= Mykosar
-nn= Medisinsk mykologi
 nn= Soppinfeksjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-26T14:47:20Z
 
 id= REAL013819
 te= Hypertext markup language
@@ -122338,8 +122349,10 @@ te= Menneskets fysiologi
 ba= nb
 ba= ns
 bf= Humanfysiologi
+so= REAL007581
 nn= Humanfysiologi
 tio= 2014-08-25T00:00:00Z
+tie= 2018-07-26T14:21:59Z
 st= REAL019323
 st= REAL026962
 st= REAL029758
@@ -128360,4 +128373,12 @@ en= Epifluorescence microscopy
 en= Single-molecule fluorescence microscopy
 tio= 2018-07-25T12:58:37Z
 tie= 2018-07-25T13:00:48Z
+
+id= REAL032023
+te= Fasekontrastmikroskopi
+ot= REAL005331
+nn= Fasekontrastmikroskopi
+en= Phase-contrast microscopy
+tio= 2018-07-26T15:52:33Z
+tie= 2018-07-26T15:53:08Z
 
