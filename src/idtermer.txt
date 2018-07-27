@@ -66,6 +66,7 @@ id= REAL000012
 te= Mikrosirkulasjon
 ba= nb
 nn= Mikrosirkulasjon
+en= Microcirculation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000013
@@ -1002,6 +1003,9 @@ id= REAL000120
 te= Monoklonale antistoffer
 ba= nb
 nn= Monoklonale antistoff
+en= Monoclonal antibodies
+en= moAb
+en= mAb
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000121
@@ -1749,6 +1753,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Lipoprotein
+en= Lipoproteins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000205
@@ -2528,6 +2533,7 @@ ba= nk
 ba= nb
 ba= ne
 nn= Oligosakkarid
+en= Oligosaccharides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000300
@@ -3278,6 +3284,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Liposom
+en= Liposomes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000393
@@ -4176,6 +4183,7 @@ id= REAL000494
 te= Transgene organismer
 ba= nb
 nn= Transgene organismar
+en= Transgenic organisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000495
@@ -5158,6 +5166,7 @@ id= REAL000607
 te= Retrovirus
 ba= nb
 nn= Retrovirus
+en= Retrovirus
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000608
@@ -6698,6 +6707,7 @@ ba= nb
 ba= ne
 so= REAL003285
 nn= Sterilisering
+en= Sterilization
 de= Metode for å gjøre en organisme ute av stand til å reprodusere.
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-30T13:30:40Z
@@ -7247,6 +7257,7 @@ id= REAL000869
 te= Pingviner
 ba= nb
 nn= Pingvinar
+en= Penguins
 tio= 2014-08-25T00:00:00Z
 st= REAL014793
 st= REAL024511
@@ -9003,6 +9014,7 @@ ba= nq
 bf= Mikroklimatologi
 nn= Mikroklima
 nn= Mikroklimatologi
+en= Microclimate
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001069
@@ -12261,6 +12273,7 @@ te= Marinbotanikk
 ba= nb
 ba= ns
 nn= Marinbotanikk
+en= Marine botany
 tio= 2014-08-25T00:00:00Z
 st= REAL024866
 
@@ -12544,6 +12557,7 @@ id= REAL001494
 te= Nervegifter
 ba= nb
 nn= Nervegifter
+en= Neurotoxins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001495
@@ -14033,6 +14047,7 @@ nn= Nevrologiske sjukdomar
 nn= Nervesjukdomar
 nn= Nervesjukdommar
 nn= Nevrologiske sjukdommar
+en= Neurology
 de= Medisinsk felt om sykdommer i det sentrale og perifere nervesystemet, samt enkelte muskelsykdommer
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-02T11:38:58Z
@@ -14369,6 +14384,7 @@ id= REAL001724
 te= Røde hunder
 ba= nb
 nn= Raude hundar
+en= Rubella
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001725
@@ -15762,6 +15778,7 @@ id= REAL001895
 te= Dypvannsfiske
 ba= nb
 nn= Djupvassfiske
+en= Deep sea fishing
 tio= 2014-08-25T00:00:00Z
 st= REAL025214
 st= REAL026323
@@ -16825,6 +16842,7 @@ id= REAL002031
 te= Mikrobiell metabolisme
 ba= nb
 nn= Mikrobiell metabolisme
+en= Microbial metabolism
 tio= 2014-08-25T00:00:00Z
 st= REAL031834
 
@@ -18319,6 +18337,7 @@ ba= nk
 ba= nb
 ba= ne
 nn= Serum
+en= Serum
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002194
@@ -18603,6 +18622,7 @@ te= Morfologisk differensiering
 ba= nb
 so= REAL009262
 nn= Morfologisk differensiering
+en= Morphological differentiation
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-09T16:28:41Z
 
@@ -22377,6 +22397,7 @@ id= REAL002668
 te= Etnomykologi
 ba= nb
 nn= Etnomykologi
+en= Ethnomycology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002669
@@ -22653,6 +22674,7 @@ id= REAL002703
 te= Dyreparasittologi
 ba= nb
 nn= Dyreparasittologi
+en= Animal parasitology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002704
@@ -23314,6 +23336,7 @@ id= REAL002780
 te= Mikrobiell aktivitet
 ba= nb
 nn= Mikrobiell aktivitet
+en= Microbial activity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002781
@@ -23364,6 +23387,7 @@ ba= nk
 ba= nb
 ba= nc
 nn= Spormetall
+en= Trace metals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002786
@@ -23627,6 +23651,7 @@ id= REAL002818
 te= Kultivering
 ba= nb
 nn= Kultivering
+en= Cultivation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002819
@@ -25595,6 +25620,8 @@ id= REAL003051
 te= Mikrobiell økologi
 ba= nb
 nn= Mikrobiell økologi
+en= Microbial ecology
+en= Environmental microbiology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003052
@@ -25880,6 +25907,7 @@ id= REAL003077
 te= Marin primærproduksjon
 ba= nb
 nn= Marin primærproduksjon
+en= Marine primary production
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003078
@@ -26673,6 +26701,7 @@ id= REAL003175
 te= Ris
 ba= nb
 nn= Ris
+en= Rice
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003176
@@ -27215,6 +27244,7 @@ te= Mykotoksiner
 ba= nb
 ba= ne
 nn= Mykotoksin
+en= Mycotoxins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003249
@@ -27411,6 +27441,7 @@ ba= nk
 ba= nb
 ba= ne
 nn= Proteomikk
+en= Proteomics
 tio= 2014-08-25T00:00:00Z
 st= REAL026204
 st= REAL029274
@@ -27768,6 +27799,7 @@ id= REAL003322
 te= Mikronæringsstoffer
 ba= nb
 nn= Mikronæringsstoff
+en= Micronutrients
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003323
@@ -28197,6 +28229,7 @@ ba= nb
 ba= ns
 nn= Veslehjernen
 nn= Litlehjernen
+en= Cerebellum
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003364
@@ -28515,6 +28548,7 @@ id= REAL003401
 te= Mikrobiell nedbrytning
 ba= nb
 nn= Mikrobiell nedbryting
+en= Microbial deterioration
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003402
@@ -29275,6 +29309,7 @@ id= REAL003491
 te= Nukleoproteiner
 ba= nb
 nn= Nukleoprotein
+en= Nucleoproteins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003492
@@ -29921,6 +29956,7 @@ ba= nq
 ba= ns
 nn= Formeiring
 nn= Øksling
+en= Reproduction
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003569
@@ -30020,6 +30056,7 @@ id= REAL003583
 te= Lokal utryddelse
 ba= nb
 nn= Lokal utrydding
+en= Local extinction
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003584
@@ -32357,6 +32394,7 @@ te= Lipopolysakkarider
 ba= nk
 ba= nb
 nn= Lipopolysakkarid
+en= Lipopolysaccharides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003852
@@ -32810,6 +32848,7 @@ ba= nb
 ba= nq
 nn= Parasittiske planter
 nn= Parasittiske plantar
+en= Parasitic plants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003903
@@ -33716,6 +33755,7 @@ ba= nb
 ba= nq
 nn= Plantevekst
 nn= Plantevokster
+en= Plant growth
 tio= 2014-08-25T00:00:00Z
 st= REAL019162
 st= REAL028654
@@ -33980,6 +34020,7 @@ te= Nevropeptider
 ba= nk
 ba= nb
 nn= Nevropeptid
+en= Neuropeptides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004058
@@ -36353,6 +36394,7 @@ id= REAL004335
 te= Mikrodiffusjon
 ba= nb
 nn= Mikrodiffusjon
+en= Microdiffusion
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004336
@@ -36605,6 +36647,7 @@ id= REAL004369
 te= Transferaser
 ba= nb
 nn= Transferasar
+en= Transferases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004370
@@ -36693,6 +36736,7 @@ ba= nc
 ba= nq
 ba= ns
 nn= Limnologi
+en= Limnology
 tio= 2014-08-25T00:00:00Z
 st= REAL014105
 st= REAL014478
@@ -37886,6 +37930,8 @@ id= REAL004527
 te= Nattdyr
 ba= nb
 nn= Nattdyr
+en= Nocturnal animals
+en= Nocturnality
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004528
@@ -38286,6 +38332,7 @@ ba= ns
 bf= Sporelementer
 nn= Sporstoff
 nn= Sporelement
+en= Trace elements
 tio= 2014-08-25T00:00:00Z
 st= REAL024499
 
@@ -38441,6 +38488,10 @@ id= REAL004594
 te= Menneskeforsøk
 ba= ns
 nn= Menneskeforsøk
+en= Human subject research
+en= Human experimentation
+en= Human experiments
+en= Medical experimentation on humans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004595
@@ -38948,6 +38999,7 @@ id= REAL004660
 te= Elektroresepsjon
 ba= nb
 nn= Elektroresepsjon
+en= Electroreception
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004661
@@ -39160,6 +39212,7 @@ id= REAL004687
 te= Molekylære metoder
 ba= nb
 nn= Molekylære metodar
+en= Molecular methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004688
@@ -39396,6 +39449,7 @@ id= REAL004714
 te= Nevroimmunologi
 ba= nb
 nn= Nevroimmunologi
+en= Neuroimmunology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004715
@@ -40146,6 +40200,8 @@ te= Myosiner
 ba= nb
 bf= Myosin
 nn= Myosin
+en= Myosins
+en= Myosin
 tio= 2014-08-25T00:00:00Z
 tie= 2018-02-22T18:35:53Z
 
@@ -41323,6 +41379,7 @@ te= Fytososiologi
 ba= nk
 ba= ns
 nn= Fytososiologi
+en= Phytosociology
 tio= 2014-08-25T00:00:00Z
 st= REAL028542
 st= REAL028737
@@ -41559,6 +41616,7 @@ id= REAL004983
 te= Transgene dyr
 ba= nb
 nn= Transgene dyr
+en= Transgenic animals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004984
@@ -41678,6 +41736,7 @@ id= REAL005001
 te= Sentrosomer
 ba= nb
 nn= Sentrosom
+en= Centrosomes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005002
@@ -43152,6 +43211,7 @@ te= Frøproduksjon
 ba= nb
 ba= nq
 nn= Frøproduksjon
+en= Seed production
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005184
@@ -43372,6 +43432,7 @@ id= REAL005207
 te= Cytokromer
 ba= ns
 nn= Cytokrom
+en= Cytochromes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005208
@@ -43704,6 +43765,8 @@ ba= ngh
 ba= nq
 ba= ns
 nn= Planteanatomi
+en= Plant anatomy
+en= Phytotomy
 tio= 2014-08-25T00:00:00Z
 st= REAL018164
 st= REAL023685
@@ -44251,6 +44314,7 @@ id= REAL005323
 te= Mikrobiell genetikk
 ba= nb
 nn= Mikrobiell genetikk
+en= Microbial genetics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005324
@@ -44988,6 +45052,7 @@ ba= nb
 ba= ne
 ba= nf
 nn= Nukleinsyrer
+en= Nucleic acids
 tio= 2014-08-25T00:00:00Z
 st= REAL018111
 
@@ -45167,6 +45232,7 @@ id= REAL005441
 te= Planteutvikling
 ba= nb
 nn= Planteutvikling
+en= Plant development
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005442
@@ -46096,6 +46162,7 @@ id= REAL005560
 te= Patogene protozoer
 ba= nb
 nn= Patogene protozoar
+en= Pathogenic protozoa
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005562
@@ -48627,6 +48694,7 @@ id= REAL005852
 te= Seksuell seleksjon
 ba= nb
 nn= Seksuell seleksjon
+en= Sexual selection
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005853
@@ -49471,6 +49539,7 @@ id= REAL005962
 te= Fuglemating
 ba= nb
 nn= Fuglemating
+en= Bird feeding
 tio= 2014-08-25T00:00:00Z
 st= REAL025476
 
@@ -50822,6 +50891,8 @@ ba= nb
 bf= 15-lipoksygenase
 nn= Lipoksygenasar
 nn= 15-lipoksygenase
+en= Lipoxygenases
+en= 15-lipoxygenase
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-20T20:14:34Z
 
@@ -51062,6 +51133,7 @@ id= REAL006150
 te= Molekylære mekanismer
 ba= nb
 nn= Molekylære mekanismar
+en= Molecular mechanisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006151
@@ -52159,6 +52231,7 @@ id= REAL006286
 te= Frøspiring
 ba= nb
 nn= Frøspiring
+en= Seed germination
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006287
@@ -54156,6 +54229,7 @@ id= REAL006489
 te= Nukleosider
 ba= nk
 nn= Nukleosid
+en= Nucleosides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006490
@@ -54555,6 +54629,8 @@ ba= ne
 bf= Indre organer
 nn= Organ
 nn= Indre organ
+en= Organs
+en= Internal organs
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-15T20:42:07Z
 
@@ -54634,6 +54710,7 @@ bf= Daglengde
 nn= Fotoperiodisitet
 nn= Daglengd
 nn= Daglengde
+en= Photoperiodism
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-26T09:26:25Z
 
@@ -55204,6 +55281,7 @@ te= Nukleotider
 ba= nk
 ba= nb
 nn= Nukleotid
+en= Nucleotides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006615
@@ -55303,6 +55381,7 @@ id= REAL006626
 te= Fotosystem
 ba= nb
 nn= Fotosystem
+en= Photosystems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006627
@@ -57067,6 +57146,9 @@ bf= Erytrocytter
 bf= Røde blodlegemer
 nn= Raude blodceller
 nn= Erythrocytar
+en= Red blood cell
+en= Erythrocytes
+en= RBCs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006843
@@ -57086,6 +57168,7 @@ id= REAL006845
 te= Reproduksjonsteknologi
 ba= nb
 nn= Reproduksjonsteknologi
+en= Reproductive technology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006846
@@ -57360,6 +57443,7 @@ te= Onkogener
 ba= nb
 ba= ns
 nn= Onkogen
+en= Oncogenes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006877
@@ -57858,6 +57942,8 @@ ba= ngh
 ba= ns
 bf= Poredyr
 nn= Foraminiferar
+en= Foraminifera
+en= Forams
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-19T09:20:42Z
 st= REAL015282
@@ -57964,6 +58050,7 @@ te= Fc-reseptorer
 ba= nb
 ba= ns
 nn= Fc-reseptorar
+en= Fc receptors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006943
@@ -58151,6 +58238,8 @@ nn= Reproduksjonsøkologi
 nn= Forplantingsøkologi
 nn= Forplantningsøkologi
 nn= Økslingsøkologi
+en= Reproductive ecology
+en= Ecology of reproduction
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006965
@@ -58721,6 +58810,7 @@ te= Mikrohabitater
 ba= nb
 ot= REAL000539
 nn= Mikrohabitat
+en= Microhabitats
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007037
@@ -59016,6 +59106,7 @@ id= REAL007073
 te= Luftfuktighet
 ba= nb
 nn= Luftfukt
+en= Humidity
 tio= 2014-08-25T00:00:00Z
 st= REAL021788
 
@@ -62037,6 +62128,7 @@ id= REAL007450
 te= Frøutvikling
 ba= nb
 nn= Frøutvikling
+en= Seed development
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007451
@@ -62307,6 +62399,7 @@ id= REAL007468
 te= Fødsel
 ba= nb
 nn= Fødsel
+en= Birth
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007469
@@ -62378,6 +62471,7 @@ id= REAL007476
 te= Mikrobiell transport
 ba= nb
 nn= Mikrobiell transport
+en= Microbial transport
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007477
@@ -63472,6 +63566,7 @@ te= Maur
 ba= nb
 ba= nq
 nn= Maur
+en= Ants
 tio= 2014-08-25T00:00:00Z
 st= REAL016792
 st= REAL019494
@@ -63730,12 +63825,14 @@ id= REAL007645
 te= Fotomedisin
 ba= nb
 nn= Fotomedisin
+en= Photomedicine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007646
 te= Oligomerer
 ba= nk
 nn= Oligomerar
+en= Oligomers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007647
@@ -65031,6 +65128,7 @@ ba= nk
 ba= nb
 ba= nq
 nn= Frøspreiing
+en= Seed dispersal
 tio= 2014-08-25T00:00:00Z
 st= REAL026557
 st= REAL026631
@@ -66003,6 +66101,7 @@ id= REAL007927
 te= Lysosomer
 ba= nb
 nn= Lysosom
+en= Lysosomes
 tio= 2014-08-25T00:00:00Z
 st= REAL021863
 
@@ -66353,6 +66452,7 @@ ba= ne
 ba= nq
 ba= ns
 nn= Mutasjonar
+en= Mutations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007971
@@ -69284,6 +69384,7 @@ id= REAL008324
 te= Fiksering
 ba= nb
 nn= Fiksering
+en= Fixation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008326
@@ -69645,6 +69746,8 @@ te= Frøhvile
 ba= nk
 ba= nb
 nn= Frøkvile
+en= Seed dormancy
+en= Seed hibernation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008372
@@ -71762,6 +71865,10 @@ nn= Psykoaktive planter
 nn= Psykoaktive plantar
 nn= Psykedeliske planter
 nn= Psykedeliske plantar
+en= Psychoactive plants
+en= Psychedelic plants
+en= Hallucinogenic plants
+en= Narcotic plants
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-26T14:54:50Z
 
@@ -71851,6 +71958,7 @@ id= REAL008618
 te= Heterokroni
 ba= nb
 nn= Heterokroni
+en= Heterochrony
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008619
@@ -72273,6 +72381,7 @@ ba= ne
 ba= ngh
 ba= nq
 nn= Forgifting
+en= Poisoning
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:02:52Z
 st= REAL016422
@@ -73000,6 +73109,7 @@ id= REAL008756
 te= Rhizosfæren
 ba= nb
 nn= Rhizosfæren
+en= Rhizosphere
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008757
@@ -73686,6 +73796,8 @@ id= REAL008842
 te= Fryselagring
 ba= nb
 nn= Fryselagring
+en= Cryopreservation
+en= Cryoconservation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008843
@@ -74347,6 +74459,7 @@ id= REAL008924
 te= Mikrobiell proteomikk
 ba= nb
 nn= Mikrobiell proteomikk
+en= Microbial proteomics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008925
@@ -76765,6 +76878,7 @@ ba= nb
 ba= nq
 ot= REAL013795
 nn= Plantesuksesjon
+en= Plant succession
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-26T12:46:51Z
 
@@ -76914,6 +77028,7 @@ ba= nb
 so= REAL005746
 so= REAL007440
 nn= Nitrogenfiksering
+en= Nitrogen fixation
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T19:23:24Z
 
@@ -77053,6 +77168,7 @@ ba= nk
 ba= nb
 ba= nq
 nn= Parasittisme
+en= Parasitism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009246
@@ -77653,6 +77769,7 @@ te= Metabolitter
 ba= nb
 ba= ne
 nn= Metabolittar
+en= Metabolites
 tio= 2014-08-25T00:00:00Z
 st= REAL020753
 
@@ -78378,6 +78495,7 @@ bf= Neurofysiologi
 nn= Nevrofysiologi
 nn= Neurofysiologi
 nn= Nervefysiologi
+en= Neurophysiology
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-02T11:52:16Z
 st= REAL017573
@@ -78657,6 +78775,8 @@ ba= nb
 bf= Ossifisering
 nn= Forbeining
 nn= Ossifisering
+en= Ossification
+en= Osteogenesis
 tio= 2014-08-25T00:00:00Z
 tie= 2015-08-07T15:03:42Z
 
@@ -78809,6 +78929,7 @@ id= REAL009471
 te= Mikrosomer
 ba= nb
 nn= Mikrosom
+en= Microsomes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009472
@@ -79926,6 +80047,8 @@ bf= Natriumpumpe
 bf= Na+/K+-pumpe
 bf= Na+/K+-ATPase
 nn= Natrium-kalium-pumpe
+en= Sodium–potassium pump
+en= Na+/K+-ATPase
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-12T17:42:04Z
 
@@ -81272,6 +81395,7 @@ id= REAL009770
 te= Plantevirus
 ba= nb
 nn= Plantevirus
+en= Plant viruses
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009771
@@ -81717,6 +81841,7 @@ id= REAL009824
 te= Mykotoksikologi
 ba= nb
 nn= Mykotoksikologi
+en= Mycotoxicology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009825
@@ -82012,6 +82137,7 @@ id= REAL009855
 te= Molekylære klokker
 ba= nb
 nn= Molekylære klokker
+en= Molecular clocks
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009856
@@ -85070,6 +85196,7 @@ id= REAL010200
 te= Organisk avfall
 ba= nb
 nn= Organisk avfall
+en= Organic waste
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010201
@@ -86534,6 +86661,7 @@ id= REAL010376
 te= Pelsdyr
 ba= nb
 nn= Pelsdyr
+en= Fur animals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010377
@@ -88658,6 +88786,7 @@ id= REAL010647
 te= Oligonukleotider
 ba= nb
 nn= Oligonukleotid
+en= Oligonucleotides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010648
@@ -89348,6 +89477,7 @@ te= Fasettøyne
 ba= nb
 nn= Fasettauge
 nn= Fasettaugo
+en= Compound eyes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010740
@@ -90317,6 +90447,8 @@ te= Dyresykdommer
 ba= nb
 nn= Dyresjukdomar
 nn= Dyresjukdommar
+en= Animal diseases
+en= Wildlife diseases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010871
@@ -91189,6 +91321,7 @@ te= Transgene planter
 ba= nb
 nn= Transgene planter
 nn= Transgene plantar
+en= Transgenic plants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010979
@@ -92359,6 +92492,7 @@ id= REAL011129
 te= Patogenese
 ba= nb
 nn= Patogenese
+en= Pathogenesis
 tio= 2014-08-25T00:00:00Z
 st= REAL024597
 
@@ -92495,6 +92629,7 @@ id= REAL011153
 te= Mikrobielle metabolitter
 ba= nb
 nn= Mikrobielle metabolittar
+en= Microbial metabolites
 tio= 2014-08-25T00:00:00Z
 st= REAL016136
 
@@ -92747,6 +92882,7 @@ te= Mutagenese
 ba= nb
 ba= ns
 nn= Mutagenese
+en= Mutagenesis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011189
@@ -92787,6 +92923,7 @@ ba= ne
 bf= Patogene stoffer
 nn= Patogen
 nn= Patogene stoff
+en= Pathogens
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011192
@@ -92912,6 +93049,7 @@ te= Organeller
 ba= nk
 ba= nb
 nn= Organellar
+en= Organelles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011208
@@ -92982,6 +93120,7 @@ ba= nk
 ba= nb
 ba= ns
 nn= Porfyrin
+en= Porphyrins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011218
@@ -93544,6 +93683,7 @@ id= REAL011289
 te= Oksidaser
 ba= nb
 nn= Oksidasar
+en= Oxidases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011290
@@ -93984,6 +94124,7 @@ ba= nb
 bf= Regenerering
 nn= Regenerasjon
 nn= Regenerering
+en= Regeneration
 tio= 2014-08-25T00:00:00Z
 st= REAL015341
 
@@ -94848,6 +94989,8 @@ id= REAL011448
 te= Neoteni
 ba= nb
 nn= Neoteni
+en= Neoteny
+en= Juvenilization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011449
@@ -97947,6 +98090,7 @@ id= REAL011803
 te= Mikrobiell immunitet
 ba= nb
 nn= Mikrobiell immunitet
+en= Microbial immunity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011804
@@ -98988,6 +99132,7 @@ id= REAL011922
 te= Eupatorium
 ba= ns
 nn= Eupatorium
+en= Eupatorium
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011923
@@ -99215,6 +99360,7 @@ id= REAL011949
 te= Sentrifugering
 ba= nb
 nn= Sentrifugering
+en= Centrifugation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011950
@@ -99267,6 +99413,7 @@ id= REAL011957
 te= Histokjemi
 ba= nb
 nn= Histokjemi
+en= Histochemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011958
@@ -100340,6 +100487,7 @@ id= REAL012108
 te= Mikrobielle matter
 ba= nb
 nn= Mikrobielle matter
+en= Microbial mats
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012109
@@ -105434,6 +105582,9 @@ bf= Elektroencefalogrammer
 ak= EEG
 nn= Elektroencefalografi
 nn= Elektroencefalogram
+en= Electroencephalography
+en= EEG
+en= Electroencephalograms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012595
@@ -106221,6 +106372,7 @@ id= REAL012651
 te= Mutualisme
 ba= nb
 nn= Mutualisme
+en= Mutualism
 de= Gjensidig forhold, gjensidighet; samliv mellom forskjellige dyrearter til gjensidig nytte. [SNL]
 tio= 2014-08-25T00:00:00Z
 
@@ -106679,6 +106831,8 @@ bf= Apoptose
 nn= Apoptose
 nn= Programmert celledaude
 nn= Programmert celledød
+en= Programmed cell death
+en= Apoptosis
 de= Programmert celledød
 tio= 2014-08-25T00:00:00Z
 tie= 2015-06-04T15:53:17Z
@@ -107084,6 +107238,8 @@ ba= ngh
 bf= Avl
 nn= Oppdrett
 nn= Avl
+en= Selective breeding
+en= Artificial selection
 tio= 2014-08-25T00:00:00Z
 st= REAL029503
 
@@ -107627,6 +107783,7 @@ te= Oppdrettsfisk
 ba= nb
 so= REAL012751
 nn= Oppdrettsfisk
+en= Farmed fish
 tio= 2014-08-25T00:00:00Z
 st= REAL025050
 
@@ -112314,6 +112471,7 @@ ba= ne
 bf= Gjær
 nn= Gjærsoppar
 nn= Gjær
+en= Yeasts
 de= Typisk encellede sopper som lever i sukkerholdige væsker og formerer seg ved knoppskyting
 tio= 2014-08-25T00:00:00Z
 st= REAL021955
@@ -112341,6 +112499,7 @@ id= REAL013219
 te= Mikrosopper
 ba= nb
 nn= Mikrosoppar
+en= Microfungi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013220
@@ -112369,6 +112528,8 @@ bf= Patogene sopper
 nn= Parasittsoppar
 nn= Parasittiske soppar
 nn= Patogene soppar
+en= Parasitic fungi
+en= Pathogenic fungi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013223
@@ -116336,6 +116497,7 @@ st= REAL027626
 id= REAL013463
 te= Salmonella
 nn= Salmonella
+en= Salmonella
 la= Salmonella
 tio= 2014-08-25T00:00:00Z
 st= REAL019002
@@ -118334,6 +118496,7 @@ ba= ns
 bf= Molekylærgenetikk
 nn= Molekylær genetikk
 nn= Molekylærgenetikk
+en= Molecular genetics
 tio= 2014-08-25T00:00:00Z
 st= REAL014816
 st= REAL024378
@@ -120771,6 +120934,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013780
 te= Histoner
 nn= Histon
+en= Histones
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013781
@@ -121450,6 +121614,9 @@ so= REAL013632
 no= Bruk ved soppsykdommer hos menneske (og andre dyr?)
 nn= Mykosar
 nn= Soppinfeksjonar
+en= Mycoses
+en= Fungus infections
+en= Fungal infections
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-26T14:47:20Z
 
@@ -122351,6 +122518,7 @@ ba= ns
 bf= Humanfysiologi
 so= REAL007581
 nn= Humanfysiologi
+en= Human physiology
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-26T14:21:59Z
 st= REAL019323
@@ -123369,6 +123537,7 @@ ba= nb
 bf= Levende fôr
 nn= Levande føde
 nn= Levande fôr
+en= Live foods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013927
