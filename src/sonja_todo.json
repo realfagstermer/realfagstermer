@@ -1,1 +1,196 @@
-{}
+{
+  "REAL006199": {
+    "prefLabel": "Cryptogams",
+    "altLabel": []
+  },
+  "REAL010560": {
+    "prefLabel": "Phytoplankton",
+    "altLabel": [
+      "Photoplankton",
+      "Planktonic algae"
+    ]
+  },
+  "REAL006828": {
+    "prefLabel": "Plant breeding",
+    "altLabel": []
+  },
+  "REAL006439": {
+    "prefLabel": "Thermal desorption",
+    "altLabel": []
+  },
+  "REAL005980": {
+    "prefLabel": "Polyploidy",
+    "altLabel": []
+  },
+  "REAL013692": {
+    "prefLabel": "Plant toxins",
+    "altLabel": []
+  },
+  "REAL013829": {
+    "prefLabel": "Zoology",
+    "altLabel": [
+      "Animal biology"
+    ]
+  },
+  "REAL001006": {
+    "prefLabel": "Ribosomes",
+    "altLabel": []
+  },
+  "REAL012723": {
+    "prefLabel": "Protozoans",
+    "altLabel": [
+      "Protozoa"
+    ]
+  },
+  "REAL001691": {
+    "prefLabel": "Entomologists",
+    "altLabel": []
+  },
+  "REAL003880": {
+    "prefLabel": "Protists",
+    "altLabel": []
+  },
+  "REAL005440": {
+    "prefLabel": "Termites",
+    "altLabel": []
+  },
+  "REAL005900": {
+    "prefLabel": "Plant ecology",
+    "altLabel": []
+  },
+  "REAL006906": {
+    "prefLabel": "Transposons",
+    "altLabel": [
+      "Jumping genes",
+      "Mobile DNA",
+      "Transposable elements",
+      "Genetic elements",
+      "Transposable genetic elements"
+    ]
+  },
+  "REAL009836": {
+    "prefLabel": "Plant pathology",
+    "altLabel": [
+      "Plant diseases",
+      "Phytopathology"
+    ]
+  },
+  "REAL000304": {
+    "prefLabel": "Polymorphism",
+    "altLabel": []
+  },
+  "REAL011519": {
+    "prefLabel": "Plant genetics",
+    "altLabel": []
+  },
+  "REAL001611": {
+    "prefLabel": "Taurine",
+    "altLabel": []
+  },
+  "REAL009231": {
+    "prefLabel": "Plant cells",
+    "altLabel": []
+  },
+  "REAL003771": {
+    "prefLabel": "Phytogeography",
+    "altLabel": [
+      "Botanical geography",
+      "Geobotany"
+    ]
+  },
+  "REAL005414": {
+    "prefLabel": "Fiber plants",
+    "altLabel": [
+      "Fiber crops"
+    ]
+  },
+  "REAL002642": {
+    "prefLabel": "Plant tissue",
+    "altLabel": []
+  },
+  "REAL008601": {
+    "prefLabel": "Toxicity",
+    "altLabel": []
+  },
+  "REAL009635": {
+    "prefLabel": "Mushroom cultivation",
+    "altLabel": []
+  },
+  "REAL006157": {
+    "prefLabel": "Succulent plants",
+    "altLabel": [
+      "Succulents"
+    ]
+  },
+  "REAL013930": {
+    "prefLabel": "Forest ecology",
+    "altLabel": []
+  },
+  "REAL000231": {
+    "prefLabel": "Fungal physiology",
+    "altLabel": [
+      "Physiology of fungi"
+    ]
+  },
+  "REAL011463": {
+    "prefLabel": "Ultrastructure",
+    "altLabel": []
+  },
+  "REAL008429": {
+    "prefLabel": "Pupae",
+    "altLabel": []
+  },
+  "REAL005035": {
+    "prefLabel": "Toxicology",
+    "altLabel": []
+  },
+  "REAL007359": {
+    "prefLabel": "Plant physiology",
+    "altLabel": []
+  },
+  "REAL004295": {
+    "prefLabel": "Microcalorimetry",
+    "altLabel": []
+  },
+  "REAL009427": {
+    "prefLabel": "Theoretical ecology",
+    "altLabel": []
+  },
+  "REAL002149": {
+    "prefLabel": "Phytosociology",
+    "altLabel": [
+      "Plant sociology"
+    ]
+  },
+  "REAL006961": {
+    "prefLabel": "Terrestrial ecology",
+    "altLabel": [
+      "Terrestrial environments",
+      "Terrestrial ecosystems"
+    ]
+  },
+  "REAL002386": {
+    "prefLabel": "Prokaryotes",
+    "altLabel": []
+  },
+  "REAL008610": {
+    "prefLabel": "Plant cytology",
+    "altLabel": []
+  },
+  "REAL002073": {
+    "prefLabel": "Prions",
+    "altLabel": []
+  },
+  "REAL008812": {
+    "prefLabel": "Zoologists",
+    "altLabel": []
+  },
+  "REAL001419": {
+    "prefLabel": "Terrariums",
+    "altLabel": []
+  },
+  "REAL008806": {
+    "prefLabel": "Ornamental shrubs",
+    "altLabel": []
+  }
+}
