@@ -204,6 +204,7 @@ tie= 2015-02-16T00:00:00Z
 
 id= REAL030089
 te= Håndbøker
+en= Handbooks
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030090
@@ -620,6 +621,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030157
 te= Hovedoppgaver
+en= Master's theses
 tio= 2015-02-20T13:08:04Z
 tie= 2017-10-28T14:53:58Z
 

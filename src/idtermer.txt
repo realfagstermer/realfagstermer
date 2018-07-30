@@ -1075,6 +1075,7 @@ te= Halofytter
 ba= nk
 ba= nb
 nn= Halofyttar
+en= Halophytes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000129
@@ -1266,6 +1267,7 @@ id= REAL000152
 te= Hydroider
 ba= nb
 nn= Hydroid
+en= Hydroids
 tio= 2014-08-25T00:00:00Z
 st= REAL015388
 st= REAL017397
@@ -6702,6 +6704,7 @@ id= REAL000794
 te= Hepatocytter
 ba= nb
 nn= Hepatocyttar
+en= Hepatocytes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000795
@@ -8570,6 +8573,7 @@ id= REAL001020
 te= Fotoinhibering
 ba= nb
 nn= Fotoinhibering
+en= Photoinhibition
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001021
@@ -15517,6 +15521,9 @@ ba= nb
 ba= nm
 so= REAL031762
 nn= Genetisk drift
+en= Genetic drift
+en= Sewall Wright effect
+en= Allelic drift
 tio= 2014-08-25T00:00:00Z
 tie= 2016-12-01T12:13:13Z
 
@@ -16186,6 +16193,8 @@ id= REAL001950
 te= Hypofysen
 ba= nb
 nn= Hypofysen
+en= Pituitary gland
+en= Hypophysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001951
@@ -17684,6 +17693,7 @@ ba= ns
 bf= Storhjernebarken
 nn= Hjerneborken
 nn= Storhjerneborken
+en= Cerebral cortex
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002125
@@ -18192,6 +18202,8 @@ id= REAL002172
 te= Kontroversiell vitenskap
 ba= ns
 nn= Kontroversiell vitskap
+en= Fringe science
+en= Controversial science
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-27T20:36:06Z
 
@@ -18572,6 +18584,7 @@ id= REAL002223
 te= Horn
 ba= nb
 nn= Horn
+en= Horns
 tio= 2014-08-25T00:00:00Z
 st= REAL020086
 
@@ -24687,6 +24700,8 @@ ba= nk
 bf= Hyperakkumulasjon
 nn= Hyperakkumulatorar
 nn= Hyperakkumulasjon
+en= Hyperaccumulators
+en= Hyperaccumulation
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-06T16:34:29Z
 
@@ -33097,6 +33112,7 @@ ba= nb
 bf= Takker
 nn= Gevir
 nn= Takkar
+en= Antlers
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-06T16:47:36Z
 
@@ -39913,6 +39929,7 @@ id= REAL004770
 te= Honning
 ba= nb
 nn= Honning
+en= Honey
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004771
@@ -42779,6 +42796,7 @@ id= REAL005123
 te= Kritisk teori
 ba= nm
 nn= Kritisk teori
+en= Critical theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005124
@@ -44907,6 +44925,8 @@ ba= nb
 bf= Marine fytoflagellater
 nn= Fytoflagellatar
 nn= Marine fytoflagellatar
+en= Phytoflagellates
+en= Marine phytoflagellates
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005398
@@ -46024,6 +46044,7 @@ id= REAL005537
 te= Hår
 ba= nb
 nn= Hår
+en= Hair
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005538
@@ -52712,6 +52733,7 @@ id= REAL006329
 te= Honningbier
 ba= nb
 nn= Honningbier
+en= Honey bees
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006330
@@ -58128,6 +58150,8 @@ ba= ns
 bf= Forhandlinger
 nn= Forhandlingsteknikk
 nn= Forhandlingar
+en= Negotiation technique
+en= Negotiations
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-21T20:47:27Z
 st= REAL019542
@@ -64883,6 +64907,7 @@ te= Honningplanter
 ba= ns
 nn= Honningplanter
 nn= Honningplantar
+en= Honey plants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007766
@@ -65007,6 +65032,7 @@ id= REAL007780
 te= Fugleøkologi
 ba= nb
 nn= Fugleøkologi
+en= Bird ecology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007781
@@ -65632,6 +65658,8 @@ ba= ns
 bf= Gotisk håndskrift
 nn= Handskrift
 nn= Gotisk handskrift
+en= Handwriting
+en= Gothic handwriting
 tio= 2014-08-25T00:00:00Z
 tie= 2017-05-11T13:27:12Z
 
@@ -70999,6 +71027,7 @@ id= REAL008499
 te= Hudkjertler
 ba= nb
 nn= Hudkjertlar
+en= Skin glands
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008500
@@ -81176,6 +81205,7 @@ te= Innavl
 ba= nb
 ba= nm
 nn= Innavl
+en= Inbreeding
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009737
@@ -81942,6 +81972,7 @@ te= Ingeniørmatematikk
 ba= nf
 ba= nm
 nn= Ingeniørmatematikk
+en= Engineering mathematics
 tio= 2014-08-25T00:00:00Z
 st= REAL031313
 
@@ -82255,6 +82286,7 @@ bf= Høytemperatur-superledere
 so= REAL012569
 nn= Høgtemperatur-superleiing
 nn= Høgtemperatur-superleiarar
+en= High-temperature superconductivity
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-13T18:59:03Z
 st= REAL019202
@@ -87805,6 +87837,8 @@ te= Frimerker
 ba= nk
 ba= nm
 nn= Frimerke
+en= Postage stamps
+en= Stamps
 tio= 2014-08-25T00:00:00Z
 st= REAL019512
 
@@ -94911,6 +94945,7 @@ id= REAL011435
 te= Fugleunger
 ba= nb
 nn= Fugleungar
+en= Fledglings
 tio= 2014-08-25T00:00:00Z
 st= REAL018833
 st= REAL024505
@@ -98057,6 +98092,7 @@ te= Ingeniørutdanning
 ba= nm
 ba= ns
 nn= Ingeniørutdanning
+en= Engineering education
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011793
@@ -99657,6 +99693,7 @@ id= REAL011982
 te= Hermafrodittisme
 ba= nb
 nn= Hermafrodittisme
+en= Hermaphroditism
 tio= 2014-08-25T00:00:00Z
 st= REAL014431
 
@@ -101469,6 +101506,7 @@ bf= Høyskoler
 so= REAL012219
 nn= Høgskular
 nn= Høgskolar
+en= University colleges
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012221
@@ -105583,6 +105621,7 @@ id= REAL012588
 te= Gjeller
 ba= nb
 nn= Gjeller
+en= Gills
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012589
