@@ -40370,12 +40370,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004826
 te= Naturprodukter
-ba= nk
-ba= ne
-nn= Naturprodukt
 tio= 2014-08-25T00:00:00Z
-st= REAL020736
-st= REAL031264
+tis= 2018-08-02T12:45:06Z
+fly= REAL011068
 
 id= REAL004827
 te= Vitenskapelige teorier
@@ -88574,9 +88571,9 @@ st= REAL029678
 
 id= REAL010612
 te= Naturstoffkjemi
-ba= ne
-nn= Naturstoffkjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-02T12:03:10Z
+fly= REAL011068
 
 id= REAL010613
 te= Revebjelle
@@ -92063,13 +92060,19 @@ id= REAL011068
 te= Naturstoffer
 ba= nk
 ba= ns
+bf= Naturstoffkjemi
+bf= Naturprodukter
+ut= REAL032025
 nn= Naturstoff
+nn= Naturstoffkjemi
+nn= Naturprodukt
 tio= 2014-08-25T00:00:00Z
 st= REAL014887
 st= REAL015358
 st= REAL015697
 st= REAL017108
 st= REAL017734
+st= REAL031264
 
 id= REAL011069
 te= Arkivvesen
@@ -128658,4 +128661,12 @@ nn= Fasekontrastmikroskopi
 en= Phase-contrast microscopy
 tio= 2018-07-26T15:52:33Z
 tie= 2018-07-26T15:53:08Z
+
+id= REAL032025
+te= Marine naturstoffer
+ot= REAL011068
+nn= Marine naturstoff
+en= Marine natural products
+tio= 2018-08-02T11:57:46Z
+tie= 2018-08-02T11:58:22Z
 
