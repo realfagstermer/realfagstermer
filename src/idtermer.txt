@@ -108458,6 +108458,7 @@ bf= Halvlederkomponenter
 so= REAL005740
 so= REAL003096
 so= REAL004974
+ut= REAL032026
 no= Brukes for beskrivelser av halvlederkomponenter, og bruk og produksjon av disse.
 nn= Halvleiarteknikk
 nn= Halvleiarteknologi
@@ -108468,7 +108469,7 @@ en= Semi-conductor technology
 en= Semi-conductor devices
 en= Semiconductor device physics
 tio= 2014-08-25T00:00:00Z
-tie= 2018-04-30T23:30:50Z
+tie= 2018-08-03T20:56:22Z
 st= REAL029817
 
 id= REAL012806
@@ -113387,6 +113388,7 @@ tio= 2014-08-25T00:00:00Z
 st= REAL022280
 st= REAL028758
 st= REAL029974
+st= REAL032027
 
 id= REAL013280
 te= Planetariske tåker
@@ -128672,4 +128674,17 @@ nn= Marine naturstoff
 en= Marine natural products
 tio= 2018-08-02T11:57:46Z
 tie= 2018-08-02T11:58:22Z
+
+id= REAL032026
+te= Båndgapsteknikk
+bf= Båndgapsmanipulering
+ot= REAL012805
+nn= Bandgapsteknikk
+nn= Bandgapsmanipulering
+en= Band-gap engineering
+en= Bandgap engineering
+en= Band gap engineering
+de= Metoder for å justere og måle båndgap i et halvledermateriale
+tio= 2018-08-03T20:52:45Z
+tie= 2018-08-03T20:56:22Z
 
