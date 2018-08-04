@@ -1,1 +1,173 @@
-{}
+{
+  "REAL006823": {
+    "prefLabel": "SPIN",
+    "altLabel": [
+      "SPIN model checker",
+      "Promela"
+    ]
+  },
+  "REAL004301": {
+    "prefLabel": "Hardy spaces",
+    "altLabel": [
+      "Hardy classes"
+    ]
+  },
+  "REAL001520": {
+    "prefLabel": "SSADM",
+    "altLabel": [
+      "Structured systems analysis and design method"
+    ]
+  },
+  "REAL031371": {
+    "prefLabel": "Molecular modelling kits",
+    "altLabel": [
+      "Molecular modeling sets",
+      "Molecule building sets",
+      "Molecular modelling sets",
+      "Molecule building kits",
+      "Molecular modeling kits"
+    ]
+  },
+  "REAL004298": {
+    "prefLabel": "Capacitors",
+    "altLabel": []
+  },
+  "REAL004058": {
+    "prefLabel": "Electron theory",
+    "altLabel": []
+  },
+  "REAL000382": {
+    "prefLabel": "Gender equality",
+    "altLabel": [
+      "Sexual equality",
+      "Equality politics",
+      "Social equality",
+      "Gender equality politics"
+    ]
+  },
+  "REAL003743": {
+    "prefLabel": "Radionuclides",
+    "altLabel": [
+      "Radioactive nuclides",
+      "Radioactive isotopes",
+      "Radioisotopes"
+    ]
+  },
+  "REAL006916": {
+    "prefLabel": "NIAM",
+    "altLabel": []
+  },
+  "REAL001628": {
+    "prefLabel": "Functional materials",
+    "altLabel": []
+  },
+  "REAL009725": {
+    "prefLabel": "Shared memory",
+    "altLabel": []
+  },
+  "REAL001505": {
+    "prefLabel": "Control Data Cyber",
+    "altLabel": []
+  },
+  "REAL007794": {
+    "prefLabel": "Named reactions",
+    "altLabel": []
+  },
+  "REAL003291": {
+    "prefLabel": "SAS",
+    "altLabel": [
+      "Statistical Analysis System"
+    ]
+  },
+  "REAL000278": {
+    "prefLabel": "Java servlets",
+    "altLabel": [
+      "Servlets"
+    ]
+  },
+  "REAL004230": {
+    "prefLabel": "Capability Maturity Model Integration",
+    "altLabel": [
+      "CNMI"
+    ]
+  },
+  "REAL012623": {
+    "prefLabel": "Minorities",
+    "altLabel": [
+      "Language minorities",
+      "Ethnic minorities",
+      "Minority groups"
+    ]
+  },
+  "REAL004291": {
+    "prefLabel": "Micrometeorology",
+    "altLabel": [
+      "Microscale meteorology"
+    ]
+  },
+  "REAL002000": {
+    "prefLabel": "Military history",
+    "altLabel": []
+  },
+  "REAL004336": {
+    "prefLabel": "Halos",
+    "altLabel": []
+  },
+  "REAL004264": {
+    "prefLabel": "Consultancy",
+    "altLabel": []
+  },
+  "REAL011128": {
+    "prefLabel": "Computer memory",
+    "altLabel": [
+      "Memory"
+    ]
+  },
+  "REAL000415": {
+    "prefLabel": "Birth defects",
+    "altLabel": [
+      "Congenital disorders",
+      "Malformations"
+    ]
+  },
+  "REAL001255": {
+    "prefLabel": "Complex vector spaces",
+    "altLabel": [
+      "Complex linear spaces"
+    ]
+  },
+  "REAL001620": {
+    "prefLabel": "Serpentinites",
+    "altLabel": []
+  },
+  "REAL004314": {
+    "prefLabel": "Physical units",
+    "altLabel": []
+  },
+  "REAL004530": {
+    "prefLabel": "Lamarckism",
+    "altLabel": [
+      "Lamarckian inheritance"
+    ]
+  },
+  "REAL004319": {
+    "prefLabel": "Linear groups",
+    "altLabel": []
+  },
+  "REAL006669": {
+    "prefLabel": "Muscle contractions",
+    "altLabel": []
+  },
+  "REAL001760": {
+    "prefLabel": "Polymerization",
+    "altLabel": []
+  },
+  "REAL004313": {
+    "prefLabel": "Social behaviour",
+    "altLabel": []
+  },
+  "REAL001616": {
+    "prefLabel": "Microchemistry",
+    "altLabel": []
+  }
+}

@@ -2364,10 +2364,11 @@ st= REAL024874
 st= REAL027202
 
 id= REAL000278
-te= Servlets
+te= JAVA servlets
 ba= ni
-nn= Servlets
+nn= JAVA servlets
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-04T21:00:25Z
 
 id= REAL000279
 te= Graf-grammatikker
@@ -6319,8 +6320,11 @@ fly= REAL003680
 id= REAL000752
 te= Åtsel
 ba= nk
+bf= Kadavre
 nn= Åtsel
+nn= Kadaver
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-04T19:52:38Z
 
 id= REAL000753
 te= Kjønnsforskjeller
@@ -7004,9 +7008,8 @@ fly= REAL002004
 
 id= REAL000833
 te= Salteffekt
-ba= nk
-nn= Salteffekt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-04T19:53:10Z
 
 id= REAL000835
 te= Elementærpartikkelfysikk
@@ -12648,10 +12651,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-01-24T16:07:59Z
 
 id= REAL001505
-te= Control data cyber
+te= Control Data Cyber
 ba= ni
 nn= Control data cyber
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-04T21:06:54Z
 
 id= REAL001506
 te= Praktiske hjelpemidler
@@ -27601,12 +27605,13 @@ tis= 2018-07-18T18:07:40Z
 fly= REAL001636
 
 id= REAL003291
-te= Sas
+te= SAS
 ba= ni
 ba= ngh
 nn= SAS
 de= Statistikkpakke
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-04T20:59:41Z
 
 id= REAL003292
 te= Sar
@@ -28614,9 +28619,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003407
 te= Alkanaktivering
-ba= nk
-nn= Alkanaktivering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-04T20:55:17Z
 
 id= REAL003408
 te= Sis
@@ -34125,10 +34129,13 @@ nn= Saltmarker
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004064
-te= Kernel
+te= Støttevektormaskiner
 ba= nm
 nn= Kernel
+nn= Støttevektormaskinar
+en= Support vector machines
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-04T20:30:21Z
 
 id= REAL004065
 te= Telematikk
@@ -36431,10 +36438,11 @@ en= Microdiffusion
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004336
-te= Halo
+te= Haloer
 ba= na
-nn= Halo
+nn= Haloar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-04T20:35:20Z
 st= REAL020862
 
 id= REAL004338
@@ -37942,9 +37950,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004524
 te= Programkonstruksjon
-ba= ni
-nn= Programkonstruksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-04T20:38:22Z
 
 id= REAL004525
 te= Middagsblomfamilien
@@ -42001,9 +42008,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005030
 te= Mikrostabilitet
-ba= na
-nn= Mikrostabilitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-04T20:51:13Z
 
 id= REAL005031
 te= Free/libre/open source software
@@ -52502,9 +52508,8 @@ st= REAL028665
 
 id= REAL006312
 te= Spillprodukter
-ba= ngh
-nn= Spelprodukt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-04T21:03:37Z
 
 id= REAL006314
 te= Laboratorier
@@ -64195,9 +64200,16 @@ tis= 2016-11-30T13:24:35Z
 id= REAL007679
 te= Fluorescensspektroskopi
 ba= nc
+bf= Fluorometri
+bf= Spektrofluorometri
 nn= Fluorescensspektroskopi
+nn= Fluorometri
+nn= Spektrofluorometri
 en= Fluorescence microscopy
+en= Fluorometry
+en= Spectrofluorometry
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-04T19:50:55Z
 
 id= REAL007680
 te= Sjokolade
@@ -100370,10 +100382,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012078
 te= Fluorometri
-ba= nb
-nn= Fluorometri
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-24T11:45:26Z
+tis= 2018-08-04T19:50:16Z
+fly= REAL007679
 
 id= REAL012080
 te= Persistente organiske forbindelser
@@ -100605,9 +100617,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012111
 te= Skript
-ba= nk
-nn= Skript
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-04T21:02:25Z
 
 id= REAL012112
 te= Trebregner
