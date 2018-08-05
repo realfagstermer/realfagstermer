@@ -761,6 +761,12 @@ tie= 2015-03-19T09:22:16Z
 
 id= REAL031371
 te= Molekylbyggesett
+en= Molecular modelling kits
+en= Molecular modeling sets
+en= Molecule building sets
+en= Molecular modelling sets
+en= Molecule building kits
+en= Molecular modeling kits
 tio= 2015-03-19T09:37:56Z
 tie= 2015-03-19T09:37:56Z
 
