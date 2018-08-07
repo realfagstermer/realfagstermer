@@ -40448,9 +40448,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004826
 te= Naturprodukter
+bf= Naturprodukter
+nn= Naturprodukt
 tio= 2014-08-25T00:00:00Z
-tis= 2018-08-02T12:45:06Z
-fly= REAL011068
 
 id= REAL004827
 te= Vitenskapelige teorier
@@ -92167,11 +92167,9 @@ te= Naturstoffer
 ba= nk
 ba= ns
 bf= Naturstoffkjemi
-bf= Naturprodukter
 ut= REAL032025
 nn= Naturstoff
 nn= Naturstoffkjemi
-nn= Naturprodukt
 en= Natural products
 en= Natural product chemistry
 en= Natural products chemistry
