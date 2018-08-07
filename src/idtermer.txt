@@ -7698,6 +7698,7 @@ te= Dekorasjonsplanter
 ba= nq
 nn= Dekorasjonsplanter
 nn= Dekorasjonsplantar
+en= Decorative plants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000919
@@ -11473,6 +11474,7 @@ id= REAL001353
 te= Cellepreparering
 ba= nb
 nn= Cellepreparering
+en= Cell preparation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001354
@@ -17634,6 +17636,7 @@ id= REAL002113
 te= Cellulære effekter
 ba= ne
 nn= Cellulære effektar
+en= Cellular effects
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002114
@@ -18528,6 +18531,7 @@ id= REAL002211
 te= Cellepatologi
 ba= nb
 nn= Cellepatologi
+en= Cell pathology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002212
@@ -23784,6 +23788,8 @@ te= Cam-planter
 ba= nb
 nn= Cam-planter
 nn= Cam-plantar
+en= CAM plants
+en= Crassulacean acid metabolism plants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002828
@@ -25772,6 +25778,8 @@ id= REAL003064
 te= Cryptosporidiose
 ba= nb
 nn= Cryptosporidiose
+en= Cryptosporidiosis
+en= Crypto
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003065
@@ -27342,6 +27350,7 @@ id= REAL003253
 te= Celleforandringer
 ba= nb
 nn= Celleforandringar
+en= Cell changes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003254
@@ -33922,6 +33931,7 @@ id= REAL004034
 te= Diadromi
 ba= nb
 nn= Diadromi
+en= Diadromy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004035
@@ -70582,6 +70592,9 @@ id= REAL008449
 te= Bløtbunn
 ba= nb
 nn= Blautbotn
+en= Soft seabeds
+en= Soft bottoms
+en= Soft sediments
 tio= 2014-08-25T00:00:00Z
 st= REAL019047
 
@@ -80547,6 +80560,7 @@ id= REAL009642
 te= Cellestruktur
 ba= nb
 nn= Cellestruktur
+en= Cell structure
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009643
@@ -80951,6 +80965,7 @@ id= REAL009690
 te= Cellevolum
 ba= nb
 nn= Cellevolum
+en= Cell volume
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009691
@@ -86324,6 +86339,7 @@ id= REAL010311
 te= Diapause
 ba= nb
 nn= Diapause
+en= Diapause
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010313
@@ -87425,6 +87441,7 @@ id= REAL010460
 te= Botaniske institusjoner
 ba= nq
 nn= Botaniske institusjonar
+en= Botanical institutions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010461
@@ -88149,6 +88166,7 @@ id= REAL010554
 te= Bærdyrking
 ba= nq
 nn= Bærdyrking
+en= Berry cultivation
 tio= 2014-08-25T00:00:00Z
 st= REAL020604
 
@@ -89441,6 +89459,8 @@ te= Celleatferd
 ba= nb
 bf= Celleadferd
 nn= Celleåtferd
+en= Cellular behavior
+en= Cellular behaviour
 tio= 2014-08-25T00:00:00Z
 tie= 2016-12-20T11:17:44Z
 
@@ -104004,6 +104024,7 @@ id= REAL012436
 te= Børstespinnere
 ba= nb
 nn= Børstespinnarar
+en= Tussock moths
 la= Lymantriidae
 tio= 2014-08-25T00:00:00Z
 
@@ -107813,6 +107834,7 @@ st= REAL026639
 id= REAL012741
 te= Blåstjerner
 nn= Blåstjerner
+en= Squills
 de= Arter av fire planteslekter i hyasintfamilien
 tio= 2014-08-25T00:00:00Z
 
@@ -123316,6 +123338,7 @@ id= REAL013891
 te= Bladlaver
 bf= Bladlav
 nn= Bladlav
+en= Foliose lichen
 tio= 2014-08-25T00:00:00Z
 st= REAL029655
 
@@ -125435,6 +125458,9 @@ tie= 2017-10-02T13:28:24Z
 id= REAL031043
 te= Boreal sone
 ba= nk
+en= Boreal zone
+en= Boreal region
+en= Boreal ecosystem
 tio= 2015-02-20T13:08:04Z
 tie= 2018-01-01T18:10:41Z
 
