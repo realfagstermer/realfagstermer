@@ -7698,7 +7698,6 @@ te= Dekorasjonsplanter
 ba= nq
 nn= Dekorasjonsplanter
 nn= Dekorasjonsplantar
-en= Decorative plants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000919
@@ -11474,7 +11473,6 @@ id= REAL001353
 te= Cellepreparering
 ba= nb
 nn= Cellepreparering
-en= Cell preparation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001354
@@ -17636,7 +17634,6 @@ id= REAL002113
 te= Cellulære effekter
 ba= ne
 nn= Cellulære effektar
-en= Cellular effects
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002114
@@ -18112,7 +18109,9 @@ id= REAL002158
 te= Luft
 ba= nk
 ba= nb
+bf= Luftforskning
 nn= Luft
+nn= Luftforsking
 en= Air
 tio= 2014-08-25T00:00:00Z
 st= REAL017056
@@ -18531,7 +18530,6 @@ id= REAL002211
 te= Cellepatologi
 ba= nb
 nn= Cellepatologi
-en= Cell pathology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002212
@@ -19782,10 +19780,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002359
 te= Lufttrykk
-ba= nb
-nn= Lufttrykk
 tio= 2014-08-25T00:00:00Z
-st= REAL026589
+tis= 2018-08-08T10:17:52Z
+fly= REAL005266
 
 id= REAL002360
 te= Tidevannsstrømmer
@@ -23788,8 +23785,6 @@ te= Cam-planter
 ba= nb
 nn= Cam-planter
 nn= Cam-plantar
-en= CAM plants
-en= Crassulacean acid metabolism plants
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002828
@@ -25778,8 +25773,6 @@ id= REAL003064
 te= Cryptosporidiose
 ba= nb
 nn= Cryptosporidiose
-en= Cryptosporidiosis
-en= Crypto
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003065
@@ -27350,7 +27343,6 @@ id= REAL003253
 te= Celleforandringer
 ba= nb
 nn= Celleforandringar
-en= Cell changes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003254
@@ -33931,7 +33923,6 @@ id= REAL004034
 te= Diadromi
 ba= nb
 nn= Diadromi
-en= Diadromy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004035
@@ -38680,9 +38671,9 @@ st= REAL019626
 
 id= REAL004604
 te= Luftforskning
-ba= nb
-nn= Luftforsking
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-08T10:17:00Z
+fly= REAL002158
 
 id= REAL004605
 te= Differensialformer
@@ -40448,9 +40439,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004826
 te= Naturprodukter
-bf= Naturprodukter
-nn= Naturprodukt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-02T12:45:06Z
+fly= REAL011068
 
 id= REAL004827
 te= Vitenskapelige teorier
@@ -42842,11 +42833,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005119
 te= Lydsignaler
-ba= nb
-nn= Ljodsignal
-nn= Lydsignal
 tio= 2014-08-25T00:00:00Z
-st= REAL021558
+tis= 2018-08-08T10:19:15Z
+fly= REAL011357
 
 id= REAL005120
 te= Metersystemet
@@ -43996,10 +43985,13 @@ st= REAL020891
 id= REAL005266
 te= Atmosfærisk trykk
 ba= ns
+bf= Lufttrykk
 nn= Atmosfærisk trykk
+nn= Lufttrykk
 en= Atmospheric pressure
 tio= 2014-08-25T00:00:00Z
 st= REAL029687
+st= REAL026589
 
 id= REAL005267
 te= Eggcellen
@@ -51841,9 +51833,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006222
 te= Laserstråler
-ba= nk
-nn= Laserstrålar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-08T10:14:43Z
+fly= REAL013003
 
 id= REAL006223
 te= Embryonalutvikling
@@ -70592,9 +70584,6 @@ id= REAL008449
 te= Bløtbunn
 ba= nb
 nn= Blautbotn
-en= Soft seabeds
-en= Soft bottoms
-en= Soft sediments
 tio= 2014-08-25T00:00:00Z
 st= REAL019047
 
@@ -80560,7 +80549,6 @@ id= REAL009642
 te= Cellestruktur
 ba= nb
 nn= Cellestruktur
-en= Cell structure
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009643
@@ -80965,7 +80953,6 @@ id= REAL009690
 te= Cellevolum
 ba= nb
 nn= Cellevolum
-en= Cell volume
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009691
@@ -85798,11 +85785,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010254
 te= Lyseffekter
-ba= na
-ba= nb
-nn= Ljoseffektar
-nn= Lyseffektar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-08T10:20:24Z
 
 id= REAL010255
 te= Trombose
@@ -86339,7 +86323,6 @@ id= REAL010311
 te= Diapause
 ba= nb
 nn= Diapause
-en= Diapause
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010313
@@ -87441,7 +87424,6 @@ id= REAL010460
 te= Botaniske institusjoner
 ba= nq
 nn= Botaniske institusjonar
-en= Botanical institutions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010461
@@ -88166,7 +88148,6 @@ id= REAL010554
 te= Bærdyrking
 ba= nq
 nn= Bærdyrking
-en= Berry cultivation
 tio= 2014-08-25T00:00:00Z
 st= REAL020604
 
@@ -89459,8 +89440,6 @@ te= Celleatferd
 ba= nb
 bf= Celleadferd
 nn= Celleåtferd
-en= Cellular behavior
-en= Cellular behaviour
 tio= 2014-08-25T00:00:00Z
 tie= 2016-12-20T11:17:44Z
 
@@ -92167,9 +92146,11 @@ te= Naturstoffer
 ba= nk
 ba= ns
 bf= Naturstoffkjemi
+bf= Naturprodukter
 ut= REAL032025
 nn= Naturstoff
 nn= Naturstoffkjemi
+nn= Naturprodukt
 en= Natural products
 en= Natural product chemistry
 en= Natural products chemistry
@@ -94411,9 +94392,13 @@ st= REAL019410
 id= REAL011357
 te= Lyder
 ba= nb
+bf= Lydsignaler
 nn= Ljodar
 nn= Lydar
+nn= Ljodsignal
+nn= Lydsignal
 tio= 2014-08-25T00:00:00Z
+st= REAL021558
 
 id= REAL011358
 te= Maskinteori
@@ -104022,7 +104007,6 @@ id= REAL012436
 te= Børstespinnere
 ba= nb
 nn= Børstespinnarar
-en= Tussock moths
 la= Lymantriidae
 tio= 2014-08-25T00:00:00Z
 
@@ -107832,7 +107816,6 @@ st= REAL026639
 id= REAL012741
 te= Blåstjerner
 nn= Blåstjerner
-en= Squills
 de= Arter av fire planteslekter i hyasintfamilien
 tio= 2014-08-25T00:00:00Z
 
@@ -110472,8 +110455,10 @@ ba= nb
 ba= nf
 ba= nm
 bf= Laser
+bf= Laserstråler
 nn= Laserar
 nn= Laser
+nn= Laserstrålar
 en= Lasers
 en= Light amplification by stimulated emission of radiation
 tio= 2014-08-25T00:00:00Z
@@ -123336,7 +123321,6 @@ id= REAL013891
 te= Bladlaver
 bf= Bladlav
 nn= Bladlav
-en= Foliose lichen
 tio= 2014-08-25T00:00:00Z
 st= REAL029655
 
@@ -125456,9 +125440,6 @@ tie= 2017-10-02T13:28:24Z
 id= REAL031043
 te= Boreal sone
 ba= nk
-en= Boreal zone
-en= Boreal region
-en= Boreal ecosystem
 tio= 2015-02-20T13:08:04Z
 tie= 2018-01-01T18:10:41Z
 

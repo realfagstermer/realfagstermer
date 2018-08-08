@@ -1,1 +1,34 @@
-{}
+{
+  "REAL002130": {
+    "prefLabel": "Douglas fir",
+    "altLabel": [
+      "Douglas-fir"
+    ]
+  },
+  "REAL003384": {
+    "prefLabel": "Communicable diseases",
+    "altLabel": [
+      "Infectious diseases"
+    ]
+  },
+  "REAL009398": {
+    "prefLabel": "Digital botany",
+    "altLabel": []
+  },
+  "REAL005166": {
+    "prefLabel": "Scent glands",
+    "altLabel": []
+  },
+  "REAL001012": {
+    "prefLabel": "Bulrushes",
+    "altLabel": []
+  },
+  "REAL008059": {
+    "prefLabel": "Hawaiian honeycreepers",
+    "altLabel": []
+  },
+  "REAL010668": {
+    "prefLabel": "Fragrance chemistry",
+    "altLabel": []
+  }
+}
