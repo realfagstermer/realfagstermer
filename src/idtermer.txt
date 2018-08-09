@@ -8524,6 +8524,7 @@ te= Dunkjevlefamilien
 ba= nb
 ba= nq
 nn= Dunkjevlefamilien
+en= Bulrushes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001013
@@ -17786,6 +17787,8 @@ id= REAL002130
 te= Douglasgran
 ba= nb
 nn= Douglasgran
+en= Douglas fir
+en= Douglas-fir
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002131
@@ -28467,6 +28470,8 @@ ba= nb
 ba= ne
 nn= Smittsame sjukdomar
 nn= Smittsame sjukdommar
+en= Communicable diseases
+en= Infectious diseases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003385
@@ -43166,6 +43171,7 @@ te= Duftkjertler
 ba= nb
 ba= nq
 nn= Duftkjertlar
+en= Scent glands
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005167
@@ -67349,6 +67355,7 @@ id= REAL008059
 te= Draktfugler
 ba= nb
 nn= Draktfuglar
+en= Hawaiian honeycreepers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008060
@@ -78522,6 +78529,7 @@ id= REAL009398
 te= Digital botanikk
 ba= ns
 nn= Digital botanikk
+en= Digital botany
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009400
@@ -89115,6 +89123,7 @@ id= REAL010668
 te= Duftkjemi
 ba= nb
 nn= Duftkjemi
+en= Fragrance chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010669
