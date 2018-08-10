@@ -4473,9 +4473,11 @@ te= Sjøpattedyr
 ba= nb
 bf= Marine sjøpattedyr
 bf= Marine pattedyr
+bf= Havpattedyr
 nn= Sjøpattedyr
 nn= Marine sjøpattedyr
 nn= Marine pattedyr
+nn= Havpattedyr
 tio= 2014-08-25T00:00:00Z
 st= REAL019277
 st= REAL025621
@@ -6431,9 +6433,9 @@ st= REAL031599
 
 id= REAL000763
 te= Havpattedyr
-ba= nb
-nn= Havpattedyr
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-10T12:04:02Z
+fly= REAL000527
 
 id= REAL000764
 te= Konform
@@ -8524,7 +8526,6 @@ te= Dunkjevlefamilien
 ba= nb
 ba= nq
 nn= Dunkjevlefamilien
-en= Bulrushes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001013
@@ -17787,8 +17788,6 @@ id= REAL002130
 te= Douglasgran
 ba= nb
 nn= Douglasgran
-en= Douglas fir
-en= Douglas-fir
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002131
@@ -17914,14 +17913,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002145
 te= Alperose
-ba= nq
-nn= Alperose
-en= Alpenrose
-en= Rusty-leaved alpenrose
-en= Snow-rose
-la= Rhododendron ferrugineum
 tio= 2014-08-25T00:00:00Z
-tie= 2017-08-08T11:30:42Z
+tie= 2018-08-08T10:42:23Z
+tis= 2018-08-08T10:42:41Z
+fly= REAL008350
 
 id= REAL002146
 te= Koersivitet
@@ -28470,8 +28465,6 @@ ba= nb
 ba= ne
 nn= Smittsame sjukdomar
 nn= Smittsame sjukdommar
-en= Communicable diseases
-en= Infectious diseases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003385
@@ -43171,7 +43164,6 @@ te= Duftkjertler
 ba= nb
 ba= nq
 nn= Duftkjertlar
-en= Scent glands
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005167
@@ -46661,7 +46653,10 @@ tis= 2016-12-19T15:26:02Z
 id= REAL005609
 te= Optiske fenomener
 ba= na
+bf= Lysfenomener
 nn= Optiske fenomen
+nn= Ljosfenomen
+nn= Lysfenomen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005610
@@ -65536,10 +65531,9 @@ fly= REAL005592
 
 id= REAL007831
 te= Lysfenomener
-ba= na
-nn= Ljosfenomen
-nn= Lysfenomen
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-08T10:21:32Z
+fly= REAL005609
 
 id= REAL007832
 te= Eksponentielle funksjoner
@@ -67355,7 +67349,6 @@ id= REAL008059
 te= Draktfugler
 ba= nb
 nn= Draktfuglar
-en= Hawaiian honeycreepers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008060
@@ -69715,10 +69708,19 @@ nn= Politisk rådgiving
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008350
-te= Rhododendron
+te= Rhododendroner
 ba= nq
+bf= Alperose
+bf= Rhododendron
 nn= Rhododendron
+nn= Alperose
+en= Alpenrose
+en= Rusty-leaved alpenrose
+en= Snow-rose
+la= Rhododendron sp.
+de= Planteslekt i lyngfamilien
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-08T10:45:13Z
 st= REAL025258
 
 id= REAL008351
@@ -78529,7 +78531,6 @@ id= REAL009398
 te= Digital botanikk
 ba= ns
 nn= Digital botanikk
-en= Digital botany
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009400
@@ -89123,7 +89124,6 @@ id= REAL010668
 te= Duftkjemi
 ba= nb
 nn= Duftkjemi
-en= Fragrance chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010669
