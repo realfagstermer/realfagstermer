@@ -10404,6 +10404,7 @@ id= REAL001239
 te= Symbolsk dynamikk
 ba= nm
 nn= Symbolsk dynamikk
+en= Symbolic dynamics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001240
@@ -37843,6 +37844,8 @@ ba= nf
 bf= Universets fortid
 so= REAL009954
 nn= Opphavet til universet
+en= Origin of the universe
+en= Formation of the universe
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T16:32:29Z
 st= REAL028229
@@ -43546,6 +43549,7 @@ id= REAL005209
 te= Screening
 ba= ne
 nn= Screening
+en= Screening
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005210
@@ -53143,6 +53147,7 @@ id= REAL006362
 te= Nøytralinoer
 ba= na
 nn= Nøytralino
+en= Neutralinos
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006363
@@ -55531,6 +55536,7 @@ ba= ne
 ba= ngh
 ba= ns
 nn= Helsepolitikk
+en= Health policy
 tio= 2014-08-25T00:00:00Z
 st= REAL015846
 
@@ -67571,6 +67577,7 @@ te= Urtehager
 ba= ne
 ba= nq
 nn= Urtehagar
+en= Herb gardens
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008083
@@ -74822,6 +74829,7 @@ id= REAL008948
 te= Fysikalsk farmasi
 ba= ne
 nn= Fysikalsk farmasi
+en= Physical pharmacy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008949
@@ -76381,6 +76389,7 @@ id= REAL009123
 te= Smittevern
 ba= ne
 nn= Smittevern
+en= Infection control
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009125
@@ -94692,6 +94701,9 @@ id= REAL011389
 te= Smertebehandling
 ba= ne
 nn= Smertebehandling
+en= Pain management
+en= Pain therapy
+en= Pain treatment
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011390
@@ -110422,6 +110434,7 @@ st= REAL015139
 id= REAL012997
 te= Kliniske laboratorieteknikker
 nn= Kliniske laboratorieteknikkar
+en= Clinical laboratory techniques
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012998
@@ -119440,6 +119453,7 @@ te= Kunnskapsbasert medisin
 bf= Evidensbasert medisin
 nn= Kunnskapsbasert medisin
 nn= Evidensbasert medisin
+en= Evidence-based medicine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013645
