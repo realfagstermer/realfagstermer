@@ -710,12 +710,11 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030172
 te= Tegnefilmserier
-so= REAL030173
 tio= 2015-02-20T13:08:04Z
+tis= 2018-08-17T16:09:35Z
 
 id= REAL030173
 te= Tegnefilmer
-so= REAL030172
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030174
