@@ -23997,6 +23997,10 @@ bf= Inneplanter
 nn= Potteplanter
 nn= Potteplantar
 nn= Inneplantar
+en= Houseplants
+en= House plants
+en= Indoor plants
+en= Potted plants
 tio= 2014-08-25T00:00:00Z
 tie= 2018-08-17T14:22:36Z
 
@@ -79057,6 +79061,7 @@ ba= nb
 so= REAL003556
 so= REAL008830
 nn= Hypoksi
+en= Hypoxia
 tio= 2014-08-25T00:00:00Z
 tie= 2018-08-17T14:15:28Z
 
@@ -105629,6 +105634,8 @@ te= Plantefarging
 ba= nb
 so= REAL012581
 nn= Plantefarging
+en= Plant colour dyeing
+en= Plant color dyeing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012581
@@ -105639,6 +105646,10 @@ so= REAL012580
 nn= Plantefargestoff
 nn= Plantefargar
 nn= Plantefarger
+en= Plant-derived dyes
+en= Flower pigments
+en= Plant pigments
+en= Vegetable dyes
 tio= 2014-08-25T00:00:00Z
 tie= 2018-08-17T14:24:45Z
 

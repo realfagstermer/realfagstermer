@@ -4614,11 +4614,6 @@ real:c005877
   skos:exactMatch hume:c06395 ;
   skos:prefLabel "Språkteori"@nb, "Språkteori"@nn .
 
-real:c005882
-  a skos:Concept ;
-  skos:exactMatch hume:c11696 ;
-  skos:prefLabel "Imprinting"@en, "Preging"@nb, "Preging"@nn .
-
 real:c005887
   a skos:Concept ;
   skos:exactMatch hume:c22530 ;
