@@ -5330,11 +5330,6 @@ real:c006864
   skos:exactMatch hume:c08203 ;
   skos:prefLabel "Flowers"@en, "Blomster"@nb, "Blomar"@nn .
 
-real:c006885
-  a skos:Concept ;
-  skos:exactMatch hume:c26280 ;
-  skos:prefLabel "Preferanser"@nb, "Preferansar"@nn .
-
 real:c006887
   a skos:Concept ;
   skos:exactMatch hume:c09489 ;

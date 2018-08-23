@@ -29363,10 +29363,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003492
 te= Hydrogenioner
-ba= nk
-nn= Hydrogenion
-en= Hydrogen ions
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-23T16:28:40Z
 
 id= REAL003493
 te= Røntgenkilder
@@ -34730,8 +34728,15 @@ tie= 2017-10-06T15:59:37Z
 id= REAL004129
 te= Suspensjonsetere
 ba= nb
-so= REAL032007
+bf= Filterspisere
+bf= Filterspisende
+bf= Filtrerere
+bf= Filteretere
 nn= Suspensjonsetarar
+nn= Filteretarar
+nn= Filteretande
+nn= Filtrerarar
+en= Filter feeders
 tio= 2014-08-25T00:00:00Z
 tie= 2018-08-17T14:43:48Z
 
@@ -49493,9 +49498,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005945
 te= Økologisk tilstand
-ba= nb
-nn= Økologisk tilstand
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-23T16:05:00Z
 
 id= REAL005946
 te= Optisk mineralogi
@@ -55147,9 +55151,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006584
 te= Økonomisk produksjonsøkonomi
-ba= nm
-nn= Økonomisk produksjonsøkonomi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-23T15:10:20Z
 
 id= REAL006586
 te= Nervesimulering
@@ -57731,6 +57734,7 @@ bf= Verifisering
 nn= Verifikasjon
 nn= Verifisering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-23T16:12:00Z
 
 id= REAL006892
 te= Historisk botanikk
@@ -60472,9 +60476,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007221
 te= Interessekonflikter
-ba= ngh
-nn= Interessekonfliktar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-23T16:30:23Z
 
 id= REAL007222
 te= Gasslasere
@@ -68257,9 +68260,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008164
 te= Terrestrisk arealbruk
-ba= nb
-nn= Terrestrisk arealbruk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-23T16:20:39Z
 
 id= REAL008165
 te= Romalderen
@@ -92478,9 +92480,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011105
 te= Utstråling
-ba= nk
-nn= Utstråling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-23T15:48:07Z
 
 id= REAL011106
 te= Terreng
@@ -100153,9 +100154,9 @@ st= REAL029222
 
 id= REAL012036
 te= Verifikasjoner
-ba= nf
-nn= Verifikasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-23T16:11:50Z
+fly= REAL006891
 
 id= REAL012037
 te= RNA-virus
@@ -114541,8 +114542,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013371
 te= Transcendentale systemer
-nn= Transcendentale system
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-23T16:18:16Z
 
 id= REAL013372
 te= Sannsynlighet
@@ -128568,16 +128569,10 @@ fly= REAL031434
 
 id= REAL032007
 te= Filterspisere
-bf= Filterspisende
-bf= Filtrerere
-bf= Filteretere
-so= REAL004129
-nn= Filteretarar
-nn= Filteretande
-nn= Filtrerarar
-en= Filter feeders
 tio= 2018-07-16T15:42:56Z
 tie= 2018-08-17T14:43:48Z
+tis= 2018-08-23T14:57:33Z
+fly= REAL004129
 
 id= REAL032008
 te= Mesokosmos
