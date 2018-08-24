@@ -6769,11 +6769,6 @@ real:c008458
   skos:exactMatch hume:c12158 ;
   skos:prefLabel "Rivers"@en, "Elver"@nb, "Elvar"@nn .
 
-real:c008459
-  a skos:Concept ;
-  skos:exactMatch hume:c27244 ;
-  skos:prefLabel "Eksternaliteter"@nb, "Eksternalitetar"@nn .
-
 real:c008460
   a skos:Concept ;
   skos:closeMatch hume:c22310 ;
