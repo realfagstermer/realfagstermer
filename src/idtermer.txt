@@ -45986,6 +45986,7 @@ id= REAL005519
 te= Ionespektroskopi
 ba= ns
 nn= Ionespektroskopi
+en= Ion spectroscopy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005521
