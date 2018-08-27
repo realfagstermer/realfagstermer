@@ -1,6 +1,14 @@
 {
-  "REAL005519": {
-    "prefLabel": "Ion spectroscopy",
+  "REAL002180": {
+    "prefLabel": "Ground stations",
+    "altLabel": [
+      "Satellite stations",
+      "Earth stations",
+      "Earth terminals"
+    ]
+  },
+  "REAL009053": {
+    "prefLabel": "Satellite remote sensing",
     "altLabel": []
   }
 }

@@ -10331,7 +10331,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001228
 te= Solarkonstanten
 ba= na
+bf= Solkonstanten
 nn= Solarkonstanten
+nn= Solkonstanten
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001230
@@ -18285,10 +18287,13 @@ nn= Somatisk embryogenese
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002180
-te= Satellittstasjoner
+te= Bakkestasjoner
 ba= na
+bf= Satellittstasjoner
 nn= Satellittstasjonar
+nn= Bakkestasjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-27T18:35:03Z
 st= REAL017837
 
 id= REAL002181
@@ -28442,12 +28447,13 @@ ba= ngh
 ba= nm
 ba= nq
 bf= Fjernmåling
+so= REAL009053
 nn= Fjernanalyse
 nn= Fjernmåling
 en= Remote sensing
 en= Remote analysis
 tio= 2014-08-25T00:00:00Z
-tie= 2017-11-13T17:03:15Z
+tie= 2018-08-27T18:22:13Z
 st= REAL016504
 st= REAL016627
 st= REAL019451
@@ -40117,9 +40123,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004787
 te= Kollisjonsteori
-ba= na
-nn= Kollisjonsteori
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-27T18:24:44Z
 
 id= REAL004788
 te= Vitenskapelig metode
@@ -58525,12 +58530,14 @@ st= REAL025765
 id= REAL006979
 te= Jordbaserte observatorier
 ba= na
+bf= Jordbaserte teleskoper
 ot= REAL004422
 nn= Jordbaserte observatorium
+nn= Jordbaserte teleskop
 en= Ground-based observatories
 en= Earth-based observatories
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-19T15:54:00Z
+tie= 2018-08-27T15:26:30Z
 
 id= REAL006980
 te= Jernforekomster
@@ -75691,8 +75698,10 @@ st= REAL029673
 id= REAL009053
 te= Satellittfjernmåling
 ba= ni
+so= REAL003382
 nn= Satellittfjernmåling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-08-27T18:22:13Z
 st= REAL020671
 
 id= REAL009054
@@ -88524,9 +88533,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010596
 te= Solkonstanten
-ba= na
-nn= Solkonstanten
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-27T13:25:57Z
+fly= REAL001228
 
 id= REAL010597
 te= Magnetiske hull
@@ -98556,9 +98565,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011840
 te= Jordbaserte solteleskoper
-ba= na
-nn= Jordbaserte solteleskop
 tio= 2014-08-25T00:00:00Z
+tis= 2018-08-27T15:20:47Z
+fly= REAL006979
 
 id= REAL011842
 te= Interferensfiltre
@@ -120301,19 +120310,15 @@ id= REAL013710
 te= Syntetisk apertur-radar
 ba= ni
 bf= Sar-bilder
-bf= Satelittbilder
 ak= SAR
 nn= Syntetisk apertur-radar
 nn= SAR-bilde
 nn= SAR-bilete
-nn= Satelittbilde
-nn= Satellittbilde
-nn= Satellittbilete
 nn= Syntetisk aperturradar
 en= Synthetic aperture radar
-en= Satellite imagery
+en= SAR imagery
 tio= 2014-08-25T00:00:00Z
-tie= 2016-10-11T18:41:00Z
+tie= 2018-08-27T18:29:01Z
 
 id= REAL013711
 te= Bakkepenetrerende radar
