@@ -50,10 +50,10 @@ Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 * Bente Kathrine Rasch, klassifiserer farmasi.
 
 Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
-* [@apaus](https://github.com/apaus) ; 
-  Ana Paulino, klassifiserer biovitenskap, delvis vikar for @Hypsibus.
 * [@bubir](https://github.com/bubir) :
   Ingunn Rødland, klassifiserer kjemi.
+* [@Caroline-A](https://github.com/Caroline-A) ; 
+  Caroline Susanne Armitage, klassifiserer marinbiologi, delvis vikar for @Hypsibus.
 * [@Hypsibius](https://github.com/Hypsibius) :
   Hege Folkestad, klassifiserer biovitenskap.
 * [@beatekh](https://github.com/beatekh) :
