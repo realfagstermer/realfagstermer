@@ -701,6 +701,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030170
 te= Hørespill
 tio= 2015-02-20T13:08:04Z
+tis= 2018-08-29T19:39:38Z
 
 id= REAL030171
 te= Dramatikk
@@ -720,14 +721,12 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030174
 te= Tv-serier
 bf= Fjernsynsserier
-so= REAL030175
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030175
 te= Tv-programmer
-bf= Fjernsynsprogrammer
-so= REAL030174
 tio= 2015-02-20T13:08:04Z
+tis= 2018-08-29T19:54:50Z
 
 id= REAL030176
 te= Nautiske almanakker
