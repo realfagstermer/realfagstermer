@@ -2609,11 +2609,6 @@ real:c003150
   skos:exactMatch hume:c03848 ;
   skos:prefLabel "Hygiene"@en, "Hygiene"@nb, "Hygiene"@nn .
 
-real:c003153
-  a skos:Concept ;
-  skos:closeMatch hume:c19601 ;
-  skos:prefLabel "Koraller"@nb, "Korallar"@nn .
-
 real:c003174
   a skos:Concept ;
   skos:closeMatch hume:c09274 ;
@@ -4285,7 +4280,7 @@ real:c005413
 
 real:c005418
   a skos:Concept ;
-  skos:closeMatch hume:c06482, hume:c00565 ;
+  skos:closeMatch hume:c00565 ;
   skos:prefLabel "Hermeneutics"@en, "Hermeneutikk"@nb, "Hermeneutikk"@nn .
 
 real:c005424
