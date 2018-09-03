@@ -1,1 +1,268 @@
-{}
+{
+  "REAL003336": {
+    "prefLabel": "Organoclorines",
+    "altLabel": [
+      "Chlorinated hydrocarbons",
+      "Organochlorides",
+      "Chlorocarbons"
+    ]
+  },
+  "REAL004091": {
+    "prefLabel": "Storofsen flood",
+    "altLabel": []
+  },
+  "REAL002826": {
+    "prefLabel": "Polyolefins",
+    "altLabel": []
+  },
+  "REAL007220": {
+    "prefLabel": "Stellar structures",
+    "altLabel": []
+  },
+  "REAL008469": {
+    "prefLabel": "Trademarks",
+    "altLabel": []
+  },
+  "REAL013742": {
+    "prefLabel": "Tk",
+    "altLabel": []
+  },
+  "REAL005924": {
+    "prefLabel": "Star names",
+    "altLabel": []
+  },
+  "REAL005071": {
+    "prefLabel": "Stefan problems",
+    "altLabel": []
+  },
+  "REAL000109": {
+    "prefLabel": "Volcanic margins",
+    "altLabel": []
+  },
+  "REAL010339": {
+    "prefLabel": "X-ray scattering",
+    "altLabel": []
+  },
+  "REAL010808": {
+    "prefLabel": "Role-play",
+    "altLabel": []
+  },
+  "REAL004828": {
+    "prefLabel": "Bird ringing",
+    "altLabel": []
+  },
+  "REAL007571": {
+    "prefLabel": "Sol-gel",
+    "altLabel": []
+  },
+  "REAL006740": {
+    "prefLabel": "Chemotaxonomy",
+    "altLabel": [
+      "Chemical taxonomy"
+    ]
+  },
+  "REAL007502": {
+    "prefLabel": "Mushroom poisoning",
+    "altLabel": []
+  },
+  "REAL009205": {
+    "prefLabel": "Multicast",
+    "altLabel": []
+  },
+  "REAL005064": {
+    "prefLabel": "Titrimetry",
+    "altLabel": []
+  },
+  "REAL009805": {
+    "prefLabel": "Churches",
+    "altLabel": []
+  },
+  "REAL003105": {
+    "prefLabel": "Space",
+    "altLabel": []
+  },
+  "REAL004067": {
+    "prefLabel": "Steel constructions",
+    "altLabel": [
+      "Steel structures"
+    ]
+  },
+  "REAL004823": {
+    "prefLabel": "Ergonomics",
+    "altLabel": []
+  },
+  "REAL013496": {
+    "prefLabel": "Popularization",
+    "altLabel": []
+  },
+  "REAL005749": {
+    "prefLabel": "Space warfare",
+    "altLabel": [
+      "Space war"
+    ]
+  },
+  "REAL010302": {
+    "prefLabel": "Sociometry",
+    "altLabel": []
+  },
+  "REAL013695": {
+    "prefLabel": "Presentation techniques",
+    "altLabel": []
+  },
+  "REAL001766": {
+    "prefLabel": "Space industry",
+    "altLabel": [
+      "Space travel industry"
+    ]
+  },
+  "REAL007432": {
+    "prefLabel": "Stellar atmospheres",
+    "altLabel": []
+  },
+  "REAL007499": {
+    "prefLabel": "Cast iron",
+    "altLabel": []
+  },
+  "REAL003493": {
+    "prefLabel": "X-ray sources",
+    "altLabel": []
+  },
+  "REAL008057": {
+    "prefLabel": "Petroleum refining",
+    "altLabel": []
+  },
+  "REAL007786": {
+    "prefLabel": "Reserves",
+    "altLabel": []
+  },
+  "REAL002679": {
+    "prefLabel": "Communism",
+    "altLabel": []
+  },
+  "REAL007048": {
+    "prefLabel": "Positivism",
+    "altLabel": []
+  },
+  "REAL006898": {
+    "prefLabel": "Reproductive strategies",
+    "altLabel": []
+  },
+  "REAL003208": {
+    "prefLabel": "Kolmogorov systems",
+    "altLabel": []
+  },
+  "REAL012165": {
+    "prefLabel": "Social ethics",
+    "altLabel": []
+  },
+  "REAL009926": {
+    "prefLabel": "Practical skills",
+    "altLabel": []
+  },
+  "REAL012517": {
+    "prefLabel": "Oyster farming",
+    "altLabel": []
+  },
+  "REAL000630": {
+    "prefLabel": "Stellar astronomy",
+    "altLabel": []
+  },
+  "REAL003773": {
+    "prefLabel": "Casting",
+    "altLabel": []
+  },
+  "REAL009557": {
+    "prefLabel": "Game programming",
+    "altLabel": []
+  },
+  "REAL003072": {
+    "prefLabel": "Space technology",
+    "altLabel": []
+  },
+  "REAL011140": {
+    "prefLabel": "Predicate logic",
+    "altLabel": []
+  },
+  "REAL006132": {
+    "prefLabel": "Ring systems",
+    "altLabel": []
+  },
+  "REAL005672": {
+    "prefLabel": "Solidification",
+    "altLabel": []
+  },
+  "REAL006103": {
+    "prefLabel": "Optical instruments",
+    "altLabel": []
+  },
+  "REAL008814": {
+    "prefLabel": "POP-2",
+    "altLabel": []
+  },
+  "REAL012977": {
+    "prefLabel": "Communication techniques",
+    "altLabel": []
+  },
+  "REAL002084": {
+    "prefLabel": "X-ray microscopy",
+    "altLabel": []
+  },
+  "REAL009598": {
+    "prefLabel": "Population viability analysis",
+    "altLabel": []
+  },
+  "REAL000438": {
+    "prefLabel": "Oil spill response",
+    "altLabel": []
+  },
+  "REAL011472": {
+    "prefLabel": "Starspots",
+    "altLabel": []
+  },
+  "REAL002819": {
+    "prefLabel": "Spring",
+    "altLabel": []
+  },
+  "REAL013243": {
+    "prefLabel": "Hazardous waste",
+    "altLabel": []
+  },
+  "REAL002792": {
+    "prefLabel": "Polarography",
+    "altLabel": []
+  },
+  "REAL001486": {
+    "prefLabel": "Social science",
+    "altLabel": []
+  },
+  "REAL008922": {
+    "prefLabel": "Population studies",
+    "altLabel": []
+  },
+  "REAL008567": {
+    "prefLabel": "Application generators",
+    "altLabel": []
+  },
+  "REAL002849": {
+    "prefLabel": "Speaker recognition",
+    "altLabel": [
+      "Voice recognition"
+    ]
+  },
+  "REAL007015": {
+    "prefLabel": "Population growth",
+    "altLabel": []
+  },
+  "REAL011116": {
+    "prefLabel": "Ruthenium catalysts",
+    "altLabel": []
+  },
+  "REAL012881": {
+    "prefLabel": "Radioactive contamination",
+    "altLabel": []
+  },
+  "REAL007416": {
+    "prefLabel": "Polarimetry",
+    "altLabel": []
+  }
+}

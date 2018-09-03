@@ -914,6 +914,7 @@ id= REAL000109
 te= Vulkanske marginer
 ba= nc
 nn= Vulkansk margin
+en= Volcanic margins
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-18T12:16:27Z
 st= REAL018173
@@ -3684,6 +3685,7 @@ te= Oljevern
 ba= nk
 ba= nb
 nn= Oljevern
+en= Oil spill response
 tio= 2014-08-25T00:00:00Z
 st= REAL019275
 
@@ -5367,6 +5369,7 @@ id= REAL000630
 te= Stellarastronomi
 ba= na
 nn= Stellarastronomi
+en= Stellar astronomy
 tio= 2014-08-25T00:00:00Z
 st= REAL016911
 
@@ -12513,6 +12516,7 @@ ba= nb
 ba= ne
 ba= nm
 nn= Samfunnsfag
+en= Social science
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001487
@@ -14735,6 +14739,8 @@ ba= na
 bf= Romindustri
 nn= Romfartsindustri
 nn= Romindustri
+en= Space industry
+en= Space travel industry
 tio= 2014-08-25T00:00:00Z
 st= REAL019342
 
@@ -17296,6 +17302,7 @@ te= Røntgenmikroskopi
 ba= nk
 ba= nf
 nn= Røntgenmikroskopi
+en= X-ray microscopy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002085
@@ -22515,6 +22522,7 @@ id= REAL002679
 te= Kommunisme
 ba= ns
 nn= Kommunisme
+en= Communism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002682
@@ -23491,6 +23499,7 @@ id= REAL002792
 te= Polarografi
 ba= nk
 nn= Polarografi
+en= Polarography
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002793
@@ -23691,6 +23700,7 @@ id= REAL002819
 te= Spring
 ba= ni
 nn= Spring
+en= Spring
 de= Java programbibliotek
 tio= 2014-08-25T00:00:00Z
 
@@ -23753,6 +23763,7 @@ id= REAL002826
 te= Polyolefiner
 ba= nk
 nn= Polyolefin
+en= Polyolefins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002827
@@ -23970,6 +23981,8 @@ so= REAL013260
 so= REAL002697
 nn= Stemmegjenkjenning
 nn= Stemmeattkjenning
+en= Speaker recognition
+en= Voice recognition
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002850
@@ -25914,6 +25927,7 @@ ba= na
 bf= Romfartsteknikk
 nn= Romfartsteknologi
 nn= Romfartsteknikk
+en= Space technology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003073
@@ -26188,6 +26202,7 @@ ba= nb
 ba= nf
 ba= nm
 nn= Rom
+en= Space
 tio= 2014-08-25T00:00:00Z
 st= REAL015401
 st= REAL028213
@@ -26968,6 +26983,7 @@ id= REAL003208
 te= Kolmogorov-systemer
 ba= nm
 nn= Kolmogorov-system
+en= Kolmogorov systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003210
@@ -27952,6 +27968,10 @@ te= Organokloriner
 ba= nk
 ba= ns
 nn= Organoklorin
+en= Organoclorines
+en= Chlorinated hydrocarbons
+en= Organochlorides
+en= Chlorocarbons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003337
@@ -29340,6 +29360,7 @@ id= REAL003493
 te= Røntgenkilder
 ba= na
 nn= Røntgenkjelder
+en= X-ray sources
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003494
@@ -31762,6 +31783,7 @@ id= REAL003773
 te= Støping
 ba= nk
 nn= Støyping
+en= Casting
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003774
@@ -34157,6 +34179,8 @@ te= Stålkonstruksjoner
 ba= nf
 ba= nm
 nn= Stålkonstruksjonar
+en= Steel constructions
+en= Steel structures
 tio= 2014-08-25T00:00:00Z
 st= REAL017253
 st= REAL020903
@@ -34372,6 +34396,7 @@ id= REAL004091
 te= Storofsen
 ba= ngh
 nn= Storofsen
+en= Storofsen flood
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004092
@@ -40389,6 +40414,7 @@ ba= nk
 ba= nb
 ba= ns
 nn= Ergonomi
+en= Ergonomics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004824
@@ -40417,6 +40443,7 @@ id= REAL004828
 te= Ringmerking
 ba= nb
 nn= Ringmerking
+en= Bird ringing
 tio= 2014-08-25T00:00:00Z
 st= REAL015964
 
@@ -42322,6 +42349,7 @@ id= REAL005064
 te= Titrimetri
 ba= nk
 nn= Titrimetri
+en= Titrimetry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005065
@@ -42371,6 +42399,7 @@ id= REAL005071
 te= Stefan-problemer
 ba= ni
 nn= Stefan-problem
+en= Stefan problems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005072
@@ -47137,6 +47166,7 @@ te= Størkning
 ba= nf
 nn= Storkning
 nn= Størkning
+en= Solidification
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005673
@@ -47866,6 +47896,8 @@ ba= na
 bf= Stjernekrig
 nn= Romkrig
 nn= Stjernekrig
+en= Space warfare
+en= Space war
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005750
@@ -49304,6 +49336,7 @@ id= REAL005924
 te= Stjernenavn
 ba= na
 nn= Stjernenamn
+en= Star names
 tio= 2014-08-25T00:00:00Z
 st= REAL020152
 
@@ -50815,6 +50848,7 @@ te= Optiske instrumenter
 ba= nb
 ba= nf
 nn= Optiske instrument
+en= Optical instruments
 tio= 2014-08-25T00:00:00Z
 st= REAL016992
 
@@ -51052,6 +51086,7 @@ id= REAL006132
 te= Ringsystemer
 ba= na
 nn= Ringsystem
+en= Ring systems
 tio= 2014-08-25T00:00:00Z
 st= REAL014838
 st= REAL016900
@@ -56494,6 +56529,8 @@ ba= nq
 bf= Kjemisk taksonomi
 nn= Kjemotaksonomi
 nn= Kjemisk taksonomi
+en= Chemotaxonomy
+en= Chemical taxonomy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006742
@@ -57732,6 +57769,7 @@ id= REAL006898
 te= Reproduksjonsstrategier
 ba= nb
 nn= Reproduksjonsstrategiar
+en= Reproductive strategies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006899
@@ -58761,6 +58799,7 @@ id= REAL007015
 te= Populasjonsvekst
 ba= nk
 nn= Populasjonsvekst
+en= Population growth
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007016
@@ -58993,6 +59032,7 @@ ba= nk
 ba= nm
 ba= ns
 nn= Positivisme
+en= Positivism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007049
@@ -60418,6 +60458,7 @@ id= REAL007220
 te= Stjernestrukturer
 ba= na
 nn= Stjernestrukturar
+en= Stellar structures
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007221
@@ -61949,6 +61990,7 @@ te= Polarimetri
 ba= nk
 ba= na
 nn= Polarimetri
+en= Polarimetry
 tio= 2014-08-25T00:00:00Z
 st= REAL016721
 st= REAL029512
@@ -62060,6 +62102,7 @@ id= REAL007432
 te= Stjerneatmosfærer
 ba= na
 nn= Stjerneatmosfærar
+en= Stellar atmospheres
 tio= 2014-08-25T00:00:00Z
 st= REAL018178
 
@@ -62777,6 +62820,7 @@ te= Støpejern
 ba= nk
 nn= Støypejarn
 nn= Støypejern
+en= Cast iron
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007500
@@ -62802,6 +62846,7 @@ te= Soppforgiftning
 ba= nb
 ba= nq
 nn= Soppforgifting
+en= Mushroom poisoning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007505
@@ -63352,6 +63397,7 @@ id= REAL007571
 te= Sol-gel
 ba= nk
 nn= Sol-gel
+en= Sol-gel
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007572
@@ -65105,6 +65151,7 @@ id= REAL007786
 te= Reservater
 ba= nb
 nn= Reservat
+en= Reserves
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007787
@@ -67250,6 +67297,7 @@ id= REAL008057
 te= Oljeraffinering
 ba= nk
 nn= Oljeraffinering
+en= Petroleum refining
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008058
@@ -70703,6 +70751,7 @@ ba= nk
 bf= Varemerker
 nn= Varemerking
 nn= Varemerke
+en= Trademarks
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008470
@@ -71634,6 +71683,7 @@ id= REAL008567
 te= Applikasjonsgeneratorer
 ba= ns
 nn= Applikasjonsgeneratorar
+en= Application generators
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008568
@@ -73672,6 +73722,7 @@ id= REAL008814
 te= Pop-2
 ba= ni
 nn= Pop-2
+en= POP-2
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -74552,6 +74603,7 @@ te= Populasjonsstudier
 ba= nk
 ba= nb
 nn= Populasjonsstudiar
+en= Population studies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008923
@@ -76933,6 +76985,7 @@ id= REAL009205
 te= Multicast
 ba= ns
 nn= Multicast
+en= Multicast
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009206
@@ -79662,6 +79715,7 @@ id= REAL009557
 te= Spillprogrammering
 ba= ni
 nn= Spelprogrammering
+en= Game programming
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009558
@@ -80085,6 +80139,7 @@ te= Population viability analysis
 ba= nb
 ak= PVA
 nn= Populasjonsviabilitetsanalyse
+en= Population viability analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009599
@@ -81766,6 +81821,7 @@ te= Kirker
 ba= na
 ba= ns
 nn= Kyrkjer
+en= Churches
 tio= 2014-08-25T00:00:00Z
 st= REAL014543
 st= REAL024785
@@ -82857,6 +82913,7 @@ te= Praktiske ferdigheter
 ba= nb
 nn= Praktiske dugleikar
 nn= Praktiske ferdigheiter
+en= Practical skills
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009927
@@ -86184,6 +86241,7 @@ id= REAL010302
 te= Sosiometri
 ba= nk
 nn= Sosiometri
+en= Sociometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010303
@@ -86457,6 +86515,7 @@ te= Røntgenspredning
 ba= nk
 ba= nf
 nn= Røntgenspreiing
+en= X-ray scattering
 tio= 2014-08-25T00:00:00Z
 st= REAL022926
 
@@ -90136,6 +90195,7 @@ id= REAL010808
 te= Rollespill
 ba= nk
 nn= Rollespel
+en= Role-play
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010809
@@ -92509,6 +92569,7 @@ id= REAL011116
 te= Rutheniumkatalysatorer
 ba= nk
 nn= Rutheniumkatalysatorar
+en= Ruthenium catalysts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011117
@@ -92658,6 +92719,7 @@ id= REAL011140
 te= Predikatlogikk
 ba= ni
 nn= Predikatlogikk
+en= Predicate logic
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011141
@@ -95309,6 +95371,7 @@ id= REAL011472
 te= Stjerneflekker
 ba= na
 nn= Stjerneflekkar
+en= Starspots
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011474
@@ -100978,6 +101041,7 @@ ot= REAL013412
 nn= Sosialetikk
 nn= Samfunnsansvar
 nn= Samfunnsmoral
+en= Social ethics
 tio= 2014-08-25T00:00:00Z
 st= REAL028813
 
@@ -104914,6 +104978,7 @@ te= Østersoppdrett
 ba= nb
 so= REAL012516
 nn= Østersoppdrett
+en= Oyster farming
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012518
@@ -109210,6 +109275,7 @@ ba= nf
 so= REAL012880
 so= REAL007086
 nn= Radioaktiv forureining
+en= Radioactive contamination
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-15T16:33:49Z
 st= REAL016575
@@ -110204,6 +110270,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012977
 te= Kommunikasjonsteknikker
 nn= Kommunikasjonsteknikkar
+en= Communication techniques
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012978
@@ -112927,6 +112994,7 @@ nn= Risikoavfall
 nn= Farleg avfall
 nn= Giftig avfall
 nn= Problemavfall
+en= Hazardous waste
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013245
@@ -117245,6 +117313,7 @@ te= Popularisering
 ba= fa
 ba= ns
 nn= Popularisering
+en= Popularization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013497
@@ -120026,6 +120095,7 @@ nn= Førelesningsteknikk
 nn= Munnleg formidling
 nn= Munnleg kommunikasjon
 nn= Munnlege presentasjonar
+en= Presentation techniques
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-13T13:19:07Z
 st= REAL018470
@@ -120531,6 +120601,7 @@ te= Tk
 ba= ni
 so= REAL012801
 nn= Tk
+en= Tk
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
