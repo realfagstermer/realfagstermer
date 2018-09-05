@@ -6618,7 +6618,10 @@ id= REAL000784
 te= Leverceller
 ba= nb
 ba= ns
+bf= Hepatocytter
 nn= Leverceller
+nn= Hepatocyttar
+en= Hepatocytes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000785
@@ -6706,10 +6709,9 @@ st= REAL028076
 
 id= REAL000794
 te= Hepatocytter
-ba= nb
-nn= Hepatocyttar
-en= Hepatocytes
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-05T11:42:23Z
+fly= REAL000784
 
 id= REAL000795
 te= Sterilisering
@@ -8632,11 +8634,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001027
 te= Marine planter
-ba= nk
-ba= nb
-nn= Marine planter
-nn= Marine plantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-05T11:24:45Z
+fly= REAL002057
 
 id= REAL001030
 te= Glasial geomorfologi
@@ -12284,12 +12284,9 @@ st= REAL021928
 
 id= REAL001459
 te= Marinbotanikk
-ba= nb
-ba= ns
-nn= Marinbotanikk
-en= Marine botany
 tio= 2014-08-25T00:00:00Z
-st= REAL024866
+tis= 2018-09-05T11:25:40Z
+fly= REAL002057
 
 id= REAL001460
 te= Mygg
@@ -17091,8 +17088,23 @@ id= REAL002057
 te= Havflora
 ba= nk
 ba= nb
+bf= Havplanter
+bf= Marine planter
+bf= Marin flora
+bf= Marinbotanikk
 nn= Havflora
+nn= Havplanter
+nn= Havplantar
+nn= Marine planter
+nn= Marine plantar
+nn= Marin flora
+nn= Marinbotanikk
+en= Marine botany
 tio= 2014-08-25T00:00:00Z
+st= REAL019800
+st= REAL023002
+st= REAL026229
+st= REAL024866
 
 id= REAL002059
 te= Xenolitter
@@ -22028,13 +22040,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002613
 te= Havovervåking
-ba= ni
-bf= Havovervåkning
-nn= Havovervaking
-en= Marine monitoring
-en= Ocean monitoring
 tio= 2014-08-25T00:00:00Z
 tie= 2015-08-07T15:06:23Z
+tis= 2018-09-05T11:35:19Z
+fly= REAL011245
 
 id= REAL002614
 te= Sakprosa
@@ -43787,10 +43796,8 @@ fly= REAL003652
 
 id= REAL005240
 te= Glommaprosjektet
-ba= nb
-nn= Glommaprosjektet
 tio= 2014-08-25T00:00:00Z
-st= REAL014072
+tis= 2018-09-05T11:36:31Z
 
 id= REAL005241
 te= Størrelseseksklusjon
@@ -51102,7 +51109,6 @@ nn= Feilfinning
 en= Troubleshooting
 en= Debugging
 en= Fault detection
-en= Troubleshooting
 en= Error diagnosis
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-18T13:41:21Z
@@ -56070,10 +56076,9 @@ tie= 2017-04-04T17:32:28Z
 
 id= REAL006692
 te= Havplanter
-ba= nk
-nn= Havplanter
-nn= Havplantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-05T11:24:11Z
+fly= REAL002057
 
 id= REAL006693
 te= Marine makroalger
@@ -68521,13 +68526,9 @@ tie= 2018-01-23T23:46:01Z
 
 id= REAL008192
 te= Marin flora
-ba= nk
-ba= nb
-nn= Marin flora
 tio= 2014-08-25T00:00:00Z
-st= REAL019800
-st= REAL023002
-st= REAL026229
+tis= 2018-09-05T11:25:07Z
+fly= REAL002057
 
 id= REAL008193
 te= Bydeler
@@ -74129,7 +74130,6 @@ nn= Plasmafysikk
 nn= Plasmateoriar
 en= Plasma physics
 en= Plasma theory
-en= Plasma physics
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-17T21:11:43Z
 st= REAL014214
@@ -93601,9 +93601,14 @@ ba= nq
 bf= Miljøovervåkning
 bf= Naturovervåking
 bf= Naturovervåkning
+bf= Havovervåking
+bf= Havovervåkning
 nn= Miljøovervaking
 nn= Naturovervaking
+nn= Havovervaking
 en= Environmental monitoring
+en= Marine monitoring
+en= Ocean monitoring
 tio= 2014-08-25T00:00:00Z
 st= REAL016074
 st= REAL018738
@@ -108780,9 +108785,7 @@ nn= Hyperbolske geometriar
 nn= Hyperbolsk geometri
 en= Hyperbolic geometries
 en= Bolyai–Lobachevskian geometry
-en= Bolyai–Lobachevskian Geometry
 en= Lobachevskian geometry
-en= Lobachevskian Geometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012820
