@@ -5519,6 +5519,8 @@ id= REAL000651
 te= G-funksjoner
 ba= nm
 nn= G-funksjonar
+en= G-functions
+en= Meijer G-functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000652
@@ -5883,6 +5885,8 @@ id= REAL000697
 te= Kultursosiologi
 ba= ns
 nn= Kultursosiologi
+en= Cultural sociology
+en= Sociology of culture
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000698
@@ -8215,6 +8219,9 @@ ba= nb
 ba= nq
 ba= ns
 nn= Kulturminne
+en= Heritage monuments
+en= Cultural monuments
+en= Heritage sites
 tio= 2014-08-25T00:00:00Z
 st= REAL018136
 st= REAL027290
@@ -11824,6 +11831,8 @@ id= REAL001407
 te= Romfartshistorie
 ba= na
 nn= Romfartshistorie
+en= History of spaceflight
+en= History of space flight
 tio= 2014-08-25T00:00:00Z
 st= REAL018368
 
@@ -12533,6 +12542,7 @@ id= REAL001488
 te= Kvartærstratigrafi
 ba= ns
 nn= Kvartærstratigrafi
+en= Quaternary stratigraphy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001490
@@ -15878,6 +15888,7 @@ id= REAL001902
 te= Superledende komponenter
 ba= nf
 nn= Superleiande komponentar
+en= Superconductive devices
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001903
@@ -16271,6 +16282,7 @@ te= Organografi
 ba= nb
 ba= nq
 nn= Organografi
+en= Organography
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001958
@@ -17036,6 +17048,7 @@ id= REAL002051
 te= Syklotomiske kropper
 ba= nm
 nn= Syklotomiske kroppar
+en= Cyclotomic fields
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002052
@@ -18181,6 +18194,7 @@ ba= ni
 bf= Klesproduksjon
 nn= Tekstilindustri
 nn= Klesproduksjon
+en= Textile industry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002168
@@ -18279,6 +18293,7 @@ id= REAL002178
 te= Kraftelektronikk
 ba= nf
 nn= Kraftelektronikk
+en= Power electronics
 tio= 2014-08-25T00:00:00Z
 st= REAL025926
 
@@ -21628,6 +21643,8 @@ ba= nf
 bf= T-symmetri
 nn= Tidsreversering
 nn= T-symmetri
+en= Time reversal symmetry
+en= T-symmetry
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-04T22:40:48Z
 
@@ -24548,6 +24565,7 @@ id= REAL002906
 te= Tilstandsrom
 ba= ni
 nn= Tilstandsrom
+en= State spaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002907
@@ -25772,6 +25790,8 @@ id= REAL003061
 te= Termofile organismer
 ba= nb
 nn= Termofile organismar
+en= Thermophile organisms
+en= Thermophiles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003062
@@ -26607,6 +26627,7 @@ id= REAL003158
 te= Morseteori
 ba= nm
 nn= Morseteori
+en= Morse theory
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-04T23:23:22Z
 
@@ -31201,6 +31222,7 @@ ba= ni
 bf= Tcl/Tk
 nn= Tcl
 nn= Tcl/Tk
+en= Tcl
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -31350,6 +31372,8 @@ ba= ns
 bf= Kulturkonflikter
 nn= Kulturkollisjonar
 nn= Kulturkonfliktar
+en= Cultural conflicts
+en= Culture clashes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003728
@@ -34189,6 +34213,7 @@ te= Telematikk
 ba= ni
 ba= ns
 nn= Telematikk
+en= Telematics
 tio= 2014-08-25T00:00:00Z
 st= REAL016811
 
@@ -36713,6 +36738,7 @@ id= REAL004363
 te= Hamp
 ba= nb
 nn= Hamp
+en= Hemp
 tio= 2014-08-25T00:00:00Z
 st= REAL024165
 
@@ -40526,6 +40552,7 @@ id= REAL004834
 te= Kroppsteori
 ba= nm
 nn= Kroppsteori
+en= Field theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004835
@@ -45091,6 +45118,7 @@ id= REAL005408
 te= Kulturarv
 ba= nb
 nn= Kulturarv
+en= Cultural heritage
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005409
@@ -46791,6 +46819,7 @@ id= REAL005623
 te= Termisk energilagring
 ba= nf
 nn= Termisk energilagring
+en= Thermal energy storage
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005624
@@ -55249,6 +55278,7 @@ id= REAL006594
 te= Superledende magneter
 ba= nf
 nn= Superleiande magnetar
+en= Superconducting magnets
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006595
@@ -56437,6 +56467,7 @@ id= REAL006731
 te= Tamrein
 ba= nb
 nn= Tamrein
+en= Domestic reindeer
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006732
@@ -59252,6 +59283,8 @@ id= REAL007069
 te= Turistnæring
 ba= ni
 nn= Turistnæring
+en= Tourism industry
+en= Tourist industry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007070
@@ -63387,6 +63420,7 @@ id= REAL007564
 te= Transfeksjon
 ba= nb
 nn= Transfeksjon
+en= Transfection
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007565
@@ -65908,6 +65942,7 @@ id= REAL007878
 te= Transformasjonsgrupper
 ba= nm
 nn= Transformasjonsgrupper
+en= Transformation groups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007879
@@ -67216,6 +67251,7 @@ id= REAL008035
 te= Telemetri
 ba= nb
 nn= Telemetri
+en= Telemetry
 tio= 2014-08-25T00:00:00Z
 st= REAL019634
 
@@ -71286,6 +71322,7 @@ id= REAL008518
 te= Primærsuksesjon
 ba= nb
 nn= Primærsuksesjon
+en= Primary succession
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008519
@@ -72577,6 +72614,7 @@ tie= 2017-10-08T00:05:53Z
 
 id= REAL008666
 te= Svovelorganiske forbindelser
+en= Organosulfur compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008667
@@ -74970,6 +75008,7 @@ ba= na
 nn= Tidebølgjer
 nn= Tidebylgjer
 nn= Tidebølger
+en= Tidal waves
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008958
@@ -75564,6 +75603,7 @@ id= REAL009032
 te= Topologisk dynamikk
 ba= nm
 nn= Topologisk dynamikk
+en= Topological dynamics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009033
@@ -80297,6 +80337,7 @@ id= REAL009609
 te= Topologiske rom
 ba= nm
 nn= Topologiske rom
+en= Topological spaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009610
@@ -84148,6 +84189,7 @@ id= REAL010059
 te= Trekjemi
 ba= nk
 nn= Trekjemi
+en= Wood chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010060
@@ -84314,6 +84356,7 @@ id= REAL010077
 te= Transcendentale tall
 ba= nm
 nn= Transcendentale tal
+en= Transcendental numbers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010078
@@ -84703,6 +84746,7 @@ id= REAL010121
 te= Subarktis
 ba= nb
 nn= Subarktis
+en= Subarctic
 tio= 2014-08-25T00:00:00Z
 st= REAL019153
 
@@ -88344,6 +88388,7 @@ id= REAL010566
 te= Tekstilkonservering
 ba= nk
 nn= Tekstilkonservering
+en= Textile conservation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010567
@@ -89044,6 +89089,7 @@ id= REAL010648
 te= Termoluminescens
 ba= nf
 nn= Termoluminescens
+en= Thermoluminescence
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010649
@@ -91575,6 +91621,7 @@ id= REAL010975
 te= Kulturpolitikk
 ba= nq
 nn= Kulturpolitikk
+en= Cultural policy
 tio= 2014-08-25T00:00:00Z
 st= REAL019010
 st= REAL024526
@@ -92483,6 +92530,7 @@ id= REAL011090
 te= Transformatorer
 ba= nf
 nn= Transformatorar
+en= Transformers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011091
@@ -93267,6 +93315,9 @@ nn= Symbolsk datahandsaming
 nn= Symbolsk databehandling
 nn= Symbolsk matematisk databehandling
 nn= Symbolsk matematisk datahandsaming
+en= Symbolic computation
+en= Algebraic computation
+en= Computer algebra
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011199
@@ -93375,6 +93426,7 @@ te= Transdusere
 ba= nf
 nn= Transdusera
 nn= Transdusere
+en= Transducers
 tio= 2014-08-25T00:00:00Z
 st= REAL023243
 
@@ -97316,6 +97368,7 @@ id= REAL011685
 te= Tolegemeproblemet
 ba= na
 nn= Tolekamproblemet
+en= Two-body problem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011686
@@ -100430,6 +100483,7 @@ id= REAL012059
 te= Teknologiledelse
 ba= ni
 nn= Teknologileiing
+en= Technology management
 tio= 2014-08-25T00:00:00Z
 st= REAL020150
 
@@ -102467,6 +102521,7 @@ so= REAL012305
 so= REAL012306
 no= Brukes ikke lenger, bruk i stedet paleogen eller neogen.
 nn= Tertiær
+en= Tertiary
 de= Tidligere brukt om tidsavsnittet 66 millioner til 2,6 millioner år før nåtid.
 tio= 2014-08-25T00:00:00Z
 st= REAL014413
@@ -103039,6 +103094,7 @@ te= Tantal
 ba= nk
 ak= Ta
 nn= Tantal
+en= Tantalum
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012365
@@ -109294,6 +109350,9 @@ te= Søvnvansker
 so= REAL012872
 nn= Svevnvanskar
 nn= Søvnvanskar
+en= Sleep disorders
+en= Somnipathy
+en= Sleep problems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012872
@@ -110457,6 +110516,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012986
 te= Korrosjon
 nn= Korrosjon
+en= Corrosion
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-19T17:22:15Z
 
@@ -112264,6 +112324,7 @@ bf= Tidsserieanalyse
 nn= Tidsrekkjeanalyse
 nn= Tidsrekkeanalyse
 nn= Tidsserieanalyse
+en= Time series analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013166
@@ -117763,6 +117824,7 @@ ba= nm
 so= REAL013507
 so= REAL003967
 nn= Tid
+en= Time
 tio= 2014-08-25T00:00:00Z
 st= REAL015027
 st= REAL015605
@@ -119035,6 +119097,7 @@ ba= ns
 bf= Maskintegning
 nn= Teknisk teikning
 nn= Maskinteikning
+en= Technical drawing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013609
@@ -124967,6 +125030,7 @@ st= REAL027011
 id= REAL014003
 te= Kulturelle aspekter
 nn= Kulturelle aspekt
+en= Cultural aspects
 tio= 2014-08-25T00:00:00Z
 
 id= REAL014004
