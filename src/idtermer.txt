@@ -17116,8 +17116,8 @@ en= Marine botany
 tio= 2014-08-25T00:00:00Z
 st= REAL019800
 st= REAL023002
-st= REAL026229
 st= REAL024866
+st= REAL026229
 
 id= REAL002059
 te= Xenolitter
@@ -58532,9 +58532,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006974
 te= Kalkulasjon
-ba= nm
-nn= Kalkulasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T13:01:04Z
 
 id= REAL006975
 te= Relativ adressering
@@ -65408,9 +65407,8 @@ tis= 2018-07-23T10:42:37Z
 
 id= REAL007810
 te= Kalkyler
-ba= nm
-nn= Kalkylar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T13:00:57Z
 
 id= REAL007811
 te= Klippegrevlinger
