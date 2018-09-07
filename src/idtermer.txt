@@ -13350,10 +13350,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001591
 te= Granulater
-ba= nf
-ba= ns
-nn= Granulat
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-07T11:47:53Z
 
 id= REAL001592
 te= Ioniseringsmetoder
@@ -13902,10 +13900,9 @@ st= REAL019450
 
 id= REAL001660
 te= Lakseparasitter
-ba= nb
-nn= Lakseparasittar
 tio= 2014-08-25T00:00:00Z
-st= REAL026094
+tis= 2018-09-07T16:23:58Z
+fly= REAL003776
 
 id= REAL001661
 te= Molekylære systemer
@@ -14746,12 +14743,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001766
 te= Romfartsindustri
-ba= na
-bf= Romindustri
-nn= Romfartsindustri
-nn= Romindustri
 tio= 2014-08-25T00:00:00Z
-st= REAL019342
+tis= 2018-09-07T15:46:52Z
+fly= REAL004721
 
 id= REAL001767
 te= Legemiddelindustri
@@ -15961,8 +15955,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001915
 te= Dugonger
 ba= nb
+so= REAL005326
 nn= Dugongar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-07T16:54:33Z
 
 id= REAL001916
 te= Uorganiske karbonforbindelser
@@ -22070,10 +22066,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002615
 te= Elvefauna
-ba= nb
-ba= ngh
-nn= Elvefauna
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-07T18:11:39Z
 
 id= REAL002616
 te= Digitalkamera
@@ -29476,16 +29470,22 @@ tis= 2017-03-07T22:53:56Z
 id= REAL003502
 te= Dyphav
 ba= nc
-bf= Havdyp
+bf= Dypvann
 so= REAL001926
 nn= Djuphav
 nn= Havdjup
 nn= Havdjupn
 nn= Havdjupner
+nn= Djupvatn
 en= Deep sea
 en= Abyss
+en= Deep layer
+en= Deepwater
 tio= 2014-08-25T00:00:00Z
-tie= 2018-05-18T16:10:46Z
+tie= 2018-09-07T17:23:35Z
+st= REAL015393
+st= REAL023551
+st= REAL020192
 
 id= REAL003503
 te= Fosser
@@ -31700,11 +31700,13 @@ id= REAL003765
 te= Elvebredder
 ba= nb
 ba= nq
+so= REAL007720
 nn= Elvebreidder
 nn= Elvebredder
 en= River banks
 en= Banks
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-07T18:43:30Z
 st= REAL016405
 st= REAL019297
 
@@ -31850,9 +31852,16 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003776
 te= Fiskeparasitter
 ba= nb
+bf= Lakseparasitter
+bf= Lakselus
+bf= Fiskelus
 nn= Fiskeparasittar
+nn= Lakseparasittar
+nn= Lakselus
+nn= Fiskelus
 en= Fish parasites
 tio= 2014-08-25T00:00:00Z
+st= REAL026094
 
 id= REAL003777
 te= Kjeglesnitt
@@ -33341,11 +33350,8 @@ st= REAL028670
 
 id= REAL003951
 te= Høyhastighetsprosesser
-ba= ns
-nn= Snøggprosessar
-nn= Høghastigheitsprosessar
 tio= 2014-08-25T00:00:00Z
-st= REAL026814
+tis= 2018-09-07T11:50:09Z
 
 id= REAL003952
 te= Ideologi
@@ -34596,9 +34602,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004111
 te= Fiskelus
-ba= nb
-nn= Fiskelus
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-07T16:24:05Z
+fly= REAL003776
 
 id= REAL004112
 te= Stoffkretsløp
@@ -39652,12 +39658,17 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004721
 te= Astronautikk
 ba= na
+bf= Romfartsindustri
+bf= Romindustri
 so= REAL013499
 nn= Astronautikk
+nn= Romfartsindustri
+nn= Romindustri
 en= Astronautics
 en= Cosmonautics
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-09T15:05:35Z
+st= REAL019342
 st= REAL031185
 
 id= REAL004722
@@ -40819,9 +40830,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004871
 te= Elvefiske
-ba= nb
-nn= Elvefiske
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-07T18:17:36Z
+fly= REAL007189
 
 id= REAL004872
 te= Vannkvalitet
@@ -44496,8 +44507,11 @@ tie= 2017-04-03T13:08:40Z
 id= REAL005326
 te= Sjøkuer
 ba= nb
+bf= Sjøkyr
+so= REAL001915
 nn= Sjøkyr
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-07T16:54:30Z
 st= REAL019897
 st= REAL028845
 
@@ -56471,9 +56485,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006732
 te= Lakseforskning
-ba= nb
-nn= Lakseforsking
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-07T16:21:04Z
 
 id= REAL006733
 te= Karbider
@@ -56916,8 +56929,13 @@ id= REAL006789
 te= Elektrisk stimulering
 ba= ne
 ba= ns
+bf= Elektrostimulering
+bf= Elektroterapi
 nn= Elektrisk stimulering
+nn= Elektroterapi
+nn= Elektrostimulering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-07T18:04:32Z
 
 id= REAL006790
 te= Fosforforbindelser
@@ -57948,9 +57966,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006911
 te= Dvergtrær
-ba= nq
-nn= Dvergtre
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-07T17:02:06Z
 
 id= REAL006912
 te= Mikroanatomi
@@ -60310,6 +60327,7 @@ te= Laksefiske
 ba= nb
 nn= Laksefiske
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-07T18:17:44Z
 st= REAL015878
 st= REAL021098
 st= REAL025979
@@ -61810,12 +61828,9 @@ st= REAL022314
 
 id= REAL007377
 te= Dypvann
-ba= nb
-ba= ngh
-nn= Djupvatn
-en= Deepwater
 tio= 2014-08-25T00:00:00Z
-st= REAL020192
+tis= 2018-09-07T17:21:48Z
+fly= REAL003502
 
 id= REAL007380
 te= Planteparasitter
@@ -64674,8 +64689,12 @@ fly= REAL003528
 id= REAL007720
 te= Elvekantvegetasjon
 ba= nb
+bf= Elvebreddevegetasjon
+so= REAL003765
 nn= Elvekantvegetasjon
+nn= Elvebreddevegetasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-07T18:43:30Z
 
 id= REAL007721
 te= Ekstraksjon (kjemi)
@@ -79496,12 +79515,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009514
 te= Dypvannsundersøkelser
-ba= nb
-ba= ns
-nn= Djupvassundersøkingar
 tio= 2014-08-25T00:00:00Z
-st= REAL015393
-st= REAL023551
+tis= 2018-09-07T17:23:31Z
+fly= REAL003502
 
 id= REAL009515
 te= Byhistorie
@@ -88199,9 +88215,9 @@ st= REAL029579
 
 id= REAL010543
 te= Lakselus
-ba= nb
-nn= Lakselus
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-07T16:22:58Z
+fly= REAL001660
 
 id= REAL010544
 te= Biologisk styrkebestemmelse
