@@ -2044,9 +2044,8 @@ st= REAL024743
 
 id= REAL000242
 te= Dverghjorter
-ba= nb
-nn= Dverghjortar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T22:15:50Z
 
 id= REAL000243
 te= Byssustråder
@@ -12285,11 +12284,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001458
 te= Korsblomster
-ba= nq
-nn= Krossblomar
 tio= 2014-08-25T00:00:00Z
-st= REAL015060
-st= REAL021928
+tis= 2018-09-06T22:10:46Z
+fly= REAL007091
 
 id= REAL001459
 te= Marinbotanikk
@@ -17186,8 +17183,10 @@ id= REAL002066
 te= Kjønnsdimorfisme
 ba= nb
 bf= Seksuell dimorfisme
+bf= Kjønnsdannelse
 nn= Kjønnsdimorfisme
 nn= Seksuell dimorfisme
+nn= Kjønnsdanning
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-09T16:29:29Z
 
@@ -25393,9 +25392,9 @@ fly= REAL005740
 
 id= REAL003010
 te= Kjønnsdannelse
-ba= nb
-nn= Kjønnsdanning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T22:02:49Z
+fly= REAL002066
 
 id= REAL003011
 te= Nitrogenoksider
@@ -57504,9 +57503,8 @@ st= REAL025450
 
 id= REAL006860
 te= Dyreoppdrett
-ba= nb
-nn= Dyreoppdrett
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T22:23:38Z
 
 id= REAL006861
 te= Brobygging
@@ -58200,9 +58198,8 @@ st= REAL024865
 
 id= REAL006937
 te= Dyrenavn
-ba= ns
-nn= Dyrenamn
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T22:22:44Z
 
 id= REAL006938
 te= Brønnboring
@@ -59523,7 +59520,9 @@ ba= nk
 ba= nb
 ba= nq
 ba= ns
+bf= Korsblomster
 nn= Krossblomfamilien
+nn= Krossblomar
 tio= 2014-08-25T00:00:00Z
 st= REAL014566
 st= REAL015955
@@ -65301,10 +65300,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007796
 te= Elgforvaltning
-ba= nb
-nn= Elgforvalting
-nn= Elgforvaltning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T22:30:09Z
 
 id= REAL007797
 te= Vannkraft
@@ -94309,10 +94306,8 @@ tie= 2015-02-13T00:00:00Z
 
 id= REAL011327
 te= Kinase
-ba= ne
-nn= Kinase
-en= Kinase
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T22:02:13Z
 
 id= REAL011328
 te= Blomstermedisin
@@ -95056,10 +95051,14 @@ tis= 2017-06-01T15:20:03Z
 fly= REAL011196
 
 id= REAL011417
-te= Dvergmaller
+te= Dvergmalle
 ba= nb
-nn= Dvergmallar
+nn= Dvergmalle
+en= Brown bullhead
+la= Ameiurus nebulosus
+la= Ictalurus nebulosus
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-06T22:18:40Z
 
 id= REAL011418
 te= Fjellanlegg
@@ -110390,8 +110389,8 @@ fly= REAL006698
 
 id= REAL012966
 te= Karbonylmetabolisme
-nn= Karbonylmetabolisme
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-06T21:59:15Z
 
 id= REAL012967
 te= Kjemiske effekter
