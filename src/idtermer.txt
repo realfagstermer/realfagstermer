@@ -410,9 +410,14 @@ tis= 2018-01-12T15:11:57Z
 id= REAL000052
 te= Spetter
 ba= nb
+bf= Spettefugler
+bf= Hakkespetter
 nn= Spettar
 nn= Spetter
+nn= Spettefuglar
+nn= Hakkespettar
 tio= 2014-08-25T00:00:00Z
+st= REAL029976
 
 id= REAL000053
 te= Etere
@@ -1762,10 +1767,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000205
 te= Lichenologi
-ba= nk
-nn= Lichenologi
 tio= 2014-08-25T00:00:00Z
-st= REAL025210
+tis= 2018-09-08T08:52:54Z
+fly= REAL013006
 
 id= REAL000206
 te= Forskningsstasjoner
@@ -5082,9 +5086,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000594
 te= Littoraløkologi
-ba= nb
-nn= Littoraløkologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-08T09:07:13Z
+fly= REAL003430
 
 id= REAL000595
 te= Stauder
@@ -7357,11 +7361,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000881
 te= Fytomedisin
-ba= ne
-nn= Fytomedisin
-en= Phytomedicine
 tio= 2014-08-25T00:00:00Z
-st= REAL015371
+tis= 2018-09-08T09:31:59Z
+fly= REAL010258
 
 id= REAL000882
 te= Islamske land
@@ -18348,10 +18350,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002186
 te= Hakkespetter
-ba= nb
-nn= Hakkespettar
 tio= 2014-08-25T00:00:00Z
-st= REAL017372
+tis= 2018-09-08T09:35:42Z
+fly= REAL000052
 
 id= REAL002187
 te= Fly
@@ -23340,10 +23341,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002770
 te= Spettefugler
-ba= nb
-nn= Spettefuglar
 tio= 2014-08-25T00:00:00Z
-st= REAL029976
+tis= 2018-09-08T09:35:30Z
+fly= REAL000052
 
 id= REAL002771
 te= Flyplasser
@@ -25464,8 +25464,19 @@ st= REAL022221
 id= REAL003020
 te= Stankelbein
 ba= nb
+bf= Tipulider
+bf= Storstankelbein
+bf= Myhank
 nn= Stankelbein
+nn= Tipulider
+nn= Storstankelbein
+nn= Myhank
+en= Crane flies
+en= Crane fly
+en= Tipulids
+la= Tipulidae
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-08T09:41:50Z
 
 id= REAL003021
 te= Fermiflater
@@ -28862,9 +28873,16 @@ id= REAL003430
 te= Littoralsonen
 ba= nb
 bf= Littoralen
+bf= Littoralfauna
+bf= Littoraløkologi
+bf= Littoralsamfunn
 nn= Littoralsona
 nn= Littoralen
+nn= Littoralfauna
+nn= Littoraløkologi
+nn= Littoralsamfunn
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-08T09:09:26Z
 st= REAL024428
 
 id= REAL003431
@@ -29490,8 +29508,8 @@ en= Deepwater
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-07T17:23:35Z
 st= REAL015393
-st= REAL023551
 st= REAL020192
+st= REAL023551
 
 id= REAL003503
 te= Fosser
@@ -32133,9 +32151,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003810
 te= Sitronmelisse
-ba= ne
-nn= Sitronmelisse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-08T09:29:05Z
 
 id= REAL003811
 te= Elektriske signaler
@@ -37089,9 +37106,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004406
 te= Littoralfauna
-ba= nb
-nn= Littoralfauna
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-08T09:06:45Z
+fly= REAL003430
 
 id= REAL004407
 te= Sol-observasjon
@@ -65880,7 +65897,10 @@ id= REAL007863
 te= Svalbardrein
 ba= nb
 nn= Svalbardrein
+en= Svalbard reindeer
+la= Rangifer tarandus platyrhynchus
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-08T09:50:27Z
 
 id= REAL007864
 te= Øyemodeller
@@ -84915,9 +84935,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010138
 te= Litoralsamfunn
-ba= nb
-nn= Litoralsamfunn
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-08T09:08:24Z
+fly= REAL003430
 
 id= REAL010139
 te= Termodynamiske data
@@ -85976,6 +85996,7 @@ bf= Urtemedisin
 bf= Medisinske planter
 bf= Legeplanter
 bf= Legeurter
+bf= Fytomedisin
 so= REAL004665
 nn= Medisinplanter
 nn= Legeplantar
@@ -85986,11 +86007,13 @@ nn= Medisinplantar
 nn= Medisinske plantar
 nn= Medisinske planter
 nn= Urtemedisin
+nn= Fytomedisin
 en= Medicinal plants
 en= Medicinal herbs
 en= Medical herbs
 en= Herbalism
 en= Herbal medicine
+en= Phytomedicine
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-07T21:12:46Z
 st= REAL014441
@@ -101011,8 +101034,10 @@ id= REAL012131
 te= Svalbardrype
 ba= nb
 nn= Svalbardrype
+en= Svalbard rock ptarmigan
+la= Lagopus muta hyperborea
 tio= 2014-08-25T00:00:00Z
-tie= 2017-08-16T13:56:41Z
+tie= 2018-09-08T09:52:39Z
 
 id= REAL012132
 te= Kjønnsfordelinger
@@ -110712,9 +110737,11 @@ ba= ns
 bf= Lichen
 bf= Lichenes
 bf= Laver
+bf= Lichenologi
 nn= Lav
 nn= Lichen
 nn= Lichenes
+nn= Lichenologi
 tio= 2014-08-25T00:00:00Z
 st= REAL014204
 st= REAL014773
