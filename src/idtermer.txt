@@ -7376,6 +7376,7 @@ ba= nf
 bf= Sanntidsmodeller
 nn= Sanntidssystem
 nn= Sanntidsmodellar
+en= Real-time systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000886
@@ -8190,6 +8191,8 @@ id= REAL000977
 te= Echiurider
 ba= nb
 nn= Echiurid
+en= Echiurians
+en= Spoon worms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000979
@@ -12995,6 +12998,7 @@ id= REAL001548
 te= Edderkopper
 ba= nb
 nn= Edderkoppar
+en= Spiders
 tio= 2014-08-25T00:00:00Z
 st= REAL014221
 st= REAL016448
@@ -13206,6 +13210,7 @@ id= REAL001573
 te= Dyphavsmarulker
 ba= ns
 nn= Djuphavsmarulkar
+en= Sea devils
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001574
@@ -15957,6 +15962,7 @@ te= Dugonger
 ba= nb
 so= REAL005326
 nn= Dugongar
+en= Dugongs
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-07T16:54:33Z
 
@@ -29660,6 +29666,7 @@ id= REAL003524
 te= Eksotiske frukter
 ba= nq
 nn= Eksotiske frukter
+en= Exotic fruits
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003525
@@ -36545,6 +36552,7 @@ id= REAL004338
 te= Eikehjorter
 ba= nb
 nn= Eikehjortar
+en= Stag beetle
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004339
@@ -41899,6 +41907,7 @@ id= REAL005002
 te= Ekskresjonsorganer
 ba= nb
 nn= Ekskresjonsorgan
+en= Excretory organs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005003
@@ -45166,6 +45175,7 @@ ba= ngh
 ba= nq
 bf= Edellauvskog
 nn= Edellauvskog
+en= Temperate deciduous forest
 tio= 2014-08-25T00:00:00Z
 st= REAL014539
 st= REAL020448
@@ -47119,6 +47129,8 @@ te= Dyreboliger
 ba= nb
 nn= Dyrebustader
 nn= Dyrebustadar
+en= Animal burrows
+en= Animal homes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005658
@@ -53262,6 +53274,7 @@ ba= nb
 ba= ne
 ba= nq
 nn= Dyrking
+en= Cultivation
 tio= 2014-08-25T00:00:00Z
 st= REAL023488
 
@@ -56934,6 +56947,7 @@ bf= Elektroterapi
 nn= Elektrisk stimulering
 nn= Elektroterapi
 nn= Elektrostimulering
+en= Electrostimulation
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-07T18:04:32Z
 
@@ -59012,6 +59026,7 @@ id= REAL007031
 te= Dyresamfunn
 ba= nb
 nn= Dyresamfunn
+en= Animal communities
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007032
@@ -62491,6 +62506,8 @@ id= REAL007459
 te= Dyrehår
 ba= nb
 nn= Dyrehår
+en= Animal hair
+en= Animal fur
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007460
@@ -71180,6 +71197,8 @@ te= Ekorn
 ba= nb
 nn= Ekorn
 nn= Ikorn
+en= Squirrel
+en= Red squirrel
 tio= 2014-08-25T00:00:00Z
 st= REAL015404
 
@@ -77972,6 +77991,7 @@ id= REAL009311
 te= Egglegging
 ba= nb
 nn= Egglegging
+en= Egg-laying
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009312
@@ -89824,6 +89844,7 @@ id= REAL010744
 te= Dyphavsfotografering
 ba= nb
 nn= Djuphavsfotografering
+en= Deep-sea photography
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010745
@@ -93247,6 +93268,7 @@ ba= nb
 nn= Eggtjukne
 nn= Eggtjukkleik
 nn= Eggtjukn
+en= Egg thickness
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011191
@@ -94097,6 +94119,7 @@ ba= ne
 ba= nq
 nn= Einer
 nn= Brake
+en= Juniper
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011299
@@ -95419,6 +95442,7 @@ id= REAL011457
 te= Dyrefeller
 ba= nb
 nn= Dyrefeller
+en= Animal traps
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011458
@@ -121402,6 +121426,8 @@ nn= Eksperimentelle metodar
 nn= Eksperimentell design
 nn= Forsøksdesign
 nn= Forsøksmetodar
+en= Experimental methods
+en= Experiment design
 dw= 570.724
 tio= 2014-08-25T00:00:00Z
 st= REAL029244
@@ -125176,6 +125202,8 @@ tio= 2014-08-25T00:00:00Z
 id= REAL014020
 te= Ekte hussopp
 nn= Ekte hussopp
+en= Serpula lacrymans
+en= Dry rot
 la= Serpula lacrymans
 tio= 2014-08-25T00:00:00Z
 
