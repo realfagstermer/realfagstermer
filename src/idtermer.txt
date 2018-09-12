@@ -1982,9 +1982,8 @@ fly= REAL006256
 
 id= REAL000235
 te= Planteproduksjon
-ba= nb
-nn= Planteproduksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-12T13:20:19Z
 
 id= REAL000237
 te= Tidsmåling
@@ -3060,9 +3059,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000364
 te= Strålingshygiene
-ba= nk
-nn= Strålingshygiene
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-12T13:27:23Z
+fly= REAL000903
 
 id= REAL000365
 te= Modellorganismer
@@ -6452,6 +6451,7 @@ id= REAL000767
 te= Bonsai
 ba= nb
 ba= nq
+bf= Dvergtrær
 nn= Bonsai
 en= Bonsai
 tio= 2014-08-25T00:00:00Z
@@ -7497,7 +7497,9 @@ id= REAL000903
 te= Strålevern
 ba= nk
 ba= nf
+bf= Strålingshygiene
 nn= Strålevern
+nn= Strålingshygiene
 tio= 2014-08-25T00:00:00Z
 st= REAL016196
 
@@ -15041,10 +15043,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001799
 te= Plantefamilier
-ba= nb
-ba= nq
-nn= Plantefamiliar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-12T13:18:55Z
 
 id= REAL001800
 te= Eik
@@ -17269,10 +17269,15 @@ id= REAL002077
 te= Nevrotransmittere
 ba= nb
 bf= Neurotransmittorer
+bf= Transmitter
+bf= Transmittersubstanser
 nn= Nevrotransmitterar
+nn= Transmitter
+nn= Transmittersubstanser
+nn= Transmittersubstansar
 en= Neurotransmitters
 tio= 2014-08-25T00:00:00Z
-tie= 2017-09-06T14:42:02Z
+tie= 2018-09-12T13:28:52Z
 st= REAL025332
 
 id= REAL002078
@@ -34771,13 +34776,19 @@ st= REAL027839
 st= REAL029742
 
 id= REAL004127
-te= Koalaer
+te= Koala
 ba= nk
 bf= Pungbjørner
-nn= Koalaer
-nn= Koalaar
+bf= Pungbjørn
+bf= Koalaer
+nn= Koala
 nn= Pungbjørnar
+nn= Pungbjørn
+en= Koala
+en= Koala bear
+la= Phascolarctos cinereus
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-12T13:22:28Z
 st= REAL021881
 
 id= REAL004128
@@ -51540,9 +51551,9 @@ st= REAL019605
 
 id= REAL006180
 te= Transmitter
-ba= nb
-nn= Transmitter
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-12T13:28:19Z
+fly= REAL002077
 
 id= REAL006181
 te= Marin plankton
@@ -57998,7 +58009,8 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006911
 te= Dvergtrær
 tio= 2014-08-25T00:00:00Z
-tis= 2018-09-07T17:02:06Z
+tis= 2018-09-12T13:23:29Z
+fly= REAL000767
 
 id= REAL006912
 te= Mikroanatomi
@@ -60815,9 +60827,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007251
 te= Hardførhet
-ba= nk
-nn= Hardførheit
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-12T13:26:42Z
+fly= REAL011081
 
 id= REAL007252
 te= Eksperimentell biologi
@@ -79540,10 +79552,8 @@ tie= 2018-02-12T20:20:41Z
 
 id= REAL009512
 te= Hypertermi
-ba= ns
-nn= Hypertermi
-en= Hyperthermia
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-12T13:27:05Z
 
 id= REAL009513
 te= Mikrobølgespektroskopi
@@ -91532,11 +91542,9 @@ tis= 2017-01-05T20:22:24Z
 
 id= REAL010960
 te= Lundefugler
-ba= nb
-nn= Lundefuglar
-en= Puffins
 tio= 2014-08-25T00:00:00Z
-st= REAL016109
+tis= 2018-09-12T13:24:26Z
+fly= REAL011506
 
 id= REAL010961
 te= Økofilosofi
@@ -92478,8 +92486,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011081
 te= Miljøbelastning
 ba= nb
+bf= Hardførhet
 nn= Miljøbelasting
 nn= Miljøbelastning
+nn= Hardførheit
 en= Environmental stress
 tio= 2014-08-25T00:00:00Z
 
@@ -95843,7 +95853,12 @@ ba= nb
 bf= Lundefugl
 nn= Lunde
 nn= Lundefugl
+en= Atlantic puffin
+en= Common puffin
+la= Fratercula arctica
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-12T13:25:43Z
+st= REAL016109
 
 id= REAL011507
 te= Værvarsling
