@@ -68226,9 +68226,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008143
 te= Larveformer
-ba= nb
-nn= Larveformer
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-13T17:14:24Z
 
 id= REAL008144
 te= Karsporeplanter
