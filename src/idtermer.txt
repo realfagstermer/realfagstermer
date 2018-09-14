@@ -13225,13 +13225,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001575
 te= Transportprosesser
-ba= nk
-ba= nf
-ba= nm
-so= REAL013170
-nn= Transportprosessar
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T14:29:49Z
+tis= 2018-09-14T19:23:15Z
+fly= REAL013170
 
 id= REAL001576
 te= Okkultisme
@@ -13696,9 +13693,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001638
 te= Ustabile atomkjerner
-ba= nk
-nn= Ustabile atomkjernar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T21:42:00Z
+fly= REAL013278
 
 id= REAL001640
 te= Autøkologi
@@ -25520,9 +25517,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003026
 te= Videoprosessering
-ba= ni
-nn= Videoprosessering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T21:08:40Z
+fly= REAL011800
 
 id= REAL003027
 te= Målefeil
@@ -35037,10 +35034,14 @@ en= Cycloadditions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004155
-te= Transisjonssonen
+te= Overgangssonen
 ba= na
+bf= Solens transisjonssone
+bf= Solens overgangssone
+bf= Transisjonssonen
 nn= Transisjonssona
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-14T20:01:12Z
 st= REAL015920
 
 id= REAL004156
@@ -55674,10 +55675,8 @@ tis= 2018-07-16T10:02:59Z
 
 id= REAL006634
 te= Værtabeller
-ba= ngh
-nn= Vêrtabellar
-nn= Vertabellar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T21:12:26Z
 
 id= REAL006635
 te= Mud object oriented
@@ -63072,11 +63071,9 @@ tis= 2017-01-05T23:08:35Z
 
 id= REAL007518
 te= Lysmåling
-ba= nf
-ba= ns
-nn= Ljosmåling
-nn= Lysmåling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T20:32:53Z
+fly= REAL009409
 
 id= REAL007519
 te= Atomur
@@ -65118,11 +65115,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007765
 te= Honningplanter
-ba= ns
-nn= Honningplanter
-nn= Honningplantar
-en= Honey plants
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T14:49:57Z
 
 id= REAL007766
 te= MARC
@@ -65794,12 +65788,8 @@ tis= 2018-01-23T16:36:06Z
 
 id= REAL007848
 te= Vannbehandling
-ba= nk
-ba= nb
-nn= Vasshandsaming
-nn= Vassbehandling
-en= Water treatment
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T21:37:28Z
 
 id= REAL007849
 te= Analysemetoder
@@ -71153,11 +71143,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008488
 te= Energitransport
-ba= nk
-ba= nb
-ba= ngh
-nn= Energitransport
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T18:25:37Z
 
 id= REAL008489
 te= Programmeringsteori
@@ -78740,7 +78727,10 @@ ba= nc
 ba= nf
 ba= ngh
 ba= ns
+bf= Lysmåling
 nn= Fotometri
+nn= Ljosmåling
+nn= Lysmåling
 en= Photometry
 tio= 2014-08-25T00:00:00Z
 st= REAL015482
@@ -79746,9 +79736,9 @@ fly= REAL001680
 
 id= REAL009539
 te= Synergetikk
-ba= nf
-nn= Synergetikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T17:01:14Z
+fly= REAL011088
 
 id= REAL009540
 te= Monolitt
@@ -92570,10 +92560,12 @@ te= Selvorganiserende systemer
 ba= ni
 bf= Selvorganisering
 bf= Selvstabiliserende systemer
+bf= Synergetikk
 so= REAL031238
 nn= Sjølvorganiserande system
 nn= Sjølvorganisering
 nn= Sjølvstabiliserande system
+nn= Synergetikk
 en= Self-organizing systems
 en= Self-stabilizing systems
 en= Self-organisation
@@ -92848,9 +92840,12 @@ id= REAL011125
 te= Elveplanter
 ba= nk
 ba= nb
+bf= Elveflora
 nn= Elveplanter
 nn= Elveplantar
+nn= Elveflora
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-14T18:13:05Z
 
 id= REAL011126
 te= Diofantiske approksimasjoner
@@ -94551,11 +94546,14 @@ tis= 2018-07-23T19:13:37Z
 fly= REAL007065
 
 id= REAL011349
-te= Uorden
+te= Uordnede systemer
 ba= nk
 ba= nf
+bf= Uorden
+nn= Uordna system
 nn= Uorden
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-14T20:57:38Z
 
 id= REAL011350
 te= AspectJ
@@ -98487,8 +98485,10 @@ tie= 2015-10-05T15:00:36Z
 id= REAL011800
 te= Videobehandling
 ba= ni
+bf= Videoprosessering
 nn= Videohandsaming
 nn= Videobehandling
+nn= Videoprosessering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011801
@@ -112513,22 +112513,23 @@ en= Transfinite numbers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013170
-te= Transportteori
+te= Transportfenomener
 ba= na
 ba= nf
 ba= nm
-bf= Transportfenomener
 bf= Transportligninger
 bf= Transportlikninger
-so= REAL001575
-nn= Transportteori
+bf= Transportteori
+bf= Transportprosesser
 nn= Transportfenomen
+nn= Transportteori
 nn= Transportlikningar
-en= Transport theory
+nn= Transportprosessar
 en= Transport phenomena
+en= Transport theory
 en= Transport equations
 tio= 2014-08-25T00:00:00Z
-tie= 2018-04-30T23:03:06Z
+tie= 2018-09-14T19:22:41Z
 
 id= REAL013171
 te= Trofiske nivåer
@@ -113748,7 +113749,7 @@ nn= Tungion
 en= Heavy ions
 de= Innen kjernefysikk, ion med masse større enn helium-4-kjernen (alfapartikkel)
 tio= 2014-08-25T00:00:00Z
-tie= 2018-03-23T17:08:19Z
+tie= 2018-09-14T21:42:09Z
 
 id= REAL013279
 te= Tynnfilmer
