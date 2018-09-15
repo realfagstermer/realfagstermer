@@ -4410,10 +4410,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000520
 te= Magnetiske instrumenter
-ba= na
-ba= ns
-nn= Magnetiske instrument
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T23:34:41Z
 
 id= REAL000521
 te= Venuspassasjer
@@ -11221,12 +11219,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001319
 te= Terminering
-ba= ni
-bf= Termineringsbevis
-nn= Terminering
-nn= Termineringsbevis
-nn= Termineringsprov
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T23:14:36Z
 
 id= REAL001320
 te= Infrarød video
@@ -19959,6 +19953,7 @@ id= REAL002377
 te= Endonukleaser
 ba= nb
 nn= Endonukleasar
+en= Endonucleases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002378
@@ -23264,10 +23259,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002762
 te= Dimensjoner
-ba= nk
-nn= Dimensjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL020826
+tis= 2018-09-14T23:32:13Z
 
 id= REAL002763
 te= Gjess
@@ -29647,6 +29640,7 @@ id= REAL003518
 te= Endemismer
 ba= nq
 nn= Endemismar
+en= Endemisms
 tio= 2014-08-25T00:00:00Z
 st= REAL025095
 
@@ -35040,6 +35034,8 @@ bf= Solens transisjonssone
 bf= Solens overgangssone
 bf= Transisjonssonen
 nn= Transisjonssona
+en= Solar transition region
+en= Transition region
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-14T20:01:12Z
 st= REAL015920
@@ -35361,6 +35357,7 @@ ba= nb
 ba= ngh
 ba= nq
 nn= Vegetasjonsdynamikk
+en= Vegetation dynamics
 tio= 2014-08-25T00:00:00Z
 st= REAL026555
 
@@ -37248,6 +37245,8 @@ id= REAL004420
 te= Esler
 ba= nb
 nn= Esel
+en= Donkeys
+en= Asses
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004421
@@ -38632,11 +38631,8 @@ st= REAL022006
 
 id= REAL004589
 te= Legemer
-ba= nk
-ba= nm
-ba= ns
-nn= Lekamar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-15T00:32:17Z
 
 id= REAL004590
 te= Elevmedvirkning
@@ -49926,6 +49922,8 @@ id= REAL005988
 te= Engvegetasjon
 ba= nb
 nn= Engvegetasjon
+en= Meadow vegetation
+en= Grassland vegetation
 tio= 2014-08-25T00:00:00Z
 st= REAL016150
 
@@ -54344,12 +54342,9 @@ tie= 2018-05-18T15:39:29Z
 
 id= REAL006474
 te= Økonomistyring
-ba= ns
-bf= Økonomisk styring
-nn= Økonomistyring
-nn= Økonomisk styring
 tio= 2014-08-25T00:00:00Z
 tie= 2018-08-29T19:42:40Z
+tis= 2018-09-15T01:09:51Z
 
 id= REAL006475
 te= Semigrupper
@@ -54962,6 +54957,8 @@ ba= nb
 ba= nq
 nn= Erteplanter
 nn= Erteplantar
+en= Pea family
+en= Legume family
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006545
@@ -59104,7 +59101,12 @@ fly= REAL006740
 id= REAL007039
 te= Fotosensitivitet
 ba= nk
+bf= Lysfølsomhet
 nn= Fotosensitivitet
+nn= Ljosfølsemd
+nn= Ljosvarleik
+nn= Lysfølsemd
+nn= Lysvarleik
 en= Photosensitivity
 tio= 2014-08-25T00:00:00Z
 
@@ -62204,19 +62206,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007429
 te= Spektra
-ba= ni
-ba= nk
-ba= na
-ba= ne
-ba= nf
-bf= Spektrum
-nn= Spektrum
-nn= Spekter
 tio= 2014-08-25T00:00:00Z
-st= REAL016434
-st= REAL019734
-st= REAL022662
-st= REAL028055
+tis= 2018-09-14T23:28:43Z
 
 id= REAL007430
 te= Organisk biokjemi
@@ -65602,6 +65593,8 @@ id= REAL007826
 te= Ertemuslinger
 ba= nb
 nn= Ertemuslingar
+en= Pea clams
+en= Fingernail clams
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007827
@@ -66668,10 +66661,11 @@ en= Fog
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007964
-te= Syndfloden
+te= Syndfloder
 ba= nc
-nn= Syndfloda
+nn= Syndfloder
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-14T23:11:18Z
 
 id= REAL007965
 te= Brudd
@@ -76374,10 +76368,8 @@ st= REAL031609
 
 id= REAL009105
 te= Temperaturavhengighet
-ba= nk
-nn= Temperaturavhengnad
-nn= Temperaturavhengigheit
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T23:13:44Z
 
 id= REAL009106
 te= Historisk geografi
@@ -83228,6 +83220,7 @@ id= REAL009943
 te= Energetikk
 ba= nb
 nn= Energetikk
+en= Energetics
 tio= 2014-08-25T00:00:00Z
 st= REAL017085
 st= REAL026056
@@ -85612,9 +85605,8 @@ fly= REAL010424
 
 id= REAL010212
 te= Projeksjon
-ba= na
-nn= Projeksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T23:35:07Z
 
 id= REAL010213
 te= Tidsskalaer
@@ -87134,10 +87126,13 @@ tis= 2017-11-07T14:21:05Z
 fly= REAL003473
 
 id= REAL010394
-te= Studiestipend
+te= Stipender
 ba= nk
+bf= Studiestipend
+nn= Stipend
 nn= Studiestipend
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-14T23:07:10Z
 
 id= REAL010396
 te= Faseoverføringskatalyse
@@ -89840,6 +89835,7 @@ id= REAL010740
 te= Epifyttiske lav
 ba= nq
 nn= Epifyttiske lav
+en= Epiphytic lichens
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010741
@@ -91470,12 +91466,9 @@ st= REAL025262
 
 id= REAL010950
 te= Lysfølsomhet
-ba= nk
-nn= Ljosfølsemd
-nn= Ljosvarleik
-nn= Lysfølsemd
-nn= Lysvarleik
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T23:27:18Z
+fly= REAL007039
 
 id= REAL010951
 te= Genmodeller
@@ -92844,6 +92837,8 @@ bf= Elveflora
 nn= Elveplanter
 nn= Elveplantar
 nn= Elveflora
+en= River plants
+en= River flora
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-14T18:13:05Z
 
@@ -93889,9 +93884,8 @@ st= REAL025750
 
 id= REAL011269
 te= Skriveprosesser
-ba= ns
-nn= Skriveprosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-14T22:44:18Z
 
 id= REAL011270
 te= Komparativ sansefysiologi
@@ -94004,6 +93998,7 @@ id= REAL011283
 te= Urmakeri
 ba= na
 nn= Urmakeri
+en= Clockwork
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011284
@@ -94552,6 +94547,8 @@ ba= nf
 bf= Uorden
 nn= Uordna system
 nn= Uorden
+en= Disordered systems
+en= Disorder (physics)
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-14T20:57:38Z
 
@@ -98489,6 +98486,7 @@ bf= Videoprosessering
 nn= Videohandsaming
 nn= Videobehandling
 nn= Videoprosessering
+en= Video processing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011801
@@ -98676,11 +98674,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011824
 te= Stasjoner
-ba= nb
-nn= Stasjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL024198
-st= REAL029318
+tis= 2018-09-15T00:38:39Z
 
 id= REAL011825
 te= Hydrolyse
@@ -118873,7 +118868,6 @@ tie= 2017-01-05T18:13:49Z
 st= REAL015671
 st= REAL018718
 st= REAL020516
-st= REAL020841
 st= REAL021407
 st= REAL021808
 st= REAL028771
@@ -125057,7 +125051,6 @@ en= Universe
 tio= 2014-08-25T00:00:00Z
 st= REAL014821
 st= REAL019062
-st= REAL020164
 st= REAL022741
 st= REAL027817
 st= REAL027861
@@ -128986,14 +128979,16 @@ tie= 2018-07-20T17:53:30Z
 id= REAL032019
 te= Stive legemers dynamikk
 bf= Stive legemers mekanikk
+bf= Faste legemers dynamikk
 ot= REAL010474
 ot= REAL013568
 nn= Stive lekamars dynamikk
 nn= Stive lekamars mekanikk
+nn= Faste lekamars dynamikk
 en= Rigid body dynamics
 en= Rigid-body dynamics
 tio= 2018-07-20T18:36:28Z
-tie= 2018-07-20T18:41:27Z
+tie= 2018-09-15T00:33:49Z
 
 id= REAL032020
 te= Kampsport
@@ -129055,10 +129050,10 @@ tie= 2018-08-03T20:56:22Z
 
 id= REAL032028
 te= Faste legemers dynamikk
-nn= Faste lekamars dynamikk
-en= Rigid body dynamics
 tio= 2018-08-05T20:26:52Z
 tie= 2018-08-05T20:27:16Z
+tis= 2018-09-15T00:34:37Z
+fly= REAL032019
 
 id= REAL032029
 te= Webarkiv
