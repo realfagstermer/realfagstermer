@@ -80093,6 +80093,7 @@ id= REAL009586
 te= Sameksistens
 ba= nb
 nn= Sameksistens
+en= Coexistence
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009587
