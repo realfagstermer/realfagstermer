@@ -3815,10 +3815,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000456
 te= Konodonter
-ba= nc
-nn= Konodontar
-en= Conodonts
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-17T09:42:49Z
+fly= REAL007019
 
 id= REAL000457
 te= Nettverkssystemer
@@ -13455,10 +13454,8 @@ tie= 2014-11-21T00:00:00Z
 
 id= REAL001603
 te= Byggesaker
-ba= nm
-nn= Byggjesaker
-nn= Byggesaker
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-17T09:31:19Z
 
 id= REAL001604
 te= Colossus
@@ -58958,7 +58955,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007019
 te= Conodonter
 ba= nc
+bf= Konodonter
 nn= Conodontar
+nn= Konodontar
 en= Conodonts
 tio= 2014-08-25T00:00:00Z
 
@@ -87221,12 +87220,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010407
 te= Personer
-ba= ni
-nn= Personar
 tio= 2014-08-25T00:00:00Z
-st= REAL015397
-st= REAL019596
-st= REAL031135
+tis= 2018-09-17T14:46:23Z
 
 id= REAL010408
 te= Radiostøy
@@ -129132,4 +129127,19 @@ nn= Kvantetopologi
 en= Quantum topology
 tio= 2018-09-04T20:32:39Z
 tie= 2018-09-04T20:32:48Z
+
+id= REAL032039
+te= Hydraulisk frakturering
+bf= Fracking
+bf= Hydraulisk oppsprekking
+nn= Hydraulisk frakturering
+nn= Fracking
+nn= Hydraulisk oppsprekking
+en= Hydraulic fracturing
+en= Fracking
+en= Fraccing
+en= Hydrofracturing
+en= Hydrofracking
+tio= 2018-09-17T14:52:00Z
+tie= 2018-09-17T14:55:42Z
 
