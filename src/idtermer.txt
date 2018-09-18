@@ -21554,9 +21554,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002559
 te= Irregularitet
-ba= ni
-nn= Irregularitet
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-17T21:03:19Z
 
 id= REAL002560
 te= Rotatorier
@@ -21895,9 +21894,8 @@ st= REAL015277
 
 id= REAL002595
 te= Konsistens
-ba= ni
-nn= Konsistens
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-17T22:31:41Z
 
 id= REAL002596
 te= Matrisegrupper
@@ -27103,9 +27101,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003221
 te= Innvirkning
-ba= nb
-nn= Innverknad
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-17T21:02:35Z
 
 id= REAL003222
 te= Hamiltonmekanikk
