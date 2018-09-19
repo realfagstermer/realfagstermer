@@ -894,6 +894,7 @@ ba= ns
 nn= Byplanlegging
 en= Urban planning
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-19T17:33:45Z
 
 id= REAL000105
 te= Allianser
@@ -5437,11 +5438,8 @@ fly= REAL006519
 
 id= REAL000641
 te= Bosetningsmønster
-ba= ns
-nn= Busetnadsmønster
-nn= Busetjingsmønster
-nn= Busettingsmønster
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T10:20:47Z
 
 id= REAL000642
 te= Grønlandshval
@@ -9035,8 +9033,10 @@ ba= na
 ba= nb
 ba= nq
 bf= Mikroklimatologi
+bf= Lokalklima
 nn= Mikroklima
 nn= Mikroklimatologi
+nn= Lokalklima
 en= Microclimate
 tio= 2014-08-25T00:00:00Z
 
@@ -11469,9 +11469,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001354
 te= Luftrensning
-ba= nb
-nn= Luftreinsing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:40:06Z
 
 id= REAL001355
 te= Modulbibliotek
@@ -11557,10 +11556,9 @@ fly= REAL010926
 
 id= REAL001368
 te= Bygdemiljø
-ba= ngh
-ba= nq
-nn= Bygdemiljø
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:33:58Z
+fly= REAL008283
 
 id= REAL001369
 te= Evighetsmaskiner
@@ -20611,10 +20609,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002456
 te= Studiekort
-ba= ni
-nn= Studiekort
 tio= 2014-08-25T00:00:00Z
-st= REAL024886
+tis= 2018-09-19T19:24:39Z
 
 id= REAL002457
 te= Befolkningspolitikk
@@ -30257,9 +30253,9 @@ st= REAL021717
 
 id= REAL003598
 te= Byestetikk
-ba= ngh
-nn= Byestetikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:33:39Z
+fly= REAL000104
 
 id= REAL003599
 te= Mineralogi
@@ -31382,13 +31378,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003727
 te= Kulturkollisjoner
-ba= ns
-bf= Kulturkonflikter
-nn= Kulturkollisjonar
-nn= Kulturkonfliktar
-en= Cultural conflicts
-en= Culture clashes
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:38:50Z
+fly= REAL008862
 
 id= REAL003728
 te= Språkbruk
@@ -33934,9 +33926,8 @@ st= REAL027984
 
 id= REAL004029
 te= Bruksverdi
-ba= nb
-nn= Bruksverdi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T10:20:54Z
 
 id= REAL004030
 te= Reker
@@ -37327,10 +37318,8 @@ st= REAL028792
 
 id= REAL004428
 te= Handlingsplaner
-ba= nb
-ba= ngh
-nn= Handlingsplanar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:34:49Z
 
 id= REAL004429
 te= Forskningsrapporter
@@ -44286,9 +44275,8 @@ tie= 2017-10-30T12:28:08Z
 
 id= REAL005294
 te= Spektral
-ba= nm
-nn= Spektral
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T19:24:20Z
 
 id= REAL005295
 te= Geografisk lengde
@@ -50404,9 +50392,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006040
 te= Konstruksjonsverktøy
-ba= ni
-nn= Konstruksjonsverktøy
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T19:22:54Z
 
 id= REAL006041
 te= Humler
@@ -50624,10 +50611,9 @@ st= REAL024812
 
 id= REAL006064
 te= Spiralstrukturer
-ba= na
-nn= Spiralstrukturar
 tio= 2014-08-25T00:00:00Z
-st= REAL026985
+tis= 2018-09-19T17:43:50Z
+fly= REAL010559
 
 id= REAL006065
 te= Difenylforbindelser
@@ -61598,10 +61584,9 @@ tis= 2018-09-04T22:31:07Z
 
 id= REAL007344
 te= Lokalklima
-ba= nk
-ba= nb
-nn= Lokalklima
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:39:57Z
+fly= REAL001067
 
 id= REAL007345
 te= Brokkfugler
@@ -64052,11 +64037,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007640
 te= Forvaltningsspråk
-ba= nc
-ba= ngh
-nn= Forvaltingsspråk
-nn= Forvaltningsspråk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:34:27Z
 
 id= REAL007641
 te= Samspill
@@ -69346,8 +69328,10 @@ ba= nc
 ba= nq
 ba= ns
 bf= Kulturmiljø
+bf= Bygdemiljø
 nn= Kulturlandskap
 nn= Kulturmiljø
+nn= Bygdemiljø
 en= Cultural landscape
 tio= 2014-08-25T00:00:00Z
 st= REAL014343
@@ -69356,7 +69340,6 @@ st= REAL015053
 st= REAL015171
 st= REAL016239
 st= REAL017350
-st= REAL018607
 st= REAL023381
 st= REAL024013
 st= REAL024760
@@ -72813,6 +72796,8 @@ ba= nc
 nn= Tekstur
 en= Texture
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-19T17:46:46Z
+st= REAL027696
 
 id= REAL008681
 te= Promillekjøring
@@ -74251,7 +74236,13 @@ fly= REAL006430
 id= REAL008862
 te= Kulturforståelse
 ba= ns
+bf= Kulturkollisjoner
+bf= Kulturkonflikter
 nn= Kulturforståing
+nn= Kulturkollisjonar
+nn= Kulturkonfliktar
+en= Cultural conflicts
+en= Culture clashes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008863
@@ -74947,9 +74938,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008949
 te= Konturer
-ba= ni
-nn= Konturar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:38:36Z
 
 id= REAL008950
 te= Bifurkasjoner
@@ -75437,9 +75427,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009004
 te= Byanalyse
-ba= ngh
-nn= Byanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:33:13Z
 
 id= REAL009005
 te= Navigasjon
@@ -78676,10 +78665,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009402
 te= Økoteknologi
-ba= nb
-nn= Økoteknologi
-en= Ecotechnology
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T19:17:48Z
 
 id= REAL009403
 te= Konstellasjoner
@@ -88362,6 +88349,8 @@ ba= na
 nn= Spiralgalaksar
 en= Spiral galaxies
 tio= 2014-08-25T00:00:00Z
+tie= 2018-09-19T17:43:57Z
+st= REAL026985
 
 id= REAL010560
 te= Planteplankton
@@ -100503,9 +100492,8 @@ tis= 2018-03-21T12:33:46Z
 
 id= REAL012053
 te= Symbolbruk
-ba= nk
-nn= Symbolbruk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-09-19T17:45:04Z
 
 id= REAL012054
 te= Clojure
@@ -109595,9 +109583,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012888
 te= Teksturanalyser
-nn= Teksturanalysar
 tio= 2014-08-25T00:00:00Z
-st= REAL027696
+tis= 2018-09-19T17:46:41Z
+fly= REAL008680
 
 id= REAL012889
 te= Telekommunikasjon
@@ -123412,7 +123400,6 @@ tio= 2014-08-25T00:00:00Z
 st= REAL014688
 st= REAL014942
 st= REAL017764
-st= REAL028367
 
 id= REAL013882
 te= Folkemedisin
