@@ -40367,6 +40367,7 @@ te= Symmetribrudd
 ba= nf
 nn= Symmetribrot
 nn= Symmetribrott
+en= Symmetry breaking
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004808
