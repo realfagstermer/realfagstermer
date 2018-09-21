@@ -50,6 +50,8 @@ Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 * Bente Kathrine Rasch, klassifiserer farmasi.
 
 Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
+* [@ken075](https://github.com/ken075) :
+  Kjersti Enerstvedt, klassifiserer geofag og teknologi.
 * [@bubir](https://github.com/bubir) :
   Ingunn Rødland, klassifiserer kjemi.
 * [@Caroline-A](https://github.com/Caroline-A) ; 
@@ -58,8 +60,6 @@ Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
   Hege Folkestad, klassifiserer biovitenskap.
 * [@beatekh](https://github.com/beatekh) :
   Beate Krøvel Humberset, klassifiserer matematikk, informatikk og fysikk.
-* [@mzyg](https://github.com/mzyg) :
-  Marta Zygmuntowska, klassifiserer geofag, fysikk (anvendt) og teknologi.
   
 Realfagstermers venner:
 
@@ -70,13 +70,15 @@ Realfagstermers venner:
 * [@henriasv](https://github.com/henriasv) :
   Henrik Andersen Sveinsson, klar til å klassifisere fysikk ved behov.
 * [@jw-geo](https://github.com/jw-geo) :
-  Johannes Wiest, student, klassifiserte geologi.
+  Johannes Wiest, student, klassifiserte geologi (UiB).
 * [@knuthe](https://github.com/knuthe) :
-  Knut Hegna, klassifiserte informatikk, utviklet Roald og Sonja.
+  Knut Hegna, klassifiserte informatikk (UiO), utviklet Roald og Sonja.
 * [@kristinran](https://github.com/kristinran) :
-  Kristin Rangnes, klassifiserte geofag.
+  Kristin Rangnes, klassifiserte geofag (UiO).
 * [@mittinatten](https://github.com/mittinatten) :
-  Simon Mitternacht, klassifiserte matematikk, informatikk og fysikk (teoretisk).
+  Simon Mitternacht, klassifiserte matematikk, informatikk og (teoretisk) fysikk (UiB).
+* [@mzyg](https://github.com/mzyg) :
+  Marta Zygmuntowska, klassifiserte geofag, fysikk (anvendt) og teknologi (UiB)
 
 For å varsle alle: @realfagstermer/alle
 
