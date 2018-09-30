@@ -4981,3 +4981,12 @@ de= distrikt i Akershus
 tio= 2018-01-29T14:32:39Z
 tie= 2018-01-29T14:34:31Z
 
+id= REAL032042
+te= De nordiske hav
+bf= Nordiske hav
+nn= De nordiske hav
+nn= Nordiske hav
+en= Nordic seas
+tio= 2018-09-21T14:19:15Z
+tie= 2018-09-21T14:20:11Z
+
