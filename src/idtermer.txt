@@ -4034,6 +4034,8 @@ ba= ns
 bf= Formasjoner
 nn= Geologiske formasjonar
 nn= Formasjonar
+en= Geological formations
+en= Formations
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-30T00:19:03Z
 st= REAL014827
@@ -7091,6 +7093,7 @@ id= REAL000842
 te= Statistisk økologi
 ba= nb
 nn= Statistisk økologi
+en= Statistical ecology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000843
@@ -14606,6 +14609,8 @@ ba= ne
 bf= Konfliktløsing
 nn= Konfliktløysing
 nn= Konflikthandtering
+en= Conflict management
+en= Conflict resolution
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-20T06:55:15Z
 
@@ -25265,6 +25270,9 @@ id= REAL002992
 te= Symbolsk beregning
 ba= nm
 nn= Symbolsk berekning
+en= Symbolic computation
+en= Algebraic computation
+en= Computer algebra
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002993
@@ -41667,6 +41675,7 @@ ba= ne
 nn= Tilsetjingsstoff
 nn= Tilsetningsstoff
 nn= Tilsettingsstoff
+en= Additives
 tio= 2014-08-25T00:00:00Z
 st= REAL026759
 
@@ -72667,6 +72676,7 @@ te= Fiberkompositter
 ba= nm
 ot= REAL002303
 nn= Fiberkomposittar
+en= Fiber composites
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-21T19:54:03Z
 
@@ -72873,6 +72883,7 @@ id= REAL008683
 te= Vektorbunter
 ba= nm
 nn= Vektorbuntar
+en= Vector bundles
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-19T20:32:48Z
 
@@ -83409,6 +83420,8 @@ te= Geologisk lagring
 ba= nc
 so= REAL009825
 nn= Geologisk lagring
+en= Geological storage
+en= Geo-sequestration
 tio= 2014-08-25T00:00:00Z
 tie= 2018-08-17T14:16:56Z
 
@@ -128998,6 +129011,7 @@ ot= REAL013744
 ot= REAL003528
 nn= Numerisk fluiddynamikk
 en= Computational fluid dynamics
+en= Numerical fluid dynamics
 tio= 2018-07-20T17:31:47Z
 tie= 2018-07-20T17:32:34Z
 

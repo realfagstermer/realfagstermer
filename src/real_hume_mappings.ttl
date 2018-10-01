@@ -613,9 +613,8 @@ real:c000688
 
 real:c000689
   a skos:Concept ;
-  skos:exactMatch hume:c23563 ;
-  skos:prefLabel "Investeringsanalyser"@nb, "Investeringsanalysar"@nn ;
-  skos:closeMatch hume:c07859 .
+  skos:closeMatch hume:c23563, hume:c07859 ;
+  skos:prefLabel "Investeringsanalyser"@nb, "Investeringsanalysar"@nn .
 
 real:c000697
   a skos:Concept ;
@@ -4996,7 +4995,7 @@ real:c006452
 
 real:c006462
   a skos:Concept ;
-  skos:exactMatch hume:c00709 ;
+  skos:closeMatch hume:c00709 ;
   skos:prefLabel "Induktiv logikk"@nb, "Induktiv logikk"@nn .
 
 real:c006466
