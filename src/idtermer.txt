@@ -1267,9 +1267,8 @@ tis= 2018-07-21T19:36:50Z
 
 id= REAL000151
 te= Visuell dataanalyse
-ba= nb
-nn= Visuell dataanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T19:01:36Z
 
 id= REAL000152
 te= Hydroider
@@ -2107,8 +2106,10 @@ st= REAL020110
 id= REAL000247
 te= Marine verneområder
 ba= nb
+bf= Marine reservater
 so= REAL010778
 nn= Marine verneområde
+nn= Marine reservat
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-24T14:08:58Z
 
@@ -8552,11 +8553,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001013
 te= Algebraisk databehandling
-ba= ni
-nn= Algebraisk datahandsaming
-nn= Algebraisk databehandling
-en= Algebraic computing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T19:33:13Z
+fly= REAL011198
 
 id= REAL001014
 te= Magmatiske bergarter
@@ -14698,10 +14697,13 @@ tio= 2014-08-25T00:00:00Z
 st= REAL020454
 
 id= REAL001758
-te= Strategisk administrasjon
+te= Forretningsstrategi
 ba= ns
+bf= Strategisk administrasjon
+nn= Forretningsstrategi
 nn= Strategisk administrasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T18:45:51Z
 
 id= REAL001759
 te= Liquid chromatography
@@ -16620,10 +16622,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001999
 te= Tekniske fag
-ba= nb
-ba= nc
-nn= Tekniske fag
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T18:21:45Z
+fly= REAL005113
 
 id= REAL002000
 te= Militærhistorie
@@ -18281,13 +18282,14 @@ tio= 2014-08-25T00:00:00Z
 tis= 2017-10-06T16:07:23Z
 
 id= REAL002174
-te= Nervegass
+te= Nervegasser
 ba= ne
 so= REAL006599
-nn= Nervegass
-en= Nerve gas
+nn= Nervegassar
+en= Nerve agents
+en= Nerve gases
 tio= 2014-08-25T00:00:00Z
-tie= 2014-09-29T00:00:00Z
+tie= 2018-10-02T19:45:16Z
 
 id= REAL002175
 te= Forplantningsorganer
@@ -19462,6 +19464,7 @@ bf= Naturvitenskapelige ekspedisjoner
 bf= Vitenskapelige reiser
 bf= Vitenskapelige ekspedisjoner
 bf= Oppdagelsesreiser
+so= REAL006805
 nn= Ekspedisjonar
 nn= Naturvitskaplege ekspedisjonar
 nn= Naturvitskapelege ekspedisjonar
@@ -19473,7 +19476,7 @@ nn= Oppdagingsreiser
 nn= Oppdagingsferder
 en= Expeditions
 tio= 2014-08-25T00:00:00Z
-tie= 2017-08-11T14:50:44Z
+tie= 2018-10-02T18:35:16Z
 st= REAL014094
 st= REAL014166
 st= REAL014173
@@ -20973,17 +20976,9 @@ tie= 2018-08-05T22:01:36Z
 
 id= REAL002498
 te= Infrarøde spektra
-ba= nk
-ba= na
-ba= nc
-bf= Infrarødt spektrum
-nn= Infraraude spektrum
-nn= Infraraude spekter
-en= Infrared spectra
-en= Infra-red spectra
-en= IR spectra
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-07T14:20:34Z
+tis= 2018-10-02T18:57:02Z
 
 id= REAL002499
 te= Skildringer
@@ -24606,10 +24601,8 @@ tie= 2015-09-15T20:05:18Z
 
 id= REAL002908
 te= Naturlige systemer
-ba= ni
-nn= Naturlege system
-en= Natural systems
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T19:43:47Z
 
 id= REAL002909
 te= Nautisk astronomi
@@ -25225,10 +25218,8 @@ fly= REAL003616
 
 id= REAL002986
 te= Tekniske rapporter
-ba= nk
-ba= nc
-nn= Tekniske rapportar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T18:22:36Z
 
 id= REAL002987
 te= Høynivåarkitektur
@@ -25268,12 +25259,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002992
 te= Symbolsk beregning
-ba= nm
-nn= Symbolsk berekning
-en= Symbolic computation
-en= Algebraic computation
-en= Computer algebra
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T19:34:42Z
+fly= REAL011198
 
 id= REAL002993
 te= Oppgradering
@@ -26564,8 +26552,10 @@ id= REAL003143
 te= Ekstremofiler
 ba= nb
 bf= Økologisk tålegrense
+bf= Ekstremofile mikroorganismer
 nn= Ekstremofilar
 nn= Økologisk tolegrense
+nn= Ekstremofile mikroorganismar
 en= Extremophiles
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-22T14:03:58Z
@@ -27506,9 +27496,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003265
 te= Marine reservater
-ba= nb
-nn= Marine reservat
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T14:44:16Z
+fly= REAL000247
 
 id= REAL003266
 te= Videregående skole
@@ -31365,9 +31355,13 @@ ba= nk
 ba= ne
 bf= Metriske system
 bf= Metersystemet
+bf= SI-enheter
 nn= SI-systemet
 nn= Meteren
 nn= Metersystemet
+nn= SI-einingar
+en= SI units
+en= International system of units
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-25T15:27:32Z
 st= REAL017025
@@ -32384,12 +32378,13 @@ nn= Planetteoriar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003829
-te= Digital audio tape
+te= Digital Audio Tape
 ba= ni
 ak= DAT
-nn= Digital audio tape
-en= Digital audio tape
+nn= Digital Audio Tape
+en= Digital Audio Tape
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T19:03:10Z
 
 id= REAL003830
 te= Sentrifugalfordelingskromatografi
@@ -34373,10 +34368,8 @@ st= REAL019712
 
 id= REAL004078
 te= Vitenskapelig arbeid
-ba= nb
-nn= Vitskapleg arbeid
-nn= Vitskapeleg arbeid
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T18:55:20Z
 
 id= REAL004079
 te= Persepsjon
@@ -38743,12 +38736,9 @@ st= REAL019821
 
 id= REAL004600
 te= Audiovisuelle hjelpemidler
-ba= ns
-bf= AV-midler
-nn= Audiovisuelle hjelpemiddel
-nn= AV-middel
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-16T17:22:12Z
+tis= 2018-10-02T21:34:53Z
 
 id= REAL004601
 te= Kontrollerte vokabular
@@ -42282,12 +42272,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005039
 te= Algebraiske metoder
-ba= ni
-ba= na
-ba= nf
-nn= Algebraiske metodar
-en= Algebraic methods
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T19:37:13Z
+fly= REAL011198
 
 id= REAL005040
 te= Fotometrisk rødforskyvning
@@ -42901,8 +42888,10 @@ id= REAL005113
 te= Ingeniørvitenskap
 ba= ns
 bf= Ingeniørfag
+bf= Tekniske fag
 nn= Ingeniørvitskap
 nn= Ingeniørfag
+nn= Tekniske fag
 en= Engineering
 tio= 2014-08-25T00:00:00Z
 st= REAL021803
@@ -44053,13 +44042,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005259
 te= Hydrogenionkonsentrasjon
-ba= nk
-bf= Surhetsgrad
-ak= PH
-nn= Hydrogenionkonsentrasjon
-nn= Surleiksgrad
-en= Potential of hydrogen
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T21:15:24Z
+fly= REAL010672
 
 id= REAL005261
 te= Invariantteori
@@ -44540,8 +44525,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005323
 te= Mikrobiell genetikk
 ba= nb
+bf= Mikrobiologisk genetikk
 nn= Mikrobiell genetikk
+nn= Mikrobiologisk genetikk
 en= Microbial genetics
+en= Microbiological genetics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005324
@@ -44907,10 +44895,8 @@ tis= 2018-07-19T17:42:18Z
 
 id= REAL005367
 te= Lov
-ba= nk
-ba= nm
-nn= Lov
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T18:40:43Z
 
 id= REAL005368
 te= Hartree–Fock-metoden
@@ -47726,6 +47712,7 @@ ba= nc
 ba= ne
 bf= Organiske kjemikalier
 bf= Organiske molekyler
+bf= Organiske stoffer
 ut= REAL012080
 ut= REAL002546
 ut= REAL000514
@@ -47736,10 +47723,11 @@ nn= Organiske kjemikal
 nn= Organiske kjemikaliar
 nn= Organiske kjemikalium
 nn= Organiske molekyl
+nn= Organiske stoff
 en= Organic compounds
 en= Organic molecules
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-23T19:31:55Z
+tie= 2018-10-02T15:51:11Z
 st= REAL014125
 st= REAL015395
 st= REAL015528
@@ -48460,10 +48448,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2018-07-20T11:07:46Z
 
 id= REAL005797
-te= Konkurranser
+te= Konkurranse
 ba= nm
-nn= Konkurransar
+nn= Konkurranse
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T18:37:54Z
 st= REAL019338
 
 id= REAL005798
@@ -48609,9 +48598,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005818
 te= Tilgroing
-ba= nk
-nn= Tilgroing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T16:39:22Z
+fly= REAL010085
 
 id= REAL005819
 te= Kontinentale bergarter
@@ -49118,10 +49107,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005879
 te= Jordanformer
-ba= ni
-nn= Jordanformer
-en= Jordan forms
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T19:42:39Z
 
 id= REAL005880
 te= Glasiale prosesser
@@ -50588,9 +50575,11 @@ so= REAL002425
 nn= Hundehald
 nn= Hundeavl
 nn= Hundedressur
+en= Dog keeping
 en= Dog breeding
+en= Dog training
 tio= 2014-08-25T00:00:00Z
-tie= 2017-08-22T13:35:27Z
+tie= 2018-10-02T21:11:36Z
 st= REAL014580
 st= REAL017758
 
@@ -50805,10 +50794,9 @@ fly= REAL011507
 
 id= REAL006086
 te= Vitenskapelig veiledning
-ba= ni
-nn= Vitskapleg rettleiing
-nn= Vitskapeleg rettleiing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T18:25:11Z
+fly= REAL013419
 
 id= REAL006087
 te= Katalogisering
@@ -51041,11 +51029,8 @@ st= REAL019376
 
 id= REAL006110
 te= Vitenskaper
-ba= nb
-nn= Vitskapar
 tio= 2014-08-25T00:00:00Z
-st= REAL020588
-st= REAL027051
+tis= 2018-10-02T19:06:26Z
 
 id= REAL006111
 te= Vektorsøking
@@ -51061,13 +51046,13 @@ fly= REAL007481
 
 id= REAL006113
 te= Hjelpemidler
-ba= ni
-ba= ngh
-ba= ns
+so= REAL031943
+ut= REAL031983
 nn= Hjelpemiddel
-en= Tools
+en= Assistive technology
+de= teknologi som bidrar til å redusere praktiske problemer for personer med nedsatt funksjonsevne
 tio= 2014-08-25T00:00:00Z
-st= REAL024255
+tie= 2018-10-02T21:34:04Z
 
 id= REAL006114
 te= Taksering
@@ -51101,10 +51086,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006118
 te= Ekstremofile mikroorganismer
-ba= nb
-nn= Ekstremofile mikroorganismar
-en= Extremophiles
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T14:40:14Z
+fly= REAL003143
 
 id= REAL006119
 te= Lipoksygenaser
@@ -56817,11 +56801,8 @@ fly= REAL007387
 
 id= REAL006765
 te= Revolusjoner
-ba= ns
-nn= Revolusjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL023038
-st= REAL027109
+tis= 2018-10-02T19:12:32Z
 
 id= REAL006766
 te= Tegn
@@ -57134,8 +57115,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006805
 te= Utforskning
 ba= nb
+so= REAL002323
 nn= Utforsking
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T18:35:17Z
 
 id= REAL006806
 te= Strukturbiologi
@@ -59304,12 +59287,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007063
 te= Undervannsoptikk
-ba= ngh
-nn= Undervassoptikk
-en= Underwater optics
-en= Ocean optics
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T15:40:27Z
+tis= 2018-10-02T17:54:34Z
+fly= REAL009762
 
 id= REAL007064
 te= Katedraler
@@ -74601,9 +74582,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008900
 te= Kunstig materiale
-ba= nb
-nn= Kunstig materiale
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T18:38:40Z
 
 id= REAL008901
 te= Rekursiv algebra
@@ -76830,9 +76810,9 @@ st= REAL019253
 
 id= REAL009163
 te= Mikrobiell teknikk
-ba= nb
-nn= Mikrobiell teknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T15:14:49Z
+fly= REAL011660
 
 id= REAL009164
 te= Krypteringsnøkler
@@ -77182,11 +77162,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009208
 te= Mikrobiologisk genetikk
-ba= ne
-nn= Mikrobiologisk genetikk
-en= Microbial genetics
-en= Microbiological genetics
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T14:56:55Z
+fly= REAL005323
 
 id= REAL009209
 te= Naturlige satellitter
@@ -77718,8 +77696,9 @@ id= REAL009271
 te= Halvledersimulering
 ba= ni
 nn= Halvleiarsimulering
-en= Semi-conductor simulation
+en= Semiconductor simulation
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T21:12:10Z
 
 id= REAL009272
 te= Sjeldne dyr
@@ -81042,10 +81021,11 @@ ut= REAL011887
 nn= Nitrogensambindingar
 nn= Organiske nitrogensambindingar
 nn= Organonitrogen
+en= Nitrogen compounds
 en= Organonitrogen compounds
 en= Organic nitrogen compounds
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-23T19:17:54Z
+tie= 2018-10-02T19:46:40Z
 
 id= REAL009680
 te= Termomskrivning
@@ -81683,8 +81663,18 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009762
 te= Optisk oseanografi
 ba= nb
+bf= Marin optikk
+bf= Bio-optisk oseanografi
 nn= Optisk oseanografi
+nn= Marin optikk
+nn= Bio-optisk oseanografi
+en= Optical oceanography
+en= Ocean optics
+en= Marine optics
+en= Hydrologic optics
+en= Bio-optical oceanography
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T17:56:45Z
 
 id= REAL009763
 te= Reaksjonshastigheter
@@ -84496,10 +84486,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010085
 te= Gjengroing
 ba= nb
+bf= Tilgroing
 nn= Gjengroing
 nn= Attgroing
+nn= Tilgroing
+en= Regrowth
 en= Reforestation
+en= Regeneration
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T16:51:29Z
 
 id= REAL010086
 te= Polarforskning
@@ -85384,9 +85379,11 @@ st= REAL024303
 id= REAL010179
 te= Lego
 ba= ns
+no= produktet, ikke selskapet
 nn= Lego
 en= Lego
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T15:45:23Z
 st= REAL031206
 
 id= REAL010180
@@ -89334,13 +89331,20 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T17:16:19Z
 
 id= REAL010672
-te= Ph-målinger
+te= pH-målinger
 ba= nk
-bf= Ph-bestemmelse
-nn= PH-målingar
-nn= PH-bestemming
+bf= pH-bestemmelse
+bf= Hydrogenionkonsentrasjon
+bf= Surhetsgrad
+ak= pH
+nn= pH-målingar
+nn= pH-bestemming
+nn= Hydrogenionkonsentrasjon
+nn= Surleiksgrad
 en= pH measurements
+en= Potential of hydrogen
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T21:15:35Z
 
 id= REAL010673
 te= Dynamiske modeller
@@ -92677,10 +92681,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011101
 te= Vitenskapelig anvendelse
-ba= nb
-nn= Vitskapleg bruksmåte
-nn= Vitskapeleg bruksmåte
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T18:24:32Z
 
 id= REAL011102
 te= Satellittgalakser
@@ -93389,13 +93391,22 @@ id= REAL011198
 te= Symbolsk databehandling
 ba= ni
 bf= Symbolsk matematisk databehandling
+bf= Algebraisk databehandling
+bf= Symbolsk beregning
+bf= Algebraiske metoder
 nn= Symbolsk datahandsaming
 nn= Symbolsk databehandling
 nn= Symbolsk matematisk databehandling
 nn= Symbolsk matematisk datahandsaming
+nn= Algebraisk datahandsaming
+nn= Algebraisk databehandling
+nn= Symbolsk berekning
+nn= Algebraiske metodar
 en= Symbolic computation
 en= Algebraic computation
 en= Computer algebra
+en= Algebraic computing
+en= Algebraic methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011199
@@ -97280,7 +97291,9 @@ fly= REAL000430
 id= REAL011660
 te= Mikrobiell bioteknologi
 ba= nb
+bf= Mikrobiell teknikk
 nn= Mikrobiell bioteknologi
+nn= Mikrobiell teknikk
 en= Microbial biotechnology
 tio= 2014-08-25T00:00:00Z
 
@@ -101820,11 +101833,9 @@ st= REAL020833
 
 id= REAL012215
 te= SI-enheter
-ba= nk
-nn= SI-einingar
-en= SI units
-en= International system of units
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T18:43:10Z
+fly= REAL003718
 
 id= REAL012216
 te= Datavirus
@@ -108336,8 +108347,12 @@ nn= Oppblomstring
 nn= Toksisk algebløming
 nn= Toksisk algeoppblomstring
 en= Algal blooms
+en= Red tides
+en= Brown tides
+en= Spring blooms
+en= Harmful algal blooms
 tio= 2014-08-25T00:00:00Z
-tie= 2016-05-24T14:33:35Z
+tie= 2018-10-02T15:47:00Z
 st= REAL016308
 st= REAL028381
 
@@ -114982,10 +114997,10 @@ nn= Samfunnsøkologi
 nn= Synøkologi
 nn= Økologiske samfunn
 nn= Biologiske samfunn
-en= Socioecology
+en= Community ecology
 en= Synecology
 tio= 2014-08-25T00:00:00Z
-tie= 2017-05-16T12:23:30Z
+tie= 2018-10-02T15:18:32Z
 st= REAL014412
 
 id= REAL013385
@@ -115872,9 +115887,12 @@ ba= fa
 ba= ngh
 bf= Forskerveiledning
 bf= Forskningsveiledning
+bf= Vitenskapelig veiledning
 nn= Forskarkurs
 nn= Forskarrettleiing
 nn= Forskingsrettleiing
+nn= Vitskapleg rettleiing
+nn= Vitskapeleg rettleiing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013420
@@ -117006,10 +117024,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013461
 te= Nullpunkter
-ba= nm
-nn= Nullpunkt
-en= Seroes of functions
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-02T19:48:40Z
 
 id= REAL013462
 te= Operatoralgebraer
@@ -118079,19 +118095,23 @@ id= REAL013514
 te= Den vitenskapelige revolusjon
 ba= fa
 ba= ns
+ot= REAL013515
 nn= Den vitskaplege revolusjonen
 nn= Den vitskapelege revolusjonen
 en= Scientific revolution
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T19:12:45Z
 st= REAL031259
 
 id= REAL013515
 te= Vitenskapelige revolusjoner
 ba= fa
 ba= na
+ut= REAL013514
 nn= Vitskaplege revolusjonar
 nn= Vitskapelege revolusjonar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-02T19:12:45Z
 
 id= REAL013516
 te= Vitenskapsfilosofi
@@ -119921,18 +119941,17 @@ ba= nk
 ba= ne
 ba= nm
 ba= ns
-bf= Ami-pro
 bf= Word
 bf= Wordperfect
 bf= Tekstbehandlingsprogrammer
 nn= Teksthandsaming
-nn= Ami-pro
 nn= Tekstbehandling
 nn= Tekstbehandlingsprogram
 nn= Teksthandsamingsprogram
 nn= Word
 nn= Wordperfect
-en= Text processing
+en= Word processing
+en= Word processing software
 tio= 2014-08-25T00:00:00Z
 st= REAL016018
 st= REAL016744
@@ -120497,7 +120516,8 @@ nn= Kjøkenhagar
 nn= Kjøkenhagen
 nn= Kjøkkenhagar
 nn= Kjøkkenhagen
-en= Horticulture, gardening
+en= Gardening
+en= Horticulture
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-16T00:00:00Z
 st= REAL014944
@@ -128560,8 +128580,11 @@ tie= 2018-01-12T17:36:57Z
 id= REAL031943
 te= Velferdsteknologi
 so= REAL008394
+so= REAL006113
+en= Welfare technology
 tio= 2018-01-18T12:30:19Z
-tie= 2018-07-20T11:23:07Z
+tie= 2018-10-02T21:34:05Z
+st= REAL024255
 
 id= REAL031944
 te= Radiorekombinasjonslinjer
@@ -128712,6 +128735,7 @@ id= REAL031983
 te= Hørselshjelpemidler
 bf= Cochleaimplantater
 bf= Cochlea-implantater
+ot= REAL006113
 nn= Høyrselshjelpemiddel
 nn= Cochleaimplantat
 nn= Cochlea-implantat
@@ -129260,4 +129284,13 @@ nn= CO2-injeksjon
 en= CO2 injection
 tio= 2018-09-21T16:29:13Z
 tie= 2018-09-21T16:29:53Z
+
+id= REAL032047
+te= Pelagialsonen
+bf= Pelagisk sone
+nn= Pelagialsona
+nn= Pelagisk sone
+en= Pelagic zone
+tio= 2018-10-02T16:06:12Z
+tie= 2018-10-02T16:09:04Z
 

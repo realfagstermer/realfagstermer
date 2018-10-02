@@ -1,49 +1,24 @@
 {
-  "REAL009964": {
-    "prefLabel": "Geological storage",
-    "altLabel": [
-      "Geo-sequestration"
-    ]
-  },
-  "REAL008683": {
-    "prefLabel": "Vector bundles",
+  "REAL001758": {
+    "prefLabel": "Strategic management",
     "altLabel": []
   },
-  "REAL008662": {
-    "prefLabel": "Fiber composites",
+  "REAL004811": {
+    "prefLabel": "Quantitative analysis",
     "altLabel": []
   },
-  "REAL004965": {
-    "prefLabel": "Additives",
+  "REAL030169": {
+    "prefLabel": "Short stories",
+    "altLabel": [
+      "Novellas"
+    ]
+  },
+  "REAL006922": {
+    "prefLabel": "Iris recognition",
     "altLabel": []
   },
-  "REAL002992": {
-    "prefLabel": "Symbolic computation",
-    "altLabel": [
-      "Algebraic computation",
-      "Computer algebra"
-    ]
-  },
-  "REAL000842": {
-    "prefLabel": "Statistical ecology",
+  "REAL000524": {
+    "prefLabel": "Optimal design",
     "altLabel": []
-  },
-  "REAL000476": {
-    "prefLabel": "Geological formations",
-    "altLabel": [
-      "Formations"
-    ]
-  },
-  "REAL001746": {
-    "prefLabel": "Conflict management",
-    "altLabel": [
-      "Conflict resolution"
-    ]
-  },
-  "REAL032017": {
-    "prefLabel": null,
-    "altLabel": [
-      "Numerical fluid dynamics"
-    ]
   }
 }
