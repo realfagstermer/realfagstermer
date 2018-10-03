@@ -696,6 +696,8 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030169
 te= Noveller
 bf= Fortellinger
+en= Short stories
+en= Novellas
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030170
