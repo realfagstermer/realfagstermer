@@ -231,6 +231,39 @@ def task_build_extras():
         ]
     }
 
+def task_build_mappings():
+    src_uri = 'http://data.ub.uio.no/realfagstermer/'
+    mapping_sets = [
+        {
+            'source_files': ['src/categories_and_mappings.ttl'],
+            'target': 'wikidata',
+        },
+        {
+            'source_files': ['src/real_hume_mappings.ttl'],
+            'target': 'humord',
+        },
+        {
+            'source_files': ['src/real_tekord_mappings.ttl'],
+            'target': 'tekord',
+        },
+        {
+            'source_files': ['src/ccmapper_mappings.ttl'],
+            'target': 'ddc23no',
+        },
+    ]
+
+    yield {
+        'doc': 'Build mapping distributions',
+        'basename': 'build-mappings',
+        'name': None
+    }
+
+    for mapping_set in mapping_sets:
+        yield data_ub_tasks.build_mappings_gen(
+            mapping_set['source_files'],
+            'dist/%s-%s.mappings.nt' % (config['basename'], mapping_set['target']),
+            src_uri
+        )
 
 def task_build_json():
     return data_ub_tasks.gen_solr_json(config, 'realfagstermer')
@@ -250,7 +283,11 @@ def task_publish_dumps():
         '%s.ccmapper.marc21.xml' % config['basename'],
         '%s.ttl' % config['basename'],
         '%s.complete.ttl' % config['basename'],
-        '%s.complete.nt' % config['basename']
+        '%s.complete.nt' % config['basename'],
+        '%s-wikidata.mappings.nt' % config['basename'],
+        '%s-humord.mappings.nt' % config['basename'],
+        '%s-tekord.mappings.nt' % config['basename'],
+        '%s-ddc23no.mappings.nt' % config['basename'],
     ])
 
 

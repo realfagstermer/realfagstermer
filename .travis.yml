@@ -7,5 +7,5 @@ install:
   - pip install -U -r requirements.txt --process-dependency-links
 
 script:
-  - doit build-core build-extras
+  - doit build-core build-extras build-mappings
 
