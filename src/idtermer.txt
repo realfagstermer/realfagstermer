@@ -36432,9 +36432,9 @@ tis= 2018-09-04T15:27:05Z
 
 id= REAL004317
 te= Pelagisk vegetasjon
-ba= nb
-nn= Pelagisk vegetasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-04T11:49:08Z
+fly= REAL032047
 
 id= REAL004318
 te= Pektinase
@@ -45514,9 +45514,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005446
 te= Pelagisk fangst
-ba= nb
-nn= Pelagisk fangst
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-04T11:48:06Z
 
 id= REAL005447
 te= Trysilvassdraget
@@ -129364,5 +129363,5 @@ nn= Pelagialsona
 nn= Pelagisk sone
 en= Pelagic zone
 tio= 2018-10-02T16:06:12Z
-tie= 2018-10-02T16:09:04Z
+tie= 2018-10-04T11:49:16Z
 
