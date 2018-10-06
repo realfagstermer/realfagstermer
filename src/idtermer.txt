@@ -79533,6 +79533,7 @@ id= REAL009503
 te= SETL
 ba= ni
 nn= SETL
+en= SETL
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-05T19:48:25Z
