@@ -42,6 +42,7 @@ realfagstermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
         <http://data.ub.uio.no/dumps/realfagstermer.ttl> ;
     void:uriSpace "http://data.ub.uio.no/realfagstermer/" ;
     void:exampleResource realfagstermer:c012676 ;
+    void:uriSpace "http://data.ub.uio.no/realfagstermer/" ;
     void:vocabulary skos: , mads: .
 
 library:k a foaf:Organization ;
