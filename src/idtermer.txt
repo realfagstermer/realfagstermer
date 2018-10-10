@@ -7153,9 +7153,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000851
 te= Gresk filosofihistorie
-ba= ns
-nn= Gresk filosofihistorie
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T15:52:46Z
 
 id= REAL000853
 te= Solspektret
@@ -10849,13 +10848,27 @@ te= Avsmelting
 ba= nc
 ba= ngh
 bf= Deglasiasjon
+bf= Isavsmeltninger
+bf= Isavsmelting
+bf= Isavsmeltinger
+bf= Issmelting
 nn= Avsmelting
 nn= Deglasiasjon
+nn= Isavsmeltingar
+nn= Isavsmelting
+nn= Issmelting
 en= Deglaciation
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-10T17:05:19Z
+st= REAL017637
 st= REAL019014
+st= REAL019974
+st= REAL022023
+st= REAL022746
+st= REAL023416
+st= REAL023947
 st= REAL025219
+st= REAL028085
 st= REAL028564
 
 id= REAL001291
@@ -15611,9 +15624,8 @@ st= REAL016569
 
 id= REAL001867
 te= Sosial tilpasning
-ba= ns
-nn= Sosial tilpassing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T16:19:43Z
 
 id= REAL001868
 te= Kolorimetri
@@ -15703,8 +15715,10 @@ st= REAL026781
 id= REAL001880
 te= Økonomiske systemer
 ba= nb
+bf= Økonomisk orden
 nn= Økonomiske system
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-10T19:35:23Z
 
 id= REAL001881
 te= Ekskursjoner
@@ -24498,9 +24512,8 @@ tis= 2017-03-07T15:54:54Z
 
 id= REAL002891
 te= Grasrotbevegelser
-ba= ngh
-nn= Grasrotrørsler
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T19:32:24Z
 
 id= REAL002892
 te= Makrokosmos
@@ -29172,12 +29185,14 @@ ba= ns
 so= REAL006497
 nn= Vitskapsakademi
 tio= 2014-08-25T00:00:00Z
-tie= 2018-09-30T00:43:07Z
+tie= 2018-10-10T18:35:24Z
 st= REAL022608
 st= REAL023614
 st= REAL027165
 st= REAL027392
 st= REAL027495
+st= REAL018496
+st= REAL019856
 
 id= REAL003463
 te= Maritimt klima
@@ -29589,11 +29604,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003508
 te= Vitenskapsakademiet
-ba= nk
-nn= Vitskapsakademiet
 tio= 2014-08-25T00:00:00Z
-st= REAL018496
-st= REAL019856
+tis= 2018-10-10T18:35:19Z
+fly= REAL003462
 
 id= REAL003509
 te= Planetoverflater
@@ -29671,10 +29684,13 @@ nn= Sjeldsynte plantar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003516
-te= Tysk kulturfilosofi
+te= Kulturteori
 ba= nm
-nn= Tysk kulturfilosofi
+bf= Kulturfilosofi
+nn= Kulturteori
+nn= Kulturfilosofi
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-10T15:56:20Z
 
 id= REAL003518
 te= Endemismer
@@ -32876,9 +32892,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003885
 te= Indre produkter
-ba= nm
-nn= Indre produkt
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T19:46:43Z
 
 id= REAL003886
 te= Elektrisk utstyr
@@ -37616,15 +37631,10 @@ st= REAL031640
 
 id= REAL004458
 te= Kvinnelige forfattere
-ba= nb
-ba= nf
-ba= nm
-ba= ns
-nn= Kvinnelege forfattarar
-en= Female authors
-en= Women writers
-en= Female writers
+no= slettet fordi den bare var brukt på tre phd-oppgaver *av* kvinnelige forfattere
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-10T15:53:53Z
+tis= 2018-10-10T15:53:38Z
 
 id= REAL004459
 te= Fuglegeografi
@@ -40910,9 +40920,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004869
 te= Klassisk teori
-ba= nm
-nn= Klassisk teori
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T15:51:00Z
 
 id= REAL004871
 te= Elvefiske
@@ -50969,10 +50978,9 @@ fly= REAL013830
 
 id= REAL006098
 te= Klinisk onkologi
-ba= nk
-nn= Klinisk onkologi
-en= Clinical oncology
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T15:30:55Z
+fly= REAL009938
 
 id= REAL006099
 te= Vindkraft
@@ -55666,9 +55674,9 @@ tie= 2017-03-07T15:15:19Z
 
 id= REAL006624
 te= Havbassenger
-ba= ngh
-nn= Havbasseng
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T12:09:26Z
+fly= REAL008096
 
 id= REAL006625
 te= Simscript
@@ -67886,9 +67894,11 @@ ba= nq
 ba= ns
 bf= Havlære
 bf= Havundersøkelser
+bf= Havbassenger
 nn= Oseanografi
 nn= Havlære
 nn= Havundersøkingar
+nn= Havbasseng
 en= Oceanography
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T14:03:13Z
@@ -74808,9 +74818,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008919
 te= Økonomisk verdensordning
-ba= ngh
-nn= Økonomisk verdsordning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T19:30:26Z
 
 id= REAL008920
 te= Damp
@@ -83273,9 +83282,15 @@ te= Onkologi
 ba= nk
 ba= nb
 ba= ns
+bf= Klinisk onkologi
+bf= Medisinsk onkologi
 nn= Onkologi
+nn= Klinisk onkologi
+nn= Medisinsk onkologi
 en= Oncology
+en= Clinical oncology
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-10T15:31:05Z
 st= REAL021458
 
 id= REAL009939
@@ -86235,13 +86250,16 @@ nn= Laksesmolt
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010267
-te= Kostfiber
+te= Kostfibre
 ba= nb
 ba= ne
+bf= Kostfiber
+nn= Kostfibrar
 nn= Kostfiber
 en= Dietary fibers
 en= Roughages
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-10T19:06:30Z
 
 id= REAL010268
 te= Bevegelse
@@ -97315,10 +97333,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011650
 te= Internasjonale data
-ba= nc
-ba= nm
-nn= Internasjonale data
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-10T19:27:08Z
 
 id= REAL011651
 te= Molekylspektroskopi
@@ -100725,10 +100741,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012062
 te= Issmelting
-ba= nb
-nn= Issmelting
 tio= 2014-08-25T00:00:00Z
-st= REAL023416
+tis= 2018-10-10T10:36:08Z
+fly= REAL001290
 
 id= REAL012063
 te= Kreatin kinase
@@ -106712,18 +106727,10 @@ tio= 2014-08-25T00:00:00Z
 tie= 2018-04-16T18:45:31Z
 
 id= REAL012635
-te= Fiber
-ba= nb
-ba= ne
-ba= ns
-bf= Fibre
-nn= Fiber
-nn= Fibrar
-en= Fiber
-en= Fibra
-en= Fibre
+te= Fibre
 tio= 2014-08-25T00:00:00Z
-st= REAL016142
+tie= 2018-10-10T18:40:28Z
+tis= 2018-10-10T18:53:23Z
 
 id= REAL012636
 te= Fjellkjededannelse
@@ -106940,30 +106947,39 @@ tis= 2016-07-08T17:04:05Z
 fly= REAL012646
 
 id= REAL012648
-te= Nanofiber
-bf= Nanofibre
+te= Nanofibre
+bf= Nanofiber
+bf= Nanofibrer
+bf= Nanofibere
 nn= Nanofiber
 nn= Nanofibrar
 en= Nanofibres
 en= Nanofibers
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-10T18:42:32Z
 
 id= REAL012649
-te= Muskelfiber
-bf= Muskelfibre
-nn= Muskelfiber
+te= Muskelfibre
+bf= Muskelfiber
+bf= Muskelfibrer
+bf= Muskelfibere
 nn= Muskelfibrar
+nn= Muskelfiber
 en= Muscle fibres
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-10T18:42:28Z
 
 id= REAL012650
-te= Karbonfiber
+te= Karbonfibre
 ba= nk,nf
-bf= Karbonfibre
-nn= Karbonfiber
+bf= Karbonfiber
+bf= Karbonfibrer
+bf= Karbonfibere
 nn= Karbonfibrar
+nn= Karbonfiber
 en= Carbon fibres
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-10T18:42:25Z
 
 id= REAL012651
 te= Mutualisme
@@ -110468,18 +110484,9 @@ fly= REAL012406
 
 id= REAL012949
 te= Isavsmeltninger
-bf= Isavsmelting
-bf= Isavsmeltinger
-nn= Isavsmeltingar
-nn= Isavsmelting
 tio= 2014-08-25T00:00:00Z
-st= REAL017637
-st= REAL017814
-st= REAL019974
-st= REAL022023
-st= REAL022746
-st= REAL023947
-st= REAL028085
+tis= 2018-10-10T10:35:59Z
+fly= REAL001290
 
 id= REAL012950
 te= ISDN
