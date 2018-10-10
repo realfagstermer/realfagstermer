@@ -2628,6 +2628,11 @@ real:c003195
   skos:closeMatch hume:c00257 ;
   skos:prefLabel "Medical ethics"@en, "Medisinsk etikk"@nb, "Medisinsk etikk"@nn .
 
+real:c003198
+  a skos:Concept ;
+  skos:closeMatch hume:c05383 ;
+  skos:prefLabel "Skulpturer"@nb, "Skulpturar"@nn .
+
 real:c003200
   a skos:Concept ;
   skos:exactMatch hume:c21836 ;
@@ -5738,6 +5743,11 @@ real:c007288
   a skos:Concept ;
   skos:exactMatch hume:c07755 ;
   skos:prefLabel "Markedsføring"@nb, "Marknadsføring"@nn .
+
+real:c007294
+  a skos:Concept ;
+  skos:exactMatch hume:c08124 ;
+  skos:prefLabel "Dannelse"@nb, "Danning"@nn .
 
 real:c007302
   a skos:Concept ;
@@ -11055,6 +11065,11 @@ real:c013584
   a skos:Concept ;
   skos:exactMatch hume:c10505 ;
   skos:prefLabel "Portuguese language"@en, "Portugisisk språk"@nb, "Portugisisk språk"@nn .
+
+real:c013585
+  a skos:Concept ;
+  skos:exactMatch hume:c16009 ;
+  skos:prefLabel "Tattoos"@en, "Tatoveringer"@nb, "Tatoveringar"@nn .
 
 real:c013588
   a skos:Concept ;

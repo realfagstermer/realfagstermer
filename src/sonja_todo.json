@@ -1,6 +1,140 @@
 {
-  "REAL009503": {
-    "prefLabel": "SETL",
+  "REAL009470": {
+    "prefLabel": "Orbital motions",
+    "altLabel": [
+      "Orbital revolutions"
+    ]
+  },
+  "REAL003394": {
+    "prefLabel": "Anisotropic particles",
+    "altLabel": []
+  },
+  "REAL006395": {
+    "prefLabel": "Apparatus",
+    "altLabel": [
+      "Devices"
+    ]
+  },
+  "REAL008328": {
+    "prefLabel": "Algebraic function bodies",
+    "altLabel": []
+  },
+  "REAL003412": {
+    "prefLabel": "Mining technology",
+    "altLabel": []
+  },
+  "REAL012273": {
+    "prefLabel": "Algebraic equation systems",
+    "altLabel": []
+  },
+  "REAL032000": {
+    "prefLabel": "Age determination (astronomy)",
+    "altLabel": []
+  },
+  "REAL008808": {
+    "prefLabel": "Movement-oriented interactions",
+    "altLabel": [
+      "Gesture-based communication"
+    ]
+  },
+  "REAL012933": {
+    "prefLabel": "Book production",
+    "altLabel": []
+  },
+  "REAL010428": {
+    "prefLabel": "Asymptotic expansions",
+    "altLabel": [
+      "Asymptotic series"
+    ]
+  },
+  "REAL008767": {
+    "prefLabel": "Biblical interpretation",
+    "altLabel": [
+      "Exegesis"
+    ]
+  },
+  "REAL002857": {
+    "prefLabel": "Calculation theory",
+    "altLabel": []
+  },
+  "REAL010910": {
+    "prefLabel": "Audiovisual media",
+    "altLabel": []
+  },
+  "REAL030068": {
+    "prefLabel": "Workbooks",
+    "altLabel": []
+  },
+  "REAL007849": {
+    "prefLabel": "Analytical methods",
+    "altLabel": [
+      "Analytical techniques"
+    ]
+  },
+  "REAL004984": {
+    "prefLabel": "Construction engineering",
+    "altLabel": []
+  },
+  "REAL004568": {
+    "prefLabel": "Distance measurements",
+    "altLabel": [
+      "Distance calculations",
+      "Distance determinations",
+      "Distance measures"
+    ]
+  },
+  "REAL004561": {
+    "prefLabel": "Photo composition",
+    "altLabel": [
+      "Photography composition"
+    ]
+  },
+  "REAL006636": {
+    "prefLabel": "Physically disabled",
+    "altLabel": [
+      "Physically challenged"
+    ]
+  },
+  "REAL006189": {
+    "prefLabel": "Automata",
+    "altLabel": [
+      "Automatons"
+    ]
+  },
+  "REAL000730": {
+    "prefLabel": "Bayesian decision theory",
+    "altLabel": []
+  },
+  "REAL013526": {
+    "prefLabel": "Occupational environmental chemistry",
+    "altLabel": []
+  },
+  "REAL004468": {
+    "prefLabel": "Calculations",
+    "altLabel": []
+  },
+  "REAL002982": {
+    "prefLabel": "Aroma compounds",
+    "altLabel": []
+  },
+  "REAL032036": {
+    "prefLabel": "Taxation",
+    "altLabel": []
+  },
+  "REAL012098": {
+    "prefLabel": "Bayesian modelling",
+    "altLabel": []
+  },
+  "REAL005605": {
+    "prefLabel": "Atmospheric disturbances",
+    "altLabel": []
+  },
+  "REAL012572": {
+    "prefLabel": "Optimization algorithms",
+    "altLabel": []
+  },
+  "REAL000718": {
+    "prefLabel": "Conditioning",
     "altLabel": []
   }
 }

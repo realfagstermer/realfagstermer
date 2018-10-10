@@ -6053,6 +6053,7 @@ id= REAL000718
 te= Betinging
 ba= nm
 nn= Betinging
+en= Conditioning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000719
@@ -6153,6 +6154,7 @@ ba= nm
 bf= Bayesisk beslutningsteori
 nn= Bayesiansk slutningsteori
 nn= Bayesisk slutningsteori
+en= Bayesian decision theory
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-05T18:37:08Z
 
@@ -24143,6 +24145,7 @@ id= REAL002857
 te= Beregningsteori
 ba= nm
 nn= Berekningsteori
+en= Calculation theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002858
@@ -25196,6 +25199,7 @@ ba= nb
 ba= ne
 ba= nq
 nn= Aromastoff
+en= Aroma compounds
 tio= 2014-08-25T00:00:00Z
 st= REAL015443
 
@@ -28607,6 +28611,7 @@ id= REAL003394
 te= Anisotropiske partikler
 ba= na
 nn= Anisotropiske partiklar
+en= Anisotropic particles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003395
@@ -28738,6 +28743,7 @@ te= Bergteknikk
 ba= nc
 ba= ngh
 nn= Bergteknikk
+en= Mining technology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003413
@@ -37694,6 +37700,7 @@ ba= nb
 ba= ngh
 ba= nm
 nn= Berekningar
+en= Calculations
 tio= 2014-08-25T00:00:00Z
 st= REAL024922
 st= REAL028750
@@ -38429,6 +38436,8 @@ te= Bildekomposisjon
 ba= ns
 nn= Biletkomposisjon
 nn= Bildekomposisjon
+en= Photo composition
+en= Photography composition
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004562
@@ -38482,6 +38491,10 @@ bf= Avstandsmålinger
 nn= Avstandsutrekningar
 nn= Avstandsberekningar
 nn= Avstandsmålingar
+en= Distance measurements
+en= Distance calculations
+en= Distance determinations
+en= Distance measures
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-20T10:42:04Z
 st= REAL014170
@@ -41855,6 +41868,7 @@ id= REAL004984
 te= Anleggsteknikk
 ba= ns
 nn= Anleggsteknikk
+en= Construction engineering
 tio= 2014-08-25T00:00:00Z
 st= REAL025638
 st= REAL029042
@@ -46757,6 +46771,7 @@ id= REAL005605
 te= Atmosfæriske forstyrrelser
 ba= ni
 nn= Atmosfæriske forstyrringar
+en= Atmospheric disturbances
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005606
@@ -51644,6 +51659,8 @@ te= Automater
 ba= ni
 ba= ngh
 nn= Automatar
+en= Automata
+en= Automatons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006190
@@ -53517,6 +53534,8 @@ id= REAL006395
 te= Apparatur
 ba= nc
 nn= Apparatur
+en= Apparatus
+en= Devices
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006396
@@ -55731,6 +55750,8 @@ nn= Rørslehemma
 nn= Bevegelseshemja
 nn= Bevegelseshemma
 nn= Rørslehemja
+en= Physically disabled
+en= Physically challenged
 tio= 2014-08-25T00:00:00Z
 st= REAL018235
 
@@ -65840,6 +65861,8 @@ bf= Analyseteknikk
 nn= Analysemetodar
 nn= Analyseteknikk
 nn= Analyseteknikkar
+en= Analytical methods
+en= Analytical techniques
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007850
@@ -69724,6 +69747,7 @@ id= REAL008328
 te= Algebraiske funksjonskropper
 ba= nm
 nn= Algebraiske funksjonskroppar
+en= Algebraic function bodies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008329
@@ -73537,6 +73561,8 @@ ba= na
 bf= Eksegese
 nn= Bibelfortolking
 nn= Eksegese
+en= Biblical interpretation
+en= Exegesis
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-20T11:05:45Z
 
@@ -73885,6 +73911,8 @@ te= Bevegelsesorientert interaksjon
 ba= ni
 nn= Rørsleorientert interaksjon
 nn= Bevegelsesorientert interaksjon
+en= Movement-oriented interactions
+en= Gesture-based communication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008809
@@ -79294,6 +79322,8 @@ te= Banebevegelser
 ba= na
 nn= Banerørsler
 nn= Banebevegelsar
+en= Orbital motions
+en= Orbital revolutions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009471
@@ -87448,6 +87478,8 @@ ba= nf
 ba= nm
 nn= Asymptotiske rekkjer
 nn= Asymptotiske rekker
+en= Asymptotic expansions
+en= Asymptotic series
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010429
@@ -91241,6 +91273,7 @@ id= REAL010910
 te= Audiovisuelle medier
 ba= ns
 nn= Audiovisuelle medium
+en= Audiovisual media
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010911
@@ -100965,6 +100998,7 @@ ba= nb
 bf= Bayesisk modellering
 nn= Bayesiansk modellering
 nn= Bayesisk modellering
+en= Bayesian modelling
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-05T18:37:39Z
 
@@ -102441,6 +102475,7 @@ ba= na
 ba= nm
 bf= Algebraiske likningssystemer
 nn= Algebraiske likningssystem
+en= Algebraic equation systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012274
@@ -105924,6 +105959,7 @@ id= REAL012572
 te= Algoritmisk optimering
 ba= ns
 nn= Algoritmisk optimering
+en= Optimization algorithms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012573
@@ -110260,6 +110296,7 @@ ba= ns
 bf= Bokframstilling
 nn= Bokproduksjon
 nn= Bokframstilling
+en= Book production
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012934
@@ -118404,6 +118441,7 @@ id= REAL013526
 te= Arbeidsmiljøkjemi
 so= REAL003774
 nn= Arbeidsmiljøkjemi
+en= Occupational environmental chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013527
@@ -128910,6 +128948,7 @@ tie= 2018-04-13T20:07:41Z
 id= REAL032000
 te= Aldersbestemmelse (astronomi)
 so= REAL005638
+en= Age determination (astronomy)
 tio= 2018-04-23T18:36:49Z
 tie= 2018-04-23T18:37:08Z
 
@@ -129266,6 +129305,7 @@ tie= 2018-09-04T15:20:32Z
 
 id= REAL032036
 te= Beskatning
+en= Taxation
 de= begrep i naturforvaltning
 tio= 2018-09-04T15:24:09Z
 tie= 2018-09-04T15:24:16Z
