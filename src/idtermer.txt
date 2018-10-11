@@ -4064,8 +4064,10 @@ st= REAL029630
 id= REAL000478
 te= Knollvekster
 ba= nq
+bf= Rotknoller
 nn= Knollvekstar
 nn= Knollvokstrar
+nn= Rotknollar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000479
@@ -29186,13 +29188,13 @@ so= REAL006497
 nn= Vitskapsakademi
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-10T18:35:24Z
+st= REAL018496
+st= REAL019856
 st= REAL022608
 st= REAL023614
 st= REAL027165
 st= REAL027392
 st= REAL027495
-st= REAL018496
-st= REAL019856
 
 id= REAL003463
 te= Maritimt klima
@@ -44832,9 +44834,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005355
 te= Innsamlingsredskaper
-ba= nb
-nn= Innsamlingsreiskapar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-11T15:34:52Z
 
 id= REAL005356
 te= Eklogitter
@@ -55035,9 +55036,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006545
 te= Intervensjonsstudier
-ba= ne
-nn= Intervensjonsstudiar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-11T15:35:03Z
 
 id= REAL006546
 te= Væskeoverflater
@@ -60556,12 +60556,17 @@ en= Biomes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007206
-te= Pungrotte
+te= Pungrotter
 ba= nb
 bf= Opossum
+bf= Opossumer
 nn= Pungrotte
 nn= Opossum
+nn= Pungrotter
+nn= Opossumer
+la= Didelphidae
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-11T15:30:19Z
 
 id= REAL007207
 te= Geokjemisk modellering
@@ -82157,9 +82162,8 @@ tis= 2018-02-12T20:03:22Z
 
 id= REAL009813
 te= Fisketelling
-ba= ns
-nn= Fisketeljing
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-11T15:32:06Z
 
 id= REAL009814
 te= Kvikksølvforurensning
@@ -109123,9 +109127,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012822
 te= Rotknoller
-ba= nk
-nn= Rotknollar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-11T15:36:34Z
+fly= REAL000478
 
 id= REAL012823
 te= Nematoder
@@ -117808,7 +117812,6 @@ nn= Psykologi
 en= Psychology
 tio= 2014-08-25T00:00:00Z
 st= REAL014335
-st= REAL017003
 
 id= REAL013499
 te= Romfart
@@ -125407,9 +125410,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL014017
 te= Nanofarmasi
 nn= Nanofarmasi
+en= Nanopharmacy
 en= Nanopharmaceutics
 de= Nanoteknologi brukt i farmasøytiske produkter/utvikling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-11T06:36:57Z
 
 id= REAL014018
 te= Fuglefotografering
