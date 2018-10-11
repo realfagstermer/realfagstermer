@@ -36506,6 +36506,8 @@ te= Tørking
 ba= nk
 nn= Tørking
 nn= Turking
+en= Drying
+en= Desiccation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004323
@@ -80909,6 +80911,7 @@ id= REAL009655
 te= Lokal tilpasning
 ba= nb
 nn= Lokal tilpassing
+en= Local adaptation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009657
@@ -80930,6 +80933,7 @@ id= REAL009658
 te= Sosiale samfunn
 ba= nb
 nn= Sosiale samfunn
+en= Social societies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009659
@@ -88337,6 +88341,7 @@ id= REAL010536
 te= Integrerte datasystemer
 ba= ngh
 nn= Integrerte datasystem
+en= Embedded computer systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010537
@@ -125007,6 +125012,7 @@ id= REAL013986
 te= Nynorsk
 no= Brukes i betydningen nynorsk språk. Trengs andre betydninger (nynorsk kultur...?), send forslag til redaksjonen. ml
 nn= Nynorsk
+en= Nynorsk
 de= Norsk skriftspråk, målform nynorsk
 tio= 2014-08-25T00:00:00Z
 st= REAL026656
