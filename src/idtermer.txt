@@ -44776,12 +44776,13 @@ nn= Vaksne
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005346
-te= Flått
+te= Flåtter
 ba= nb
-bf= Blodmidd
-nn= Flått
-nn= Blodmidd
+bf= Blodmidder
+nn= Flåttar
+nn= Blodmiddar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-12T18:18:24Z
 st= REAL016774
 st= REAL022670
 
