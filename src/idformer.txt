@@ -102,6 +102,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030074
 te= Bildebøker
 bf= Billedbøker
+en= Picture books
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030075
@@ -109,6 +110,9 @@ te= Bildeverk
 bf= Bilder
 bf= Billedverk
 bf= Billedverker
+en= Pictorial works
+en= Images
+en= Pictures
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030076
@@ -380,6 +384,8 @@ te= Biografier
 bf= Autobiografier
 bf= Biografisamlinger
 bf= Selvbiografier
+en= Biographies
+en= Autobiographies
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030118
