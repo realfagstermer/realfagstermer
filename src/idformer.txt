@@ -399,7 +399,6 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030119
 te= Floraer
 bf= Flora
-en= Floras
 de= Se også "bestemmelseslitteratur" under de enkelte temaer, f.eks 'planter : bestemmelseslitteratur'
 tio= 2015-02-20T13:08:04Z
 
