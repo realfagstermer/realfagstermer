@@ -29974,7 +29974,6 @@ nn= Spermatofyttar
 en= Seed plants
 en= Phanerogams
 en= Spermatophytes
-en= spermatophytes
 tio= 2014-08-25T00:00:00Z
 st= REAL017016
 st= REAL021764
@@ -86495,11 +86494,8 @@ fly= REAL003528
 
 id= REAL010281
 te= Studier
-ba= ni
-ba= nb
-ba= ne
-nn= Studiar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-16T19:28:52Z
 
 id= REAL010283
 te= Debrecen photoheliographic data
