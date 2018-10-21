@@ -6799,10 +6799,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000802
 te= Fagpresse
-ba= ns
-nn= Fagpresse
 tio= 2014-08-25T00:00:00Z
-st= REAL015540
+tis= 2018-10-20T19:27:31Z
 
 id= REAL000803
 te= Retinsyre
@@ -17602,7 +17600,6 @@ id= REAL002103
 te= Patulin
 ba= nk
 nn= Patulin
-en= Patulin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002104
@@ -91605,7 +91602,6 @@ te= Treghetsnavigasjonssystem
 ba= ni
 ak= TNS
 nn= Tregleiksnavigasjonssystem
-en= Inertial navigation systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010934
@@ -117883,7 +117879,6 @@ ba= ngh
 ba= nm
 ba= ns
 nn= Pedagogikk
-en= Pedagogy
 tio= 2014-08-25T00:00:00Z
 st= REAL021932
 st= REAL022993
@@ -123678,7 +123673,6 @@ so= REAL013878
 so= REAL012878
 so= REAL008991
 nn= Tradisjonar
-en= Traditions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013878
