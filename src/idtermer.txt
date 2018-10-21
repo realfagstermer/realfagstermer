@@ -17602,6 +17602,7 @@ id= REAL002103
 te= Patulin
 ba= nk
 nn= Patulin
+en= Patulin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002104
@@ -91604,6 +91605,7 @@ te= Treghetsnavigasjonssystem
 ba= ni
 ak= TNS
 nn= Tregleiksnavigasjonssystem
+en= Inertial navigation systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010934
@@ -117881,6 +117883,7 @@ ba= ngh
 ba= nm
 ba= ns
 nn= Pedagogikk
+en= Pedagogy
 tio= 2014-08-25T00:00:00Z
 st= REAL021932
 st= REAL022993
@@ -123675,6 +123678,7 @@ so= REAL013878
 so= REAL012878
 so= REAL008991
 nn= Tradisjonar
+en= Traditions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013878
