@@ -85,7 +85,8 @@ def task_fetch_extras():
             'local': 'src/real_hume_mappings.ttl'},
         {'remote': 'https://lambda.biblionaut.net/export/ccmapper_mappings.ttl',
             'local': 'src/ccmapper_mappings.ttl'},
-        # {'remote': 'https://rawgit.com/realfagstermer/prosjekt-kinderegg/master/categories_and_mappings.ttl',
+        {'remote': 'https://data.ub.uio.no/dumps/msc-ubo.mappings.nt',
+            'local': 'src/msc-ubo.mappings.nt'},        # {'remote': 'https://rawgit.com/realfagstermer/prosjekt-kinderegg/master/categories_and_mappings.ttl',
         #     'local': 'src/categories_and_mappings.ttl'},
     ]:
         yield data_ub_tasks.fetch_remote_gen(file['remote'], file['local'], [])
@@ -175,6 +176,7 @@ def task_build_extras():
         roald.load('src/real_tekord_mappings.ttl', format='skos')  # Tekord mappings
         roald.load('src/real_agrovoc_mappings.ttl', format='skos')  # Agrovoc mappings
         roald.load('src/ccmapper_mappings.ttl', format='skos')  # Mappings from CCMapper
+        roald.load('src/msc-ubo.mappings.nt', format='skos')  # MSC mappings
 
         # 1) MARC21 for Alma and general use
         marc21options = {
@@ -220,6 +222,7 @@ def task_build_extras():
             'src/real_hume_mappings.ttl',
             'src/ccmapper_mappings.ttl',
             'src/categories_and_mappings.ttl',
+            'src/msc-ubo.mappings.nt',
             'src/ub-onto.ttl',
             '%s.scheme.ttl' % config['basename']
         ],
@@ -249,6 +252,10 @@ def task_build_mappings():
         {
             'source_files': ['src/ccmapper_mappings.ttl'],
             'target': 'ddc23no',
+        },
+        {
+            'source_files': ['src/msc-ubo.mappings.nt'],
+            'target': 'msc-ubo',
         },
     ]
 
@@ -288,6 +295,7 @@ def task_publish_dumps():
         '%s-humord.mappings.nt' % config['basename'],
         '%s-tekord.mappings.nt' % config['basename'],
         '%s-ddc23no.mappings.nt' % config['basename'],
+        '%s-msc-ubo.mappings.nt' % config['basename'],
     ])
 
 
