@@ -8507,7 +8507,6 @@ bf= Sannsynlighetsregning
 bf= Sannsynlighetsteorier
 bf= Sannsynlighetsberegning
 so= REAL013077
-so= REAL013076
 nn= Sannsynsteori
 nn= Sannsynsrekning
 nn= Sannsynsteoriar
@@ -10516,7 +10515,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001249
 te= Mårdyr
 ba= nb
+bf= Mår
 nn= Mårdyr
+nn= Mår
 tio= 2014-08-25T00:00:00Z
 st= REAL018072
 st= REAL020273
@@ -31155,12 +31156,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003686
 te= Vannbalanse
 ba= nb
+bf= Væskebalanse
 no= bio, ikke geo!
 nn= Vassbalanse
+nn= Væskebalanse
 en= Fluid balance
 en= Water balance
 tio= 2014-08-25T00:00:00Z
-tie= 2018-09-29T21:25:44Z
+tie= 2018-10-23T13:52:33Z
 
 id= REAL003687
 te= Elektroteknikk
@@ -35900,9 +35903,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004249
 te= Mår
-ba= nb
-nn= Mår
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T16:07:27Z
+fly= REAL001249
 
 id= REAL004250
 te= Populasjonsmodeller
@@ -61085,9 +61088,12 @@ ba= nf
 bf= Binære stjerner
 bf= Optiske dobbeltstjerner
 bf= Tvillingstjerner
+bf= Visuelle dobbeltstjerner
+bf= Fysiske dobbeltstjerner
 so= REAL008511
 so= REAL005875
 so= REAL001896
+no= Vurderes delt opp i fysiske/visuelle
 nn= Dobbeltstjerner
 nn= Optiske dobbeltstjerner
 nn= Binære stjerner
@@ -61095,9 +61101,9 @@ nn= Tvillingstjerner
 en= Double stars
 en= Binary stars
 en= Optical double stars
-de= Stjerner som observert fra jorden har tilstrekkelig liten innbyrdes vinkelavstand til at de fremstår som par, enten de faktisk er nær hverandre (gravitasjonelt bundne binærstjerner) eller ikke (optiske dobbeltstjerner)
+de= Stjerner som observert fra jorden har tilstrekkelig liten innbyrdes vinkelavstand til at de fremstår som par, enten de faktisk er nær hverandre (gravitasjonelt bundne binærstjerner/fysiske dobbeltstjerner) eller ikke (optiske/visuelle dobbeltstjerner)
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-31T20:05:40Z
+tie= 2018-10-23T11:37:05Z
 st= REAL022736
 
 id= REAL007260
@@ -71892,10 +71898,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008556
 te= Agrobiologi
-ba= nb
-nn= Agrobiologi
-en= Agrobiology
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T16:08:34Z
 
 id= REAL008557
 te= Statistisk mønstergjenkjenning
@@ -102701,11 +102705,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012281
 te= Differensligninger
-ba= ni
-bf= Differenslikninger
-nn= Differenslikningar
-en= Difference equations
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T16:14:01Z
 
 id= REAL012282
 te= Evolusjonsligninger
@@ -104927,12 +104928,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012466
 te= Kommutative assosiative ringer
-ba= nm
-nn= Kommutative assosiative ringar
-en= Commutative associative rings
-ms= 13
-dw= 512.44
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:35:41Z
 
 id= REAL012467
 te= Lineær algebra
@@ -105352,14 +105349,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012499
 te= Ikke-assosiative ringer
-ba= nm
-bf= Ikkeassosiative ringer
-nn= Ikkje-assosiative ringar
-nn= Ikkjeassosiative ringar
-en= Non-associative rings
-ms= 17
-dw= 512.48
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:36:59Z
 
 id= REAL012500
 te= Ikke-assosiative algebraer
@@ -105425,12 +105416,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012506
 te= Geometriske ulikheter
-ba= nm
-nn= Geometriske ulikskapar
-en= Geometric inequalities
-ms= 52
-dw= 516.08
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:43:24Z
 
 id= REAL012507
 te= Algebraisk topologi
@@ -111849,21 +111836,13 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013075
 te= Sannsynlighetsregning i topologiske grupper
-ba= nm
-nn= Sannsynsrekning i topologiske grupper
-en= Probability in topological groups
-ms= 60.08
-dw= 519.1255
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:43:31Z
 
 id= REAL013076
 te= Kombinatorisk sannsynlighetsregning
-ba= nm
-nn= Kombinatorisk sannsynsrekning
-en= Combinatorial probability
-ms= 60.10
-dw= 519.1116
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:59:50Z
 
 id= REAL013077
 te= Geometrisk sannsynlighetsregning
@@ -111955,12 +111934,8 @@ tie= 2018-07-19T13:08:43Z
 
 id= REAL013084
 te= Huntprosesser
-ba= nm
-nn= Huntprosessar
-en= Hunt processes
-ms= 60.62
-dw= 519.233
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:43:08Z
 
 id= REAL013085
 te= Diffusjonsprosesser
@@ -111990,12 +111965,8 @@ tie= 2017-02-15T14:15:16Z
 
 id= REAL013087
 te= Sannsynlighet i potensialteori
-ba= nm
-nn= Sannsyn i potensialteori
-en= Probabilistic potential theory
-ms= 60.62
-dw= 519.233
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:37:45Z
 
 id= REAL013088
 te= Markovkjeder
@@ -112037,13 +112008,8 @@ tis= 2017-11-30T14:23:21Z
 
 id= REAL013092
 te= Fødsel-og-død-prosesser
-ba= nm
-nn= Fødsel-og-daude-prosessar
-nn= Fødsel-og-død-prosessar
-en= Birth-and-death processes
-ms= 60.67
-dw= 519.233
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T16:11:02Z
 
 id= REAL013093
 te= Spesielle prosesser
@@ -112056,12 +112022,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013094
 te= Fornyelsesteori
-ba= nm
-nn= Fornyingsteori
-en= Renewal theory
-ms= 60.70
-dw= 519.28
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T16:12:22Z
 
 id= REAL013095
 te= Stokastiske differensialligninger
@@ -112104,12 +112066,8 @@ st= REAL014608
 
 id= REAL013098
 te= Tilordninger
-ba= nm
-nn= Tilordningar
-en= Allocation
-ms= 60.80
-dw= 519.8
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:39:10Z
 
 id= REAL013099
 te= Lagerteori
@@ -112146,12 +112104,8 @@ tis= 2018-07-18T16:01:18Z
 
 id= REAL013104
 te= Asymptotisk effisiens
-ba= nm
-nn= Asymptotisk effisiens
-en= Asymptotic efficiency
-ms= 62.16
-dw= 519.54
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T16:04:36Z
 
 id= REAL013105
 te= Rangering
@@ -112232,12 +112186,8 @@ tis= 2018-03-26T10:43:03Z
 
 id= REAL013111
 te= Informasjonsteoretiske metoder
-ba= nm
-nn= Informasjonsteoretiske metodar
-en= Information-theoretic methods
-ms= 62.50
-dw= 519.5401154
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:36:48Z
 
 id= REAL013112
 te= Lineær statistisk inferens
@@ -112893,17 +112843,12 @@ fly= REAL013175
 
 id= REAL013177
 te= Økonomisk optimering
-ba= nm
-so= REAL013178
-nn= Økonomisk optimering
-ms= 90
-dw= 330.0151
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:39:19Z
 
 id= REAL013178
 te= Økonomisk programmering
 ba= nm
-so= REAL013177
 nn= Økonomisk programmering
 ms= 90
 dw= 330.0151
@@ -112951,32 +112896,19 @@ st= REAL021805
 
 id= REAL013183
 te= Stokastiske spill
-ba= nm
-nn= Stokastiske spel
-en= Stochastic games
-ms= 90.72
-dw= 519.27
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:43:02Z
 
 id= REAL013184
 te= Kontinuerlige spill
-ba= nm
-nn= Kontinuerlege spel
-en= Continuous games
-ms= 90.75
-dw= 519.32
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:24:09Z
 
 id= REAL013185
 te= Differensierbare spill
-ba= nm
-bf= Differensialspill
-nn= Differensierbare spel
-en= Differential games
-ms= 90.75
-dw= 519.32
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-07T14:55:47Z
+tis= 2018-10-23T15:43:38Z
 
 id= REAL013186
 te= Matematisk genetikk
@@ -114745,12 +114677,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013336
 te= Statistisk seleksjon
-ba= nm
-nn= Statistisk seleksjon
-en= Statistical selection
-ms= 62.31
-dw= 519.535
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:25:01Z
 
 id= REAL013337
 te= Ikke-parametriske metoder
@@ -114954,12 +114882,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013351
 te= Estimering - parametrisk tilfelle
-ba= nm
-nn= Estimering - parametrisk tilfelle
-en= Estimation - parametric case
-ms= 62.20
-dw= 519.544
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:43:46Z
 
 id= REAL013352
 te= Hypotesetesting
@@ -114973,12 +114897,8 @@ st= REAL024416
 
 id= REAL013353
 te= Hypotesetesting - parametrisk tilfelle
-ba= nm
-nn= Hypotesetesting - parametrisk tilfelle
-en= Hypothesis testing - parametric case
-ms= 62.25
-dw= 519.54
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:43:16Z
 
 id= REAL013354
 te= Ingeniørfag - statistikk
@@ -115020,14 +114940,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013359
 te= Sekvensielle beslutningsprosesser
-ba= nm
-bf= Dynamiske beslutningsprosesser
-nn= Sekvensielle avgjerdsprosessar
-nn= Dynamiske avgjerdsprosessar
-en= Multi-stage decision processes
-ms= 90.40
-dw= 519.703
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T15:42:40Z
 
 id= REAL013360
 te= Lineær programmering
@@ -126981,8 +126895,9 @@ nn= Auka oljeproduksjon
 nn= Tertiær oljeutvinning
 nn= Tertiær utvinning av olje
 en= Enhanced oil recovery
+en= Tertiary recovery
 tio= 2015-05-13T11:15:55Z
-tie= 2018-10-22T18:05:55Z
+tie= 2018-10-23T09:59:17Z
 
 id= REAL031432
 te= Symmetrisk kryptering
