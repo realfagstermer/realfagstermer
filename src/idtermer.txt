@@ -716,9 +716,8 @@ tie= 2017-07-03T16:37:07Z
 
 id= REAL000083
 te= Magnetisk kapillærprøving
-ba= nk
-nn= Magnetisk kapillærprøving
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T22:18:57Z
 
 id= REAL000084
 te= Nytteinsekter
@@ -1344,9 +1343,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000159
 te= Kvartsceller
-ba= nk
-nn= Kvartsceller
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T22:19:22Z
 
 id= REAL000160
 te= Helse
@@ -4095,9 +4093,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000481
 te= Grensetilfeller
-ba= ngh
-nn= Grensetilfelle
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T22:19:52Z
 
 id= REAL000482
 te= Enfrøbladete planter
@@ -7432,9 +7429,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000891
 te= Friarealer
-ba= ngh
-nn= Friareal
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T22:20:53Z
 
 id= REAL000892
 te= Forkurs
@@ -7751,9 +7747,8 @@ st= REAL027539
 
 id= REAL000922
 te= Skadesymptomer
-ba= nb
-nn= Skadesymptom
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T22:21:36Z
 
 id= REAL000924
 te= Planisfærer
@@ -14665,8 +14660,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001748
 te= Soloppvarming
 ba= nf
+bf= Solvarme
+so= REAL008012
 nn= Soloppvarming
+nn= Solvarme
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-23T22:26:32Z
 
 id= REAL001749
 te= Starr
@@ -26933,9 +26932,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003183
 te= Transparente platmaterialer
-ba= nk
-nn= Transparente platmateriale
 tio= 2014-08-25T00:00:00Z
+tis= 2018-10-23T22:30:33Z
 
 id= REAL003184
 te= Erler
@@ -46987,9 +46985,11 @@ st= REAL019862
 id= REAL005623
 te= Termisk energilagring
 ba= nf
+so= REAL008012
 nn= Termisk energilagring
 en= Thermal energy storage
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-23T22:27:10Z
 
 id= REAL005624
 te= Naftalener
@@ -67288,12 +67288,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008012
 te= Solfangere
 ba= nf
+so= REAL001748
+so= REAL005623
 nn= Solfangarar
 en= Solar thermal collectors
 en= Solar asorber
 en= Solar collectors
 en= Solar water heating
 tio= 2014-08-25T00:00:00Z
+tie= 2018-10-23T22:27:08Z
 
 id= REAL008013
 te= Plantedeler

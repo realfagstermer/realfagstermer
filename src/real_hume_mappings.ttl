@@ -10422,7 +10422,7 @@ real:c013282
 
 real:c013283
   a skos:Concept ;
-  skos:exactMatch hume:c00538 ;
+  skos:closeMatch hume:c00538 ;
   skos:prefLabel "Infinity"@en, "Uendelighet"@nb, "Æve"@nn .
 
 real:c013293
