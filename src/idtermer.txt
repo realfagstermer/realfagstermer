@@ -8886,6 +8886,7 @@ id= REAL001048
 te= Mathieuske funksjoner
 ba= nm
 nn= Mathieuske funksjonar
+en= Mathieu functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001049
@@ -23248,6 +23249,7 @@ id= REAL002752
 te= Leppefisker
 ba= nb
 nn= Leppefiskar
+en= Wrasse
 la= Labridae
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-22T18:17:29Z
