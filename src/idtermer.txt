@@ -1209,10 +1209,8 @@ st= REAL026032
 
 id= REAL000144
 te= Lineatin
-ba= nk
-nn= Lineatin
-en= Lineatin
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:49:47Z
 
 id= REAL000145
 te= Dessins d'enfant
@@ -2168,7 +2166,10 @@ te= Bioluminescens
 ba= nk
 ba= nb
 ba= nf
+bf= Lysorganer
 nn= Bioluminescens
+nn= Ljosorgan
+nn= Lysorgan
 en= Bioluminescence
 tio= 2014-08-25T00:00:00Z
 
@@ -2504,9 +2505,8 @@ tis= 2017-03-02T18:21:23Z
 
 id= REAL000291
 te= Lianer
-ba= ns
-nn= Lianar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:49:08Z
 
 id= REAL000292
 te= Kosthold
@@ -6985,12 +6985,9 @@ st= REAL015462
 
 id= REAL000825
 te= Luktstoffer
-ba= nk
-ba= nb
-bf= Aroma
-nn= Luktstoff
-nn= Aroma
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:56:00Z
+fly= REAL004892
 
 id= REAL000826
 te= Goldbachs formodning
@@ -10328,9 +10325,8 @@ st= REAL028044
 
 id= REAL001222
 te= Lavlandsområder
-ba= nb
-nn= Låglandsområde
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:33:26Z
 
 id= REAL001223
 te= Observasjoner
@@ -14974,9 +14970,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001782
 te= Sure vassdrag
-ba= nb
-nn= Sure vassdrag
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T16:12:05Z
+fly= REAL004097
 
 id= REAL001783
 te= Pakkesvitsj
@@ -21994,19 +21990,15 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002597
 te= Lysorganer
-ba= nb
-nn= Ljosorgan
-nn= Lysorgan
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:57:21Z
+fly= REAL000252
 
 id= REAL002598
 te= Jordforsuring
-ba= nk
-ba= nb
-ba= nq
-nn= Jordforsuring
-en= Soil acidification
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T16:11:45Z
+fly= REAL004097
 
 id= REAL002599
 te= Buss-bro
@@ -32653,11 +32645,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003851
 te= Lipopolysakkarider
-ba= nk
-ba= nb
-nn= Lipopolysakkarid
-en= Lipopolysaccharides
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:50:54Z
 
 id= REAL003852
 te= Datateknikk
@@ -34648,9 +34637,18 @@ ba= nc
 ba= ngh
 ba= nq
 ba= ns
+bf= Jordforsuring
+bf= Vannforsuring
+bf= Sure vassdrag
 nn= Forsuring
+nn= Jordforsuring
+nn= Vassforsuring
+nn= Sure vassdrag
 en= Acidification
 en= pH reduction
+en= Soil acidification
+en= Water acidification
+en= Acidification of water
 tio= 2014-08-25T00:00:00Z
 st= REAL017778
 st= REAL017851
@@ -41172,7 +41170,11 @@ id= REAL004892
 te= Duftstoffer
 ba= nb
 ba= ne
+bf= Luktstoffer
+bf= Aroma
 nn= Duftstoff
+nn= Luktstoff
+nn= Aroma
 en= Fragrant substances
 en= Aroma compounds
 en= Fragrances
@@ -43727,9 +43729,8 @@ tie= 2018-07-19T13:11:30Z
 
 id= REAL005202
 te= Krysning
-ba= ns
-nn= Krysning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:27:20Z
 
 id= REAL005203
 te= Plantegummier
@@ -50843,10 +50844,8 @@ st= REAL020817
 
 id= REAL006074
 te= Fluks
-ba= na
-nn= Fluks
-en= Flux
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:14:53Z
 
 id= REAL006075
 te= Sandjegere
@@ -67902,12 +67901,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008083
 te= Vannforsuring
-ba= nk
-ba= nb
-nn= Vassforsuring
-en= Water acidification
-en= Acidification of water
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T16:11:53Z
+fly= REAL004097
 
 id= REAL008084
 te= Biofacies
@@ -69075,11 +69071,9 @@ tis= 2017-08-09T12:39:57Z
 
 id= REAL008223
 te= Artsutbredelse
-ba= nk
-ba= nb
-nn= Artsutbreiing
-en= Species distribution
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T16:02:51Z
+fly= REAL008357
 
 id= REAL008224
 te= Digital typografi
@@ -70113,8 +70107,13 @@ ba= nf
 ba= ngh
 ba= nq
 ba= ns
+bf= Artsutbredelse
+no= Bruk denne bare i streng. Trengs enkelt-emneord, bruk "Biogeografi" eller noe annet.
 nn= Utbreiing
+nn= Artsutbreiing
+en= Species distribution
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-01T16:02:28Z
 st= REAL014444
 st= REAL014463
 st= REAL015497
@@ -99310,9 +99309,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011856
 te= Kompressorer
-ba= nk
-nn= Kompressorar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-01T15:13:34Z
 
 id= REAL011857
 te= Markovmodeller
@@ -129024,14 +129022,9 @@ tie= 2018-04-11T10:56:35Z
 
 id= REAL031991
 te= Fagkultur
-bf= Akademisk kultur
-nn= Fagkultur
-nn= Akademisk kultur
-en= Disciplinary culture
-en= Academic culture
 tio= 2018-04-11T11:50:01Z
 tie= 2018-04-11T12:10:13Z
-st= REAL031992
+tis= 2018-11-01T16:09:53Z
 
 id= REAL031993
 te= Plastisitet (mekanikk)
