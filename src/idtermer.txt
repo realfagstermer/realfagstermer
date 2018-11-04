@@ -68310,6 +68310,7 @@ id= REAL008121
 te= Kataklysmiske variable stjerner
 ba= na
 nn= Kataklysmiske variable stjerner
+en= Cataclysmic variable stars
 tio= 2014-08-25T00:00:00Z
 tie= 2018-11-02T21:47:06Z
 
