@@ -199,11 +199,6 @@ real:c000202
   skos:exactMatch hume:c22009 ;
   skos:prefLabel "Digital audio broadcasting"@en, "Digital radio"@nb, "Digital radio"@nn .
 
-real:c000206
-  a skos:Concept ;
-  skos:exactMatch hume:c27526 ;
-  skos:prefLabel "Forskningsstasjoner"@nb, "Forskingsstasjonar"@nn .
-
 real:c000210
   a skos:Concept ;
   skos:closeMatch hume:c19924 ;

@@ -7792,12 +7792,10 @@ en= Greater plantain
 en= broadleaf plantain
 en= Rat-tail plantain
 en= Common plantain
-en= Broadleaf plantain
 en= Way-bread
 en= Plantago major
 en= White man's foot
 en= Broad-leaved plantain
-en= white man's foot
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000928
@@ -51133,9 +51131,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006102
 te= Konstruksjonslære
-ba= nm
-nn= Konstruksjonslære
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-08T16:23:10Z
+fly= REAL012982
 
 id= REAL006103
 te= Optiske instrumenter
@@ -74403,6 +74401,7 @@ te= Vibrasjoner
 ba= nk
 ba= nf
 ba= nm
+ut= REAL032055
 nn= Vibrasjonar
 tio= 2014-08-25T00:00:00Z
 st= REAL015590
@@ -87989,10 +87988,11 @@ en= Tree lines
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010465
-te= Konstruksjonsteori
-ba= nm
-nn= Konstruksjonsteori
+te= Konstruksjonsmekanikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-08T16:24:54Z
+tis= 2018-11-08T16:26:27Z
+fly= REAL011723
 
 id= REAL010466
 te= Blomsterstøv
@@ -89056,9 +89056,13 @@ tie= 2018-01-12T11:48:15Z
 id= REAL010595
 te= Industridesign
 ba= ni
+bf= Teknisk design
 nn= Industridesign
+nn= Teknisk design
 en= Industrial design
+en= Engineering design
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-08T16:37:26Z
 
 id= REAL010596
 te= Solkonstanten
@@ -98207,14 +98211,18 @@ te= Teknisk mekanikk
 ba= nm
 bf= Ingeniørmekanikk
 bf= Anvendt mekanikk
+bf= Konstruksjonsmekanikk
 ut= REAL032019
 nn= Teknisk mekanikk
 nn= Bruksretta mekanikk
 nn= Ingeniørmekanikk
+nn= Konstruksjonsmekanikk
 en= Engineering mechanics
 en= Applied mechanics
+en= Structural mechanics
+en= Mechanics of structures
 tio= 2014-08-25T00:00:00Z
-tie= 2018-08-05T22:47:17Z
+tie= 2018-11-08T16:27:03Z
 
 id= REAL011724
 te= Inversjon
@@ -111034,9 +111042,13 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-09-30T01:21:22Z
 
 id= REAL012982
-te= Konstruksjonsteknikker
-nn= Konstruksjonsteknikkar
+te= Konstruksjonsteknikk
+bf= Konstruksjonslære
+nn= Konstruksjonsteknikk
+nn= Konstruksjonslære
+en= Structural engineering
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-08T16:33:32Z
 st= REAL028463
 
 id= REAL012983
@@ -117575,7 +117587,6 @@ nn= Gras
 en= Grasses
 en= Poaceae
 en= Gramineae
-en= Grasses
 tio= 2014-08-25T00:00:00Z
 st= REAL014667
 st= REAL016369
@@ -126321,12 +126332,14 @@ tie= 2014-10-09T00:00:00Z
 
 id= REAL031195
 te= Testdrevet utvikling
+bf= Testdrevet programutvikling
 so= REAL013382
 nn= Testdriven utvikling
+nn= Testdriven programutvikling
 en= Test-driven development
 de= Utviklingsmetode for programvare med korte iterasjoner med tester for hvert utviklingstrinn.
 tio= 2014-10-15T00:00:00Z
-tie= 2014-10-10T00:00:00Z
+tie= 2018-11-08T17:05:49Z
 
 id= REAL031196
 te= Topologisk kombinatorikk
@@ -129722,4 +129735,21 @@ en= Players
 en= Gamers
 tio= 2018-11-02T21:41:07Z
 tie= 2018-11-02T21:44:06Z
+
+id= REAL032055
+te= Tilfeldige vibrasjoner
+ot= REAL008841
+nn= Tilfeldige vibrasjonar
+en= Random vibrations
+tio= 2018-11-08T15:47:54Z
+tie= 2018-11-08T15:48:19Z
+
+id= REAL032056
+te= Vitenskapelig programutvikling
+bf= Vitenskapelig programmering
+bf= Programmering for naturvitere
+en= Scientific programming
+en= Software engineering for scientists
+tio= 2018-11-08T17:03:45Z
+tie= 2018-11-08T17:04:19Z
 
