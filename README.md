@@ -211,3 +211,137 @@ Characteristics:
   ```
 
   When converting to SKOS core, we simplify the model by removing term-term relationships.
+
+## Mapping to Wikidata
+
+A large part of the vocabulary (~ 8000 concepts as of Nov 2018) has beeen mapped to Wikidata:
+
+```sparql
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX real: <http://data.ub.uio.no/realfagstermer/>
+
+SELECT ?concept ?term ?wd_item
+FROM <http://data.ub.uio.no/realfagstermer>
+WHERE
+{
+  ?concept a skos:Concept ;
+           skos:prefLabel ?term ;
+           skos:mappingRelation ?wd_item .
+
+  FILTER(LANG(?term) = "nb")
+  FILTER(STRSTARTS(STR(?wd_item), "http://www.wikidata.org"))
+  FILTER NOT EXISTS { ?concept owl:deprecated true . }
+}
+LIMIT 10
+```
+
+concept | term | wd_item
+--|--|--
+http://data.ub.uio.no/realfagstermer/c006328 | Strukturgeologi | http://www.wikidata.org/entity/Q334823
+http://data.ub.uio.no/realfagstermer/c030694 | Rogaland | http://www.wikidata.org/entity/Q50624
+http://data.ub.uio.no/realfagstermer/c030446 | Luxemburg | http://www.wikidata.org/entity/Q32
+http://data.ub.uio.no/realfagstermer/c013836 | Stjernerotasjon | http://www.wikidata.org/entity/Q6464
+http://data.ub.uio.no/realfagstermer/c006404 | Patologi | http://www.wikidata.org/entity/Q7208
+http://data.ub.uio.no/realfagstermer/c004699 | Utmarksbeiter | http://www.wikidata.org/entity/Q30121
+http://data.ub.uio.no/realfagstermer/c005522 | Tungmetaller | http://www.wikidata.org/entity/Q105789
+http://data.ub.uio.no/realfagstermer/c030118 | Bibliografier | http://www.wikidata.org/entity/Q134995
+http://data.ub.uio.no/realfagstermer/c030681 | USA | http://www.wikidata.org/entity/Q30
+http://data.ub.uio.no/realfagstermer/c000237 | Tidsmåling | http://www.wikidata.org/entity/Q11471
+
+([Try the query](https://data.ub.uio.no/query/#query=PREFIX+skos%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23%3E%0APREFIX+owl%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23%3E%0APREFIX+real%3A+%3Chttp%3A%2F%2Fdata.ub.uio.no%2Frealfagstermer%2F%3E%0A%0ASELECT+%3Fconcept+%3Fterm+%3Fwd_item%0AFROM+%3Chttp%3A%2F%2Fdata.ub.uio.no%2Frealfagstermer%3E%0AWHERE%0A%7B%0A++%3Fconcept+a+skos%3AConcept+%3B%0A+++++++++++skos%3AprefLabel+%3Fterm+%3B%0A+++++++++++skos%3AmappingRelation+%3Fwd_item+.%0A%0A++FILTER(LANG(%3Fterm)+%3D+%22nb%22)%0A++FILTER(STRSTARTS(STR(%3Fwd_item)%2C+%22http%3A%2F%2Fwww.wikidata.org%22))%0A++FILTER+NOT+EXISTS+%7B+%3Fconcept+owl%3Adeprecated+true+.+%7D%0A%7D%0A%0A))
+
+This opens the possibility for federated queries, combining data from Realfagstermer with data from Wikidata.
+We can for instance list all concepts that are identified as species on Wikidata (`wdt:P105 wd:Q7432`) and have a mapping to `wdt:P815` and a scientific name (`wdt:P225`):
+
+```sparql
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT
+  ?rtTerm ?wdItem ?itisUrl ?sciName
+FROM <http://data.ub.uio.no/realfagstermer>
+WHERE{
+  SERVICE <https://query.wikidata.org/sparql>
+{
+  ?wdItem wdt:P31 wd:Q16521 ;  # er et taxon
+    wdt:P105 wd:Q7432 ;  # rang: art
+    wdt:P815 ?itisTsn ;  # har ITIS TSN
+    wdt:P225 ?sciName .  # har vitenskapelig navn
+}
+?rtConcept skos:closeMatch ?wdItem ;
+  skos:prefLabel ?rtTerm
+
+FILTER(LANG(?rtTerm) = 'nb')
+BIND(IRI(CONCAT("http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=",?itisTsn)) AS ?itisUrl)}
+LIMIT 100 
+```
+
+rtTerm | wdItem | itisUrl | sciName
+--|--|--|--
+Løver | http://www.wikidata.org/entity/Q140 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=183803 | Panthera leo
+Escherichia coli | http://www.wikidata.org/entity/Q25419 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=285 | Escherichia coli
+Ekorn | http://www.wikidata.org/entity/Q4388 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=632439 | Sciurus vulgaris
+Ål | http://www.wikidata.org/entity/Q26387 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=161128 | Anguilla anguilla
+Blodigle | http://www.wikidata.org/entity/Q30041 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=69417 | Hirudo medicinalis
+Jerv | http://www.wikidata.org/entity/Q14334 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=180551 | Gulo gulo
+Tårnugler | http://www.wikidata.org/entity/Q25317 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=177851 | Tyto alba
+Fasaner | http://www.wikidata.org/entity/Q25432 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=175905 | Phasianus colchicus
+Kongeørn | http://www.wikidata.org/entity/Q41181 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=175407 | Aquila chrysaetos
+Sitronmelisse | http://www.wikidata.org/entity/Q148396 | http://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=32565 | Melissa officinalis
+
+([Try the query](https://data.ub.uio.no/query/#query=PREFIX+wd%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX+wdt%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX+skos%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23%3E%0A%0ASELECT%0A++%3FrtTerm+%3FwdItem+%3FitisUrl+%3FsciName%0AFROM+%3Chttp%3A%2F%2Fdata.ub.uio.no%2Frealfagstermer%3E%0AWHERE%7B%0A++SERVICE+%3Chttps%3A%2F%2Fquery.wikidata.org%2Fsparql%3E%0A%7B%0A++%3FwdItem+wdt%3AP31+wd%3AQ16521+%3B++%23+er+et+taxon%0A++++wdt%3AP105+wd%3AQ7432+%3B++%23+rang%3A+art%0A++++wdt%3AP815+%3FitisTsn+%3B++%23+har+ITIS+TSN%0A++++wdt%3AP225+%3FsciName+.++%23+har+vitenskapelig+navn%0A%7D%0A%3FrtConcept+skos%3AcloseMatch+%3FwdItem+%3B%0A++skos%3AprefLabel+%3FrtTerm%0A%0AFILTER(LANG(%3FrtTerm)+%3D+'nb')%0ABIND(IRI(CONCAT(%22http%3A%2F%2Fwww.itis.gov%2Fservlet%2FSingleRpt%2FSingleRpt%3Fsearch_topic%3DTSN%26search_value%3D%22%2C%3FitisTsn))+AS+%3FitisUrl)%7D%0ALIMIT+100+))
+
+In practice, the software behind the sparql endpoint at https://data.ub.uio.no (Fuseki) is not good at optimizing federated queries.
+In the example above, the best would be to swap the remote query and the local query, so the local query is carried out first, but in that case, Fuseki makes one request to Wikidata for each item rather than querying all items in a single query (using `VALUES`), making it terribly slow.
+In practice, at least with our current stack, it's therefore better to rather have a script that first queries our local endpoint, then the Wikidata endpoint, and combines the data.
+But while slow, federated queries are good for demonstrating the possibilities. Here's a query that compares the preferred terms in our vocabulary and the mapped Wikidata items:
+
+```sparql
+PREFIX schema: <http://schema.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+SELECT ?realTerm ?wikidataItem ?wikidataTerm
+FROM <http://data.ub.uio.no/realfagstermer>
+WHERE {
+  ?realConcept skos:mappingRelation ?wikidataItem ;
+             skos:prefLabel ?realTerm .
+
+  FILTER(LANG(?realTerm) = "nb")
+  FILTER(STRSTARTS(STR(?wikidataItem), "http://www.wikidata.org")) 
+
+  SERVICE <https://query.wikidata.org/sparql>
+  {
+    ?wikidataItem schema:version ?o .
+    OPTIONAL {
+      ?wikidataItem rdfs:label ?wikidataTerm .
+      FILTER(LANG(?wikidataTerm) = "nb")
+    }
+  }
+}
+LIMIT 10 
+```
+
+realTerm | wikidataItem | wikidataTerm
+--|--|--
+Luxemburg | http://www.wikidata.org/entity/Q32 | Luxembourg
+Stjernerotasjon | http://www.wikidata.org/entity/Q6464 | stjernerotasjon
+Tungmetaller | http://www.wikidata.org/entity/Q105789 | tungmetall
+Aktiv læring | http://www.wikidata.org/entity/Q1542052 | 
+Elektronspektra | http://www.wikidata.org/entity/Q905243 | 
+Elektronspektroskopi | http://www.wikidata.org/entity/Q905243 | 
+Dislokasjoner | http://www.wikidata.org/entity/Q737571 | dislokasjon
+Darmstadtium | http://www.wikidata.org/entity/Q1266 | darmstadtium
+Metadata | http://www.wikidata.org/entity/Q180160 | metadata
+Balkan | http://www.wikidata.org/entity/Q23522 | Balkan
+
+
+([Try it](https://data.ub.uio.no/query/#query=PREFIX+schema%3A+%3Chttp%3A%2F%2Fschema.org%2F%3E%0APREFIX+wd%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fentity%2F%3E%0APREFIX+wdt%3A+%3Chttp%3A%2F%2Fwww.wikidata.org%2Fprop%2Fdirect%2F%3E%0APREFIX+rdfs%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX+skos%3A+%3Chttp%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23%3E%0A%0ASELECT+%3FrealTerm+%3FwikidataItem+%3FwikidataTerm%0AFROM+%3Chttp%3A%2F%2Fdata.ub.uio.no%2Frealfagstermer%3E%0AWHERE+%7B%0A++%3FrealConcept+skos%3AmappingRelation+%3FwikidataItem+%3B%0A+++++++++++++skos%3AprefLabel+%3FrealTerm+.%0A%0A++FILTER(LANG(%3FrealTerm)+%3D+%22nb%22)%0A++FILTER(STRSTARTS(STR(%3FwikidataItem)%2C+%22http%3A%2F%2Fwww.wikidata.org%22))+%0A%0A++SERVICE+%3Chttps%3A%2F%2Fquery.wikidata.org%2Fsparql%3E%0A++%7B%0A++++%3FwikidataItem+schema%3Aversion+%3Fo+.%0A++++OPTIONAL+%7B%0A++++++%3FwikidataItem+rdfs%3Alabel+%3FwikidataTerm+.%0A++++++FILTER(LANG(%3FwikidataTerm)+%3D+%22nb%22)%0A++++%7D%0A++%7D%0A%7D%0ALIMIT+10))
+
+This makes it easy to identify cases where a Norwegian term is missing on Wikidata, or where there is a mismatch between terms – in which case we might want to change either our own term or the Wikidata term or keep them different from each other.
+Automatic comparison is still complicated by the fact that we use plural for our terms, while Wikidata use singular.
