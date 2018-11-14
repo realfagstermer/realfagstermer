@@ -214,7 +214,7 @@ Characteristics:
 
 ## Mapping to Wikidata
 
-A large part of the vocabulary (~ 8000 concepts as of Nov 2018) has beeen mapped to Wikidata:
+A large part of the vocabulary (~ 8000 concepts as of Nov 2018) has been mapped to Wikidata:
 
 ```sparql
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
