@@ -3637,6 +3637,7 @@ ut= REAL002274
 ut= REAL010660
 ut= REAL012970
 ut= REAL032058
+ut= REAL012985
 no= github:#1454
 nn= Multivariat analyse
 nn= Multivariat statistikk
@@ -3647,7 +3648,7 @@ en= Multivariate statistics
 en= Multivariate data analysis
 de= Statistisk analyse som undersøker flere variabler samtidig
 tio= 2014-08-25T00:00:00Z
-tie= 2018-11-12T19:47:28Z
+tie= 2018-11-14T14:58:08Z
 
 id= REAL000431
 te= Skallprogrammering
@@ -111084,8 +111085,10 @@ fly= REAL009118
 
 id= REAL012985
 te= Korrespondanseanalyser
+ot= REAL000430
 nn= Korrespondanseanalysar
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-14T14:58:08Z
 
 id= REAL012986
 te= Korrosjon
