@@ -111087,6 +111087,11 @@ id= REAL012985
 te= Korrespondanseanalyser
 ot= REAL000430
 nn= Korrespondanseanalysar
+en= Correspondence analysis
+en= Canonical correspondence analysis
+en= Detrended correspondence analysis
+en= DCA
+en= CCA
 tio= 2014-08-25T00:00:00Z
 tie= 2018-11-14T14:58:08Z
 
