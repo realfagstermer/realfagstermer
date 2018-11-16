@@ -599,8 +599,11 @@ ba= nk
 ba= nb
 ba= ns
 bf= Menneskelige aspekter
+bf= Sosiale forhold
 nn= Sosiale aspekt
 nn= Menneskelege aspekt
+nn= Sosiale tilhøve
+nn= Sosiale forhold
 en= Human aspects
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-14T14:00:52Z
@@ -2199,11 +2202,9 @@ st= REAL019238
 
 id= REAL000255
 te= Samfunnsvitenskapelige metoder
-ba= ne
-ba= ns
-nn= Samfunnsvitskaplege metodar
-nn= Samfunnsvitskapelege metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T14:35:36Z
+fly= REAL006107
 
 id= REAL000257
 te= Edelkreps
@@ -2320,9 +2321,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000267
 te= Muskelproteiner
-ba= nb
-nn= Muskelprotein
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:45:39Z
 
 id= REAL000268
 te= P-adiske grupper
@@ -2614,9 +2614,13 @@ ba= nb
 ba= ne
 ba= nm
 ba= ns
-so= REAL010799
+bf= Sosialøkologi
+bf= Sosial økologi
 nn= Humanøkologi
+nn= Sosialøkologi
+nn= Sosial økologi
 en= Human ecology
+en= Social ecology
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-14T14:27:59Z
 st= REAL020590
@@ -3907,10 +3911,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000464
 te= Samfunnsvitenskaper
-ba= nm
-nn= Samfunnsvitskapar
-en= Social sciences
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T14:35:16Z
+fly= REAL013502
 
 id= REAL000465
 te= Asymptotisk kjempegren
@@ -8262,11 +8265,15 @@ id= REAL000980
 te= Elveregulering
 ba= nb
 bf= Regulerte elver
+bf= Elvereguleringer
 nn= Elveregulering
 nn= Regulerte elvar
 nn= Regulerte elver
+nn= Elvereguleringar
 en= River regulation
 en= Regulated rivers
+en= River engineering
+en= Regulation of rivers
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-30T00:26:01Z
 
@@ -9368,9 +9375,8 @@ st= REAL023360
 
 id= REAL001104
 te= Kunnskapshåndtering
-ba= ne
-nn= Kunnskapshandtering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:47:17Z
 
 id= REAL001105
 te= Celleregulering
@@ -10936,7 +10942,10 @@ ba= nb
 ba= ne
 ba= nm
 ba= ns
+bf= Kvalitetssikringssystemer
 nn= Kvalitetssikring
+nn= Kvalitetssikringssystem
+nn= Kvalitetstryggingssystem
 en= Quality assurance
 tio= 2014-08-25T00:00:00Z
 st= REAL026880
@@ -12713,10 +12722,14 @@ te= Laboratorieteknikker
 ba= nk
 ba= nb
 bf= Laboratoriekurs
+bf= Laboratoriearbeid
 nn= Laboratorieteknikkar
 nn= Laboratoriekurs
+nn= Laboratoriearbeid
 en= Laboratory techniques
+en= Laboratory work
 tio= 2014-08-25T00:00:00Z
+st= REAL022007
 st= REAL026711
 st= REAL027788
 
@@ -13123,9 +13136,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001553
 te= Levedyktighet
-ba= nb
-nn= Levedugleik
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:43:20Z
 
 id= REAL001554
 te= Analog kommunikasjon
@@ -17357,9 +17369,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002076
 te= Marklære
-ba= nb
-nn= Marklære
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:59:14Z
+fly= REAL009039
 
 id= REAL002077
 te= Nevrotransmittere
@@ -17623,8 +17635,10 @@ nn= Nyttevekst
 nn= Nyttevekster
 nn= Nyttevokster
 nn= Nyttevokstrar
+en= Beneficial plants
+en= Useful plants
 tio= 2014-08-25T00:00:00Z
-tie= 2015-09-25T11:57:01Z
+tie= 2018-11-16T11:31:47Z
 st= REAL016702
 st= REAL017305
 st= REAL017495
@@ -19107,12 +19121,9 @@ tis= 2016-12-01T11:47:43Z
 
 id= REAL002270
 te= Kunderelasjonshåndtering
-ba= nk
-ak= CRM
-nn= Kunderelasjonshandtering
-en= Customer relationship management
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-14T14:31:56Z
+tis= 2018-11-16T10:55:31Z
 
 id= REAL002271
 te= Vitamin B7
@@ -21667,9 +21678,8 @@ tie= 2017-08-29T15:00:26Z
 
 id= REAL002558
 te= Sosiale mekanismer
-ba= nb
-nn= Sosiale mekanismar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T15:24:32Z
 
 id= REAL002559
 te= Irregularitet
@@ -29493,9 +29503,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003485
 te= Saltvannsfiske
-ba= nb
-nn= Saltvassfiske
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T14:32:40Z
+fly= REAL008291
 
 id= REAL003486
 te= Ledende polymerer
@@ -31742,7 +31752,9 @@ id= REAL003748
 te= Næringsstoffer
 ba= nb
 ba= ns
+bf= Makronæringsstoffer
 nn= Næringsstoff
+nn= Makronæringsstoff
 en= Nutrients
 tio= 2014-08-25T00:00:00Z
 
@@ -35775,12 +35787,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004225
 te= Sosiale forhold
-ba= nb
-ba= ne
-ba= ns
-nn= Sosiale tilhøve
-nn= Sosiale forhold
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T15:23:46Z
+fly= REAL000066
 
 id= REAL004226
 te= Elektromagnetiske felt
@@ -39022,11 +39031,8 @@ st= REAL015225
 
 id= REAL004614
 te= Lokalflora
-ba= nb
-nn= Lokalflora
 tio= 2014-08-25T00:00:00Z
-st= REAL018406
-st= REAL022055
+tis= 2018-11-16T10:44:27Z
 
 id= REAL004615
 te= Amøber
@@ -39403,10 +39409,8 @@ st= REAL018279
 
 id= REAL004664
 te= Møkkspisere
-ba= nk
-nn= Møketarar
-nn= Møkketarar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:46:22Z
 
 id= REAL004665
 te= Fytoterapi
@@ -39860,13 +39864,8 @@ tis= 2018-03-02T20:16:01Z
 
 id= REAL004719
 te= Kompresjon
-ba= ni
-ba= nc
-bf= Kompaktering
-nn= Kompresjon
-nn= Kompaktering
-en= Compression
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:46:54Z
 
 id= REAL004720
 te= Ikke-lineære nettverk
@@ -39919,10 +39918,8 @@ tie= 2015-10-19T15:54:15Z
 
 id= REAL004725
 te= Livsformer
-ba= na
-ba= nb
-nn= Livsformer
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:43:31Z
 
 id= REAL004726
 te= Polymere blandinger
@@ -40195,6 +40192,7 @@ ba= ns
 nn= Elektronisk sakshandsaming
 nn= Elektronisk saksbehandling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-16T14:31:12Z
 
 id= REAL004762
 te= Brentformasjonen
@@ -40311,10 +40309,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004778
 te= Livsprosesser
-ba= nk
-ba= nb
-nn= Livsprosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:43:54Z
 
 id= REAL004779
 te= Avsetninger
@@ -44098,11 +44094,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005246
 te= Elvereguleringer
-ba= nb
-nn= Elvereguleringar
-en= River engineering
-en= Regulation of rivers
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T11:00:06Z
+fly= REAL000980
 
 id= REAL005248
 te= Kontinuitet
@@ -44121,7 +44115,6 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005250
 te= Datastøttet oversetting
 ba= ni
-ot= REAL032021
 nn= Datastøtta omsetjing
 nn= Datastøtta omsetting
 en= Computer aided translation
@@ -44154,9 +44147,9 @@ st= REAL027614
 
 id= REAL005253
 te= Kunstmotiver
-ba= ns
-nn= Kunstmotiv
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:49:55Z
+fly= REAL013439
 
 id= REAL005254
 te= Sandkutlinger
@@ -49009,9 +49002,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005843
 te= Livsmiljø
-ba= nb
-nn= Livsmiljø
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:43:43Z
 
 id= REAL005844
 te= Dolkhaler
@@ -51196,8 +51188,11 @@ st= REAL022522
 id= REAL006107
 te= Samfunnsvitenskapelig metode
 ba= nm
+bf= Samfunnsvitenskapelige metoder
 nn= Samfunnsvitskapleg metode
 nn= Samfunnsvitskapeleg metode
+nn= Samfunnsvitskaplege metodar
+nn= Samfunnsvitskapelege metodar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006108
@@ -52536,7 +52531,6 @@ bf= Tolkning av naturlig språk
 ak= NLP
 so= REAL005399
 so= REAL010134
-ot= REAL032021
 nn= Naturleg språk
 en= Natural language processing
 tio= 2014-08-25T00:00:00Z
@@ -52594,15 +52588,8 @@ st= REAL029410
 
 id= REAL006279
 te= Samlinger
-ba= nb
-ba= nq
-ba= ns
-nn= Samlingar
 tio= 2014-08-25T00:00:00Z
-st= REAL020659
-st= REAL020816
-st= REAL028436
-st= REAL029801
+tis= 2018-11-16T14:37:25Z
 
 id= REAL006281
 te= Objektidentifikatorer
@@ -53365,9 +53352,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006355
 te= Muskelutvikling
-ba= nb
-nn= Muskelutvikling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:45:55Z
 
 id= REAL006356
 te= Fålegemeproblemer
@@ -53791,12 +53777,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006408
 te= Lofotfiske
-ba= nb
-nn= Lofotfiske
 tio= 2014-08-25T00:00:00Z
-st= REAL019392
-st= REAL023663
-st= REAL027378
+tis= 2018-11-16T10:44:16Z
 
 id= REAL006409
 te= Statistisk væsketeori
@@ -62251,9 +62233,9 @@ tie= 2018-09-04T15:28:07Z
 
 id= REAL007395
 te= Makronæringsstoffer
-ba= nb
-nn= Makronæringsstoff
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:45:02Z
+fly= REAL003748
 
 id= REAL007397
 te= Z39.50-1988
@@ -63268,10 +63250,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007508
 te= Kvalitetssikringssystemer
-ba= ns
-nn= Kvalitetssikringssystem
-nn= Kvalitetstryggingssystem
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:50:26Z
+fly= REAL001292
 
 id= REAL007509
 te= Pollenallergi
@@ -64055,12 +64036,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007609
 te= Relasjoner
-ba= ni
-ba= nb
-ba= ne
-ba= ns
-nn= Relasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T15:27:03Z
 
 id= REAL007610
 te= Beslutningsmodeller
@@ -66189,9 +66166,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007865
 te= Lokalmeteorologi
-ba= nb
-nn= Lokalmeteorologi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:44:39Z
 
 id= REAL007866
 te= Programeksekvering
@@ -68560,11 +68536,8 @@ tie= 2017-02-21T21:02:50Z
 
 id= REAL008149
 te= Makroplanter
-ba= nb
-ba= nq
-nn= Makroplanter
-nn= Makroplantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:45:29Z
 
 id= REAL008150
 te= Combretum
@@ -69719,7 +69692,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008291
 te= Havfiske
 ba= nb
+bf= Saltvannsfiske
 nn= Havfiske
+nn= Saltvassfiske
 tio= 2014-08-25T00:00:00Z
 st= REAL014308
 st= REAL017830
@@ -71501,13 +71476,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008493
 te= Laboratoriearbeid
-ba= nk
-ba= nb
-nn= Laboratoriearbeid
-en= Laboratory work
 tio= 2014-08-25T00:00:00Z
-st= REAL022007
-st= REAL023513
+tis= 2018-11-16T10:51:15Z
+fly= REAL001500
 
 id= REAL008494
 te= Geometrisk modellering
@@ -74400,9 +74371,10 @@ ba= nk
 ba= nb
 ut= REAL011254
 nn= Fangstmetodar
-en= trapping methods
-en= catching methods
+en= Trapping methods
+en= Catching methods
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-16T11:02:44Z
 
 id= REAL008839
 te= Metallklynger
@@ -76041,12 +76013,14 @@ bf= Jord
 bf= Jordfag
 bf= Jordundersøkelser
 bf= Jordsmonn
+bf= Marklære
 nn= Pedologi
 nn= Jordlære
 nn= Jord
 nn= Jordfag
 nn= Jordundersøkingar
 nn= Jordsmonn
+nn= Marklære
 en= Pedology
 en= Soil
 tio= 2014-08-25T00:00:00Z
@@ -79492,10 +79466,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009459
 te= Langtidsvirkninger
-ba= nb
-nn= Langtidsverknader
-nn= Langtidsverknadar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:51:27Z
 
 id= REAL009461
 te= Millisekundpulsarer
@@ -82088,10 +82060,8 @@ st= REAL031577
 
 id= REAL009772
 te= Makroorganismer
-ba= nb
-nn= Makroorganismar
-en= Macroorganisms
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:45:18Z
 
 id= REAL009774
 te= Halvlederkomponenter
@@ -83084,9 +83054,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009888
 te= Livsgrunnlag
-ba= nb
-nn= Livsgrunnlag
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:44:05Z
 
 id= REAL009889
 te= Prototyper
@@ -87732,15 +87701,10 @@ fly= REAL010821
 
 id= REAL010427
 te= Kunstverk
-ba= ns
-bf= Kunstverker
-bf= Kunstprosjekter
-nn= Kunstverk
-nn= Kunstprosjekt
-en= Artworks
-en= Art projects
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-26T19:47:01Z
+tis= 2018-11-16T10:49:36Z
+fly= REAL013439
 
 id= REAL010428
 te= Asymptotiske rekker
@@ -89876,9 +89840,8 @@ tis= 2018-11-12T20:56:13Z
 
 id= REAL010695
 te= Lokalsamlinger
-ba= nb
-nn= Lokalsamlingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T14:37:51Z
 
 id= REAL010696
 te= Klassekroppteori
@@ -90726,14 +90689,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010799
 te= Sosialøkologi
-ba= nb
-bf= Sosial økologi
-so= REAL000306
-nn= Sosialøkologi
-nn= Sosial økologi
-en= Social ecology
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-14T14:27:32Z
+tis= 2018-11-16T15:32:36Z
+fly= REAL000306
 
 id= REAL010800
 te= Heliosfæren
@@ -92992,10 +92951,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011091
 te= Saksbehandling
-ba= ns
-nn= Sakshandsaming
-nn= Saksbehandling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T14:30:57Z
+fly= REAL004761
 
 id= REAL011092
 te= Fuzzy mikroprosessorer
@@ -94887,9 +94845,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011336
 te= Sosiale prosesser
-ba= nb
-nn= Sosiale prosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T15:25:41Z
 
 id= REAL011337
 te= Soft systems methodology
@@ -101578,9 +101535,8 @@ tis= 2018-03-02T20:42:14Z
 
 id= REAL012140
 te= Mønstergenerering
-ba= ns
-nn= Mønstergenerering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-16T10:46:31Z
 
 id= REAL012141
 te= Akademisk karriere
@@ -111046,6 +111002,9 @@ te= Datalingvistikk
 ba= ni
 ba= nm
 bf= Computerlingvistikk
+bf= Språkteknologi
+ut= REAL006274
+ut= REAL005250
 nn= Datalingvistikk
 nn= Computerlingvistikk
 en= Computational linguistics
@@ -117063,8 +117022,17 @@ ba= nf
 ba= nm
 ba= nq
 ba= ns
+bf= Kunstverk
+bf= Kunstverker
+bf= Kunstprosjekter
+bf= Kunstmotiver
 nn= Kunst
+nn= Kunstverk
+nn= Kunstprosjekt
+nn= Kunstmotiv
 en= Art
+en= Artworks
+en= Art projects
 tio= 2014-08-25T00:00:00Z
 st= REAL015984
 st= REAL018037
@@ -118184,8 +118152,11 @@ ba= ne
 ba= ngh
 ba= nm
 ba= ns
+bf= Samfunnsvitenskaper
 nn= Samfunnsvitskap
+nn= Samfunnsvitskapar
 en= Social science
+en= Social sciences
 tio= 2014-08-25T00:00:00Z
 st= REAL015265
 st= REAL020615
@@ -129499,10 +129470,10 @@ tie= 2018-07-20T20:48:13Z
 
 id= REAL032021
 te= Språkteknologi
-ut= REAL006274
-ut= REAL005250
 tio= 2018-07-23T10:25:50Z
 tie= 2018-07-23T10:26:06Z
+tis= 2018-11-16T15:36:05Z
+fly= REAL012979
 
 id= REAL032022
 te= Fluorescensmikroskopi
