@@ -41685,11 +41685,14 @@ st= REAL014918
 st= REAL023386
 
 id= REAL004947
-te= Immunokjemi
+te= Immunkjemi
 ba= ne
+bf= Immunokjemi
+nn= Immunkjemi
 nn= Immunokjemi
 en= Immunochemistry
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-23T11:14:26Z
 
 id= REAL004948
 te= Bremsestråling
@@ -80095,12 +80098,8 @@ fly= REAL005711
 
 id= REAL009547
 te= Sykluser
-ba= nk
-ba= nb
-ba= nm
-nn= Syklusar
 tio= 2014-08-25T00:00:00Z
-st= REAL024006
+tis= 2018-11-22T21:40:47Z
 
 id= REAL009548
 te= Genetisk variasjon
@@ -93348,10 +93347,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011148
 te= Utvalg
-ba= nb
-ba= nm
-nn= Utval
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-22T21:43:05Z
 
 id= REAL011149
 te= Tidevannsprosesser
