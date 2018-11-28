@@ -1054,11 +1054,6 @@ real:c001308
   skos:exactMatch hume:c04475 ;
   skos:prefLabel "Philology"@en, "Filologi"@nb, "Filologi"@nn .
 
-real:c001309
-  a skos:Concept ;
-  skos:exactMatch hume:c06446 ;
-  skos:prefLabel "Transkripsjon"@nb, "Transkripsjon"@nn .
-
 real:c001311
   a skos:Concept ;
   skos:exactMatch hume:c04618 ;
@@ -5333,11 +5328,6 @@ real:c006891
   a skos:Concept ;
   skos:closeMatch hume:c00493, hume:c04283 ;
   skos:prefLabel "Verifikasjon"@nb, "Verifikasjon"@nn .
-
-real:c006893
-  a skos:Concept ;
-  skos:closeMatch hume:c26598 ;
-  skos:prefLabel "Ultralyd"@nb, "Ultraljod"@nn .
 
 real:c006896
   a skos:Concept ;

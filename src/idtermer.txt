@@ -21109,9 +21109,8 @@ st= REAL029172
 
 id= REAL002501
 te= Glossematikk
-ba= nm
-nn= Glossematikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T19:47:30Z
 
 id= REAL002502
 te= Bildekompresjon
@@ -41583,9 +41582,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004935
 te= Beregningsmodeller
-ba= nm
-nn= Berekningsmodellar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T17:45:15Z
 
 id= REAL004936
 te= Mitokondrier
@@ -45454,12 +45452,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005419
 te= Fargereaksjoner
-ba= nk
-ba= nb
-nn= Fargereaksjonar
-en= Colour reactions
-en= Color reactions
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T19:44:55Z
+fly= REAL008329
 
 id= REAL005420
 te= Puriner
@@ -55411,6 +55406,7 @@ ba= ns
 nn= Materie
 en= Matter
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-28T17:26:13Z
 
 id= REAL006576
 te= Klimatologi
@@ -60300,9 +60296,8 @@ tis= 2018-07-19T20:45:46Z
 
 id= REAL007152
 te= Gjensidig læring
-ba= ni
-nn= Gjensidig læring
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T19:45:54Z
 
 id= REAL007153
 te= Bølger
@@ -60657,9 +60652,8 @@ st= REAL022073
 
 id= REAL007195
 te= Bulning
-ba= nm
-nn= Buling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T17:54:26Z
 
 id= REAL007196
 te= Polarisasjon
@@ -61073,9 +61067,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007250
 te= Fysikalsk fargeteori
-ba= ns
-nn= Fysikalsk fargeteori
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T19:42:49Z
+fly= REAL010027
 
 id= REAL007251
 te= Hardførhet
@@ -65436,9 +65430,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007773
 te= Strukturberegninger
-ba= nk
-nn= Strukturberekningar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T18:05:51Z
+fly= REAL012150
 
 id= REAL007774
 te= Sprøyting
@@ -68798,9 +68792,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008184
 te= Ladningsbærere
 ba= nf
+so= REAL008969
 nn= Ladningsberarar
 en= Charge carriers
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-28T14:53:39Z
 
 id= REAL008185
 te= Atferdsbiologi
@@ -69967,9 +69963,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008329
 te= Fargekjemi
 ba= nk
+bf= Fargereaksjoner
 nn= Fargekjemi
+nn= Fargereaksjonar
 en= Colour chemistry
 en= Color chemistry
+en= Colour reactions
+en= Color reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008330
@@ -70635,9 +70635,8 @@ st= REAL020138
 
 id= REAL008404
 te= Maksimal
-ba= nm
-nn= Maksimal
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T17:41:41Z
 
 id= REAL008405
 te= Konserveringsmiddel
@@ -74143,9 +74142,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008809
 te= Ekvivalenter
-ba= nk
-nn= Ekvivalentar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T17:44:01Z
 
 id= REAL008810
 te= Lilog
@@ -75456,16 +75454,25 @@ en= Orbital mechanics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008969
-te= Elektrontransport
+te= Ladningsbærertransport
 ba= nb
 ba= nf
 ba= ns
+bf= Ladningstransport
+bf= Kvantetransport
+bf= Elektrontransport
 so= REAL007833
-no= transportteori for elektroner, typisk kvantemekaniske beskrivelser av elektrontransport i krystaller
+so= REAL008184
+no= transportteori for elektroner, hull og ioner, typisk kvantemekaniske beskrivelser av elektrontransport/ladningsbærertransport i krystaller
+nn= Ladningsberartransport
 nn= Elektrontransport
+nn= Ladningstransport
+nn= Kvantetransport
+en= Charge carrier transport
 en= Electron transport
+en= Quantum transport
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-15T14:30:21Z
+tie= 2018-11-28T14:54:35Z
 
 id= REAL008970
 te= Treskurder
@@ -78033,11 +78040,8 @@ st= REAL024821
 
 id= REAL009276
 te= Fargebilder
-ba= ni
-nn= Fargebilete
-nn= Fargebilde
-en= Colour images
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T19:44:12Z
 
 id= REAL009277
 te= Homeostase
@@ -78072,7 +78076,9 @@ ba= nb
 ba= nm
 nn= Prøvetaking
 nn= Sampling
+en= Sampling
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-28T18:03:37Z
 
 id= REAL009282
 te= Electronic delay storage automatic calculator
@@ -81426,10 +81432,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009691
 te= Lesepenn
-ba= ni
-nn= Lesepenn
 tio= 2014-08-25T00:00:00Z
-st= REAL020209
+tis= 2018-11-28T17:27:27Z
 
 id= REAL009692
 te= Væskestruktur
@@ -84308,10 +84312,12 @@ tie= 2015-10-20T10:01:27Z
 id= REAL010027
 te= Fargepsykologi
 ba= ns
+so= REAL012632
 nn= Fargepsykologi
 en= Colour psychology
 en= Color psychology
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-28T19:43:19Z
 
 id= REAL010028
 te= Kildehenvisning
@@ -89055,10 +89061,8 @@ fly= REAL001228
 
 id= REAL010597
 te= Magnetiske hull
-ba= ns
-nn= Magnetiske hòl
-nn= Magnetiske hol
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T17:36:46Z
 
 id= REAL010599
 te= Stimuli
@@ -94269,6 +94273,7 @@ ba= nb
 ba= nf
 ba= nm
 bf= Turbulent strømning
+ut= REAL032061
 nn= Turbulens
 nn= Turbulent strøyming
 tio= 2014-08-25T00:00:00Z
@@ -101614,10 +101619,12 @@ id= REAL012150
 te= Elektronstruktur
 ba= nk
 bf= Elektronkonfigurasjon
+bf= Strukturberegninger
 so= REAL011638
 so= REAL003616
 nn= Elektronstruktur
 nn= Elektronkonfigurasjon
+nn= Strukturberekningar
 en= Electronic structure
 tio= 2014-08-25T00:00:00Z
 tie= 2018-04-05T14:02:11Z
@@ -106945,12 +106952,13 @@ ba= ne
 ba= nf
 ba= ns
 bf= Fargeteori
+so= REAL010027
 nn= Fargelære
 nn= Fargeteori
 en= Color theory
 de= Lære om ordning, bruk og blanding av farger, som studert i f.eks. billedkunst og psykologi.
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-13T21:23:56Z
+tie= 2018-11-28T19:43:19Z
 st= REAL014514
 st= REAL016143
 st= REAL018872
@@ -112563,13 +112571,9 @@ fly= REAL002809
 
 id= REAL013131
 te= Materiens struktur
-ba= nm
-nn= Materiestruktur
-nn= Materieeigenskapar
-en= Structure of matter
-ms= 82
-dw= 539.10151
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T17:25:59Z
+fly= REAL006575
 
 id= REAL013133
 te= Matematisk astronomi
@@ -113903,10 +113907,8 @@ st= REAL026084
 
 id= REAL013258
 te= Frikommuner
-ba= ns
-so= REAL013259
-nn= Frikommunar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-28T19:37:05Z
 
 id= REAL013259
 te= Kommuner
@@ -113914,7 +113916,6 @@ ba= nb
 ba= ne
 ba= nq
 ba= ns
-so= REAL013258
 nn= Kommunar
 tio= 2014-08-25T00:00:00Z
 st= REAL018234
@@ -129804,4 +129805,24 @@ en= DNA-barcoding
 en= Genetic barcoding
 tio= 2018-11-13T10:15:37Z
 tie= 2018-11-13T10:16:19Z
+
+id= REAL032060
+te= Geiter
+bf= Steinbukker
+nn= Geiter
+nn= Steinbukkar
+en= Goats
+en= Ibex
+la= Capra
+tio= 2018-11-28T11:48:08Z
+tie= 2018-11-28T11:51:27Z
+
+id= REAL032061
+te= Kvanteturbulens
+ot= REAL011268
+nn= Kvanteturbulens
+en= Quantum turbulence
+de= turbulent strømning i kvantefluider, f.eks. nedkjølte superfluider
+tio= 2018-11-28T19:35:15Z
+tie= 2018-11-28T19:35:35Z
 
