@@ -12145,12 +12145,11 @@ fly= REAL007079
 
 id= REAL001436
 te= Bryterteori
-ba= nm
-nn= Brytarteori
-en= Switching circuit theory
 de= studiet av egenskapene til nettverk av idealiserte brytere
 tio= 2014-08-25T00:00:00Z
 tie= 2017-06-01T13:15:09Z
+tis= 2018-11-30T11:15:46Z
+fly= REAL003579
 
 id= REAL001437
 te= Elektrodereaksjoner
@@ -15024,12 +15023,13 @@ tis= 2018-11-01T16:12:05Z
 fly= REAL004097
 
 id= REAL001783
-te= Pakkesvitsj
+te= Pakkesvitsjing
 ba= ni
-bf= Pakkesvitsjing
-nn= Pakkesvitsj
+bf= Pakkesvitsj
 nn= Pakkesvitsjing
+nn= Pakkesvitsj
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-30T11:02:39Z
 
 id= REAL001784
 te= Bunntråling
@@ -17869,8 +17869,9 @@ ba= nk
 ba= na
 ba= nf
 ba= nm
-so= REAL031138
+bf= Klassisk spredningsteori
 nn= Spreiingsteori
+nn= Klassisk spreiingsteori
 en= Scattering theory
 tio= 2014-08-25T00:00:00Z
 tie= 2014-11-28T00:00:00Z
@@ -18948,10 +18949,9 @@ tis= 2017-10-06T16:05:06Z
 
 id= REAL002247
 te= Smidig programmering
-ba= ni
-nn= Smidig programmering
-en= Agile programming
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-30T11:20:23Z
+fly= REAL010269
 
 id= REAL002248
 te= Kommutative kategorier
@@ -22204,9 +22204,6 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002617
 te= Smidig planlegging
-ba= ni
-nn= Smidig planlegging
-en= Agile planning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002618
@@ -30310,6 +30307,7 @@ ba= nf
 nn= Krinsteori
 en= Circuit heory
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-30T11:16:01Z
 st= REAL014434
 
 id= REAL003580
@@ -37379,10 +37377,9 @@ st= REAL028729
 
 id= REAL004416
 te= Kvantitativ regresjonsanalyse
-ba= nm
-ot= REAL013113
-nn= Kvantitativ regresjonsanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-30T12:00:52Z
+fly= REAL013113
 
 id= REAL004417
 te= Skoleverket
@@ -50908,9 +50905,8 @@ st= REAL019556
 
 id= REAL006076
 te= Kvantitative målinger
-ba= nm
-nn= Kvantitative målingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-30T12:01:59Z
 
 id= REAL006077
 te= Høyoppløselig væskekromatografi
@@ -59077,10 +59073,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007005
 te= Smidig estimering
-ba= ni
-nn= Smidig estimering
-en= Agile estimation
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-30T11:21:01Z
+fly= REAL010269
 
 id= REAL007006
 te= Hogst
@@ -60759,12 +60754,8 @@ st= REAL028129
 
 id= REAL007210
 te= Konstanter
-ba= nk
-ba= na
-ba= nm
-ba= ns
-nn= Konstantar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-11-30T10:15:29Z
 
 id= REAL007211
 te= Yttrium
@@ -76921,14 +76912,13 @@ ba= na
 ba= nm
 bf= Programplanlegging
 bf= Programvareutvikling
-bf= Scrum
 so= REAL010269
 nn= Programutvikling
 nn= Programplanlegging
 nn= Programvareutvikling
-nn= Scrum
-en= Software engineering
+en= Software development
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-30T11:22:58Z
 
 id= REAL009138
 te= Sintran
@@ -86508,12 +86498,33 @@ st= REAL015559
 st= REAL023628
 
 id= REAL010269
-te= Smidige metoder
+te= Smidig utvikling
 ba= ni
+bf= Smidig systemutvikling
+bf= Smidig utviklingsmetodikk
+bf= Smidige metoder
+bf= Smidig programmering
+bf= Smidig programvareutvikling
+bf= Smidig planlegging
+bf= Smidig estimering
+bf= Scrum
 so= REAL009137
+nn= Smidig utvikling
 nn= Smidige metodar
+nn= Smidig programmering
+nn= Smidig planlegging
+nn= Smidig estimering
+nn= Smidig programvareutvikling
+nn= Scrum
+en= Agile development
 en= Agile methods
+en= Agile programming
+en= Agile planning
+en= Agile estimation
+en= Agile software development
+en= Scrum
 tio= 2014-08-25T00:00:00Z
+tie= 2018-11-30T11:22:48Z
 
 id= REAL010270
 te= Multiprosessorer
@@ -112383,14 +112394,15 @@ ba= nm
 ba= ns
 bf= Regresjon
 bf= Regresjonsmodeller
+bf= Kvantitativ regresjonsanalyse
 ot= REAL000430
 ut= REAL011427
-ut= REAL004416
 ut= REAL000122
 ut= REAL002304
 nn= Regresjonsanalyse
 nn= Regresjon
 nn= Regresjonsmodellar
+nn= Kvantitativ regresjonsanalyse
 en= Regression analysis
 en= Regression
 en= Regression models
@@ -126249,9 +126261,9 @@ tie= 2014-09-12T00:00:00Z
 
 id= REAL031138
 te= Klassisk spredningsteori
-so= REAL002125
-nn= Klassisk spreiingsteori
 tio= 2014-09-12T00:00:00Z
+tis= 2018-11-30T11:30:52Z
+fly= REAL002125
 
 id= REAL031142
 te= Sosialt entreprenørskap
