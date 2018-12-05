@@ -18282,10 +18282,8 @@ tie= 2017-02-25T14:26:24Z
 
 id= REAL002160
 te= Helsevitenskap
-ba= ne
-nn= Helsevitskap
-en= Health sciences
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-05T14:50:37Z
 
 id= REAL002161
 te= Bruksmønstre
@@ -20109,10 +20107,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002378
 te= Individer
-ba= nb
-ba= ns
-nn= Individ
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-05T16:07:05Z
 
 id= REAL002379
 te= Flysimulering
@@ -33672,7 +33668,9 @@ id= REAL003965
 te= Medisinsk statistikk
 ba= nb
 ba= nm
+bf= Helsestatistikk
 nn= Medisinsk statistikk
+nn= Helsestatistikk
 en= Medical statistics
 tio= 2014-08-25T00:00:00Z
 
@@ -50790,9 +50788,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006058
 te= Helsestatistikk
-ba= ngh
-nn= Helsestatistikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-05T14:49:01Z
+fly= REAL003965
 
 id= REAL006059
 te= Romvarsel
@@ -92459,9 +92457,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011030
 te= Hvit substans
-ba= ne
-nn= Kvit substans
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-05T16:06:10Z
 
 id= REAL011031
 te= Feltøkologi
@@ -96752,7 +96749,6 @@ st= REAL024506
 st= REAL024655
 st= REAL024946
 st= REAL026431
-st= REAL028709
 st= REAL028945
 st= REAL029263
 st= REAL029580
