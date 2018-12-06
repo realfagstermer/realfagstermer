@@ -7742,11 +7742,6 @@ real:c009835
   skos:exactMatch hume:c08278 ;
   skos:prefLabel "Luftspeilinger"@nb, "Luftspeglingar"@nn .
 
-real:c009837
-  a skos:Concept ;
-  skos:exactMatch hume:c29169 ;
-  skos:prefLabel "Motiver"@nb, "Motiv"@nn .
-
 real:c009840
   a skos:Concept ;
   skos:exactMatch hume:c18478 ;
