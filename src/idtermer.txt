@@ -6058,7 +6058,9 @@ ba= nb
 bf= Mallefisker
 nn= Mallar
 nn= Mallefiskar
+la= Siluriformes
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-12T14:18:30Z
 
 id= REAL000715
 te= Prolegemidler
@@ -13615,13 +13617,26 @@ ba= nb
 ba= ngh
 ba= nq
 bf= Miljøtilpasninger
+bf= Tilpasning
+bf= Adaptasjon
+bf= Økologiske tilpasninger
 nn= Økofysiologi
 nn= Miljøtilpassingar
+nn= Tilpassing
+nn= Adaptasjon
+nn= Økologiske tilpassingar
 en= Ecophysiology
+en= Adaptation
+en= Ecological adaptations
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-12T00:00:00Z
 st= REAL014096
+st= REAL015005
+st= REAL017272
+st= REAL019077
+st= REAL021022
 st= REAL024171
+st= REAL026371
 st= REAL029809
 
 id= REAL001610
@@ -28547,8 +28562,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003373
 te= Translasjon
 ba= nb
+bf= Genetisk translasjon
 nn= Translasjon
+nn= Genetisk translasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-12T11:50:40Z
 
 id= REAL003374
 te= Membransystemer
@@ -35048,9 +35066,8 @@ st= REAL027448
 
 id= REAL004131
 te= Pelagiske sekkdyr
-ba= nb
-nn= Pelagiske sekkdyr
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-12T12:26:56Z
 
 id= REAL004133
 te= Lectin
@@ -51347,9 +51364,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006125
 te= Vekslinger
-ba= nb
-nn= Vekslingar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-12T11:53:11Z
 
 id= REAL006126
 te= Materialanalyse
@@ -53538,10 +53554,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006373
 te= Tilvenning
-ba= nb
-nn= Tilvenjing
-nn= Tilvenning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-12T13:03:06Z
+fly= REAL010480
 
 id= REAL006375
 te= Komponentanalyse
@@ -66785,10 +66800,9 @@ st= REAL016728
 
 id= REAL007948
 te= Økologiske tilpasninger
-ba= nb
-nn= Økologiske tilpassingar
-en= Ecological adaptations
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-12T13:02:53Z
+fly= REAL010480
 
 id= REAL007949
 te= Blodproteiner
@@ -75221,7 +75235,10 @@ st= REAL025112
 id= REAL008942
 te= Sårbarhetsanalyse
 ba= ni
+bf= Population viability analysis
+ak= PVA
 nn= Sårbarheitsanalyse
+nn= Populasjonsviabilitetsanalyse
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008943
@@ -80623,10 +80640,9 @@ st= REAL029058
 
 id= REAL009598
 te= Population viability analysis
-ba= nb
-ak= PVA
-nn= Populasjonsviabilitetsanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-12T12:28:17Z
+fly= REAL008942
 
 id= REAL009599
 te= Marin teknologi
@@ -82857,11 +82873,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009860
 te= Industriell matematikk
-ba= ni
-ba= nm
-nn= Industriell matematikk
-en= Industrial mathematics
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-12T14:38:13Z
 
 id= REAL009861
 te= Eksperimentell kjemi
@@ -83108,14 +83121,9 @@ st= REAL029607
 
 id= REAL009893
 te= Kuldetilpasning
-ba= nb
-bf= Kuldetoleranse
-nn= Kuldetilpassing
-nn= Kuldetoleranse
-en= Cold adaptation
-en= Cold acclimation
-en= Freezing tolerance
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-12T13:05:18Z
+fly= REAL012152
 
 id= REAL009894
 te= Estetikk
@@ -88133,18 +88141,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010480
 te= Tilpasning
-ba= nk
-ba= ns
-bf= Adaptasjon
-nn= Tilpassing
-nn= Adaptasjon
 tio= 2014-08-25T00:00:00Z
-st= REAL015005
-st= REAL015329
-st= REAL017272
-st= REAL019077
-st= REAL021022
-st= REAL026371
+tie= 2018-12-12T13:03:54Z
+tis= 2018-12-12T13:04:59Z
+fly= REAL001609
 
 id= REAL010481
 te= Mønstergjenkjenning
@@ -92791,11 +92791,8 @@ fly= REAL002002
 
 id= REAL011073
 te= Anvendt og industriell matematikk
-ba= ni
-ak= AIM
-nn= Bruksretta og industriell matematikk
-en= Applied and industrial mathematics
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-12T14:38:00Z
 
 id= REAL011074
 te= Vinterfugler
@@ -96964,7 +96961,10 @@ id= REAL011582
 te= Lerker
 ba= nb
 nn= Lerker
+en= Larks
+la= Alaudidae
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-12T13:46:53Z
 
 id= REAL011583
 te= Læreryrket
@@ -101688,8 +101688,15 @@ st= REAL025410
 id= REAL012152
 te= Klimatilpasning
 ba= nb
+bf= Kuldetilpasning
+bf= Kuldetoleranse
 nn= Klimatilpassing
+nn= Kuldetilpassing
+nn= Kuldetoleranse
 en= Climate change adaptation
+en= Cold adaptation
+en= Cold acclimation
+en= Freezing tolerance
 tio= 2014-08-25T00:00:00Z
 st= REAL026520
 
@@ -114473,8 +114480,10 @@ ba= nb
 bf= Zebraer
 nn= Sebraer
 nn= Sebraar
-la= Hippotigris, Dolichohippus
+la= Equus (Hippotigris)
+la= Equus (Dolichohippus)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-12T15:09:51Z
 
 id= REAL013301
 te= Berberisfamilien
@@ -117004,6 +117013,7 @@ st= REAL029482
 st= REAL029736
 st= REAL029748
 st= REAL031783
+st= REAL032064
 
 id= REAL013434
 te= Kommunikasjon
@@ -126854,14 +126864,13 @@ id= REAL031352
 te= Sjøskorpioner
 bf= Eurypterider
 so= REAL005844
-no= Dersom vi får mulighet for å legge på samme latinske termer på to innførsler ønsker vi Merostomata i tillegg på denne. Inntil videre peker vi til dolkhaler.
 nn= Sjøskorpionar
 nn= Eurypteridar
 en= Sea scorpions
 en= Eurypterids
 la= Eurypterida
 tio= 2015-02-17T00:00:00Z
-tie= 2018-03-26T13:26:15Z
+tie= 2018-12-12T14:24:56Z
 st= REAL031388
 
 id= REAL031353
