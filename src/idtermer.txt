@@ -2176,9 +2176,11 @@ ba= nk
 ba= nb
 ba= nf
 bf= Lysorganer
+bf= Luminiserende organer
 nn= Bioluminescens
 nn= Ljosorgan
 nn= Lysorgan
+nn= Luminiserande organ
 en= Bioluminescence
 tio= 2014-08-25T00:00:00Z
 
@@ -37357,20 +37359,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004409
 te= Jordarter
-ba= nk
-ba= nc
-ba= nm
-ba= nq
-ba= ns
-nn= Jordartar
-nn= Jordarter
-en= Soil types
 tio= 2014-08-25T00:00:00Z
-st= REAL021169
-st= REAL026452
-st= REAL028260
-st= REAL028787
-st= REAL029844
+tis= 2018-12-19T11:44:16Z
+fly= REAL007347
 
 id= REAL004410
 te= CISC
@@ -45604,9 +45595,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005437
 te= Global økologi
 ba= nb
+so= REAL006088
 nn= Global økologi
 en= Global ecology
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-19T12:55:06Z
 
 id= REAL005438
 te= Reaktive mellomprodukter
@@ -51018,9 +51011,11 @@ ba= nc
 ba= nf
 ba= ngh
 ba= ns
+so= REAL005437
 nn= Biosfæren
 en= Biosphere
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-19T12:55:05Z
 st= REAL029460
 
 id= REAL006089
@@ -61900,7 +61895,13 @@ en= Rare-earth metals
 en= REE
 en= REM
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-19T11:44:43Z
+st= REAL021169
 st= REAL025548
+st= REAL026452
+st= REAL028260
+st= REAL028787
+st= REAL029844
 
 id= REAL007348
 te= Dikroisme
@@ -69076,7 +69077,10 @@ id= REAL008217
 te= Vev
 ba= nk
 ba= nb
+bf= Levende vev
 nn= Vev
+nn= Levande vev
+en= Living tissue
 tio= 2014-08-25T00:00:00Z
 st= REAL019865
 st= REAL022554
@@ -88103,10 +88107,9 @@ st= REAL021907
 
 id= REAL010475
 te= Levende vev
-ba= ni
-nn= Levande vev
-en= Living tissue
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-19T11:49:07Z
+fly= REAL008217
 
 id= REAL010476
 te= Nitrider
@@ -93410,11 +93413,8 @@ tis= 2017-06-01T15:06:41Z
 
 id= REAL011153
 te= Mikrobielle metabolitter
-ba= nb
-nn= Mikrobielle metabolittar
-en= Microbial metabolites
 tio= 2014-08-25T00:00:00Z
-st= REAL016136
+tis= 2018-12-19T11:54:45Z
 
 id= REAL011154
 te= Fytokjemi
@@ -111865,8 +111865,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013051
 te= Luminiserende organer
-nn= Luminiserande organ
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-19T11:51:08Z
+fly= REAL000252
 
 id= REAL013052
 te= Lysemisjoner
