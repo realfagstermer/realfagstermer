@@ -6438,11 +6438,6 @@ real:c008078
   skos:exactMatch hume:c07969 ;
   skos:prefLabel "Yrkesutdanning"@nb, "Yrkesutdanning"@nn .
 
-real:c008086
-  a skos:Concept ;
-  skos:exactMatch hume:c22723 ;
-  skos:prefLabel "Renewable resources"@en, "Fornybare ressurser"@nb, "Fornybare ressursar"@nn .
-
 real:c008088
   a skos:Concept ;
   skos:exactMatch hume:c16356 ;

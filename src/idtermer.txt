@@ -7578,8 +7578,10 @@ te= Kodeteori
 ba= ni
 ba= nm
 nn= Kodeteori
+en= Coding theory
 en= Code theory
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-21T19:49:48Z
 
 id= REAL000905
 te= Marine kystområder
@@ -13281,9 +13283,8 @@ tis= 2017-12-14T11:23:33Z
 
 id= REAL001567
 te= Integraloperatorer
-ba= nm
-nn= Integraloperatorar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:41:28Z
 
 id= REAL001568
 te= Skogsinsekter
@@ -23810,11 +23811,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002808
 te= Portaldesign
-ba= ni
-bf= Portalutforming
-nn= Portaldesign
-nn= Portalutforming
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T20:49:09Z
 
 id= REAL002809
 te= Statistisk mekanikk
@@ -26248,9 +26246,8 @@ fly= REAL008763
 
 id= REAL003087
 te= Kvantorisering
-ba= ni
-nn= Kvantorisering
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:10:37Z
 
 id= REAL003088
 te= Helsefysikk
@@ -33251,10 +33248,9 @@ tie= 2017-02-17T21:19:12Z
 
 id= REAL003910
 te= Naturfolk
-ba= nb
-nn= Naturfolk
 tio= 2014-08-25T00:00:00Z
-st= REAL028793
+tis= 2018-12-21T20:48:18Z
+fly= REAL012520
 
 id= REAL003911
 te= Glatt muskulatur
@@ -36921,9 +36917,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004353
 te= Metallkjemi
-ba= nk
-nn= Metallkjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:13:08Z
 
 id= REAL004354
 te= Massevirkningsloven
@@ -47261,9 +47256,8 @@ st= REAL019526
 
 id= REAL005646
 te= Interpolasjonsregning
-ba= nm
-nn= Interpolasjonsrekning
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T20:24:32Z
 
 id= REAL005647
 te= Katalytisk hydrogenering
@@ -47362,8 +47356,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005658
 te= Hobbymatematikk
 ba= nm
+so= REAL013497
 nn= Hobbymatematikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-21T19:39:44Z
 
 id= REAL005659
 te= Organisk spektroskopi
@@ -48484,15 +48480,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005780
 te= Ascidier
-ba= nb
-nn= Ascidiar
-nn= Sekkdyr
-nn= Sjøpungar
-en= Ascidians
-en= Sea squirts
 tio= 2014-08-25T00:00:00Z
-st= REAL015602
-st= REAL023945
+tis= 2018-12-21T11:50:29Z
+fly= REAL010184
 
 id= REAL005781
 te= Partikkelakseleratorer
@@ -52416,9 +52406,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006258
 te= Maskinskriving
-ba= ns
-nn= Maskinskriving
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T20:42:12Z
 
 id= REAL006261
 te= Tropiske frukter
@@ -54087,9 +54076,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006441
 te= Molekylkollisjoner
-ba= nk
-nn= Molekylkollisjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:14:02Z
 
 id= REAL006442
 te= Uendelige kvantesystemer
@@ -57473,7 +57461,9 @@ te= Systemanalyse
 ba= ni
 nn= Systemanalyse
 en= System analysis
+en= Structured system analysis
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-21T19:43:00Z
 
 id= REAL006822
 te= Alker
@@ -63119,9 +63109,8 @@ tie= 2016-09-05T11:51:09Z
 
 id= REAL007491
 te= Hydroteknikk
-ba= nm
-nn= Hydroteknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:01:03Z
 
 id= REAL007492
 te= Muskelreseptorer
@@ -66320,9 +66309,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007886
 te= Gruppeliv
-ba= nm
-nn= Gruppeliv
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:30:55Z
 
 id= REAL007887
 te= Avskyting
@@ -66398,9 +66386,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007897
 te= Intern kommunikasjon
-ba= ns
-nn= Intern kommunikasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T20:24:14Z
 
 id= REAL007899
 te= Fysikere
@@ -66904,10 +66891,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007958
 te= Strukturert systemanalyse
-ba= ni
-nn= Strukturert systemanalyse
-en= Structured system analysis
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:42:54Z
+fly= REAL006821
 
 id= REAL007959
 te= Landskilpadder
@@ -68318,9 +68304,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008120
 te= Grunnlagsspørsmål
-ba= nm
-nn= Grunnlagsspørsmål
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:27:13Z
+fly= REAL012886
 
 id= REAL008121
 te= Kataklysmiske variable stjerner
@@ -78272,10 +78258,11 @@ st= REAL015440
 st= REAL019917
 
 id= REAL009300
-te= Kapasiteter
+te= Kapasitet (matematikk)
 ba= nm
-nn= Kapasitetar
+nn= Kapasitet (matematikk)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-21T19:46:51Z
 
 id= REAL009301
 te= Matnyttige arter
@@ -78816,9 +78803,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009369
 te= Intelligensmåling
-ba= nk
-nn= Intelligensmåling
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T20:24:00Z
 
 id= REAL009370
 te= Optiske kretser
@@ -79062,9 +79048,8 @@ st= REAL022501
 
 id= REAL009408
 te= Hydrologiske kretsprogrammer
-ba= ngh
-nn= Hydrologiske krinsprogram
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:40:20Z
 
 id= REAL009409
 te= Fotometri
@@ -82034,10 +82019,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009764
 te= Klasser
-ba= nm
-nn= Klassar
-nn= Klasser
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:48:55Z
 
 id= REAL009765
 te= Økologisk landbruk
@@ -84166,10 +84149,9 @@ st= REAL025614
 
 id= REAL010005
 te= Grunnlagsproblemer
-ba= nm
-nn= Grunnlagsproblem
 tio= 2014-08-25T00:00:00Z
-st= REAL028531
+tis= 2018-12-21T19:26:19Z
+fly= REAL012886
 
 id= REAL010006
 te= Sosialpsykologi
@@ -85784,14 +85766,19 @@ te= Sekkdyr
 ba= nb
 bf= Sjøpunger
 bf= Sekkedyr
-so= REAL013470
+bf= Ascidier
+ot= REAL013470
 nn= Sekkdyr
 nn= Sjøpungar
+nn= Ascidiar
 en= Sea squirts
+en= Ascidians
 la= Ascidiacea
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-12T11:52:52Z
+tie= 2018-12-21T11:56:44Z
+st= REAL015602
 st= REAL022206
+st= REAL023945
 st= REAL025342
 st= REAL028606
 
@@ -87777,9 +87764,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010430
 te= Mikrocinematografi
-ba= nb
-nn= Mikrocinematografi
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T20:46:47Z
 
 id= REAL010431
 te= Løss
@@ -92893,9 +92879,8 @@ tis= 2017-02-10T18:45:01Z
 
 id= REAL011084
 te= Maskinkjøp
-ba= ni
-nn= Maskinkjøp
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T20:41:29Z
 
 id= REAL011085
 te= Bayes' teorem
@@ -99094,12 +99079,14 @@ id= REAL011814
 te= Dypvannskoraller
 ba= nb
 bf= Kaldtvannskoraller
+bf= Dyphavskoraller
 nn= Djupvasskorallar
 nn= Kaldtvasskorallar
+nn= Djuphavskorallar
 en= Deep-water corals
 en= Cold-water corals
 tio= 2014-08-25T00:00:00Z
-tie= 2018-12-03T17:51:23Z
+tie= 2018-12-21T11:49:40Z
 
 id= REAL011815
 te= Modningsstudier
@@ -105757,17 +105744,20 @@ ba= nb
 ba= ne
 bf= Urbefolkninger
 bf= Urbefolkning
+bf= Naturfolk
 nn= Urfolk
 nn= Urbefolkning
 nn= Urbefolkningar
 nn= Urfolkesetnad
 nn= Urfolkesetnadar
 nn= Urfolkesetnader
+nn= Naturfolk
 en= Indigenous peoples
 tio= 2014-08-25T00:00:00Z
 st= REAL021512
 st= REAL023369
 st= REAL023385
+st= REAL028793
 
 id= REAL012521
 te= Fredsforskning
@@ -107929,12 +107919,14 @@ id= REAL012689
 te= Appendikularier
 ba= nb
 bf= Halesekkdyr
+ot= REAL013470
 nn= Appendikulariar
 nn= Halesekkdyr
 en= Larvaceans
 en= Appendicularians
 la= Appendicularia (Larvacea)
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-21T11:54:13Z
 
 id= REAL012690
 te= Akvaporiner
@@ -109875,8 +109867,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012858
 te= Integrerte systemanalyser
-nn= Integrerte systemanalysar
 tio= 2014-08-25T00:00:00Z
+tis= 2018-12-21T19:42:30Z
+fly= REAL006821
 
 id= REAL012859
 te= Interplanetariske magnetfelt
@@ -110129,13 +110122,18 @@ id= REAL012886
 te= Matematikkens grunnlag
 ba= nm
 bf= Matematisk grunnlag
+bf= Grunnlagsproblemer
+bf= Grunnlagsspørsmål
 nn= Matematikkens grunnlag
 nn= Matematisk grunnlag
+nn= Grunnlagsproblem
+nn= Grunnlagsspørsmål
 en= Foundations of mathematics
 ms= 02
 dw= 511.3
 tio= 2014-08-25T00:00:00Z
 st= REAL016639
+st= REAL028531
 
 id= REAL012887
 te= Tekniske diagnosesystemer
@@ -117606,6 +117604,9 @@ ba= nb
 bf= Tunikater
 bf= Manteldyr
 bf= Urochordata
+ut= REAL012689
+ut= REAL031286
+ut= REAL010184
 nn= Kappedyr
 nn= Manteldyr
 nn= Tunikatar
@@ -117613,6 +117614,7 @@ nn= Urochordata
 en= Tunicates
 la= Tunicata
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-21T11:56:23Z
 st= REAL017114
 st= REAL018326
 st= REAL018612
@@ -118130,8 +118132,10 @@ ba= na
 ba= nf
 ba= nm
 ba= ns
+so= REAL005658
 nn= Populærmatematikk
 tio= 2014-08-25T00:00:00Z
+tie= 2018-12-21T19:39:45Z
 st= REAL016945
 st= REAL025190
 st= REAL028204
@@ -121952,7 +121956,7 @@ te= Regulering
 ba= nb
 no= Brukes kun i streng
 nn= Regulering
-en= Regulations
+en= Regulation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013782
@@ -126651,12 +126655,17 @@ tie= 2015-01-12T00:00:00Z
 
 id= REAL031286
 te= Salper
+bf= Ildpølser
 so= REAL013470
+ot= REAL013470
 nn= Salpar
+en= Salps
 en= Thaliaceans
+en= Doliolids
+en= Pyrosomes
 la= Thaliacea
 tio= 2015-01-12T00:00:00Z
-tie= 2015-01-12T00:00:00Z
+tie= 2018-12-21T11:59:17Z
 
 id= REAL031287
 te= Sjakk
@@ -129915,12 +129924,14 @@ id= REAL032062
 te= Rognkjeks
 bf= Rognkall
 bf= Rognkjølse
+bf= Rognkylsa
 nn= Rognkjeks
 nn= Rognkall
 nn= Rognkjølse
+nn= Rognkylsa
 en= Lumpfish
 en= Lumpsucker
 la= Cyclopterus lumpus
 tio= 2018-12-03T11:23:16Z
-tie= 2018-12-03T11:26:53Z
+tie= 2018-12-21T12:03:15Z
 
