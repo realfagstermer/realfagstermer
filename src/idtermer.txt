@@ -25972,6 +25972,7 @@ id= REAL003062
 te= Metagalaksemodellen
 ba= na
 nn= Metagalaksemodellen
+en= Meta-galaxy model
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003063
@@ -32256,6 +32257,7 @@ id= REAL003795
 te= Isokinetisk prøvetaking
 ba= nk
 nn= Isokinetisk prøvetaking
+en= Isokinetic sampling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003796
@@ -41885,6 +41887,7 @@ id= REAL004973
 te= Kryssidentifikasjonstabeller
 ba= na
 nn= Kryssidentifikasjonstabellar
+en= Cross-identification tables
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004974
@@ -47358,6 +47361,8 @@ te= Hobbymatematikk
 ba= nm
 so= REAL013497
 nn= Hobbymatematikk
+en= Recreational mathematic
+en= Mathematics as a hobby
 tio= 2014-08-25T00:00:00Z
 tie= 2018-12-21T19:39:44Z
 
@@ -50483,6 +50488,7 @@ id= REAL006024
 te= Molekyldesign
 ba= nk
 nn= Molekyldesign
+en= Molecular design
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006025
@@ -57564,6 +57570,7 @@ te= Lantanmanganitt
 ba= nk
 ba= ns
 nn= Lantanmanganitt
+en= Lanthanum manganite
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006838
@@ -61414,6 +61421,7 @@ id= REAL007287
 te= Reflektometri
 ba= nk
 nn= Reflektometri
+en= Reflectometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007288
@@ -66632,6 +66640,7 @@ id= REAL007926
 te= Reduksjonisme
 ba= nb
 nn= Reduksjonisme
+en= Reductionism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007927
@@ -72552,6 +72561,7 @@ id= REAL008616
 te= Grafpakking
 ba= ni
 nn= Grafpakking
+en= Graph packing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008617
@@ -82335,6 +82345,7 @@ id= REAL009803
 te= Refraktometri
 ba= nk
 nn= Refraktometri
+en= Refractometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009804
@@ -83152,6 +83163,7 @@ ba= nm
 nn= Interne bølgjer
 nn= Interne bylgjer
 nn= Interne bølger
+en= Internal waves
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009898
@@ -110088,6 +110100,7 @@ ba= nk
 bf= Radiofarmakoproduksjon
 nn= Radiofarmasøytika
 nn= Radiofarmakoproduksjon
+en= Radiopharmaceuticals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012883
@@ -111059,6 +111072,7 @@ tie= 2018-11-12T19:35:46Z
 id= REAL012971
 te= Kobayashi-hyperbolaritet
 nn= Kobayashi-hyperbolaritet
+en= Kobayashi hyperbolicity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012972
@@ -111551,6 +111565,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013023
 te= Regenerativ medisin
 nn= Regenerativ medisin
+en= Regenerative medicine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013024
