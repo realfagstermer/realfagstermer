@@ -1,60 +1,6 @@
 {
-  "REAL012882": {
-    "prefLabel": "Radiopharmaceuticals",
-    "altLabel": []
-  },
-  "REAL013023": {
-    "prefLabel": "Regenerative medicine",
-    "altLabel": []
-  },
-  "REAL005658": {
-    "prefLabel": "Recreational mathematic",
-    "altLabel": [
-      "Mathematics as a hobby"
-    ]
-  },
-  "REAL003062": {
-    "prefLabel": "Meta-galaxy model",
-    "altLabel": []
-  },
-  "REAL007287": {
-    "prefLabel": "Reflectometry",
-    "altLabel": []
-  },
-  "REAL009803": {
-    "prefLabel": "Refractometry",
-    "altLabel": []
-  },
-  "REAL006024": {
-    "prefLabel": "Molecular design",
-    "altLabel": []
-  },
-  "REAL004973": {
-    "prefLabel": "Cross-identification tables",
-    "altLabel": []
-  },
-  "REAL006837": {
-    "prefLabel": "Lanthanum manganite",
-    "altLabel": []
-  },
-  "REAL003795": {
-    "prefLabel": "Isokinetic sampling",
-    "altLabel": []
-  },
-  "REAL012971": {
-    "prefLabel": "Kobayashi hyperbolicity",
-    "altLabel": []
-  },
-  "REAL009897": {
-    "prefLabel": "Internal waves",
-    "altLabel": []
-  },
-  "REAL007926": {
-    "prefLabel": "Reductionism",
-    "altLabel": []
-  },
-  "REAL008616": {
-    "prefLabel": "Graph packing",
+  "REAL005303": {
+    "prefLabel": "Perceptrons",
     "altLabel": []
   }
 }
