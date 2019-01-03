@@ -67142,7 +67142,6 @@ st= REAL024404
 st= REAL024549
 st= REAL025814
 st= REAL028262
-st= REAL029079
 
 id= REAL007988
 te= Matematiske problemer
