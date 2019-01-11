@@ -52629,11 +52629,9 @@ tie= 2016-07-08T15:33:10Z
 
 id= REAL006283
 te= Attraktorer
-ba= ni
-nn= Attraktorar
-en= Attractors
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-05T00:00:00Z
+tis= 2019-01-11T13:24:21Z
 
 id= REAL006284
 te= Caligider
@@ -93277,7 +93275,6 @@ ba= nb
 nn= Patogenese
 en= Pathogenesis
 tio= 2014-08-25T00:00:00Z
-st= REAL024597
 
 id= REAL011130
 te= Optisk krystallografi
@@ -108807,7 +108804,6 @@ st= REAL027760
 st= REAL027883
 st= REAL028546
 st= REAL029011
-st= REAL029637
 
 id= REAL012754
 te= Algeoppblomstringer
@@ -111518,7 +111514,6 @@ st= REAL019395
 st= REAL019830
 st= REAL021510
 st= REAL023680
-st= REAL025386
 st= REAL025631
 st= REAL026929
 st= REAL028027
@@ -120341,7 +120336,6 @@ nn= Bakterievirus
 en= Bacteriophages
 tio= 2014-08-25T00:00:00Z
 tie= 2016-06-22T11:18:39Z
-st= REAL026696
 
 id= REAL013653
 te= Fonter
@@ -124116,7 +124110,6 @@ st= REAL029603
 st= REAL030029
 st= REAL031094
 st= REAL031590
-st= REAL031591
 st= REAL031630
 st= REAL031828
 

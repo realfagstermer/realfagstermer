@@ -8381,7 +8381,7 @@ real:c010594
 
 real:c010595
   a skos:Concept ;
-  skos:exactMatch hume:c05469 ;
+  skos:closeMatch hume:c05469 ;
   skos:prefLabel "Industrial design"@en, "Industridesign"@nb, "Industridesign"@nn .
 
 real:c010611
