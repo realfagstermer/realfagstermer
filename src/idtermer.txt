@@ -11016,10 +11016,9 @@ tie= 2015-10-05T11:19:43Z
 
 id= REAL001296
 te= Statistisk signalanalyse
-ba= nm
-nn= Statistisk signalanalyse
-en= Statistical signal analysis
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-16T12:03:34Z
+fly= REAL012106
 
 id= REAL001297
 te= Analytisk bioteknologi
@@ -21029,9 +21028,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002487
 te= Tilfeldige mengder
-ba= nm
-nn= Tilfeldige mengder
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-16T12:01:16Z
 
 id= REAL002488
 te= Oscillasjoner
@@ -31728,6 +31726,7 @@ ba= nf
 bf= Radioaktive nuklider
 bf= Radioaktive isotoper
 bf= Radioisotoper
+so= REAL006069
 nn= Radionuklid
 nn= Radioaktive nuklid
 nn= Radioaktive isotopar
@@ -31737,7 +31736,7 @@ en= Radioactive nuclides
 en= Radioactive isotopes
 en= Radioisotopes
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-05T15:30:39Z
+tie= 2019-01-16T11:39:32Z
 st= REAL025703
 st= REAL027967
 
@@ -50873,8 +50872,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006069
 te= Strålingskilder
 ba= nf
+bf= Radioaktive strålingskilder
+so= REAL003743
 nn= Strålingskjelder
+nn= Radioaktive strålingskjelder
+en= Radioactive sources
+de= Materiale som inneholder radionuklider
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-16T11:59:09Z
 
 id= REAL006070
 te= Semipermeable membraner
@@ -92348,11 +92353,22 @@ tie= 2018-10-28T20:58:28Z
 st= REAL023466
 
 id= REAL011015
-te= Matematisk tekst
+te= Matematisk typografi
 ba= ni
+bf= Matematisk tegnsetting
+bf= Matematisk dokumentproduksjon
+bf= Matematisk tekst
+nn= Matematisk typografi
+nn= Matematisk teiknsetjing
+nn= Matematisk teiknsetting
+nn= Matematisk dokumentproduksjon
 nn= Matematisk tekst
+en= Mathematical typesetting
+en= Mathematical typography
+en= Mathematical document production
 en= Mathematical text
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-16T12:23:56Z
 
 id= REAL011016
 te= Kompilering
@@ -98238,10 +98254,8 @@ tie= 2018-11-08T16:27:03Z
 
 id= REAL011724
 te= Inversjon
-ba= nc
-ba= nm
-nn= Inversjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-16T12:07:27Z
 
 id= REAL011726
 te= Mikroelektroniske prosesser
@@ -101391,8 +101405,11 @@ fly= REAL008086
 id= REAL012106
 te= Statistisk signalbehandling
 ba= ni
+bf= Statistisk signalanalyse
 nn= Statistisk signalhandsaming
 nn= Statistisk signalbehandling
+nn= Statistisk signalanalyse
+en= Statistical signal analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012107
@@ -120716,9 +120733,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013677
 te= Speilsymmetri
 ba= nm
+no= OBS: Denne er brukt om fenomen knytta til høyere algebraiske varieteter, ref. https://en.wikipedia.org/wiki/Mirror_symmetry_%28string_theory%29, men også mappet til speilsymmetri som isometrier i planet (grunnleggende geometri). Karoline: Ja, høyere algebraiske varieteter har vært populært blant noen av våre forskere, og nesten alle treffene er på det. Men våre studenter (MAT2500) vil søke etter speilsymmetri som isometrier i planet - altså noe som er relativt elementært... Regner med at førstnevnte har forrang. /KM
 nn= Spegelsymmetri
 en= Mirror symmetry
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-16T12:19:38Z
 
 id= REAL013678
 te= Symplektisk geometri
