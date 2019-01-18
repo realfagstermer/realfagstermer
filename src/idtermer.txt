@@ -9585,10 +9585,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001125
 te= Levealder
-ba= nk
-ba= nb
-nn= Levealder
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-18T11:12:37Z
+fly= REAL010004
 
 id= REAL001126
 te= Assosiativ læring
@@ -29134,10 +29133,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003445
 te= Livslengde
-ba= nb
-nn= Livslengd
-nn= Livslengde
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-18T11:11:56Z
+fly= REAL010004
 
 id= REAL003446
 te= Tilgjengelighet
@@ -71082,8 +71080,17 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008456
 te= Paralysegifter
 ba= nk
+bf= Saxitoksin
+bf= Skjellforgiftning
+ak= PSP
 nn= Paralysegifter
+nn= Saxitoksin
+nn= Skjelforgifting
+en= Paralytic poisons
+en= Saxitoxin
+en= Paralytic shellfish poisoning
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-18T12:20:46Z
 
 id= REAL008457
 te= PostgreSQL
@@ -81199,10 +81206,8 @@ tie= 2017-07-25T11:17:51Z
 
 id= REAL009658
 te= Sosiale samfunn
-ba= nb
-nn= Sosiale samfunn
-en= Social societies
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-18T12:42:28Z
 
 id= REAL009659
 te= Redokspotensialer
@@ -84169,15 +84174,22 @@ tio= 2014-08-25T00:00:00Z
 tis= 2017-09-05T20:11:13Z
 
 id= REAL010004
-te= Livssykluser
+te= Livssyklus
 ba= nb
 bf= Livsløp
+bf= Livslengde
+bf= Levealder
+bf= Livssykluser
 so= REAL006783
+nn= Livssyklus
 nn= Livssyklusar
 nn= Livslaup
 nn= Livsløp
+nn= Livslengd
+nn= Livslengde
+nn= Levealder
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-04T00:00:00Z
+tie= 2019-01-18T11:13:17Z
 st= REAL025614
 
 id= REAL010005
@@ -84687,10 +84699,9 @@ st= REAL028238
 
 id= REAL010064
 te= Saxitoksin
-ba= nk
-nn= Saxitoksin
-en= Saxitoxin
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-18T12:19:00Z
+fly= REAL008456
 
 id= REAL010065
 te= Bur
@@ -97913,10 +97924,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011683
 te= Paralytic shellfish poisoning
-ba= nk
-ak= PSP
-nn= Skjelforgifting
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-18T12:19:15Z
+fly= REAL008456
 
 id= REAL011684
 te= Ontogeni
