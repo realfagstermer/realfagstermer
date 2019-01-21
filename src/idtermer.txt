@@ -9110,9 +9110,8 @@ st= REAL028782
 
 id= REAL001064
 te= Columbus
-ba= na
-nn= Columbus
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T17:42:02Z
 
 id= REAL001065
 te= Fuglevern
@@ -11564,11 +11563,8 @@ st= REAL028961
 
 id= REAL001351
 te= Faint Object Spectrograph
-ba= na
-ak= FOS
-nn= Faint Object Spectrograph
-nn= FOS
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T18:03:25Z
 
 id= REAL001352
 te= Reseptorer
@@ -17301,11 +17297,15 @@ bf= Nukleær fisjon
 bf= Kjernefysisk fisjon
 bf= Kjernefisjon
 bf= Kjernespalting
+bf= Uranfisjon
+bf= Spalting
 so= REAL007671
 nn= Fisjon
 nn= Kjernefysisk fisjon
 nn= Nukleær fisjon
 nn= Kjernefisjon
+nn= Uranfisjon
+nn= Spalting
 en= Nuclear fission
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-24T18:41:30Z
@@ -18763,9 +18763,8 @@ tie= 2017-01-24T16:59:12Z
 
 id= REAL002217
 te= Spacelab
-ba= na
-nn= Spacelab
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T18:51:28Z
 
 id= REAL002218
 te= Adaptiv radiasjon
@@ -20421,9 +20420,9 @@ st= REAL031183
 
 id= REAL002415
 te= Uranfisjon
-ba= nk
-nn= Uranfisjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-18T12:59:33Z
+fly= REAL002062
 
 id= REAL002416
 te= APL
@@ -24728,11 +24727,9 @@ tis= 2019-01-17T14:56:33Z
 
 id= REAL002907
 te= LLR
-ba= na
-nn= LLR
-en= Lunar Laser Ranging
 tio= 2014-08-25T00:00:00Z
 tie= 2015-09-15T20:05:18Z
+tis= 2019-01-21T18:51:40Z
 
 id= REAL002908
 te= Naturlige systemer
@@ -25906,11 +25903,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003055
 te= XMM-Newton
-ba= na
-nn= XMM-Newton
-nn= X-ray Multimirror Mission-Newton
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-31T17:28:46Z
+tis= 2019-01-21T18:46:46Z
 
 id= REAL003056
 te= Internettressurser
@@ -37485,7 +37480,6 @@ ut= REAL004858
 ut= REAL007714
 ut= REAL010419
 ut= REAL006979
-ut= REAL004724
 nn= Observatorium
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T15:54:15Z
@@ -38399,12 +38393,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004538
 te= Debrecen photoheliographic results
-ba= na
-ak= DPR
-nn= Debrecen photoheliographic results
-en= Debrecen photoheliographic results
-en= DPR
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T18:02:50Z
 
 id= REAL004540
 te= Finansielle analyser
@@ -39930,11 +39920,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004724
 te= Europeiske observatorier
-ba= na
-ot= REAL004422
-nn= Europeiske observatorium
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T15:54:15Z
+tis= 2019-01-21T17:33:10Z
 
 id= REAL004725
 te= Livsformer
@@ -46991,12 +46979,9 @@ st= REAL026769
 
 id= REAL005613
 te= CODASYL
-ba= ni
-nn= Codasyl
-en= CODASYL
-en= Conference/Committee on Data Systems Languages
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-25T11:07:31Z
+tis= 2019-01-21T19:09:31Z
 
 id= REAL005614
 te= Flybildeteknikk
@@ -47557,16 +47542,8 @@ st= REAL024773
 
 id= REAL005679
 te= Hard X-Ray Burst Spectrometer
-ba= na
-bf= Hard X-Ray Burst Spectrometer (HXRBS)
-ak= HXRBS
-nn= Hard X-Ray Burst Spectrometer
-nn= HXRBS
-nn= Hard X-Ray Burst Spectrometer (HXRBS)
-en= Hard X-Ray Burst Spectrometer
-en= HXRBS
 tio= 2014-08-25T00:00:00Z
-st= REAL021369
+tis= 2019-01-21T18:46:15Z
 
 id= REAL005680
 te= Cysteinprotease
@@ -47836,11 +47813,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005706
 te= European Incoherent SCATter
-ba= na
-ak= EISCAT
-nn= European Incoherent SCATter
 tio= 2014-08-25T00:00:00Z
-st= REAL026950
+tis= 2019-01-21T17:41:45Z
 
 id= REAL005707
 te= Gammastrålespektrometri
@@ -50489,9 +50463,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006023
 te= Solar-a
-ba= na
-nn= Solar-a
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T17:32:35Z
 
 id= REAL006024
 te= Molekyldesign
@@ -50525,12 +50498,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006028
 te= Corrective Optics Space Telescope Axial Replacement
-ba= na
-ak= COSTAR
-nn= Corrective Optics Space Telescope Axial Replacement
-en= Corrective Optics Space Telescope Axial Replacement
-en= COSTAR
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T18:01:53Z
 
 id= REAL006029
 te= Fluor
@@ -64126,9 +64095,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007617
 te= Burroughs
-ba= ni
-nn= Burroughs
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T18:52:05Z
 
 id= REAL007618
 te= Ferskvannsfauna
@@ -65963,9 +65931,9 @@ tie= 2018-04-13T21:48:13Z
 
 id= REAL007835
 te= Spalting
-ba= nk
-nn= Spalting
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-18T12:59:42Z
+fly= REAL002062
 
 id= REAL007836
 te= Diamagnetisme
@@ -73200,9 +73168,8 @@ tie= 2018-07-19T20:32:48Z
 
 id= REAL008684
 te= Meteosat
-ba= na
-nn= Meteosat
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T18:51:34Z
 
 id= REAL008685
 te= Heterogeniteter
@@ -74078,9 +74045,8 @@ tie= 2018-08-17T13:58:50Z
 
 id= REAL008794
 te= Heliosat
-ba= na
-nn= Heliosat
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T17:43:02Z
 
 id= REAL008795
 te= Overflatestrømmer
@@ -80041,13 +80007,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009529
 te= Very Large Telescope Interferometer
-ba= na
-bf= Very Large Telescope Interferometer (VLTI)
-ak= VLTI
-nn= Very Large Telescope Interferometer
-nn= VLTI
-nn= Very Large Telescope Interferometer (VLTI)
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T17:32:44Z
 
 id= REAL009530
 te= Gnagere
@@ -86685,12 +86646,8 @@ tis= 2018-10-16T19:28:52Z
 
 id= REAL010283
 te= Debrecen photoheliographic data
-ba= na
-ak= DPD
-nn= Debrecen photoheliographic data
-en= Debrecen photoheliographic data
-en= DPD
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T18:02:44Z
 
 id= REAL010284
 te= Jordas alder
@@ -87107,11 +87064,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010338
 te= LOFAR
-ba= na
-nn= LOFAR
-en= LOw Frequency ARray
 tio= 2014-08-25T00:00:00Z
 tie= 2015-09-15T20:06:05Z
+tis= 2019-01-21T17:31:50Z
 
 id= REAL010339
 te= Røntgenspredning
@@ -87510,10 +87465,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010388
 te= EUV imaging spectrometer
-ba= na
-ak= EIS
-nn= EUV imaging spectrometer
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T18:03:04Z
 
 id= REAL010389
 te= Allergener
@@ -92416,13 +92369,9 @@ st= REAL018430
 
 id= REAL011019
 te= Cassini-Huygens
-ba= na
-bf= Cassini
-nn= Cassini-Huygens
-nn= Cassini
-en= Cassini–Huygens
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T17:48:14Z
+tis= 2019-01-21T17:32:21Z
 
 id= REAL011020
 te= UFO-er
@@ -98142,9 +98091,8 @@ fly= REAL012668
 
 id= REAL011704
 te= Hipparcos
-ba= na
-nn= Hipparcos
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T17:32:29Z
 
 id= REAL011705
 te= Relasjonsdatabaser
@@ -98899,13 +98847,8 @@ tie= 2015-10-26T11:07:37Z
 
 id= REAL011787
 te= Wilkinson Microwave Anisotropy Probe
-ba= na
-ak= WMAP
-nn= WMAP
-nn= Wilkinson Microwave Anisotropy Probe
-en= Wilkinson Microwave Anisotropy Probe
-en= WMAP
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-21T17:32:55Z
 
 id= REAL011788
 te= Polyklorerte bifenyler
