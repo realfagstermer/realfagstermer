@@ -1,18 +1,18 @@
 {
-  "REAL000890": {
-    "prefLabel": "High-performance computing",
+  "REAL009867": {
+    "prefLabel": "Morgan\u2013Keenan classification",
     "altLabel": [
-      "Supercomputing"
+      "MK classification",
+      "MK system",
+      "Morgan\u2013Keenan system",
+      "MK spectral classification",
+      "Morgan\u2013Keenan spectral classification"
     ]
   },
-  "REAL003442": {
-    "prefLabel": "High Performance Computing",
+  "REAL010552": {
+    "prefLabel": "Innate immunity",
     "altLabel": [
-      "HPC"
+      "Innate immune system"
     ]
-  },
-  "REAL002047": {
-    "prefLabel": "Dust",
-    "altLabel": []
   }
 }
