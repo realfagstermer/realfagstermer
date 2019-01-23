@@ -1,1 +1,18 @@
-{}
+{
+  "REAL000890": {
+    "prefLabel": "High-performance computing",
+    "altLabel": [
+      "Supercomputing"
+    ]
+  },
+  "REAL003442": {
+    "prefLabel": "High Performance Computing",
+    "altLabel": [
+      "HPC"
+    ]
+  },
+  "REAL002047": {
+    "prefLabel": "Dust",
+    "altLabel": []
+  }
+}
