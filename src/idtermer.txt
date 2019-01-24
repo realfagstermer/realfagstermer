@@ -102752,12 +102752,16 @@ st= REAL028932
 id= REAL012265
 te= Litiumbatterier
 ba= nk
+bf= Litium-ionebatterier
 so= REAL012264
 so= REAL012266
 so= REAL012263
 nn= Litiumbatteri
+nn= Litium-ionebatteri
 en= Lithium batteries
+en= Lithium-ion batteries
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-24T10:40:23Z
 
 id= REAL012266
 te= Mikrobatterier
@@ -129991,4 +129995,24 @@ en= Mental health
 en= Mental hygiene
 tio= 2019-01-23T12:54:59Z
 tie= 2019-01-23T12:57:57Z
+
+id= REAL032067
+te= Elektrodematerialer
+bf= Anodematerialer
+bf= Katodematerialer
+nn= Elektrodemateriale
+nn= Anodemateriale
+nn= Katodemateriale
+en= Electrode materials
+en= Anode materials
+en= Cathode materials
+tio= 2019-01-24T10:42:03Z
+tie= 2019-01-24T10:43:04Z
+
+id= REAL032068
+te= Silisiumnitrid
+nn= Silisiumnitrid
+en= Silicon nitride
+tio= 2019-01-24T10:44:47Z
+tie= 2019-01-24T10:44:57Z
 
