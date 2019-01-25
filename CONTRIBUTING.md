@@ -30,6 +30,8 @@ Vi bruker ofte disse forkortelsene:
 * **EN**: *Engelsk*
 * **NN**: *Nynorsk*
 * **LA**: *Latin* (vitenskapelig navn)
+* **OT**: *Overordnet*
+* **UT**: *Underordnet*
 
 ### Organisering og behandling av forslag
 
