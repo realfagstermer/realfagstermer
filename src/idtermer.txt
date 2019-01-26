@@ -1172,11 +1172,9 @@ tis= 2016-09-26T10:11:10Z
 
 id= REAL000139
 te= Vegglus
-ba= nb
-nn= Vegglus
 tio= 2014-08-25T00:00:00Z
-st= REAL018668
-st= REAL029619
+tis= 2019-01-26T16:02:05Z
+fly= REAL002769
 
 id= REAL000140
 te= Autolyse
@@ -3661,11 +3659,13 @@ id= REAL000431
 te= Skallprogrammering
 ba= ni
 bf= Shellprogrammering
+so= REAL002440
+ut= REAL005214
 nn= Skalprogrammering
 nn= Shellprogrammering
 en= Shell programming
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-02T00:00:00Z
+tie= 2019-01-26T18:38:59Z
 
 id= REAL000432
 te= Tungtvann
@@ -4658,13 +4658,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000544
 te= Flimmerormer
-ba= nb
-bf= Flimmermarker
-nn= Flimmerormar
-nn= Flimmermakkar
-nn= Flimmermarkar
 tio= 2014-08-25T00:00:00Z
-st= REAL027808
+tis= 2019-01-26T19:53:04Z
+fly= REAL002996
 
 id= REAL000545
 te= Sener
@@ -6427,10 +6423,24 @@ tie= 2017-02-10T18:39:03Z
 tis= 2017-02-10T18:39:03Z
 
 id= REAL000759
-te= Programoptimalisering
+te= Programoptimering
 ba= ni
+bf= Kodeoptimalisering
+bf= Kodeoptimering
+bf= Programoptimalisering
+bf= Programvareoptimering
+bf= Programvareoptimalisering
+bf= Optimale algoritmer
+ot= REAL006138
+nn= Programoptimering
 nn= Programoptimalisering
+nn= Kodeoptimalisering
+nn= Kodeoptimering
+nn= Programvareoptimering
+nn= Programvareoptimalisering
+nn= Optimale algoritmar
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T17:52:55Z
 
 id= REAL000760
 te= Omprogrammering
@@ -7470,12 +7480,17 @@ tis= 2017-09-12T19:15:00Z
 id= REAL000890
 te= Tungregning
 ba= ni
+bf= Superdatamaskiner
 ak= HPC
 nn= Tungrekning
+nn= Superdatamaskiner
+nn= Superdatamaskinar
 en= High-performance computing
 en= Supercomputing
+en= Super computers
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-22T21:27:07Z
+st= REAL029854
 
 id= REAL000891
 te= Friarealer
@@ -9854,11 +9869,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001159
 te= Cray
-ba= ni
-nn= Cray
-en= Cray
 tio= 2014-08-25T00:00:00Z
-st= REAL025567
+tis= 2019-01-26T18:56:53Z
 
 id= REAL001160
 te= .NET
@@ -11632,11 +11644,9 @@ tis= 2018-03-15T18:08:02Z
 
 id= REAL001363
 te= Business process reengineering
-ba= ni
-ak= BPR
-nn= Business process reengineering
-en= Business process reengineering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T17:41:10Z
+fly= REAL010580
 
 id= REAL001364
 te= Kjuker
@@ -12887,10 +12897,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001522
 te= Molekylære markører
-ba= nb
-nn= Molekylære markørar
-en= Molecular markers
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T19:45:24Z
+fly= REAL010558
 
 id= REAL001523
 te= Omskrivningsteknikker
@@ -18309,10 +18318,13 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-12-05T14:50:37Z
 
 id= REAL002161
-te= Bruksmønstre
+te= Bruksdata
 ba= ni
+bf= Bruksmønstre
+nn= Bruksdata
 nn= Bruksmønster
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T18:30:48Z
 
 id= REAL002162
 te= Aktiner
@@ -20630,9 +20642,11 @@ tie= 2019-01-17T14:41:22Z
 id= REAL002440
 te= Kommandospråk
 ba= ni
+so= REAL000431
 nn= Kommandospråk
 en= Command language
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T18:38:04Z
 
 id= REAL002441
 te= Treffrangering
@@ -22078,10 +22092,8 @@ fly= REAL004097
 
 id= REAL002599
 te= Buss-bro
-ba= ni
-nn= Buss-bru
-en= Bus bridges
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T18:00:38Z
 
 id= REAL002600
 te= Signaturer
@@ -23380,9 +23392,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002757
 te= Sekvensiell prosessering
-ba= ni
-nn= Sekvensiell prosessering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T17:35:38Z
 
 id= REAL002758
 te= Næringssykluser
@@ -23490,8 +23501,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002769
 te= Veggedyr
 ba= nb
+bf= Vegglus
+bf= Veggelus
 nn= Veggedyr
+nn= Vegglus
+nn= Veggelus
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T16:02:16Z
+st= REAL018668
+st= REAL029619
 
 id= REAL002770
 te= Spettefugler
@@ -25421,14 +25439,22 @@ id= REAL002996
 te= Flatormer
 ba= nb
 bf= Flatmarker
+bf= Flimmerormer
+bf= Flimmermarker
+bf= Marine flatormer
 ut= REAL013876
 nn= Flatormar
 nn= Flatmakkar
 nn= Flatmarkar
+nn= Flimmerormar
+nn= Flimmermakkar
+nn= Flimmermarkar
+nn= Marine flatormar
 en= Flatworms
 la= Platyhelminthes
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-05T09:33:12Z
+st= REAL027808
 
 id= REAL002997
 te= Hydrologi
@@ -25893,12 +25919,9 @@ fly= REAL006947
 
 id= REAL003053
 te= Superdatamaskiner
-ba= ni
-nn= Superdatamaskiner
-nn= Superdatamaskinar
-en= Super computers
 tio= 2014-08-25T00:00:00Z
-st= REAL029854
+tis= 2019-01-26T18:57:33Z
+fly= REAL000890
 
 id= REAL003054
 te= Polymere immunoglobuliner
@@ -33563,9 +33586,8 @@ tis= 2017-02-17T11:16:13Z
 
 id= REAL003956
 te= Merkatorpeilinger
-ba= na
-nn= Merkatorpeilingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T15:51:36Z
 
 id= REAL003957
 te= Kalsiumforbindelser
@@ -40043,9 +40065,9 @@ st= REAL025453
 
 id= REAL004751
 te= Marine flatormer
-ba= nb
-nn= Marine flatormar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T19:53:13Z
+fly= REAL002996
 
 id= REAL004752
 te= Gruppekohomologi
@@ -43689,15 +43711,8 @@ tie= 2017-05-11T12:38:24Z
 
 id= REAL005198
 te= Motorola
-ba= ni
-bf= Motorola 68030
-bf= Motorola m6800
-bf= Motorola mc68000
-nn= Motorola
-nn= Motorola 68030
-nn= Motorola m6800
-nn= Motorola mc68000
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T20:36:12Z
 
 id= REAL005200
 te= Stellar koronagrafi
@@ -43820,10 +43835,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005214
 te= Bash
 ba= ni
+ot= REAL000431
 nn= Bash
 en= Bash
 de= Unix-skall
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T18:38:59Z
 
 id= REAL005215
 te= Polarstrømmer
@@ -48732,12 +48749,9 @@ fly= REAL001723
 
 id= REAL005824
 te= Optimalisering
-ba= ni
-ba= na
-ba= nb
-ba= nm
-nn= Optimalisering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T17:52:43Z
+fly= REAL006138
 
 id= REAL005825
 te= Marin teknikk
@@ -49124,12 +49138,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005867
 te= Epifytter
-ba= nb
-ba= ns
-nn= Epifyttar
-en= Epiphytes
 tio= 2014-08-25T00:00:00Z
-st= REAL019592
+tis= 2019-01-26T16:12:28Z
+fly= REAL031465
 
 id= REAL005868
 te= Numerisk databehandling
@@ -51346,9 +51357,9 @@ st= REAL029653
 
 id= REAL006134
 te= Kodeoptimalisering
-ba= ni
-nn= Kodeoptimalisering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T17:46:29Z
+fly= REAL000759
 
 id= REAL006136
 te= Lydfilformater
@@ -51382,8 +51393,12 @@ te= Optimering
 ba= nk
 ba= nf
 ba= nm
+bf= Optimalisering
+ut= REAL000759
 nn= Optimering
+nn= Optimalisering
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T17:52:55Z
 st= REAL020404
 
 id= REAL006139
@@ -64986,20 +65001,23 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-02-22T11:15:34Z
 
 id= REAL007729
-te= Vindussystemet X
+te= X (vindussystem)
 ba= ni
 bf= Xwindow
 bf= X.Org
 bf= X11
+bf= X (vindusystem)
 nn= Vindaugssystemet X
 nn= X-window
 nn= Xwindow
 nn= X11
+nn= X.Org
 en= X Window System
 en= X11
 en= Xwindow
+en= X.Org
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-08T15:33:16Z
+tie= 2019-01-26T15:59:04Z
 
 id= REAL007730
 te= Leger
@@ -66928,11 +66946,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007972
 te= Selvbetjente banktjenester
-ba= ni
-nn= Sjølvtente banktenester
-nn= Sjølvbetente banktenester
-nn= Sjølvhjelpte banktenester
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T17:29:55Z
+fly= REAL032071
 
 id= REAL007973
 te= Krystallografer
@@ -74856,15 +74872,9 @@ tis= 2018-09-29T23:09:41Z
 
 id= REAL008894
 te= IBM
-ba= nk
-ba= ns
-bf= International Business Machines
-nn= IBM
-nn= International Business Machines
-en= IBM
-en= International Business Machines Corporation
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-29T15:50:15Z
+tis= 2019-01-26T20:35:52Z
 
 id= REAL008895
 te= Dans
@@ -75296,9 +75306,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008951
 te= Himmelmyter
-ba= na
-nn= Himmelmytar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T19:12:30Z
 
 id= REAL008952
 te= Fiskefartøy
@@ -77506,10 +77515,9 @@ fly= REAL005323
 
 id= REAL009209
 te= Naturlige satellitter
-ba= na
-nn= Naturlege satellittar
-en= Natural satellites
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T19:27:00Z
+fly= REAL010039
 
 id= REAL009210
 te= Modifikatorer
@@ -83869,6 +83877,7 @@ id= REAL009974
 te= Akvariefisker
 ba= nb
 ba= nq
+ot= REAL013827
 nn= Akvariefiskar
 en= Aquarium fishes
 tio= 2014-08-25T00:00:00Z
@@ -84447,8 +84456,11 @@ id= REAL010039
 te= Måner
 ba= na
 ba= ns
+bf= Naturlige satellitter
 nn= Månar
+nn= Naturlege satellittar
 en= Moons
+en= Natural satellites
 tio= 2014-08-25T00:00:00Z
 st= REAL016667
 st= REAL018818
@@ -87606,9 +87618,9 @@ fly= REAL002323
 
 id= REAL010404
 te= Optimale algoritmer
-ba= ni
-nn= Optimale algoritmar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T17:55:21Z
+fly= REAL000759
 
 id= REAL010405
 te= Paleomagnetisme
@@ -88266,14 +88278,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010497
 te= Norsk data
-ba= ni
-bf= Nord-10
-bf= Nord-maskiner
-nn= Norsk data
-nn= Nord-10
-nn= Nord-maskinar
-nn= Nord-maskiner
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T20:38:57Z
 
 id= REAL010498
 te= Lirype
@@ -88740,10 +88746,13 @@ ba= ni
 ba= na
 ba= nb
 bf= Mikrosatellitter
+bf= Molekylære markører
 nn= Genetiske markørar
 nn= Mikrosatellittar
+nn= Molekylære markørar
 en= Genetic markers
 en= Microsatellites
+en= Molecular markers
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-26T14:37:42Z
 
@@ -88917,10 +88926,12 @@ id= REAL010580
 te= Endringsledelse
 ba= ns
 bf= Forandringsledelse
+ak= BPR
 nn= Endringsleiing
 nn= Forandringsleiing
 en= Change management
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T17:41:29Z
 st= REAL028089
 
 id= REAL010581
@@ -89822,9 +89833,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010687
 te= Skipsbibliotek
-ba= ni
-nn= Skipsbibliotek
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T16:05:27Z
 
 id= REAL010688
 te= Modellteori
@@ -96014,23 +96024,24 @@ id= REAL011465
 te= Saltvannsfisker
 ba= nb
 bf= Marine fisker
+ot= REAL013827
 nn= Saltvassfiskar
 nn= Marine fiskar
 en= Saltwater fishes
 en= Marine fishes
 tio= 2014-08-25T00:00:00Z
+st= REAL014129
 st= REAL014277
 st= REAL015562
+st= REAL019941
 st= REAL021564
 st= REAL022183
+st= REAL023780
 st= REAL024938
 st= REAL026081
+st= REAL026669
 st= REAL026810
 st= REAL028863
-st= REAL014129
-st= REAL019941
-st= REAL023780
-st= REAL026669
 st= REAL031842
 
 id= REAL011466
@@ -118210,7 +118221,6 @@ nn= Romfart
 en= Spaceflight
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-09T15:05:33Z
-st= REAL015836
 st= REAL018251
 st= REAL018899
 st= REAL019406
@@ -123002,6 +123012,8 @@ ba= ngh
 ba= ns
 bf= Fisk
 bf= Iktyologi
+ut= REAL011465
+ut= REAL009974
 nn= Fiskar
 nn= Fisk
 nn= Iktyologi
@@ -126091,8 +126103,8 @@ tio= 2014-08-25T00:00:00Z
 id= REAL014041
 te= Gittersystemer
 ba= ni
-so= REAL003053
 so= REAL012428
+so= REAL000890
 nn= Gittersystem
 en= Grid computing
 tio= 2014-08-25T00:00:00Z
@@ -127409,15 +127421,31 @@ tie= 2015-06-12T14:08:52Z
 id= REAL031465
 te= Påvekst
 bf= Påvekstorganismer
+bf= Påvekstalger
 bf= Begroing
+bf= Epifytter
+bf= Epilitter
+bf= Epizoonter
+bf= Epibionter
 nn= Påvekst
+nn= Påvekstorganismar
+nn= Påvekstalgar
 nn= Begroing
+nn= Epifyttar
+nn= Epilittar
+nn= Epizoontar
+nn= Epibiontar
 en= Fouling
 en= Biofouling
 en= Biological fouling
+en= Epiphytes
+en= Epilithes
+en= Epizoic organisms
+en= Epibiota
 de= vekst av mikroorganismer, planter, alger eller dyr på fuktige overflater
 tio= 2015-06-12T14:10:06Z
-tie= 2017-06-01T13:42:38Z
+tie= 2019-01-26T16:14:47Z
+st= REAL019592
 
 id= REAL031467
 te= Ekstremal grafteori
@@ -130056,4 +130084,15 @@ en= Artemisia
 la= Artemisia
 tio= 2019-01-25T14:29:00Z
 tie= 2019-01-25T14:30:22Z
+
+id= REAL032071
+te= Selvbetjente systemer
+bf= Selvbetjening
+nn= Sjølvbetente system
+nn= Sjølvtente system
+nn= Sjølvhjelpte system
+nn= Sjølvbetening
+nn= Sjølvtening
+tio= 2019-01-26T17:29:15Z
+tie= 2019-01-26T17:30:51Z
 
