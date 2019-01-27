@@ -4699,7 +4699,9 @@ tis= 2018-03-27T21:01:56Z
 id= REAL000551
 te= Densitometri
 ba= na
+bf= Mikrodensitometri
 nn= Densitometri
+nn= Mikrodensitometri
 en= Densitometry
 tio= 2014-08-25T00:00:00Z
 
@@ -6439,6 +6441,9 @@ nn= Kodeoptimering
 nn= Programvareoptimering
 nn= Programvareoptimalisering
 nn= Optimale algoritmar
+en= Program optimization
+en= Code optimization
+en= Software optimization
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-26T17:52:55Z
 
@@ -18323,6 +18328,8 @@ ba= ni
 bf= Bruksmønstre
 nn= Bruksdata
 nn= Bruksmønster
+en= Usage data
+en= Usage patterns
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-26T18:30:48Z
 
@@ -23104,6 +23111,7 @@ en= Geometry
 ms= 50
 dw= 516
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T21:45:15Z
 st= REAL015535
 st= REAL015592
 st= REAL015822
@@ -35882,9 +35890,9 @@ st= REAL029799
 
 id= REAL004240
 te= Moderne geometri
-ba= nm
-nn= Moderne geometri
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T21:45:04Z
+fly= REAL002726
 
 id= REAL004241
 te= Frontfølging
@@ -41038,6 +41046,7 @@ id= REAL004876
 te= Modulære funksjoner
 ba= nm
 nn= Modulære funksjonar
+en= Modular functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004877
@@ -41333,10 +41342,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004909
 te= Modularitet
-ba= ni
-ba= nb
-nn= Modularitet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T21:49:30Z
 
 id= REAL004910
 te= Anvendt botanikk
@@ -43110,9 +43117,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005125
 te= Marin prosjektering
-ba= nm
-nn= Marin prosjektering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T21:42:40Z
+fly= REAL009599
 
 id= REAL005126
 te= Geologiske prosesser
@@ -46638,6 +46645,7 @@ te= Miljømedisin
 ba= nk
 ba= nb
 nn= Miljømedisin
+en= Environmental medicine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005580
@@ -46680,6 +46688,7 @@ id= REAL005584
 te= Modulteori
 ba= nm
 nn= Modulteori
+en= Module theory
 tio= 2014-08-25T00:00:00Z
 st= REAL015811
 
@@ -52189,6 +52198,7 @@ id= REAL006239
 te= Modulære former
 ba= nm
 nn= Modulære former
+en= Modular forms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006241
@@ -57882,6 +57892,7 @@ te= Mineralnæring
 ba= nk
 ba= nb
 nn= Mineralnæring
+en= Mineral nutrition
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006878
@@ -59531,9 +59542,12 @@ ba= nf
 ba= nm
 bf= Simula 67
 bf= Simula-67
+bf= Portable simula
+ak= S-PORT
 nn= Simula
 nn= Simula 67
 nn= Simula-67
+nn= Portable simula
 en= Simula
 tio= 2014-08-25T00:00:00Z
 st= REAL020232
@@ -69335,9 +69349,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008255
 te= Mikrodensitometri
-ba= na
-nn= Mikrodensitometri
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T21:34:58Z
+fly= REAL000551
 
 id= REAL008256
 te= Astronauter
@@ -76259,13 +76273,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009061
 te= Flammeanalyse
-ba= nk
-bf= Flammetest
-nn= Flammeanalyse
-nn= Flammetest
-en= Flame tests
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:01:35Z
+tis= 2019-01-27T00:02:20Z
 
 id= REAL009062
 te= Farvannsbeskrivelser
@@ -76428,10 +76438,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009068
 te= Portable simula
-ba= ni
-ak= S-PORT
-nn= Portable simula
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T21:50:36Z
+fly= REAL007070
 
 id= REAL009069
 te= Skipstrafikk
@@ -77521,9 +77530,8 @@ fly= REAL010039
 
 id= REAL009210
 te= Modifikatorer
-ba= nk
-nn= Modifikatorar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T20:48:43Z
 
 id= REAL009211
 te= Tarmbakterier
@@ -80660,6 +80668,7 @@ nn= Marinteknologi
 nn= Marin teknikk
 en= Marine technology
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-26T21:42:51Z
 
 id= REAL009600
 te= Økologiske samfunn
@@ -86929,7 +86938,10 @@ id= REAL010316
 te= Molekyldynamikk
 ba= nk
 ba= na
+bf= Molekylbevegelser
 nn= Molekyldynamikk
+nn= Molekylrørsler
+nn= Molekylbevegelsar
 en= Molecular dynamics
 tio= 2014-08-25T00:00:00Z
 
@@ -86998,6 +87010,7 @@ id= REAL010324
 te= Modemer
 ba= ni
 nn= Modem
+en= Modems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010326
@@ -93648,10 +93661,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011183
 te= Molekylbevegelser
-ba= nk
-nn= Molekylrørsler
-nn= Molekylbevegelsar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-26T21:51:24Z
+fly= REAL010316
 
 id= REAL011184
 te= Resirkulering
@@ -109120,6 +109132,9 @@ bf= Botanisk nomenklatur
 nn= Plantenamn
 nn= Plantenomenklatur
 nn= Botanisk nomenklatur
+en= Plant names
+en= Botanical nomenclature
+en= Plant nomenclature
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T19:46:01Z
 st= REAL016016
