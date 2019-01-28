@@ -4623,6 +4623,7 @@ id= REAL000540
 te= Punktprosesser
 ba= nm
 nn= Punktprosessar
+en= Point processes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000541
@@ -6351,6 +6352,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Medisinsk antropologi
+en= Medical anthropology
 tio= 2014-08-25T00:00:00Z
 st= REAL015461
 st= REAL026123
@@ -6433,6 +6435,7 @@ bf= Programoptimalisering
 bf= Programvareoptimering
 bf= Programvareoptimalisering
 bf= Optimale algoritmer
+bf= Programeffektivitet
 ot= REAL006138
 nn= Programoptimering
 nn= Programoptimalisering
@@ -6441,6 +6444,7 @@ nn= Kodeoptimering
 nn= Programvareoptimering
 nn= Programvareoptimalisering
 nn= Optimale algoritmar
+nn= Programeffektivitet
 en= Program optimization
 en= Code optimization
 en= Software optimization
@@ -20404,9 +20408,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002410
 te= Televerket
-ba= ni
-nn= Televerket
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T23:41:12Z
 
 id= REAL002411
 te= Menneskeraser
@@ -43973,9 +43976,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005231
 te= Programeffektivitet
-ba= ni
-nn= Programeffektivitet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T23:37:13Z
+fly= REAL000759
 
 id= REAL005232
 te= Glukoseopptak
@@ -51641,6 +51644,7 @@ id= REAL006170
 te= Primitive fisker
 ba= nb
 nn= Primitive fiskar
+en= Primitive fishes
 tio= 2014-08-25T00:00:00Z
 st= REAL028043
 
@@ -56657,6 +56661,8 @@ te= Havskilpadder
 ba= nb
 ba= ns
 nn= Havskjelpadder
+en= Sea turtles
+en= Marine turtles
 tio= 2014-08-25T00:00:00Z
 st= REAL029141
 
@@ -59331,9 +59337,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007042
 te= Rasestudier
-ba= nb
-nn= Rasestudiar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T22:04:52Z
 
 id= REAL007043
 te= Landskapsplanlegging
@@ -62079,6 +62084,8 @@ ba= ne
 bf= T-lymfocytter
 nn= T-celler
 nn= T-lymfocyttar
+en= T cells
+en= T lymphocytes
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-23T13:08:30Z
 
@@ -65467,10 +65474,9 @@ st= REAL025986
 
 id= REAL007779
 te= Statistisk sikkerhet
-ba= nm
-nn= Statistisk tryggleik
-nn= Statistisk sikkerheit
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T22:02:35Z
+fly= REAL013504
 
 id= REAL007780
 te= Fugleøkologi
@@ -70019,10 +70025,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008339
 te= Statistisk matematikk
-ba= nm
-nn= Statistisk matematikk
 tio= 2014-08-25T00:00:00Z
-st= REAL027607
+tis= 2019-01-27T22:03:34Z
+fly= REAL008870
 
 id= REAL008341
 te= Uendelige rekker
@@ -74695,7 +74700,9 @@ te= Matematisk statistikk
 ba= na
 ba= nf
 ba= nm
+bf= Statistisk matematikk
 nn= Matematisk statistikk
+nn= Statistisk matematikk
 en= Mathematical statistics
 tio= 2014-08-25T00:00:00Z
 st= REAL014680
@@ -81515,11 +81522,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009695
 te= Modified Intermediate Neglect of Differential Overlap
-ba= nk
-ak= MINDO
-nn= Modified Intermediate Neglect of Differential Overlap
-nn= MINDO
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T23:38:53Z
+fly= REAL011286
 
 id= REAL009696
 te= Tålegrenser
@@ -86107,6 +86112,7 @@ id= REAL010220
 te= Modernitet
 ba= ns
 nn= Modernitet
+en= Modernity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010221
@@ -87535,9 +87541,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010390
 te= Transporttall
-ba= nk
-nn= Transporttal
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T23:40:30Z
 
 id= REAL010391
 te= Svingninger
@@ -94529,8 +94534,12 @@ fly= REAL005265
 id= REAL011286
 te= Modified Neglect of Differential Overlap
 ba= nk
+bf= Modified Intermediate Neglect of Differential Overlap
 ak= MNDO
+ak= MINDO
 nn= Modified Neglect of Differential Overlap
+nn= Modified Intermediate Neglect of Differential Overlap
+nn= MINDO
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011287
@@ -95115,9 +95124,8 @@ st= REAL021558
 
 id= REAL011358
 te= Maskinteori
-ba= nm
-nn= Maskinteori
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T23:39:43Z
 
 id= REAL011359
 te= Fangenskap
@@ -98239,9 +98247,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011714
 te= Nanonivåer
-ba= nk
-nn= Nanonivå
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T23:35:51Z
 
 id= REAL011715
 te= Eksocytose
@@ -100038,6 +100045,7 @@ id= REAL011915
 te= Modernisering
 ba= ns
 nn= Modernisering
+en= Modernization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011916
@@ -100164,6 +100172,7 @@ id= REAL011928
 te= Matriseisolering
 ba= nk
 nn= Matriseisolering
+en= Matrix isolation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011929
@@ -118386,6 +118395,7 @@ en= Statistics
 ms= 62
 dw= 519.5
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-27T22:02:46Z
 st= REAL014243
 st= REAL014306
 st= REAL014459
@@ -125760,8 +125770,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL014005
 te= Religiøse aspekter
-nn= Religiøse aspekt
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-27T22:04:28Z
+fly= REAL031904
 
 id= REAL014006
 te= Sykkelturer
@@ -129098,8 +129109,10 @@ tie= 2017-10-30T10:10:32Z
 id= REAL031904
 te= Religion og vitenskap
 bf= Vitenskap og religon
+bf= Religiøse aspekter
 nn= Religion og vitskap
 nn= Vitskap og religion
+nn= Religiøse aspekt
 en= Religion and science
 en= Science and religion
 tio= 2017-10-30T10:15:05Z
