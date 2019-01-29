@@ -2384,14 +2384,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000277
 te= Kjemiske produkter
-ba= nb
-ba= ne
-nn= Kjemiske produkt
-en= Chemical products
-en= Products
 tio= 2014-08-25T00:00:00Z
-st= REAL024874
-st= REAL027202
+tis= 2019-01-29T21:01:00Z
 
 id= REAL000278
 te= JAVA servlets
@@ -3416,10 +3410,8 @@ tis= 2018-03-08T14:37:17Z
 
 id= REAL000405
 te= Almagest
-ba= na
-nn= Almagest
-en= Almagest
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T19:16:02Z
 
 id= REAL000406
 te= Allozymer
@@ -8362,10 +8354,8 @@ st= REAL026355
 
 id= REAL000984
 te= Optiske metoder
-ba= nk
-ba= na
-nn= Optiske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T20:16:47Z
 
 id= REAL000985
 te= Informasjonspolitikk
@@ -16128,9 +16118,8 @@ tis= 2017-10-31T20:25:11Z
 
 id= REAL001914
 te= Praktisk fotografering
-ba= na
-nn= Praktisk fotografering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T20:12:56Z
 
 id= REAL001915
 te= Dugonger
@@ -21832,12 +21821,8 @@ tie= 2018-09-04T22:40:48Z
 
 id= REAL002571
 te= High Resolution Telescope and Spectrograph
-ba= na
-ak= HRTS
-nn= High Resolution Telescope and Spectrograph
-en= High Resolution Telescope and Spectrograph
-en= HRTS
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T19:29:08Z
 
 id= REAL002572
 te= Metastaser
@@ -32246,9 +32231,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003796
 te= Infrarød interferometri
-ba= na
-nn= Infraraud interferometri
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T20:17:54Z
 
 id= REAL003797
 te= Helsekostprodukter
@@ -39778,9 +39762,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004710
 te= Magnetiske målinger
-ba= na
-nn= Magnetiske målingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T20:15:51Z
+fly= REAL007436
 
 id= REAL004711
 te= Fotorefraktive materialer
@@ -40400,9 +40384,9 @@ en= Anemones
 en= Sea anemones
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-28T18:40:58Z
+st= REAL015041
 st= REAL018025
 st= REAL023165
-st= REAL015041
 st= REAL027544
 
 id= REAL004790
@@ -45958,11 +45942,8 @@ fly= REAL008242
 
 id= REAL005483
 te= Termodynamiske egenskaper
-ba= nk
-nn= Termodynamiske eigenskapar
-en= Thermodynamic properties
 tio= 2014-08-25T00:00:00Z
-st= REAL017856
+tis= 2019-01-29T21:15:50Z
 
 id= REAL005484
 te= Teleskoper
@@ -50415,9 +50396,8 @@ tie= 2017-09-12T19:10:44Z
 
 id= REAL006018
 te= Kjemiske prinsipper
-ba= nk
-nn= Kjemiske prinsipp
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T21:07:46Z
 
 id= REAL006019
 te= Førstehjelp
@@ -56720,8 +56700,14 @@ ba= na
 ba= nc
 ba= nf
 ba= ngh
+bf= Kunstige satellitter
+ut= REAL010239
+ut= REAL011424
+no= Kunstige, ikke naturlige
 nn= Satellittar
+nn= Kunstige satellittar
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-29T20:28:50Z
 st= REAL015481
 st= REAL017392
 st= REAL029355
@@ -62514,8 +62500,11 @@ tie= 2017-09-19T09:06:25Z
 id= REAL007436
 te= Magnetiske observasjoner
 ba= na
+bf= Magnetiske målinger
 nn= Magnetiske observasjonar
+nn= Magnetiske målingar
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-29T20:16:04Z
 
 id= REAL007437
 te= Franske revolusjon
@@ -78443,14 +78432,17 @@ nn= Verkstadteknikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009314
-te= Høyere atmosfære
+te= Øvre atmosfære
 ba= na
 ba= ngh
+bf= Høyere atmosfære
+nn= Øvre atmosfære
 nn= Høgare atmosfære
 nn= Høgre atmosfære
 en= Upper atmosphere
 en= Earth's upper atmosphere
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-29T20:34:56Z
 
 id= REAL009315
 te= Søking
@@ -86314,9 +86306,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010239
 te= Kommunikasjonssatellitter
 ba= na
+ot= REAL006730
 nn= Kommunikasjonssatellittar
 en= Communications satellites
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-29T20:28:40Z
 
 id= REAL010240
 te= Nestekjærlighet
@@ -88380,14 +88374,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010502
 te= Goddard High Resolution Spectrograph
-ba= na
-ak= GRHS
-nn= GHRS
-nn= Goddard High Resolution Spectrograph
-en= Goddard High Resolution Spectrograph
-en= GHRS
-en= HRS
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T19:39:06Z
 
 id= REAL010503
 te= Karbanioner
@@ -91371,21 +91359,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010884
 te= James Webb-teleskopet
-ba= na
-bf= James Webb Space Telescope
-bf= Next Generation Space Telescope
-ak= JWST
-ak= NGST
-nn= James Webb-teleskopet
-nn= James Webb Space Telescope
-nn= NGST
-nn= Next Generation Space Telescope
-en= James Webb Space Telescope
-en= Next Generation Space Telescope
-en= NGST
-en= JWST
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-08T14:43:51Z
+tis= 2019-01-29T19:39:55Z
 
 id= REAL010885
 te= Innvollsormer
@@ -92686,9 +92662,8 @@ tis= 2018-01-12T16:35:09Z
 
 id= REAL011049
 te= Kondensert materie
-ba= na
-nn= Kondensert materie
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T19:49:42Z
 
 id= REAL011050
 te= Ultrafiolett lys
@@ -95719,10 +95694,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011424
 te= Værsatellitter
 ba= ngh
+ot= REAL006730
 nn= Vêrsatellittar
 nn= Versatellittar
 en= Weather satellites
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-29T20:28:50Z
 
 id= REAL011425
 te= Overflatetemperatur
@@ -98517,15 +98494,20 @@ en= Sucrose
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011744
-te= Undervisningsplanlegging
+te= Undervisningsutvikling
 ba= ni
 ba= nk
 bf= Undervisningsplaner
+bf= Undervisningsopplegg
+bf= Undervisningsplanlegging
+nn= Undervisningsutvikling
 nn= Undervisningsplanlegging
 nn= Undervisingsplanar
 nn= Undervisingsplanlegging
 nn= Undervisningsplanar
+nn= Undervisningsopplegg
 tio= 2014-08-25T00:00:00Z
+tie= 2019-01-29T08:08:06Z
 
 id= REAL011745
 te= Gjenfangst
@@ -112860,8 +112842,8 @@ tie= 2017-06-01T12:48:32Z
 
 id= REAL013138
 te= Kjemiske databaser
-nn= Kjemiske databasar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-01-29T21:07:21Z
 
 id= REAL013139
 te= Klassiske grupper
