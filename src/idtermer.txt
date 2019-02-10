@@ -276,11 +276,9 @@ st= REAL031869
 
 id= REAL000034
 te= Matematiske tegn
-ba= ni
-ba= nm
-nn= Matematiske teikn
-en= Mathematical symbols
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:03:55Z
+fly= REAL011015
 
 id= REAL000035
 te= Elveløp
@@ -1367,10 +1365,8 @@ st= REAL022355
 
 id= REAL000161
 te= Lidelser
-ba= ne
-nn= Lidingar
-en= Sufferings
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T12:49:01Z
 
 id= REAL000162
 te= Elektronikk
@@ -4405,9 +4401,11 @@ tie= 2018-07-23T19:33:57Z
 id= REAL000515
 te= Landskapsutvikling
 ba= nc
+bf= Landskapsutnyttelse
 so= REAL002855
 so= REAL009597
 nn= Landskapsutvikling
+nn= Landskapsutnytting
 en= Landscape evolution
 en= Landform evolution
 tio= 2014-08-25T00:00:00Z
@@ -4462,10 +4460,8 @@ st= REAL026502
 
 id= REAL000522
 te= Abstraksjon
-ba= ns
-nn= Abstraksjon
-en= Abstraction
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T14:00:02Z
 
 id= REAL000524
 te= Optimal konstruksjon
@@ -5598,9 +5594,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000657
 te= Kontrollmekanismer
-ba= nb
-nn= Kontrollmekanismar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:57:16Z
 
 id= REAL000659
 te= Satellittbaner
@@ -9193,6 +9188,8 @@ bf= Sekvenssammenstilling
 bf= Gensekvensanalyse
 bf= Sekvenser
 bf= Sekvenseringsmetoder
+bf= DNA-strekkoding
+bf= Genetisk strekkoding
 ak= NGS
 nn= Gensekvensering
 nn= Sekvensering
@@ -9202,10 +9199,14 @@ nn= Sekvensanalyse
 nn= Gensekvensanalyse
 nn= Sekvenssamanstilling
 nn= Sekvensar
+nn= DNA-strekkoding
+nn= Genetisk strekkoding
 en= DNA sequencing
 en= Sequencing
 en= Next generation sequencing
 en= Sequence analysis
+en= DNA-barcoding
+en= Genetic barcoding
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-28T19:10:49Z
 st= REAL022637
@@ -10246,9 +10247,9 @@ tie= 2017-08-18T21:14:49Z
 
 id= REAL001206
 te= Shimura
-ba= nm
-nn= Shimura
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:59:35Z
+fly= REAL013697
 
 id= REAL001207
 te= Interstellare molekyler
@@ -11206,8 +11207,10 @@ id= REAL001314
 te= Spermier
 ba= nb
 ba= ne
+bf= Spermatogenese
 nn= Spermiar
 nn= Spermie
+nn= Spermatogenese
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001315
@@ -13631,14 +13634,18 @@ bf= Miljøtilpasninger
 bf= Tilpasning
 bf= Adaptasjon
 bf= Økologiske tilpasninger
+bf= Fysiologisk økologi
 nn= Økofysiologi
 nn= Miljøtilpassingar
 nn= Tilpassing
 nn= Adaptasjon
 nn= Økologiske tilpassingar
+nn= Fysiologisk økologi
 en= Ecophysiology
 en= Adaptation
 en= Ecological adaptations
+en= Physiological ecology
+en= Environmental physiology
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-12T00:00:00Z
 st= REAL014096
@@ -16307,9 +16314,8 @@ tie= 2015-01-26T00:00:00Z
 
 id= REAL001939
 te= Fysikalske målinger
-ba= nm
-nn= Fysikalske målingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T14:10:39Z
 
 id= REAL001940
 te= El niño
@@ -21272,9 +21278,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002515
 te= Spermatogenese
-ba= nb
-nn= Spermatogenese
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:54:42Z
+fly= REAL001314
 
 id= REAL002517
 te= Arbeidsulykker
@@ -23914,12 +23920,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002821
 te= Fysiologisk økologi
-ba= nb
-nn= Fysiologisk økologi
-en= Physiological ecology
-en= Ecophysiology
-en= Environmental physiology
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:54:02Z
+fly= REAL001609
 
 id= REAL002822
 te= Konkurranseutsetting
@@ -25606,11 +25609,8 @@ tis= 2018-01-02T21:07:02Z
 
 id= REAL003016
 te= Navnsetting
-ba= nk
-ba= nb
-nn= Namnsetjing
-nn= Namnsetting
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T12:57:14Z
 
 id= REAL003017
 te= Sedimentære malmforekomster
@@ -29282,9 +29282,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003458
 te= Herdighet
-ba= nk
-nn= Herdigheit
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:56:01Z
+fly= REAL008655
 
 id= REAL003459
 te= Læringsarenaer
@@ -29708,12 +29708,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003505
 te= Fiskedød
-ba= nb
-ba= ngh
-nn= Fiskedaude
-nn= Fiskedød
-en= Fish death
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:53:19Z
 
 id= REAL003506
 te= Forbrytelser
@@ -30091,9 +30087,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003545
 te= Landskapsutnyttelse
-ba= nb
-nn= Landskapsutnytting
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:57:36Z
+fly= REAL000515
 
 id= REAL003546
 te= Ektefeller
@@ -36123,11 +36119,9 @@ st= REAL023889
 
 id= REAL004262
 te= Undervannssensorer
-ba= ni
-nn= Undervassensorar
-en= Underwater sensors
 tio= 2014-08-25T00:00:00Z
 tie= 2015-01-20T00:00:00Z
+tis= 2019-02-10T13:37:03Z
 
 id= REAL004263
 te= Marinarkeologi
@@ -36424,8 +36418,10 @@ id= REAL004302
 te= Karbonater
 ba= nk
 ba= nc
+bf= Karbonat
 nn= Karbonat
 en= Carbonates
+en= Carbonate
 tio= 2014-08-25T00:00:00Z
 st= REAL014650
 st= REAL015891
@@ -37168,16 +37164,8 @@ tie= 2017-09-05T21:18:56Z
 
 id= REAL004387
 te= Biologiske prøver
-ba= nk
-ba= ne
-nn= Biologiske prøver
-nn= Biologiske prøvar
-en= Biological samples
-en= Biospecimen
-en= Biosamples
-en= Biological specimen
 tio= 2014-08-25T00:00:00Z
-st= REAL015370
+tis= 2019-02-10T13:57:50Z
 
 id= REAL004388
 te= Fluiditet
@@ -40924,9 +40912,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004860
 te= Innhegningsforsøk
-ba= ngh
-nn= Innhegningsforsøk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T14:26:22Z
 
 id= REAL004861
 te= Teknisk dokumentasjon
@@ -44714,7 +44701,6 @@ te= Lysmikroskopi
 ba= nk
 ba= nb
 bf= Optisk mikroskopi
-ut= REAL032022
 ut= REAL032023
 nn= Ljosmikroskopi
 nn= Lysmikroskopi
@@ -46433,12 +46419,10 @@ tis= 2018-04-24T13:08:32Z
 
 id= REAL005550
 te= Deteksjon
-ba= nk
 no= Bør ikke brukes alene, kun i streng
-nn= Deteksjon
-en= Detection
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-06T11:46:25Z
+tis= 2019-02-10T13:59:11Z
 
 id= REAL005551
 te= Fisjonsreaktorer
@@ -50728,7 +50712,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006060
 te= Prospektering
 ba= nc
+bf= Skjerping
 nn= Prospektering
+nn= Skjerping
 en= Prospecting
 tio= 2014-08-25T00:00:00Z
 st= REAL016632
@@ -59103,9 +59089,8 @@ st= REAL027042
 
 id= REAL007015
 te= Populasjonsvekst
-ba= nk
-nn= Populasjonsvekst
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:54:29Z
 
 id= REAL007016
 te= Arktisk vegetasjon
@@ -61015,8 +61000,8 @@ fly= REAL010027
 id= REAL007251
 te= Hardførhet
 tio= 2014-08-25T00:00:00Z
-tis= 2018-09-12T13:26:42Z
-fly= REAL011081
+tis= 2019-02-10T13:56:17Z
+fly= REAL008655
 
 id= REAL007252
 te= Eksperimentell biologi
@@ -72333,10 +72318,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008600
 te= Kolin
-ba= ns
-nn= Kolin
-en= Choline
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:57:06Z
 
 id= REAL008601
 te= Toksisitet
@@ -72657,9 +72640,8 @@ st= REAL022679
 
 id= REAL008637
 te= Spyttsekresjon
-ba= nb
-nn= Spyttsekresjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T13:54:52Z
 
 id= REAL008638
 te= Molekylærfysikk
@@ -72887,11 +72869,16 @@ ba= nq
 ba= ns
 bf= Stresstoleranse
 bf= Stressfaktorer
+bf= Herdighet
+bf= Hardførhet
+bf= Stressrespons
 nn= Stress
 nn= Stresstoleranse
 nn= Stressfaktorar
+nn= Herdigheit
+nn= Stressrespons
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-25T14:08:11Z
+tie= 2019-02-10T13:56:48Z
 
 id= REAL008656
 te= Mekanikk
@@ -75455,10 +75442,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008965
 te= Karbonat
-ba= nc
-nn= Karbonat
-en= Carbonate
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T12:45:07Z
+fly= REAL004302
 
 id= REAL008966
 te= Kreativt arbeid
@@ -83137,11 +83123,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009892
 te= Skjerping
-ba= nc
-nn= Skjerping
-en= Prospecting
 tio= 2014-08-25T00:00:00Z
-st= REAL029607
+tis= 2019-02-10T14:34:11Z
+fly= REAL006060
 
 id= REAL009893
 te= Kuldetilpasning
@@ -92387,15 +92371,18 @@ ba= ni
 bf= Matematisk tegnsetting
 bf= Matematisk dokumentproduksjon
 bf= Matematisk tekst
+bf= Matematiske tegn
 nn= Matematisk typografi
 nn= Matematisk teiknsetjing
 nn= Matematisk teiknsetting
 nn= Matematisk dokumentproduksjon
 nn= Matematisk tekst
+nn= Matematiske teikn
 en= Mathematical typesetting
 en= Mathematical typography
 en= Mathematical document production
 en= Mathematical text
+en= Mathematical symbols
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-16T12:23:56Z
 
@@ -92915,12 +92902,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011081
 te= Miljøbelastning
 ba= nb
-bf= Hardførhet
 nn= Miljøbelasting
 nn= Miljøbelastning
-nn= Hardførheit
 en= Environmental stress
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-10T13:55:10Z
 
 id= REAL011082
 te= Barskogskvaliteter
@@ -95772,10 +95758,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011438
 te= Ozonstråling
-ba= ngh
-nn= Ozonstråling
-en= Ozone radiation
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-10T14:29:58Z
 
 id= REAL011439
 te= Retorikk
@@ -121000,7 +120984,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013697
 te= Shimura-varieteter
 ba= nm
+bf= Shimura
 nn= Shimura-varietetar
+nn= Shimura
 en= Shimura varieties
 tio= 2014-08-25T00:00:00Z
 
@@ -129368,16 +129354,9 @@ tie= 2018-03-21T12:34:01Z
 
 id= REAL031986
 te= Kratersjøer
-bf= Vulkanske sjøer
-bf= Vulkanske innsjøer
-bf= Vulkansjøer
-nn= Kratersjøar
-nn= Vulkansjøar
-en= Crater lakes
-en= Caldera lakes
-en= Volcanic lakes
 tio= 2018-03-26T16:19:15Z
 tie= 2018-03-26T16:20:13Z
+tis= 2019-02-10T14:35:37Z
 
 id= REAL031988
 te= Altmetri
@@ -129678,16 +129657,9 @@ fly= REAL012979
 
 id= REAL032022
 te= Fluorescensmikroskopi
-bf= Fluorescensmikroskoper
-ot= REAL005331
-nn= Fluorescensmikroskopi
-nn= Fluorescensmikroskop
-en= Fluorescence microscopy
-en= Fluorescence microscopes
-en= Epifluorescence microscopy
-en= Single-molecule fluorescence microscopy
 tio= 2018-07-25T12:58:37Z
 tie= 2018-07-25T13:00:48Z
+tis= 2019-02-10T13:53:34Z
 
 id= REAL032023
 te= Fasekontrastmikroskopi
@@ -129994,13 +129966,10 @@ tie= 2018-11-12T19:47:53Z
 
 id= REAL032059
 te= DNA-strekkoding
-bf= Genetisk strekkoding
-nn= DNA-strekkoding
-nn= Genetisk strekkoding
-en= DNA-barcoding
-en= Genetic barcoding
 tio= 2018-11-13T10:15:37Z
 tie= 2018-11-13T10:16:19Z
+tis= 2019-02-10T13:53:09Z
+fly= REAL001074
 
 id= REAL032060
 te= Geiter
