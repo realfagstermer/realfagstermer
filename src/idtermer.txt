@@ -39976,9 +39976,8 @@ tis= 2018-05-08T22:43:31Z
 
 id= REAL004741
 te= Solflekkdata
-ba= na
-nn= Solflekkdata
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-12T13:15:33Z
 
 id= REAL004743
 te= Dobbeltbindinger
@@ -47082,12 +47081,9 @@ st= REAL024136
 
 id= REAL005635
 te= Selskaper
-ba= nb
-nn= Selskap
 tio= 2014-08-25T00:00:00Z
-st= REAL015180
-st= REAL020325
-st= REAL029626
+tis= 2019-02-12T14:25:39Z
+fly= REAL006497
 
 id= REAL005636
 te= Bjørkeskog
@@ -50705,9 +50701,8 @@ fly= REAL003965
 
 id= REAL006059
 te= Romvarsel
-ba= na
-nn= Romvarsel
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-12T14:45:19Z
 
 id= REAL006060
 te= Prospektering
@@ -54708,15 +54703,20 @@ st= REAL029556
 st= REAL029833
 
 id= REAL006497
-te= Vitenskapelige selskaper
+te= Vitenskapsselskaper
 ba= nb
 ba= ns
+bf= Vitenskapelige selskaper
 so= REAL003462
+nn= Vitskapsselskap
 nn= Vitskaplege selskap
 nn= Vitskapelege selskap
 tio= 2014-08-25T00:00:00Z
-tie= 2018-09-30T00:43:06Z
+tie= 2019-02-12T14:27:34Z
+st= REAL015180
+st= REAL020325
 st= REAL027965
+st= REAL029626
 st= REAL029675
 
 id= REAL006498
@@ -57258,8 +57258,17 @@ st= REAL024473
 id= REAL006804
 te= Smarte materialer
 ba= nf
+bf= Intelligente materialer
+bf= Responsive materialer
 nn= Smarte materiale
+nn= Intelligente materiale
+nn= Responsive materiale
+en= Smart materials
+en= Intelligent materials
+en= Responsive materials
+en= Shape memory materials
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-12T14:11:11Z
 
 id= REAL006805
 te= Utforskning
@@ -57963,19 +57972,8 @@ tie= 2017-01-24T17:28:37Z
 
 id= REAL006888
 te= Turer
-ba= ns
-nn= Turar
 tio= 2014-08-25T00:00:00Z
-st= REAL016778
-st= REAL016820
-st= REAL016972
-st= REAL017603
-st= REAL021019
-st= REAL023374
-st= REAL024212
-st= REAL028094
-st= REAL028134
-st= REAL031931
+tis= 2019-02-12T14:42:43Z
 
 id= REAL006889
 te= Dataprogrammer
@@ -66706,10 +66704,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007946
 te= Stortingsmeldinger
-ba= nb
-ba= ngh
-nn= Stortingsmeldingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-12T14:40:51Z
 
 id= REAL007947
 te= Kalking
@@ -83648,11 +83644,8 @@ st= REAL014862
 
 id= REAL009950
 te= Skatteetaten
-ba= ni
-nn= Skatteetaten
-en= Norwegian Tax Administration
-en= Skatteetaten
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-12T14:37:59Z
 
 id= REAL009951
 te= Kjemisk sansning
@@ -85211,13 +85204,17 @@ tis= 2016-11-25T15:58:36Z
 fly= REAL010396
 
 id= REAL010124
-te= Offentlige nøkler
+te= Offentlig-nøkkelkryptografi
 ba= ni
+bf= Offentlige nøkler
 so= REAL009164
+nn= Offentleg-nøkkelkryptografi
 nn= Offentlege nyklar
 nn= Offentlege nøklar
+en= Public key cryptography
 en= Public keys
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-12T19:03:49Z
 
 id= REAL010125
 te= Bildelagring
@@ -86701,9 +86698,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010287
 te= Referansestjerner
-ba= na
-nn= Referansestjerner
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-12T13:20:05Z
 
 id= REAL010288
 te= Overflateegenskaper
@@ -87477,7 +87473,6 @@ ba= nb
 nn= Kreftceller
 en= Cancer cells
 tio= 2014-08-25T00:00:00Z
-st= REAL031360
 st= REAL031791
 
 id= REAL010386
@@ -88721,7 +88716,9 @@ ba= nq
 ba= ns
 nn= Akademi
 en= Academies
+en= Learned societies
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-12T14:47:44Z
 
 id= REAL010556
 te= Molekylsiler
@@ -113357,13 +113354,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013193
 te= Kvalitativ oppførsel
-ba= nm
-nn= Kvalitativ oppførsel
-nn= Kvalitativ åtferd
-en= Qualitative behaviour
-ms= 93.20
-dw= 003
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-12T15:19:30Z
 
 id= REAL013194
 te= Optimal systemkontroll
