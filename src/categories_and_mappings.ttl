@@ -9610,9 +9610,11 @@ real:c001858  skos:closeMatch  wd:Q655362 .
 
 real:c030604  skos:closeMatch  wd:Q201914 .
 
+real:c009639  skos:closeMatch  wd:Q177784 .
+
 real:c000764  skos:closeMatch  wd:Q221284 .
 
-real:c009639  skos:closeMatch  wd:Q177784 .
+real:c006497  skos:closeMatch  wd:Q748019 .
 
 real:c001668  skos:closeMatch  wd:Q114750 .
 

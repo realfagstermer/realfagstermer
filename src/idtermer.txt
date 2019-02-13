@@ -54711,6 +54711,7 @@ so= REAL003462
 nn= Vitskapsselskap
 nn= Vitskaplege selskap
 nn= Vitskapelege selskap
+en= Scientific societies
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-12T14:27:34Z
 st= REAL015180
