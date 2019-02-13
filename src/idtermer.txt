@@ -1815,12 +1815,20 @@ nn= Konstruksjonsproblem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000213
-te= Beregnbarhet
+te= Beregnbarhetsteori
 ba= ni
 ba= nm
+bf= Beregnbarhet
+bf= Rekursjonsteori
+so= REAL003890
+nn= Bereknelegheitsteori
 nn= Bereknelegheit
+nn= Rekursjonsteori
+en= Computability theory
 en= Computability
+en= Recursion theory
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-13T18:03:49Z
 
 id= REAL000214
 te= Numerisk termodynamikk
@@ -2425,6 +2433,7 @@ st= REAL021461
 id= REAL000282
 te= Mekaniske datamaskiner
 ba= ns
+so= REAL031977
 nn= Mekaniske datamaskiner
 nn= Mekaniske datamaskinar
 en= Mechanical computers
@@ -2433,7 +2442,7 @@ en= Difference engines
 en= Analytical engine
 en= Difference engine
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-20T22:38:07Z
+tie= 2019-02-13T17:31:05Z
 st= REAL015449
 st= REAL025849
 
@@ -14143,6 +14152,7 @@ ba= ne
 ba= nf
 ba= ns
 so= REAL008413
+ut= REAL010235
 no= Eksperimentell metode. Termen brukes ofte om selve analysen også: "vi fant ut X ved hjelp av Y-spektroskopi". Github:#109
 nn= Spektroskopi
 en= Spectroscopy
@@ -15082,16 +15092,10 @@ fly= REAL011853
 
 id= REAL001785
 te= Harvard Mark I
-ba= ni
-bf= Mark I
-bf= IBM Automatic Sequence Controlled Calculator
-nn= Harvard Mark I
-nn= Mark I
-en= Harvard Mark I
-en= Mark I
-en= IBM Automatic Sequence Controlled Calculator
 tio= 2014-08-25T00:00:00Z
 tie= 2018-12-03T17:25:11Z
+tis= 2019-02-13T17:28:47Z
+fly= REAL031977
 
 id= REAL001786
 te= Kunnskapsrepresentasjon
@@ -33017,10 +33021,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003890
 te= Beregnbare funksjoner
 ba= nm
+so= REAL000213
 nn= Bereknelege funksjonar
 en= Computable functions
 tio= 2014-08-25T00:00:00Z
-tie= 2015-10-20T10:48:28Z
+tie= 2019-02-13T18:03:48Z
 
 id= REAL003891
 te= Fangstkulturer
@@ -33288,9 +33293,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003924
 te= Rekursjonsteori
-ba= nm
-nn= Rekursjonsteori
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T18:03:30Z
+fly= REAL000213
 
 id= REAL003925
 te= Like-til-like nettverk
@@ -36141,10 +36146,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004265
 te= Relativistisk kosmologi
-ba= na
-ba= nm
-nn= Relativistisk kosmologi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T18:07:27Z
 
 id= REAL004266
 te= Fiskehelse
@@ -51421,11 +51424,10 @@ fly= REAL013424
 
 id= REAL006144
 te= STC Zebra
-ba= ni
-nn= STC Zebra
-en= STC Zebra
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-31T20:45:29Z
+tis= 2019-02-13T17:24:38Z
+fly= REAL031977
 
 id= REAL006145
 te= Grenseflater
@@ -55881,10 +55883,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006642
 te= Solhøyde
-ba= na
-nn= Solhøgd
-nn= Solhøgde
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T18:14:59Z
 
 id= REAL006643
 te= Biomanipulasjon
@@ -58049,10 +58049,9 @@ st= REAL031965
 
 id= REAL006897
 te= Skriveregler
-ba= nb
-ba= nq
-nn= Skrivereglar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T18:19:34Z
+fly= REAL008177
 
 id= REAL006898
 te= Reproduksjonsstrategier
@@ -61337,9 +61336,11 @@ tie= 2017-02-10T16:51:10Z
 id= REAL007287
 te= Reflektometri
 ba= nk
+no= CHMO:0000209
 nn= Reflektometri
 en= Reflectometry
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-13T17:56:56Z
 
 id= REAL007288
 te= Markedsføring
@@ -67612,9 +67613,8 @@ tie= 2016-01-29T13:35:42Z
 
 id= REAL008052
 te= Spinkoblinger
-ba= nk
-nn= Spinkoplingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T18:16:45Z
 
 id= REAL008053
 te= Løvfrosker
@@ -68673,17 +68673,19 @@ nn= Kammanetar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008177
-te= Rettskrivning
+te= Rettskriving
 ba= nk
 ba= nb
 ba= nm
 ba= nq
-bf= Rettskriving
 bf= Ortografi
+bf= Rettskrivning
+bf= Skriveregler
 nn= Rettskriving
+nn= Skrivereglar
 en= Orthography
 tio= 2014-08-25T00:00:00Z
-tie= 2017-07-27T22:37:47Z
+tie= 2019-02-13T18:19:28Z
 st= REAL019952
 
 id= REAL008178
@@ -79015,9 +79017,8 @@ st= REAL023333
 
 id= REAL009401
 te= Relasjonssystemer
-ba= ni
-nn= Relasjonssystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T18:06:14Z
 
 id= REAL009402
 te= Økoteknologi
@@ -81046,11 +81047,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009644
 te= Zuse Z4
-ba= ni
-nn= Zuse Z4
-en= Zuse Z4
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-08T15:35:24Z
+tis= 2019-02-13T17:17:45Z
+fly= REAL031977
 
 id= REAL009645
 te= Blodigle
@@ -83221,9 +83221,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009905
 te= Skjermarbeid
-ba= ni
-nn= Skjermarbeid
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T17:34:09Z
 
 id= REAL009906
 te= Eutrofe vann
@@ -86217,8 +86216,15 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010235
 te= Refleksjonsspektroskopi
 ba= nk
+ot= REAL001673
+no= CHMO:0000936
 nn= Refleksjonsspektroskopi
+en= Reflectance spectroscopy
+en= Reflection spectroscopy
+en= Reflection spectrometry
+en= Reflectance spectrometry
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-13T17:54:43Z
 
 id= REAL010236
 te= Planetdannelse
@@ -91115,7 +91121,7 @@ bf= Sosiale endringer
 bf= Samfunnsendringer
 bf= Samfunnsutvikling
 bf= Samfunnsmessige påvirkninger
-no= Brukes i streng
+bf= Reformbevegelser
 nn= Sosial endring
 nn= Sosiale endringar
 nn= Sosiale forandringar
@@ -91123,10 +91129,12 @@ nn= Samfunnsendringar
 nn= Samfunnsutvikling
 nn= Samfunnsmessige påverknader
 nn= Samfunnsmessige påverknadar
+nn= Reformrørsler
+nn= Reformbevegelsar
 en= Social changes
 en= Societal changes
 tio= 2014-08-25T00:00:00Z
-tie= 2017-10-11T14:23:15Z
+tie= 2019-02-13T18:00:43Z
 st= REAL028147
 
 id= REAL010859
@@ -97750,12 +97758,10 @@ tis= 2018-08-17T15:31:20Z
 
 id= REAL011662
 te= Bull Gamma 60
-ba= ni
-nn= Bull Gamma 60
-en= Bull Gamma 60
-en= Gamma 60
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-23T23:41:28Z
+tis= 2019-02-13T17:21:55Z
+fly= REAL031977
 
 id= REAL011663
 te= Infrarød astronomi
@@ -104924,12 +104930,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012446
 te= Reformbevegelser
-ba= ni
 no= Sosiale bevegelser
-nn= Reformrørsler
-nn= Reformbevegelsar
-dw= 361.24
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T18:00:12Z
+fly= REAL010858
 
 id= REAL012447
 te= Musikalske rytmer
@@ -111626,11 +111630,8 @@ st= REAL014603
 
 id= REAL013022
 te= Reduksjonsteknikker
-ba= ni
-bf= Reduksjonsmetoder
-nn= Reduksjonsteknikkar
-nn= Reduksjonsmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-13T17:48:43Z
 
 id= REAL013023
 te= Regenerativ medisin
@@ -129246,8 +129247,15 @@ bf= ENIAC
 bf= Univac
 bf= Nusse
 bf= N.u.s.s.e.
+bf= Zuse Z4
+bf= Bull Gamma 60
+bf= STC Zebra
+bf= Harvard Mark I
+bf= Mark I
+bf= IBM Automatic Sequence Controlled Calculator
 ak= ABC
 so= REAL002958
+so= REAL000282
 nn= Tidlege datamaskinar
 nn= Maskinen frederic
 nn= Maskina frederic
@@ -129258,12 +129266,24 @@ nn= ENIAC
 nn= UNIVAC
 nn= Nusse
 nn= N.u.s.s.e.
+nn= Zuse Z4
+nn= Bull Gamma 60
+nn= STC Zebra
+nn= Harvard Mark I
+nn= Mark I
 en= Early computers
 en= Atanasoff-Berry computer
 en= ENIAC
+en= Zuse Z4
+en= Bull Gamma 60
+en= Gamma 60
+en= STC Zebra
+en= Harvard Mark I
+en= Mark I
+en= IBM Automatic Sequence Controlled Calculator
 de= datamaskiner utviklet frem til tidlig på 1960-tallet, før integrerte kretser Electrical Numerical Integrator And Calculator
 tio= 2018-03-02T21:35:01Z
-tie= 2018-03-02T21:38:53Z
+tie= 2019-02-13T17:31:04Z
 st= REAL019107
 st= REAL020988
 st= REAL021518
@@ -130096,4 +130116,28 @@ nn= Overflatekrafter
 en= Surface forces
 tio= 2019-02-04T10:30:15Z
 tie= 2019-02-04T10:30:54Z
+
+id= REAL032074
+te= Eufotisk sone
+bf= Lyssonen
+bf= Eufotiske sonen
+nn= Eufotisk sone
+nn= Ljossona
+en= Euphotic zone
+en= Photic zone
+tio= 2019-02-13T17:37:48Z
+tie= 2019-02-13T17:39:15Z
+
+id= REAL032075
+te= Vannformørkning
+bf= Kystvannformørkning
+no= github:#1503
+nn= Vannformørking
+nn= Vannmørking
+nn= Kystvannformørking
+nn= Kystvannmørking
+en= Water darkening
+en= Coastal water darkening
+tio= 2019-02-13T17:40:44Z
+tie= 2019-02-13T17:43:39Z
 
