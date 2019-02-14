@@ -21183,6 +21183,7 @@ te= Relaksasjon
 ba= nk
 ba= nf
 nn= Relaksasjon
+en= Relaxation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002506
@@ -52579,6 +52580,7 @@ id= REAL006288
 te= Speiloptikk
 ba= na
 nn= Spegeloptikk
+en= Mirror optics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006289
