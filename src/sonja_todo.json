@@ -1,1 +1,100 @@
-{}
+{
+  "REAL004315": {
+    "prefLabel": "Graylings",
+    "altLabel": []
+  },
+  "REAL008291": {
+    "prefLabel": "Deep sea fishing",
+    "altLabel": [
+      "Salt water fishing",
+      "Sea fishing"
+    ]
+  },
+  "REAL010577": {
+    "prefLabel": "Lagomorphs",
+    "altLabel": []
+  },
+  "REAL004596": {
+    "prefLabel": "White-tailed eagles",
+    "altLabel": [
+      "Eurasian sea eagles",
+      "Haliaeetus albicilla",
+      "Gray eagle",
+      "White-tailed sea-eagles"
+    ]
+  },
+  "REAL012652": {
+    "prefLabel": "Mires",
+    "altLabel": [
+      "Quagmires",
+      "Fens",
+      "Peat lands",
+      "Marshes",
+      "Peat bogs",
+      "Bogs"
+    ]
+  },
+  "REAL001997": {
+    "prefLabel": "Heaths",
+    "altLabel": [
+      "Heathlands"
+    ]
+  },
+  "REAL012812": {
+    "prefLabel": "Marine beaches",
+    "altLabel": [
+      "Sea shores",
+      "Ocean beaches"
+    ]
+  },
+  "REAL003236": {
+    "prefLabel": "Grey seals",
+    "altLabel": [
+      "Atlantic seals",
+      "Atlantic seal",
+      "Horsehead seals",
+      "Gray seals",
+      "Gray seal"
+    ]
+  },
+  "REAL011706": {
+    "prefLabel": "Accipitriformes",
+    "altLabel": []
+  },
+  "REAL002057": {
+    "prefLabel": "Marine flora",
+    "altLabel": [
+      "Ocean flora"
+    ]
+  },
+  "REAL000147": {
+    "prefLabel": "Rabbit fish",
+    "altLabel": [
+      "Rat fish"
+    ]
+  },
+  "REAL004840": {
+    "prefLabel": "Mariculture",
+    "altLabel": [
+      "Sea farming"
+    ]
+  },
+  "REAL002466": {
+    "prefLabel": "Herons",
+    "altLabel": []
+  },
+  "REAL031340": {
+    "prefLabel": "Accipitridae",
+    "altLabel": [
+      "Hawks"
+    ]
+  },
+  "REAL011816": {
+    "prefLabel": "Neck",
+    "altLabel": []
+  },
+  "REAL001811": {
+    "prefLabel": "Sea otters",
+    "altLabel": []
+  }
+}
