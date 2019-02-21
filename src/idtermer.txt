@@ -12846,6 +12846,7 @@ id= REAL001509
 te= Fiberbunter
 ba= nm
 nn= Fiberbuntar
+en= Fibre bundles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001511
@@ -13357,6 +13358,7 @@ id= REAL001572
 te= Hekkefugler
 ba= nb
 nn= Hekkefuglar
+en= Breeding birds
 tio= 2014-08-25T00:00:00Z
 st= REAL017328
 st= REAL020156
@@ -22903,6 +22905,9 @@ id= REAL002698
 te= Hormonhermere
 ba= nb
 nn= Hormonhermarar
+en= Xenohormones
+en= Hormone mimickers
+en= Endocrine disruptors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002699
@@ -23857,6 +23862,7 @@ id= REAL002804
 te= Nutasjon
 ba= na
 nn= Nutasjon
+en= Nutation
 tio= 2014-08-25T00:00:00Z
 st= REAL025408
 
@@ -24114,6 +24120,8 @@ bf= Fjærekollfamilien
 nn= Hinnebegerfamilien
 nn= Fjørekollfamilien
 en= Leadworts
+en= Leadwort family
+en= Plumbago family
 la= Plumbaginaceae
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-27T13:19:31Z
@@ -31254,6 +31262,7 @@ te= Filmvitenskap
 ba= ns
 ot= REAL002119
 nn= Filmvitskap
+en= Film studies
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T09:11:15Z
 
@@ -31745,6 +31754,7 @@ id= REAL003734
 te= Nyttedyr
 ba= nb
 nn= Nyttedyr
+en= Beneficial organisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003736
@@ -32855,6 +32865,7 @@ ba= ns
 bf= Naturfotografi
 nn= Naturfotografering
 nn= Naturfotografi
+en= Nature photography
 tio= 2014-08-25T00:00:00Z
 st= REAL019647
 st= REAL020979
@@ -34318,6 +34329,7 @@ te= Neandertalere
 ba= nb
 ba= ns
 nn= Neandertalarar
+en= Neanderthals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004047
@@ -34733,6 +34745,8 @@ bf= Hjernesykdommer
 nn= Nevropatologi
 nn= Hjernesjukdomar
 nn= Hjernesjukdommar
+en= Neuropathology
+en= Brain diseases
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T18:38:12Z
 
@@ -44849,6 +44863,10 @@ id= REAL005342
 te= Hornkoraller
 ba= ns
 nn= Hornkorallar
+en= Sea fans
+en= Alcyonacea
+en= Sea whips
+en= Gorgonians
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005343
@@ -45252,6 +45270,7 @@ id= REAL005395
 te= Hekker
 ba= nq
 nn= Hekkar
+en= Hedges
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005396
@@ -58799,6 +58818,8 @@ te= Fire-mangfoldigheter
 ba= nm
 nn= Fire-mangfald
 nn= 4-mangfald
+en= Four-manifolds
+en= 4-manifolds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006974
@@ -59072,6 +59093,7 @@ ba= ngh
 bf= Trefelling
 nn= Hogst
 nn= Trefelling
+en= Logging
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T18:41:08Z
 
@@ -61773,6 +61795,7 @@ te= Naturfenomener
 ba= nb
 ba= ns
 nn= Naturfenomen
+en= Natural phenomena
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007337
@@ -63067,6 +63090,7 @@ nn= Nyrer
 nn= Nyra
 nn= Nyre
 nn= Nyrene
+en= Kidneys
 tio= 2014-08-25T00:00:00Z
 st= REAL014532
 
@@ -64169,6 +64193,7 @@ bf= Finansvesen
 nn= Finansøkonomi
 nn= Finansar
 nn= Finansvesen
+en= Finance
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-21T19:43:13Z
 
@@ -69467,6 +69492,7 @@ ba= nb
 bf= Plantesugere
 nn= Homoptera
 nn= Plantesugarar
+en= Homoptera
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008265
@@ -71871,6 +71897,7 @@ ba= na
 so= REAL009559
 so= REAL010818
 nn= Okkultasjonar
+en= Occultations
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T19:09:44Z
 
@@ -72489,6 +72516,8 @@ ba= ns
 bf= Fysikkens lover
 nn= Naturlover
 nn= Dei fysiske lovene
+en= Physical laws
+en= Scientific laws
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-20T21:15:35Z
 
@@ -72732,6 +72761,8 @@ id= REAL008641
 te= Hjortetrøst
 ba= ns
 nn= Hjortetrøyst
+en= Hemp-agrimony
+en= Holy rope
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008642
@@ -73063,6 +73094,7 @@ ba= nb
 bf= Hjortevilt
 nn= Hjortejakt
 nn= Hjortevilt
+en= Deer hunting
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008669
@@ -73624,6 +73656,7 @@ te= Nyresykdommer
 ba= ne
 nn= Nyresjukdomar
 nn= Nyresjukdommar
+en= Kidney diseases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008738
@@ -75979,6 +76012,7 @@ id= REAL009024
 te= Finanspolitikk
 ba= nm
 nn= Finanspolitikk
+en= Fiscal policy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009025
@@ -83993,6 +84027,9 @@ id= REAL009983
 te= Fjernvarme
 ba= ngh
 nn= Fjernvarme
+en= District heating
+en= Teleheating
+en= Heat networks
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009984
@@ -84556,6 +84593,7 @@ id= REAL010043
 te= Oftalmologi
 ba= nf
 nn= Oftalmologi
+en= Ophthalmology
 tio= 2014-08-25T00:00:00Z
 st= REAL014068
 st= REAL022700
@@ -87153,6 +87191,7 @@ te= Heivegetasjon
 ba= nk
 ba= nq
 nn= Heivegetasjon
+en= Heath vegetation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010338
@@ -93607,6 +93646,8 @@ id= REAL011168
 te= Finmekanikk
 ba= nf
 nn= Finmekanikk
+en= Precision mechanics
+en= Fine mechanics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011169
@@ -113638,6 +113679,7 @@ id= REAL013216
 te= Hettesopper
 ba= nq
 nn= Hettesoppar
+en= Mycena
 la= Mycena
 tio= 2014-08-25T00:00:00Z
 
@@ -113645,6 +113687,8 @@ id= REAL013217
 te= Honningsopper
 ba= nq
 nn= Honningsoppar
+en= Armillaria
+en= Honey fungus
 la= Armillaria
 tio= 2014-08-25T00:00:00Z
 
