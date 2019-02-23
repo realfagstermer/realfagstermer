@@ -2543,9 +2543,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000294
 te= Ekstrasolare terrestriske planeter
-ba= na
-nn= Ekstrasolare terrestriske planetar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T22:02:54Z
+fly= REAL012231
 
 id= REAL000295
 te= Kvalitetskontroll
@@ -26704,11 +26704,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003130
 te= Funksjonslære
-ba= ni
-ba= nm
-nn= Funksjonslære
 tio= 2014-08-25T00:00:00Z
-st= REAL023603
+tis= 2019-02-23T00:16:22Z
 
 id= REAL003131
 te= Fotonikk
@@ -35739,9 +35736,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004206
 te= Bæreteknikk
-ba= nm
-nn= Bereteknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T21:38:20Z
 
 id= REAL004207
 te= Ulykker
@@ -50481,7 +50477,6 @@ ba= nk
 ba= nb
 nn= Utdanningsinstitusjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL020848
 
 id= REAL006016
 te= Oppfinnere
@@ -53321,9 +53316,8 @@ tie= 2018-09-30T16:37:35Z
 
 id= REAL006346
 te= Engelsk filosofi
-ba= nm
-nn= Engelsk filosofi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T22:30:30Z
 
 id= REAL006347
 te= Homotopi
@@ -57060,10 +57054,8 @@ tis= 2018-03-16T18:12:43Z
 
 id= REAL006757
 te= Faselikevekter
-ba= nk
-nn= Fasejamvekter
-nn= Faselikevekter
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T23:48:29Z
 
 id= REAL006758
 te= Faststofflære
@@ -60435,10 +60427,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007156
 te= Faser
-ba= nk
-ba= nf
-nn= Fasar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T23:51:06Z
 
 id= REAL007157
 te= Basaltisk grunn
@@ -60775,9 +60765,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007199
 te= Elektriske koblinger
-ba= nm
-nn= Elektriske koplingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T22:17:19Z
 
 id= REAL007200
 te= Utdanningspolitikk
@@ -63614,10 +63603,8 @@ st= REAL019160
 
 id= REAL007536
 te= Fe-linjer
-ba= na
-nn= Fe-liner
-nn= Fe-linjer
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T23:54:03Z
 
 id= REAL007537
 te= Syntetisk gummi
@@ -89822,9 +89809,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010657
 te= Bæresystemer
-ba= nm
-nn= Beresystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T21:37:54Z
 
 id= REAL010658
 te= Profesjonsetikk
@@ -93097,9 +93083,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011079
 te= Elementære funksjoner
-ba= nm
-nn= Elementære funksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T22:24:18Z
 
 id= REAL011080
 te= Ekkolodd
@@ -95536,9 +95521,8 @@ tie= 2015-03-09T09:46:22Z
 
 id= REAL011384
 te= Medisinering
-ba= ns
-nn= Medisinering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-23T00:19:55Z
 
 id= REAL011385
 te= Algebraisk spesifikasjon
@@ -100830,9 +100814,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011987
 te= Ekstrasolare planetsystemer
-ba= na
-nn= Ekstrasolare planetsystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T22:02:06Z
+fly= REAL012231
 
 id= REAL011988
 te= Virussykdommer
@@ -102723,10 +102707,13 @@ id= REAL012231
 te= Ekstrasolare planeter
 ba= na
 bf= Eksoplaneter
+bf= Ekstrasolare terrestriske planeter
 nn= Ekstrasolare planetar
 nn= Eksoplanetar
+nn= Ekstrasolare terrestriske planetar
 en= Exoplanets
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-22T22:02:15Z
 st= REAL018154
 st= REAL020917
 
@@ -102760,7 +102747,6 @@ st= REAL015626
 st= REAL016159
 st= REAL020690
 st= REAL023171
-st= REAL024847
 st= REAL031387
 st= REAL031562
 
@@ -106849,14 +106835,8 @@ st= REAL018926
 
 id= REAL012597
 te= Endringer
-ba= ni
-ba= nb
-ba= ngh
-bf= Forandringer
-nn= Endringar
-nn= Forandringar
 tio= 2014-08-25T00:00:00Z
-st= REAL024999
+tis= 2019-02-22T22:27:41Z
 
 id= REAL012598
 te= Energiforbruk
@@ -109292,8 +109272,8 @@ st= REAL020880
 
 id= REAL012772
 te= Ekspertvitner
-nn= Ekspertvitne
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-22T21:55:02Z
 
 id= REAL012773
 te= Flatskjermer
