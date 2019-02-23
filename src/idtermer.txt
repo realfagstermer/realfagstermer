@@ -7610,6 +7610,7 @@ id= REAL000903
 te= Strålevern
 ba= nk
 ba= nf
+bf= Strålebeskyttelse
 bf= Strålingshygiene
 nn= Strålevern
 nn= Strålingshygiene
@@ -14706,7 +14707,10 @@ ba= nk
 ba= nb
 ba= ne
 ba= ns
+bf= Uorganisk strukturkjemi
+ut= REAL007225
 nn= Strukturkjemi
+nn= Uorganisk strukturkjemi
 en= Structural chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL016956
@@ -16743,13 +16747,14 @@ ba= nk
 ba= nf
 ba= ns
 bf= Nukleærkjemi
-so= REAL009373
-so= REAL006620
+ut= REAL009373
+ut= REAL006620
+ut= REAL011614
 nn= Kjernekjemi
 nn= Nukleærkjemi
 en= Nuclear chemistry
 tio= 2014-08-25T00:00:00Z
-tie= 2019-02-06T19:33:49Z
+tie= 2019-02-23T18:46:48Z
 st= REAL023217
 st= REAL028368
 st= REAL029438
@@ -25273,10 +25278,8 @@ st= REAL031954
 
 id= REAL002959
 te= Syntetiske polymerer
-ba= nk
-nn= Syntetiske polymerar
 tio= 2014-08-25T00:00:00Z
-st= REAL017251
+tis= 2019-02-23T18:50:05Z
 
 id= REAL002960
 te= Snømus
@@ -27819,9 +27822,9 @@ tie= 2017-03-01T19:26:12Z
 
 id= REAL003275
 te= Uorganisk strukturkjemi
-ba= nk
-nn= Uorganisk strukturkjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-23T18:24:08Z
+fly= REAL001735
 
 id= REAL003276
 te= Dendroklimatologi
@@ -28251,10 +28254,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003333
 te= Molekylærastronomi
-ba= nk
-ba= na
-nn= Molekylærastronomi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-23T00:24:51Z
+fly= REAL007950
 
 id= REAL003334
 te= Avløpsvann
@@ -40320,7 +40322,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004771
 te= Molekylmekanikk
 ba= nk
+bf= Molekylær mekanikk
 nn= Molekylmekanikk
+nn= Molekylær mekanikk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004772
@@ -42764,9 +42768,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005070
 te= Molekylær mekanikk
-ba= nk
-nn= Molekylær mekanikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-23T18:56:27Z
+fly= REAL004771
 
 id= REAL005071
 te= Stefan-problemer
@@ -49246,9 +49250,9 @@ tie= 2017-03-13T11:42:57Z
 
 id= REAL005864
 te= Strålebeskyttelse
-ba= nk
-nn= Strålevern
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-23T18:35:53Z
+fly= REAL000903
 
 id= REAL005865
 te= Klinisk legevitenskap
@@ -55874,11 +55878,11 @@ fly= REAL006887
 id= REAL006620
 te= Anvendt kjernekjemi
 ba= nk
-so= REAL001987
+ot= REAL001987
 nn= Bruksretta kjernekjemi
 en= Applied nuclear chemistry
 tio= 2014-08-25T00:00:00Z
-tie= 2019-02-06T19:33:50Z
+tie= 2019-02-23T18:39:59Z
 
 id= REAL006621
 te= Reelle variabler
@@ -60945,6 +60949,7 @@ id= REAL007225
 te= Organisk strukturkjemi
 ba= nk
 ba= ns
+ot= REAL001735
 nn= Organisk strukturkjemi
 en= Organic structural chemistry
 tio= 2014-08-25T00:00:00Z
@@ -63743,9 +63748,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007552
 te= Molekylær kapillarteori
-ba= nk
-nn= Molekylær kapillarteori
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-23T18:57:50Z
 
 id= REAL007553
 te= Faktureringssystemer
@@ -66906,7 +66910,9 @@ te= Astrokjemi
 ba= nk
 ba= na
 ba= nc
+bf= Molekylærastronomi
 nn= Astrokjemi
+nn= Molekylærastronomi
 en= Astrochemistry
 tio= 2014-08-25T00:00:00Z
 
@@ -79021,10 +79027,11 @@ te= Radiokjemi
 ba= nk
 ba= na
 ba= nb
-so= REAL001987
+ot= REAL001987
 nn= Radiokjemi
 en= Radiochemistry
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-23T18:39:38Z
 st= REAL014899
 st= REAL015328
 st= REAL015961
@@ -97464,9 +97471,10 @@ id= REAL011614
 te= Strålingskjemi
 ba= nk
 ba= nf
+ot= REAL001987
 nn= Strålingskjemi
 tio= 2014-08-25T00:00:00Z
-st= REAL016137
+tie= 2019-02-23T18:46:48Z
 
 id= REAL011615
 te= Planteliv
@@ -99519,9 +99527,8 @@ st= REAL028895
 
 id= REAL011835
 te= Strukturindekser
-ba= nk
-nn= Strukturindeksar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-23T18:50:31Z
 
 id= REAL011836
 te= Masere
