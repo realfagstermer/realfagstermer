@@ -5394,7 +5394,6 @@ ba= ni
 bf= Casl
 bf= CafeOBJ
 so= REAL006461
-so= REAL006867
 nn= Spesifikasjonsspråk
 nn= CafeOBJ
 nn= Casl
@@ -5862,13 +5861,16 @@ tio= 2014-08-25T00:00:00Z
 tie= 2018-02-23T15:45:55Z
 
 id= REAL000687
-te= Informasjonssamfunnet
+te= Informasjonssamfunn
 ba= ni
 ba= ngh
 ba= ns
-nn= Informasjonssamfunnet
+so= REAL009086
+so= REAL003319
+nn= Informasjonssamfunn
 en= Information society
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-24T09:35:28Z
 
 id= REAL000688
 te= Etsing
@@ -17023,9 +17025,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002013
 te= Datamanipulasjon
-ba= nm
-nn= Datamanipulasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-24T09:27:45Z
 
 id= REAL002014
 te= Intervaller
@@ -21695,7 +21696,6 @@ st= REAL017431
 st= REAL018982
 st= REAL019196
 st= REAL019249
-st= REAL019931
 st= REAL022472
 st= REAL022553
 st= REAL022555
@@ -27856,9 +27856,8 @@ tie= 2015-07-10T12:50:10Z
 
 id= REAL003278
 te= Databasesynkronisering
-ba= ni
-nn= Databasesynkronisering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-24T09:25:21Z
 
 id= REAL003279
 te= Eksitotoksisitet
@@ -28141,10 +28140,12 @@ tio= 2014-08-25T00:00:00Z
 tis= 2017-10-06T16:05:32Z
 
 id= REAL003319
-te= Kunnskapssamfunnet
+te= Kunnskapssamfunn
 ba= ns
-nn= Kunnskapssamfunnet
+so= REAL000687
+nn= Kunnskapssamfunn
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-24T09:35:28Z
 
 id= REAL003320
 te= Klimakterium
@@ -43945,12 +43946,14 @@ ba= na
 ba= nm
 ba= ns
 bf= Datapålitelighet
+ut= REAL032084
 nn= Datatryggleik
 nn= Datapålitelegheit
 nn= Datapålitelegskap
 nn= Datasikkerheit
 en= Computer security
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-24T10:11:00Z
 st= REAL016648
 st= REAL018639
 st= REAL029320
@@ -52405,9 +52408,8 @@ tis= 2018-07-19T17:35:43Z
 
 id= REAL006249
 te= Datasamfunnet
-ba= ngh
-nn= Datasamfunnet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-24T09:39:16Z
 
 id= REAL006250
 te= Cellelinjer
@@ -57972,10 +57974,9 @@ fly= REAL005197
 
 id= REAL006867
 te= Estelle
-ba= ni
-nn= Estelle
 de= Spesifikasjonsspråk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-24T08:47:18Z
 
 id= REAL006868
 te= Approksimasjonsalgoritmer
@@ -62399,9 +62400,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007403
 te= Boltzmann-metoder
-ba= ni
-nn= Boltzmann-metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-24T09:18:31Z
 
 id= REAL007404
 te= Strømvirvler
@@ -63431,9 +63431,9 @@ st= REAL030036
 
 id= REAL007515
 te= Dataadministrasjon
-ba= ni
-nn= Dataadministrasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-24T09:24:26Z
+fly= REAL032077
 
 id= REAL007517
 te= Liquid chromatography time-of-flight
@@ -75431,9 +75431,11 @@ te= Sårbarhetsanalyse
 ba= ni
 bf= Population viability analysis
 ak= PVA
+no= OBS: biologi. For IT-sikkerhet, se Sårbarhetstesting
 nn= Sårbarheitsanalyse
 nn= Populasjonsviabilitetsanalyse
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-24T10:12:11Z
 
 id= REAL008943
 te= Tanglus
@@ -76742,10 +76744,12 @@ tio= 2014-08-25T00:00:00Z
 st= REAL025376
 
 id= REAL009086
-te= Nettverksamfunnet
+te= Nettverksamfunn
 ba= ni
-nn= Nettverksamfunnet
+so= REAL000687
+nn= Nettverksamfunn
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-24T09:31:53Z
 
 id= REAL009087
 te= Øygrupper
@@ -79395,9 +79399,9 @@ tie= 2018-03-15T10:44:05Z
 
 id= REAL009421
 te= Store databaser
-ba= ni
-nn= Store databasar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-24T09:52:52Z
+fly= REAL013921
 
 id= REAL009422
 te= Automatisering
@@ -101703,8 +101707,10 @@ bf= Statistisk signalanalyse
 nn= Statistisk signalhandsaming
 nn= Statistisk signalbehandling
 nn= Statistisk signalanalyse
+en= Statistical signal processing
 en= Statistical signal analysis
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-24T09:53:28Z
 
 id= REAL012107
 te= Relasjonsmodeller
@@ -124879,9 +124885,11 @@ te= Stordata
 ba= ni
 bf= Ovdata
 bf= Store datamengder
+bf= Store databaser
 nn= Store datamengder
 nn= Ovdata
 nn= Stordata
+nn= Store databasar
 en= Big data
 en= Large data sets
 tio= 2014-08-25T00:00:00Z
@@ -130498,11 +130506,13 @@ id= REAL032077
 te= Forskningsdatahåndtering
 bf= Vitenskapelige data
 bf= Forskningsdata
+bf= Dataadministrasjon
 so= REAL004143
 nn= Forskingsdatahandsaming
 nn= Forskingsdata
 nn= Vitskaplege data
 nn= Vitskapelege data
+nn= Dataadministrasjon
 en= Research data management
 en= Research data
 en= Scientific data
@@ -130558,4 +130568,16 @@ ot= REAL003578
 de= Utvikling av web-applikasjoner som kjører på serversida
 tio= 2019-02-21T11:09:32Z
 tie= 2019-02-21T11:10:17Z
+
+id= REAL032084
+te= Sårbarhetstesting
+bf= Sårbarhetsanalyse (informatikk)
+ot= REAL005212
+nn= Sårbarheitstesting
+nn= Sårbarheitsanalyse (informatikk)
+en= Vulnerability testing
+en= Vulnerability assessments
+en= Vulnerability scanning
+tio= 2019-02-24T10:07:25Z
+tie= 2019-02-24T10:11:00Z
 
