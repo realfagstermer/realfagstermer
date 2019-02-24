@@ -4912,6 +4912,8 @@ id= REAL000566
 te= Elektronstråler
 ba= nf
 nn= Elektronstrålar
+en= Electron beams
+en= Electron sources
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000567
@@ -16522,6 +16524,7 @@ id= REAL001958
 te= Strålingsfare
 ba= nk
 nn= Strålingsfare
+en= Radiation hazard
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001959
@@ -19943,6 +19946,8 @@ id= REAL002343
 te= Spiraner
 ba= nk
 nn= Spiran
+en= Spiranes
+en= Spiro compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002344
@@ -24923,6 +24928,7 @@ id= REAL002918
 te= Felleskatalogen
 ba= ne
 nn= Felleskatalogen
+en= Felleskatalogen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002919
@@ -27473,6 +27479,7 @@ te= Molekylær gjenkjennelse
 ba= nk
 nn= Molekylær gjenkjenning
 nn= Molekylær attkjenning
+en= Molecular recognition
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003230
@@ -35374,6 +35381,7 @@ id= REAL004160
 te= Elementær tallteori
 ba= nm
 nn= Elementær talteori
+en= Elementary number theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004162
@@ -35728,6 +35736,7 @@ te= Smøring
 ba= nk
 ba= nf
 nn= Smøring
+en= Lubrication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004205
@@ -36907,6 +36916,7 @@ id= REAL004343
 te= Prosesskjemi
 ba= nk
 nn= Prosesskjemi
+en= Process chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL027927
 
@@ -40325,6 +40335,7 @@ ba= nk
 bf= Molekylær mekanikk
 nn= Molekylmekanikk
 nn= Molekylær mekanikk
+en= Molecular mechanics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004772
@@ -44748,6 +44759,7 @@ ba= nk
 ba= nb
 ba= nf
 nn= Strålingsskadar
+en= Radiation damage
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005321
@@ -50929,6 +50941,7 @@ so= REAL003743
 nn= Strålingskjelder
 nn= Radioaktive strålingskjelder
 en= Radioactive sources
+en= Radiation sources
 de= Materiale som inneholder radionuklider
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-16T11:59:09Z
@@ -53077,6 +53090,9 @@ id= REAL006326
 te= Elektronisk næringsliv
 ba= ni
 nn= Elektronisk næringsliv
+en= Electronic business
+en= E-business
+en= Online business
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006327
@@ -55304,6 +55320,7 @@ id= REAL006551
 te= Scintillasjonstellere
 ba= nk
 nn= Scintillasjonstellarar
+en= Scintillation counters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006552
@@ -56102,6 +56119,7 @@ id= REAL006651
 te= Datakortet
 ba= ns
 nn= Datakortet
+en= Datakortet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006652
@@ -57049,6 +57067,7 @@ id= REAL006755
 te= Syklopropanering
 ba= nk
 nn= Syklopropanering
+en= Cyclopropanation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006756
@@ -59306,6 +59325,7 @@ id= REAL007023
 te= Varmevekslere
 ba= nk
 nn= Varmevekslarar
+en= Heat exchangers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007024
@@ -66451,6 +66471,7 @@ id= REAL007892
 te= Syntetisk resin
 ba= nk
 nn= Syntetisk resin
+en= Synthetic resin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007893
@@ -83884,6 +83905,7 @@ id= REAL009956
 te= ER-analyse
 ba= ni
 nn= ER-analyse
+en= Entity–relationship analysis
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-02T11:48:18Z
 
@@ -83891,6 +83913,7 @@ id= REAL009957
 te= Eksperimentell informatikk
 ba= ni
 nn= Eksperimentell informatikk
+en= Experimental informatics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009958
@@ -87061,6 +87084,7 @@ id= REAL010307
 te= Ugelstadkuler
 ba= nk
 nn= Ugelstadkuler
+en= Ugelstad beads
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010308
@@ -89332,6 +89356,14 @@ ba= nk
 ba= nb
 ba= ne
 nn= Smaksstoff
+en= Flavourants
+en= Flavoring agents
+en= Flavorings
+en= Flavourings
+en= Flavors
+en= Flavouring agents
+en= Flavorants
+en= Flavours
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010601
@@ -91291,6 +91323,7 @@ id= REAL010853
 te= Uorganisk analyse
 ba= nk
 nn= Uorganisk analyse
+en= Inorganic analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010855
@@ -91921,6 +91954,7 @@ te= Prosessindustri
 ba= ni
 ba= nk
 nn= Prosessindustri
+en= Process industry
 tio= 2014-08-25T00:00:00Z
 st= REAL028826
 
@@ -97053,6 +97087,7 @@ id= REAL011565
 te= Spektrokjemisk analyse
 ba= nk
 nn= Spektrokjemisk analyse
+en= Spectrochemical analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011566
@@ -97473,6 +97508,7 @@ ba= nk
 ba= nf
 ot= REAL001987
 nn= Strålingskjemi
+en= Radiation chemistry
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-23T18:46:48Z
 
@@ -111735,6 +111771,7 @@ ba= nk
 ba= nb
 so= REAL013010
 nn= Radiomerking
+en= Radio tagging
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013010
@@ -121734,6 +121771,7 @@ so= REAL012732
 so= REAL012745
 no= Bruk muslinger eller bløtdyr for å beskrive det som ikke er skjell i betydningen hudlag (f.eks. fiskeskjell)
 nn= Skjel
+en= Scales
 de= Plateformede huddannelser som helt eller delvis dekker kroppen hos mange dyr
 tio= 2014-08-25T00:00:00Z
 
@@ -130210,6 +130248,12 @@ bf= Profesjonell gaming
 so= REAL032054
 so= REAL005848
 no= alt rundt e-sport, fra utøvere til tilskuere, pengeflyt, platformer, serverløsninger, osv.
+en= E-sports
+en= Electronic sports
+en= Pro gaming
+en= Cyber-sports
+en= Esports
+en= Professional gaming
 tio= 2018-11-02T21:40:26Z
 tie= 2018-11-02T21:44:22Z
 
