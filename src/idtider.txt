@@ -125,6 +125,7 @@ ba= nb
 bf= Romersk antikk
 bf= Romersk periode
 bf= Romersk tid
+en= Roman antiquity
 de= Periode i Europas historie, ca 700 f.Kr. - 500 e.Kr. [UBO]
 tio= 2015-02-20T13:08:04Z
 

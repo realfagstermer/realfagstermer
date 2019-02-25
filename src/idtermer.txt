@@ -2653,6 +2653,8 @@ ba= ni
 bf= Generering av naturlig språk
 nn= Tekstgenerering
 nn= Generering av naturleg språk
+en= Text generation
+en= Natural language generation
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T10:14:28Z
 
@@ -2808,6 +2810,7 @@ te= Sobolevrom
 ba= ni
 ba= nm
 nn= Sobolevrom
+en= Sobolev spaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000330
@@ -3585,6 +3588,8 @@ ba= ni
 ak= UUCP
 nn= Unix-til-unix-kopi
 nn= Unix-to-unix-copy
+en= Unix-to-unix-copy
+en= UUCP
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000423
@@ -5133,6 +5138,7 @@ id= REAL000590
 te= Kjernemetoder
 ba= ni
 nn= Kjernemetodar
+en= Kernel methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000591
@@ -5663,6 +5669,7 @@ id= REAL000662
 te= Sjøsalter
 ba= nk
 nn= Sjøsalt
+en= Sea salts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000663
@@ -7932,6 +7939,7 @@ te= Internkontroll
 ba= nk
 ba= ns
 nn= Internkontroll
+en= Internal control
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000934
@@ -9264,6 +9272,7 @@ id= REAL001079
 te= Rhodiumkatalysatorer
 ba= nk
 nn= Rhodiumkatalysatorar
+en= Rhodium catalysts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001080
@@ -12574,6 +12583,7 @@ id= REAL001470
 te= Strålingstransport
 ba= na
 nn= Strålingstransport
+en= Radiative transfer
 tio= 2014-08-25T00:00:00Z
 st= REAL014842
 st= REAL022940
@@ -15142,6 +15152,7 @@ ba= ni
 bf= Pakkesvitsj
 nn= Pakkesvitsjing
 nn= Pakkesvitsj
+en= Packet switching
 tio= 2014-08-25T00:00:00Z
 tie= 2018-11-30T11:02:39Z
 
@@ -20031,6 +20042,7 @@ id= REAL002353
 te= Hypertalk
 ba= ni
 nn= Hypertalk
+en= Hypertalk
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -20347,6 +20359,8 @@ id= REAL002392
 te= Marihøner
 ba= nb
 nn= Marihøner
+en= Ladybugs
+en= Ladybirds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002394
@@ -21004,6 +21018,7 @@ id= REAL002471
 te= Verdiøkende tjenester
 ba= ni
 nn= Verdiaukande tenester
+en= Value-added services
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002472
@@ -21184,6 +21199,8 @@ ba= ni
 ak= PDF
 nn= PDF
 nn= Portable Document Format
+en= Portable document format
+en= PDF
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002494
@@ -21198,6 +21215,7 @@ id= REAL002495
 te= Semantisk representasjon
 ba= ni
 nn= Semantisk representasjon
+en= Semantic representation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002496
@@ -22311,6 +22329,7 @@ te= Sakprosa
 ba= nm
 ba= ns
 nn= Sakprosa
+en= Non-fiction
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002615
@@ -23092,6 +23111,7 @@ id= REAL002712
 te= Siamesiske tvillinger
 ba= ns
 nn= Siamesiske tvillingar
+en= Conjoined twins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002713
@@ -23136,6 +23156,8 @@ ba= ni
 bf= Programkrav
 nn= Programspesifikasjon
 nn= Programkrav
+en= Software specification
+en= Software requirements
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002720
@@ -23342,6 +23364,7 @@ id= REAL002739
 te= Sjømerker
 ba= ns
 nn= Sjømerke
+en= Sea marks
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002740
@@ -23476,6 +23499,8 @@ nn= R4000
 nn= R4400
 nn= R8000
 nn= Rs6000
+en= Reduced instruction set computing
+en= RISC
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002756
@@ -24122,6 +24147,7 @@ id= REAL002830
 te= Internasjonal kriminalitet
 ba= ns
 nn= Internasjonal kriminalitet
+en= International crime
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002832
@@ -24835,6 +24861,7 @@ bf= Ruting
 so= REAL002279
 nn= Rutarar
 nn= Ruting
+en= Routers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002903
@@ -26078,6 +26105,7 @@ id= REAL003059
 te= Reaksjonskromatografi
 ba= nk
 nn= Reaksjonskromatografi
+en= Reaction chromatography
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003060
@@ -27111,6 +27139,8 @@ ba= ni
 bf= Information Technology Infrastructure Library
 nn= ITIL
 nn= Information Technology Infrastructure Library
+en= Information Technology Infrastructure Library
+en= ITIL
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-26T14:26:03Z
 
@@ -27459,6 +27489,9 @@ ba= nk
 bf= Separasjonsteknikk
 nn= Separasjonsmetodar
 nn= Separasjonsteknikk
+en= Separation methods
+en= Separation processes
+en= Separation techniques
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003227
@@ -28148,6 +28181,7 @@ te= Kunnskapssamfunn
 ba= ns
 so= REAL000687
 nn= Kunnskapssamfunn
+en= Knowledge society
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T09:35:28Z
 
@@ -29685,6 +29719,7 @@ te= Snø
 ba= nb
 ba= nc
 nn= Snø
+en= Snow
 tio= 2014-08-25T00:00:00Z
 st= REAL023313
 st= REAL028526
@@ -29725,6 +29760,8 @@ te= Skallmodellen
 ba= nk
 ba= nf
 nn= Skalmodellen
+en= Nuclear shell model
+en= Shell model
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003496
@@ -30779,6 +30816,7 @@ id= REAL003611
 te= Mellomlagring
 ba= ni
 nn= Mellomlagring
+en= Caching
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003612
@@ -34128,6 +34166,7 @@ te= S-plus
 ba= nb
 ba= nm
 nn= S-plus
+en= S-PLUS
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004015
@@ -34218,6 +34257,7 @@ nn= Ramseyteori
 nn= Ramseymengder
 nn= Ramseyrom
 nn= Ramseytal
+en= Ramsey theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004026
@@ -36114,6 +36154,7 @@ id= REAL004252
 te= Horn-logikk
 ba= ni
 nn= Horn-logikk
+en= Horn logic
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004253
@@ -36224,6 +36265,7 @@ te= Syntaks
 ba= ni
 ba= nm
 nn= Syntaks
+en= Syntax
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004259
@@ -37873,6 +37915,7 @@ te= Prosesskontroll
 ba= ni
 ba= nk
 nn= Prosesskontroll
+en= Process control
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004463
@@ -38166,6 +38209,7 @@ id= REAL004495
 te= Simulink
 ba= ni
 nn= Simulink
+en= Simulink
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004496
@@ -40148,6 +40192,7 @@ id= REAL004748
 te= VAX/VMS
 ba= ni
 nn= VAX/VMS
+en= VAX/VMS
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-31T20:48:46Z
@@ -40756,6 +40801,7 @@ id= REAL004820
 te= Reelle tall
 ba= nm
 nn= Reelle tal
+en= Real numbers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004821
@@ -40969,6 +41015,8 @@ id= REAL004846
 te= Prosessalgebraer
 ba= ni
 nn= Prosessalgebraer
+en= Process algebras
+en= Process calculi
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004847
@@ -43859,6 +43907,7 @@ id= REAL005200
 te= Stellar koronagrafi
 ba= na
 nn= Stellar koronagrafi
+en= Stellar coronagraphy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005201
@@ -44087,6 +44136,8 @@ bf= Backup
 nn= Tryggleikskopiering
 nn= Backup
 nn= Sikkerheitskopiering
+en= Backup
+en= Data backup
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005231
@@ -44389,6 +44440,7 @@ id= REAL005272
 te= Samisk tegnsett
 ba= ni
 nn= Samisk teiknsett
+en= Sami character sets
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005273
@@ -48654,6 +48706,8 @@ bf= Kunnskapsfangst
 so= REAL001061
 nn= Kunnskapsinnsamling
 nn= Kunnskapsfangst
+en= Knowledge acquisition
+en= Knowledge discovery
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005792
@@ -49077,6 +49131,7 @@ ba= nm
 ba= ns
 no= I programmeringsspråk
 nn= Semantikk
+en= Semantics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005840
@@ -49476,6 +49531,7 @@ id= REAL005895
 te= Solaris
 ba= ni
 nn= Solaris
+en= Solaris
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
 
@@ -53039,6 +53095,7 @@ ba= ne
 ba= nf
 ot= REAL010012
 nn= Scintillatorar
+en= Scintillators
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-17T14:39:42Z
 
@@ -53226,6 +53283,7 @@ id= REAL006332
 te= Sfærisk astronomi
 ba= na
 nn= Sfærisk astronomi
+en= Spherical astronomy
 tio= 2014-08-25T00:00:00Z
 st= REAL016746
 st= REAL018887
@@ -54466,6 +54524,7 @@ id= REAL006462
 te= Induktiv logikk
 ba= nm
 nn= Induktiv logikk
+en= Inductive logic
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006463
@@ -54658,6 +54717,7 @@ id= REAL006475
 te= Semigrupper
 ba= nm
 nn= Semigrupper
+en= Semigroups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006476
@@ -55402,6 +55462,7 @@ id= REAL006558
 te= Paragon
 ba= ni
 nn= Paragon
+en= Paragon
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -55949,6 +56010,7 @@ id= REAL006625
 te= Simscript
 ba= ni
 nn= Simscript
+en= SIMSCRIPT
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006626
@@ -56111,6 +56173,7 @@ te= Systemprogrammering
 ba= nk
 ba= nm
 nn= Systemprogrammering
+en= System programming
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006648
@@ -56855,6 +56918,8 @@ ut= REAL011424
 no= Kunstige, ikke naturlige
 nn= Satellittar
 nn= Kunstige satellittar
+en= Satellites
+en= Artificial satellites
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-29T20:28:50Z
 st= REAL015481
@@ -57773,6 +57838,7 @@ id= REAL006843
 te= Prosessorarkitektur
 ba= ni
 nn= Prosessorarkitektur
+en= Processor architecture
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006844
@@ -61667,6 +61733,7 @@ te= Seiling
 ba= nf
 nn= Sigling
 nn= Segling
+en= Sailing
 tio= 2014-08-25T00:00:00Z
 st= REAL022548
 st= REAL031262
@@ -61923,6 +61990,9 @@ bf= RS-232c
 nn= Seriell kommunikasjon
 nn= RS-232
 nn= RS-232c
+en= Serial communications
+en= RS-232c
+en= RS-232
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007338
@@ -62751,6 +62821,7 @@ id= REAL007447
 te= Historisme
 ba= na
 nn= Historisme
+en= Historicism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007448
@@ -64008,6 +64079,8 @@ id= REAL007584
 te= Håndverkere
 ba= ns
 nn= Handverkarar
+en= Artisans
+en= Craftsmen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007586
@@ -64349,6 +64422,7 @@ id= REAL007627
 te= Etnologisk feltarbeid
 ba= ni
 nn= Etnologisk feltarbeid
+en= Ethnological fieldwork
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007628
@@ -64644,6 +64718,7 @@ id= REAL007662
 te= Tutor
 ba= ni
 nn= Tutor
+en= TUTOR
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -65814,6 +65889,7 @@ id= REAL007800
 te= Objlog
 ba= ni
 nn= Objlog
+en= Objlog
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -67554,6 +67630,11 @@ so= REAL014037
 nn= Semantisk samvirke
 nn= Semantisk interoperabilitet
 nn= Semantisk mapping
+en= Semantic interoperability
+en= Ontology matching
+en= Semantic unification
+en= Ontology alignment
+en= Semantic mapping
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T10:53:45Z
 st= REAL017667
@@ -68360,12 +68441,14 @@ id= REAL008108
 te= Julia-mengder
 ba= nm
 nn= Julia-mengder
+en= Julia sets
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008109
 te= Operasjonell semantikk
 ba= ni
 nn= Operasjonell semantikk
+en= Operational semantics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008110
@@ -68589,6 +68672,7 @@ ba= na
 ba= nm
 ba= ns
 nn= Kalendrar
+en= Calendars
 tio= 2014-08-25T00:00:00Z
 st= REAL019637
 st= REAL021749
@@ -69085,6 +69169,7 @@ id= REAL008200
 te= Romteleskoper
 ba= na
 nn= Romteleskop
+en= Space telescopes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008201
@@ -69581,6 +69666,7 @@ ba= na
 nn= Sjokkbølgjer
 nn= Sjokkbylgjer
 nn= Sjokkbølger
+en= Shock waves
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008261
@@ -70707,6 +70793,7 @@ id= REAL008396
 te= Smalltalk
 ba= ni
 nn= Smalltalk
+en= Smalltalk
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008397
@@ -71484,6 +71571,8 @@ ba= ni
 ak= SIMD
 nn= SIMD
 nn= Single instruction multiple data
+en= Single instruction multiple data
+en= SIMD
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008479
@@ -71792,6 +71881,7 @@ te= Vektorfelter
 ba= ni
 ba= na
 nn= Vektorfelt
+en= Vector fields
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008516
@@ -73980,6 +74070,8 @@ ba= ni
 ak= YACC
 nn= YACC
 nn= Yet Another Compiler Compiler
+en= Yet Another Compiler-Compiler
+en= YACC
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008763
@@ -74291,6 +74383,7 @@ id= REAL008798
 te= Telekonferanser
 ba= ni
 nn= Telekonferansar
+en= Teleconferences
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008799
@@ -74897,6 +74990,8 @@ nn= Pl/c
 nn= Pl/cv
 nn= Pl/i
 nn= Pl1
+en= Programming language one
+en= PL/I
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008874
@@ -75201,6 +75296,7 @@ id= REAL008912
 te= Synkronisering
 ba= ni
 nn= Synkronisering
+en= Synchronization
 tio= 2014-08-25T00:00:00Z
 st= REAL014148
 
@@ -76058,6 +76154,7 @@ ba= na
 bf= Stellar dynamikk
 nn= Stjernedynamikk
 nn= Stellar dynamikk
+en= Stellar dynamics
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T11:42:43Z
 
@@ -76145,6 +76242,7 @@ id= REAL009025
 te= Skipsnavigasjon
 ba= na
 nn= Skipsnavigasjon
+en= Naval navigation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009026
@@ -76626,6 +76724,7 @@ id= REAL009069
 te= Skipstrafikk
 ba= ni
 nn= Skipstrafikk
+en= Ship traffic
 tio= 2014-08-25T00:00:00Z
 st= REAL015740
 
@@ -77168,6 +77267,7 @@ id= REAL009138
 te= Sintran
 ba= ni
 nn= Sintran
+en= SINTRAN
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
 
@@ -78435,6 +78535,7 @@ id= REAL009294
 te= Intergalaktisk materie
 ba= na
 nn= Intergalaktisk materie
+en= Intergalactic matter
 tio= 2014-08-25T00:00:00Z
 st= REAL023155
 
@@ -78785,6 +78886,7 @@ id= REAL009339
 te= Robusthet
 ba= ni
 nn= Robustheit
+en= Robustness
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009340
@@ -79934,6 +80036,7 @@ te= Stjernehoper
 ba= na
 so= REAL005979
 nn= Stjernehopar
+en= Star clusters
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-09T00:00:00Z
 
@@ -80214,6 +80317,7 @@ id= REAL009528
 te= Planare grafer
 ba= ni
 nn= Planare grafar
+en= Planar graphs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009529
@@ -80263,6 +80367,7 @@ te= Singulariteter
 ba= nf
 ba= nm
 nn= Singularitetar
+en= Singularities
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009537
@@ -81424,6 +81529,7 @@ id= REAL009664
 te= Småplaneter
 ba= na
 nn= Småplanetar
+en= Minor planets
 tio= 2014-08-25T00:00:00Z
 st= REAL021225
 st= REAL024338
@@ -81782,6 +81888,7 @@ ba= ni
 bf= Semantiske typer
 nn= Semantisk analyse
 nn= Semantiske typar
+en= Semantic analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009709
@@ -82432,6 +82539,7 @@ te= Strålingseffekter
 ba= nk
 so= REAL031980
 nn= Strålingseffektar
+en= Radiation effects
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-07T18:20:40Z
 
@@ -83031,6 +83139,7 @@ te= Hoper
 ba= na
 no= OBS: Kun astro. Bruk helst mer spesifikk term som galaksehoper, stjernehoper
 nn= Hopar
+en= Clusters (astrophysics)
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T11:54:01Z
 st= REAL018219
@@ -83407,6 +83516,7 @@ id= REAL009901
 te= Ingeniørvirksomhet
 ba= ns
 nn= Ingeniørverksemd
+en= Engineering business
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009902
@@ -83730,6 +83840,13 @@ nn= Ibm pc
 nn= Ibm risc
 nn= Ibm stretch
 nn= Ibm-maskinar
+en= IBM machines
+en= Ibm 370
+en= Ibm 360
+en= Ibm 1620
+en= Ibm pc
+en= Ibm risc
+en= Ibm stretch
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-28T00:29:18Z
 st= REAL016834
@@ -84461,6 +84578,7 @@ ut= REAL006318
 no= Måling av ioniserende stråling
 nn= Strålingsdetektorar
 nn= Radioaktivitetsmålingar
+en= Radiation detectors
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-17T14:44:52Z
 
@@ -85449,6 +85567,7 @@ te= Bildelagring
 ba= ni
 nn= Biletlagring
 nn= Bildelagring
+en= Image storage
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010126
@@ -87146,6 +87265,7 @@ id= REAL010314
 te= Kundestøtte
 ba= ni
 nn= Kundestøtte
+en= Customer support
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010315
@@ -88427,6 +88547,7 @@ id= REAL010482
 te= Homotopiteori
 ba= nm
 nn= Homotopiteori
+en= Homotopy theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010483
@@ -90130,6 +90251,7 @@ id= REAL010693
 te= Romferger
 ba= na
 nn= Romferjer
+en= Space Shuttle
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010694
@@ -90875,6 +90997,7 @@ id= REAL010782
 te= Skipsskrog
 ba= nm
 nn= Skipsskrog
+en= Hull (watercraft)
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010784
@@ -91078,6 +91201,7 @@ id= REAL010814
 te= Selenforbindelser
 ba= nk
 nn= Selensambindingar
+en= Selenium compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010815
@@ -91572,6 +91696,7 @@ id= REAL010886
 te= Oracle
 ba= ni
 nn= Oracle
+en= Oracle
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010887
@@ -92164,6 +92289,7 @@ te= Sjeldne bøker
 ba= ns
 nn= Sjeldsynte bøker
 nn= Sjeldne bøker
+en= Rare books
 tio= 2014-08-25T00:00:00Z
 st= REAL018871
 st= REAL024332
@@ -93598,6 +93724,8 @@ id= REAL011139
 te= Kalenderhistorie
 ba= na
 nn= Kalenderhistorie
+en= Calendar history
+en= History of calendars
 tio= 2014-08-25T00:00:00Z
 st= REAL017231
 st= REAL026388
@@ -94367,6 +94495,7 @@ id= REAL011242
 te= Filteralgoritmer
 ba= ni
 nn= Filteralgoritmar
+en= Filter algorithms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011243
@@ -94553,6 +94682,7 @@ id= REAL011264
 te= Romvåpen
 ba= nf
 nn= Romvåpen
+en= Space weapons
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011266
@@ -94853,6 +94983,7 @@ id= REAL011297
 te= Videodatabaser
 ba= ni
 nn= Videodatabasar
+en= Video databases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011298
@@ -95169,6 +95300,8 @@ ba= ni
 ak= SSM
 nn= Soft systems methodology
 nn= SSM
+en= Soft systems methodology
+en= SSM
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011340
@@ -95239,6 +95372,7 @@ ba= nk
 ba= na
 ba= ns
 nn= Rakettar
+en= Rockets
 tio= 2014-08-25T00:00:00Z
 st= REAL015248
 st= REAL021576
@@ -95820,6 +95954,8 @@ ba= ni
 ak= VDM
 nn= VDM
 nn= Vienna development method
+en= Vienna development method
+en= VDM
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011415
@@ -97934,6 +98070,8 @@ bf= Osi-modellen
 ak= OSI
 nn= Open systems interconnection
 nn= Osi-modellen
+en= Open systems interconnection
+en= OSI
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011653
@@ -100109,6 +100247,9 @@ nn= Internasjonal ressursforvaltning
 nn= Internasjonale forhold
 nn= Internasjonale tilhøve
 nn= Internasjonalt samarbeid
+en= International relations
+en= International politics
+en= International affairs
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-16T00:00:00Z
 st= REAL015835
@@ -100474,6 +100615,7 @@ id= REAL011933
 te= Usenet
 ba= ni
 nn= Usenet
+en= Usenet
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011934
@@ -101318,6 +101460,7 @@ id= REAL012051
 te= Informasjonsmodellering
 ba= ni
 nn= Informasjonsmodellering
+en= Information modeling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012052
@@ -110401,6 +110544,8 @@ ba= na
 bf= Påskefeiring
 nn= Påsketradisjonar
 nn= Påskefeiring
+en= Easter traditions
+en= Easter customs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012879
@@ -111797,6 +111942,7 @@ id= REAL013011
 te= Rakettmotorer
 ba= nk
 nn= Rakettmotorar
+en= Rocket engines
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013012
@@ -112079,6 +112225,7 @@ te= Religionsfilosofi
 ba= ns
 so= REAL013032
 nn= Religionsfilosofi
+en= Philosophy of religion
 tio= 2014-08-25T00:00:00Z
 st= REAL031557
 
@@ -115826,6 +115973,8 @@ so= REAL012545
 no= Geologisk tid
 nn= Siste istid
 nn= Istida
+en= Last glacial period
+en= Last ice age
 de= Tidsavsnitt i kvartær, 117 000 til 11 500 år før nåtid.
 tio= 2014-08-25T00:00:00Z
 st= REAL023205
@@ -117178,6 +117327,7 @@ ba= fa
 ba= ngh
 ba= ns
 nn= Historiografi
+en= Historiography
 tio= 2014-08-25T00:00:00Z
 st= REAL028933
 st= REAL029598
@@ -118483,6 +118633,7 @@ ba= fa
 ba= nk
 ba= ns
 nn= Polemikk
+en= Polemic
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013495
@@ -118521,6 +118672,7 @@ ba= nm
 ba= ns
 so= REAL005658
 nn= Populærmatematikk
+en= Popular mathematics
 tio= 2014-08-25T00:00:00Z
 tie= 2018-12-21T19:39:45Z
 st= REAL016945
@@ -118655,6 +118807,7 @@ id= REAL013503
 te= Scientometri
 ba= fa
 nn= Scientometri
+en= Scientometrics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013504
@@ -120476,6 +120629,7 @@ id= REAL013635
 te= IOS
 ba= ni
 nn= IOS
+en= iOS
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
 
@@ -120747,6 +120901,8 @@ so= REAL003079
 so= REAL013656
 no= Adobe Photoshop, f.eks
 nn= Fotoredigering
+en= Photo editing
+en= Photo manipulation
 dw= 770.285
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T10:32:54Z
@@ -120761,6 +120917,9 @@ nn= Grafiske designverktøy
 nn= Adobe Illustrator
 nn= Adobe InDesign
 nn= Grafiske formgivingsverktøy
+en= Graphic design tools
+en= Adobe Illustrator
+en= Adobe InDesign
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T10:38:43Z
 
@@ -121017,6 +121176,8 @@ ba= ni
 bf= Elektronisk pasientjournal
 nn= Pasientjournalar
 nn= Elektronisk pasientjournal
+en= Patient journals
+en= Electronic patient journals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013671
@@ -121788,6 +121949,7 @@ id= REAL013741
 te= Trafikksystemer
 ba= ni
 nn= Trafikksystem
+en= Traffic systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013742
@@ -123076,6 +123238,7 @@ ba= nb
 ba= ns
 so= REAL013821
 nn= Intelligent design
+en= Intelligent design
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013823
@@ -129523,6 +129686,7 @@ tie= 2018-01-22T15:05:01Z
 id= REAL031945
 te= Skiturer
 so= REAL031378
+en= Ski trips
 tio= 2018-01-22T15:19:26Z
 tie= 2018-01-22T15:20:52Z
 st= REAL031946

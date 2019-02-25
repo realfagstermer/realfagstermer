@@ -306,6 +306,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030104
 te= Sangbøker
+en= Song books
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030105
@@ -700,6 +701,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030168
 te= Skjønnlitteratur
+en= Fiction
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030169
