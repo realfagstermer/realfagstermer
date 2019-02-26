@@ -1,103 +1,68 @@
 {
-  "REAL007844": {
-    "prefLabel": "Chanterelles",
-    "altLabel": []
-  },
-  "REAL007725": {
-    "prefLabel": "Camomile",
+  "REAL001171": {
+    "prefLabel": "Purple loosestrifes",
     "altLabel": [
-      "Chamomile"
+      "Spiked loosestrifes",
+      "Purple loosestrife",
+      "Spiked loosestrife",
+      "Purple lythrums"
     ]
   },
-  "REAL005939": {
-    "prefLabel": "Kapok",
+  "REAL008144": {
+    "prefLabel": "Pteridophytes",
     "altLabel": [
-      "Java kapok",
-      "Samauma",
-      "Ceiba",
-      "Java cotton",
-      "Silk-cotton"
+      "Pteridophyta",
+      "Cryptogams"
     ]
   },
-  "REAL008176": {
-    "prefLabel": "Comb jellies",
+  "REAL008249": {
+    "prefLabel": "Cinchona bark",
     "altLabel": []
   },
-  "REAL002259": {
-    "prefLabel": "Caprifoliaceae",
+  "REAL003782": {
+    "prefLabel": "Kangaroos",
+    "altLabel": []
+  },
+  "REAL012602": {
+    "prefLabel": "Felines",
     "altLabel": [
-      "Honeysuckle family"
+      "Felidae",
+      "Felids"
     ]
   },
-  "REAL010360": {
-    "prefLabel": "Cacti",
+  "REAL011539": {
+    "prefLabel": "Caraway",
     "altLabel": [
-      "Cactuses",
-      "Cactus"
+      "Cumin"
     ]
   },
-  "REAL013550": {
-    "prefLabel": "Carp fishes",
+  "REAL010888": {
+    "prefLabel": "Vascular plants",
     "altLabel": [
-      "Cypriniformes"
+      "Tracheophytes",
+      "Higher plants"
     ]
   },
-  "REAL000443": {
-    "prefLabel": "International environmental protection",
+  "REAL013933": {
+    "prefLabel": "Diatomes",
+    "altLabel": []
+  },
+  "REAL009497": {
+    "prefLabel": "Catadromy",
     "altLabel": [
-      "International environmental agreements"
+      "Catadromous fishes"
     ]
   },
-  "REAL007915": {
-    "prefLabel": "Housefly",
-    "altLabel": [
-      "House-fly",
-      "Common housefly",
-      "House fly"
-    ]
-  },
-  "REAL012114": {
-    "prefLabel": "Humus sphere",
+  "REAL006403": {
+    "prefLabel": "Lythraceae",
     "altLabel": []
   },
-  "REAL010369": {
-    "prefLabel": "Calcareous pine forests",
+  "REAL011108": {
+    "prefLabel": "Cats",
     "altLabel": []
   },
-  "REAL012518": {
-    "prefLabel": "Scallop farming",
-    "altLabel": [
-      "Scallop aquaculture"
-    ]
-  },
-  "REAL011858": {
-    "prefLabel": "Scallops",
-    "altLabel": []
-  },
-  "REAL003675": {
-    "prefLabel": "Caimans",
-    "altLabel": []
-  },
-  "REAL009495": {
-    "prefLabel": "The caper family",
-    "altLabel": []
-  },
-  "REAL001375": {
-    "prefLabel": "Rabbits",
-    "altLabel": []
-  },
-  "REAL004450": {
-    "prefLabel": "Camels",
-    "altLabel": []
-  },
-  "REAL005245": {
-    "prefLabel": "Coralline algae",
-    "altLabel": [
-      "Corallinales"
-    ]
-  },
-  "REAL007996": {
-    "prefLabel": "Cockroaches",
+  "REAL009011": {
+    "prefLabel": "Chemical embryology",
     "altLabel": []
   }
 }
