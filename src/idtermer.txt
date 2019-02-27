@@ -4568,9 +4568,9 @@ st= REAL027097
 
 id= REAL000532
 te= Kjemiske stimuli
-ba= nb
-nn= Kjemiske stimuli
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-27T17:08:34Z
+fly= REAL013911
 
 id= REAL000533
 te= Analytisk kjemi
@@ -6424,10 +6424,12 @@ te= Kjønnsforskjeller
 ba= nb
 ba= nm
 ba= ns
+so= REAL002066
 nn= Kjønnsskilnader
 nn= Kjønnsforskjellar
 nn= Kjønnsskilnadar
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-27T17:31:49Z
 
 id= REAL000754
 te= Funksjonsprogrammeringsspråk
@@ -14330,9 +14332,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001686
 te= Kjemiske faktorer
-ba= nb
-nn= Kjemiske faktorar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-27T17:04:09Z
 
 id= REAL001687
 te= Antimykobakteriell aktivitet
@@ -17487,11 +17488,12 @@ te= Kjønnsdimorfisme
 ba= nb
 bf= Seksuell dimorfisme
 bf= Kjønnsdannelse
+so= REAL000753
 nn= Kjønnsdimorfisme
 nn= Seksuell dimorfisme
 nn= Kjønnsdanning
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-09T16:29:29Z
+tie= 2019-02-27T17:31:48Z
 
 id= REAL002067
 te= Talekoding
@@ -27671,7 +27673,6 @@ te= Medisinsk diagnostikk
 ba= nb
 nn= Medisinsk diagnostikk
 tio= 2014-08-25T00:00:00Z
-st= REAL019586
 st= REAL025246
 st= REAL031846
 
@@ -72002,9 +72003,9 @@ st= REAL014393
 
 id= REAL008524
 te= Sykehusapotek
-ba= ne
-nn= Sjukehusapotek
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-27T19:11:38Z
+fly= REAL012686
 
 id= REAL008525
 te= Antibiotika
@@ -87792,9 +87793,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010372
 te= Kjemiske metoder
-ba= nb
-nn= Kjemiske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-27T17:06:21Z
 
 id= REAL010373
 te= Helseregisterloven
@@ -108447,10 +108447,12 @@ ba= ne
 bf= Apotekvesen
 bf= Apotekvesenet
 bf= Apotekdrift
+bf= Sykehusapotek
 nn= Apotek
 nn= Apotekvesen
 nn= Apotekvesenet
 nn= Apotekdrift
+nn= Sjukehusapotek
 en= Pharmacy
 tio= 2014-08-25T00:00:00Z
 st= REAL014797
@@ -125004,6 +125006,7 @@ nn= Signalmolekyl
 nn= Kjemiske signal
 nn= Signalstoff
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-27T17:08:42Z
 st= REAL026017
 
 id= REAL013912
