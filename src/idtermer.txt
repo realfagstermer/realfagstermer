@@ -742,10 +742,9 @@ st= REAL028713
 
 id= REAL000086
 te= Mikromonitor
-ba= ni
-nn= Mikromonitor
 de= Operativsystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T16:46:03Z
 
 id= REAL000087
 te= Musvåker
@@ -5736,9 +5735,9 @@ tie= 2019-01-22T21:11:58Z
 
 id= REAL000670
 te= Skogbunn
-ba= nb
-nn= Skogbotn
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:15:15Z
+fly= REAL001507
 
 id= REAL000671
 te= Romdatabaser
@@ -6629,9 +6628,8 @@ st= REAL023702
 
 id= REAL000771
 te= Oksygenmembraner
-ba= nk
-nn= Oksygenmembranar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:08:57Z
 
 id= REAL000772
 te= Utviklingsprosjekter
@@ -6656,19 +6654,18 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-01-12T18:43:34Z
 
 id= REAL000775
-te= Vitamin C
+te= C-vitamin
 ba= ne
-bf= Vitamin-c
 bf= Askorbinsyre
-bf= C-vitaminer
-nn= Askorbinsyre
+bf= Vitamin C
+ot= REAL010066
 nn= C-vitamin
-nn= Vitamin-c
+nn= Askorbinsyre
 nn= Vitamin C
 en= Vitamin C
 en= Ascorbic acid
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T16:28:47Z
+tie= 2019-02-28T17:39:08Z
 st= REAL022922
 
 id= REAL000776
@@ -7165,11 +7162,14 @@ fly= REAL013744
 id= REAL000837
 te= E-vitaminer
 ba= ns
+ot= REAL010066
 nn= E-vitamin
 en= Vitamin E
 en= Tocopherols
 en= Tocotrienols
+en= E vitamins
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-28T17:39:13Z
 
 id= REAL000838
 te= Lavtemperaturfysikk
@@ -10080,9 +10080,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001178
 te= Nervereseptorer
-ba= nb
-nn= Nervereseptorar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:10:18Z
 
 id= REAL001179
 te= Interstellart stoff
@@ -11477,7 +11476,6 @@ nn= Økslingsorgan
 en= Sex organs
 en= Reproductive organs
 en= Genitalia
-en= Reproductive organs
 en= Primary sex organs
 en= Primary sexual characteristics
 en= Genitals
@@ -11696,9 +11694,8 @@ tis= 2018-09-19T17:40:06Z
 
 id= REAL001355
 te= Modulbibliotek
-ba= ni
-nn= Modulbibliotek
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T18:15:31Z
 
 id= REAL001356
 te= Mineralgjødsel
@@ -12903,7 +12900,9 @@ tis= 2018-03-02T20:53:02Z
 id= REAL001507
 te= Skogsjord
 ba= nb
+bf= Skogbunn
 nn= Skogsjord
+nn= Skogbotn
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001508
@@ -13074,7 +13073,9 @@ st= REAL017887
 id= REAL001528
 te= Petroleumsprodukter
 ba= nk
+bf= Oljeprodukter
 nn= Petroleumsprodukt
+nn= Oljeprodukt
 en= Petroleum products
 tio= 2014-08-25T00:00:00Z
 
@@ -14209,10 +14210,8 @@ fly= REAL006430
 
 id= REAL001668
 te= Saprofytter
-ba= nk
-ba= nb
-nn= Saprofyttar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:13:26Z
 
 id= REAL001669
 te= Blandingsskog
@@ -14803,17 +14802,9 @@ st= REAL015354
 
 id= REAL001740
 te= Populasjonsøkologi
-ba= nk
-ba= nb
-ba= ngh
-ba= nq
-nn= Populasjonsøkologi
-en= Population ecology
 tio= 2014-08-25T00:00:00Z
-st= REAL017584
-st= REAL021645
-st= REAL022924
-st= REAL025682
+tis= 2019-02-28T14:08:07Z
+fly= REAL009260
 
 id= REAL001741
 te= Uorganiske kompleksforbindelser
@@ -15931,12 +15922,9 @@ tie= 2015-02-13T00:00:00Z
 
 id= REAL001876
 te= Skjøtsel
-ba= nb
-ba= ngh
-ba= nq
-nn= Skjøtsel
 tio= 2014-08-25T00:00:00Z
-st= REAL015616
+tis= 2019-02-28T14:01:18Z
+fly= REAL013578
 
 id= REAL001877
 te= Determinanter
@@ -16218,7 +16206,6 @@ ba= nk
 nn= Oksid
 en= Oxides
 tio= 2014-08-25T00:00:00Z
-st= REAL023512
 
 id= REAL001910
 te= Presisjonsinstrumenter
@@ -16950,31 +16937,12 @@ id= REAL002003
 te= Marskland
 ba= nb
 ba= nq
-bf= Saltmarker
-bf= Saltenger
-bf= Saltmarsker
-bf= Saltmyrer
-bf= Saltsumper
 bf= Marsker
-bf= Saltvannsvåtmarker
-bf= Kystvåtmarker
-bf= Tidevannsmarker
 ot= REAL013444
 nn= Marskland
-nn= Saltmarker
-nn= Saltmarsker
-nn= Saltenger
-nn= Saltsumpar
-nn= Saltmyrer
-nn= Saltmyrar
 nn= Marskar
-nn= Saltvassvåtmarkar
-nn= Kystvassmarkar
-nn= Tidevassmarkar
 nn= Marsker
-en= Saltmarshes
-en= Salt marshes
-de= Våtmarksområde som oversvømmes av havet ved flo eller av andre grunner har høy salinitet
+en= Marshes
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-26T17:36:01Z
 
@@ -18627,9 +18595,8 @@ st= REAL025926
 
 id= REAL002179
 te= Somatisk embryogenese
-ba= nb
-nn= Somatisk embryogenese
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:19:19Z
 
 id= REAL002180
 te= Bakkestasjoner
@@ -19138,9 +19105,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002245
 te= Modifisering
-ba= nb
-nn= Modifisering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:12:12Z
 
 id= REAL002246
 te= Kapillær lc-separasjon
@@ -19333,16 +19299,16 @@ tie= 2016-06-14T14:31:56Z
 tis= 2018-11-16T10:55:31Z
 
 id= REAL002271
-te= Vitamin B7
+te= Biotin
 ba= ns
-bf= Biotin
+bf= Vitamin B7
 ot= REAL010557
-nn= Vitamin b7
 nn= Biotin
-en= Vitamine B7
+nn= Vitamin B7
 en= Biotin
+en= Vitamine B7
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T16:32:44Z
+tie= 2019-02-28T17:33:28Z
 
 id= REAL002273
 te= Sniper
@@ -21213,12 +21179,9 @@ tis= 2019-01-16T12:01:16Z
 
 id= REAL002488
 te= Oscillasjoner
-ba= nk
-ba= na
-ba= nf
-nn= Oscillasjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL014360
+tis= 2019-02-28T19:46:14Z
+fly= REAL010391
 
 id= REAL002490
 te= Internasjonal rett
@@ -21335,7 +21298,9 @@ te= Plantebiokjemi
 ba= nk
 ba= nb
 ba= ne
+bf= Planteanalyser
 nn= Plantebiokjemi
+nn= Planteanalysar
 en= Plant biochemistry
 tio= 2014-08-25T00:00:00Z
 
@@ -21577,6 +21542,7 @@ bf= Nanostrukturerte materialer
 bf= Nanostrukturer
 so= REAL003139
 so= REAL000508
+so= REAL007368
 ut= REAL031623
 nn= Nanomateriale
 nn= Nanostrukturar
@@ -21585,7 +21551,7 @@ en= Nanomaterials
 en= Nanostructured materials
 en= Nanostructures
 tio= 2014-08-25T00:00:00Z
-tie= 2018-03-16T19:24:38Z
+tie= 2019-02-28T18:59:09Z
 st= REAL017803
 st= REAL020745
 st= REAL022714
@@ -23239,7 +23205,6 @@ ba= ne
 nn= Empati
 en= Empathy
 tio= 2014-08-25T00:00:00Z
-st= REAL022710
 
 id= REAL002724
 te= Funksjonsteori
@@ -23493,7 +23458,9 @@ te= Bladmoser
 ba= nk
 ba= nb
 ba= nq
+bf= Løvmoser
 nn= Bladmosar
+nn= Lauvmosar
 en= Mosses
 tio= 2014-08-25T00:00:00Z
 st= REAL015446
@@ -24200,7 +24167,6 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T17:12:21Z
 st= REAL015311
 st= REAL016071
-st= REAL018069
 
 id= REAL002830
 te= Internasjonal kriminalitet
@@ -31974,12 +31940,10 @@ tie= 2015-09-21T12:09:52Z
 
 id= REAL003741
 te= Mikroporøse oksider
-ba= nk
-so= REAL011476
-ot= REAL007274
-nn= Mikroporøse oksid
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-25T10:28:23Z
+tis= 2019-02-28T16:59:59Z
+fly= REAL011476
 
 id= REAL003742
 te= Kurver
@@ -34285,10 +34249,9 @@ st= REAL017447
 
 id= REAL004019
 te= Naturstudier
-ba= nq
-nn= Naturstudiar
 tio= 2014-08-25T00:00:00Z
-st= REAL015609
+tis= 2019-02-28T14:11:16Z
+fly= REAL013492
 
 id= REAL004020
 te= Løselighet
@@ -34582,7 +34545,9 @@ id= REAL004057
 te= Nevropeptider
 ba= nk
 ba= nb
+bf= Nevromodulatorer
 nn= Nevropeptid
+nn= Nevromodulatorar
 en= Neuropeptides
 tio= 2014-08-25T00:00:00Z
 
@@ -34651,8 +34616,24 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-10-31T19:45:12Z
 
 id= REAL004063
-te= Saltmarker
-de= Våtmarksområde med høy salinitet
+te= Saltmarsker
+bf= Saltenger
+bf= Saltmyrer
+bf= Saltsumper
+bf= Saltvannsvåtmarker
+bf= Kystvåtmarker
+bf= Tidevannsmarker
+nn= Saltmarsker
+nn= Saltenger
+nn= Saltsumpar
+nn= Saltmyrer
+nn= Saltmyrar
+nn= Saltvassvåtmarkar
+nn= Kystvassmarkar
+nn= Tidevassmarkar
+en= Salt marshes
+en= Saltmarshes
+de= Våtmarksområde som oversvømmes av havet ved flo eller av andre grunner har høy salinitet
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-19T19:59:25Z
 tis= 2019-02-19T19:59:37Z
@@ -36229,9 +36210,8 @@ fly= REAL001249
 
 id= REAL004250
 te= Populasjonsmodeller
-ba= ne
-nn= Populasjonsmodellar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:07:39Z
 
 id= REAL004251
 te= Delfiner
@@ -36576,7 +36556,9 @@ id= REAL004285
 te= Sjøliljer
 ba= nb
 ba= nc
+bf= Krinoider
 nn= Sjøliljer
+nn= Krinoid
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004286
@@ -36595,9 +36577,8 @@ fly= REAL004226
 
 id= REAL004288
 te= Spordannelse
-ba= nb
-nn= Spordanning
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:19:29Z
 
 id= REAL004290
 te= Sanseorganer
@@ -36645,9 +36626,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004296
 te= Kufugler
-ba= nb
-nn= Kufuglar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:12:42Z
+fly= REAL031353
 
 id= REAL004298
 te= Kondensatorer
@@ -37844,10 +37825,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004441
 te= Oseanologi
-ba= nb
-nn= Oseanologi
 tio= 2014-08-25T00:00:00Z
-st= REAL029952
+tis= 2019-02-28T19:47:37Z
+fly= REAL008096
 
 id= REAL004442
 te= Disseksjon
@@ -38111,9 +38091,8 @@ st= REAL028701
 
 id= REAL004475
 te= Somatisk cellegenetikk
-ba= nb
-nn= Somatisk cellegenetikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:19:08Z
 
 id= REAL004476
 te= Elektroniske strukturer
@@ -39103,9 +39082,8 @@ st= REAL015553
 
 id= REAL004597
 te= Målanalyse
-ba= ni
-nn= Målanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T17:07:09Z
 
 id= REAL004598
 te= Dynamisk simulering
@@ -39676,9 +39654,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004671
 te= Larveproduksjon
-ba= nb
-nn= Larveproduksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:13:15Z
 
 id= REAL004672
 te= Grådige algoritmer
@@ -39795,11 +39772,14 @@ id= REAL004686
 te= Sulfider
 ba= nk
 ba= nc
+bf= Sulfidmineraler
 nn= Sulfid
+nn= Sulfidmineral
 en= Sulphides
 en= Sulfides
+en= Sulphide minerals
+en= Sulfide minerals
 tio= 2014-08-25T00:00:00Z
-st= REAL016599
 st= REAL025647
 st= REAL029737
 
@@ -42715,11 +42695,9 @@ fly= REAL010858
 
 id= REAL005042
 te= Skogsykdommer
-ba= nb
-ba= nq
-nn= Skogsjukdomar
-nn= Skogsjukdommar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:15:39Z
+fly= REAL007806
 
 id= REAL005043
 te= Emisjonslinjer
@@ -48128,10 +48106,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005713
 te= Løvmoser
-ba= nb
-ba= nq
-nn= Lauvmosar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:12:29Z
+fly= REAL002750
 
 id= REAL005714
 te= Organiske forbindelser
@@ -50367,12 +50344,8 @@ fly= REAL013704
 
 id= REAL005984
 te= Lysbehandling
-ba= ns
-bf= Fototerapi
-nn= Ljosbehandling
-nn= Fototerapi
-nn= Lysbehandling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T16:10:45Z
 
 id= REAL005985
 te= Pilormer
@@ -55020,9 +54993,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006495
 te= Krinoider
-ba= nc
-nn= Krinoid
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:13:05Z
+fly= REAL004285
 
 id= REAL006496
 te= Fauna
@@ -61635,7 +61608,6 @@ ba= ns
 bf= Porøse materialer
 bf= Porøse stoffer
 ut= REAL011476
-ut= REAL003741
 nn= Porøse medium
 nn= Porøse materiale
 nn= Porøse stoff
@@ -62391,8 +62363,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007368
 te= Nanosystemer
 ba= nf
+so= REAL002527
+so= REAL012457
 nn= Nanosystem
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-28T18:59:08Z
 
 id= REAL007369
 te= Giraffamilien
@@ -63469,8 +63444,10 @@ ba= nk
 ba= nb
 ba= nq
 bf= Xylem
+bf= Vedrør
 so= REAL010108
 nn= Xylem
+nn= Vedrøyr
 en= Xylem
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-05T11:51:09Z
@@ -64043,12 +64020,15 @@ en= Adelie penguin
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007557
-te= Vitamin A
+te= A-vitamin
 ba= ne
+bf= Vitamin A
+ot= REAL010066
+nn= A-vitamin
 nn= Vitamin A
 en= Vitamin A
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T16:33:58Z
+tie= 2019-02-28T17:38:59Z
 
 id= REAL007558
 te= Tellurforbindelser
@@ -65018,7 +64998,9 @@ id= REAL007676
 te= Vedanatomi
 ba= nb
 ba= nq
+bf= Vedstrukturer
 nn= Vedanatomi
+nn= Vedstrukturar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007677
@@ -66086,7 +66068,12 @@ ba= nk
 ba= nb
 ba= ngh
 ba= nq
+bf= Skogpatologi
+bf= Skogsykdommer
 nn= Skogskadar
+nn= Skogpatologi
+nn= Skogsjukdomar
+nn= Skogsjukdommar
 tio= 2014-08-25T00:00:00Z
 st= REAL021332
 
@@ -66221,12 +66208,8 @@ tie= 2018-09-04T22:57:28Z
 
 id= REAL007824
 te= Vedlikehold
-ba= ni
-ba= nk
-ba= nb
-ba= nm
-nn= Vedlikehald
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:00:59Z
 
 id= REAL007825
 te= O-stjerner
@@ -66763,15 +66746,13 @@ en= E-learning
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T10:26:56Z
 st= REAL014486
-st= REAL024491
 st= REAL031334
 
 id= REAL007896
 te= Vedstrukturer
-ba= nb
-ba= nq
-nn= Vedstrukturar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:20:18Z
+fly= REAL007676
 
 id= REAL007897
 te= Intern kommunikasjon
@@ -68381,11 +68362,9 @@ tie= 2016-07-08T19:35:32Z
 
 id= REAL008087
 te= Skogpolitikk
-ba= nq
-nn= Skogpolitikk
 tio= 2014-08-25T00:00:00Z
-st= REAL018200
-st= REAL023263
+tis= 2019-02-28T14:14:51Z
+fly= REAL008162
 
 id= REAL008088
 te= Tjærebrenning
@@ -68487,14 +68466,17 @@ ba= ns
 bf= Havlære
 bf= Havundersøkelser
 bf= Havbassenger
+bf= Oseanologi
 so= REAL000761
 nn= Oseanografi
 nn= Havlære
 nn= Havundersøkingar
 nn= Havbasseng
+nn= Oseanologi
 en= Oceanography
+en= Oceanology
 tio= 2014-08-25T00:00:00Z
-tie= 2018-12-03T11:56:13Z
+tie= 2019-02-28T19:47:51Z
 st= REAL014331
 st= REAL014427
 st= REAL014506
@@ -68539,6 +68521,7 @@ st= REAL027466
 st= REAL028068
 st= REAL028298
 st= REAL029246
+st= REAL029952
 st= REAL031253
 
 id= REAL008097
@@ -69039,15 +69022,21 @@ ba= ngh
 ba= nq
 bf= Barskogforvaltning
 bf= Barskogsforvaltning
+bf= Skogbehandling
+bf= Skogpolitikk
 nn= Skogforvalting
 nn= Skogforvaltning
 nn= Barskogforvalting
 nn= Barskogforvaltning
 nn= Barskogsforvalting
 nn= Barskogsforvaltning
+nn= Skoghandsaming
+nn= Skogbehandling
+nn= Skogpolitikk
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-10T18:41:42Z
 st= REAL016394
+st= REAL018200
 st= REAL022540
 
 id= REAL008163
@@ -75284,11 +75273,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008885
 te= Skogbehandling
-ba= nb
-ba= nq
-nn= Skoghandsaming
-nn= Skogbehandling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:14:44Z
+fly= REAL008162
 
 id= REAL008886
 te= Ringforbindelser
@@ -75576,11 +75563,9 @@ tie= 2018-05-08T22:20:28Z
 
 id= REAL008922
 te= Populasjonsstudier
-ba= nk
-ba= nb
-nn= Populasjonsstudiar
-en= Population studies
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:08:23Z
+fly= REAL009260
 
 id= REAL008923
 te= Omleiringsreaksjoner
@@ -76745,7 +76730,6 @@ ba= ne
 nn= Curcumin
 en= Curcumin
 tio= 2014-08-25T00:00:00Z
-st= REAL014201
 st= REAL026747
 
 id= REAL009060
@@ -78443,13 +78427,22 @@ ba= nk
 ba= nb
 ba= nm
 ba= nq
+bf= Populasjonsøkologi
+bf= Populasjonsstudier
 nn= Populasjonsbiologi
+nn= Populasjonsøkologi
+nn= Populasjonsstudiar
 en= Population biology
+en= Population ecology
+en= Population studies
 tio= 2014-08-25T00:00:00Z
 st= REAL017419
+st= REAL017584
+st= REAL021645
 st= REAL024117
 st= REAL024663
 st= REAL024800
+st= REAL025682
 
 id= REAL009261
 te= Feltmetoder
@@ -79797,9 +79790,9 @@ fly= REAL010029
 
 id= REAL009430
 te= Vedrør
-ba= nb
-nn= Vedrøyr
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:19:59Z
+fly= REAL007490
 
 id= REAL009431
 te= Retinyl
@@ -80490,10 +80483,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009522
 te= Skogstruktur
-ba= nb
-ba= nq
-nn= Skogstruktur
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:17:57Z
 
 id= REAL009523
 te= Distribuerte databaser
@@ -80516,10 +80507,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009526
 te= Skogtyper
-ba= nk
-nn= Skogtypar
 tio= 2014-08-25T00:00:00Z
-st= REAL017760
+tis= 2019-02-28T14:18:53Z
 
 id= REAL009527
 te= Etylen
@@ -83187,11 +83176,9 @@ tie= 2015-05-08T14:20:42Z
 
 id= REAL009839
 te= Miljømålinger
-ba= nb
-nn= Miljømålingar
 tio= 2014-08-25T00:00:00Z
-st= REAL015623
-st= REAL024329
+tis= 2019-02-28T14:12:01Z
+fly= REAL011245
 
 id= REAL009840
 te= Droger
@@ -84705,9 +84692,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010002
 te= Oljeprodukter
-ba= nk
-nn= Oljeprodukt
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T19:37:58Z
+fly= REAL001528
 
 id= REAL010003
 te= Silikonforbindelser
@@ -85261,9 +85248,14 @@ ba= nk
 ba= nb
 ba= ne
 ba= ns
+ut= REAL007557
+ut= REAL010557
+ut= REAL000775
+ut= REAL000837
 nn= Vitamin
 en= Vitamins
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-28T17:39:13Z
 
 id= REAL010067
 te= Tundraer
@@ -87059,10 +87051,13 @@ nn= Krepsdyrskal
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010260
-te= Montagues semantikk
+te= Montague-grammatikk
 ba= ni
-nn= Montagues semantikk
+bf= Montague-semantikk
+nn= Montague-grammatikk
+nn= Montague-semantikk
 tio= 2014-08-25T00:00:00Z
+tie= 2019-02-28T18:47:16Z
 
 id= REAL010261
 te= Plasmasfære
@@ -87644,9 +87639,9 @@ tis= 2017-01-06T00:02:38Z
 
 id= REAL010331
 te= Semiokjemi
-ba= nb
-nn= Semiokjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:13:45Z
+fly= REAL013911
 
 id= REAL010332
 te= Kretselektronikk
@@ -88110,9 +88105,12 @@ te= Svingninger
 ba= nb
 ba= nf
 ba= nm
+bf= Oscillasjoner
 nn= Svingingar
+nn= Oscillasjonar
 en= Oscillations
 tio= 2014-08-25T00:00:00Z
+st= REAL014360
 st= REAL025893
 st= REAL026632
 st= REAL027303
@@ -89158,9 +89156,9 @@ st= REAL031261
 
 id= REAL010529
 te= Planteanalyser
-ba= ne
-nn= Planteanalysar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:08:46Z
+fly= REAL002503
 
 id= REAL010530
 te= Transmisjon
@@ -89334,11 +89332,15 @@ tie= 2015-09-21T09:21:03Z
 id= REAL010557
 te= B-vitaminer
 ba= ns
+bf= Vitamin B-komplekset
+ot= REAL010066
 ut= REAL002271
 nn= B-vitamin
+nn= Vitamin B-komplekset
 en= B vitamins
+en= Vitamin B complex
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T16:32:44Z
+tie= 2019-02-28T17:39:05Z
 
 id= REAL010558
 te= Genetiske markører
@@ -89456,10 +89458,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010570
 te= Legemiddelsynteser
-ba= nk
-nn= Lækjemiddelsyntesar
-nn= Legemiddelsyntesar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:00:36Z
+fly= REAL012209
 
 id= REAL010571
 te= High-performance liquid chromatography
@@ -89720,9 +89721,8 @@ tis= 2018-11-28T17:36:46Z
 
 id= REAL010599
 te= Stimuli
-ba= nb
-nn= Stimuli
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:19:39Z
 
 id= REAL010600
 te= Smaksstoffer
@@ -91562,9 +91562,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010830
 te= Objektorienterte brukergrensesnitt
-ba= ni
-nn= Objektorienterte brukargrensesnitt
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T19:28:25Z
 
 id= REAL010831
 te= Platinakatalysatorer
@@ -94133,11 +94132,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011162
 te= Skogpatologi
-ba= nk
-ba= nb
-ba= nq
-nn= Skogpatologi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:15:29Z
+fly= REAL007806
 
 id= REAL011163
 te= Monodromi-grupper
@@ -94682,9 +94679,8 @@ st= REAL027979
 
 id= REAL011232
 te= Trypsinering
-ba= nk
-nn= Trypsinering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:20:29Z
 
 id= REAL011233
 te= Solforskning
@@ -94786,9 +94782,11 @@ bf= Naturovervåking
 bf= Naturovervåkning
 bf= Havovervåking
 bf= Havovervåkning
+bf= Miljømålinger
 nn= Miljøovervaking
 nn= Naturovervaking
 nn= Havovervaking
+nn= Miljømålingar
 en= Environmental monitoring
 en= Marine monitoring
 en= Ocean monitoring
@@ -96683,11 +96681,8 @@ st= REAL031842
 
 id= REAL011466
 te= Skogsvegetasjoner
-ba= nk
-ba= nb
-ba= nq
-nn= Skogsvegetasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:18:29Z
 
 id= REAL011467
 te= Lignin
@@ -96756,12 +96751,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011476
 te= Mikroporøse materialer
 ba= nk
-so= REAL003741
 ot= REAL007274
 nn= Mikroporøse materiale
 en= Microporous materials
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-25T10:28:10Z
+tie= 2019-02-28T17:00:04Z
 
 id= REAL011477
 te= Meldingssystemer
@@ -98466,11 +98460,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011671
 te= Sulfidmineraler
-ba= nc
-nn= Sulfidmineral
-en= Sulphide minerals
-en= Sulfide minerals
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:03:59Z
+fly= REAL004686
 
 id= REAL011672
 te= Virtuelt klasserom
@@ -98751,9 +98743,9 @@ tis= 2018-03-02T20:15:22Z
 
 id= REAL011700
 te= Nevromodulatorer
-ba= nb
-nn= Nevromodulatorar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T14:10:07Z
+fly= REAL004057
 
 id= REAL011701
 te= Gravimetri (geologi)
@@ -102291,9 +102283,9 @@ tie= 2018-09-08T09:52:39Z
 
 id= REAL012132
 te= Kjønnsfordelinger
-ba= nb
-nn= Kjønnsfordelingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-02-28T15:41:34Z
+fly= REAL012134
 
 id= REAL012133
 te= Sikkerhetsplanlegging
@@ -102305,7 +102297,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012134
 te= Kjønnsrater
 ba= nb
+bf= Kjønnsfordelinger
 nn= Kjønnsratar
+nn= Kjønnsfordelingar
 en= Sex ratio
 tio= 2014-08-25T00:00:00Z
 
@@ -102974,8 +102968,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012209
 te= Legemiddelutvikling
+bf= Legemiddelsynteser
 nn= Lækjemiddelutvikling
 nn= Legemiddelutvikling
+nn= Lækjemiddelsyntesar
+nn= Legemiddelsyntesar
 en= Drug development
 en= Drug discovery
 tio= 2014-08-25T00:00:00Z
@@ -103240,7 +103237,6 @@ nn= Digitale bøker
 nn= Elektroniske bøker
 en= E-books
 tio= 2014-08-25T00:00:00Z
-st= REAL015049
 
 id= REAL012235
 te= Geosfæren
@@ -105767,11 +105763,12 @@ ba= nm
 ba= ns
 so= REAL012456
 so= REAL007555
+so= REAL007368
 nn= Nanoteknologi
 en= Nanotechnology
 dw= 620.5
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-19T17:43:45Z
+tie= 2019-02-28T18:59:35Z
 st= REAL018475
 st= REAL018665
 st= REAL019169
@@ -118816,7 +118813,9 @@ ba= ngh
 ba= nm
 ba= nq
 ba= ns
+bf= Naturstudier
 nn= Naturvitskap
+nn= Naturstudiar
 en= Science
 tio= 2014-08-25T00:00:00Z
 st= REAL014109
@@ -118829,6 +118828,7 @@ st= REAL015196
 st= REAL015272
 st= REAL015479
 st= REAL015570
+st= REAL015609
 st= REAL015795
 st= REAL015876
 st= REAL016011
@@ -118866,8 +118866,6 @@ st= REAL021122
 st= REAL021431
 st= REAL021511
 st= REAL021801
-st= REAL022196
-st= REAL022321
 st= REAL022338
 st= REAL022352
 st= REAL022750
@@ -120189,13 +120187,16 @@ ba= ngh
 ba= ns
 bf= Miljøforvaltning
 bf= Naturoppsyn
+bf= Skjøtsel
 nn= Naturforvalting
 nn= Miljøforvalting
 nn= Miljøforvaltning
 nn= Naturforvaltning
 nn= Naturoppsyn
+nn= Skjøtsel
 tio= 2014-08-25T00:00:00Z
 st= REAL014554
+st= REAL015616
 st= REAL016891
 st= REAL016934
 st= REAL017510
@@ -125229,9 +125230,11 @@ te= Signalmolekyler
 ba= nb
 bf= Kjemiske signaler
 bf= Signalstoffer
+bf= Semiokjemi
 nn= Signalmolekyl
 nn= Kjemiske signal
 nn= Signalstoff
+nn= Semiokjemi
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-27T17:08:42Z
 st= REAL026017
@@ -127788,7 +127791,9 @@ st= REAL031388
 
 id= REAL031353
 te= Trupialer
+bf= Kufugler
 nn= Trupialar
+nn= Kufuglar
 en= American blackbirds
 en= Orioles
 en= New World Blackbirds
@@ -131102,4 +131107,3 @@ en= Vulnerability assessments
 en= Vulnerability scanning
 tio= 2019-02-24T10:07:25Z
 tie= 2019-02-24T10:11:00Z
-
