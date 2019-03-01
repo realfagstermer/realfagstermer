@@ -49757,11 +49757,24 @@ st= REAL026800
 st= REAL028903
 
 id= REAL005908
-te= Mikrolitografi
+te= Fotolitografi
 ba= ni
+bf= Mikrolitografi
+bf= Optisk litografi
+bf= UV-litografi
+bf= Nanolitografi
+nn= Fotolitografi
 nn= Mikrolitografi
+nn= Optisk litografi
+nn= UV-litografi
+nn= Nanolitografi
+en= Photolitography
 en= Microlithography
+en= Optical litography
+en= UV litography
+en= Nanolitography
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-01T20:30:41Z
 
 id= REAL005909
 te= Lytropiske faser
@@ -74523,11 +74536,9 @@ tis= 2018-07-25T15:14:25Z
 
 id= REAL008787
 te= Litografi
-ba= nk
-ba= na
-nn= Litografi
-en= Lithography
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-01T20:30:51Z
+tis= 2019-03-01T20:32:32Z
 
 id= REAL008788
 te= Kjerneprøver
@@ -131245,4 +131256,27 @@ en= Integrated optical circuits
 en= Optical devices
 tio= 2019-03-01T15:10:52Z
 tie= 2019-03-01T20:23:47Z
+
+id= REAL032088
+te= Gunn-dioder
+bf= Gunn–Hilsum-dioder
+bf= Gunn-effekten
+bf= Gunn–Hilsum-effekten
+ot= REAL032089
+nn= Gunn-diodar
+nn= Gunn-effekten
+nn= Gunn–Hilsum-effekten
+en= Gunn diodes
+en= Transferred electron devices
+en= Gunn–Hilsum diodes
+en= Gunn effect
+en= Gunn–Hilsum effect
+tio= 2019-03-01T20:47:01Z
+tie= 2019-03-01T20:49:55Z
+
+id= REAL032089
+te= Mikrobølgeteknikk
+ut= REAL032088
+tio= 2019-03-01T20:49:50Z
+tie= 2019-03-01T20:49:55Z
 
