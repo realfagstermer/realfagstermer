@@ -6045,10 +6045,8 @@ st= REAL023653
 
 id= REAL000706
 te= Brukerinteresser
-ba= ngh
-nn= Brukarinteresser
-en= User interests
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T20:59:34Z
 
 id= REAL000707
 te= Systembiologi
@@ -48883,11 +48881,14 @@ tio= 2014-08-25T00:00:00Z
 tie= 2018-07-20T11:07:46Z
 
 id= REAL005797
-te= Konkurranse
+te= Konkurranser
 ba= nm
-nn= Konkurranse
+so= REAL031984
+nn= Konkurransar
+en= Contests
+en= Competitions
 tio= 2014-08-25T00:00:00Z
-tie= 2018-10-02T18:37:54Z
+tie= 2019-03-01T21:10:44Z
 st= REAL019338
 
 id= REAL005798
@@ -90325,16 +90326,16 @@ nn= Nasjonale prøvar
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010660
-te= Prinsipalkomponentanalyse
+te= Hovedkomponentanalyse
 ba= ni
-bf= Hovedkomponentanalyse
+bf= Prinsipalkomponentanalyse
 ak= PCA
 ot= REAL000430
+nn= Hovudkomponentanalyse
 nn= Prinsipalkomponentanalyse
-nn= PCA
 en= Principal component analysis
 tio= 2014-08-25T00:00:00Z
-tie= 2018-11-12T19:35:34Z
+tie= 2019-03-01T20:55:43Z
 
 id= REAL010661
 te= Binærtrær
@@ -130309,6 +130310,7 @@ tie= 2018-03-08T19:35:32Z
 id= REAL031984
 te= Konkurranseprogrammering
 bf= Programmeringskonkurranser
+so= REAL005797
 nn= Konkurranseprogrammering
 nn= Programmeringskonkurransar
 nn= Programmeringstevlingar

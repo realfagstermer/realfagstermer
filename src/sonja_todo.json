@@ -1,314 +1,178 @@
 {
-  "REAL002075": {
-    "prefLabel": "Olefination",
-    "altLabel": []
-  },
-  "REAL011610": {
-    "prefLabel": "Video compression",
-    "altLabel": []
-  },
-  "REAL011501": {
-    "prefLabel": "Petroleum technology",
+  "REAL014058": {
+    "prefLabel": "Citation of sources",
     "altLabel": [
-      "Petroleum engineering"
+      "Bibliographical references",
+      "Bibliographical citations",
+      "Referencing",
+      "Citation styles",
+      "Citations",
+      "Reference styles",
+      "Reference management"
     ]
   },
-  "REAL001781": {
-    "prefLabel": "Furniture industry",
+  "REAL004127": {
+    "prefLabel": "Koalas",
     "altLabel": []
   },
-  "REAL002806": {
-    "prefLabel": "Clonal growth",
+  "REAL005947": {
+    "prefLabel": "Facsimiles",
     "altLabel": []
   },
-  "REAL000478": {
-    "prefLabel": "Tuber plants",
+  "REAL007215": {
+    "prefLabel": "IT operations",
     "altLabel": [
-      "Tubers"
+      "Information technology operations"
     ]
   },
-  "REAL007811": {
-    "prefLabel": "Dassies",
+  "REAL012550": {
+    "prefLabel": "Thorny-headed worms",
     "altLabel": [
-      "Hyrax"
+      "Acanthocephalans",
+      "Spiny-headed worms"
     ]
   },
-  "REAL011008": {
-    "prefLabel": "Clematis",
-    "altLabel": []
-  },
-  "REAL009735": {
-    "prefLabel": "Clinical epidemiology",
-    "altLabel": []
-  },
-  "REAL008157": {
-    "prefLabel": "Multidose",
-    "altLabel": []
-  },
-  "REAL000720": {
-    "prefLabel": "Monotremes",
-    "altLabel": []
-  },
-  "REAL006674": {
-    "prefLabel": "Navigation radars",
-    "altLabel": []
-  },
-  "REAL008909": {
-    "prefLabel": "Horseflies",
-    "altLabel": []
-  },
-  "REAL010453": {
-    "prefLabel": "Multifractals",
+  "REAL007613": {
+    "prefLabel": "Luminiferous aether",
     "altLabel": [
-      "Multifractal systems"
+      "Aether"
     ]
   },
-  "REAL007368": {
-    "prefLabel": "Nanosystems",
+  "REAL011735": {
+    "prefLabel": "Estimators",
     "altLabel": []
   },
-  "REAL005611": {
-    "prefLabel": "Inertia",
+  "REAL008884": {
+    "prefLabel": "Hummingbirds",
     "altLabel": []
   },
-  "REAL002911": {
-    "prefLabel": "Auroras",
+  "REAL003368": {
+    "prefLabel": "Collisions",
+    "altLabel": []
+  },
+  "REAL006164": {
+    "prefLabel": "Cooperative systems",
+    "altLabel": []
+  },
+  "REAL001491": {
+    "prefLabel": "Cereal",
     "altLabel": [
-      "Aurorae",
-      "Polar lights"
+      "Grain"
     ]
   },
-  "REAL010882": {
-    "prefLabel": "Surface energy",
+  "REAL005808": {
+    "prefLabel": "Commensalism",
     "altLabel": []
   },
-  "REAL004119": {
-    "prefLabel": "Nitrosation",
-    "altLabel": []
-  },
-  "REAL005701": {
-    "prefLabel": "Great tit",
-    "altLabel": []
-  },
-  "REAL001350": {
-    "prefLabel": "Surface physics",
-    "altLabel": []
-  },
-  "REAL001576": {
-    "prefLabel": "Occultism",
+  "REAL007390": {
+    "prefLabel": "King palms",
     "altLabel": [
-      "Black arts (Magic)",
-      "Occult, The"
+      "Palms",
+      "Cycadales"
     ]
   },
-  "REAL012382": {
-    "prefLabel": "Oxygen group",
+  "REAL005148": {
+    "prefLabel": "Demand",
     "altLabel": [
-      "Chalcogens"
+      "Demand curve"
     ]
   },
-  "REAL002201": {
-    "prefLabel": "Woodworking",
-    "altLabel": []
-  },
-  "REAL008827": {
-    "prefLabel": "Faith",
+  "REAL009619": {
+    "prefLabel": "Kola trees",
     "altLabel": [
-      "Religious belief"
+      "Cola trees",
+      "Colas"
     ]
   },
-  "REAL008297": {
-    "prefLabel": "Molybdenum disulfide",
-    "altLabel": []
-  },
-  "REAL012654": {
-    "prefLabel": "Myths",
+  "REAL002605": {
+    "prefLabel": "Comma shrimps",
     "altLabel": [
-      "Legends"
+      "Cumaceans",
+      "Hooded shrimp",
+      "Comma shrimps",
+      "Hooded shrimps"
     ]
   },
-  "REAL000724": {
-    "prefLabel": "Musical acoustics",
+  "REAL012907": {
+    "prefLabel": "Rove beetles",
     "altLabel": []
   },
-  "REAL009466": {
-    "prefLabel": "Cliffed coasts",
+  "REAL031328": {
+    "prefLabel": "Colonization",
+    "altLabel": []
+  },
+  "REAL007091": {
+    "prefLabel": "Brassicaceae",
     "altLabel": [
-      "Rocky cliffed coasts",
-      "Abrasion coasts",
-      "Rocky coasts"
+      "Crucifers",
+      "Cabbage family",
+      "Mustards",
+      "Cruciferae"
     ]
   },
-  "REAL006572": {
-    "prefLabel": "Tropical medicine",
+  "REAL009561": {
+    "prefLabel": "Grain products",
     "altLabel": []
   },
-  "REAL006215": {
-    "prefLabel": "Oscillating reactions",
+  "REAL004411": {
+    "prefLabel": "Energy sector",
     "altLabel": []
   },
-  "REAL008804": {
-    "prefLabel": "Adjacency matrices",
+  "REAL011440": {
+    "prefLabel": "Grain production",
     "altLabel": []
   },
-  "REAL008129": {
-    "prefLabel": "Mountain research",
+  "REAL005292": {
+    "prefLabel": "Sibling rivalry",
+    "altLabel": []
+  },
+  "REAL009972": {
+    "prefLabel": "Comparative psychology",
+    "altLabel": []
+  },
+  "REAL013761": {
+    "prefLabel": "Stoneworts",
     "altLabel": [
-      "Orology",
-      "Montology"
+      "Charales"
     ]
   },
-  "REAL012653": {
-    "prefLabel": "Mysticism",
+  "REAL011537": {
+    "prefLabel": "Electronic filters",
     "altLabel": []
   },
-  "REAL010563": {
-    "prefLabel": "Skin beetles",
+  "REAL012866": {
+    "prefLabel": "Energy transfer",
+    "altLabel": []
+  },
+  "REAL009798": {
+    "prefLabel": "Cooperative phenomena",
+    "altLabel": []
+  },
+  "REAL004845": {
+    "prefLabel": "Cholinesterase inhibitors",
     "altLabel": [
-      "larder beetles",
-      "leather beetles",
-      "carpet beetles",
-      "hide beetles",
-      "khapra beetles"
+      "Acetylcholinesterase inhibitors",
+      "Cholinesterase-inhibitors"
     ]
   },
-  "REAL004650": {
-    "prefLabel": "Black flies",
-    "altLabel": [
-      "Buffalo gnats",
-      "Turkey gnats",
-      "white socks",
-      "White socks",
-      "Buffalo gnat",
-      "turkey gnat"
-    ]
-  },
-  "REAL011268": {
-    "prefLabel": "Turbulence",
-    "altLabel": [
-      "Turbulent flow"
-    ]
-  },
-  "REAL003480": {
-    "prefLabel": "Oscillators",
+  "REAL007690": {
+    "prefLabel": "Formal language theory",
     "altLabel": []
   },
-  "REAL013007": {
-    "prefLabel": "Observational cosmology",
+  "REAL004789": {
+    "prefLabel": "Anthozoa",
     "altLabel": []
   },
-  "REAL011061": {
-    "prefLabel": "Coupling reactions",
+  "REAL007333": {
+    "prefLabel": "Comparative physiology",
     "altLabel": []
   },
-  "REAL001240": {
-    "prefLabel": "Nickel compounds",
+  "REAL011276": {
+    "prefLabel": "Comparative anatomy",
     "altLabel": []
   },
-  "REAL004422": {
-    "prefLabel": "Observatories",
-    "altLabel": []
-  },
-  "REAL010260": {
-    "prefLabel": "Montague grammar",
-    "altLabel": [
-      "Montague semantics"
-    ]
-  },
-  "REAL012381": {
-    "prefLabel": "Nitrogen group",
-    "altLabel": [
-      "Nitrogen elements"
-    ]
-  },
-  "REAL009086": {
-    "prefLabel": "Network societies",
-    "altLabel": []
-  },
-  "REAL006711": {
-    "prefLabel": "Oscilloscopes",
-    "altLabel": []
-  },
-  "REAL008742": {
-    "prefLabel": "Bank voles",
-    "altLabel": []
-  },
-  "REAL013737": {
-    "prefLabel": "Nitro compounds",
-    "altLabel": []
-  },
-  "REAL002695": {
-    "prefLabel": "Pattern formation",
-    "altLabel": []
-  },
-  "REAL002264": {
-    "prefLabel": "Nanocrystals",
-    "altLabel": []
-  },
-  "REAL030176": {
-    "prefLabel": "Nautical almanacs",
-    "altLabel": []
-  },
-  "REAL001062": {
-    "prefLabel": "Multi-agent systems",
-    "altLabel": []
-  },
-  "REAL008688": {
-    "prefLabel": "Oil supply",
-    "altLabel": []
-  },
-  "REAL004104": {
-    "prefLabel": "Polarized light",
-    "altLabel": []
-  },
-  "REAL012447": {
-    "prefLabel": "Musical rhythms",
-    "altLabel": []
-  },
-  "REAL011323": {
-    "prefLabel": "Monodromy",
-    "altLabel": []
-  },
-  "REAL000756": {
-    "prefLabel": "Titanium group",
-    "altLabel": [
-      "Group 4 elements"
-    ]
-  },
-  "REAL005942": {
-    "prefLabel": "Paper",
-    "altLabel": []
-  },
-  "REAL000484": {
-    "prefLabel": "Petroleum production",
-    "altLabel": []
-  },
-  "REAL002533": {
-    "prefLabel": "Trends",
-    "altLabel": []
-  },
-  "REAL002909": {
-    "prefLabel": "Nautical astronomy",
-    "altLabel": []
-  },
-  "REAL009168": {
-    "prefLabel": "Future societies",
-    "altLabel": []
-  },
-  "REAL007196": {
-    "prefLabel": "Polarization",
-    "altLabel": []
-  },
-  "REAL001082": {
-    "prefLabel": "Public economics",
-    "altLabel": []
-  },
-  "REAL010273": {
-    "prefLabel": "Reading",
-    "altLabel": []
-  },
-  "REAL004970": {
-    "prefLabel": "Trigonometry",
+  "REAL002183": {
+    "prefLabel": "Collagen",
     "altLabel": []
   }
 }
