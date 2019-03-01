@@ -744,6 +744,7 @@ tis= 2018-08-29T19:54:50Z
 
 id= REAL030176
 te= Nautiske almanakker
+en= Nautical almanacs
 tio= 2015-02-20T13:08:04Z
 
 id= REAL031089

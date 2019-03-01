@@ -4137,6 +4137,8 @@ bf= Rotknoller
 nn= Knollvekstar
 nn= Knollvokstrar
 nn= Rotknollar
+en= Tuber plants
+en= Tubers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000479
@@ -4183,6 +4185,7 @@ id= REAL000484
 te= Petroleumsproduksjon
 ba= nc
 nn= Petroleumsproduksjon
+en= Petroleum production
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000485
@@ -6149,6 +6152,7 @@ id= REAL000720
 te= Kloakkdyr
 ba= nb
 nn= Kloakkdyr
+en= Monotremes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000721
@@ -6180,6 +6184,7 @@ id= REAL000724
 te= Musikalsk akustikk
 ba= nf
 nn= Musikalsk akustikk
+en= Musical acoustics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000725
@@ -6461,6 +6466,8 @@ id= REAL000756
 te= Titangruppen
 ba= nk
 nn= Titangruppa
+en= Titanium group
+en= Group 4 elements
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000757
@@ -9163,6 +9170,7 @@ ba= ni
 bf= Fleragentsystemer
 nn= Multiagentsystem
 nn= Fleiragentsystem
+en= Multi-agent systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001063
@@ -9303,6 +9311,7 @@ id= REAL001082
 te= Offentlig økonomi
 ba= nm
 nn= Offentleg økonomi
+en= Public economics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001083
@@ -10605,6 +10614,7 @@ te= Nikkelforbindelser
 ba= nk
 ut= REAL009543
 nn= Nikkelsambindingar
+en= Nickel compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001242
@@ -11665,6 +11675,7 @@ id= REAL001350
 te= Overflatefysikk
 ba= nk
 nn= Overflatefysikk
+en= Surface physics
 tio= 2014-08-25T00:00:00Z
 st= REAL014678
 st= REAL028961
@@ -13464,6 +13475,9 @@ id= REAL001576
 te= Okkultisme
 ba= ns
 nn= Okkultisme
+en= Occultism
+en= Black arts (Magic)
+en= Occult, The
 tio= 2014-08-25T00:00:00Z
 st= REAL017433
 
@@ -15166,6 +15180,7 @@ id= REAL001781
 te= Møbelindustri
 ba= ni
 nn= Møbelindustri
+en= Furniture industry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001782
@@ -17561,6 +17576,7 @@ id= REAL002075
 te= Olefinering
 ba= nk
 nn= Olefinering
+en= Olefination
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002076
@@ -18773,6 +18789,7 @@ id= REAL002201
 te= Tresløyd
 ba= nb
 nn= Tresløyd
+en= Woodworking
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002202
@@ -19253,6 +19270,7 @@ te= Nanokrystaller
 ba= nk
 nn= Nanokrystallar
 nn= Nanokrystall
+en= Nanocrystals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002265
@@ -21605,6 +21623,7 @@ id= REAL002533
 te= Trender
 ba= ns
 nn= Trendar
+en= Trends
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002534
@@ -22961,6 +22980,7 @@ id= REAL002695
 te= Mønsterdannelse
 ba= nb
 nn= Mønsterdanning
+en= Pattern formation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002696
@@ -23974,6 +23994,7 @@ te= Klonal vekst
 ba= nb
 nn= Klonal vekst
 nn= Klonal vokster
+en= Clonal growth
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002808
@@ -24924,6 +24945,7 @@ id= REAL002909
 te= Nautisk astronomi
 ba= na
 nn= Nautisk astronomi
+en= Nautical astronomy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002911
@@ -24932,6 +24954,9 @@ ba= na
 ut= REAL012749
 nn= Polarljos
 nn= Polarlys
+en= Auroras
+en= Aurorae
+en= Polar lights
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002912
@@ -29695,6 +29720,7 @@ ba= ni
 ba= nk
 ba= nf
 nn= Oscillatorar
+en= Oscillators
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003481
@@ -34997,6 +35023,7 @@ ba= na
 ba= nf
 nn= Polarisert ljos
 nn= Polarisert lys
+en= Polarized light
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004105
@@ -35114,6 +35141,7 @@ te= Nitrosering
 ba= nk
 so= REAL000102
 nn= Nitrosering
+en= Nitrosation
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T19:22:07Z
 
@@ -37664,6 +37692,7 @@ ut= REAL007714
 ut= REAL010419
 ut= REAL006979
 nn= Observatorium
+en= Observatories
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T15:54:15Z
 st= REAL014828
@@ -39501,6 +39530,13 @@ te= Knott
 ba= nb
 ba= ns
 nn= Knott
+en= Black flies
+en= Buffalo gnats
+en= Turkey gnats
+en= white socks
+en= White socks
+en= Buffalo gnat
+en= turkey gnat
 tio= 2014-08-25T00:00:00Z
 st= REAL024067
 
@@ -42079,6 +42115,7 @@ id= REAL004970
 te= Trigonometri
 ba= nm
 nn= Trigonometri
+en= Trigonometry
 tio= 2014-08-25T00:00:00Z
 st= REAL019416
 
@@ -47197,6 +47234,7 @@ id= REAL005611
 te= Treghet
 ba= nf
 nn= Tregleik
+en= Inertia
 tio= 2014-08-25T00:00:00Z
 st= REAL020949
 st= REAL029007
@@ -47985,6 +48023,7 @@ ba= nb
 ba= ns
 nn= Kjøtmeiser
 nn= Kjøttmeiser
+en= Great tit
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005702
@@ -50041,6 +50080,7 @@ te= Papir
 ba= nk
 ba= ns
 nn= Papir
+en= Paper
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005943
@@ -52338,6 +52378,7 @@ id= REAL006215
 te= Oscillerende reaksjoner
 ba= nk
 nn= Oscillerande reaksjonar
+en= Oscillating reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006216
@@ -55662,6 +55703,7 @@ id= REAL006572
 te= Tropisk medisin
 ba= nb
 nn= Tropisk medisin
+en= Tropical medicine
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006574
@@ -56494,6 +56536,7 @@ id= REAL006674
 te= Navigasjonsradarer
 ba= ns
 nn= Navigasjonsradarar
+en= Navigation radars
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006675
@@ -56884,6 +56927,7 @@ id= REAL006711
 te= Oscilloskop
 ba= nf
 nn= Oscilloskop
+en= Oscilloscopes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006713
@@ -60978,6 +61022,7 @@ ba= nk
 ba= na
 ba= nf
 nn= Polarisasjon
+en= Polarization
 tio= 2014-08-25T00:00:00Z
 st= REAL026535
 
@@ -62366,6 +62411,7 @@ ba= nf
 so= REAL002527
 so= REAL012457
 nn= Nanosystem
+en= Nanosystems
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-28T18:59:08Z
 
@@ -66096,6 +66142,8 @@ id= REAL007811
 te= Klippegrevlinger
 ba= nb
 nn= Klippegrevlingar
+en= Dassies
+en= Hyrax
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007812
@@ -68743,6 +68791,9 @@ id= REAL008129
 te= Orologi
 ba= ns
 nn= Orologi
+en= Mountain research
+en= Orology
+en= Montology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008130
@@ -68971,6 +69022,7 @@ id= REAL008157
 te= Multidose
 ba= ne
 nn= Multidose
+en= Multidose
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008158
@@ -70169,6 +70221,7 @@ id= REAL008297
 te= Molybdentrisulfid
 ba= nk
 nn= Molybdentrisulfid
+en= Molybdenum disulfide
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008298
@@ -73689,6 +73742,7 @@ id= REAL008688
 te= Oljeforsyning
 ba= nk
 nn= Oljeforsyning
+en= Oil supply
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008689
@@ -74099,6 +74153,7 @@ te= Klatremus
 ba= nb
 nn= Klatremus
 nn= Klatremyser
+en= Bank voles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008743
@@ -74621,6 +74676,7 @@ te= Naboskapsmatriser
 ba= ni
 nn= Naboskapsmatriser
 nn= Grannematriser
+en= Adjacency matrices
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008806
@@ -74807,6 +74863,8 @@ id= REAL008827
 te= Tro
 ba= nb
 nn= Tru
+en= Faith
+en= Religious belief
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008828
@@ -75458,6 +75516,7 @@ id= REAL008909
 te= Klegg
 ba= nb
 nn= Klegg
+en= Horseflies
 tio= 2014-08-25T00:00:00Z
 st= REAL018565
 st= REAL022773
@@ -77041,6 +77100,7 @@ te= Nettverksamfunn
 ba= ni
 so= REAL000687
 nn= Nettverksamfunn
+en= Network societies
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T09:31:53Z
 
@@ -77680,6 +77740,7 @@ id= REAL009168
 te= Framtidssamfunn
 ba= ngh
 nn= Framtidssamfunn
+en= Future societies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009169
@@ -80069,6 +80130,10 @@ id= REAL009466
 te= Klippestrender
 ba= nb
 nn= Klippestrender
+en= Cliffed coasts
+en= Rocky cliffed coasts
+en= Abrasion coasts
+en= Rocky coasts
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009467
@@ -82314,6 +82379,7 @@ id= REAL009735
 te= Klinisk epidemiologi
 ba= ne
 nn= Klinisk epidemiologi
+en= Clinical epidemiology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009736
@@ -87056,6 +87122,8 @@ ba= ni
 bf= Montague-semantikk
 nn= Montague-grammatikk
 nn= Montague-semantikk
+en= Montague grammar
+en= Montague semantics
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-28T18:47:16Z
 
@@ -87201,6 +87269,7 @@ te= Lesing
 ba= nk
 ba= ns
 nn= Lesing
+en= Reading
 tio= 2014-08-25T00:00:00Z
 st= REAL015672
 
@@ -88542,6 +88611,8 @@ te= Multifraktaler
 ba= nf
 ba= nm
 nn= Multifraktalar
+en= Multifractals
+en= Multifractal systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010454
@@ -89417,6 +89488,12 @@ id= REAL010563
 te= Klannere
 ba= nb
 nn= Klannarar
+en= Skin beetles
+en= larder beetles
+en= leather beetles
+en= carpet beetles
+en= hide beetles
+en= khapra beetles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010564
@@ -91917,6 +91994,7 @@ id= REAL010882
 te= Overflateenergi
 ba= nk
 nn= Overflateenergi
+en= Surface energy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010883
@@ -92939,6 +93017,7 @@ te= Klematis
 ba= nb
 ba= nq
 nn= Klematis
+en= Clematis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011009
@@ -93333,6 +93412,7 @@ id= REAL011061
 te= Koblingsreaksjoner
 ba= nk
 nn= Koplingsreaksjonar
+en= Coupling reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011062
@@ -94964,6 +95044,8 @@ bf= Turbulent strømning
 ut= REAL032061
 nn= Turbulens
 nn= Turbulent strøyming
+en= Turbulence
+en= Turbulent flow
 tio= 2014-08-25T00:00:00Z
 st= REAL025750
 
@@ -95452,6 +95534,7 @@ id= REAL011323
 te= Monodromi
 ba= nm
 nn= Monodromi
+en= Monodromy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011324
@@ -96932,6 +97015,8 @@ ba= ngh
 bf= Oljeteknologi
 nn= Petroleumsteknologi
 nn= Oljeteknologi
+en= Petroleum technology
+en= Petroleum engineering
 tio= 2014-08-25T00:00:00Z
 st= REAL015165
 
@@ -97880,6 +97965,7 @@ ba= ni
 bf= Videokompresjon
 nn= Videokomprimering
 nn= Videokompresjon
+en= Video compression
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011611
@@ -104635,6 +104721,8 @@ so= REAL012198
 so= REAL012172
 nn= Nitrogengruppa
 nn= Grunnstoffgruppe 15
+en= Nitrogen group
+en= Nitrogen elements
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012382
@@ -104648,6 +104736,8 @@ so= REAL012201
 so= REAL012352
 nn= Oksygengruppa
 nn= Grunnstoffgruppe 16
+en= Oxygen group
+en= Chalcogens
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012383
@@ -105641,6 +105731,7 @@ id= REAL012447
 te= Musikalske rytmer
 ba= ni
 nn= Musikalske rytmar
+en= Musical rhythms
 dw= 781.22
 tio= 2014-08-25T00:00:00Z
 
@@ -108143,6 +108234,7 @@ ba= nk
 bf= Mystisisme
 nn= Mystikk
 nn= Mystisisme
+en= Mysticism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012654
@@ -108155,6 +108247,8 @@ bf= Legender
 nn= Mytar
 nn= Mytedanning
 nn= Legender
+en= Myths
+en= Legends
 tio= 2014-08-25T00:00:00Z
 st= REAL015569
 st= REAL017236
@@ -112206,6 +112300,7 @@ st= REAL029531
 id= REAL013007
 te= Observasjonskosmologi
 nn= Observasjonskosmologi
+en= Observational cosmology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013008
@@ -122206,6 +122301,7 @@ bf= Nitroorganiske forbindelser
 ot= REAL009679
 nn= Nitrosambindingar
 nn= Nitroorganiske sambindingar
+en= Nitro compounds
 de= Forbindelser med minst én funksjonell nitrogruppe (-NO2)
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T19:19:10Z
