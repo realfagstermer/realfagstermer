@@ -377,11 +377,8 @@ fly= REAL006961
 
 id= REAL000048
 te= Komponenter
-ba= nk
-ba= nf
-nn= Komponentar
 tio= 2014-08-25T00:00:00Z
-st= REAL025995
+tis= 2019-03-01T22:38:10Z
 
 id= REAL000049
 te= Lydopptak
@@ -12789,6 +12786,8 @@ ba= nb
 ba= nq
 ba= ns
 nn= Korn
+en= Cereal
+en= Grain
 tio= 2014-08-25T00:00:00Z
 st= REAL016918
 st= REAL025987
@@ -18645,6 +18644,7 @@ te= Kollagen
 ba= nb
 ba= ns
 nn= Kollagen
+en= Collagen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002184
@@ -21499,7 +21499,9 @@ ba= nb
 ba= nf
 ba= nm
 ba= ns
+bf= Lengdeenheter
 nn= Måleeiningar
+nn= Lengdeeiningar
 en= Units of measurement
 tio= 2014-08-25T00:00:00Z
 st= REAL014346
@@ -22307,6 +22309,10 @@ bf= Halekreps
 nn= Kommakreps
 nn= Cumacear
 nn= Halekreps
+en= Comma shrimps
+en= Cumaceans
+en= Hooded shrimp
+en= Hooded shrimps
 la= Cumacea
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-07T14:39:46Z
@@ -22942,10 +22948,8 @@ fly= REAL009487
 
 id= REAL002689
 te= Visjoner
-ba= ns
-nn= Visjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL028712
+tis= 2019-03-02T00:38:12Z
 
 id= REAL002690
 te= Oljevirksomhet
@@ -23772,11 +23776,12 @@ id= REAL002781
 te= Amorfe halvledere
 ba= nk
 ba= nf
+so= REAL006402
 ot= REAL005740
 nn= Amorfe halvleiarar
 en= Amorphous semiconductors
 tio= 2014-08-25T00:00:00Z
-tie= 2017-06-22T21:42:58Z
+tie= 2019-03-01T23:22:28Z
 
 id= REAL002782
 te= Blodanalyse
@@ -24017,9 +24022,10 @@ bf= Statistisk fysikk
 so= REAL009224
 nn= Statistisk mekanikk
 nn= Statistisk fysikk
+en= Statistical mechanics
 en= Statistical physics
 tio= 2014-08-25T00:00:00Z
-tie= 2017-06-01T12:54:17Z
+tie= 2019-03-01T23:31:32Z
 st= REAL017536
 st= REAL025134
 st= REAL026048
@@ -26847,9 +26853,8 @@ tis= 2018-07-19T13:39:23Z
 
 id= REAL003135
 te= Klassiske skrifter
-ba= ns
-nn= Klassiske skrifter
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T22:16:15Z
 
 id= REAL003136
 te= Satellittgeodesi
@@ -28748,6 +28753,7 @@ ba= na
 ba= nf
 ba= ns
 nn= Kollisjonar
+en= Collisions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003369
@@ -35211,6 +35217,7 @@ nn= Pungbjørnar
 nn= Pungbjørn
 en= Koala
 en= Koala bear
+en= Koalas
 la= Phascolarctos cinereus
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-12T13:22:28Z
@@ -37196,9 +37203,9 @@ st= REAL020942
 
 id= REAL004361
 te= Driftsmiljø
-ba= ni
-nn= Driftsmiljø
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T21:31:13Z
+fly= REAL006779
 
 id= REAL004362
 te= Geologiske katastrofer
@@ -37437,11 +37444,17 @@ en= Fluidity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004390
-te= Fotoelektrisitet
+te= Fotoelektrisk effekt
 ba= nf
 ba= ns
+bf= Fotoelektrisitet
+bf= Fotoemisjon
+so= REAL006030
 nn= Fotoelektrisitet
+nn= Fotoelektrisk effekt
+nn= Fotoemisjon
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-01T21:42:48Z
 st= REAL014147
 st= REAL015378
 
@@ -37521,9 +37534,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004403
 te= Elektroniske systemer
-ba= nf
-nn= Elektroniske system
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T21:32:07Z
 
 id= REAL004404
 te= Industriutslipp
@@ -37574,6 +37586,7 @@ id= REAL004411
 te= Energisektoren
 ba= nm
 nn= Energisektoren
+en= Energy sector
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004412
@@ -40638,6 +40651,7 @@ nn= Sjøroser
 en= Corals
 en= Anemones
 en= Sea anemones
+en= Anthozoa
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-28T18:40:58Z
 st= REAL015041
@@ -41115,6 +41129,9 @@ te= Kolinesterasehemmere
 ba= nb
 nn= Kolinesterasehemmarar
 nn= Kolinesterasehemjarar
+en= Cholinesterase inhibitors
+en= Acetylcholinesterase inhibitors
+en= Cholinesterase-inhibitors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004846
@@ -43570,6 +43587,8 @@ id= REAL005148
 te= Etterspørsel
 ba= nm
 nn= Etterspurnad
+en= Demand
+en= Demand curve
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005149
@@ -43711,9 +43730,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005168
 te= Vitenskapsformidling
 ba= na
+bf= Vitenskapelig kommunikasjon
 ot= REAL013418
 nn= Vitskapsformidling
+nn= Vitskapleg kommunikasjon
+nn= Vitskapeleg kommunikasjon
 tio= 2014-08-25T00:00:00Z
+st= REAL031614
 
 id= REAL005169
 te= Geomytologi
@@ -44708,6 +44731,7 @@ te= Søskenrivalisering
 ba= nb
 nn= Syskenrivalisering
 nn= Søskenrivalisering
+en= Sibling rivalry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005293
@@ -48973,6 +48997,7 @@ te= Kommensalisme
 ba= nb
 so= REAL001004
 nn= Kommensalisme
+en= Commensalism
 tio= 2014-08-25T00:00:00Z
 tie= 2017-06-22T21:48:51Z
 st= REAL027931
@@ -50109,6 +50134,7 @@ te= Faksimiler
 ba= ne
 nn= Faksimile
 nn= Faksimilar
+en= Facsimiles
 tio= 2014-08-25T00:00:00Z
 st= REAL017448
 st= REAL017954
@@ -50822,6 +50848,7 @@ ak= PES
 ak= PS
 ak= XPS
 ak= ESCA
+so= REAL004390
 no= http://purl.obolibrary.org/obo/CHMO_0000387
 nn= Fotoelektronspektroskopi
 nn= Fotoemisjonsspektrometri
@@ -50833,7 +50860,7 @@ en= Photoelectron emission spectroscopy
 en= Photoelectron spectrometry
 en= Electron spectroscopy for chemical analysis
 tio= 2014-08-25T00:00:00Z
-tie= 2017-01-18T12:17:38Z
+tie= 2019-03-01T21:42:48Z
 
 id= REAL006031
 te= Rogn
@@ -51946,6 +51973,7 @@ id= REAL006164
 te= Kooperative systemer
 ba= nf
 nn= Kooperative system
+en= Cooperative systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006165
@@ -54033,11 +54061,14 @@ id= REAL006402
 te= Amorfe materialer
 ba= nf
 ba= ns
-so= REAL012841
+bf= Ikke-krystallinske materialer
+so= REAL002781
 nn= Amorfe materiale
+nn= Ikkje-krystallinske materiale
 en= Amorphous materials
+en= Non-crystalline materials
 tio= 2014-08-25T00:00:00Z
-tie= 2019-02-21T08:47:14Z
+tie= 2019-03-01T23:22:27Z
 
 id= REAL006403
 te= Kattehalefamilien
@@ -54093,9 +54124,9 @@ tis= 2018-11-16T10:44:16Z
 
 id= REAL006409
 te= Statistisk væsketeori
-ba= nk
-nn= Statistisk væsketeori
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T23:31:11Z
+fly= REAL002809
 
 id= REAL006410
 te= Søtvierfamilien
@@ -57478,7 +57509,9 @@ tis= 2018-03-20T21:10:50Z
 id= REAL006779
 te= IT-drift
 ba= ni
+bf= Driftsmiljø
 nn= It-drift
+nn= Driftsmiljø
 en= IT operations
 en= Information technology operations
 tio= 2014-08-25T00:00:00Z
@@ -58576,10 +58609,8 @@ st= REAL028650
 
 id= REAL006909
 te= Søkemetodikk
-ba= nk
-nn= Søkjemetodikk
-nn= Søkemetodikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T22:12:20Z
 
 id= REAL006910
 te= Forbrukerundersøkelser
@@ -60182,6 +60213,11 @@ ba= ns
 bf= Korsblomster
 nn= Krossblomfamilien
 nn= Krossblomar
+en= Brassicaceae
+en= Crucifers
+en= Cabbage family
+en= Mustards
+en= Cruciferae
 tio= 2014-08-25T00:00:00Z
 st= REAL014566
 st= REAL015955
@@ -61160,6 +61196,8 @@ id= REAL007215
 te= Drift (datasystemer)
 ba= ni
 nn= Drift (datasystem)
+en= IT operations
+en= Information technology operations
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-04T00:00:00Z
 
@@ -62133,6 +62171,7 @@ id= REAL007333
 te= Komparativ fysiologi
 ba= nb
 nn= Komparativ fysiologi
+en= Comparative physiology
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-19T18:50:37Z
 st= REAL014961
@@ -62584,6 +62623,9 @@ id= REAL007390
 te= Konglepalmer
 ba= ns
 nn= Konglepalmar
+en= King palms
+en= Palms
+en= Cycadales
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007391
@@ -64463,6 +64505,8 @@ id= REAL007613
 te= Eteren
 ba= nf
 nn= Eteren
+en= Luminiferous aether
+en= Aether
 tio= 2014-08-25T00:00:00Z
 st= REAL015199
 
@@ -65149,9 +65193,9 @@ st= REAL027657
 
 id= REAL007690
 te= Formell språkteori
-ba= nm
-nn= Formell språkteori
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T21:35:22Z
+fly= REAL013206
 
 id= REAL007691
 te= Distributed computing environment
@@ -75324,6 +75368,7 @@ id= REAL008884
 te= Kolibrier
 ba= nb
 nn= Kolibriar
+en= Hummingbirds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008885
@@ -79802,11 +79847,8 @@ st= REAL024110
 
 id= REAL009423
 te= Klassiske verker
-ba= ns
-nn= Klassiske verk
 tio= 2014-08-25T00:00:00Z
-st= REAL018108
-st= REAL025875
+tis= 2019-03-01T22:17:29Z
 
 id= REAL009424
 te= Grenselagsmeteorologi
@@ -80846,6 +80888,7 @@ te= Kornprodukter
 ba= nb
 ba= ns
 nn= Kornprodukt
+en= Grain products
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009562
@@ -81049,13 +81092,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009589
 te= Vitenskapelig kommunikasjon
-ba= nb
-ba= ne
-ba= ns
-nn= Vitskapleg kommunikasjon
-nn= Vitskapeleg kommunikasjon
 tio= 2014-08-25T00:00:00Z
-st= REAL031614
+tis= 2019-03-02T01:03:17Z
+fly= REAL005168
 
 id= REAL009590
 te= Administrativ historie
@@ -81398,6 +81437,9 @@ id= REAL009619
 te= Kolatrær
 ba= ns
 nn= Kolatre
+en= Kola trees
+en= Cola trees
+en= Colas
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009620
@@ -82363,9 +82405,9 @@ tie= 2017-04-21T11:49:35Z
 
 id= REAL009731
 te= Fotoemisjon
-ba= nf
-nn= Fotoemisjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T21:41:58Z
+fly= REAL004390
 
 id= REAL009732
 te= Innholdsadministrasjon
@@ -82899,6 +82941,7 @@ id= REAL009798
 te= Kooperative fenomener
 ba= nf
 nn= Kooperative fenomen
+en= Cooperative phenomena
 tio= 2014-08-25T00:00:00Z
 st= REAL019790
 
@@ -84474,6 +84517,7 @@ id= REAL009972
 te= Komparativ psykologi
 ba= nb
 nn= Komparativ psykologi
+en= Comparative psychology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009973
@@ -85214,9 +85258,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010054
 te= Lengdeenheter
-ba= na
-nn= Lengdeeiningar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T22:09:29Z
+fly= REAL002522
 
 id= REAL010055
 te= Alkylering
@@ -93249,10 +93293,8 @@ st= REAL028470
 
 id= REAL011037
 te= Innholdsleverandører
-ba= ni
-nn= Innhaldsleverandørar
-en= Content providers
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T23:47:25Z
 
 id= REAL011038
 te= Bestråling
@@ -95098,9 +95140,11 @@ nn= Ljosdetektorar
 nn= Lysdetektorar
 nn= Fotoceller
 nn= Fotodiodar
+en= Photodetectors
 en= Photodiodes
+en= Photosensors
 tio= 2014-08-25T00:00:00Z
-tie= 2018-11-02T21:04:30Z
+tie= 2019-03-01T21:36:53Z
 
 id= REAL011274
 te= Hierarkiske systemer
@@ -95118,6 +95162,7 @@ id= REAL011276
 te= Komparativ anatomi
 ba= nb
 nn= Komparativ anatomi
+en= Comparative anatomy
 tio= 2014-08-25T00:00:00Z
 st= REAL024382
 
@@ -95347,11 +95392,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011299
 te= Kyotoavtalen
-ba= nb
-nn= Kyotoavtalen
-nn= Kyotoavtala
-en= Kyoto Protocol
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T22:13:20Z
 
 id= REAL011300
 te= Koder
@@ -96509,6 +96551,7 @@ id= REAL011440
 te= Kornproduksjon
 ba= nb
 nn= Kornproduksjon
+en= Grain production
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011441
@@ -97329,6 +97372,7 @@ id= REAL011537
 te= Elektroniske filtre
 ba= nm
 nn= Elektroniske filter
+en= Electronic filters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011538
@@ -99079,6 +99123,7 @@ id= REAL011735
 te= Estimatorer
 ba= ngh
 nn= Estimatorar
+en= Estimators
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011736
@@ -101966,9 +102011,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012070
 te= Universalitet
-ba= nf
-nn= Universalitet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-01T22:11:51Z
+fly= REAL032035
 
 id= REAL012071
 te= Metallrike stjerner
@@ -106941,6 +106986,9 @@ id= REAL012550
 te= Krassere
 ba= nb
 nn= Krassarar
+en= Thorny-headed worms
+en= Acanthocephalans
+en= Spiny-headed worms
 la= Acanthocephala
 tio= 2014-08-25T00:00:00Z
 
@@ -110643,11 +110691,10 @@ tie= 2018-07-19T19:29:53Z
 
 id= REAL012841
 te= Ikke-krystallinske materialer
-so= REAL006402
-nn= Ikkje-krystallinske materiale
-en= Non-crystalline materials
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-21T08:47:15Z
+tis= 2019-03-01T23:22:16Z
+fly= REAL006402
 
 id= REAL012842
 te= Ikke-likevekt
@@ -110809,6 +110856,7 @@ id= REAL012866
 te= Energioverføring
 ba= nf
 nn= Energioverføring
+en= Energy transfer
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012867
@@ -111293,6 +111341,7 @@ nn= Kortvenger
 nn= Kortvengar
 nn= Kortvengjer
 nn= Rovbiller
+en= Rove beetles
 la= Staphylinidae
 tio= 2014-08-25T00:00:00Z
 
@@ -114295,8 +114344,10 @@ te= Formelle språk
 ba= ni
 ba= nm
 bf= Formalspråk
+bf= Formell språkteori
 nn= Formelle språk
 nn= Formalspråk
+nn= Formell språkteori
 en= Formal languages
 ms= 94.50
 dw= 005.131
@@ -122623,6 +122674,8 @@ ba= nq
 bf= Charophytes
 nn= Kransalgar
 nn= Charophytes
+en= Stoneworts
+en= Charales
 la= Charophyta
 dw= 579.839
 tio= 2014-08-25T00:00:00Z
@@ -127247,6 +127300,14 @@ nn= Kjeldetilvisingar
 nn= Referanseteknikk
 nn= Bibliografiske referansar
 nn= Bibliografiske siteringar
+en= Citation of sources
+en= Bibliographical references
+en= Bibliographical citations
+en= Referencing
+en= Citation styles
+en= Citations
+en= Reference styles
+en= Reference management
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-01T17:06:16Z
 
@@ -127840,6 +127901,7 @@ bf= Kolonier
 so= REAL000997
 nn= Kolonisering
 nn= Koloniar
+en= Colonization
 tio= 2015-02-03T00:00:00Z
 tie= 2015-02-03T00:00:00Z
 
@@ -130731,7 +130793,7 @@ bf= Fysikkens idégrunnlag
 nn= Fysikkens grunnlag
 en= Foundations of physics
 tio= 2018-09-04T15:07:48Z
-tie= 2018-09-04T15:20:32Z
+tie= 2019-03-01T22:11:57Z
 
 id= REAL032036
 te= Beskatning
