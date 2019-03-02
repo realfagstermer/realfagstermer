@@ -1,178 +1,43 @@
 {
-  "REAL014058": {
-    "prefLabel": "Citation of sources",
+  "REAL007292": {
+    "prefLabel": "Vortices",
     "altLabel": [
-      "Bibliographical references",
-      "Bibliographical citations",
-      "Referencing",
-      "Citation styles",
-      "Citations",
-      "Reference styles",
-      "Reference management"
+      "Vortexes"
     ]
   },
-  "REAL004127": {
-    "prefLabel": "Koalas",
-    "altLabel": []
-  },
-  "REAL005947": {
-    "prefLabel": "Facsimiles",
-    "altLabel": []
-  },
-  "REAL007215": {
-    "prefLabel": "IT operations",
+  "REAL004390": {
+    "prefLabel": "Photoelectric effect",
     "altLabel": [
-      "Information technology operations"
+      "Photoelectricity",
+      "Photoemission"
     ]
   },
-  "REAL012550": {
-    "prefLabel": "Thorny-headed worms",
-    "altLabel": [
-      "Acanthocephalans",
-      "Spiny-headed worms"
-    ]
-  },
-  "REAL007613": {
-    "prefLabel": "Luminiferous aether",
-    "altLabel": [
-      "Aether"
-    ]
-  },
-  "REAL011735": {
-    "prefLabel": "Estimators",
+  "REAL013518": {
+    "prefLabel": "Sociology of science",
     "altLabel": []
   },
-  "REAL008884": {
-    "prefLabel": "Hummingbirds",
+  "REAL005580": {
+    "prefLabel": "Science ethics",
     "altLabel": []
   },
-  "REAL003368": {
-    "prefLabel": "Collisions",
+  "REAL030631": {
+    "prefLabel": "Fort Rae",
     "altLabel": []
   },
-  "REAL006164": {
-    "prefLabel": "Cooperative systems",
+  "REAL005168": {
+    "prefLabel": "Science communication",
     "altLabel": []
   },
-  "REAL001491": {
-    "prefLabel": "Cereal",
-    "altLabel": [
-      "Grain"
-    ]
-  },
-  "REAL005808": {
-    "prefLabel": "Commensalism",
+  "REAL005535": {
+    "prefLabel": "Active ingredients",
     "altLabel": []
   },
-  "REAL007390": {
-    "prefLabel": "King palms",
-    "altLabel": [
-      "Palms",
-      "Cycadales"
-    ]
-  },
-  "REAL005148": {
-    "prefLabel": "Demand",
-    "altLabel": [
-      "Demand curve"
-    ]
-  },
-  "REAL009619": {
-    "prefLabel": "Kola trees",
-    "altLabel": [
-      "Cola trees",
-      "Colas"
-    ]
-  },
-  "REAL002605": {
-    "prefLabel": "Comma shrimps",
-    "altLabel": [
-      "Cumaceans",
-      "Hooded shrimp",
-      "Comma shrimps",
-      "Hooded shrimps"
-    ]
-  },
-  "REAL012907": {
-    "prefLabel": "Rove beetles",
+  "REAL010757": {
+    "prefLabel": "Window systems",
     "altLabel": []
   },
-  "REAL031328": {
-    "prefLabel": "Colonization",
-    "altLabel": []
-  },
-  "REAL007091": {
-    "prefLabel": "Brassicaceae",
-    "altLabel": [
-      "Crucifers",
-      "Cabbage family",
-      "Mustards",
-      "Cruciferae"
-    ]
-  },
-  "REAL009561": {
-    "prefLabel": "Grain products",
-    "altLabel": []
-  },
-  "REAL004411": {
-    "prefLabel": "Energy sector",
-    "altLabel": []
-  },
-  "REAL011440": {
-    "prefLabel": "Grain production",
-    "altLabel": []
-  },
-  "REAL005292": {
-    "prefLabel": "Sibling rivalry",
-    "altLabel": []
-  },
-  "REAL009972": {
-    "prefLabel": "Comparative psychology",
-    "altLabel": []
-  },
-  "REAL013761": {
-    "prefLabel": "Stoneworts",
-    "altLabel": [
-      "Charales"
-    ]
-  },
-  "REAL011537": {
-    "prefLabel": "Electronic filters",
-    "altLabel": []
-  },
-  "REAL012866": {
-    "prefLabel": "Energy transfer",
-    "altLabel": []
-  },
-  "REAL009798": {
-    "prefLabel": "Cooperative phenomena",
-    "altLabel": []
-  },
-  "REAL004845": {
-    "prefLabel": "Cholinesterase inhibitors",
-    "altLabel": [
-      "Acetylcholinesterase inhibitors",
-      "Cholinesterase-inhibitors"
-    ]
-  },
-  "REAL007690": {
-    "prefLabel": "Formal language theory",
-    "altLabel": []
-  },
-  "REAL004789": {
-    "prefLabel": "Anthozoa",
-    "altLabel": []
-  },
-  "REAL007333": {
-    "prefLabel": "Comparative physiology",
-    "altLabel": []
-  },
-  "REAL011276": {
-    "prefLabel": "Comparative anatomy",
-    "altLabel": []
-  },
-  "REAL002183": {
-    "prefLabel": "Collagen",
+  "REAL010805": {
+    "prefLabel": "Virgo cluster",
     "altLabel": []
   }
 }
