@@ -1762,9 +1762,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000201
 te= Tropiske økosystemer
-ba= nb
-nn= Tropiske økosystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T19:20:53Z
+fly= REAL009307
 
 id= REAL000202
 te= Digital radio
@@ -2048,7 +2048,6 @@ tie= 2018-07-25T14:51:42Z
 st= REAL016668
 st= REAL024121
 st= REAL025337
-st= REAL028841
 st= REAL029382
 
 id= REAL000239
@@ -4267,10 +4266,9 @@ st= REAL025628
 
 id= REAL000494
 te= Transgene organismer
-ba= nb
-nn= Transgene organismar
-en= Transgenic organisms
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T18:25:58Z
+fly= REAL013720
 
 id= REAL000495
 te= Forstøver
@@ -4818,9 +4816,8 @@ st= REAL029361
 
 id= REAL000560
 te= Prober
-ba= nb
-nn= Probar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T14:33:52Z
 
 id= REAL000561
 te= Forfattere
@@ -8405,12 +8402,9 @@ st= REAL027290
 
 id= REAL000983
 te= Subtropiske planter
-ba= nb
-ba= nq
-nn= Subtropiske planter
-nn= Subtropiske plantar
 tio= 2014-08-25T00:00:00Z
-st= REAL026355
+tis= 2019-03-03T19:27:02Z
+fly= REAL002061
 
 id= REAL000984
 te= Optiske metoder
@@ -11315,8 +11309,11 @@ ba= ngh
 ba= nm
 ba= nq
 ba= ns
+bf= Økologiske prosesser
 nn= Økologi
+nn= Økologiske prosessar
 en= Ecology
+en= Ecological processes
 tio= 2014-08-25T00:00:00Z
 st= REAL014144
 st= REAL014313
@@ -11390,7 +11387,6 @@ st= REAL023609
 st= REAL024159
 st= REAL024256
 st= REAL024270
-st= REAL024305
 st= REAL024372
 st= REAL024660
 st= REAL024687
@@ -11410,7 +11406,6 @@ st= REAL027432
 st= REAL027797
 st= REAL028308
 st= REAL028340
-st= REAL028358
 st= REAL028555
 st= REAL028680
 st= REAL028741
@@ -13942,9 +13937,9 @@ tis= 2017-02-10T17:52:15Z
 
 id= REAL001635
 te= Subtropiske frukter
-ba= nq
-nn= Subtropiske frukter
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T19:26:28Z
+fly= REAL006261
 
 id= REAL001636
 te= Ingeniørmekanikk
@@ -14622,12 +14617,9 @@ tis= 2016-06-28T13:50:52Z
 
 id= REAL001717
 te= Sjøplanter
-ba= nb
-nn= Sjøplanter
-nn= Sjøplantar
 tio= 2014-08-25T00:00:00Z
-st= REAL017390
-st= REAL018619
+tis= 2019-03-03T18:56:15Z
+fly= REAL002057
 
 id= REAL001718
 te= Stjernedannelse
@@ -15368,11 +15360,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001804
 te= Marin paleontologi
-ba= nb
-ba= nc
-nn= Marin paleontologi
-en= Marine palaeontology
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T20:36:59Z
+fly= REAL007795
 
 id= REAL001805
 te= Granitter
@@ -15789,9 +15779,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001856
 te= Sammensmeltning
-ba= nb
-nn= Samansmelting
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T14:48:59Z
 
 id= REAL001857
 te= Web-tjenester
@@ -17422,6 +17411,7 @@ bf= Havplanter
 bf= Marine planter
 bf= Marin flora
 bf= Marinbotanikk
+bf= Sjøplanter
 nn= Havflora
 nn= Havplanter
 nn= Havplantar
@@ -17429,8 +17419,11 @@ nn= Marine planter
 nn= Marine plantar
 nn= Marin flora
 nn= Marinbotanikk
+nn= Sjøplanter
+nn= Sjøplantar
 en= Marine botany
 tio= 2014-08-25T00:00:00Z
+st= REAL017390
 st= REAL019800
 st= REAL023002
 st= REAL024866
@@ -17455,8 +17448,24 @@ id= REAL002061
 te= Tropisk botanikk
 ba= nb
 ba= nq
+bf= Tropiske planter
+bf= Tropeplanter
+bf= Tropisk vegetasjon
+bf= Tropevegetasjon
+bf= Subtropiske planter
 nn= Tropisk botanikk
+nn= Tropiske planter
+nn= Tropeplantar
+nn= Tropeplanter
+nn= Tropiske plantar
+nn= Tropisk vegetasjon
+nn= Tropevegetasjon
+nn= Subtropiske planter
+nn= Subtropiske plantar
 tio= 2014-08-25T00:00:00Z
+st= REAL014685
+st= REAL018097
+st= REAL021693
 
 id= REAL002062
 te= Fisjon
@@ -18951,11 +18960,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002221
 te= Økologiske retningslinjer
-ba= nb
-nn= Økologiske retningsliner
-nn= Økologiske retningslinjer
-en= Ecological guidelines
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T20:48:55Z
 
 id= REAL002223
 te= Horn
@@ -19006,9 +19012,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002230
 te= Seksuell utvikling
-ba= nb
-nn= Seksuell utvikling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T20:41:15Z
 
 id= REAL002231
 te= Seismisk dataprosessering
@@ -23643,11 +23648,9 @@ st= REAL019321
 
 id= REAL002765
 te= Zookjemi
-ba= nb
-nn= Zookjemi
-en= Zoochemistry
 tio= 2014-08-25T00:00:00Z
-st= REAL023220
+tis= 2019-03-03T18:14:45Z
+fly= REAL013249
 
 id= REAL002766
 te= Energilagring
@@ -24092,10 +24095,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002818
 te= Kultivering
-ba= nb
-nn= Kultivering
-en= Cultivation
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T15:08:24Z
 
 id= REAL002819
 te= Spring
@@ -27837,7 +27838,9 @@ st= REAL020204
 id= REAL003262
 te= Tropiske trær
 ba= nb
+bf= Tropiske treslag
 nn= Tropiske tre
+nn= Tropiske treslag
 en= Tropical trees
 tio= 2014-08-25T00:00:00Z
 st= REAL024998
@@ -32322,12 +32325,9 @@ tis= 2018-01-12T15:16:04Z
 
 id= REAL003781
 te= Økologiske faktorer
-ba= nb
-nn= Økologiske faktorar
-en= Ecological factors
-en= Environmental factors
 tio= 2014-08-25T00:00:00Z
 tie= 2018-11-02T21:32:24Z
+tis= 2019-03-03T20:34:25Z
 
 id= REAL003782
 te= Kenguruer
@@ -32429,10 +32429,8 @@ fly= REAL000849
 
 id= REAL003792
 te= Sammentrekking
-ba= nb
-nn= Samantrekking
-nn= Samantrekning
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T14:49:40Z
 
 id= REAL003793
 te= Statistisk teknikk
@@ -34260,9 +34258,9 @@ fly= REAL006663
 
 id= REAL004016
 te= Transgene elementer
-ba= nb
-nn= Transgene element
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T18:27:13Z
+fly= REAL013720
 
 id= REAL004017
 te= Kunstige baneberegninger
@@ -37787,9 +37785,8 @@ st= REAL031574
 
 id= REAL004432
 te= Todimensjonal elektroforese
-ba= nb
-nn= Todimensjonal elektroforese
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T19:29:09Z
 
 id= REAL004433
 te= SystemC
@@ -42248,10 +42245,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004983
 te= Transgene dyr
-ba= nb
-nn= Transgene dyr
-en= Transgenic animals
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T18:26:49Z
+fly= REAL013720
 
 id= REAL004984
 te= Anleggsteknikk
@@ -49652,9 +49648,8 @@ tis= 2018-08-29T19:29:08Z
 
 id= REAL005889
 te= Sosial kontekst
-ba= nb
-nn= Sosial kontekst
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T20:33:02Z
 
 id= REAL005891
 te= Fjærmygg
@@ -52749,7 +52744,9 @@ id= REAL006261
 te= Tropiske frukter
 ba= nb
 ba= nq
+bf= Subtropiske frukter
 nn= Tropiske frukter
+nn= Subtropiske frukter
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006262
@@ -55024,9 +55021,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006490
 te= Preservering
-ba= nb
-nn= Preservering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T14:32:40Z
+fly= REAL009872
 
 id= REAL006491
 te= Dissosiasjonsenergier
@@ -55867,9 +55864,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006588
 te= Tropisk miljø
-ba= nb
-nn= Tropisk miljø
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T19:20:26Z
 
 id= REAL006589
 te= Tenkning
@@ -66068,8 +66064,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007795
 te= Marin paleoøkologi
 ba= nc
+bf= Marin paleontologi
 nn= Marin paleoøkologi
+nn= Marin paleontologi
 en= Marine palaeoecology
+en= Marine palaeontology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007796
@@ -68043,9 +68042,11 @@ tis= 2017-03-02T20:02:12Z
 id= REAL008035
 te= Telemetri
 ba= nb
+so= REAL011807
 nn= Telemetri
 en= Telemetry
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-03T14:43:32Z
 st= REAL019634
 
 id= REAL008036
@@ -68067,10 +68068,9 @@ tie= 2018-10-22T18:39:03Z
 
 id= REAL008038
 te= Tropiske treslag
-ba= nb
-ba= nq
-nn= Tropiske treslag
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T19:10:11Z
+fly= REAL003262
 
 id= REAL008040
 te= Distribuerte nettverk
@@ -70761,12 +70761,9 @@ tis= 2018-03-02T20:54:30Z
 
 id= REAL008362
 te= Immunoblot
-ba= ne
-nn= Immunoblot
-en= Western blot
-en= Protein immunoblot
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-12T12:00:39Z
+tis= 2019-03-03T18:23:06Z
 
 id= REAL008363
 te= Kronologi
@@ -70818,9 +70815,9 @@ tie= 2016-08-30T10:40:55Z
 
 id= REAL008367
 te= Åreføttinger
-ba= nb
-nn= Åreføtingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T18:08:59Z
+fly= REAL012734
 
 id= REAL008368
 te= Multimediadatabaser
@@ -72349,9 +72346,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008536
 te= Tropisk alpin
-ba= nb
-nn= Tropisk alpin
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T19:19:24Z
 
 id= REAL008537
 te= Radio
@@ -74303,11 +74299,9 @@ st= REAL023573
 
 id= REAL008754
 te= Varmeregulering
-ba= nb
-bf= Varmereguleringer
-nn= Varmeregulering
-nn= Varmereguleringar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T19:35:36Z
+fly= REAL013031
 
 id= REAL008755
 te= Bildekoding
@@ -75363,11 +75357,8 @@ st= REAL014207
 
 id= REAL008883
 te= Land
-ba= nb
-nn= Land
 tio= 2014-08-25T00:00:00Z
-st= REAL014906
-st= REAL020847
+tis= 2019-03-03T20:48:14Z
 
 id= REAL008884
 te= Kolibrier
@@ -75418,9 +75409,8 @@ tis= 2018-08-17T16:02:20Z
 
 id= REAL008890
 te= Zooøkologi
-ba= nk
-nn= Zooøkologi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T18:13:00Z
 
 id= REAL008891
 te= Gammastråling
@@ -78958,7 +78948,9 @@ id= REAL009307
 te= Tropisk økologi
 ba= nb
 ba= ngh
+bf= Tropiske økosystemer
 nn= Tropisk økologi
+nn= Tropiske økosystem
 tio= 2014-08-25T00:00:00Z
 st= REAL019837
 
@@ -80491,9 +80483,8 @@ st= REAL027508
 
 id= REAL009508
 te= Signalisering
-ba= nb
-nn= Signalisering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T14:59:42Z
 
 id= REAL009509
 te= Antropometri
@@ -83633,7 +83624,9 @@ ba= nb
 ba= ngh
 ba= nq
 ba= ns
+bf= Preservering
 nn= Konservering
+nn= Preservering
 tio= 2014-08-25T00:00:00Z
 st= REAL014689
 st= REAL020344
@@ -84054,11 +84047,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009922
 te= Økologiske prosesser
-ba= nb
-nn= Økologiske prosessar
-en= Ecological processes
 tio= 2014-08-25T00:00:00Z
-st= REAL027523
+tis= 2019-03-03T20:51:04Z
+fly= REAL001315
 
 id= REAL009923
 te= Modernisme
@@ -85928,10 +85919,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010128
 te= Tropisk amaryllidaceae
-ba= nb
-nn= Tropisk amaryllidaceae
 tio= 2014-08-25T00:00:00Z
-st= REAL016906
+tis= 2019-03-03T19:28:12Z
 
 id= REAL010129
 te= Kjemisk evolusjon
@@ -88475,11 +88464,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010424
 te= Tropisk vegetasjon
-ba= nq
-bf= Tropevegetasjon
-nn= Tropisk vegetasjon
-nn= Tropevegetasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T19:21:55Z
+fly= REAL002061
 
 id= REAL010425
 te= Multiple-input multiple-output
@@ -92847,11 +92834,9 @@ st= REAL024526
 
 id= REAL010978
 te= Transgene planter
-ba= nb
-nn= Transgene planter
-nn= Transgene plantar
-en= Transgenic plants
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T18:26:30Z
+fly= REAL013721
 
 id= REAL010979
 te= Temporal logikk
@@ -92930,9 +92915,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010989
 te= Sosiale systemer
-ba= nb
-nn= Sosiale system
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T20:32:15Z
 
 id= REAL010990
 te= Ikke-kommutativ algebra
@@ -99892,9 +99876,17 @@ tie= 2018-07-25T15:01:48Z
 id= REAL011807
 te= Biotelemetri
 ba= nb
+bf= Radiomerking
+bf= Radiosporing
+so= REAL008035
 nn= Biotelemetri
+nn= Radiomerking
+nn= Radiosporing
 en= Biotelemetry
+en= Radio tagging
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-03T14:43:34Z
+st= REAL019128
 
 id= REAL011808
 te= Polymere halvledere
@@ -101461,8 +101453,8 @@ nn= Korona
 en= Solar corona
 en= Corona
 tio= 2014-08-25T00:00:00Z
-st= REAL020840
 st= REAL014197
+st= REAL020840
 st= REAL021263
 
 id= REAL011992
@@ -102063,9 +102055,8 @@ tis= 2019-02-24T10:15:18Z
 
 id= REAL012077
 te= Predisponering
-ba= nb
-nn= Predisponering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T14:31:42Z
 
 id= REAL012078
 te= Fluorometri
@@ -109448,8 +109439,10 @@ id= REAL012734
 te= Bladfotkreps
 bf= Bladfotinger
 bf= Bladføttinger
+bf= Åreføttinger
 nn= Bladfotkreps
 nn= Bladføtingar
+nn= Åreføtingar
 en= Branchiopods
 la= Branchiopoda
 tio= 2014-08-25T00:00:00Z
@@ -112388,20 +112381,15 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013009
 te= Radiomerking
-ba= nk
-ba= nb
-so= REAL013010
-nn= Radiomerking
-en= Radio tagging
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-03T14:43:17Z
+fly= REAL011807
 
 id= REAL013010
 te= Radiosporing
-ba= nb
-so= REAL013009
-nn= Radiosporing
 tio= 2014-08-25T00:00:00Z
-st= REAL019128
+tis= 2019-03-03T14:42:49Z
+fly= REAL013009
 
 id= REAL013011
 te= Rakettmotorer
@@ -112656,8 +112644,12 @@ id= REAL013031
 te= Temperaturregulering
 ba= nb
 bf= Termoregulering
+bf= Varmeregulering
+bf= Varmereguleringer
 nn= Temperaturregulering
 nn= Termoregulering
+nn= Varmeregulering
+nn= Varmereguleringar
 tio= 2014-08-25T00:00:00Z
 st= REAL017715
 st= REAL018946
@@ -114844,10 +114836,13 @@ id= REAL013249
 te= Zoofysiologi
 ba= nb
 bf= Dyrefysiologi
+bf= Zookjemi
 nn= Zoofysiologi
 nn= Dyrefysiologi
+nn= Zookjemi
 en= Zoophysiology
 en= Animal physiology
+en= Zoochemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL021011
 st= REAL027090
@@ -122219,22 +122214,34 @@ id= REAL013720
 te= Genmodifiserte organismer
 ba= nb
 bf= Genmodifisert mat
+bf= Transgene organismer
+bf= Transgene dyr
+bf= Transgene elementer
 ak= GMO
 so= REAL013721
 nn= Genmodifiserte organismar
 nn= Genmodifisert mat
+nn= Transgene organismar
+nn= Transgene dyr
+nn= Transgene element
 en= Genetically modified organisms
 en= GMOs
+en= Transgenic organisms
+en= Transgenic animals
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-11T00:00:00Z
 
 id= REAL013721
 te= Genmodifiserte planter
 ba= nb
+bf= Transgene planter
 so= REAL013720
 nn= Genmodifiserte planter
 nn= Genmodifiserte plantar
+nn= Transgene planter
+nn= Transgene plantar
 en= Genetically modified plants
+en= Transgenic plants
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-10T10:04:00Z
 st= REAL019268
@@ -123095,17 +123102,9 @@ st= REAL028010
 
 id= REAL013788
 te= Tropiske planter
-ba= nb
-ba= nq
-bf= Tropeplanter
-nn= Tropiske planter
-nn= Tropeplantar
-nn= Tropeplanter
-nn= Tropiske plantar
 tio= 2014-08-25T00:00:00Z
-st= REAL014685
-st= REAL018097
-st= REAL021693
+tis= 2019-03-03T19:21:20Z
+fly= REAL002061
 
 id= REAL013789
 te= Tropiske skoger

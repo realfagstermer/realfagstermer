@@ -1929,8 +1929,9 @@ tie= 2017-09-25T12:52:00Z
 
 id= REAL030552
 te= Palearktis
-en= Palearctic realm
+en= Palearctic
 tio= 2015-02-20T13:08:04Z
+tie= 2019-03-03T18:53:22Z
 
 id= REAL030553
 te= Varangerhalvøya
@@ -4155,8 +4156,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030972
 te= Arktis
-en= Artic
+en= Arctic
 tio= 2015-02-20T13:08:04Z
+tie= 2019-03-03T18:51:55Z
 
 id= REAL030973
 te= Hunsrück
@@ -4360,8 +4362,9 @@ id= REAL031005
 te= Holarktiske region
 ba= nb
 en= Holarctic region
+en= Holarctic realm
 tio= 2015-02-20T13:08:04Z
-tie= 2017-10-06T18:09:22Z
+tie= 2019-03-03T18:52:28Z
 
 id= REAL031006
 te= Hornelenbassenget
@@ -4447,9 +4450,10 @@ tio= 2015-02-20T13:08:04Z
 id= REAL031018
 te= Nearktiske subregion
 ba= nb
+en= Nearctic region
 en= Nearctic realm
 tio= 2015-02-20T13:08:04Z
-tie= 2017-10-06T18:09:27Z
+tie= 2019-03-03T18:52:55Z
 
 id= REAL031019
 te= Neotropiske region
