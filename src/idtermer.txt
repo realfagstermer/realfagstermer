@@ -37450,6 +37450,9 @@ so= REAL006030
 nn= Fotoelektrisitet
 nn= Fotoelektrisk effekt
 nn= Fotoemisjon
+en= Photoelectric effect
+en= Photoelectricity
+en= Photoemission
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-01T21:42:48Z
 st= REAL014147
@@ -43732,6 +43735,7 @@ ot= REAL013418
 nn= Vitskapsformidling
 nn= Vitskapleg kommunikasjon
 nn= Vitskapeleg kommunikasjon
+en= Science communication
 tio= 2014-08-25T00:00:00Z
 st= REAL031614
 
@@ -46664,6 +46668,7 @@ ba= ne
 bf= Innholdsstoffer
 nn= Verkestoff
 nn= Innhaldsstoff
+en= Active ingredients
 tio= 2014-08-25T00:00:00Z
 st= REAL021103
 
@@ -46983,6 +46988,7 @@ ba= ns
 so= REAL013421
 ot= REAL013412
 nn= Vitskapsetikk
+en= Science ethics
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-13T20:20:49Z
 
@@ -61841,6 +61847,8 @@ ba= nf
 ba= nm
 nn= Kvervlar
 nn= Virvlar
+en= Vortices
+en= Vortexes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007293
@@ -91129,6 +91137,7 @@ ba= ni
 so= REAL004642
 ut= REAL007729
 nn= Vindaugssystem
+en= Window systems
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T10:23:23Z
 
@@ -91523,6 +91532,7 @@ id= REAL010805
 te= Virgo-hopen
 ba= na
 nn= Virgo-hopen
+en= Virgo cluster
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010806
@@ -119691,6 +119701,7 @@ ba= nf
 ba= nm
 ba= ns
 nn= Vitskapssosiologi
+en= Sociology of science
 tio= 2014-08-25T00:00:00Z
 st= REAL018103
 st= REAL018779
