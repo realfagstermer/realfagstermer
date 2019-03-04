@@ -8489,9 +8489,9 @@ tis= 2016-12-19T14:57:42Z
 
 id= REAL000992
 te= Kjemisk bekjempelse
-ba= nb
-nn= Kjemisk tyning
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-04T13:57:36Z
+fly= REAL012856
 
 id= REAL000993
 te= Matroider
@@ -18371,9 +18371,9 @@ st= REAL026713
 
 id= REAL002155
 te= Radikalscavengere
-ba= ne
-nn= Radikalscavengerar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-04T15:02:22Z
+fly= REAL004781
 
 id= REAL002156
 te= Eksport
@@ -31356,8 +31356,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003666
 te= Kodegenerering
 ba= ni
+bf= Kompilering
 nn= Kodegenerering
+nn= Kompilering
 en= Code generation
+en= Compiling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003667
@@ -34919,15 +34922,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004095
 te= Nevropatologi
-ba= nb
-bf= Hjernesykdommer
-nn= Nevropatologi
-nn= Hjernesjukdomar
-nn= Hjernesjukdommar
-en= Neuropathology
-en= Brain diseases
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T18:38:12Z
+tis= 2019-03-04T10:50:13Z
 
 id= REAL004096
 te= Søkealgoritmer
@@ -38860,9 +38857,9 @@ st= REAL024846
 
 id= REAL004569
 te= Helsesosiologi
-ba= ne
-nn= Helsesosiologi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-04T15:15:55Z
+fly= REAL007176
 
 id= REAL004570
 te= Kjerneegenskaper
@@ -40575,7 +40572,9 @@ ba= nk
 ba= nb
 ba= ne
 ba= ns
+bf= Radikalscavengere
 nn= Antioksidantar
+nn= Radikalscavengerar
 en= Antioxidants
 tio= 2014-08-25T00:00:00Z
 
@@ -48766,13 +48765,17 @@ bf= Akseleratorer
 ut= REAL006945
 ut= REAL004585
 nn= Partikkelakseleratorar
+nn= Kollisjonsmaskiner
+nn= Kollisjonsmaskinar
+nn= Superkollisjonsmaskiner
+nn= Superkollisjonsmaskinar
 en= Particle accelerators
 en= Colliders
 en= Atom smashers
 en= Supercolliders
 de= Maskiner som brukes til å akselerere partikler til store hastigheter og derfor store energier sammenliknet med deres hvilemasse.
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-10T20:36:50Z
+tie= 2019-03-04T09:58:09Z
 st= REAL014088
 st= REAL021288
 st= REAL027100
@@ -58945,11 +58948,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL006945
 te= Lineære akseleratorer
 ba= nf
+bf= Lineære kollisjonsmaskiner
 ot= REAL005781
 nn= Lineære akseleratorar
+nn= Lineære kollisjonsmaskinar
 en= Linear accelerators
+en= Linear colliders
 tio= 2014-08-25T00:00:00Z
-tie= 2016-11-24T17:43:03Z
+tie= 2019-03-04T09:57:58Z
 
 id= REAL006946
 te= Dialektikk
@@ -60915,8 +60921,13 @@ tie= 2017-09-29T16:26:30Z
 id= REAL007176
 te= Samfunnsmedisin
 ba= ne
+bf= Sosialmedisin
+bf= Helsesosiologi
 nn= Samfunnsmedisin
+nn= Sosialmedisin
+nn= Helsesosiologi
 tio= 2014-08-25T00:00:00Z
+st= REAL018663
 
 id= REAL007177
 te= Programmeringsverktøy
@@ -81343,11 +81354,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009607
 te= Sosialmedisin
-ba= nb
-ba= ne
-nn= Sosialmedisin
 tio= 2014-08-25T00:00:00Z
-st= REAL018663
+tis= 2019-03-04T15:15:11Z
+fly= REAL007176
 
 id= REAL009609
 te= Topologiske rom
@@ -93138,10 +93147,9 @@ tie= 2019-02-24T10:18:22Z
 
 id= REAL011016
 te= Kompilering
-ba= ni
-nn= Kompilering
-en= Compiling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-04T15:27:07Z
+fly= REAL003666
 
 id= REAL011017
 te= Biosensorer
@@ -110807,7 +110815,7 @@ so= REAL012719
 nn= Insekttyning
 en= Insect control
 tio= 2014-08-25T00:00:00Z
-tie= 2018-04-13T20:29:05Z
+tie= 2019-03-04T13:57:46Z
 
 id= REAL012857
 te= Instantoner
@@ -113458,6 +113466,7 @@ ot= REAL000430
 ut= REAL011427
 ut= REAL000122
 ut= REAL002304
+ut= REAL013329
 nn= Regresjonsanalyse
 nn= Regresjon
 nn= Regresjonsmodellar
@@ -115831,13 +115840,15 @@ en= Gaussian processes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013329
-te= Generalized additive models
+te= Generaliserte additive modeller
 ba= nm
 ak= GAM
+ot= REAL013113
 nn= Generaliserte additive modellar
 en= Generalized additive models
 en= GAM
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-04T14:03:04Z
 
 id= REAL013330
 te= Gammastråleutbrudd

@@ -1,1 +1,139 @@
-{}
+{
+  "REAL010118": {
+    "prefLabel": "Chromosomal alterations",
+    "altLabel": [
+      "Chromosomal aberrations",
+      "Chromosome abnormalities",
+      "Chromosomal changes",
+      "Chromosomal errors"
+    ]
+  },
+  "REAL005922": {
+    "prefLabel": "Brittlegills",
+    "altLabel": []
+  },
+  "REAL007757": {
+    "prefLabel": "Coastal landscape",
+    "altLabel": [
+      "Coastal ecosystems"
+    ]
+  },
+  "REAL011546": {
+    "prefLabel": "Coastal fauna",
+    "altLabel": [
+      "Seashore wildlife",
+      "Seashore fauna"
+    ]
+  },
+  "REAL000479": {
+    "prefLabel": "Shrubland",
+    "altLabel": [
+      "Scrubland",
+      "brush",
+      "bushland"
+    ]
+  },
+  "REAL001219": {
+    "prefLabel": "Garden angelicas",
+    "altLabel": [
+      "Angelica archangelicas",
+      "Angelica archangelica",
+      "Norwegian angelicas",
+      "Wild celeries",
+      "Wild celery",
+      "Norwegian angelica"
+    ]
+  },
+  "REAL009640": {
+    "prefLabel": "Coastal zone management",
+    "altLabel": [
+      "Coastal management"
+    ]
+  },
+  "REAL004847": {
+    "prefLabel": "Cabbage",
+    "altLabel": []
+  },
+  "REAL010259": {
+    "prefLabel": "Crayfish shells",
+    "altLabel": []
+  },
+  "REAL000092": {
+    "prefLabel": "Chromosome numbers",
+    "altLabel": []
+  },
+  "REAL007879": {
+    "prefLabel": "Crocus",
+    "altLabel": []
+  },
+  "REAL009927": {
+    "prefLabel": "Crayfish",
+    "altLabel": [
+      "Crawfish"
+    ]
+  },
+  "REAL003766": {
+    "prefLabel": "Cultures",
+    "altLabel": []
+  },
+  "REAL012766": {
+    "prefLabel": "Coastal monitoring",
+    "altLabel": [
+      "Coastal environmental monitoring",
+      "Monitoring of coastal environments"
+    ]
+  },
+  "REAL012996": {
+    "prefLabel": "Coastal zones",
+    "altLabel": []
+  },
+  "REAL011779": {
+    "prefLabel": "Coastal plants",
+    "altLabel": [
+      "Coastal flora",
+      "Coastal vegetation"
+    ]
+  },
+  "REAL004692": {
+    "prefLabel": "Holly",
+    "altLabel": []
+  },
+  "REAL005460": {
+    "prefLabel": "Coastal seals",
+    "altLabel": []
+  },
+  "REAL013607": {
+    "prefLabel": "Halibut",
+    "altLabel": []
+  },
+  "REAL010745": {
+    "prefLabel": "Communal management",
+    "altLabel": [
+      "Municipal management"
+    ]
+  },
+  "REAL010551": {
+    "prefLabel": "Coelacanth",
+    "altLabel": []
+  },
+  "REAL001973": {
+    "prefLabel": "Coastal fishing",
+    "altLabel": []
+  },
+  "REAL001217": {
+    "prefLabel": "Coastal ecology",
+    "altLabel": []
+  },
+  "REAL005943": {
+    "prefLabel": "Locomotives",
+    "altLabel": []
+  },
+  "REAL002645": {
+    "prefLabel": "Crocodiles",
+    "altLabel": []
+  },
+  "REAL011462": {
+    "prefLabel": "Krill",
+    "altLabel": []
+  }
+}
