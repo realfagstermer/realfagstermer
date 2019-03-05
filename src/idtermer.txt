@@ -3217,9 +3217,9 @@ fly= REAL002873
 
 id= REAL000377
 te= Fysikalske metoder
-ba= ns
-nn= Fysikalske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-05T15:58:31Z
+fly= REAL010263
 
 id= REAL000378
 te= Farmakodynamikk
@@ -8515,9 +8515,9 @@ fly= REAL004922
 
 id= REAL000995
 te= Hjelpestoffer
-ba= ne
-nn= Hjelpestoff
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-05T15:58:50Z
+fly= REAL002355
 
 id= REAL000996
 te= Elektroner
@@ -20116,7 +20116,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002355
 te= Farmasøytiske hjelpestoffer
 ba= ne
+bf= Hjelpestoffer
 nn= Farmasøytiske hjelpestoff
+nn= Hjelpestoff
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002356
@@ -29621,8 +29623,11 @@ te= Kalmanfiltre
 ba= ni
 ba= nf
 ba= nm
+bf= Wienerfiltre
 nn= Kalmanfilter
+nn= Wienerfilter
 en= Kalman filters
+en= Wiener filters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003469
@@ -31432,10 +31437,8 @@ st= REAL022613
 
 id= REAL003674
 te= Økonomiske aspekter
-ba= nm
-ba= ns
-nn= Økonomiske aspekt
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-05T16:00:38Z
 
 id= REAL003675
 te= Kaimaner
@@ -35406,10 +35409,8 @@ tis= 2017-02-21T19:51:12Z
 
 id= REAL004147
 te= Vesikler
-ba= nk
-nn= Vesiklar
-en= Vesicles
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-05T15:57:06Z
 
 id= REAL004148
 te= Havnivå
@@ -49830,9 +49831,8 @@ tie= 2019-03-01T20:30:41Z
 
 id= REAL005909
 te= Lytropiske faser
-ba= nk
-nn= Lytropiske fasar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-05T15:56:51Z
 
 id= REAL005910
 te= Katastrofeteori
@@ -87251,7 +87251,9 @@ ba= ne
 ba= nf
 ba= nm
 ba= ns
+bf= Fysikalske metoder
 nn= Fysikalsk kjemi
+nn= Fysikalske metodar
 en= Physical chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL017269
@@ -96461,10 +96463,9 @@ fly= REAL004173
 
 id= REAL011422
 te= Wienerfiltre
-ba= ni
-nn= Wienerfilter
-en= Wiener filters
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-05T15:59:57Z
+fly= REAL003468
 
 id= REAL011423
 te= Polymorfe krystaller
@@ -97429,10 +97430,8 @@ st= REAL025878
 
 id= REAL011537
 te= Elektroniske filtre
-ba= nm
-nn= Elektroniske filter
-en= Electronic filters
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-05T15:59:21Z
 
 id= REAL011538
 te= Grusforekomster
@@ -114163,11 +114162,8 @@ tis= 2018-10-23T15:39:19Z
 
 id= REAL013178
 te= Økonomisk programmering
-ba= nm
-nn= Økonomisk programmering
-ms= 90
-dw= 330.0151
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-05T16:01:01Z
 
 id= REAL013179
 te= Dynamisk programmering
