@@ -2735,6 +2735,7 @@ ba= nf
 ut= REAL031944
 nn= Spektralliner
 nn= Spektrallinjer
+en= Spectral lines
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-22T15:05:01Z
 
@@ -4756,6 +4757,7 @@ id= REAL000552
 te= Lappedykkere
 ba= nb
 nn= Lappedykkarar
+en= Grebes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000553
@@ -6198,6 +6200,8 @@ bf= Integrering
 bf= Integrasjon
 nn= Sosial integrasjon
 nn= Integrering
+en= Social integration
+en= Integration
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-29T21:29:56Z
 
@@ -7320,6 +7324,7 @@ id= REAL000856
 te= Metalloverflater
 ba= nk
 nn= Metalloverflater
+en= Metal surfaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000857
@@ -8989,6 +8994,8 @@ id= REAL001042
 te= Landskapsanalyser
 ba= nb
 nn= Landskapsanalysar
+en= Landscape analyses
+en= Landscape analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001045
@@ -12148,6 +12155,7 @@ ba= nk
 bf= Metallpolymerer
 nn= Metallhaldige polymerar
 nn= Metallpolymerar
+en= Metal-containing polymers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001418
@@ -13125,6 +13133,7 @@ te= Legevendelrot
 ba= ne
 nn= Legevendelrot
 nn= Lækjevendelrot
+en= Valerian
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001532
@@ -14683,6 +14692,8 @@ ba= nf
 bf= Ioniserte gasser
 nn= Plasma
 nn= Ioniserte gassar
+en= Plasma
+en= Ionized gases
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-15T20:44:25Z
 st= REAL021310
@@ -18827,6 +18838,7 @@ id= REAL002202
 te= Lukt
 ba= nb
 nn= Lukt
+en= Odor
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002203
@@ -19937,6 +19949,7 @@ ba= ns
 bf= Polekspedisjoner
 so= REAL010086
 nn= Polarekspedisjonar
+en= Polar expeditions
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-27T21:22:23Z
 st= REAL014307
@@ -20111,6 +20124,7 @@ id= REAL002354
 te= Spesialpedagogikk
 ba= ni
 nn= Spesialpedagogikk
+en= Special education
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002355
@@ -25885,6 +25899,8 @@ id= REAL003022
 te= Polymerisater
 ba= nk
 nn= Polymerisat
+en= Polymerizates
+en= Polymerisates
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003023
@@ -28759,6 +28775,7 @@ id= REAL003367
 te= Sosial lagdeling
 ba= ns
 nn= Sosial lagdeling
+en= Social stratification
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003368
@@ -29044,6 +29061,8 @@ id= REAL003399
 te= Lagesild
 ba= nb
 nn= Lagesild
+en= Vendace
+en= European cisco
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003400
@@ -29424,6 +29443,7 @@ id= REAL003451
 te= Standardtid
 ba= na
 nn= Standardtid
+en= Standard time
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003452
@@ -29609,6 +29629,9 @@ bf= Luftputebåter
 nn= Luftputefartøy
 nn= Svevebåtar
 nn= Luftputebåtar
+en= Hovercrafts
+en= Air-cushion vehicles
+en= ACVs
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-04T21:53:43Z
 
@@ -31419,6 +31442,7 @@ id= REAL003671
 te= Landskapsverdi
 ba= nb
 nn= Landskapsverdi
+en= Landscape value
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003672
@@ -35310,6 +35334,11 @@ id= REAL004135
 te= Liljekonvall
 ba= ne
 nn= Liljekonvall
+en= Lily of the valley
+en= Our Lady's tears
+en= Mary's tears
+en= Lily-of-the-valley
+en= May bells
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004136
@@ -35359,6 +35388,7 @@ id= REAL004141
 te= Lemurer
 ba= nb
 nn= Lemurar
+en= Lemurs
 tio= 2014-08-25T00:00:00Z
 st= REAL026815
 
@@ -37040,6 +37070,7 @@ id= REAL004339
 te= Spesifikasjon
 ba= ni
 nn= Spesifikasjon
+en= Specifications
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004340
@@ -37565,6 +37596,8 @@ id= REAL004405
 te= Lipidbindende proteiner
 ba= nb
 nn= Lipidbindande protein
+en= Lipid binding proteins
+en= Lipid-binding proteins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004406
@@ -37940,6 +37973,8 @@ te= Liljer
 ba= nb
 ba= nq
 nn= Liljer
+en= Lilies
+en= Lillium
 tio= 2014-08-25T00:00:00Z
 st= REAL014332
 st= REAL014940
@@ -39531,6 +39566,8 @@ id= REAL004648
 te= Polymerisasjonskontroll
 ba= nk
 nn= Polymerisasjonskontroll
+en= Polymerisation control
+en= Polymerization control
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004649
@@ -40944,6 +40981,7 @@ id= REAL004821
 te= Ligaser
 ba= nb
 nn= Ligasar
+en= Ligases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004822
@@ -44194,6 +44232,7 @@ id= REAL005217
 te= Polymere materialer
 ba= nk
 nn= Polymere materiale
+en= Polymeric materials
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005218
@@ -44664,6 +44703,14 @@ id= REAL005282
 te= Lappugler
 ba= nb
 nn= Lappugler
+en= Great grey owls
+en= Bearded owls
+en= Cinereous owls
+en= Spectral owls
+en= Spruce owls
+en= Sooty owls
+en= Great gray owls
+en= Lapland owls
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005283
@@ -44937,6 +44984,7 @@ id= REAL005316
 te= Mikrofoner
 ba= nf
 nn= Mikrofonar
+en= Microphones
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005317
@@ -45657,6 +45705,7 @@ id= REAL005409
 te= Platinaforbindelser
 ba= nk
 nn= Platinasambindingar
+en= Platinum compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005410
@@ -46537,6 +46586,7 @@ ba= na
 so= REAL006320
 nn= Solsegl
 nn= Solsigl
+en= Solar sails
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-04T22:16:49Z
 
@@ -46724,6 +46774,8 @@ id= REAL005540
 te= Lin
 ba= nb
 nn= Lin
+en= Flax
+en= Common flax
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005541
@@ -48945,6 +48997,7 @@ te= Sosialt arbeid
 ba= ne
 ba= ns
 nn= Sosialt arbeid
+en= Social work
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005799
@@ -49042,6 +49095,7 @@ id= REAL005810
 te= Larveøkologi
 ba= nb
 nn= Larveøkologi
+en= Larval ecology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005811
@@ -49425,6 +49479,8 @@ ba= nf
 bf= Mesoskopisk fysikk
 nn= Mesoskopiske system
 nn= Mesoskopisk fysikk
+en= Mesoscopic systems
+en= Mesoscopic physics
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-04T22:06:39Z
 st= REAL022738
@@ -49776,6 +49832,7 @@ te= Metallkrystaller
 ba= nk
 nn= Metallkrystallar
 nn= Metallkrystall
+en= Metal crystals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005904
@@ -51192,6 +51249,7 @@ te= Laguner
 ba= nb
 nn= Laguner
 nn= Lagunar
+en= Lagoons
 tio= 2014-08-25T00:00:00Z
 st= REAL031605
 
@@ -51835,6 +51893,7 @@ id= REAL006140
 te= Larveutvikling
 ba= nb
 nn= Larveutvikling
+en= Larval development
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006141
@@ -52607,6 +52666,7 @@ id= REAL006237
 te= Solteleskoper
 ba= na
 nn= Solteleskop
+en= Solar telescopes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006239
@@ -53602,6 +53662,7 @@ id= REAL006343
 te= Polare organometaller
 ba= nk
 nn= Polare organometall
+en= Polar organometals
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006344
@@ -54183,6 +54244,7 @@ id= REAL006412
 te= Sosiale nettverk
 ba= ns
 nn= Sosiale nettverk
+en= Social networks
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006414
@@ -55647,6 +55709,7 @@ id= REAL006554
 te= Metabolsk syndrom
 ba= ne
 nn= Metabolsk syndrom
+en= Metabolic syndrome
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-04T22:08:23Z
 
@@ -56861,6 +56924,7 @@ te= Lemen
 ba= nb
 ba= ns
 nn= Lemen
+en= Lemmings
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006696
@@ -57673,6 +57737,7 @@ te= Spådommer
 ba= nc
 nn= Spådomar
 nn= Spådommar
+en= Predictions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006797
@@ -57988,6 +58053,7 @@ nn= Metallskjering
 nn= Termisk metallskjering
 nn= Metallkutting
 nn= Metallklipping
+en= Metal processing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006837
@@ -61056,6 +61122,7 @@ id= REAL007189
 te= Laksefiske
 ba= nb
 nn= Laksefiske
+en= Salmon fishing
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-07T18:17:44Z
 st= REAL015878
@@ -61450,6 +61517,7 @@ id= REAL007243
 te= Sosialisering
 ba= ns
 nn= Sosialisering
+en= Socialization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007244
@@ -61675,6 +61743,8 @@ te= Likevektsorganer
 ba= nb
 nn= Jamvektsorgan
 nn= Likevektsorgan
+en= Vestibular system
+en= Balance organs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007267
@@ -62689,12 +62759,15 @@ id= REAL007392
 te= Landskapsutforming
 ba= nb
 nn= Landskapsutforming
+en= Landscape design
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007393
 te= Libeller
 ba= nb
 nn= Libellar
+en= Skimmers
+en= Perchers
 tio= 2014-08-25T00:00:00Z
 st= REAL023312
 
@@ -63245,6 +63318,7 @@ id= REAL007457
 te= Makt
 ba= ns
 nn= Makt
+en= Power
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007458
@@ -65461,6 +65535,7 @@ ba= nk
 bf= Plagiat
 nn= Plagiering
 nn= Plagiat
+en= Plagiarism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007717
@@ -69312,6 +69387,7 @@ id= REAL008181
 te= Metalliske materialer
 ba= nk
 nn= Metalliske materiale
+en= Metallic materials
 tio= 2014-08-25T00:00:00Z
 st= REAL023968
 
@@ -69872,6 +69948,7 @@ id= REAL008246
 te= Landskapshistorie
 ba= nb
 nn= Landskapshistorie
+en= Landscape history
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008247
@@ -72158,6 +72235,7 @@ ba= nk
 ba= ne
 ba= nq
 nn= Liljefamilien
+en= Lily family
 tio= 2014-08-25T00:00:00Z
 st= REAL014417
 st= REAL023496
@@ -73866,6 +73944,7 @@ id= REAL008693
 te= Polyakrylamider
 ba= nk
 nn= Polyakrylamid
+en= Polyacrylamides
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008694
@@ -77113,6 +77192,7 @@ ba= nb
 ba= ne
 ba= nq
 nn= Pigment
+en= Pigments
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009077
@@ -77144,6 +77224,7 @@ id= REAL009081
 te= Polyfarmasi
 ba= ne
 nn= Polyfarmasi
+en= Polypharmacy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009082
@@ -77383,6 +77464,7 @@ te= Lakseelver
 ba= nb
 nn= Lakselvar
 nn= Lakselver
+en= Salmon rivers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009110
@@ -79327,6 +79409,7 @@ id= REAL009350
 te= Megalitter
 ba= na
 nn= Megalittar
+en= Megaliths
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009351
@@ -79851,6 +79934,7 @@ te= Sprøhet
 ba= nf
 nn= Sprøheit
 nn= Brøyske
+en= Brittleness
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009420
@@ -80570,6 +80654,7 @@ ba= nk
 nn= Mikrobølgjespektroskopi
 nn= Mikrobylgjespektroskopi
 nn= Mikrobølgespektroskopi
+en= Microwave spectroscopy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009514
@@ -80968,6 +81053,7 @@ id= REAL009565
 te= Mikrolinsing
 ba= na
 nn= Mikrolinsing
+en= Microlensing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009568
@@ -82726,6 +82812,7 @@ ba= nb
 bf= Terrestriske snegler
 nn= Landsniglar
 nn= Terrestriske sniglar
+en= Land snails
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-09T09:43:11Z
 st= REAL016063
@@ -83297,6 +83384,7 @@ id= REAL009835
 te= Luftspeilinger
 ba= na
 nn= Luftspeglingar
+en= Mirages
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009836
@@ -83804,6 +83892,12 @@ ba= nb
 ba= nq
 ba= ns
 nn= Leppeblomfamilien
+en= Deadnettle family
+en= Labiatae
+en= Mint family
+en= Lamiaceae
+en= the deadnettle family
+en= the mint family
 tio= 2014-08-25T00:00:00Z
 st= REAL027911
 
@@ -84895,6 +84989,7 @@ ba= ne
 ba= nm
 ba= ns
 nn= Sosialpsykologi
+en= Social psychology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010007
@@ -85670,6 +85765,7 @@ id= REAL010093
 te= Språkutvikling
 ba= ns
 nn= Språkutvikling
+en= Language development
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010094
@@ -85691,6 +85787,7 @@ te= Metateser
 ba= nk
 ba= ns
 nn= Metatesar
+en= Metathesis reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010097
@@ -85737,6 +85834,8 @@ te= Libellelarver
 ba= nb
 nn= Libellelarvar
 nn= Libellelarver
+en= Skimmer larvae
+en= Percher larvae
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010103
@@ -86880,6 +86979,8 @@ ba= nk
 ba= nb
 ba= nq
 nn= Levermosar
+en= Liverworts
+en= Hepatics
 tio= 2014-08-25T00:00:00Z
 st= REAL015518
 st= REAL015919
@@ -87284,6 +87385,7 @@ te= Laksesmolt
 ba= nb
 ot= REAL007873
 nn= Laksesmolt
+en= Salmon smolt
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010267
@@ -88149,6 +88251,8 @@ te= Lydkilder
 ba= nf
 nn= Ljodkjelder
 nn= Lydkjelder
+en= Sound sources
+en= Acoustic sources
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010375
@@ -90094,6 +90198,8 @@ bf= Lakseanemi
 nn= Laksesjukdomar
 nn= Kjønnssjukdommar
 nn= Lakseanemi
+en= Salmonid diseases
+en= Salmon diseases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010624
@@ -91529,6 +91635,8 @@ id= REAL010797
 te= Laksender
 ba= nb
 nn= Laksender
+en= Goosanders
+en= Common mergansers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010798
@@ -91893,6 +92001,7 @@ te= Sosial utvikling
 ba= nb
 ba= ns
 nn= Sosial utvikling
+en= Social development
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010856
@@ -92857,6 +92966,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Levra
+en= Liver
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010974
@@ -93294,6 +93404,7 @@ id= REAL011027
 te= Sporadiske grupper
 ba= nm
 nn= Sporadiske grupper
+en= Sporadic groups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011028
@@ -95616,6 +95727,7 @@ id= REAL011319
 te= Metallegenskaper
 ba= nk
 nn= Metalleigenskapar
+en= Metal properties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011320
@@ -95911,6 +96023,8 @@ nn= Ljodar
 nn= Lydar
 nn= Ljodsignal
 nn= Lydsignal
+en= Sounds
+en= Sound signals
 tio= 2014-08-25T00:00:00Z
 st= REAL021558
 
@@ -98903,6 +99017,7 @@ id= REAL011695
 te= Leoparder
 ba= nb
 nn= Leopardar
+en= Leopards
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011696
@@ -99210,6 +99325,7 @@ ba= nq
 ba= ns
 bf= Luftforurensing
 nn= Luftforureining
+en= Air pollution
 tio= 2014-08-25T00:00:00Z
 st= REAL014798
 st= REAL015455
@@ -99361,6 +99477,7 @@ te= Spill
 ba= nb
 ba= nm
 nn= Spel
+en= Games
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011753
@@ -99711,6 +99828,7 @@ ba= nb
 bf= Lectin
 nn= Lektin
 nn= Lectin
+en= Lectins
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011783
@@ -101651,6 +101769,7 @@ id= REAL012008
 te= Metaanalyse
 ba= nb
 nn= Metaanalyse
+en= Meta-analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012009
@@ -101888,6 +102007,7 @@ id= REAL012042
 te= Plasmalasere
 ba= na
 nn= Plasmalaserar
+en= Plasma lasers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012043
@@ -102096,6 +102216,7 @@ id= REAL012071
 te= Metallrike stjerner
 ba= na
 nn= Metallrike stjerner
+en= Metal-rich stars
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012072
@@ -103234,6 +103355,7 @@ te= Lydabsorpsjon
 ba= nm
 nn= Ljodabsorpsjon
 nn= Lydabsorpsjon
+en= Sound absorption
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012214
@@ -103730,6 +103852,7 @@ so= REAL012264
 so= REAL012263
 so= REAL012265
 nn= Mikrobatteri
+en= Microbatteries
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012267
@@ -106681,6 +106804,7 @@ te= Lakseoppdrett
 ba= nb
 ot= REAL004840
 nn= Lakseoppdrett
+en= Salmon farming
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T17:33:22Z
 st= REAL026891
@@ -109057,6 +109181,8 @@ bf= Salmonidae
 nn= Laksefiskar
 nn= Laksefamilien
 nn= Salmonidae
+en= Salmonids
+en= Salmonidae
 la= Salmoniformes
 tio= 2014-08-25T00:00:00Z
 st= REAL015933
@@ -115275,6 +115401,7 @@ te= Metallframstilling
 ba= nk
 bf= Metallfremstilling
 nn= Metallframstilling
+en= Metal production
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013275
@@ -122126,6 +122253,7 @@ nn= Kulturplanter
 nn= Kultiverte plantar
 nn= Kultiverte planter
 nn= Kulturplantar
+en= Cultivated plants
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-03T00:00:00Z
 st= REAL015166
@@ -129263,6 +129391,7 @@ tie= 2016-11-15T11:18:44Z
 id= REAL031744
 te= Liabum
 nn= Liabum
+en= Liabum
 la= Liabum
 de= Liabum er en slekt av kurvblomster i Sør-Amerika.
 tio= 2016-11-17T11:32:44Z

@@ -241,6 +241,7 @@ tie= 2017-02-01T13:24:31Z
 
 id= REAL030094
 te= Læreplaner
+en= Curriculums
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030095
@@ -586,6 +587,7 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030149
 te= Spektralatlas
 ba= na
+en= Spectral atlases
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030150
