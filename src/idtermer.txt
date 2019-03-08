@@ -2138,6 +2138,10 @@ bf= Marine reservater
 so= REAL010778
 nn= Marine verneområde
 nn= Marine reservat
+en= Marine protected areas
+en= Marine conservation areas
+en= Marine sanctuary
+en= Marine sanctuaries
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-24T14:08:58Z
 
@@ -4381,6 +4385,7 @@ id= REAL000507
 te= Marine protozoer
 ba= nb
 nn= Marine protozoar
+en= Marine protozoans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000508
@@ -7067,6 +7072,7 @@ ba= nb
 ba= nc
 ba= ns
 nn= Marine økosystem
+en= Marine ecosystems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000822
@@ -8457,6 +8463,7 @@ id= REAL000988
 te= Marin forskning
 ba= nb
 nn= Marin forsking
+en= Marine research
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000989
@@ -24934,6 +24941,9 @@ id= REAL002900
 te= Marin strandvegetasjon
 ba= nq
 nn= Marin strandvegetasjon
+en= Marine littoral vegetation
+en= Marine coastal vegetation
+en= Marine beach vegetation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002901
@@ -26419,6 +26429,8 @@ nn= Havdyr
 nn= Havfauna
 nn= Sjødyr
 nn= Marin fauna
+en= Marine animals
+en= Marine fauna
 tio= 2014-08-25T00:00:00Z
 st= REAL014209
 st= REAL017341
@@ -27363,6 +27375,7 @@ te= Marine larver
 ba= nb
 nn= Marine larvar
 nn= Marine larver
+en= Marine larvae
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003200
@@ -27859,6 +27872,9 @@ id= REAL003261
 te= Marine snegler
 ba= nb
 nn= Marine sniglar
+en= Sea snails
+en= Marine gastropods
+en= Marine snails
 tio= 2014-08-25T00:00:00Z
 st= REAL020204
 
@@ -33630,6 +33646,7 @@ id= REAL003928
 te= Marine mikroorganismer
 ba= nb
 nn= Marine mikroorganismar
+en= Marine microorganisms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003929
@@ -37179,6 +37196,7 @@ id= REAL004357
 te= Marine krepsdyr
 ba= nb
 nn= Marine krepsdyr
+en= Marine crustaceans
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004358
@@ -39942,6 +39960,7 @@ id= REAL004694
 te= Marine samfunn
 ba= nb
 nn= Marine samfunn
+en= Marine communities
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004695
@@ -42155,6 +42174,7 @@ te= Primater
 ba= nk
 ba= nb
 nn= Primatar
+en= Primates
 tio= 2014-08-25T00:00:00Z
 tie= 2018-01-12T17:19:18Z
 st= REAL015825
@@ -43425,6 +43445,7 @@ id= REAL005121
 te= Marine cyanobakterier
 ba= nb
 nn= Marine cyanobakteriar
+en= Marine cyanobacteria
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005122
@@ -48470,6 +48491,7 @@ te= Primærproduksjon
 ba= nk
 ba= nb
 nn= Primærproduksjon
+en= Primary production
 tio= 2014-08-25T00:00:00Z
 st= REAL020069
 
@@ -59899,6 +59921,7 @@ te= Produktivitet
 ba= nk
 ba= nb
 nn= Produktivitet
+en= Productivity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007053
@@ -60641,6 +60664,7 @@ id= REAL007133
 te= Marine skadedyr
 ba= nb
 nn= Marine skadedyr
+en= Marine pests
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007134
@@ -61097,6 +61121,7 @@ id= REAL007188
 te= Magnoliafamilien
 ba= nb
 nn= Magnoliafamilien
+en= Magnolia family
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007189
@@ -61285,6 +61310,7 @@ id= REAL007214
 te= Marine naturressurser
 ba= nb
 nn= Marine naturressursar
+en= Marine natural resources
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007215
@@ -62039,6 +62065,8 @@ te= Maritim teknologi
 ba= nm
 ba= ns
 nn= Maritim teknologi
+en= Marine technology
+en= Maritime technology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007305
@@ -62932,6 +62960,7 @@ id= REAL007420
 te= Marin vegetasjon
 ba= nb
 nn= Marin vegetasjon
+en= Marine vegetation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007423
@@ -63326,6 +63355,8 @@ id= REAL007461
 te= Marine muslinger
 ba= nb
 nn= Marine muslingar
+en= Marine clams
+en= Marine bivalves
 tio= 2014-08-25T00:00:00Z
 st= REAL031244
 
@@ -66595,6 +66626,7 @@ ba= nb
 ba= ne
 ba= ns
 nn= Marine organismar
+en= Marine organisms
 tio= 2014-08-25T00:00:00Z
 st= REAL028242
 
@@ -85185,6 +85217,8 @@ id= REAL010035
 te= Marine bløtdyr
 ba= nb
 nn= Marine blautdyr
+en= Marine molluscs
+en= Marine mollusks
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010036
@@ -87102,6 +87136,7 @@ id= REAL010245
 te= Marine parasitter
 ba= nb
 nn= Marine parasittar
+en= Marine parasites
 tio= 2014-08-25T00:00:00Z
 st= REAL022100
 
@@ -90195,6 +90230,7 @@ te= Marine alger
 ba= nb
 ba= nq
 nn= Marine algar
+en= Marine algae
 tio= 2014-08-25T00:00:00Z
 st= REAL014120
 st= REAL014236
@@ -102589,6 +102625,8 @@ id= REAL012136
 te= Privatliv
 ba= ni
 nn= Privatliv
+en= Private sphere
+en= Private life
 tio= 2014-08-25T00:00:00Z
 st= REAL020125
 
@@ -103643,6 +103681,7 @@ so= REAL003657
 nn= Marine plankton
 nn= Marint plankton
 nn= Marin plankton
+en= Marine plankton
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T17:18:29Z
 st= REAL017083
@@ -113159,6 +113198,7 @@ ba= nb
 bf= Marin zoologi
 nn= Marinzoologi
 nn= Marin zoologi
+en= Marine zoology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013064
@@ -124704,6 +124744,7 @@ ba= nb
 bf= Marine miljø
 nn= Marint miljø
 nn= Marine miljø
+en= Marine environments
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013839
@@ -124866,6 +124907,8 @@ ba= nb
 bf= Marin mykologi
 nn= Marine soppar
 nn= Marin mykologi
+en= Marine fungi
+en= Marine mycology
 dw= 579.5177
 tio= 2014-08-25T00:00:00Z
 
