@@ -85554,6 +85554,7 @@ te= Organisk syntese
 ba= nk
 ba= ne
 ot= REAL009617
+ut= REAL032094
 nn= Organisk syntese
 en= Organic synthesis
 tio= 2014-08-25T00:00:00Z
@@ -131629,4 +131630,12 @@ nn= Talesyntese
 en= Speech synthesis
 tio= 2019-03-08T21:46:45Z
 tie= 2019-03-08T21:47:27Z
+
+id= REAL032094
+te= Peptidsyntese
+ot= REAL010075
+nn= Peptidsyntese
+en= Peptide synthesis
+tio= 2019-03-08T22:16:48Z
+tie= 2019-03-08T22:17:23Z
 
