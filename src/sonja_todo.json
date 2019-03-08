@@ -1,144 +1,55 @@
 {
-  "REAL007420": {
-    "prefLabel": "Marine vegetation",
-    "altLabel": []
-  },
-  "REAL000247": {
-    "prefLabel": "Marine protected areas",
+  "REAL008811": {
+    "prefLabel": "Geomagnetic storms",
     "altLabel": [
-      "Marine conservation areas",
-      "Marine sanctuary",
-      "Marine sanctuaries"
+      "Solar storms",
+      "Magnetic storms"
     ]
   },
-  "REAL000988": {
-    "prefLabel": "Marine research",
-    "altLabel": []
-  },
-  "REAL010035": {
-    "prefLabel": "Marine molluscs",
+  "REAL003913": {
+    "prefLabel": "Forestry history",
     "altLabel": [
-      "Marine mollusks"
+      "History of forestry"
     ]
   },
-  "REAL012136": {
-    "prefLabel": "Private sphere",
+  "REAL030109": {
+    "prefLabel": "Tables",
+    "altLabel": []
+  },
+  "REAL007436": {
+    "prefLabel": "Magnetic observations",
     "altLabel": [
-      "Private life"
+      "Magnetic measurements"
     ]
   },
-  "REAL005121": {
-    "prefLabel": "Marine cyanobacteria",
-    "altLabel": []
-  },
-  "REAL002900": {
-    "prefLabel": "Marine littoral vegetation",
+  "REAL008162": {
+    "prefLabel": "Forest management",
     "altLabel": [
-      "Marine coastal vegetation",
-      "Marine beach vegetation"
+      "Forest administration"
     ]
   },
-  "REAL003078": {
-    "prefLabel": "Marine animals",
+  "REAL007092": {
+    "prefLabel": "Public speaking",
     "altLabel": [
-      "Marine fauna"
+      "Oral presentation techniques"
     ]
   },
-  "REAL007304": {
-    "prefLabel": "Marine technology",
+  "REAL004049": {
+    "prefLabel": "Wound treatment",
     "altLabel": [
-      "Maritime technology"
+      "Wound care"
     ]
   },
-  "REAL013852": {
-    "prefLabel": "Marine fungi",
-    "altLabel": [
-      "Marine mycology"
-    ]
-  },
-  "REAL003261": {
-    "prefLabel": "Sea snails",
-    "altLabel": [
-      "Marine gastropods",
-      "Marine snails"
-    ]
-  },
-  "REAL013838": {
-    "prefLabel": "Marine environments",
+  "REAL002898": {
+    "prefLabel": "Magnetic resonance",
     "altLabel": []
   },
-  "REAL007052": {
-    "prefLabel": "Productivity",
+  "REAL006357": {
+    "prefLabel": "Cultural history",
     "altLabel": []
   },
-  "REAL000821": {
-    "prefLabel": "Marine ecosystems",
-    "altLabel": []
-  },
-  "REAL007214": {
-    "prefLabel": "Marine natural resources",
-    "altLabel": []
-  },
-  "REAL013063": {
-    "prefLabel": "Marine zoology",
-    "altLabel": []
-  },
-  "REAL007188": {
-    "prefLabel": "Magnolia family",
-    "altLabel": []
-  },
-  "REAL000507": {
-    "prefLabel": "Marine protozoans",
-    "altLabel": []
-  },
-  "REAL004694": {
-    "prefLabel": "Marine communities",
-    "altLabel": []
-  },
-  "REAL007133": {
-    "prefLabel": "Marine pests",
-    "altLabel": []
-  },
-  "REAL003928": {
-    "prefLabel": "Marine microorganisms",
-    "altLabel": []
-  },
-  "REAL010628": {
-    "prefLabel": "Marine algae",
-    "altLabel": []
-  },
-  "REAL007461": {
-    "prefLabel": "Marine clams",
-    "altLabel": [
-      "Marine bivalves"
-    ]
-  },
-  "REAL004357": {
-    "prefLabel": "Marine crustaceans",
-    "altLabel": []
-  },
-  "REAL004971": {
-    "prefLabel": "Primates",
-    "altLabel": []
-  },
-  "REAL007845": {
-    "prefLabel": "Marine organisms",
-    "altLabel": []
-  },
-  "REAL010245": {
-    "prefLabel": "Marine parasites",
-    "altLabel": []
-  },
-  "REAL005743": {
-    "prefLabel": "Primary production",
-    "altLabel": []
-  },
-  "REAL003199": {
-    "prefLabel": "Marine larvae",
-    "altLabel": []
-  },
-  "REAL012248": {
-    "prefLabel": "Marine plankton",
+  "REAL008862": {
+    "prefLabel": "Cultural understanding",
     "altLabel": []
   }
 }
