@@ -340,6 +340,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030109
 te= Tabeller
+en= Tables
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030110
