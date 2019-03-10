@@ -1,55 +1,6 @@
 {
-  "REAL008811": {
-    "prefLabel": "Geomagnetic storms",
-    "altLabel": [
-      "Solar storms",
-      "Magnetic storms"
-    ]
-  },
-  "REAL003913": {
-    "prefLabel": "Forestry history",
-    "altLabel": [
-      "History of forestry"
-    ]
-  },
-  "REAL030109": {
-    "prefLabel": "Tables",
-    "altLabel": []
-  },
-  "REAL007436": {
-    "prefLabel": "Magnetic observations",
-    "altLabel": [
-      "Magnetic measurements"
-    ]
-  },
-  "REAL008162": {
-    "prefLabel": "Forest management",
-    "altLabel": [
-      "Forest administration"
-    ]
-  },
-  "REAL007092": {
-    "prefLabel": "Public speaking",
-    "altLabel": [
-      "Oral presentation techniques"
-    ]
-  },
-  "REAL004049": {
-    "prefLabel": "Wound treatment",
-    "altLabel": [
-      "Wound care"
-    ]
-  },
-  "REAL002898": {
-    "prefLabel": "Magnetic resonance",
-    "altLabel": []
-  },
-  "REAL006357": {
-    "prefLabel": "Cultural history",
-    "altLabel": []
-  },
-  "REAL008862": {
-    "prefLabel": "Cultural understanding",
+  "REAL013586": {
+    "prefLabel": "Teichm\u00fcller theory",
     "altLabel": []
   }
 }
