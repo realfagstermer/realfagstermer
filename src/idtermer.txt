@@ -9044,6 +9044,8 @@ id= REAL001050
 te= Matinntak
 ba= nb
 nn= Matinntak
+en= Food intake
+en= Food consumption
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001053
@@ -11457,6 +11459,8 @@ te= Markblomster
 ba= nk
 ba= ne
 nn= Markblomar
+en= Wild flowers
+en= Wildflowers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001319
@@ -14507,6 +14511,7 @@ id= REAL001700
 te= Markfirfisler
 ba= nb
 nn= Markfirfisler
+en= Sand lizards
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001701
@@ -15835,6 +15840,7 @@ ba= nb
 ba= ns
 nn= Marulkar
 nn= Marulker
+en= Anglerfish
 tio= 2014-08-25T00:00:00Z
 st= REAL024308
 
@@ -19178,9 +19184,9 @@ fly= REAL010269
 
 id= REAL002248
 te= Kommutative kategorier
-ba= nm
-nn= Kommutative kategoriar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-12T00:25:46Z
+fly= REAL002953
 
 id= REAL002249
 te= Stål
@@ -25303,6 +25309,7 @@ ba= ns
 nn= Kommutativ algebra
 en= Commutative algebra
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-12T00:25:51Z
 st= REAL020136
 
 id= REAL002954
@@ -25407,6 +25414,7 @@ te= Marker
 ba= nb
 nn= Makkar
 nn= Markar
+en= Worms
 tio= 2014-08-25T00:00:00Z
 st= REAL017368
 st= REAL020269
@@ -34185,9 +34193,9 @@ st= REAL019861
 
 id= REAL004005
 te= Kommutative grupper
-ba= nm
-nn= Kommutative grupper
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-12T00:23:32Z
+fly= REAL012603
 
 id= REAL004006
 te= Harpiks
@@ -37914,10 +37922,12 @@ nn= Klassisk økonometri
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004449
-te= P-adic
+te= P-adisk analyse
 ba= nm
-nn= P-adic
+nn= P-adisk analyse
+en= P-adic analysis
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-12T00:38:19Z
 
 id= REAL004450
 te= Kameler
@@ -59967,6 +59977,8 @@ te= Marsvin
 ba= nb
 ba= ns
 nn= Marsvin
+en= Guinea pig
+en= Cavy
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007063
@@ -70059,6 +70071,7 @@ id= REAL008263
 te= Markpiplerker
 ba= nb
 nn= Markpiplerker
+en= Tawny pipit
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008264
@@ -79883,9 +79896,8 @@ st= REAL031871
 
 id= REAL009416
 te= Klassiske konstruksjonsproblemer
-ba= nm
-nn= Klassiske konstruksjonsproblem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-12T00:15:09Z
 
 id= REAL009417
 te= Preparativ polymerkjemi
@@ -85801,6 +85813,8 @@ te= Markmus
 ba= nb
 nn= Markmus
 nn= Markmyser
+en= Field vole
+en= Short-tailed vole
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010101
@@ -107718,7 +107732,9 @@ st= REAL026767
 
 id= REAL012603
 te= Abelske grupper
+bf= Kommutative grupper
 nn= Abelske grupper
+nn= Kommutative grupper
 en= Abelian groups
 tio= 2014-08-25T00:00:00Z
 tie= 2014-11-07T00:00:00Z
@@ -115185,15 +115201,8 @@ tis= 2018-11-28T19:37:05Z
 
 id= REAL013259
 te= Kommuner
-ba= nb
-ba= ne
-ba= nq
-ba= ns
-nn= Kommunar
 tio= 2014-08-25T00:00:00Z
-st= REAL018234
-st= REAL020327
-st= REAL027282
+tis= 2019-03-12T00:22:32Z
 
 id= REAL013260
 te= Talesystemer
@@ -120314,6 +120323,8 @@ id= REAL013559
 te= Markgresshopper
 ba= nb
 nn= Markgrashopper
+en= Short-horned Grasshoppers
+en= Acrididae
 la= Acrididae
 tio= 2014-08-25T00:00:00Z
 
