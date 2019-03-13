@@ -9700,6 +9700,7 @@ id= REAL001128
 te= Kondensasjonsforbindelser
 ba= nk
 nn= Kondensasjonssambindingar
+en= Condensation compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001129
@@ -15131,6 +15132,7 @@ ba= ns
 bf= Kunnskapsorganisering
 nn= Kunnskapsorganisasjon
 nn= Kunnskapsorganisering
+en= Knowledge organization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001776
@@ -17230,6 +17232,7 @@ id= REAL002034
 te= Kointegrering
 ba= nm
 nn= Kointegrering
+en= Cointegration
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002035
@@ -19462,6 +19465,7 @@ id= REAL002285
 te= Permutasjonsgrupper
 ba= nm
 nn= Permutasjonsgrupper
+en= Permutation groups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002286
@@ -23547,6 +23551,7 @@ id= REAL002751
 te= Protoplanetariske tåker
 ba= na
 nn= Protoplanetariske tåker
+en= Protoplanetary nebulae
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002752
@@ -26462,6 +26467,8 @@ ba= nb
 bf= Meiobentos
 nn= Meiofauna
 nn= Meiobentos
+en= Meiofauna
+en= Meiobenthos
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003085
@@ -27748,6 +27755,7 @@ id= REAL003250
 te= Medisinsk diagnostikk
 ba= nb
 nn= Medisinsk diagnostikk
+en= Medical diagnostics
 tio= 2014-08-25T00:00:00Z
 st= REAL025246
 st= REAL031846
@@ -27794,6 +27802,7 @@ te= Komplekse funksjoner
 ba= nf
 ba= nm
 nn= Komplekse funksjonar
+en= Complex functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003256
@@ -28806,6 +28815,7 @@ id= REAL003372
 te= Koherente tilstander
 ba= nm
 nn= Koherente tilstandar
+en= Coherent states
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003373
@@ -29337,6 +29347,7 @@ id= REAL003436
 te= Psykoterapi
 ba= ns
 nn= Psykoterapi
+en= Psychotherapy
 tio= 2014-08-25T00:00:00Z
 st= REAL015880
 
@@ -30241,6 +30252,8 @@ ba= nb
 ba= ne
 ba= ns
 nn= Matvarer
+en= Foods
+en= Foodstuffs
 tio= 2014-08-25T00:00:00Z
 st= REAL024977
 
@@ -31109,6 +31122,7 @@ id= REAL003635
 te= Perkolasjon
 ba= na
 nn= Perkolasjon
+en= Percolation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003636
@@ -31209,6 +31223,7 @@ id= REAL003646
 te= Planetsystemer
 ba= na
 nn= Planetsystem
+en= Planetary systems
 tio= 2014-08-25T00:00:00Z
 st= REAL029416
 
@@ -33917,6 +33932,7 @@ id= REAL003966
 te= Meiser
 ba= nb
 nn= Meiser
+en= Tits
 tio= 2014-08-25T00:00:00Z
 st= REAL014719
 st= REAL031542
@@ -35758,6 +35774,7 @@ id= REAL004189
 te= Koherent optikk
 ba= nf
 nn= Koherent optikk
+en= Coherent optics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004190
@@ -36231,6 +36248,7 @@ id= REAL004248
 te= Kombinatorisk gruppeteori
 ba= nm
 nn= Kombinatorisk gruppeteori
+en= Combinatorial group theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004249
@@ -37921,6 +37939,8 @@ id= REAL004448
 te= Klassisk økonometri
 ba= nm
 nn= Klassisk økonometri
+en= Classical econometrics
+en= Classical econometric theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004449
@@ -38398,6 +38418,7 @@ id= REAL004505
 te= Kompleks geometri
 ba= nm
 nn= Kompleks geometri
+en= Complex geometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004506
@@ -39425,6 +39446,8 @@ id= REAL004637
 te= Kirkehistorie
 ba= ns
 nn= Kyrkjehistorie
+en= Church history
+en= Ecclesiastical history
 tio= 2014-08-25T00:00:00Z
 st= REAL014747
 st= REAL019504
@@ -39799,6 +39822,7 @@ id= REAL004682
 te= Mattilgang
 ba= nb
 nn= Mattilgang
+en= Food access
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004684
@@ -42838,6 +42862,7 @@ id= REAL005051
 te= L-funksjoner
 ba= nm
 nn= L-funksjonar
+en= L-functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005052
@@ -46460,6 +46485,7 @@ id= REAL005506
 te= Lukteorganer
 ba= nb
 nn= Lukteorgan
+en= Olfactory organ
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005507
@@ -46552,6 +46578,7 @@ te= Meiose
 ba= nb
 bf= Reduksjonsdeling
 nn= Meiose
+en= Meiosis
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-19T09:03:31Z
 
@@ -46980,6 +47007,7 @@ te= Koboltklynger
 ba= nk
 nn= Koboltklynger
 nn= Koboltklyngjer
+en= Cobalt clusters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005576
@@ -47496,6 +47524,7 @@ id= REAL005639
 te= Permeabilitet
 ba= nc
 nn= Permeabilitet
+en= Permeability
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005640
@@ -49709,6 +49738,7 @@ id= REAL005892
 te= P-adiske tall
 ba= nm
 nn= P-adiske tal
+en= P-adic numbers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005895
@@ -50042,6 +50072,8 @@ so= REAL013984
 nn= Matproduksjon
 nn= Matproduksjonar
 nn= Matvareproduksjon
+en= Food production
+en= Food manufacturing
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-05T00:00:00Z
 
@@ -53863,6 +53895,7 @@ id= REAL006366
 te= Konspirasjoner
 ba= ns
 nn= Konspirasjonar
+en= Conspiracies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006367
@@ -53939,6 +53972,7 @@ id= REAL006375
 te= Komponentanalyse
 ba= nm
 nn= Komponentanalyse
+en= Component analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006376
@@ -59621,6 +59655,9 @@ id= REAL007014
 te= Meduser
 ba= nb
 nn= Meduser
+en= Jellyfish
+en= Sea Jellies
+en= Jellies
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-21T17:56:27Z
 st= REAL022674
@@ -61778,6 +61815,7 @@ id= REAL007272
 te= Motivasjon
 ba= ns
 nn= Motivasjon
+en= Motivation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007273
@@ -67854,6 +67892,7 @@ nn= Matplanter
 nn= Matplantar
 nn= Matvekstar
 nn= Matvokstrar
+en= Food plant
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T10:43:06Z
 st= REAL018838
@@ -74094,6 +74133,7 @@ te= Kunnskapssosiologi
 ba= ns
 so= REAL013518
 nn= Kunnskapssosiologi
+en= Sociology of knowledge
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-12T20:00:29Z
 
@@ -79731,6 +79771,7 @@ id= REAL009393
 te= Lambda-kalkyle
 ba= nm
 nn= Lambda-kalkyle
+en= Lambda calculus
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009394
@@ -80082,6 +80123,7 @@ id= REAL009438
 te= Lagringsmedier
 ba= ni
 nn= Lagringsmedium
+en= Storage media
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009439
@@ -80461,6 +80503,7 @@ id= REAL009490
 te= Pumper
 ba= nk
 nn= Pumper
+en= Pumps
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009491
@@ -81458,6 +81501,7 @@ id= REAL009606
 te= Komplekse mangfoldigheter
 ba= nm
 nn= Komplekse mangfald
+en= Complex manifolds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009607
@@ -84248,6 +84292,7 @@ id= REAL009928
 te= Kommutative ringer
 ba= nm
 nn= Kommutative ringar
+en= Commutative rings
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009929
@@ -85108,6 +85153,7 @@ id= REAL010021
 te= Kombinatorisk mengdelære
 ba= nm
 nn= Kombinatorisk mengdelære
+en= Combinatorial set theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010022
@@ -87060,6 +87106,7 @@ id= REAL010236
 te= Planetdannelse
 ba= na
 nn= Planetdanning
+en= Planet formation
 tio= 2014-08-25T00:00:00Z
 tie= 2014-12-17T00:00:00Z
 
@@ -90159,6 +90206,7 @@ bf= Clustermodeller
 nn= Klyngemodellar
 nn= Clustermodellar
 nn= Klyngjemodellar
+en= Cluster models
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010619
@@ -91488,6 +91536,7 @@ id= REAL010779
 te= Kombinatorisk tallteori
 ba= nm
 nn= Kombinatorisk talteori
+en= Combinatorial number theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010780
@@ -94454,6 +94503,7 @@ id= REAL011166
 te= Langlands program
 ba= nm
 nn= Langlands program
+en= Langlands program
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011167
@@ -94896,9 +94946,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011221
 te= Iskrystaller
 ba= na
+so= REAL031494
 nn= Iskrystallar
 nn= Iskrystall
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-12T22:52:50Z
 
 id= REAL011222
 te= Devonbasseng
@@ -96345,6 +96397,7 @@ id= REAL011393
 te= Kompressibilitet
 ba= nm
 nn= Kompressibilitet
+en= Compressibility
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011394
@@ -97579,6 +97632,7 @@ id= REAL011542
 te= Maurløver
 ba= nb
 nn= Maurløver
+en= Antlions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011543
@@ -100046,6 +100100,7 @@ ba= ns
 bf= Kompleks variabel
 nn= Komplekse variablar
 nn= Kompleks variabel
+en= Complex variables
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011806
@@ -102256,6 +102311,7 @@ te= Persistente organiske forbindelser
 ba= nk
 ot= REAL005714
 nn= Persistente organiske sambindingar
+en= Persistent organic compounds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012081
@@ -104133,6 +104189,7 @@ te= Periodiske differensialligninger
 ba= nm
 bf= Periodiske differensiallikninger
 nn= Periodiske differensiallikningar
+en= Periodic differential equations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012301
@@ -107470,6 +107527,8 @@ bf= Perturbasjonsmetoder
 so= REAL000573
 nn= Perturbasjonsteori
 nn= Perturbasjonsmetodar
+en= Perturbation theory
+en= Perturbation methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012578
@@ -110650,6 +110709,11 @@ te= Maurefamilien
 ba= nb
 ba= nq
 nn= Maurefamilien
+en= Coffee family
+en= The bedstraw family
+en= Bedstraw family
+en= Madder family
+en= The madder family
 la= Rubiaceae
 tio= 2014-08-25T00:00:00Z
 st= REAL025326
@@ -112244,6 +112308,8 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012972
 te= Kodaira-dimensjon
 nn= Kodaira-dimensjon
+en= Kodaira dimension
+en= Canonical dimension
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012973
@@ -113922,6 +113988,7 @@ tis= 2019-01-29T21:07:21Z
 id= REAL013139
 te= Klassiske grupper
 nn= Klassiske grupper
+en= Classical groups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013140
@@ -114854,6 +114921,7 @@ bf= Spiselige sopper
 nn= Matsoppar
 nn= Etande soppar
 nn= Etelege soppar
+en= Edible mushrooms
 tio= 2014-08-25T00:00:00Z
 st= REAL014621
 st= REAL015817
@@ -121487,6 +121555,7 @@ ba= ns
 bf= Evidensbasert praksis
 nn= Kunnskapsbasert praksis
 nn= Evidensbasert praksis
+en= Evidence-based practice
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013646
@@ -124978,6 +125047,8 @@ id= REAL013859
 te= Psykofarmaka
 so= REAL013860
 nn= Psykofarmaka
+en= Psychiatric medications
+en= Psychiatric drugs
 de= Legemidler som virker på psyken
 tio= 2014-08-25T00:00:00Z
 
@@ -128866,11 +128937,12 @@ tie= 2017-11-30T15:31:18Z
 
 id= REAL031494
 te= Snøkrystaller
+so= REAL011221
 nn= Snøkrystallar
 nn= Snøkrystall
 en= Snowflakes
 tio= 2015-09-21T09:03:31Z
-tie= 2015-09-21T09:03:38Z
+tie= 2019-03-12T22:52:50Z
 
 id= REAL031496
 te= Flerbestandsmodellering
@@ -131604,6 +131676,7 @@ tie= 2019-03-01T20:49:55Z
 id= REAL032089
 te= Mikrobølgeteknikk
 ut= REAL032088
+en= Microwave engineering
 tio= 2019-03-01T20:49:50Z
 tie= 2019-03-01T20:49:55Z
 
