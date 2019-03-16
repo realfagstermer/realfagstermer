@@ -55612,10 +55612,8 @@ st= REAL023839
 
 id= REAL006538
 te= Dimensjonerende laster
-ba= nm
-nn= Dimensjonerande lastar
-nn= Dimensjonerande laster
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-16T21:26:33Z
 
 id= REAL006539
 te= Revir
@@ -62283,9 +62281,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007322
 te= Dimensjonering
-ba= nm
-nn= Dimensjonering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-16T21:26:21Z
 
 id= REAL007323
 te= Menneske-maskin-kommunikasjon
@@ -76418,9 +76415,8 @@ st= REAL023953
 
 id= REAL008982
 te= Deskriptiv analyse
-ba= nm
-nn= Deskriptiv analyse
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-16T21:22:18Z
 
 id= REAL008983
 te= Geotermikk
@@ -81132,8 +81128,6 @@ st= REAL025927
 
 id= REAL009563
 te= Diskret programmering
-ba= nm
-nn= Diskret programmering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009564
@@ -96197,13 +96191,19 @@ tio= 2014-08-25T00:00:00Z
 id= REAL011362
 te= Bølgebelastninger
 ba= nm
+bf= Bølgelaster
 nn= Bølgjebelastingar
 nn= Bylgjebelastingar
 nn= Bylgjebelastningar
 nn= Bølgebelastingar
 nn= Bølgebelastningar
 nn= Bølgjebelastningar
+nn= Bølgjelastar
+nn= Bølgjelaster
+nn= Bylgjelastar
+nn= Bylgjelaster
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-16T21:19:51Z
 
 id= REAL011363
 te= Bladplanter
