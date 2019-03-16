@@ -1,8 +1,13 @@
 id= REAL000002
-te= Skipsmaling
+te= Bunnstoff
 ba= nk
+bf= Skipsmaling
+nn= Bunnstoff
 nn= Skipsmåling
+en= Anti-fouling paints
+en= Bottom paints
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-15T22:14:23Z
 
 id= REAL000003
 te= ARPANET
@@ -2916,13 +2921,19 @@ ba= nb
 ba= ngh
 ba= ns
 bf= Reiseliv
+bf= Severdigheter
+bf= Turistattraksjoner
 ut= REAL008704
 ut= REAL003667
 nn= Turisme
 nn= Reiseliv
+nn= Sjåverde
+nn= Turistattraksjonar
 en= Tourism
+en= Tourist attractions
+en= Visitor attractions
 tio= 2014-08-25T00:00:00Z
-tie= 2019-02-21T12:19:45Z
+tie= 2019-03-15T21:46:39Z
 st= REAL018009
 st= REAL021905
 st= REAL026002
@@ -6880,9 +6891,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000797
 te= Severdigheter
-ba= ngh
-nn= Sjåverde
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T21:45:00Z
+fly= REAL000344
 
 id= REAL000798
 te= Bilindustri
@@ -12744,10 +12755,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001483
 te= Sollys
-ba= na
-nn= Solljos
-nn= Sollys
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T22:31:57Z
+fly= REAL013627
 
 id= REAL001484
 te= Vulkanologi
@@ -13227,12 +13237,18 @@ te= Solflekker
 ba= na
 ba= nf
 ba= ns
+bf= Solflekkgrupper
+bf= Solflekktall
 so= REAL000644
 so= REAL011472
 nn= Solflekkar
+nn= Solflekkgrupper
+nn= Solflekktal
 en= Sunspots
+en= Sunspot groups
+en= Sunspot numbers
 tio= 2014-08-25T00:00:00Z
-tie= 2018-10-03T15:17:02Z
+tie= 2019-03-15T22:30:55Z
 st= REAL019587
 st= REAL020932
 st= REAL021036
@@ -16225,9 +16241,9 @@ st= REAL019717
 
 id= REAL001906
 te= Solflekktall
-ba= na
-nn= Solflekktal
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T22:30:40Z
+fly= REAL001543
 
 id= REAL001909
 te= Oksider
@@ -22901,10 +22917,12 @@ ba= ns
 bf= Årsakssammenheng
 bf= Årsaksforhold
 bf= Årsaksforbindelse
+bf= Stokastisk kausalitet
 nn= Kausalitet
 nn= Årsakssamanheng
 nn= Årsakstilhøve
 nn= Årsaksforhold
+nn= Stokastisk kausalitet
 en= Causality
 en= Causation
 en= Cause and effect
@@ -25259,7 +25277,7 @@ so= REAL002714
 nn= Wavelets
 en= Wavelets
 tio= 2014-08-25T00:00:00Z
-tie= 2018-10-28T20:26:23Z
+tie= 2019-03-15T23:52:49Z
 
 id= REAL002947
 te= Øregjenkjenning
@@ -26426,9 +26444,9 @@ st= REAL031241
 
 id= REAL003079
 te= Digital fotografering
-ba= ns
-nn= Digital fotografering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T23:18:36Z
+fly= REAL003488
 
 id= REAL003080
 te= Biologisk kjemi
@@ -27294,9 +27312,8 @@ fly= REAL011654
 
 id= REAL003188
 te= Statistisk kjemi
-ba= nk
-nn= Statistisk kjemi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T22:40:00Z
 
 id= REAL003189
 te= Glykolipider
@@ -27690,12 +27707,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003242
 te= Bølgetransformasjoner
-ba= na
-ba= nm
-nn= Bølgjetransformasjonar
-nn= Bylgjetransformasjonar
-nn= Bølgetransformasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T23:52:29Z
+fly= REAL002946
 
 id= REAL003243
 te= Skilpadder
@@ -28135,9 +28149,8 @@ tis= 2017-02-10T18:37:05Z
 
 id= REAL003301
 te= Skanning
-ba= nk
-nn= Skanning
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T21:52:35Z
 
 id= REAL003302
 te= Lokalbefolkning
@@ -29830,6 +29843,7 @@ ba= ne
 ba= ngh
 ba= nm
 ba= ns
+bf= Digital fotografering
 nn= Fotografering
 en= Photography
 tio= 2014-08-25T00:00:00Z
@@ -32483,9 +32497,8 @@ tis= 2019-03-03T14:49:40Z
 
 id= REAL003793
 te= Statistisk teknikk
-ba= ngh
-nn= Statistisk teknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T22:41:38Z
 
 id= REAL003794
 te= Linjespektra
@@ -32606,9 +32619,8 @@ tis= 2018-09-08T09:29:05Z
 
 id= REAL003811
 te= Elektriske signaler
-ba= nb
-nn= Elektriske signal
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T23:33:59Z
 
 id= REAL003812
 te= Glimmermineraler
@@ -36493,12 +36505,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004271
 te= SPSS
 ba= ni
-so= REAL009094
+ot= REAL009094
 nn= SPSS
 en= SPSS
 en= Statistical Package for the Social Sciences
 tio= 2014-08-25T00:00:00Z
-tie= 2017-09-29T20:54:38Z
+tie= 2019-03-15T22:43:03Z
 st= REAL014494
 
 id= REAL004272
@@ -48432,9 +48444,9 @@ st= REAL030063
 
 id= REAL005735
 te= Stokastiske analyser
-ba= nm
-nn= Stokastiske analysar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T22:48:40Z
+fly= REAL013684
 
 id= REAL005736
 te= Rovvilt
@@ -49735,9 +49747,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005886
 te= Diskret kombinatorikk
-ba= nm
-nn= Diskret kombinatorikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T23:26:55Z
+fly= REAL009050
 
 id= REAL005887
 te= Finansteori
@@ -56023,9 +56035,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006590
 te= Solflekkgrupper
-ba= na
-nn= Solflekkgrupper
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T22:30:04Z
+fly= REAL001543
 
 id= REAL006591
 te= Kontainermolekyler
@@ -64782,10 +64794,9 @@ tie= 2018-07-23T18:25:42Z
 
 id= REAL007623
 te= Sjikt
-ba= nk
-nn= Sjikt
 tio= 2014-08-25T00:00:00Z
-st= REAL015299
+tis= 2019-03-15T21:51:16Z
+fly= REAL009796
 
 id= REAL007624
 te= Miljørett
@@ -68970,9 +68981,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008118
 te= Digitale tjenester
-ba= ns
-nn= Digitale tenester
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T23:24:36Z
 
 id= REAL008119
 te= Jordbunnsfauna
@@ -73329,9 +73339,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008625
 te= Elektriske metoder
-ba= nc
-nn= Elektriske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T23:51:14Z
 
 id= REAL008626
 te= Tropiske regnskoger
@@ -76952,7 +76961,7 @@ nn= Diskret matematikk
 nn= Endeleg matematikk
 en= Discrete mathematics
 tio= 2014-08-25T00:00:00Z
-tie= 2018-01-22T15:14:01Z
+tie= 2019-03-15T23:27:07Z
 st= REAL025506
 
 id= REAL009051
@@ -77409,9 +77418,11 @@ id= REAL009094
 te= Statistisk programvare
 ba= nb
 ba= nm
-so= REAL004271
+ut= REAL013762
+ut= REAL004271
 nn= Statistisk programvare
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-15T22:43:03Z
 
 id= REAL009095
 te= Skoleelever
@@ -83154,9 +83165,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009796
 te= Monomolekylære sjikt
 ba= nk
+ot= REAL013279
 nn= Monomolekylære sjikt
 en= Monolayers
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-15T21:51:29Z
 st= REAL025644
 
 id= REAL009797
@@ -86540,7 +86553,11 @@ ba= nb
 ba= nc
 ba= ngh
 ba= ns
+bf= Stratigrafisk geologi
+bf= Geologisk stratigrafi
 nn= Stratigrafi
+nn= Stratigrafisk geologi
+nn= Geologisk stratigrafi
 en= Stratigraphy
 tio= 2014-08-25T00:00:00Z
 tie= 2016-11-08T14:06:37Z
@@ -86561,7 +86578,6 @@ st= REAL016642
 st= REAL017007
 st= REAL017129
 st= REAL017178
-st= REAL017674
 st= REAL017818
 st= REAL018556
 st= REAL018706
@@ -98196,9 +98212,9 @@ fly= REAL004321
 
 id= REAL011593
 te= Stokastisk kausalitet
-ba= ns
-nn= Stokastisk kausalitet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-15T22:47:22Z
+fly= REAL002675
 
 id= REAL011594
 te= Nordisk samarbeid
@@ -104118,11 +104134,16 @@ tis= 2018-07-19T10:42:29Z
 fly= REAL012631
 
 id= REAL012283
-te= Feltligninger
+te= Einsteins feltligninger
 ba= nm
 bf= Feltlikninger
+bf= Feltligninger
+nn= Einsteins feltligningar
 nn= Feltlikningar
+en= Einstein field equations
+en= Einstein's equations
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-15T23:41:43Z
 
 id= REAL012284
 te= Funksjonelle differensialligninger
@@ -115595,6 +115616,7 @@ bf= Tynne filmer
 so= REAL031189
 so= REAL031190
 ut= REAL031866
+ut= REAL009796
 nn= Tynnfilmar
 nn= Tynne filmar
 en= Thin films
@@ -121394,9 +121416,12 @@ ba= na
 ba= nb
 bf= Solutstråling
 bf= Solinnstråling
+bf= Sollys
 nn= Solstråling
 nn= Solutstråling
 nn= Solinnstråling
+nn= Solljos
+nn= Sollys
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013628
@@ -121764,7 +121789,6 @@ st= REAL026116
 id= REAL013655
 te= Fotoredigering
 ba= ni
-so= REAL003079
 so= REAL013656
 no= Adobe Photoshop, f.eks
 nn= Fotoredigering
@@ -122164,8 +122188,10 @@ te= Stokastisk analyse
 ba= ns
 ba= nm
 bf= Stokastisk integrasjon
+bf= Stokastiske analyser
 nn= Stokastisk analyse
 nn= Stokastisk integrasjon
+nn= Stokastiske analysar
 en= Stochastic analysis
 ms= 60.75
 dw= 519.22
@@ -122593,14 +122619,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013718
 te= Stratigrafisk geologi
-ba= nb
-ba= nc
-ba= ns
-bf= Geologisk stratigrafi
-nn= Stratigrafisk geologi
-nn= Geologisk stratigrafi
 tio= 2014-08-25T00:00:00Z
-st= REAL023860
+tis= 2019-03-15T22:51:25Z
+fly= REAL010172
 
 id= REAL013719
 te= Stokastisk volatilitet
@@ -123116,11 +123137,13 @@ te= Rspråk
 ba= ni
 bf= R
 bf= R-språk
+ot= REAL009094
 nn= R
 nn= R-språk
 nn= Rspråk
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-15T22:42:38Z
 
 id= REAL013763
 te= Robothender
@@ -125608,7 +125631,6 @@ nn= Formgiving
 nn= Formgjeving
 en= Design
 tio= 2014-08-25T00:00:00Z
-st= REAL014600
 st= REAL031532
 
 id= REAL013894
