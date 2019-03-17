@@ -8611,9 +8611,8 @@ tis= 2016-12-20T18:30:09Z
 
 id= REAL001003
 te= Ortogonale funksjonssystemer
-ba= nm
-nn= Ortogonale funksjonssystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-16T22:03:58Z
 
 id= REAL001004
 te= Parasitter
@@ -11206,15 +11205,23 @@ ba= nf
 ba= ngh
 ba= nm
 ba= ns
+bf= Vindgenererte bølger
+bf= Vindbølger
 so= REAL006327
 nn= Havbølgjer
 nn= Havbylgjer
 nn= Havbølger
+nn= Vindgenererte bølgjer
+nn= Vindgenererte bylgjer
+nn= Vindgenererte bølger
+nn= Vindbølgjer
+nn= Vindbylgjer
+nn= Vindbølger
 en= Ocean waves
 en= Wind-generated waves
 en= Wind waves
 tio= 2014-08-25T00:00:00Z
-tie= 2018-05-18T15:11:34Z
+tie= 2019-03-16T22:10:44Z
 
 id= REAL001304
 te= Solar Ultraviolet Measurements of Emitted Radiation (SUMER)
@@ -31293,9 +31300,8 @@ st= REAL031987
 
 id= REAL003651
 te= Optimal desisjonsteori
-ba= nm
-nn= Optimal desisjonsteori
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-16T21:59:17Z
 
 id= REAL003652
 te= Sauer
@@ -65235,9 +65241,8 @@ tie= 2018-01-03T15:06:46Z
 
 id= REAL007670
 te= Reelle funksjoner
-ba= nm
-nn= Reelle funksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-16T22:05:14Z
 
 id= REAL007671
 te= Fusjonskraft
@@ -81127,8 +81132,11 @@ st= REAL020947
 st= REAL025927
 
 id= REAL009563
-te= Diskret programmering
+te= Diskrete systemer
+nn= Diskrete system
+en= Discrete systems
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-16T21:30:31Z
 
 id= REAL009564
 te= Nevroanatomi
@@ -82390,11 +82398,9 @@ st= REAL022574
 
 id= REAL009701
 te= Vindgenererte bølger
-ba= nm
-nn= Vindgenererte bølgjer
-nn= Vindgenererte bylgjer
-nn= Vindgenererte bølger
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-16T22:09:12Z
+fly= REAL001303
 
 id= REAL009702
 te= Bomiljø
@@ -85189,15 +85195,8 @@ st= REAL025490
 
 id= REAL010018
 te= Funksjoner
-ba= nk
-ba= nf
-ba= ngh
-ba= nm
-ba= ns
-nn= Funksjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL023079
-st= REAL023174
+tis= 2019-03-16T22:48:57Z
 
 id= REAL010019
 te= Extreme Ultraviolet Explorer
@@ -94555,9 +94554,8 @@ fly= REAL007806
 
 id= REAL011163
 te= Monodromi-grupper
-ba= nm
-nn= Monodromi-grupper
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-16T21:58:03Z
 
 id= REAL011164
 te= Snøstormer
