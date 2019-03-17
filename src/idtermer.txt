@@ -6839,10 +6839,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000791
 te= Rytmer
-ba= nb
-ba= nf
-nn= Rytmar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T18:34:31Z
+fly= REAL008221
 
 id= REAL000792
 te= Elektrolytiske løsninger
@@ -9755,19 +9754,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001134
 te= Templater
-ba= nk
-bf= Kjemiske templater
-bf= Templatsyntese
-bf= Templatreaksjoner
-nn= Templat
-nn= Kjemiske templat
-en= Template reactions
-en= Templates
-en= Template effects
-en= Template-controlled reactions
-en= Templated synthesis
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-19T19:04:55Z
+tis= 2019-03-17T21:03:25Z
+fly= REAL003117
 
 id= REAL001135
 te= Dokumentadministrasjon
@@ -26769,7 +26759,18 @@ tie= 2017-08-08T11:08:23Z
 id= REAL003117
 te= Syntetisk kjemi
 ba= nk
+bf= Templater
+bf= Kjemiske templater
+bf= Templatsyntese
+bf= Templatreaksjoner
 nn= Syntetisk kjemi
+nn= Templat
+nn= Kjemiske templat
+en= Template reactions
+en= Templates
+en= Template effects
+en= Template-controlled reactions
+en= Templated synthesis
 tio= 2014-08-25T00:00:00Z
 st= REAL016767
 
@@ -28436,12 +28437,14 @@ ba= ngh
 bf= Avløp
 bf= Gråvann
 bf= Kloakk
+bf= Kloakkutslipp
 nn= Avlaupsvatn
 nn= Avløpsvatn
 nn= Avlaup
 nn= Avløp
 nn= Gråvatn
 nn= Kloakk
+nn= Kloakkutslepp
 en= Wastewater
 en= Greywater
 tio= 2014-08-25T00:00:00Z
@@ -29267,10 +29270,8 @@ tie= 2017-01-18T13:07:45Z
 
 id= REAL003421
 te= Kosmiske katastrofer
-ba= na
-nn= Kosmiske katastrofar
-en= Cosmic catastrophes
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T19:47:54Z
 
 id= REAL003422
 te= Engelske geologer
@@ -32518,10 +32519,8 @@ st= REAL014892
 
 id= REAL003795
 te= Isokinetisk prøvetaking
-ba= nk
-nn= Isokinetisk prøvetaking
-en= Isokinetic sampling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:54:04Z
 
 id= REAL003796
 te= Infrarød interferometri
@@ -43171,9 +43170,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005089
 te= Kloakkutslipp
-ba= nk
-nn= Kloakkutslepp
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:37:00Z
+fly= REAL003334
 
 id= REAL005090
 te= Multivariable systemer
@@ -47038,10 +47037,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005575
 te= Koboltklynger
-ba= nk
-nn= Koboltklynger
-nn= Koboltklyngjer
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:30:07Z
 
 id= REAL005576
 te= Brukskunst
@@ -58517,9 +58514,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006879
 te= Stellar statistikk
-ba= na
-nn= Stellar statistikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T19:28:10Z
 
 id= REAL006880
 te= Einebær
@@ -61043,11 +61039,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007169
 te= Karbenoider
-ba= nk
-nn= Karbenoid
-en= Carbenoids
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-19T19:33:57Z
+tis= 2019-03-17T20:40:24Z
 
 id= REAL007170
 te= Common Gateway Interface
@@ -65516,9 +65510,8 @@ st= REAL025087
 
 id= REAL007703
 te= Inndampning
-ba= nk
-nn= Inndamping
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:56:02Z
 
 id= REAL007705
 te= Økosystemforvaltning
@@ -66946,9 +66939,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007880
 te= Kosmisk magnetisme
-ba= na
-nn= Kosmisk magnetisme
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T19:45:39Z
 
 id= REAL007881
 te= Pediatri
@@ -69836,7 +69828,7 @@ en= Internal rythms
 en= Biological rhythms
 en= Circadian rhythms
 tio= 2014-08-25T00:00:00Z
-tie= 2017-06-22T21:40:58Z
+tie= 2019-03-17T18:34:52Z
 st= REAL023453
 st= REAL028187
 
@@ -80568,9 +80560,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009490
 te= Pumper
-ba= nk
-nn= Pumper
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:56:49Z
 
 id= REAL009491
 te= Bygningslære
@@ -90324,12 +90315,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010627
 te= Kobberforbindelser
-ba= nk
-bf= Kopperforbindelser
-nn= Koparsambindingar
-en= Copper compounds
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-05T13:43:24Z
+tis= 2019-03-17T20:31:35Z
+fly= REAL011225
 
 id= REAL010628
 te= Marine alger
@@ -93764,9 +93753,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011064
 te= Variable funksjoner
-ba= nm
-nn= Variable funksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:18:11Z
 
 id= REAL011065
 te= Betong
@@ -95053,7 +95041,7 @@ en= Organocopper compounds
 en= Organic copper compunds
 en= Organocopper chemistry
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-23T18:54:44Z
+tie= 2019-03-17T20:33:57Z
 
 id= REAL011226
 te= Avvik
@@ -98556,15 +98544,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011634
 te= Filtrering
-ba= ni
-ba= nk
-ba= nb
-ba= ngh
-ba= nm
-ba= ns
-nn= Filtrering
-en= Filtering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:58:08Z
 
 id= REAL011635
 te= Hydrodynamisk teori
@@ -99315,9 +99296,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011717
 te= Kolonnepakking
-ba= nk
-nn= Kolonnepakking
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:29:25Z
 
 id= REAL011718
 te= Fttc
@@ -103722,9 +103702,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012236
 te= Kontaminering
-ba= nk
-nn= Kontaminering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-17T20:28:12Z
 
 id= REAL012237
 te= Magnetitt
