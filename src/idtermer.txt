@@ -1497,6 +1497,7 @@ id= REAL000172
 te= Valg
 ba= nm
 nn= Val
+en= Elections
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000174
@@ -8185,6 +8186,8 @@ id= REAL000957
 te= Matrisestatikk
 ba= nm
 nn= Matrisestatikk
+en= Displacement method (structural analysis)
+en= Matrix structural analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000958
@@ -11525,6 +11528,7 @@ id= REAL001325
 te= Modulære varieteter
 ba= nm
 nn= Modulære varietetar
+en= Modular varieties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001326
@@ -15559,6 +15563,7 @@ id= REAL001830
 te= Matrisealgebra
 ba= ni
 nn= Matrisealgebra
+en= Matrix algebra
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001831
@@ -20228,6 +20233,7 @@ id= REAL002366
 te= Optimal estimering
 ba= nm
 nn= Optimal estimering
+en= Optimal estimation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002367
@@ -23904,6 +23910,7 @@ te= Kvantesystemer
 ba= nf
 ba= nm
 nn= Kvantesystem
+en= Quantum systems
 tio= 2014-08-25T00:00:00Z
 st= REAL025049
 
@@ -42302,6 +42309,7 @@ id= REAL004978
 te= Modulære kurver
 ba= nm
 nn= Modulære kurver
+en= Modular curves
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004979
@@ -50350,6 +50358,7 @@ id= REAL005958
 te= Overlevelsesanalyse
 ba= nm
 nn= Overlevingsanalyse
+en= Survival analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005959
@@ -62946,6 +62955,7 @@ id= REAL007410
 te= Optimaliseringsproblemer
 ba= ni
 nn= Optimaliseringsproblem
+en= Optimization problems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007411
@@ -67917,6 +67927,7 @@ id= REAL007997
 te= Materialtretthet
 ba= nm
 nn= Materialtrøyttleik
+en= Material fatigue
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007998
@@ -77989,6 +78000,7 @@ id= REAL009166
 te= Kontinuerlige funksjoner
 ba= nm
 nn= Kontinuerlege funksjonar
+en= Continuous functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009167
@@ -110475,6 +110487,8 @@ ba= na
 bf= Fraktalanalyse
 nn= Fraktalteori
 nn= Fraktalanalyse
+en= Fractal theory
+en= Fractal analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012793
@@ -112215,6 +112229,7 @@ te= Jacobi-formodning
 bf= Jacobi-konjektur
 nn= Jacobi-formodning
 nn= Jacobi-konjektur
+en= Jacobian conjecture
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-14T14:40:48Z
 

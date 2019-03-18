@@ -27,6 +27,7 @@ st= REAL031452
 
 id= REAL030064
 te= Statistikk
+en= Statistics
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030065
