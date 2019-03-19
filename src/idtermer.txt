@@ -31311,10 +31311,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003648
 te= Nakenfrøete karplanter
-ba= nb
-nn= Nakenfrøa karplanter
-nn= Nakenfrøa karplantar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-19T13:28:57Z
 
 id= REAL003649
 te= Endokrinologi
@@ -54643,7 +54641,6 @@ id= REAL006440
 te= Fargemåling
 ba= nf
 nn= Fargemåling
-en= Colourimetry
 en= Colourimetry
 en= Colour measurement
 en= Colorimetry
@@ -90754,7 +90751,6 @@ nn= Musøyre
 nn= Musøyra
 en= Dwarf willow
 en= Least willow
-en= Dwarf willow
 en= Salix herbacera
 en= Snowbed willow
 tio= 2014-08-25T00:00:00Z
