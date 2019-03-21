@@ -244,9 +244,18 @@ id= REAL000029
 te= Vassdragsforvaltning
 ba= nb
 ba= nq
+bf= Vassdragsregulering
 nn= Vassdragsforvalting
 nn= Vassdragsforvaltning
+nn= Vassdragsregulering
 tio= 2014-08-25T00:00:00Z
+st= REAL015384
+st= REAL017435
+st= REAL019020
+st= REAL019718
+st= REAL024204
+st= REAL025178
+st= REAL028805
 
 id= REAL000030
 te= Transkripsjonsfaktorer
@@ -2449,16 +2458,6 @@ en= Mandelbrot set
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-02T00:00:00Z
 
-id= REAL000281
-te= Studiebøker
-ba= nk
-no= OBS: study guides, ikke generelle lærebøker
-nn= Studiebøker
-en= Study guides
-tio= 2014-08-25T00:00:00Z
-tie= 2018-03-28T11:34:51Z
-st= REAL021461
-
 id= REAL000282
 te= Mekaniske datamaskiner
 ba= ns
@@ -2501,10 +2500,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-03-19T08:25:34Z
 
 id= REAL000286
-te= Peyote
+te= Peyoter
 ba= ne
-nn= Peyote
+nn= Peyotar
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-21T12:23:43Z
 
 id= REAL000287
 te= Meteoroider
@@ -2601,10 +2601,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000300
 te= Undervannsforskning
-ba= nb
-nn= Undervassforsking
-en= Underwater research
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-21T10:36:51Z
 
 id= REAL000301
 te= Fasthet
@@ -3193,12 +3191,30 @@ ba= nk
 ba= nb
 ba= ngh
 ba= nq
+bf= Plantesosiologi
 nn= Plantesamfunn
+nn= Plantesosiologi
+en= Phytosociology
+en= Plant sociology
 tio= 2014-08-25T00:00:00Z
 st= REAL022591
 st= REAL024448
 st= REAL027871
 st= REAL028149
+st= REAL014967
+st= REAL015024
+st= REAL015052
+st= REAL015734
+st= REAL016686
+st= REAL017672
+st= REAL018277
+st= REAL023040
+st= REAL023855
+st= REAL024802
+st= REAL027543
+st= REAL028910
+st= REAL028989
+st= REAL029330
 
 id= REAL000371
 te= Energinivåer
@@ -18401,30 +18417,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002149
 te= Plantesosiologi
-ba= nk
-ba= nb
-ba= ngh
-ba= nq
-nn= Plantesosiologi
-en= Phytosociology
-en= Plant sociology
 tio= 2014-08-25T00:00:00Z
-st= REAL014967
-st= REAL015024
-st= REAL015052
-st= REAL015586
-st= REAL015734
-st= REAL016686
-st= REAL017672
-st= REAL018277
-st= REAL022642
-st= REAL023040
-st= REAL023855
-st= REAL024802
-st= REAL027543
-st= REAL028910
-st= REAL028989
-st= REAL029330
+tis= 2019-03-21T14:42:16Z
+fly= REAL000369
 
 id= REAL002151
 te= Algebra
@@ -18445,8 +18440,11 @@ st= REAL017655
 id= REAL002153
 te= Mikrofiltrering
 ba= nb
+bf= Ultrafiltrering
 nn= Mikrofiltrering
+nn= Ultrafiltrering
 en= Microfiltration
+en= Ultrafiltration
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002154
@@ -18481,6 +18479,7 @@ bf= Vegetasjonssoner
 nn= Vegetasjonstypar
 nn= Vegetasjonssoner
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-21T14:37:20Z
 st= REAL014453
 st= REAL014752
 st= REAL015488
@@ -31163,9 +31162,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003625
 te= Transformeringer
-ba= nb
-nn= Transformeringar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-21T10:06:06Z
 
 id= REAL003626
 te= Mekaniske egenskaper
@@ -32658,9 +32656,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003804
 te= Polare vegetasjonssoner
-ba= nb
-nn= Polare vegetasjonssoner
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-21T14:37:04Z
+fly= REAL002157
 
 id= REAL003805
 te= Kognisjon
@@ -33615,10 +33613,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003912
 te= Utskilling
-ba= nb
-nn= Utskiljing
-nn= Utskilling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-21T10:39:04Z
+fly= REAL007698
 
 id= REAL003913
 te= Skogbrukshistorie
@@ -50727,17 +50724,9 @@ st= REAL016150
 
 id= REAL005989
 te= Vassdragsregulering
-ba= nb
-ba= ngh
-nn= Vassdragsregulering
 tio= 2014-08-25T00:00:00Z
-st= REAL015384
-st= REAL017435
-st= REAL019020
-st= REAL019718
-st= REAL024204
-st= REAL025178
-st= REAL028805
+tis= 2019-03-21T10:59:09Z
+fly= REAL000029
 
 id= REAL005990
 te= Klorforbindelser
@@ -52800,10 +52789,9 @@ tie= 2017-01-02T14:22:53Z
 
 id= REAL006226
 te= Ultrafiltrering
-ba= nb
-nn= Ultrafiltrering
-en= Ultrafiltration
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-21T10:24:14Z
+fly= REAL002153
 
 id= REAL006227
 te= Kompleksitetsanalyse
@@ -65652,9 +65640,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007698
 te= Ekskresjon
 ba= nb
+bf= Utskilling
 nn= Ekskresjon
+nn= Utskiljing
+nn= Utskilling
 en= Excretion
+en= Elimination
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-21T10:39:27Z
 st= REAL026474
 
 id= REAL007699
@@ -71907,10 +71900,15 @@ en= Computational geometry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008448
-te= Pelsseler
+te= Øreseler
 ba= nb
+bf= Pelsseler
+bf= Øreselfamilien
 nn= Pelsselar
+nn= Øreselar
+nn= Øreselfamilien
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-21T12:20:15Z
 
 id= REAL008449
 te= Bløtbunn
@@ -89567,9 +89565,8 @@ st= REAL014585
 
 id= REAL010505
 te= Vegetasjonsformasjoner
-ba= nk
-nn= Vegetasjonsformasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-21T14:36:44Z
 
 id= REAL010506
 te= Harrison-kronometre

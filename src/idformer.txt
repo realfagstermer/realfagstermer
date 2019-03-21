@@ -1,3 +1,13 @@
+id= REAL000281
+te= Studiebøker
+ba= nk
+no= OBS: study guides, ikke generelle lærebøker
+nn= Studiebøker
+en= Study guides
+tio= 2014-08-25T00:00:00Z
+tie= 2018-03-28T11:34:51Z
+st= REAL021461
+
 id= REAL005542
 te= Brukerveiledning
 ba= ni
