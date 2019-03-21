@@ -4240,6 +4240,8 @@ id= REAL000486
 te= Molekylære filtre
 ba= nk
 nn= Molekylære filter
+en= Molecular sieves
+en= Molecular filters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000487
@@ -6780,6 +6782,8 @@ ba= nc
 ba= nf
 no= Brukes i streng
 nn= Optiske eigenskapar
+en= Optical properties
+en= Optical characteristics
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-27T21:16:06Z
 st= REAL024504
@@ -10123,6 +10127,8 @@ id= REAL001176
 te= Oljetrefamilien
 ba= ns
 nn= Oljetrefamilien
+en= The Olive family
+en= Oleaceae
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001177
@@ -11027,6 +11033,7 @@ id= REAL001282
 te= Overflatefenomener
 ba= nk
 nn= Overflatefenomen
+en= Surface phenomena
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001283
@@ -12423,6 +12430,7 @@ ba= nq
 ba= ns
 nn= Orkidéar
 nn= Orkidear
+en= Orchids
 tio= 2014-08-25T00:00:00Z
 st= REAL014447
 st= REAL014673
@@ -16352,6 +16360,7 @@ ba= nb
 bf= Oter
 nn= Otrar
 nn= Oter
+en= Otters
 tio= 2014-08-25T00:00:00Z
 st= REAL016130
 st= REAL022127
@@ -17170,6 +17179,8 @@ id= REAL002019
 te= Oksygenopptak
 ba= nb
 nn= Oksygenopptak
+en= Oxygen uptake
+en= Oxygen intake
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002020
@@ -19752,6 +19763,7 @@ id= REAL002315
 te= Oksidoreduktaser
 ba= nb
 nn= Oksidoreduktasar
+en= Oxidoreductases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002316
@@ -21201,6 +21213,8 @@ id= REAL002475
 te= Optisk aktivitet
 ba= nk
 nn= Optisk aktivitet
+en= Optical rotation
+en= Optical activity
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002476
@@ -25651,6 +25665,8 @@ ba= nm
 bf= Overlevelsesrate
 nn= Overleving
 nn= Overlevingsrate
+en= Survival
+en= Survival rate
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-27T23:07:50Z
 st= REAL031451
@@ -30517,6 +30533,7 @@ ba= nb
 so= REAL008830
 so= REAL009467
 nn= Oksygenmangel
+en= Oxygen deficiency
 tio= 2014-08-25T00:00:00Z
 tie= 2018-08-17T14:15:12Z
 
@@ -31916,6 +31933,8 @@ id= REAL003717
 te= Oksygentransport
 ba= nb
 nn= Oksygentransport
+en= Oxygen transport
+en= Transport of oxygen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003718
@@ -37383,6 +37402,8 @@ bf= Pansermidder
 nn= Oribatid
 nn= Hornmiddar
 nn= Pansermiddar
+en= Moss mites
+en= Beetle mites
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-20T17:01:17Z
 st= REAL022854
@@ -38032,6 +38053,7 @@ id= REAL004444
 te= Minisatellitter
 ba= na
 nn= Minisatellittar
+en= Small satellites
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004445
@@ -38607,6 +38629,7 @@ id= REAL004518
 te= Overbeiting
 ba= nb
 nn= Overbeiting
+en= Overgrazing
 tio= 2014-08-25T00:00:00Z
 st= REAL028644
 
@@ -39728,6 +39751,7 @@ te= Organisk analyse
 ba= nk
 ba= nb
 nn= Organisk analyse
+en= Organic analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004657
@@ -41116,6 +41140,7 @@ te= Optisk kommunikasjon
 ba= ni
 ba= nf
 nn= Optisk kommunikasjon
+en= Optical communication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004826
@@ -41756,6 +41781,7 @@ id= REAL004905
 te= Objective-c
 ba= ni
 nn= Objective-c
+en= Objective-C
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -42109,6 +42135,8 @@ ba= ns
 bf= Bokkonservering
 nn= Papirkonservering
 nn= Bokkonservering
+en= Paper conservation
+en= Book conservation
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-20T19:48:12Z
 
@@ -42286,6 +42314,7 @@ id= REAL004969
 te= Optiske teleskoper
 ba= na
 nn= Optiske teleskop
+en= Optical telescopes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004970
@@ -43026,6 +43055,11 @@ te= Osp
 ba= nb
 nn= Osp
 nn= Populus
+en= Aspen
+en= Quaking aspen
+en= European aspen
+en= Eurasian aspen
+en= Common aspen
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005056
@@ -44676,6 +44710,7 @@ fly= REAL010672
 
 id= REAL005261
 te= Invariantteori
+en= Invariant theory
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-21T22:09:52Z
 
@@ -47420,6 +47455,7 @@ bf= Lysfenomener
 nn= Optiske fenomen
 nn= Ljosfenomen
 nn= Lysfenomen
+en= Optical phenomena
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005610
@@ -50079,6 +50115,7 @@ nn= Organisk materiale
 nn= Naturleg organisk materiale
 en= Organic matter
 en= Natural organic matter
+en= Organic material
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005914
@@ -52267,6 +52304,7 @@ id= REAL006169
 te= Optisk spektroskopi
 ba= nk
 nn= Optisk spektroskopi
+en= Optical spectroscopy
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-25T13:00:48Z
 
@@ -55347,6 +55385,7 @@ te= Organisk forurensning
 ba= nb
 ba= nc
 nn= Organisk forureining
+en= Organic pollution
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006494
@@ -55565,6 +55604,7 @@ id= REAL006514
 te= Romgrupper
 ba= nk
 nn= Romgrupper
+en= Space groups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006515
@@ -61946,6 +61986,7 @@ te= Optisk signalbehandling
 ba= nf
 nn= Optisk signalhandsaming
 nn= Optisk signalbehandling
+en= Optical signal processing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007264
@@ -65041,6 +65082,7 @@ id= REAL007633
 te= Oksygenforbruk
 ba= nb
 nn= Oksygenforbruk
+en= Oxygen consumption
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007634
@@ -71385,6 +71427,7 @@ te= Overbefolkning
 ba= nb
 nn= Overfolking
 nn= Overbefolkning
+en= Overpopulation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008390
@@ -73204,6 +73247,7 @@ id= REAL008589
 te= Uelastisk spredning
 ba= nf
 nn= Uelastisk spreiing
+en= Inelastic scattering
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008590
@@ -75744,6 +75788,10 @@ ba= nb
 ba= ne
 ba= ns
 nn= Organisasjonsutvikling
+en= Organization development
+en= Organisational development
+en= Organisation development
+en= Organizational development
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008882
@@ -76680,6 +76728,8 @@ id= REAL008990
 te= Optiske nettverk
 ba= ni
 nn= Optiske nettverk
+en= Optical networks
+en= Optical networking
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008991
@@ -77915,6 +77965,7 @@ ba= nb
 ba= nf
 ba= nm
 nn= Overflater
+en= Surfaces
 tio= 2014-08-25T00:00:00Z
 st= REAL020259
 st= REAL021527
@@ -84490,6 +84541,7 @@ id= REAL009923
 te= Modernisme
 ba= ns
 nn= Modernisme
+en= Modernism
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009924
@@ -88178,6 +88230,7 @@ id= REAL010328
 te= Optisk lagring
 ba= ni
 nn= Optisk lagring
+en= Optical storage
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010329
@@ -89006,6 +89059,7 @@ te= Parfymer
 ba= nk
 ba= ne
 nn= Parfymar
+en= Perfumes
 tio= 2014-08-25T00:00:00Z
 st= REAL015689
 
@@ -92105,6 +92159,7 @@ ba= ni
 ba= nf
 nn= Optisk datahandsaming
 nn= Optisk databehandling
+en= Optical computing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010826
@@ -98274,6 +98329,7 @@ id= REAL011578
 te= Overflatestruktur
 ba= nk
 nn= Overflatestruktur
+en= Surface structure
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011579
@@ -110426,6 +110482,8 @@ nn= Menopausen
 nn= Klimakterium
 nn= Klimakteriet
 nn= Overgangsalder
+en= Menopause
+en= Climacteric
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012762
@@ -115592,6 +115650,7 @@ so= REAL004863
 nn= Organisasjonsteori
 nn= Organisasjonsanalyse
 nn= Organisasjonsstrukturar
+en= Organizational theory
 tio= 2014-08-25T00:00:00Z
 st= REAL028748
 
