@@ -773,8 +773,6 @@ tie= 2015-05-07T14:18:23Z
 
 id= REAL031306
 te= Plantekataloger
-en= Plant catalogues
-en= Plant catalogs
 tio= 2015-01-26T00:00:00Z
 tie= 2015-01-26T00:00:00Z
 
