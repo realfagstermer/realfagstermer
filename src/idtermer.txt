@@ -19310,6 +19310,7 @@ id= REAL002256
 te= Kliniske metoder
 ba= nm
 nn= Kliniske metodar
+en= Clinical methods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002257
@@ -40494,6 +40495,8 @@ bf= Astronomiske legemer
 so= REAL032098
 nn= Himmellekamar
 nn= Astronomiske lekamar
+en= Celestial bodies
+en= Heavenly bodies
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-22T15:30:24Z
 st= REAL015967
@@ -46831,6 +46834,7 @@ id= REAL005524
 te= Frekvensmåling
 ba= na
 nn= Frekvensmåling
+en= Frequency measurement
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-22T15:24:43Z
 
@@ -48362,6 +48366,7 @@ ba= nb
 bf= Rødåte
 nn= Raudåte
 nn= Rødåte
+en= Calanus finmarchicus
 la= Calanus finmarchicus
 tio= 2014-08-25T00:00:00Z
 tie= 2017-04-11T10:56:18Z
@@ -57316,6 +57321,7 @@ id= REAL006717
 te= Industrivedlikehold
 ba= nm
 nn= Industrivedlikehald
+en= Industrial maintenance
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006718
@@ -71755,6 +71761,7 @@ id= REAL008430
 te= Mekaniske systemer
 ba= ni
 nn= Mekaniske system
+en= Mechanical systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008431
@@ -101367,6 +101374,8 @@ id= REAL011906
 te= Rauwolfia
 ba= ne
 nn= Rauwolfia
+en= Rauvolfia
+en= Rauwolfia
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011907
@@ -111375,6 +111384,8 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012843
 te= Ikke-linearitet
 nn= Ikkje-linearitet
+en= Nonlinearity
+en= Non-linearity
 tio= 2014-08-25T00:00:00Z
 st= REAL019674
 
@@ -121761,6 +121772,10 @@ nn= Solutstråling
 nn= Solinnstråling
 nn= Solljos
 nn= Sollys
+en= Solar radiation
+en= Insolation
+en= Solar irradiance
+en= Solar exposure
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013628
