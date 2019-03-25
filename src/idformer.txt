@@ -33,6 +33,15 @@ st= REAL026608
 st= REAL028789
 st= REAL031452
 
+id= REAL013494
+te= Polemikk
+ba= fa
+ba= nk
+ba= ns
+nn= Polemikk
+en= Polemic
+tio= 2014-08-25T00:00:00Z
+
 id= REAL030064
 te= Statistikk
 en= Statistics

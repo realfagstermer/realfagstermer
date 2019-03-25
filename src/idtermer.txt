@@ -13906,8 +13906,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001619
 te= Skapelsen
 ba= nb
+bf= Skapelsesmyten
 nn= Skapinga
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-25T16:26:14Z
 
 id= REAL001620
 te= Serpentinitter
@@ -42326,9 +42328,8 @@ st= REAL028092
 
 id= REAL004972
 te= Sannsynlighetslæring
-ba= nm
-nn= Sannsynslæring
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T13:44:43Z
 
 id= REAL004973
 te= Kryssidentifikasjonstabeller
@@ -54580,11 +54581,8 @@ tie= 2018-07-27T14:57:55Z
 
 id= REAL006426
 te= Geometriske metoder
-ba= nm
-bf= Geometriske teknikker
-nn= Geometriske metodar
-nn= Geometriske teknikkar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T13:47:23Z
 
 id= REAL006427
 te= Tilfeldige hendelser
@@ -78287,9 +78285,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009174
 te= Funksjonssystemer
-ba= nm
-nn= Funksjonssystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T13:33:39Z
 
 id= REAL009175
 te= Fikenveps
@@ -90475,10 +90472,11 @@ tis= 2018-08-02T12:03:10Z
 fly= REAL011068
 
 id= REAL010613
-te= Revebjelle
+te= Revebjeller
 ba= ne
-nn= Revebjølle
+nn= Revebjøller
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-25T16:21:43Z
 st= REAL027034
 
 id= REAL010614
@@ -95526,10 +95524,11 @@ en= Phyllite
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011251
-te= Indre produktrom
+te= Indreproduktrom
 ba= nm
-nn= Indre produktrom
+nn= Indreproduktrom
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-25T13:42:17Z
 
 id= REAL011252
 te= Sansefysiologi
@@ -111347,8 +111346,8 @@ st= REAL028997
 
 id= REAL012838
 te= Ikke-lineære algoritmer
-nn= Ikkje-lineære algoritmar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T13:36:56Z
 
 id= REAL012839
 te= Ikke-lineær bølgemekanikk
@@ -119834,15 +119833,6 @@ st= REAL021932
 st= REAL022993
 st= REAL026367
 st= REAL029953
-
-id= REAL013494
-te= Polemikk
-ba= fa
-ba= nk
-ba= ns
-nn= Polemikk
-en= Polemic
-tio= 2014-08-25T00:00:00Z
 
 id= REAL013495
 te= Politikk
@@ -128391,13 +128381,10 @@ tie= 2014-10-29T00:00:00Z
 
 id= REAL031231
 te= Löwnerligningen
-bf= Löwners ligning
-so= REAL031232
-nn= Löwnerlikninga
-nn= Löwners likning
-en= Loewner equation
 tio= 2014-11-06T00:00:00Z
 tie= 2015-05-13T11:12:13Z
+tis= 2019-03-25T13:23:53Z
+fly= REAL031232
 
 id= REAL031232
 te= Schramm-Löwner-evolusjon
@@ -128405,12 +128392,16 @@ bf= Schramm-Löwner-ligningen
 bf= Schramm-Löwner-likningen
 bf= Schramm-Löwners ligning
 bf= Schramm-Löwners likning
-so= REAL031231
+bf= Löwnerligningen
+bf= Löwners ligning
 nn= Schramm-Löwner-evolusjon
 nn= Schramm-Löwner-likninga
 nn= Schramm-Löwners likning
+nn= Löwnerlikninga
+nn= Löwners likning
 en= Schramm-Loewner evolution
 en= Schramm-Loewner equation
+en= Loewner equation
 ms= 60J67
 dw= 519.233
 tio= 2014-11-06T00:00:00Z
