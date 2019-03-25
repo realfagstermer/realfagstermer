@@ -8185,9 +8185,8 @@ st= REAL027486
 
 id= REAL000953
 te= Treelektronbindinger
-ba= nk
-nn= Treelektronbindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T18:51:09Z
 
 id= REAL000954
 te= Stratosfæren
@@ -13904,12 +13903,12 @@ en= Gamma functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001619
-te= Skapelsen
+te= Skapelsesmyter
 ba= nb
-bf= Skapelsesmyten
-nn= Skapinga
+so= REAL002863
+nn= Skapingsmytar
 tio= 2014-08-25T00:00:00Z
-tie= 2019-03-25T16:26:14Z
+tie= 2019-03-25T18:38:44Z
 
 id= REAL001620
 te= Serpentinitter
@@ -18678,11 +18677,8 @@ fly= REAL001324
 
 id= REAL002176
 te= Trykk
-ba= nk
-ba= nb
-ba= nf
-nn= Trykk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T18:54:31Z
 
 id= REAL002177
 te= Optoelektronikk
@@ -24059,9 +24055,8 @@ st= REAL028352
 
 id= REAL002801
 te= Feltgradienter
-ba= nk
-nn= Feltgradientar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T19:00:37Z
 
 id= REAL002802
 te= Teologi
@@ -24646,13 +24641,15 @@ te= Kosmogoni
 ba= na
 ba= ns
 bf= Babyuniverser
+so= REAL001619
+so= REAL013436
 nn= Kosmogoni
 nn= Babyunivers
 en= Cosmogony
 en= Cosmogeny
 en= Baby universes
 tio= 2014-08-25T00:00:00Z
-tie= 2017-09-29T12:31:43Z
+tie= 2019-03-25T18:38:44Z
 st= REAL015824
 st= REAL016975
 st= REAL018604
@@ -26825,12 +26822,14 @@ bf= Templatreaksjoner
 nn= Syntetisk kjemi
 nn= Templat
 nn= Kjemiske templat
+en= Synthetic chemistry
 en= Template reactions
 en= Templates
 en= Template effects
 en= Template-controlled reactions
 en= Templated synthesis
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-25T18:57:46Z
 st= REAL016767
 
 id= REAL003118
@@ -30779,12 +30778,17 @@ en= Web-based development
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003589
-te= Mikrobølgeovnsyntese
+te= Mikrobølgekjemi
 ba= nk
+bf= Mikrobølgeovnsyntese
 nn= Mikrobølgjeomnsyntese
 nn= Mikrobylgjeomnsyntese
 nn= Mikrobølgeomnsyntese
+nn= Mikrobølgjekjemi
+nn= Mikrobylgjekjemi
+nn= Mikrobølgekjemi
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-25T20:44:29Z
 
 id= REAL003590
 te= Pi-kalkyle
@@ -38428,10 +38432,14 @@ tis= 2018-02-14T23:42:10Z
 fly= REAL000054
 
 id= REAL004492
-te= Transmutasjoner
+te= Kjernetransmutasjon
 ba= nk
-nn= Transmutasjonar
+bf= Transmutasjon
+nn= Kjernetransmutasjon
+nn= Transmutasjon
+en= Nuclear transmutation
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-25T18:50:02Z
 st= REAL017523
 
 id= REAL004493
@@ -40453,11 +40461,8 @@ tie= 2015-08-07T15:07:14Z
 
 id= REAL004745
 te= Reaksjoner
-ba= nk
-ba= nb
-nn= Reaksjonar
 tio= 2014-08-25T00:00:00Z
-st= REAL021689
+tis= 2019-03-25T21:16:14Z
 
 id= REAL004747
 te= Lysdetektorer
@@ -42594,9 +42599,8 @@ st= REAL026951
 
 id= REAL005006
 te= Valenslære
-ba= nk
-nn= Valenslære
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T18:55:36Z
 
 id= REAL005007
 te= Hvaler
@@ -71863,8 +71867,12 @@ st= REAL027573
 id= REAL008444
 te= Klorbutadiener
 ba= nk
+bf= Kloropren
+bf= Klorbutadien
 nn= Klorbutadien
+nn= Kloropren
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-25T19:05:27Z
 
 id= REAL008445
 te= Metanol
@@ -79243,9 +79251,8 @@ tie= 2019-03-18T19:26:23Z
 
 id= REAL009288
 te= Flyteegenskaper
-ba= nk
-nn= Flyteeigenskapar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T19:06:29Z
 
 id= REAL009289
 te= Havedderkopper
@@ -82227,9 +82234,8 @@ tie= 2017-09-29T20:57:25Z
 
 id= REAL009653
 te= Preparativ kromatografi
-ba= nk
-nn= Preparativ kromatografi
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T18:58:20Z
 
 id= REAL009654
 te= Granulitter
@@ -99647,9 +99653,8 @@ tis= 2019-01-16T12:07:27Z
 
 id= REAL011726
 te= Mikroelektroniske prosesser
-ba= nk
-nn= Mikroelektroniske prosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T21:29:07Z
 
 id= REAL011727
 te= Helseforetak
@@ -118779,9 +118784,11 @@ ba= nb
 ba= nf
 ba= nm
 ba= ns
+so= REAL002863
 nn= Kosmologi
 en= Cosmology
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-25T18:38:50Z
 st= REAL014089
 st= REAL014095
 st= REAL014701
