@@ -6,6 +6,14 @@ tie= 2018-03-28T11:34:51Z
 tis= 2019-03-21T17:40:09Z
 fly= REAL030108
 
+id= REAL002767
+te= Debatt
+ba= nc
+nn= Debatt
+nn= Ordskifte
+en= Debate
+tio= 2014-08-25T00:00:00Z
+
 id= REAL005542
 te= Brukerveiledning
 ba= ni

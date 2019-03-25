@@ -23785,14 +23785,6 @@ en= Energy storage
 tio= 2014-08-25T00:00:00Z
 tie= 2017-08-17T16:22:13Z
 
-id= REAL002767
-te= Debatt
-ba= nc
-nn= Debatt
-nn= Ordskifte
-en= Debate
-tio= 2014-08-25T00:00:00Z
-
 id= REAL002768
 te= Denotasjonell semantikk
 ba= ni
@@ -56144,10 +56136,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006581
 te= Skjebne
-ba= nb
-nn= Lagnad
-nn= Skjebne
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-25T17:47:39Z
 
 id= REAL006583
 te= Diatomiske molekyler
