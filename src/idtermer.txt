@@ -3537,10 +3537,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2018-01-23T23:40:30Z
 
 id= REAL000410
-te= Tropisk gradient
+te= Trofisk gradient
 ba= nb
-nn= Tropisk gradient
+nn= Trofisk gradient
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T17:04:24Z
 
 id= REAL000411
 te= Stratosfære
@@ -6819,11 +6820,9 @@ st= REAL029357
 
 id= REAL000783
 te= Radioaktiv stråling
-ba= nk
-ba= nb
-ba= nf
-nn= Radioaktiv stråling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-26T21:33:01Z
+fly= REAL010974
 
 id= REAL000784
 te= Leverceller
@@ -7730,7 +7729,9 @@ bf= Strålingshygiene
 nn= Strålevern
 nn= Strålingshygiene
 en= Radiation protection
+en= Radiological protection
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T21:21:55Z
 st= REAL016196
 
 id= REAL000904
@@ -15808,11 +15809,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001851
 te= Radiobølgeområdet
-ba= na
-nn= Radiobølgjeområdet
-nn= Radiobylgjeområdet
-nn= Radiobølgeområdet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-26T21:37:19Z
 
 id= REAL001852
 te= Gammahydroksysmørsyre
@@ -20509,8 +20507,11 @@ st= REAL017068
 id= REAL002387
 te= Radiointerferometri
 ba= na
+bf= Radiointerferometre
 nn= Radiointerferometri
+nn= Radiointerferometer
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T17:42:23Z
 
 id= REAL002388
 te= Tellbarhet
@@ -26729,10 +26730,12 @@ tio= 2014-08-25T00:00:00Z
 tie= 2015-02-05T00:00:00Z
 
 id= REAL003098
-te= Vandrefalker
+te= Vandrefalk
 ba= nb
-nn= Vandrefalkar
+nn= Vandrefalk
+la= Falco peregrinus
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T18:40:01Z
 st= REAL023793
 
 id= REAL003099
@@ -41024,7 +41027,9 @@ id= REAL004800
 te= Vaskebjørner
 ba= nb
 nn= Vaskebjørnar
+la= Procyon
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T18:51:32Z
 
 id= REAL004801
 te= Emacs
@@ -58047,9 +58052,8 @@ tis= 2017-10-30T12:25:20Z
 
 id= REAL006786
 te= Radiostråling
-ba= na
-nn= Radiostråling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-26T16:47:05Z
 
 id= REAL006787
 te= Plastisitetsteori
@@ -58611,8 +58615,12 @@ tie= 2018-09-21T14:06:19Z
 id= REAL006852
 te= Radiokjemisk analyse
 ba= nk
+bf= Radioanalytisk kjemi
+bf= Radioanalytiske metoder
 nn= Radiokjemisk analyse
+nn= Radioanalytiske metodar
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T21:39:23Z
 
 id= REAL006853
 te= Congener
@@ -69589,13 +69597,19 @@ ba= nk
 ba= nb
 ba= nq
 bf= Karkryptogamer
+bf= Bregneplanter
 nn= Karsporeplanter
 nn= Karsporeplantar
 nn= Karkryptogam
+nn= Pteridophyta
+nn= Bregneplanter
+nn= Bregneplantar
 en= Pteridophytes
 en= Pteridophyta
 en= Cryptogams
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T19:59:38Z
+st= REAL028351
 
 id= REAL008145
 te= Økokriser
@@ -72995,14 +73009,9 @@ tis= 2019-03-03T19:19:24Z
 
 id= REAL008537
 te= Radio
-ba= nb
-ba= nf
-nn= Radio
 tio= 2014-08-25T00:00:00Z
-st= REAL019086
-st= REAL019490
-st= REAL021453
-st= REAL024112
+tis= 2019-03-26T17:17:47Z
+fly= REAL009722
 
 id= REAL008538
 te= Motorproteiner
@@ -74725,9 +74734,11 @@ so= REAL003743
 nn= Radioaktive sambindingar
 nn= Radioaktive materiale
 nn= Radioaktive mineral
+en= Radioactive compounds
+en= Radioactive materials
 en= Radioactive minerals
 tio= 2014-08-25T00:00:00Z
-tie= 2019-03-18T22:34:33Z
+tie= 2019-03-26T17:39:05Z
 
 id= REAL008725
 te= Liquid chromatography ion mobility spectrometry mass spectrometry
@@ -79847,8 +79858,15 @@ tie= 2018-09-04T15:21:35Z
 id= REAL009330
 te= Tårnugler
 ba= nb
+bf= Tårnuglefamilien
+bf= Slørugler
+bf= Sløruglefamilien
 nn= Tårnugler
+nn= Tårnuglefamilien
+nn= Slørugler
+nn= Sløruglefamilien
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T17:25:40Z
 
 id= REAL009331
 te= Enhetsteorier
@@ -83039,7 +83057,11 @@ ba= na
 ba= nf
 nn= Radioteknikk
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T17:17:54Z
+st= REAL019086
+st= REAL019490
 st= REAL023021
+st= REAL024112
 
 id= REAL009723
 te= Grafiske metoder
@@ -84626,10 +84648,15 @@ tis= 2017-08-11T11:25:54Z
 fly= REAL007472
 
 id= REAL009907
-te= Urinstoffer
+te= Urinstoff
 ba= nb
+bf= Urea
+bf= Karbamid
 nn= Urinstoff
+nn= Urea
+nn= Karbamid
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-26T18:04:30Z
 st= REAL023347
 
 id= REAL009908
@@ -93616,7 +93643,9 @@ ba= ne
 ba= nf
 ba= nq
 ba= ns
+bf= Radioaktiv stråling
 nn= Radioaktivitet
+nn= Radioaktiv stråling
 en= Radioactivity
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-11T14:27:34Z
@@ -103041,10 +103070,9 @@ tie= 2017-09-29T11:42:42Z
 
 id= REAL012086
 te= Pteridophyta
-ba= nb
-nn= Pteridophyta
 tio= 2014-08-25T00:00:00Z
-st= REAL028351
+tis= 2019-03-26T19:58:53Z
+fly= REAL008144
 
 id= REAL012087
 te= Dspråk
@@ -113369,15 +113397,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013008
 te= Radionavigasjon
-ba= na
-bf= Radiopeiling
-bf= Radiostedfesting
 no= Bruk dette for navigasjon. Bruk radiosporing for sporing av merkede dyr.
-nn= Radionavigasjon
-nn= Radiopeiling
-nn= Radiostadfesting
 de= Fellesbetegnelse for navigasjonsmidler som bygger på radioteknikk. [SNL]
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-26T16:48:31Z
 
 id= REAL013009
 te= Radiomerking
@@ -115931,13 +115954,15 @@ id= REAL013252
 te= Ulver
 ba= nk
 ba= nb
+bf= Ulvelignende dyr
 ut= REAL013251
 no= Bruk ulv om verket kun omhandler Canis lupus
 nn= Ulvar
+nn= Ulveliknande dyr
 la= Canis sp.
 de= Gruppe av store hundedyr som omfatter flere beslektede arter, bl.a. Canis lupus, Canis rufus, Canis lycaon og Canis simensis
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-23T09:51:49Z
+tie= 2019-03-26T17:56:45Z
 
 id= REAL013253
 te= Varmebestandige materialer
@@ -119451,7 +119476,6 @@ st= REAL018951
 st= REAL019671
 st= REAL019805
 st= REAL020027
-st= REAL020542
 st= REAL020814
 st= REAL020820
 st= REAL021322
