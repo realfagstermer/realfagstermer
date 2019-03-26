@@ -351,6 +351,7 @@ st= REAL031559
 
 id= REAL030106
 te= Soppfloraer
+en= Fungi floras
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030107
@@ -589,6 +590,11 @@ ba= nb
 ba= nq
 bf= Røde lister
 no= Brukes kun for selve listene. For rødlistearter, bruk truede arter.
+en= IUCN Red List of Threatened Species
+en= Red Data List
+en= Red List
+en= IUCN Red List
+en= Red Lists
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030146
