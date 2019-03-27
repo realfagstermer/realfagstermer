@@ -4770,7 +4770,7 @@ real:c006172
 
 real:c006184
   a skos:Concept ;
-  skos:exactMatch hume:c20855 ;
+  skos:closeMatch hume:c20855 ;
   skos:prefLabel "User participation"@en, "Brukermedvirkning"@nb, "Brukarmedverknad"@nn .
 
 real:c006192

@@ -3935,9 +3935,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000453
 te= Fjernregistrering
-ba= nm
-nn= Fjernregistrering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T21:13:49Z
 
 id= REAL000454
 te= Seismiske data
@@ -11758,10 +11757,12 @@ id= REAL001341
 te= Høytrykksfysikk
 ba= nk
 ba= nf
+so= REAL001764
 nn= Høgtrykksfysikk
 en= High pressure physics
 en= High pressure
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-27T20:55:34Z
 st= REAL022478
 
 id= REAL001342
@@ -15194,9 +15195,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001764
 te= Høytrykkskjemi
 ba= nk
+so= REAL001341
 nn= Høgtrykkskjemi
 en= High pressure chemistry
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-27T20:55:34Z
 
 id= REAL001765
 te= Krystallstrukturbestemmelse
@@ -17634,11 +17637,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002060
 te= Uorganiske materialer
-ba= nk
-nn= Uorganiske materiale
-en= Inorganic materials
 tio= 2014-08-25T00:00:00Z
-st= REAL026214
+tis= 2019-03-27T20:38:48Z
 
 id= REAL002061
 te= Tropisk botanikk
@@ -23720,10 +23720,8 @@ fly= REAL011268
 
 id= REAL002744
 te= Dipolmomenter
-ba= nk
-nn= Dipolmoment
-en= Dipole moments
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T21:31:42Z
 
 id= REAL002745
 te= Skoleledelse
@@ -34158,13 +34156,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003953
 te= Hydrostatikk
-ba= nk
-ba= ne
-nn= Hydrostatikk
-en= Hydrostatics
-en= Fluid statics
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-17T00:00:00Z
+tis= 2019-03-27T21:32:42Z
 
 id= REAL003954
 te= Oniumioner
@@ -37806,10 +37800,13 @@ id= REAL004386
 te= Dielektrika
 bf= Dielektrisitet
 bf= Dielektrikum
+bf= Dielektrisk relaksasjon
 nn= Dielektrika
 nn= Dielektrisitet
+nn= Dielektrisk relaksasjon
 en= Dielectrics
 en= Dielectric materials
+en= Dielectric relaxation
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-05T21:18:56Z
 
@@ -42908,10 +42905,9 @@ st= REAL024862
 
 id= REAL005009
 te= Overflateanalyse
-ba= nk
-nn= Overflateanalyse
-en= Surface analysis
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T20:24:45Z
+fly= REAL009133
 
 id= REAL005010
 te= Avbildninger
@@ -44978,12 +44974,6 @@ te= Hydrogenionkonsentrasjon
 tio= 2014-08-25T00:00:00Z
 tis= 2018-10-02T21:15:24Z
 fly= REAL010672
-
-id= REAL005261
-te= Invariantteori
-en= Invariant theory
-tio= 2014-08-25T00:00:00Z
-tie= 2017-02-21T22:09:52Z
 
 id= REAL005262
 te= Livsstil
@@ -48287,10 +48277,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005670
 te= Dielektrisk relaksasjon
-ba= nk
-nn= Dielektrisk relaksasjon
-en= Dielectric relaxation
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T21:24:04Z
+fly= REAL004386
 
 id= REAL005671
 te= Partoner
@@ -54553,10 +54542,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006376
 te= Isoelektrisk punkt
-ba= nk
-nn= Isoelektrisk punkt
-en= Isoelectric point
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T21:33:09Z
 
 id= REAL006377
 te= Sanser
@@ -57700,10 +57687,8 @@ st= REAL026643
 
 id= REAL006717
 te= Industrivedlikehold
-ba= nm
-nn= Industrivedlikehald
-en= Industrial maintenance
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T21:14:04Z
 
 id= REAL006718
 te= Beslutningsstøttesystemer
@@ -68028,10 +68013,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007940
 te= Klyngematerie
-ba= nk
-nn= Klyngematerie
-nn= Klyngjematerie
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T21:41:09Z
 
 id= REAL007941
 te= Vekselvarme dyr
@@ -72029,12 +72012,15 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-03-02T20:56:59Z
 
 id= REAL008403
-te= Primula
+te= Nøkleblomslekten
 ba= nk
 ba= ne
 ba= nq
+bf= Primula
+nn= Nøkleblomslekta
 nn= Primula
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-27T22:12:29Z
 st= REAL015364
 st= REAL020138
 
@@ -78493,8 +78479,11 @@ ba= nk
 ba= nb
 ba= nf
 ba= nm
+bf= Overflateanalyse
 nn= Overflater
+nn= Overflateanalyse
 en= Surfaces
+en= Surface analysis
 tio= 2014-08-25T00:00:00Z
 st= REAL020259
 st= REAL021527
@@ -89722,9 +89711,8 @@ fly= REAL011022
 
 id= REAL010448
 te= Komplekse medier
-ba= nm
-nn= Komplekse medium
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T21:17:18Z
 
 id= REAL010449
 te= Digitalt fjernsyn
@@ -94391,9 +94379,8 @@ st= REAL022876
 
 id= REAL011025
 te= Kjemiske undersøkelsesmetoder
-ba= ne
-nn= Kjemiske undersøkingsmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T21:42:08Z
 
 id= REAL011026
 te= Dynamisk spesifikasjon
@@ -115246,10 +115233,8 @@ tie= 2016-07-08T20:54:31Z
 
 id= REAL013149
 te= Ikke-lineær spektroskopi
-nn= Ikkje-lineær spektroskopi
-en= Nonlinear spectroscopy
-en= Non-linear spectroscopy
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T20:56:32Z
 
 id= REAL013150
 te= Ikke-lineær magnetohydrodynamikk
