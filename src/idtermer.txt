@@ -5832,11 +5832,17 @@ tis= 2019-02-28T14:15:15Z
 fly= REAL001507
 
 id= REAL000671
-te= Romdatabaser
+te= Romlige databaser
 ba= ni
+bf= Romdatabaser
+so= REAL011172
+so= REAL003540
+so= REAL013990
+nn= Romlege databasar
 nn= Romdatabasar
 en= Spatial databases
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-27T14:41:23Z
 
 id= REAL000672
 te= Ikke-newtonske væsker
@@ -8574,7 +8580,9 @@ ba= nk
 ba= nc
 ba= nf
 bf= Røntgenspektra
-so= REAL031327
+ut= REAL006030
+ut= REAL031327
+ut= REAL031326
 nn= Røntgenspektroskopi
 nn= Røntgenspekter
 nn= Røntgenspektrum
@@ -8584,7 +8592,7 @@ en= X-ray spectrometry
 en= Roentgen spectroscopy
 en= Roentgen spectrometry
 tio= 2014-08-25T00:00:00Z
-tie= 2015-05-19T15:57:59Z
+tie= 2019-03-27T19:35:35Z
 
 id= REAL000990
 te= Mikroskalakjemi
@@ -9708,10 +9716,15 @@ id= REAL001117
 te= Krefter
 ba= nk
 ba= nf
+bf= Mekaniske krefter
 nn= Krefter
 nn= Krafter
+nn= Mekaniske krefter
+nn= Mekaniske krafter
 en= Forces
+en= Mechanical forces
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-27T19:58:40Z
 st= REAL017519
 
 id= REAL001118
@@ -12849,9 +12862,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001481
 te= Utlekking
-ba= nk
-nn= Utleking
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:12:55Z
 
 id= REAL001482
 te= Algoritmeanalyse
@@ -15099,10 +15111,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001754
 te= Ultramikroelektroder
-ba= nk
-nn= Ultramikroelektrodar
-en= Ultramicroelectrodes
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:10:20Z
 
 id= REAL001755
 te= Naturbegrepet
@@ -15842,9 +15852,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001848
 te= Vanninnhold
-ba= nk
-nn= Vassinnhald
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:13:37Z
 
 id= REAL001849
 te= Molekylær systematikk
@@ -27067,9 +27076,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003128
 te= Kjernefunksjoner
-ba= nm
-nn= Kjernefunksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T10:55:17Z
 
 id= REAL003129
 te= Agaver
@@ -32053,10 +32061,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003710
 te= Uorganisk krystallografi
-ba= nk
-nn= Uorganisk krystallografi
-en= Inorganic crystallography
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:10:59Z
 
 id= REAL003711
 te= Matematiske modeller
@@ -35901,10 +35907,8 @@ tis= 2017-07-15T20:43:08Z
 
 id= REAL004166
 te= Logiske funksjoner
-ba= ni
-nn= Logiske funksjonar
-en= Logic functions
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:31:56Z
 
 id= REAL004167
 te= Distribuerte operativsystemer
@@ -37945,8 +37949,8 @@ tis= 2018-03-13T13:16:11Z
 
 id= REAL004408
 te= Avisingsvæske
-en= Deicing fluid
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T11:11:44Z
 
 id= REAL004409
 te= Jordarter
@@ -44097,7 +44101,6 @@ te= Svarthyll
 ba= ne
 nn= Svarthyll
 en= Elder
-en= Elder
 en= Black elder
 en= European elder
 en= European black elderberry
@@ -44241,10 +44244,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005172
 te= Svartid
-ba= ni
-nn= Svartid
-en= Response time
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T11:23:08Z
 
 id= REAL005173
 te= Økonomisk bevaringsbiologi
@@ -48094,9 +48095,9 @@ st= REAL029685
 
 id= REAL005650
 te= Væsketilstanden
-ba= nk
-nn= Væsketilstanden
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:14:21Z
+fly= REAL009001
 
 id= REAL005651
 te= Homologi (matematikk)
@@ -50513,11 +50514,15 @@ te= Røntgenkrystallografi
 ba= nk
 ba= nc
 ba= nf
+bf= Énkrystallrøntgendiffraksjon
+bf= Énkrystalldiffraksjon
+bf= Énkrystallrøntgenkrystallografi
 so= REAL006618
 nn= Røntgenkrystallografi
 en= X-ray crystallography
+en= Single crystal X-ray diffraction
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-19T09:20:24Z
+tie= 2019-03-27T19:23:51Z
 st= REAL016742
 st= REAL016777
 st= REAL016926
@@ -51462,6 +51467,7 @@ ak= PS
 ak= XPS
 ak= ESCA
 so= REAL004390
+ot= REAL000989
 no= http://purl.obolibrary.org/obo/CHMO_0000387
 nn= Fotoelektronspektroskopi
 nn= Fotoemisjonsspektrometri
@@ -51740,10 +51746,8 @@ tis= 2018-05-18T17:49:11Z
 
 id= REAL006062
 te= Industriell biologi
-ba= nb
-nn= Industriell biologi
-en= Industrial biology
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T11:10:09Z
 
 id= REAL006063
 te= Fjordoseanografi
@@ -56823,13 +56827,15 @@ ak= XRD
 ak= SXRD
 so= REAL005921
 so= REAL007475
+so= REAL010339
 no= http://purl.obolibrary.org/obo/CHMO_0000156
 nn= Røntgendiffraksjon
 nn= Lågtemperatur røntgendiffraksjon
 en= X-ray diffraction
 en= Low temperature x-ray diffraction
+en= X-ray diffractometry
 tio= 2014-08-25T00:00:00Z
-tie= 2017-02-10T23:33:42Z
+tie= 2019-03-27T19:47:18Z
 st= REAL016009
 st= REAL028137
 st= REAL028790
@@ -64455,11 +64461,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007506
 te= Uorganiske krystaller
-ba= nk
-nn= Uorganiske krystallar
-nn= Uorganiske krystall
-en= Inorganic crystals
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:11:40Z
 
 id= REAL007507
 te= Giftige fisker
@@ -72241,11 +72244,12 @@ en= Pupae
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008430
-te= Mekaniske systemer
+te= Mekatronikk
 ba= ni
-nn= Mekaniske system
-en= Mechanical systems
+nn= Mekatronikk
+en= Mechatronics
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-27T19:04:53Z
 
 id= REAL008431
 te= Flerdatabasesystemer
@@ -76673,12 +76677,9 @@ st= REAL025098
 
 id= REAL008928
 te= Kreftrisiko
-ba= nk
-ba= nb
-nn= Kreftrisiko
-en= Cancer risk
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-11T14:24:45Z
+tis= 2019-03-27T16:52:17Z
 
 id= REAL008929
 te= Brevduer
@@ -77322,7 +77323,9 @@ fly= REAL007671
 id= REAL009001
 te= Væskefase
 ba= nk
+bf= Væsketilstanden
 nn= Væskefase
+nn= Væsketilstanden
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009003
@@ -80746,10 +80749,8 @@ st= REAL029440
 
 id= REAL009411
 te= Uorganiske krystallstrukturer
-ba= nk
-nn= Uorganiske krystallstrukturar
-en= Inorganic crystal structures
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:12:13Z
 
 id= REAL009412
 te= Svever
@@ -86685,9 +86686,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010091
 te= Ustabile forbindelser
-ba= nk
-nn= Ustabile sambindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:12:37Z
 
 id= REAL010092
 te= Atmosfærisk konveksjon
@@ -88912,9 +88912,13 @@ id= REAL010339
 te= Røntgenspredning
 ba= nk
 ba= nf
+ak= XRS
+so= REAL006618
+no= Røntgenspredning generelt og metoder som XRS som bruker inelastisk spredning. For elastisk spredning, se røntgendiffraksjon (XRD)
 nn= Røntgenspreiing
 en= X-ray scattering
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-27T19:52:29Z
 st= REAL022926
 
 id= REAL010340
@@ -89116,12 +89120,9 @@ tis= 2018-07-20T11:52:22Z
 
 id= REAL010364
 te= Kartdatabaser
-ba= ni
-so= REAL003540
-so= REAL013990
-nn= Kartdatabasar
-en= Map databases
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T14:40:38Z
+fly= REAL000671
 
 id= REAL010365
 te= Jernverk
@@ -91115,12 +91116,9 @@ st= REAL026470
 
 id= REAL010617
 te= Klyngemodeller
-ba= nk
-bf= Clustermodeller
-nn= Klyngemodellar
-nn= Clustermodellar
-nn= Klyngjemodellar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-27T20:20:06Z
+fly= REAL010747
 
 id= REAL010619
 te= Abstrakt algebra
@@ -91804,8 +91802,6 @@ nn= Tyttebær
 en= Lingonberries
 en= partridgeberries
 en= cowberries
-en= Cowberries
-en= Partridgeberries
 en= Mountain cranberry
 tio= 2014-08-25T00:00:00Z
 
@@ -92147,7 +92143,12 @@ id= REAL010747
 te= Kjernemodeller
 ba= nk
 ba= nf
+bf= Klyngemodeller
+bf= Clustermodeller
 nn= Kjernemodellar
+nn= Klyngemodellar
+nn= Clustermodellar
+nn= Klyngjemodellar
 en= Nuclear models
 tio= 2014-08-25T00:00:00Z
 st= REAL015031
@@ -95542,11 +95543,18 @@ en= Elliptic curves
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011172
-te= Romdata
+te= Romlige data
 ba= ni
+bf= Stedfesta data
+bf= Romdata
+bf= Posisjonsbestemte data
+so= REAL000671
+nn= Romlege data
 nn= Romdata
+nn= Posisjonsbestemte data
 en= Spatial data
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-27T14:38:58Z
 
 id= REAL011174
 te= Menystyrte grensesnitt
@@ -97311,7 +97319,6 @@ en= Fry production
 en= Alevin production
 en= Whitebait production
 en= Larval rearing
-en= Fry production
 en= Larvae production
 en= Fry rearing
 en= Whitebait rearing
@@ -129508,6 +129515,7 @@ id= REAL031326
 te= Røntgenfluorescens
 bf= XRF
 bf= Røntgenfluorescensanalyse
+ot= REAL000989
 nn= Røntgenfluorescens
 nn= Røntgenfluorescensanalyse
 nn= XRF
@@ -129524,6 +129532,7 @@ ak= EDX
 ak= EDRS
 ak= EDXA
 ak= EDXMA
+ot= REAL000989
 no= http://purl.obolibrary.org/obo/CHMO_0000309
 nn= Energidispersiv røntgenspektroskopi
 nn= Energidispersiv røntgenanalyse
