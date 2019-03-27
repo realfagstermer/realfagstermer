@@ -398,6 +398,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030114
 te= Verneplaner
+en= Conservation plans
+en= Habitat Conservation Plans
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030115
@@ -644,6 +646,7 @@ te= Vegetasjonskart
 ba= nk
 ba= nb
 ba= nq
+en= Vegetation maps
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030153
