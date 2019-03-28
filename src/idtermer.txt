@@ -15505,6 +15505,9 @@ id= REAL001798
 te= Operasjonsforsterkere
 ba= nk
 nn= Operasjonsforsterkarar
+en= Operational amplifiers
+en= Op-amps
+en= Opamps
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001799
@@ -49215,6 +49218,7 @@ ba= nc
 ba= nf
 ba= nm
 nn= Strøyming
+en= Flow
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-26T22:34:15Z
 st= REAL029622
@@ -58812,6 +58816,9 @@ bf= Radioanalytisk kjemi
 bf= Radioanalytiske metoder
 nn= Radiokjemisk analyse
 nn= Radioanalytiske metodar
+en= Radioanalytical chemistry
+en= Radiochemical analysis
+en= Radioanalytical methods
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-26T21:39:23Z
 
@@ -59083,6 +59090,9 @@ id= REAL006883
 te= Undervannsteknologi
 ba= ngh
 nn= Undervassteknologi
+en= Subsea technology
+en= Underwater construction
+en= Underwater technology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006884
@@ -75951,6 +75961,7 @@ ba= nf
 ba= nm
 ut= REAL032055
 nn= Vibrasjonar
+en= Vibrations
 tio= 2014-08-25T00:00:00Z
 st= REAL015590
 
@@ -95804,6 +95815,7 @@ te= Termiske egenskaper
 ba= nk
 ba= nf
 nn= Termiske eigenskapar
+en= Thermal properties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011205
