@@ -38728,11 +38728,9 @@ fly= REAL005197
 
 id= REAL004499
 te= Rotforhold
-ba= nb
-nn= Rottilhøve
-nn= Rotforhold
-en= Root conditions
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-28T15:41:13Z
+fly= REAL008756
 
 id= REAL004500
 te= Universets opprinnelse
@@ -75252,10 +75250,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008756
 te= Rhizosfæren
-ba= nb
-nn= Rhizosfæren
-en= Rhizosphere
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-28T15:42:06Z
+fly= REAL013708
 
 id= REAL008757
 te= Vitenskapelige metoder
@@ -75410,7 +75407,9 @@ ba= na
 ba= nb
 ba= ngh
 ba= nm
+bf= Transformasjon
 nn= Transformasjonar
+nn= Transformasjon
 en= Transformations
 tio= 2014-08-25T00:00:00Z
 
@@ -78961,9 +78960,9 @@ fly= REAL002539
 
 id= REAL009189
 te= Transformasjon
-ba= nm
-nn= Transformasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-28T15:11:41Z
+fly= REAL008775
 
 id= REAL009190
 te= Maternell vektøkning
@@ -123701,14 +123700,20 @@ te= Rotsystemer
 ba= nb
 bf= Røtter
 bf= Planterøtter
+bf= Rhizosfæren
+bf= Rotforhold
 nn= Rotsystem
 nn= Planterøter
 nn= Røter
+nn= Rhizosfæren
+nn= Rottilhøve
+nn= Rotforhold
 en= Roots
 en= Rhizosphere
 en= Plant roots
 en= Rootzone
 en= Root systems
+en= Root conditions
 tio= 2014-08-25T00:00:00Z
 st= REAL021406
 st= REAL029878
