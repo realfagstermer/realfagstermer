@@ -28835,7 +28835,6 @@ id= REAL003348
 te= Informasjonsformidling
 ba= ni
 ba= ns
-ot= REAL013418
 nn= Informasjonsformidling
 tio= 2014-08-25T00:00:00Z
 
@@ -32530,10 +32529,8 @@ tie= 2015-01-23T00:00:00Z
 
 id= REAL003762
 te= Globale avtaler
-ba= ngh
-nn= Globale avtalar
-nn= Globale avtaler
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-29T17:02:37Z
 
 id= REAL003763
 te= Molekylær cellebiologi
@@ -34953,16 +34950,6 @@ en= Black–Scholes–Merton model
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-26T13:27:08Z
 
-id= REAL004060
-te= Skiensvassdraget
-ba= ngh
-nn= Skiensvassdraget
-en= Skien watershed
-en= Skien drainage basin
-en= Skien drainage system
-tio= 2014-08-25T00:00:00Z
-st= REAL024487
-
 id= REAL004061
 te= Morfologi
 ba= ni
@@ -36791,10 +36778,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004269
 te= Grunnleggende metode
-ba= nm
-nn= Grunnleggjande metode
-nn= Grunnleggande metode
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-29T17:04:04Z
 
 id= REAL004270
 te= Metapopulasjoner
@@ -44211,14 +44196,21 @@ te= Vitenskapsformidling
 ba= na
 bf= Vitenskapelig kommunikasjon
 bf= Vitenskapskommunikasjon
-ot= REAL013418
+bf= Forskningsformidling
+bf= Formidling
+so= REAL013496
+ot= REAL013434
+ut= REAL008022
 nn= Vitskapsformidling
 nn= Vitskapleg kommunikasjon
 nn= Vitskapeleg kommunikasjon
 nn= Vitskapskommunikasjon
+nn= Forskingsformidling
+nn= Formidling
 en= Science communication
+en= Research mediation
 tio= 2014-08-25T00:00:00Z
-tie= 2019-03-14T18:59:44Z
+tie= 2019-03-29T16:12:00Z
 
 id= REAL005169
 te= Geomytologi
@@ -46447,14 +46439,6 @@ te= Pelagisk fangst
 tio= 2014-08-25T00:00:00Z
 tis= 2018-10-04T11:48:06Z
 
-id= REAL005447
-te= Trysilvassdraget
-ba= ngh
-nn= Trysilvassdraget
-en= Trysil watershed
-en= Trysil drainage system
-tio= 2014-08-25T00:00:00Z
-
 id= REAL005448
 te= Komplikasjoner
 tio= 2014-08-25T00:00:00Z
@@ -46846,9 +46830,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005494
 te= Global utvikling
-ba= ngh
-nn= Global utvikling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-29T14:41:04Z
 
 id= REAL005495
 te= Oljeressurser
@@ -58778,9 +58761,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006848
 te= Globale reformer
-ba= ngh
-nn= Globale reformer
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-29T17:03:17Z
 
 id= REAL006849
 te= Gassdannelse
@@ -63425,11 +63407,11 @@ st= REAL023312
 id= REAL007394
 te= Kulturformidling
 ba= ns
-ot= REAL013418
+so= REAL013496
 ut= REAL001209
 nn= Kulturformidling
 tio= 2014-08-25T00:00:00Z
-tie= 2018-09-04T15:28:07Z
+tie= 2019-03-29T16:12:46Z
 
 id= REAL007395
 te= Makronæringsstoffer
@@ -64403,16 +64385,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007498
 te= Kvalitet
-ba= ni
-ba= nk
-ba= nb
-ba= ne
-ba= nm
-ba= ns
-nn= Kvalitet
-en= Quality
 tio= 2014-08-25T00:00:00Z
-st= REAL023545
+tis= 2019-03-29T16:54:38Z
 
 id= REAL007499
 te= Støpejern
@@ -68757,7 +68731,6 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008022
 te= Kunnskapsformidling
 ba= na
-ot= REAL013418
 nn= Kunnskapsformidling
 tio= 2014-08-25T00:00:00Z
 
@@ -80175,9 +80148,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009334
 te= Grunnprinsipper
-ba= nm
-nn= Grunnprinsipp
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-29T17:04:22Z
 
 id= REAL009335
 te= Formelle systemer
@@ -86533,10 +86505,13 @@ st= REAL026411
 st= REAL026649
 
 id= REAL010076
-te= Folketrygd
+te= Trygd
 ba= nm
+bf= Folketrygd
+nn= Trygd
 nn= Folketrygd
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-29T15:48:28Z
 st= REAL022532
 
 id= REAL010077
@@ -94106,18 +94081,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010993
 te= Forskningsformidling
-ba= ni
-ba= nk
-ba= na
-ba= nb
-ba= nc
-ba= ne
-ba= nm
-ba= ns
-ot= REAL013418
-nn= Forskingsformidling
-en= Research mediation
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-29T16:11:30Z
+fly= REAL005168
 
 id= REAL010994
 te= Superstrengteori
@@ -98487,12 +98453,8 @@ st= REAL014655
 
 id= REAL011520
 te= Global marine distress and safety system
-ba= ni
-ak= GMDSS
-nn= Global marine distress and safety system
-en= Global marine distress and safety system
-en= GMDSS
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-29T17:02:00Z
 
 id= REAL011521
 te= Flerfasemedier
@@ -113423,8 +113385,8 @@ tis= 2018-09-06T21:59:15Z
 
 id= REAL012967
 te= Kjemiske effekter
-nn= Kjemiske effektar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-29T16:11:09Z
 
 id= REAL012968
 te= Kjemisk sammensetning
@@ -118828,26 +118790,10 @@ st= REAL028020
 
 id= REAL013418
 te= Formidling
-ba= fa
-ba= nk
-ba= nb
-ba= nc
-ba= ne
-ba= ngh
-ba= nm
-ba= ns
-so= REAL013496
-ot= REAL013434
-ut= REAL010993
-ut= REAL003348
-ut= REAL007394
-ut= REAL008022
-ut= REAL013695
-ut= REAL005168
-nn= Formidling
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-04T15:29:20Z
-st= REAL015538
+tis= 2019-03-29T16:11:37Z
+fly= REAL005168
 
 id= REAL013419
 te= Forskerkurs
@@ -119563,7 +119509,6 @@ ba= ne
 ba= nf
 ba= nm
 ba= ns
-ut= REAL013418
 nn= Kommunikasjon
 en= Communication
 tio= 2014-08-25T00:00:00Z
@@ -120540,7 +120485,6 @@ st= REAL014722
 st= REAL015081
 st= REAL015196
 st= REAL015272
-st= REAL015479
 st= REAL015570
 st= REAL015609
 st= REAL015795
@@ -120666,10 +120610,12 @@ id= REAL013496
 te= Popularisering
 ba= fa
 ba= ns
-so= REAL013418
+so= REAL005168
+so= REAL007394
 nn= Popularisering
 en= Popularization
 tio= 2014-08-25T00:00:00Z
+tie= 2019-03-29T16:12:44Z
 
 id= REAL013497
 te= Populærmatematikk
@@ -123507,7 +123453,6 @@ bf= Muntlig kommunikasjon
 bf= Muntlige presentasjoner
 so= REAL007092
 so= REAL009226
-ot= REAL013418
 nn= Presentasjonsteknikk
 nn= Foredragsteknikk
 nn= Forelesingar
@@ -133129,4 +133074,19 @@ en= Multi component reactions
 en= Multi-component assembly processes
 tio= 2019-03-25T22:10:27Z
 tie= 2019-03-25T22:11:07Z
+
+id= REAL032103
+te= Fjørfe
+bf= Høns
+bf= Høner
+bf= Fjærfe
+nn= Fjørfe
+nn= Høns
+nn= Høner
+en= Poultry
+en= Hens
+en= Chickens
+en= Turkeys
+tio= 2019-03-29T15:53:50Z
+tie= 2019-03-29T15:56:19Z
 

@@ -1,3 +1,20 @@
+id= REAL004060
+te= Skiensvassdraget
+ba= ngh
+nn= Skiensvassdraget
+en= Skien watershed
+en= Skien drainage basin
+en= Skien drainage system
+tio= 2014-08-25T00:00:00Z
+
+id= REAL005447
+te= Trysilvassdraget
+ba= ngh
+nn= Trysilvassdraget
+en= Trysil watershed
+en= Trysil drainage system
+tio= 2014-08-25T00:00:00Z
+
 id= REAL010199
 te= Bergensfeltet
 ba= nc
