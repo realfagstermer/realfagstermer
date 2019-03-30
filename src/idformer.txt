@@ -147,12 +147,17 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030077
 te= Eksempelsamlinger
+en= Worked examples
+en= Worked example collections
+en= Example collections
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030078
 te= Ekskursjonsguider
 bf= Ekskursjonsførere
 bf= Guider
+en= Excursion guides
+en= Guides
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030079
@@ -160,6 +165,9 @@ te= Essay
 bf= Essayer
 bf= Essays
 bf= Essaysamlinger
+en= Essays
+en= Essayettes
+en= Essay collections
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030080
@@ -180,6 +188,9 @@ tio= 2015-02-20T13:08:04Z
 id= REAL030083
 te= Formelsamlinger
 bf= Formler
+en= Formula handbooks
+en= Formula collections
+en= Formularies
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030084
@@ -509,6 +520,12 @@ id= REAL030131
 te= Folkediktning
 ba= ngh
 bf= Eventyr
+en= Folk poetry
+en= Magic tales
+en= Folk literature
+en= Wonder tales
+en= Fairytales
+en= Fairy tales
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030132
@@ -734,6 +751,9 @@ id= REAL030167
 te= Dikt
 bf= Lyrikk
 bf= Poesi
+en= Poems
+en= Poetry
+en= Lyric poetry
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030168
@@ -756,6 +776,13 @@ tis= 2018-08-29T19:39:38Z
 id= REAL030171
 te= Dramatikk
 bf= Skuespill
+en= Drama
+en= Theatrical works
+en= Stage scripts
+en= Stage plays
+en= Playscripts
+en= Plays
+en= Dramas
 de= Sjanger der handlingen framstilles i dialogs form, som regel beregnet på å framføres på scenen, i fjernsynet eller på filmlerretet [UBO]
 tio= 2015-02-20T13:08:04Z
 
