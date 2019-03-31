@@ -29390,9 +29390,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003406
 te= Utprøving
-ba= ni
-nn= Utprøving
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-30T23:10:07Z
 
 id= REAL003407
 te= Alkanaktivering
@@ -61558,7 +61557,6 @@ en= PhD
 en= Doctoral degree
 en= Doctorate
 en= doctor's degree
-en= doctorate
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-01T18:58:01Z
 st= REAL015800
@@ -90221,9 +90219,8 @@ tis= 2019-03-21T14:36:44Z
 
 id= REAL010506
 te= Harrison-kronometre
-ba= na
-nn= Harrison-kronometer
 tio= 2014-08-25T00:00:00Z
+tis= 2019-03-30T16:35:24Z
 
 id= REAL010507
 te= Borevæske
@@ -118613,7 +118610,6 @@ st= REAL022237
 st= REAL022742
 st= REAL023372
 st= REAL023770
-st= REAL024070
 st= REAL025013
 st= REAL025155
 st= REAL026872
@@ -119900,7 +119896,6 @@ en= Food
 tio= 2014-08-25T00:00:00Z
 st= REAL014115
 st= REAL017676
-st= REAL020155
 st= REAL024601
 st= REAL026459
 
