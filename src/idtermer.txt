@@ -5322,10 +5322,8 @@ tie= 2017-09-06T22:25:32Z
 
 id= REAL000604
 te= Kontekstfrie grammatikker
-ba= ni
-nn= Kontekstfrie grammatikkar
-en= Context-free grammars
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-04T16:14:31Z
 
 id= REAL000605
 te= Voyager
@@ -91903,9 +91901,8 @@ st= REAL020937
 
 id= REAL010709
 te= Lagersystemer
-ba= ni
-nn= Lagersystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-04T16:27:53Z
 
 id= REAL010710
 te= Kaledonsk deformasjonsfront
@@ -102816,14 +102813,16 @@ te= Solkoronaen
 ba= na
 bf= Korona
 bf= Koronaen
+bf= Solas korona
 ot= REAL032104
 nn= Solkoronaen
 nn= Koronaen
 nn= Korona
+nn= Solas korona
 en= Solar corona
 en= Corona
 tio= 2014-08-25T00:00:00Z
-tie= 2019-04-03T18:47:50Z
+tie= 2019-04-03T18:52:05Z
 st= REAL014197
 st= REAL020840
 st= REAL021263
@@ -103245,9 +103244,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012051
 te= Informasjonsmodellering
 ba= ni
+so= REAL032105
 nn= Informasjonsmodellering
 en= Information modeling
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-04T16:34:11Z
 
 id= REAL012052
 te= Kreatinin
@@ -112242,9 +112243,8 @@ st= REAL020329
 
 id= REAL012855
 te= Innholdsanalyser
-nn= Innhaldsanalysar
-en= Content analysis
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-04T16:24:30Z
 
 id= REAL012856
 te= Insektbekjempelse
@@ -133184,11 +133184,20 @@ tie= 2019-03-29T15:56:19Z
 
 id= REAL032104
 te= Koronaer
+bf= Stjernekoronaer
 ut= REAL011991
 nn= Koronaar
 nn= Koronaer
+nn= Stjernekoronaar
+nn= Stjernekoronaer
 en= Stellar coronae
 en= Coronae
 tio= 2019-04-03T18:46:41Z
-tie= 2019-04-03T18:47:56Z
+tie= 2019-04-03T18:53:21Z
+
+id= REAL032105
+te= Informasjonsarkitektur
+so= REAL012051
+tio= 2019-04-04T16:34:05Z
+tie= 2019-04-04T16:34:10Z
 
