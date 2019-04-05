@@ -8237,7 +8237,6 @@ st= REAL027486
 id= REAL000953
 te= Treelektronbindinger
 tio= 2014-08-25T00:00:00Z
-tis= 2019-03-25T18:51:09Z
 
 id= REAL000954
 te= Stratosfæren
@@ -19345,9 +19344,8 @@ tie= 2018-08-24T17:21:04Z
 
 id= REAL002244
 te= Lokaliteter
-ba= nb
-nn= Lokalitetar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-05T12:12:10Z
 
 id= REAL002245
 te= Modifisering
@@ -36297,10 +36295,11 @@ tio= 2014-08-25T00:00:00Z
 st= REAL016013
 
 id= REAL004214
-te= Materialstrøm
-ba= nk
-nn= Materialstraum
+te= Materialstrømanalyser
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-05T10:19:39Z
+tis= 2019-04-05T10:28:34Z
+fly= REAL032107
 
 id= REAL004215
 te= Bøkefamilien
@@ -76443,9 +76442,8 @@ st= REAL024625
 
 id= REAL008896
 te= Noninvasive teknikker
-ba= nk
-nn= Noninvasive teknikkar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-05T10:53:01Z
 
 id= REAL008897
 te= Saponiner
@@ -79910,10 +79908,10 @@ st= REAL019917
 
 id= REAL009300
 te= Kapasitet (matematikk)
-ba= nm
-nn= Kapasitet (matematikk)
 tio= 2014-08-25T00:00:00Z
 tie= 2018-12-21T19:46:51Z
+tis= 2019-04-05T11:28:02Z
+fly= REAL012480
 
 id= REAL009301
 te= Matnyttige arter
@@ -104477,9 +104475,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012206
 te= Holdbarhet
-no= Brukes som underemneord. ml
+no= Mat. Brukes som underemneord. ml
 nn= Haldbarheit
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-05T12:03:28Z
 
 id= REAL012207
 te= Legemiddelregning
@@ -107622,6 +107621,7 @@ en= Potential theory
 ms= 31
 dw= 515.96
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-05T11:28:07Z
 
 id= REAL012481
 te= Harmoniske funksjoner
@@ -114976,9 +114976,8 @@ st= REAL029861
 
 id= REAL013114
 te= Hierarkiske modeller
-nn= Hierarkiske modellar
-en= Hierarchical models
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-05T11:35:54Z
 
 id= REAL013115
 te= Forsøksanalyse
@@ -128243,11 +128242,11 @@ tio= 2014-08-25T00:00:00Z
 tie= 2018-04-13T20:07:31Z
 
 id= REAL013995
-te= Livssyklusanalyse
+te= Livssyklusanalyser
 tio= 2014-08-25T00:00:00Z
-tie= 2015-02-04T00:00:00Z
-tis= 2018-08-31T13:31:56Z
-fly= REAL006783
+tie= 2019-04-05T10:19:25Z
+tis= 2019-04-05T10:28:51Z
+fly= REAL032107
 
 id= REAL013996
 te= Karbon (tidsavsnitt)
@@ -133172,15 +133171,17 @@ te= Fjørfe
 bf= Høns
 bf= Høner
 bf= Fjærfe
+bf= Kalkuner
 nn= Fjørfe
 nn= Høns
 nn= Høner
+nn= Kalkunar
 en= Poultry
 en= Hens
 en= Chickens
 en= Turkeys
 tio= 2019-03-29T15:53:50Z
-tie= 2019-03-29T15:56:19Z
+tie= 2019-04-05T09:17:38Z
 
 id= REAL032104
 te= Koronaer
@@ -133200,4 +133201,28 @@ te= Informasjonsarkitektur
 so= REAL012051
 tio= 2019-04-04T16:34:05Z
 tie= 2019-04-04T16:34:10Z
+
+id= REAL032106
+te= Programmeringsmønstre
+nn= Programmeringsmønster
+en= Programming patterns
+tio= 2019-04-05T09:47:28Z
+tie= 2019-04-05T09:47:53Z
+
+id= REAL032107
+te= Industriell økologi
+bf= Materialstrømanalyser
+bf= Livssyklusanalyser
+bf= Livsløpsanalyser
+ak= MFA
+ak= LCA
+nn= Industriell økologi
+nn= Materialstraumanalysar
+nn= Livssyklusanalysar
+nn= Livslaupsanalysar
+en= Industrial ecology
+en= Material flow analyses
+en= Life cycle analyses
+tio= 2019-04-05T10:27:53Z
+tie= 2019-04-05T10:28:01Z
 
