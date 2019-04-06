@@ -115038,14 +115038,9 @@ tis= 2018-01-12T15:18:16Z
 
 id= REAL013120
 te= Parvise sammenligninger
-ba= nm
-nn= Parvise samanlikningar
-en= Paired comparisons
-en= Pairwise comparisons
-ms= 62.64
-dw= 519.54
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-22T14:21:49Z
+tis= 2019-04-06T19:08:29Z
 
 id= REAL013121
 te= Multiple sammenligninger
@@ -117684,15 +117679,17 @@ dw= 511.4
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013350
-te= Estimering
+te= Estimeringsteori
 ba= nm
-bf= Estimeringsteori
-nn= Estimering
+bf= Estimering
 nn= Estimeringsteori
+nn= Estimering
+en= Estimation theory
 en= Estimation
 ms= 62.20
 dw= 519.544
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-06T19:27:48Z
 
 id= REAL013351
 te= Estimering - parametrisk tilfelle
