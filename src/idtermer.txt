@@ -2875,10 +2875,8 @@ st= REAL031207
 
 id= REAL000333
 te= Linjer
-ba= nm
-nn= Liner
-nn= Linjer
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-07T00:03:54Z
 
 id= REAL000334
 te= Tekniske termer
@@ -7224,12 +7222,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000830
 te= Kommuneøkonomi
-ba= ns
-nn= Kommuneøkonomi
 tio= 2014-08-25T00:00:00Z
-st= REAL019503
-st= REAL019642
-st= REAL029135
+tis= 2019-04-07T00:03:15Z
 
 id= REAL000831
 te= Allokton
@@ -28333,9 +28327,9 @@ st= REAL022419
 
 id= REAL003289
 te= Convexity
-ba= nm
-nn= Konveksitet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-06T23:22:32Z
+fly= REAL010892
 
 id= REAL003290
 te= Ingeriørmekanikk
@@ -30295,9 +30289,9 @@ tie= 2018-07-25T14:51:43Z
 
 id= REAL003507
 te= Fotokjemisk stabilitet
-ba= ne
-nn= Fotokjemisk stabilitet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-06T23:02:48Z
+fly= REAL010206
 
 id= REAL003508
 te= Vitenskapsakademiet
@@ -45693,10 +45687,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005345
 te= Voksne
-ba= ni
-ba= nk
-nn= Vaksne
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-06T23:01:28Z
 
 id= REAL005346
 te= Flåtter
@@ -46875,6 +46867,7 @@ id= REAL005493
 te= Utvalgsteori
 ba= nm
 nn= Utvalsteori
+en= Sampling theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005494
@@ -54693,9 +54686,8 @@ fly= REAL009424
 
 id= REAL006390
 te= Sikring
-ba= nk
-nn= Sikring
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-07T00:36:59Z
 
 id= REAL006391
 te= Artsnavn
@@ -67516,9 +67508,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007869
 te= Former
-ba= nm
-nn= Former
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-06T23:27:40Z
 
 id= REAL007870
 te= Mikroelektroder
@@ -81197,8 +81188,13 @@ fly= REAL007229
 id= REAL009458
 te= Betalingsspill
 ba= ni
+bf= Pengespill
+bf= Gambling
 nn= Betalingsspel
+nn= Pengespill
+nn= Gambling
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-06T23:20:56Z
 
 id= REAL009459
 te= Langtidsvirkninger
@@ -81574,9 +81570,8 @@ st= REAL027541
 
 id= REAL009510
 te= Fylkesplanlegging
-ba= ngh
-nn= Fylkesplanlegging
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-06T23:33:27Z
 
 id= REAL009511
 te= Ekstremt store teleskop
@@ -87815,9 +87810,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL010206
 te= Fotostabilitet
 ba= ne
+bf= Fotokjemisk stabilitet
 nn= Fotostabilitet
+nn= Fotokjemisk stabilitet
 en= Photostability
+en= Photochemical stability
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-06T23:03:01Z
 
 id= REAL010207
 te= Utstillinger
@@ -89850,9 +89849,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010455
 te= Funksjonsringer
-ba= nm
-nn= Funksjonsringar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-06T23:32:50Z
 
 id= REAL010456
 te= Henon-avbildninger
@@ -93359,6 +93357,7 @@ id= REAL010892
 te= Konveksitet
 ba= ni
 ba= nm
+bf= Convexity
 nn= Konveksitet
 en= Convexity
 tio= 2014-08-25T00:00:00Z
@@ -95481,9 +95480,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011157
 te= Punkter
-ba= nm
-nn= Punkt
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-07T00:22:31Z
 
 id= REAL011158
 te= Akselererende univers
@@ -96427,9 +96425,8 @@ tie= 2019-03-07T13:39:19Z
 
 id= REAL011274
 te= Hierarkiske systemer
-ba= nm
-nn= Hierarkiske system
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-06T23:39:40Z
 
 id= REAL011275
 te= Medisinbruk
