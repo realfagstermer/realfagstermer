@@ -23528,6 +23528,7 @@ ba= ngh
 ba= nm
 ba= ns
 nn= Funksjonsteori
+en= Function theory
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002725
@@ -27744,6 +27745,7 @@ id= REAL003215
 te= Fysiske konstanter
 ba= ns
 nn= Fysiske konstantar
+en= Physical constants
 tio= 2014-08-25T00:00:00Z
 st= REAL025165
 
@@ -61291,6 +61293,7 @@ id= REAL007127
 te= Faseregulering
 ba= ni
 nn= Faseregulering
+en= Phase regulation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007128
@@ -71868,6 +71871,7 @@ id= REAL008383
 te= Funktorer
 ba= nm
 nn= Funktorar
+en= Functors
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008384
@@ -78802,6 +78806,8 @@ id= REAL009167
 te= Global analyse
 ba= nm
 nn= Global analyse
+en= Global analysis
+en= Analysis on manifolds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009168
@@ -81193,6 +81199,7 @@ bf= Gambling
 nn= Betalingsspel
 nn= Pengespill
 nn= Gambling
+en= Gambling
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-06T23:20:56Z
 
@@ -84849,6 +84856,10 @@ te= Faktorisering
 ba= ni
 ba= nm
 nn= Faktorisering
+en= Factorization
+en= Factorizing
+en= Factorisation
+en= Factorising
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009887
@@ -89856,6 +89867,8 @@ id= REAL010456
 te= Henon-avbildninger
 ba= nm
 nn= Henon-avbildingar
+en= Hénon maps
+en= Hénon mapping
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010457
@@ -95936,6 +95949,7 @@ ba= ne
 ba= ns
 bf= Trening
 nn= Fysisk aktivitet
+en= Physical activity
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T15:26:54Z
 
