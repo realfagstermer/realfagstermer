@@ -2331,10 +2331,20 @@ id= REAL000262
 te= Klinisk medisin
 ba= nb
 ba= ne
+bf= Kliniske studier
+bf= Kliniske prøver
+bf= Kliniske metoder
 nn= Klinisk medisin
+nn= Kliniske studiar
+nn= Kliniske prøver
+nn= Kliniske prøvar
+nn= Kliniske metodar
 en= Clinical medicine
 en= Clinical practice
+en= Clinical trials
+en= Clinical methods
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-08T15:50:34Z
 
 id= REAL000263
 te= Urban økologi
@@ -9871,12 +9881,9 @@ tis= 2017-04-04T17:27:54Z
 
 id= REAL001137
 te= Innsamlingsmetoder
-ba= nb
-bf= Innsamling
-nn= Innsamlingsmetodar
-nn= Innsamling
 tio= 2014-08-25T00:00:00Z
-st= REAL023187
+tis= 2019-04-08T15:47:09Z
+fly= REAL002025
 
 id= REAL001138
 te= Xerografi
@@ -15127,11 +15134,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001756
 te= Kliniske prøver
-ba= ne
-ba= nm
-nn= Kliniske prøver
-nn= Kliniske prøvar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-08T15:49:34Z
+fly= REAL000262
 
 id= REAL001757
 te= Diffraksjon
@@ -17343,10 +17348,15 @@ ba= nk
 ba= nb
 ba= nm
 bf= Sampling
+bf= Innsamlingsmetoder
+bf= Innsamling
 nn= Prøvetaking
 nn= Sampling
+nn= Innsamlingsmetodar
+nn= Innsamling
 en= Sampling
 tio= 2014-08-25T00:00:00Z
+st= REAL023187
 
 id= REAL002026
 te= Kapitalmarkeder
@@ -19432,10 +19442,9 @@ fly= REAL009690
 
 id= REAL002256
 te= Kliniske metoder
-ba= nm
-nn= Kliniske metodar
-en= Clinical methods
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-08T15:49:45Z
+fly= REAL000262
 
 id= REAL002257
 te= Enzymatisk katalyse
@@ -29839,10 +29848,9 @@ fly= REAL008655
 
 id= REAL003459
 te= Læringsarenaer
-ba= ns
-nn= Læringsarenaer
-nn= Læringsarenaar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-08T16:51:47Z
+fly= REAL013053
 
 id= REAL003460
 te= Bærbare datamaskiner
@@ -30937,11 +30945,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003582
 te= Signaler
-ba= nb
-ba= nf
-ba= ngh
-nn= Signal
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-08T18:47:55Z
 
 id= REAL003583
 te= Lokal utryddelse
@@ -36129,10 +36134,12 @@ st= REAL014081
 id= REAL004193
 te= Biologiske signaler
 ba= nb
+so= REAL011848
 nn= Biologiske signal
 en= Biological signals
 en= Biosignals
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-08T18:21:05Z
 
 id= REAL004194
 te= Automatic computing engine
@@ -46341,9 +46348,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005430
 te= Utledninger
-ba= ni
-nn= Utleiingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-08T16:54:12Z
 
 id= REAL005431
 te= Telefaks
@@ -60651,11 +60657,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007061
 te= Variasjoner
-ba= nb
-ba= nm
-ba= nq
-nn= Variasjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-08T17:59:31Z
 
 id= REAL007062
 te= Marsvin
@@ -66325,10 +66328,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007726
 te= Medisinske anvendelser
-ba= ni
-nn= Medisinske bruksmåtar
-en= Medical applications
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-08T15:50:11Z
+fly= REAL000262
 
 id= REAL007727
 te= Økologiske analyser
@@ -71102,10 +71104,9 @@ tie= 2017-10-06T14:50:19Z
 
 id= REAL008290
 te= Kliniske studier
-ba= ne
-nn= Kliniske studiar
-en= Clinical trials
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-08T15:49:26Z
+fly= REAL000262
 
 id= REAL008291
 te= Havfiske
@@ -101585,9 +101586,12 @@ fly= REAL009304
 id= REAL011848
 te= Intracellulære signaler
 ba= nb
+so= REAL004193
+so= REAL013911
 nn= Intracellulære signal
 en= Intracellular signals
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-08T18:21:05Z
 
 id= REAL011849
 te= Sedimentasjonsbassenger
@@ -114380,7 +114384,10 @@ tis= 2018-07-19T13:44:57Z
 
 id= REAL013053
 te= Læringsmiljøer
+bf= Læringsarenaer
 nn= Læringsmiljø
+nn= Læringsarenaer
+nn= Læringsarenaar
 tio= 2014-08-25T00:00:00Z
 st= REAL018990
 
@@ -126314,7 +126321,6 @@ st= REAL016885
 st= REAL016925
 st= REAL016967
 st= REAL018349
-st= REAL018586
 st= REAL019579
 st= REAL020053
 st= REAL021729
@@ -126326,7 +126332,6 @@ st= REAL027257
 st= REAL028214
 st= REAL029165
 st= REAL029245
-st= REAL029284
 st= REAL030053
 st= REAL031868
 
@@ -127108,6 +127113,7 @@ ba= nb
 bf= Kjemiske signaler
 bf= Signalstoffer
 bf= Semiokjemi
+so= REAL011848
 nn= Signalmolekyl
 nn= Kjemiske signal
 nn= Signalstoff
@@ -127118,7 +127124,7 @@ en= Chemical signals
 en= Chemical signal substances
 en= Semiochemistry
 tio= 2014-08-25T00:00:00Z
-tie= 2019-02-27T17:08:42Z
+tie= 2019-04-08T18:21:21Z
 st= REAL026017
 
 id= REAL013912
@@ -132519,13 +132525,14 @@ tie= 2018-08-17T14:48:56Z
 id= REAL032034
 te= Musikk og naturvitenskap
 bf= Naturvitenskap og musikk
+so= REAL032109
 no= Brukes om bøker som handler om forholdet mellom musikk og naturvitenskap
 nn= Musikk og naturvitskap
 nn= Naturvitskap og musikk
 en= Music and science
 en= Science and music
 tio= 2018-09-04T14:58:22Z
-tie= 2018-09-04T15:00:17Z
+tie= 2019-04-08T16:46:20Z
 
 id= REAL032035
 te= Fysikkens grunnlag
@@ -133267,4 +133274,16 @@ nn= Empiriske Bayes-metodar
 en= Empirical Bayes methods
 tio= 2019-04-06T17:47:16Z
 tie= 2019-04-06T17:48:20Z
+
+id= REAL032109
+te= Kunst og naturvitenskap
+bf= Naturvitenskap og kunst
+so= REAL032034
+no= Om forholdet mellom kunst og naturvitenskap
+nn= Kunst og naturvitskap
+nn= Naturvitskap og kunst
+en= Art and science
+en= Science and art
+tio= 2019-04-08T16:45:31Z
+tie= 2019-04-08T16:46:29Z
 
