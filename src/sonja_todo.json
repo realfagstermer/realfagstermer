@@ -1,1 +1,200 @@
-{}
+{
+  "REAL010115": {
+    "prefLabel": "Research institutes",
+    "altLabel": [
+      "Scientific institutions",
+      "Research institutions",
+      "Research laboratories"
+    ]
+  },
+  "REAL007003": {
+    "prefLabel": "Leisure time",
+    "altLabel": [
+      "Time off",
+      "Spare time",
+      "Free time"
+    ]
+  },
+  "REAL000875": {
+    "prefLabel": "Preschool children",
+    "altLabel": []
+  },
+  "REAL009367": {
+    "prefLabel": "Pollution Agency",
+    "altLabel": [
+      "Environmental Protection Agency",
+      "Environmental Agency"
+    ]
+  },
+  "REAL030084": {
+    "prefLabel": "Photographies",
+    "altLabel": [
+      "Aerial photographs",
+      "Photo albums",
+      "Photo books"
+    ]
+  },
+  "REAL011402": {
+    "prefLabel": "Sensitivity",
+    "altLabel": []
+  },
+  "REAL013236": {
+    "prefLabel": "Resuscitation",
+    "altLabel": []
+  },
+  "REAL003028": {
+    "prefLabel": "Market Garden",
+    "altLabel": []
+  },
+  "REAL002362": {
+    "prefLabel": "Soles of the feet",
+    "altLabel": [
+      "Sole"
+    ]
+  },
+  "REAL012523": {
+    "prefLabel": "Pollution protection",
+    "altLabel": [
+      "Pollution control",
+      "Pollution prevention"
+    ]
+  },
+  "REAL011404": {
+    "prefLabel": "Global changes",
+    "altLabel": []
+  },
+  "REAL001273": {
+    "prefLabel": "Gas ionization",
+    "altLabel": []
+  },
+  "REAL012521": {
+    "prefLabel": "Peace studies",
+    "altLabel": [
+      "Peace and conflict studies",
+      "Peace research"
+    ]
+  },
+  "REAL001232": {
+    "prefLabel": "Organolithiums",
+    "altLabel": []
+  },
+  "REAL005628": {
+    "prefLabel": "Defence policy",
+    "altLabel": [
+      "Defense policy",
+      "Military policy"
+    ]
+  },
+  "REAL003784": {
+    "prefLabel": "Management",
+    "altLabel": [
+      "Administration"
+    ]
+  },
+  "REAL013419": {
+    "prefLabel": "Research courses",
+    "altLabel": [
+      "Researcher's guide",
+      "Research guidance",
+      "Researcher guide",
+      "Scientific guidance"
+    ]
+  },
+  "REAL005068": {
+    "prefLabel": "Sport of athletics",
+    "altLabel": [
+      "Athletic sports"
+    ]
+  },
+  "REAL006230": {
+    "prefLabel": "Boundaries",
+    "altLabel": [
+      "Borders"
+    ]
+  },
+  "REAL012027": {
+    "prefLabel": "Research infrastructure",
+    "altLabel": [
+      "Infrastructure of science"
+    ]
+  },
+  "REAL013867": {
+    "prefLabel": "Ancient monuments",
+    "altLabel": [
+      "Anicent relics"
+    ]
+  },
+  "REAL004917": {
+    "prefLabel": "Research programmes",
+    "altLabel": []
+  },
+  "REAL030155": {
+    "prefLabel": "Regulations",
+    "altLabel": []
+  },
+  "REAL009971": {
+    "prefLabel": "Administration policy",
+    "altLabel": [
+      "Management policy"
+    ]
+  },
+  "REAL009229": {
+    "prefLabel": "Cryopreservation",
+    "altLabel": []
+  },
+  "REAL008336": {
+    "prefLabel": "Bird hunting",
+    "altLabel": []
+  },
+  "REAL004242": {
+    "prefLabel": "Research collaboration",
+    "altLabel": []
+  },
+  "REAL012309": {
+    "prefLabel": "Graphic presentation",
+    "altLabel": [
+      "Graphic design",
+      "Graphic imaging"
+    ]
+  },
+  "REAL001384": {
+    "prefLabel": "Research planning",
+    "altLabel": []
+  },
+  "REAL003801": {
+    "prefLabel": "Grammatical analysis",
+    "altLabel": []
+  },
+  "REAL006673": {
+    "prefLabel": "Retrieval systems",
+    "altLabel": [
+      "Information retrieval"
+    ]
+  },
+  "REAL005822": {
+    "prefLabel": "Researcher recruitment",
+    "altLabel": []
+  },
+  "REAL008392": {
+    "prefLabel": "Air sensitivity",
+    "altLabel": [
+      "Air-sensitive compounds"
+    ]
+  },
+  "REAL004330": {
+    "prefLabel": "Gas emissions",
+    "altLabel": []
+  },
+  "REAL012791": {
+    "prefLabel": "Administrative law",
+    "altLabel": []
+  },
+  "REAL001712": {
+    "prefLabel": "Photographic technique",
+    "altLabel": []
+  },
+  "REAL004190": {
+    "prefLabel": "Peace work",
+    "altLabel": []
+  }
+}

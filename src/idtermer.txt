@@ -2344,7 +2344,7 @@ en= Clinical practice
 en= Clinical trials
 en= Clinical methods
 tio= 2014-08-25T00:00:00Z
-tie= 2019-04-08T15:50:34Z
+tie= 2019-04-09T11:27:59Z
 
 id= REAL000263
 te= Urban økologi
@@ -4838,9 +4838,16 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000553
 te= Demonstrasjonsforsøk
+bf= Knallforelesninger
 so= REAL009965
+so= REAL002430
+so= REAL007999
 nn= Demonstrasjonsforsøk
 nn= Demonstrasjonsfreistnad
+nn= Knallførelesingar
+nn= Knallforelesingar
+nn= Knallforelesningar
+nn= Knallførelesningar
 en= Scientific demonstration
 en= Demonstration experiments
 tio= 2014-08-25T00:00:00Z
@@ -15694,8 +15701,10 @@ id= REAL001825
 te= Marine konstruksjoner
 ba= nm
 bf= Marine installasjoner
+bf= Marine strukturer
 nn= Marine konstruksjonar
 nn= Marine installasjonar
+nn= Marine strukturar
 en= Marine installations
 tio= 2014-08-25T00:00:00Z
 
@@ -16033,9 +16042,9 @@ tie= 2016-12-01T12:13:13Z
 
 id= REAL001862
 te= Miljøhygiene
-ba= nb
-nn= Miljøhygiene
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T09:45:30Z
+fly= REAL003150
 
 id= REAL001863
 te= Menneskesyn
@@ -17646,10 +17655,8 @@ st= REAL026229
 
 id= REAL002059
 te= Xenolitter
-ba= nc
-nn= Xenolittar
-en= Xenoliths
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T17:01:30Z
 
 id= REAL002060
 te= Uorganiske materialer
@@ -19815,9 +19822,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002306
 te= Innfarging
-ba= nk
-nn= Innfarging
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T10:17:55Z
 
 id= REAL002308
 te= Organiske selenforbindelser
@@ -19829,8 +19835,10 @@ fly= REAL000514
 id= REAL002309
 te= Næringsmiddelhygiene
 ba= nb
+so= REAL003150
 nn= Næringsmiddelhygiene
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-09T09:46:03Z
 
 id= REAL002310
 te= Geobiologi
@@ -20720,9 +20728,8 @@ tis= 2018-07-26T13:32:59Z
 
 id= REAL002402
 te= Symptomer
-ba= ne
-nn= Symptom
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T11:19:33Z
 
 id= REAL002403
 te= Fjerde-generasjonsspråk
@@ -20978,8 +20985,8 @@ te= Fysikkeksperimenter
 ba= nf
 bf= Fysikkprosjekter
 bf= Fysikkforsøk
-so= REAL002449
 so= REAL001438
+so= REAL000553
 ot= REAL001438
 nn= Fysikkeksperiment
 en= Physics experiments
@@ -21141,15 +21148,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002449
 te= Knallforelesninger
-ba= nk
-so= REAL002430
-so= REAL007999
-nn= Knallførelesingar
-nn= Knallforelesingar
-nn= Knallforelesningar
-nn= Knallførelesningar
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-15T14:40:14Z
+tis= 2019-04-09T17:24:58Z
+fly= REAL000553
 
 id= REAL002450
 te= Dyrelyder
@@ -24991,6 +24993,7 @@ bf= Havmodellering
 bf= Havmodeller
 bf= Havsirkulasjon
 bf= Havstrømmer
+bf= Vannsirkulasjon
 nn= Marin hydrodynamikk
 nn= Havdynamikk
 nn= Havfrontar
@@ -24999,6 +25002,7 @@ nn= Havmodellering
 nn= Havsirkulasjon
 nn= Havstraumar
 nn= Hydrodynamikken i havet
+nn= Vassirkulasjon
 en= Marine hydrodynamics
 en= Ocean dynamics
 en= Ocean hydrodynamics
@@ -25673,16 +25677,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002962
 te= Marker
-ba= nb
-nn= Makkar
-nn= Markar
-en= Worms
 tio= 2014-08-25T00:00:00Z
-st= REAL017368
-st= REAL020269
-st= REAL023166
-st= REAL025592
-st= REAL027971
+tis= 2019-04-09T11:02:20Z
 
 id= REAL002963
 te= Dlp
@@ -27266,9 +27262,14 @@ fly= REAL005052
 id= REAL003150
 te= Hygiene
 ba= ne
+bf= Miljøhygiene
+so= REAL003774
+so= REAL002309
 nn= Hygiene
+nn= Miljøhygiene
 en= Hygiene
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-09T09:46:02Z
 
 id= REAL003151
 te= Genforskning
@@ -27338,9 +27339,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003161
 te= Vannsirkulasjon
-ba= ngh
-nn= Vassirkulasjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T15:27:00Z
+fly= REAL002880
 
 id= REAL003162
 te= Proteinteknikk
@@ -28188,9 +28189,8 @@ st= REAL031552
 
 id= REAL003267
 te= Tilnærmelse matematikk
-ba= nm
-nn= Tilnærming matematikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T15:17:08Z
 
 id= REAL003268
 te= Anvendt elektrokjemi
@@ -30694,10 +30694,8 @@ fly= REAL005365
 
 id= REAL003548
 te= Stokastiske grammatikker
-ba= ni
-nn= Stokastiske grammatikkar
-en= Stochastic grammars
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T15:12:00Z
 
 id= REAL003549
 te= Jet Propulsion Laboratory
@@ -32640,9 +32638,11 @@ te= Yrkeshygiene
 ba= nk
 ba= nb
 ba= ne
+so= REAL003150
 nn= Yrkeshygiene
 en= Occupational hygiene
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-09T09:45:35Z
 
 id= REAL003775
 te= Kvalitative modeller
@@ -36508,10 +36508,8 @@ fly= REAL002726
 
 id= REAL004241
 te= Frontfølging
-ba= nm
-nn= Frontfølging
-nn= Frontfylging
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T15:10:16Z
 
 id= REAL004242
 te= Forskningssamarbeid
@@ -37071,9 +37069,8 @@ st= REAL029280
 
 id= REAL004303
 te= Lokalisering
-ba= nb
-nn= Lokalisering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T09:33:20Z
 
 id= REAL004304
 te= Myggpupper
@@ -40213,10 +40210,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004684
 te= Klinisk enzymologi
-ba= ne
-nn= Klinisk enzymologi
-en= Clinical enzymology
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T11:27:35Z
+fly= REAL000262
 
 id= REAL004685
 te= Blokkstruktur
@@ -40838,11 +40834,21 @@ ba= nb
 ba= ne
 bf= Skadelige stoffer
 bf= Helsefarlige kjemikalier
+bf= Helsefare
+bf= Helsefaremerking
+bf= Faremerking
+bf= Eksplosjonsfaremerking
+bf= Brannfaremerking
 nn= Helsefarlege stoff
 nn= Helsefarlege kjemikal
 nn= Helsefarlege kjemikaliar
 nn= Helsefarlege kjemikalium
 nn= Skadelege stoff
+nn= Helsefare
+nn= Helsefaremerking
+nn= Brannfaremerking
+nn= Eksplosjonsfaremerking
+nn= Faremerking
 en= Hazardous substances
 en= Hazardous materials
 en= Hazardous chemicals
@@ -41821,9 +41827,8 @@ fly= REAL009559
 
 id= REAL004880
 te= Laboratoriepraksis
-ba= nk
-nn= Laboratoriepraksis
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T10:19:37Z
 
 id= REAL004881
 te= Grafisk industri
@@ -43319,7 +43324,6 @@ ba= ns
 nn= Koffein
 en= Caffeine
 tio= 2014-08-25T00:00:00Z
-st= REAL027367
 
 id= REAL005054
 te= Osp
@@ -44709,8 +44713,10 @@ ba= nk
 ba= nb
 ba= ne
 ba= ns
+so= REAL008497
 nn= Næringsmiddelkjemi
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-09T17:24:26Z
 
 id= REAL005220
 te= Prosjektadministrasjon
@@ -57565,14 +57571,9 @@ tie= 2017-10-25T22:15:28Z
 
 id= REAL006697
 te= Forskningshistorie
-ba= na
-ba= nb
-ba= nm
-ba= ns
-nn= Forskingshistorie
 tio= 2014-08-25T00:00:00Z
-st= REAL026008
-st= REAL029445
+tis= 2019-04-09T17:25:44Z
+fly= REAL013517
 
 id= REAL006698
 te= Kapillærelektroforese
@@ -68599,8 +68600,8 @@ ba= nk
 bf= Kjemiske eksperimenter
 bf= Kjemiprosjekter
 bf= Kjemiforsøk
-so= REAL002449
 so= REAL001108
+so= REAL000553
 ot= REAL001438
 nn= Kjemiske eksperiment
 en= Chemistry experiments
@@ -71360,12 +71361,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008326
 te= Helsefare
-ba= nk
-ba= nb
-ba= nf
-nn= Helsefare
 tio= 2014-08-25T00:00:00Z
-st= REAL027987
+tis= 2019-04-09T17:23:13Z
+fly= REAL004760
 
 id= REAL008327
 te= Forlis
@@ -71955,11 +71953,15 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T20:51:53Z
 
 id= REAL008392
-te= Luftfølsomme forbindelser
+te= Lutftfølsomhet
 ba= nk
+bf= Luftfølsomme forbindelser
+nn= Luftkjenslegheit
 nn= Luftkjenslege sambindingar
 nn= Luftfølsame sambindingar
+nn= Luftfølsamheit
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-09T10:22:10Z
 
 id= REAL008393
 te= Vulkansk aske
@@ -72979,10 +72981,14 @@ tio= 2014-08-25T00:00:00Z
 st= REAL015404
 
 id= REAL008497
-te= Matanalyser
+te= Næringsmiddelanalyse
 ba= nk
+bf= Matanalyser
+so= REAL005219
+nn= Næringsmiddelanalyse
 nn= Matanalysar
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-09T17:24:26Z
 
 id= REAL008498
 te= Seismisk refleksjon
@@ -73215,16 +73221,10 @@ tie= 2018-07-19T13:37:30Z
 
 id= REAL008528
 te= Helsefaremerking
-ba= nk
-bf= Faremerking
-bf= Eksplosjonsfaremerking
-bf= Brannfaremerking
-nn= Helsefaremerking
-nn= Brannfaremerking
-nn= Eksplosjonsfaremerking
-nn= Faremerking
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-24T11:30:17Z
+tis= 2019-04-09T17:23:18Z
+fly= REAL004760
 
 id= REAL008529
 te= Jackson structured programming
@@ -83696,12 +83696,10 @@ st= REAL027315
 
 id= REAL009757
 te= Medisinske effekter
-ba= nb
 no= Brukes ikke alene, men som underinndeling av streng, f.eks. Koffein : Medisinske effekter. ML 9.2.15
-nn= Medisinske effektar
-en= Medical effects
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-09T00:00:00Z
+tis= 2019-04-09T11:23:59Z
 
 id= REAL009758
 te= OB-stjerner
@@ -93978,10 +93976,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010965
 te= Laboratorieinnredning
-ba= nk
-nn= Laboratorieinnreiing
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-28T20:37:30Z
+tis= 2019-04-09T10:19:42Z
 
 id= REAL010966
 te= Mobil ip
@@ -97789,9 +97786,9 @@ st= REAL014359
 
 id= REAL011430
 te= Marine strukturer
-ba= ns
-nn= Marine strukturar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T09:41:31Z
+fly= REAL001825
 
 id= REAL011431
 te= Strandformer
@@ -102506,10 +102503,8 @@ st= REAL029719
 
 id= REAL011946
 te= Økologisk kontinuitet
-ba= nb
-nn= Økologisk kontinuitet
-en= Ecological continuity
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T10:39:31Z
 
 id= REAL011947
 te= Flerspråklige spørrespråk
@@ -113725,9 +113720,9 @@ st= REAL015139
 
 id= REAL012997
 te= Kliniske laboratorieteknikker
-nn= Kliniske laboratorieteknikkar
-en= Clinical laboratory techniques
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T11:17:56Z
+fly= REAL000262
 
 id= REAL012998
 te= Ladningsoverføring
@@ -116761,9 +116756,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013275
 te= Renframstilling
-ba= nk
-bf= Renfremstilling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-09T17:24:40Z
 
 id= REAL013276
 te= Truede jordbrukslandskap
@@ -121232,7 +121226,9 @@ ba= nf
 ba= nm
 ba= nq
 ba= ns
+bf= Forskningshistorie
 nn= Vitskapshistorie
+nn= Forskingshistorie
 en= History of science
 tio= 2014-08-25T00:00:00Z
 st= REAL014472
@@ -121283,6 +121279,8 @@ st= REAL029808
 st= REAL029868
 st= REAL029957
 st= REAL031561
+st= REAL026008
+st= REAL029445
 
 id= REAL013518
 te= Vitenskapssosiologi
@@ -129765,11 +129763,9 @@ tie= 2015-03-09T15:37:25Z
 
 id= REAL031366
 te= Brønnkomplettering
-nn= Brunnkomplettering
-nn= Brønnkomplettering
-en= Well completion
 tio= 2015-03-09T16:06:35Z
 tie= 2015-03-09T16:09:09Z
+tis= 2019-04-09T15:28:02Z
 
 id= REAL031368
 te= Strålesporing
