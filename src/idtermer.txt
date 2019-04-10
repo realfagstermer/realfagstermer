@@ -30889,12 +30889,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003576
 te= Sikkerhetsforskrifter
-ba= nk
-ba= ne
-nn= Tryggleiksforskrifter
-nn= Sikkerheitsforskrifter
 tio= 2014-08-25T00:00:00Z
-st= REAL017866
+tis= 2019-04-10T16:01:36Z
 
 id= REAL003577
 te= Mosesporer
@@ -121324,6 +121320,7 @@ st= REAL023797
 st= REAL024068
 st= REAL024092
 st= REAL024638
+st= REAL026008
 st= REAL026025
 st= REAL026373
 st= REAL026948
@@ -121335,14 +121332,13 @@ st= REAL028029
 st= REAL028823
 st= REAL028887
 st= REAL028913
+st= REAL029445
 st= REAL029537
 st= REAL029790
 st= REAL029808
 st= REAL029868
 st= REAL029957
 st= REAL031561
-st= REAL026008
-st= REAL029445
 
 id= REAL013518
 te= Vitenskapssosiologi
