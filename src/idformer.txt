@@ -197,6 +197,10 @@ id= REAL030084
 te= Fotografier
 bf= Fotobøker
 bf= Flyfotografier
+en= Photographies
+en= Aerial photographs
+en= Photo albums
+en= Photo books
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030085
@@ -677,6 +681,7 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030155
 te= Forskrifter
+en= Regulations
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030156
