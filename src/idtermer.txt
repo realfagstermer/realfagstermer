@@ -55716,6 +55716,7 @@ ba= nb
 ba= nc
 ba= nf
 nn= Elektriske eigenskapar
+en= Electrical properties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006485
@@ -75716,6 +75717,7 @@ te= Elektroniske instrumenter
 ba= na
 ba= nf
 nn= Elektroniske instrument
+en= Electronic instruments
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008804

@@ -5034,8 +5034,6 @@ real:c001926  skos:closeMatch  wd:Q242857 .
 
 real:c007659  skos:closeMatch  wd:Q620938 .
 
-real:c008803  skos:closeMatch  wd:Q876367 .
-
 real:c009707  skos:closeMatch  wd:Q12681 .
 
 real:c007469  skos:closeMatch  wd:Q8029 .
