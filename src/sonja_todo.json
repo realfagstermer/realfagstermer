@@ -1,10 +1,150 @@
 {
-  "REAL006484": {
-    "prefLabel": "Electrical properties",
+  "REAL011134": {
+    "prefLabel": "Microwave range",
     "altLabel": []
   },
-  "REAL008803": {
-    "prefLabel": "Electronic instruments",
+  "REAL011122": {
+    "prefLabel": "Health services",
+    "altLabel": []
+  },
+  "REAL006166": {
+    "prefLabel": "Production planning",
+    "altLabel": []
+  },
+  "REAL004716": {
+    "prefLabel": "Medical devices",
+    "altLabel": [
+      "Medical equipment"
+    ]
+  },
+  "REAL001000": {
+    "prefLabel": "Commercial correspondence",
+    "altLabel": [
+      "Commerce correspondence",
+      "Business correspondence"
+    ]
+  },
+  "REAL011624": {
+    "prefLabel": "Powder technology",
+    "altLabel": []
+  },
+  "REAL001268": {
+    "prefLabel": "Correlation functions",
+    "altLabel": []
+  },
+  "REAL002788": {
+    "prefLabel": "Border law",
+    "altLabel": [
+      "Border policy",
+      "Border regulations",
+      "Border issues",
+      "Border conflicts"
+    ]
+  },
+  "REAL004366": {
+    "prefLabel": "History research",
+    "altLabel": []
+  },
+  "REAL005472": {
+    "prefLabel": "Group decision-making",
+    "altLabel": [
+      "Collaborative decision-making",
+      "Group decisions"
+    ]
+  },
+  "REAL011486": {
+    "prefLabel": "Nonverbal communication",
+    "altLabel": [
+      "Non-verbal communication"
+    ]
+  },
+  "REAL009891": {
+    "prefLabel": "Nonlinear phenomena",
+    "altLabel": []
+  },
+  "REAL012261": {
+    "prefLabel": "Household goods",
+    "altLabel": []
+  },
+  "REAL007862": {
+    "prefLabel": "High technology",
+    "altLabel": [
+      "High tech"
+    ]
+  },
+  "REAL012865": {
+    "prefLabel": "Excitation",
+    "altLabel": [
+      "Excited states"
+    ]
+  },
+  "REAL001696": {
+    "prefLabel": "Everyday life",
+    "altLabel": [
+      "Daily life"
+    ]
+  },
+  "REAL003047": {
+    "prefLabel": "Eastern Greenland Case",
+    "altLabel": [
+      "Erik the Red's Land"
+    ]
+  },
+  "REAL009638": {
+    "prefLabel": "Hierarchies",
+    "altLabel": []
+  },
+  "REAL008887": {
+    "prefLabel": "Gas dynamics",
+    "altLabel": [
+      "Gas kinetics",
+      "Compressible flow"
+    ]
+  },
+  "REAL007282": {
+    "prefLabel": "Kinematics",
+    "altLabel": []
+  },
+  "REAL009859": {
+    "prefLabel": "Buckling",
+    "altLabel": []
+  },
+  "REAL005511": {
+    "prefLabel": "Space (concept)",
+    "altLabel": []
+  },
+  "REAL000555": {
+    "prefLabel": "Attitudes",
+    "altLabel": [
+      "Viewpoints",
+      "Stances",
+      "Opinions"
+    ]
+  },
+  "REAL003626": {
+    "prefLabel": "Mechanical properties",
+    "altLabel": []
+  },
+  "REAL003073": {
+    "prefLabel": "Ship hydrodynamics",
+    "altLabel": []
+  },
+  "REAL012821": {
+    "prefLabel": "Holidays",
+    "altLabel": []
+  },
+  "REAL012206": {
+    "prefLabel": "Storability",
+    "altLabel": [
+      "Shelf life"
+    ]
+  },
+  "REAL003264": {
+    "prefLabel": "Group work",
+    "altLabel": []
+  },
+  "REAL012302": {
+    "prefLabel": "Equations of state",
     "altLabel": []
   }
 }

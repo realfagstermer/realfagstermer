@@ -7638,9 +7638,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000886
 te= Radarsystemer
-ba= ni
-nn= Radarsystem
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T18:23:51Z
+fly= REAL001562
 
 id= REAL000888
 te= Grunnvarme
@@ -8351,13 +8351,14 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-03-26T11:57:52Z
 
 id= REAL000964
-te= Informatikkfaget
+te= Informatikk
 ba= ni
-bf= Informatikk
-nn= Informatikkfaget
+bf= Informatikkfaget
 nn= Informatikk
-en= Computer science profession
+nn= Informatikkfaget
+en= Computer science
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-11T18:00:18Z
 st= REAL014578
 st= REAL016520
 st= REAL018466
@@ -13531,7 +13532,9 @@ id= REAL001562
 te= Radarer
 ba= nf
 ba= ns
+bf= Radarsystemer
 nn= Radarar
+nn= Radarsystem
 en= Radars
 tio= 2014-08-25T00:00:00Z
 st= REAL026914
@@ -16431,9 +16434,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001910
 te= Presisjonsinstrumenter
-ba= na
-nn= Presisjonsinstrument
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T18:55:18Z
 
 id= REAL001911
 te= Menneskelige aspekter
@@ -26350,8 +26352,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL003047
 te= Grønlandssaken
 ba= ngh
+bf= Eirik Raudes land
 nn= Grønlandssaka
+nn= Eirik Raudes land
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-11T17:18:15Z
 st= REAL015083
 st= REAL020595
 
@@ -27359,11 +27364,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003163
 te= Grenseflatebølger
-ba= ngh
-nn= Grenseflatebølgjer
-nn= Grenseflatebylgjer
-nn= Grenseflatebølger
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T18:28:53Z
+fly= REAL009897
 
 id= REAL003164
 te= Parallelle systemer
@@ -38511,9 +38514,8 @@ tis= 2016-09-26T10:10:12Z
 
 id= REAL004473
 te= Tårnteleskopet
-ba= na
-nn= Tårnteleskopet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T17:26:26Z
 
 id= REAL004474
 te= Telefonsystemer
@@ -39265,8 +39267,13 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004567
 te= Skjerming
 ba= nf
+bf= Avskjerming
 nn= Skjerming
+nn= Avskjerming
+en= Electromagnetic shielding
+de= Demping av elektromagnetiske felt
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-11T18:04:03Z
 
 id= REAL004568
 te= Avstandsberegninger
@@ -40503,8 +40510,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL004716
 te= Medisinsk utstyr
 ba= nf
+bf= Medisinske instrumenter
 nn= Medisinsk utstyr
+nn= Medisinske instrument
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-11T18:19:43Z
 
 id= REAL004717
 te= Vern
@@ -46180,8 +46190,13 @@ st= REAL028897
 id= REAL005404
 te= Modulirom
 ba= nm
+bf= Moduliteori
 nn= Modulirom
+nn= Moduliteori
+en= Moduli spaces
+en= Moduli theory
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-11T18:42:35Z
 
 id= REAL005407
 te= Dynamiske forhold
@@ -53870,9 +53885,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006306
 te= Kapasitetsberegninger
-ba= nm
-nn= Kapasitetsberekningar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T18:27:24Z
 
 id= REAL006307
 te= Molekylkrystaller
@@ -58035,9 +58049,8 @@ fly= REAL011070
 
 id= REAL006746
 te= Funksjonalintegraler
-ba= nm
-nn= Funksjonalintegral
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T18:08:45Z
 
 id= REAL006747
 te= Presisjonsmålinger
@@ -65165,10 +65178,13 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-01-12T17:45:16Z
 
 id= REAL007587
-te= Konstruksjonsberegninger
+te= Konstruksjonsanalyse
 ba= nm
+bf= Konstruksjonsberegninger
 nn= Konstruksjonsberekningar
+nn= Konstruksjonsanalyse
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-11T18:44:33Z
 
 id= REAL007588
 te= Bymiljø
@@ -73353,9 +73369,9 @@ st= REAL031960
 
 id= REAL008540
 te= Moduli
-ba= nm
-nn= Moduli
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T18:42:08Z
+fly= REAL005404
 
 id= REAL008541
 te= Okkultasjoner
@@ -76415,12 +76431,12 @@ ba= na
 ba= ngh
 ba= nm
 ba= ns
-bf= Gasstrømning
+bf= Gasskinetikk
 nn= Gassdynamikk
-nn= Gasstrøyming
+nn= Gasskinetikk
 nn= Gasstraum
 tio= 2014-08-25T00:00:00Z
-tie= 2017-08-08T09:56:22Z
+tie= 2019-04-11T18:35:36Z
 
 id= REAL008888
 te= Molekylstråler
@@ -77336,7 +77352,9 @@ id= REAL008993
 te= Atmosfærisk optikk
 ba= na
 ba= ngh
+bf= Meteorologisk optikk
 nn= Atmosfærisk optikk
+nn= Meteorologisk optikk
 en= Atmospheric optics
 tio= 2014-08-25T00:00:00Z
 st= REAL026579
@@ -78506,11 +78524,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009125
 te= Fysikalsk elektronikk
-ba= nf
-ba= ns
-nn= Fysikalsk elektronikk
 tio= 2014-08-25T00:00:00Z
-st= REAL017312
+tis= 2019-04-11T18:31:41Z
 
 id= REAL009126
 te= Kontrollkoder
@@ -82046,9 +82061,8 @@ fly= REAL008319
 
 id= REAL009569
 te= Koblingsmetoder
-ba= nm
-nn= Koplingsmetodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T18:14:57Z
 
 id= REAL009570
 te= Pesticider
@@ -83701,12 +83715,6 @@ tie= 2016-11-23T12:39:47Z
 tis= 2016-11-23T12:39:47Z
 fly= REAL008224
 
-id= REAL009754
-te= Gasskinetikk
-tio= 2014-08-25T00:00:00Z
-tie= 2017-03-07T21:29:22Z
-tis= 2017-03-07T21:29:22Z
-
 id= REAL009755
 te= Atomfysikk
 ba= nk
@@ -84665,8 +84673,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009859
 te= Knekning
 ba= nm
+bf= Knekking
 nn= Knekking
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-11T18:12:34Z
 
 id= REAL009860
 te= Industriell matematikk
@@ -84978,11 +84988,19 @@ tie= 2015-02-04T00:00:00Z
 id= REAL009897
 te= Interne bølger
 ba= nm
+bf= Grenseflatebølger
+bf= Indre bølger
 nn= Interne bølgjer
 nn= Interne bylgjer
 nn= Interne bølger
+nn= Grenseflatebølgjer
+nn= Grenseflatebylgjer
+nn= Grenseflatebølger
+nn= Indre bølgjer
 en= Internal waves
+en= Interfacial waves
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-11T18:29:53Z
 
 id= REAL009898
 te= Conseil Européen pour la Recherche Nucléaire
@@ -99330,11 +99348,8 @@ tis= 2017-01-05T20:30:13Z
 
 id= REAL011603
 te= Konstruksjonsmaterialer
-ba= nf
-nn= Konstruksjonsmateriale
-nn= Konstruksjonsmaterialar
 tio= 2014-08-25T00:00:00Z
-st= REAL027651
+tis= 2019-04-11T18:45:35Z
 
 id= REAL011604
 te= Matriser
@@ -101370,10 +101385,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011817
 te= Meteorologisk optikk
-ba= na
-ba= nf
-nn= Meteorologisk optikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-11T18:39:02Z
+fly= REAL008993
 
 id= REAL011818
 te= Molter
@@ -133344,4 +133358,11 @@ en= Art and science
 en= Science and art
 tio= 2019-04-08T16:45:31Z
 tie= 2019-04-08T16:46:29Z
+
+id= REAL032111
+te= Mikroplast
+nn= Mikroplast
+en= Microplastics
+tio= 2019-04-11T17:26:29Z
+tie= 2019-04-11T17:26:37Z
 
