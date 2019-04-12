@@ -1671,9 +1671,12 @@ fly= REAL003375
 id= REAL000188
 te= Foredling
 ba= nb
+bf= Raffinering
 nn= Foredling
+nn= Raffinering
 en= Refining
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-12T20:00:47Z
 
 id= REAL000189
 te= Husflid
@@ -10151,9 +10154,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL001168
 te= Maleteknikker
-ba= nk
-nn= Måleteknikkar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T20:10:20Z
 
 id= REAL001169
 te= Osteologi
@@ -10372,9 +10374,9 @@ fly= REAL006790
 
 id= REAL001195
 te= Termiske metoder
-ba= nk
-nn= Termiske metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T19:51:22Z
+fly= REAL003982
 
 id= REAL001196
 te= Grunnvannsmodeller
@@ -11832,9 +11834,8 @@ st= REAL021703
 
 id= REAL001348
 te= Materialoverflater
-ba= nk
-nn= Materialoverflater
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T20:04:24Z
 
 id= REAL001349
 te= Atmosfærisk turbulens
@@ -12989,7 +12990,9 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001495
 te= Titreringer
 ba= nk
+bf= Titreranalyser
 nn= Titreringar
+nn= Titreranalysar
 en= Titrations
 en= Titrimetry
 tio= 2014-08-25T00:00:00Z
@@ -13780,9 +13783,8 @@ fly= REAL003921
 
 id= REAL001588
 te= Termokjemiske data
-ba= nk
-nn= Termokjemiske data
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T19:52:40Z
 
 id= REAL001590
 te= Hoderegning
@@ -14392,12 +14394,9 @@ fly= REAL003776
 
 id= REAL001661
 te= Molekylære systemer
-ba= nk
-bf= Molekylsystemer
-nn= Molekylære system
-nn= Molekylsystem
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-19T09:34:11Z
+tis= 2019-04-12T20:11:37Z
 
 id= REAL001662
 te= Fornyelser
@@ -15234,12 +15233,6 @@ en= High pressure chemistry
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-27T20:55:34Z
 
-id= REAL001765
-te= Krystallstrukturbestemmelse
-tio= 2014-08-25T00:00:00Z
-tie= 2019-02-21T09:44:03Z
-tis= 2019-03-15T13:08:54Z
-
 id= REAL001766
 te= Romfartsindustri
 tio= 2014-08-25T00:00:00Z
@@ -15841,10 +15834,11 @@ tis= 2018-12-07T12:39:42Z
 fly= REAL000539
 
 id= REAL001842
-te= Raffinering
+te= Raffinering (Informatikk)
 ba= nk
-nn= Raffinering
+nn= Raffinering (Informatikk)
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-12T19:57:40Z
 
 id= REAL001843
 te= Triazen
@@ -29321,9 +29315,8 @@ st= REAL025109
 
 id= REAL003392
 te= Molekylkinetikk
-ba= nk
-nn= Molekylkinetikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T20:07:52Z
 
 id= REAL003393
 te= Rettighetsadministrasjon
@@ -34399,7 +34392,9 @@ id= REAL003982
 te= Termisk analyse
 ba= nk
 ba= nc
+bf= Termiske metoder
 nn= Termisk analyse
+nn= Termiske metodar
 en= Thermal analysis
 tio= 2014-08-25T00:00:00Z
 
@@ -36149,9 +36144,9 @@ st= REAL029185
 
 id= REAL004191
 te= Molekylspredning
-ba= nk
-nn= Molekylspreiing
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T20:11:03Z
+fly= REAL013016
 
 id= REAL004192
 te= Fikentrær
@@ -42537,10 +42532,15 @@ st= REAL028542
 st= REAL028737
 
 id= REAL004957
-te= Strukturbestemmelser
+te= Strukturbestemmelse
 ba= nk
+bf= Krystallstrukturbestemmelse
 nn= Strukturbestemmingar
+nn= Krystallstrukturbestemming
+en= Structure determination
+en= Crystal structure determination
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-12T19:47:51Z
 st= REAL028924
 
 id= REAL004958
@@ -48943,9 +48943,9 @@ tis= 2018-05-08T22:23:30Z
 
 id= REAL005732
 te= Molekylbindinger
-ba= nk
-nn= Molekylbindingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T20:04:58Z
+fly= REAL011076
 
 id= REAL005733
 te= Beviser
@@ -51580,9 +51580,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006033
 te= Monodisperse polymerer
-ba= nk
-nn= Monodisperse polymerar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T20:12:02Z
 
 id= REAL006034
 te= Geografiske posisjoner
@@ -53992,9 +53991,8 @@ st= REAL029083
 
 id= REAL006315
 te= Oksygenproduksjon
-ba= nk
-nn= Oksygenproduksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T20:13:28Z
 
 id= REAL006316
 te= Stjernebilder
@@ -75084,10 +75082,8 @@ st= REAL028040
 
 id= REAL008722
 te= Rusmiddelanalyse
-ba= nk
-ba= ne
-nn= Rusmiddelanalyse
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T19:55:18Z
 
 id= REAL008723
 te= Eksperimentell tallteori
@@ -76379,10 +76375,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008877
 te= Ufullstendighetsteoremer
-ba= nm
-nn= Ufullstendigheitsteorem
 tio= 2014-08-25T00:00:00Z
-st= REAL023789
+tis= 2019-04-12T20:19:44Z
 
 id= REAL008878
 te= Halvlederkontakter
@@ -78216,9 +78210,8 @@ st= REAL018571
 
 id= REAL009084
 te= Essensielle aromastoffer
-ba= ne
-nn= Essensielle aromastoff
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T19:43:20Z
 
 id= REAL009085
 te= Algebraiske kurver
@@ -81403,10 +81396,6 @@ te= Mikroevolusjon
 ba= nb
 nn= Mikroevolusjon
 en= Microevolution
-tio= 2014-08-25T00:00:00Z
-
-id= REAL009475
-te= Mellomprodukter
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009476
@@ -85800,10 +85789,8 @@ st= REAL027227
 
 id= REAL009978
 te= Smiing
-ba= nk
-nn= Smiing
-nn= Smiding
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T19:54:09Z
 
 id= REAL009979
 te= Membranlipider
@@ -92430,9 +92417,8 @@ tis= 2017-03-07T19:28:24Z
 
 id= REAL010759
 te= Nukleære metoder
-ba= nk
-nn= Nukleære metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T20:12:20Z
 
 id= REAL010760
 te= Perisykliske reaksjoner
@@ -94962,10 +94948,12 @@ ba= nk
 ba= nc
 ba= nf
 bf= Bindinger
+bf= Molekylbindinger
 so= REAL006932
 nn= Kjemiske bindingar
 nn= Kjemiske sambindingar
 nn= Bindingar
+nn= Molekylbindingar
 en= Chemical bonds
 en= Bonds
 tio= 2014-08-25T00:00:00Z
@@ -96931,9 +96919,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011316
 te= Titreranalyser
-ba= nk
-nn= Titreranalysar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-12T19:53:08Z
+fly= REAL001495
 
 id= REAL011317
 te= Parallellprosessorer
@@ -114067,7 +114055,7 @@ nn= Ramaneffekt
 en= Raman scattering
 en= Raman effect
 tio= 2014-08-25T00:00:00Z
-tie= 2015-03-09T13:56:07Z
+tie= 2019-04-12T20:11:12Z
 
 id= REAL013017
 te= Rapportskriving
