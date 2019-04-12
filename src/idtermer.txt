@@ -4872,6 +4872,10 @@ te= Holdninger
 ba= ne
 ba= nm
 nn= Haldningar
+en= Attitudes
+en= Viewpoints
+en= Stances
+en= Opinions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000556
@@ -8693,6 +8697,9 @@ id= REAL001000
 te= Handelskorrespondanse
 ba= ns
 nn= Handelskorrespondanse
+en= Commercial correspondence
+en= Commerce correspondence
+en= Business correspondence
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001001
@@ -11026,6 +11033,7 @@ id= REAL001268
 te= Korrelasjonsfunksjoner
 ba= nf
 nn= Korrelasjonsfunksjonar
+en= Correlation functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001269
@@ -14660,6 +14668,8 @@ ba= ngh
 bf= Dagliglivet
 nn= Kvardagsliv
 nn= Dagleglivet
+en= Everyday life
+en= Daily life
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-23T15:17:47Z
 st= REAL016491
@@ -24151,6 +24161,11 @@ ba= ngh
 bf= Grensespørsmål
 nn= Grenserett
 nn= Grensespørsmål
+en= Border law
+en= Border policy
+en= Border regulations
+en= Border issues
+en= Border conflicts
 tio= 2014-08-25T00:00:00Z
 tie= 2017-05-11T14:27:29Z
 st= REAL022245
@@ -26355,6 +26370,8 @@ ba= ngh
 bf= Eirik Raudes land
 nn= Grønlandssaka
 nn= Eirik Raudes land
+en= Eastern Greenland Case
+en= Erik the Red's Land
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-11T17:18:15Z
 st= REAL015083
@@ -26654,6 +26671,7 @@ id= REAL003073
 te= Skipshydrodynamikk
 ba= nm
 nn= Skipshydrodynamikk
+en= Ship hydrodynamics
 tio= 2014-08-25T00:00:00Z
 st= REAL028925
 
@@ -28175,6 +28193,7 @@ id= REAL003264
 te= Gruppearbeid
 ba= ns
 nn= Gruppearbeid
+en= Group work
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003265
@@ -31392,6 +31411,7 @@ ba= nk
 ba= nf
 ba= nm
 nn= Mekaniske eigenskapar
+en= Mechanical properties
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003627
@@ -37632,6 +37652,7 @@ id= REAL004366
 te= Historieforskning
 ba= ni
 nn= Historieforsking
+en= History research
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004367
@@ -40513,6 +40534,8 @@ ba= nf
 bf= Medisinske instrumenter
 nn= Medisinsk utstyr
 nn= Medisinske instrument
+en= Medical devices
+en= Medical equipment
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-11T18:19:43Z
 
@@ -46727,6 +46750,9 @@ te= Gruppebeslutninger
 ba= nm
 nn= Gruppeavgjerder
 nn= Gruppeavgjersler
+en= Group decision-making
+en= Collaborative decision-making
+en= Group decisions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005474
@@ -47077,6 +47103,7 @@ ba= nf
 so= REAL013507
 so= REAL012308
 nn= Romomgrepet
+en= Space (concept)
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-20T20:43:50Z
 
@@ -52687,6 +52714,7 @@ id= REAL006166
 te= Produksjonsplanlegging
 ba= ni
 nn= Produksjonsplanlegging
+en= Production planning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006168
@@ -62607,6 +62635,7 @@ ba= na
 ba= nf
 ba= nm
 nn= Kinematikk
+en= Kinematics
 tio= 2014-08-25T00:00:00Z
 st= REAL014248
 st= REAL017852
@@ -67516,6 +67545,8 @@ id= REAL007862
 te= Høyteknologi
 ba= ns
 nn= Høgteknologi
+en= High technology
+en= High tech
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007863
@@ -76435,6 +76466,9 @@ bf= Gasskinetikk
 nn= Gassdynamikk
 nn= Gasskinetikk
 nn= Gasstraum
+en= Gas dynamics
+en= Gas kinetics
+en= Compressible flow
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-11T18:35:36Z
 
@@ -82758,6 +82792,7 @@ te= Hierarkier
 ba= nk
 ba= nb
 nn= Hierarki
+en= Hierarchies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009639
@@ -84675,6 +84710,7 @@ te= Knekning
 ba= nm
 bf= Knekking
 nn= Knekking
+en= Buckling
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-11T18:12:34Z
 
@@ -84937,6 +84973,7 @@ id= REAL009891
 te= Ikke-lineære fenomener
 ba= nm
 nn= Ikkje-lineære fenomen
+en= Nonlinear phenomena
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009892
@@ -95309,6 +95346,7 @@ ba= ne
 ba= ngh
 so= REAL008770
 nn= Helsetenester
+en= Health services
 tio= 2014-08-25T00:00:00Z
 tie= 2016-09-26T10:08:35Z
 
@@ -95403,6 +95441,7 @@ ba= na
 nn= Mikrobølgjeområdet
 nn= Mikrobylgjeområdet
 nn= Mikrobølgeområdet
+en= Microwave range
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011135
@@ -98327,6 +98366,8 @@ id= REAL011486
 te= Ikke-verbal kommunikasjon
 ba= nm
 nn= Ikkje-verbal kommunikasjon
+en= Nonverbal communication
+en= Non-verbal communication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011487
@@ -99554,6 +99595,7 @@ te= Pulverteknologi
 ba= nk
 ba= nf
 nn= Pulverteknologi
+en= Powder technology
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011625
@@ -104560,6 +104602,8 @@ id= REAL012206
 te= Holdbarhet
 no= Mat. Brukes som underemneord. ml
 nn= Haldbarheit
+en= Storability
+en= Shelf life
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-05T12:03:28Z
 
@@ -105079,6 +105123,7 @@ id= REAL012261
 te= Husholdningsartikler
 ba= nk
 nn= Hushaldningsartiklar
+en= Household goods
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012262
@@ -105441,6 +105486,7 @@ ba= nk
 ba= nf
 bf= Tilstandslikninger
 nn= Tilstandslikningar
+en= Equations of state
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012303
@@ -111962,6 +112008,7 @@ ba= na
 bf= Høytider
 nn= Høgtidsdagar
 nn= Høgtider
+en= Holidays
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012822
@@ -112397,6 +112444,8 @@ ba= nf
 bf= Eksiterte tilstander
 nn= Eksitasjon
 nn= Eksiterte tilstandar
+en= Excitation
+en= Excited states
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-25T16:20:11Z
 
