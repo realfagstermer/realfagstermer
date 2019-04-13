@@ -686,6 +686,10 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030156
 te= Lover
+en= Statutes
+en= Judical laws
+en= Laws
+en= Statutory law
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030157
