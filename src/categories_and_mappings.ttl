@@ -6580,7 +6580,7 @@ real:c030543  skos:closeMatch  wd:Q1771544 .
 
 real:c007580  skos:closeMatch  wd:Q1215574 .
 
-real:c012599  skos:closeMatch  wd:Q204157 .
+real:c012599  skos:closeMatch  wd:Q1341477 .
 
 real:c004749  skos:closeMatch  wd:Q494483 .
 

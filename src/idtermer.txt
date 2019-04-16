@@ -103,10 +103,9 @@ st= REAL031952
 
 id= REAL000016
 te= Mikroreaksjoner
-ba= nk
-nn= Mikroreaksjonar
-en= Microreactions
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:54:04Z
+fly= REAL007706
 
 id= REAL000017
 te= Næringssøk
@@ -1430,6 +1429,7 @@ tie= 2019-04-15T16:35:51Z
 st= REAL015678
 st= REAL016147
 st= REAL017842
+st= REAL018334
 st= REAL019173
 st= REAL021269
 st= REAL023267
@@ -1439,7 +1439,6 @@ st= REAL026753
 st= REAL028132
 st= REAL030018
 st= REAL031169
-st= REAL018334
 
 id= REAL000163
 te= Morbærtrær
@@ -6446,12 +6445,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000740
 te= High-level data link control
-ba= ni
-ak= HDLC
-nn= HLDC
-nn= High-level data link control
-en= High-level data link control
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T10:44:47Z
 
 id= REAL000741
 te= Luftfart
@@ -14090,8 +14085,17 @@ id= REAL001624
 te= Digital kommunikasjon
 ba= ni
 ba= ngh
+bf= Seriell kommunikasjon
+bf= RS-232
+bf= RS-232c
 nn= Digital kommunikasjon
+nn= Seriell kommunikasjon
+nn= RS-232
+nn= RS-232c
 en= Digital communication
+en= Serial communications
+en= RS-232c
+en= RS-232
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001625
@@ -17310,8 +17314,11 @@ tis= 2018-02-22T14:52:36Z
 id= REAL002018
 te= Nettverksytelse
 ba= ni
+bf= Nettverkstesting
 nn= Nettverksyting
+nn= Nettverkstesting
 en= Network performance
+en= Network testing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002019
@@ -17982,7 +17989,9 @@ tie= 2015-01-23T00:00:00Z
 id= REAL002092
 te= Argumentasjon
 ba= ns
+bf= Argumentasjonsteknikk
 nn= Argumentasjon
+nn= Argumentasjonsteknikk
 en= Argumentation
 en= Reasoning
 tio= 2014-08-25T00:00:00Z
@@ -19006,8 +19015,14 @@ st= REAL029144
 id= REAL002197
 te= Maskinvareevaluering
 ba= ni
+bf= Maskinvaretesting
+bf= Maskinytelse
 nn= Maskinvareevaluering
+nn= Maskinvaretesting
+nn= Maskinyting
 en= Hardware evaluation
+en= Hardware testing
+en= Hardware performance
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002198
@@ -19227,10 +19242,9 @@ fly= REAL010464
 
 id= REAL002227
 te= Maskinytelse
-ba= ni
-nn= Maskinyting
-en= Hardware performance
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T10:51:05Z
+fly= REAL002197
 
 id= REAL002228
 te= Ml-estimering
@@ -19515,11 +19529,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL002264
 te= Nanokrystaller
-ba= nk
-nn= Nanokrystallar
-nn= Nanokrystall
-en= Nanocrystals
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:58:06Z
+fly= REAL002527
 
 id= REAL002265
 te= Redesign
@@ -21870,6 +21882,8 @@ ba= nk
 ba= nf
 bf= Nanostrukturerte materialer
 bf= Nanostrukturer
+bf= Nanokuber
+bf= Nanokrystaller
 so= REAL003139
 so= REAL000508
 so= REAL007368
@@ -21877,9 +21891,14 @@ ut= REAL031623
 nn= Nanomateriale
 nn= Nanostrukturar
 nn= Nanostrukturerte materiale
+nn= Nanokubar
+nn= Nanokrystallar
+nn= Nanokrystall
 en= Nanomaterials
 en= Nanostructured materials
 en= Nanostructures
+en= Nanocubes
+en= Nanocrystals
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-28T18:59:09Z
 st= REAL017803
@@ -26186,7 +26205,10 @@ id= REAL003025
 te= Datasystemer
 ba= nf
 nn= Datasystem
+en= Data systems
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T11:09:42Z
+st= REAL030003
 
 id= REAL003026
 te= Videoprosessering
@@ -26346,10 +26368,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003045
 te= Nettverkstesting
-ba= ni
-nn= Nettverkstesting
-en= Network testing
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T10:53:00Z
+fly= REAL002018
 
 id= REAL003046
 te= Ikke-lineære modeller
@@ -28474,12 +28495,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003305
 te= Partikkelstørrelsesanalyse
-ba= nk
-ba= ne
-nn= Partikkelstorleiksanalyse
-en= Particle size analysis
 tio= 2014-08-25T00:00:00Z
 tie= 2018-05-09T18:43:40Z
+tis= 2019-04-16T12:01:10Z
+fly= REAL011832
 
 id= REAL003306
 te= Produksjonsøkonomi
@@ -32126,10 +32145,13 @@ id= REAL003713
 te= Tjenesteorientert arkitektur
 ba= ni
 bf= SOA
+bf= Tjenesteorienterte systemer
 nn= Tenesteorientert arkitektur
 nn= SOA
 nn= Tenestorientert arkitektur
+nn= Tenesteorienterte system
 en= Service oriented architecture
+en= Service oriented systems
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-02T00:00:00Z
 
@@ -42250,10 +42272,8 @@ tie= 2015-01-23T00:00:00Z
 
 id= REAL004921
 te= Responser
-ba= nk
-ba= nb
-nn= Responsar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T14:15:50Z
 
 id= REAL004922
 te= Orienteringsevne
@@ -43677,13 +43697,10 @@ tie= 2016-12-09T18:17:51Z
 
 id= REAL005096
 te= Micellær elektrokinetisk kromatografi
-ba= nk
-ak= MEKC
 no= http://purl.obolibrary.org/obo/CHMO_0001036
-nn= Micellær elektrokinetisk kromatografi
-en= Micellar electrokinetic chromatography
 tio= 2014-08-25T00:00:00Z
 tie= 2017-01-05T22:35:51Z
+tis= 2019-04-16T11:50:36Z
 
 id= REAL005097
 te= Storjoer
@@ -44316,10 +44333,9 @@ tis= 2017-09-26T15:58:28Z
 
 id= REAL005171
 te= Tjenesteorienterte systemer
-ba= ni
-nn= Tenesteorienterte system
-en= Service oriented systems
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T10:56:38Z
+fly= REAL003713
 
 id= REAL005172
 te= Svartid
@@ -45650,7 +45666,6 @@ tis= 2018-01-12T15:24:36Z
 id= REAL005333
 te= Miljøfaktorer
 tio= 2014-08-25T00:00:00Z
-tis= 2018-03-05T11:06:18Z
 
 id= REAL005334
 te= Organiske partikler
@@ -45793,7 +45808,9 @@ te= Ikke-relasjonelle databaser
 ba= ni
 nn= Ikkje-relasjonelle databasar
 en= Non-relational databases
+en= NoSQL
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T10:57:56Z
 
 id= REAL005350
 te= Alfabeter
@@ -50422,10 +50439,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005903
 te= Metallkrystaller
-ba= nk
-nn= Metallkrystallar
-nn= Metallkrystall
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:51:00Z
 
 id= REAL005904
 te= Quickersort
@@ -51909,10 +51924,18 @@ tio= 2014-08-25T00:00:00Z
 st= REAL023338
 
 id= REAL006072
-te= Innføringsprosess
+te= Endringsprosesser
 ba= ni
-nn= Innføringsprosess
+bf= Innføringsprosesser
+bf= Innføring av teknologi
+so= REAL009742
+nn= Innføringsprosessar
+nn= Endringsprosessar
+nn= Innføring av teknologi
+en= Change processes
+en= Introduction of technology
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T13:35:42Z
 st= REAL026401
 
 id= REAL006073
@@ -52265,9 +52288,8 @@ tis= 2018-10-02T19:06:26Z
 
 id= REAL006111
 te= Vektorsøking
-ba= ni
-nn= Vektorsøking
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:01:06Z
 
 id= REAL006112
 te= Java2
@@ -52476,10 +52498,13 @@ fly= REAL000759
 id= REAL006136
 te= Lydfilformater
 ba= ni
-so= REAL007295
+bf= Lydkoding
 nn= Ljodfilformat
 nn= Lydfilformat
+nn= Ljodkoding
+nn= Lydkoding
 en= Sound file formats
+en= Sound coding
 tio= 2014-08-25T00:00:00Z
 tie= 2015-03-19T19:40:43Z
 
@@ -53013,11 +53038,9 @@ st= REAL031607
 
 id= REAL006201
 te= Billettsystemer
-ba= ni
-nn= Billettsystem
-en= Ticket systems
 tio= 2014-08-25T00:00:00Z
-st= REAL024717
+tis= 2019-04-16T11:04:09Z
+fly= REAL010493
 
 id= REAL006202
 te= Analysedata
@@ -53064,10 +53087,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006208
 te= Stokastiske signaler
-ba= ni
-nn= Stokastiske signal
-en= Stochastic signals
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:05:26Z
 
 id= REAL006209
 te= Flybensin
@@ -53417,10 +53438,8 @@ fly= REAL003543
 
 id= REAL006252
 te= Trafikkoptimalisering
-ba= ni
-nn= Trafikkoptimalisering
-en= Traffic optimizing
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:06:01Z
 
 id= REAL006253
 te= Antocyaniner
@@ -54679,6 +54698,8 @@ bf= Informasjonssøking
 bf= Søking
 bf= Søk
 bf= Litteraturgjenfinning
+bf= Wide Area Information Service
+ak= WAIS
 ot= REAL010472
 ut= REAL005186
 nn= Informasjonsgjenfinning
@@ -54686,8 +54707,12 @@ nn= Informasjonssøking
 nn= Søking
 nn= Søk
 nn= Litteraturgjenfinning
+nn= Wide Area Information Service
 en= Information retrieval
 en= Search
+en= Wide Area Information Service
+en= Wide Area Information Server
+en= WAIS
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-28T20:49:33Z
 st= REAL016623
@@ -55028,12 +55053,15 @@ ba= nm
 ba= ns
 bf= Datavisualisering
 bf= Visuell informasjon
+bf= Gnuplot
 so= REAL014051
 so= REAL012309
 nn= Visualisering
 nn= Datavisualisering
 nn= Visuell informasjon
+nn= Gnuplot
 en= Visualizing
+en= Gnuplot
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-27T14:57:55Z
 
@@ -56956,11 +56984,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006622
 te= Formalbeskrivelse
-ba= ni
-nn= Formalskildring
-nn= Formalbeskriving
-en= Formal description
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:07:00Z
 
 id= REAL006623
 te= Normalfordeling
@@ -57066,16 +57091,9 @@ st= REAL018235
 
 id= REAL006637
 te= Store datasystemer
-ba= ni
-bf= Store databehandlingssystemer
-bf= Storskala systemer
-nn= Store datasystem
-nn= Store databehandlingssystem
-nn= Store datahandsamingssystem
-nn= Storskala system
-en= Large data systems
 tio= 2014-08-25T00:00:00Z
-st= REAL030003
+tis= 2019-04-16T11:08:55Z
+fly= REAL003025
 
 id= REAL006638
 te= Motstand
@@ -58441,10 +58459,8 @@ tis= 2017-02-10T17:50:48Z
 
 id= REAL006798
 te= Kombinatoriske kretser
-ba= ni
-nn= Kombinatoriske krinsar
-en= Combinatorial circuits
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:11:03Z
 
 id= REAL006799
 te= Mangrover
@@ -62287,10 +62303,8 @@ st= REAL027507
 
 id= REAL007246
 te= Strukturerte data
-ba= ni
-nn= Strukturerte data
-en= Structured data
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:11:57Z
 
 id= REAL007247
 te= Mekanisk fasthet
@@ -62735,13 +62749,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007295
 te= Lydkoding
-ba= ni
-so= REAL006136
-nn= Ljodkoding
-nn= Lydkoding
-en= Sound coding
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-04T00:00:00Z
+tis= 2019-04-16T11:12:44Z
+fly= REAL006136
 
 id= REAL007296
 te= Fotoemisjonsspektroskopi
@@ -63079,16 +63090,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007337
 te= Seriell kommunikasjon
-ba= ni
-bf= RS-232
-bf= RS-232c
-nn= Seriell kommunikasjon
-nn= RS-232
-nn= RS-232c
-en= Serial communications
-en= RS-232c
-en= RS-232
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:20:33Z
+fly= REAL001624
 
 id= REAL007338
 te= Parallellarkitektur
@@ -63545,10 +63549,10 @@ fly= REAL003748
 
 id= REAL007397
 te= Z39.50-1988
-ba= ni
-nn= Z39.50-1988
 de= Kommunikasjonsprotokoll
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:22:07Z
+fly= REAL012226
 
 id= REAL007398
 te= Kontekstfrie språk
@@ -63794,14 +63798,10 @@ st= REAL018178
 
 id= REAL007433
 te= Wide Area Information Service
-ba= ni
-ak= WAIS
-nn= Wide Area Information Service
-en= Wide Area Information Service
-en= Wide Area Information Server
-en= WAIS
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-08T15:20:56Z
+tis= 2019-04-16T11:23:40Z
+fly= REAL006381
 
 id= REAL007434
 te= Matsikkerhet
@@ -63865,10 +63865,14 @@ st= REAL025138
 id= REAL007439
 te= Ikke-monoton resonnering
 ba= ni
+bf= Ikke-monoton logikk
 so= REAL000461
 nn= Ikkje-monoton resonnering
+nn= Ikkje-monoton logikk
 en= Nonmonotic reasoning
+en= Nonmonotonic logic
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T11:28:16Z
 
 id= REAL007440
 te= Nitrogenfikserende mikroorganismer
@@ -64941,9 +64945,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007549
 te= Funksjonstilnærming
-ba= ni
-nn= Funksjonstilnærming
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:29:28Z
 
 id= REAL007550
 te= Værrapporter
@@ -65069,10 +65072,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007567
 te= Systeminvadering
-ba= ni
-nn= Systeminvadering
-en= System intrusion
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:30:35Z
+fly= REAL009434
 
 id= REAL007568
 te= Meteorer
@@ -66234,6 +66236,7 @@ ba= nf
 bf= Mikroteknikk
 bf= Microteknikk
 bf= Mikromekanikk
+bf= Mikroreaksjoner
 so= REAL031460
 so= REAL013945
 so= REAL000162
@@ -66241,8 +66244,10 @@ nn= Mikroteknologi
 nn= Microteknikk
 nn= Mikromekanikk
 nn= Mikroteknikk
+nn= Mikroreaksjonar
 en= Microtechnology
 en= Micromechanics
+en= Microreactions
 tio= 2014-08-25T00:00:00Z
 tie= 2015-06-08T11:50:13Z
 st= REAL014489
@@ -67564,9 +67569,8 @@ tie= 2018-09-08T09:50:27Z
 
 id= REAL007864
 te= Øyemodeller
-ba= ni
-nn= Augemodellar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:35:03Z
 
 id= REAL007865
 te= Lokalmeteorologi
@@ -69819,11 +69823,13 @@ en= Thermokarst
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008132
-te= Knuth-bendix-algoritmen
+te= Knuth-Bendix-algoritmen
 ba= ni
 nn= Knuth-Bendix-algoritmen
-en= Knuth-bendix algorithm
+en= Knuth-Bendix algorithm
+en= Knuth–Bendix completion algorithm
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T13:38:10Z
 
 id= REAL008133
 te= Eolisk transport
@@ -71257,10 +71263,8 @@ tis= 2019-03-07T09:17:54Z
 
 id= REAL008297
 te= Molybdentrisulfid
-ba= nk
-nn= Molybdentrisulfid
-en= Molybdenum disulfide
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:56:11Z
 
 id= REAL008298
 te= Høytemperaturkjemi
@@ -71976,10 +71980,8 @@ tie= 2017-10-13T20:20:57Z
 
 id= REAL008386
 te= Værsimulering
-ba= ni
-nn= Vêrsimulering
-nn= Versimulering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:37:27Z
 
 id= REAL008387
 te= Paleoklimatologi
@@ -73102,10 +73104,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008501
 te= Logiske grammatikker
-ba= ni
-nn= Logiske grammatikkar
-en= Logic grammars
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:40:45Z
 
 id= REAL008502
 te= Værforhold
@@ -75259,7 +75259,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008743
 te= Videokommunikasjon
 ba= ni
+bf= Telekonferanser
 nn= Videokommunikasjon
+nn= Telekonferansar
+en= Teleconferences
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008744
@@ -75730,10 +75733,9 @@ tie= 2015-03-13T11:58:28Z
 
 id= REAL008798
 te= Telekonferanser
-ba= ni
-nn= Telekonferansar
-en= Teleconferences
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:42:08Z
+fly= REAL008743
 
 id= REAL008799
 te= Very Long Baseline Interferometry (VLBI)
@@ -75778,11 +75780,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008804
 te= Naboskapsmatriser
-ba= ni
-nn= Naboskapsmatriser
-nn= Grannematriser
-en= Adjacency matrices
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:42:38Z
 
 id= REAL008806
 te= Prydbusker
@@ -80689,12 +80688,8 @@ tis= 2018-03-02T20:15:43Z
 
 id= REAL009378
 te= Elektroniske tjenester
-ba= ni
-bf= E-tjenester
-nn= Elektroniske tenester
-nn= E-tenester
-en= Electronic services
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T10:48:27Z
 
 id= REAL009379
 te= Biokatalysatorer
@@ -81089,9 +81084,12 @@ fly= REAL002506
 id= REAL009434
 te= Systemsikkerhet
 ba= ni
+bf= Systeminvadering
 nn= Systemtryggleik
 nn= Systemsikkerheit
+nn= Systeminvadering
 en= System security
+en= System intrusion
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009435
@@ -83679,9 +83677,11 @@ te= Digitalisering
 ba= ni
 ba= ngh
 ba= ns
+so= REAL006072
 nn= Digitalisering
 en= Digitization
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T13:35:41Z
 
 id= REAL009743
 te= Dypvannskrabber
@@ -87455,9 +87455,9 @@ fly= REAL007253
 
 id= REAL010160
 te= Argumentasjonsteknikk
-ba= ni
-nn= Argumentasjonsteknikk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T10:22:40Z
+fly= REAL002092
 
 id= REAL010161
 te= Kyrillisk tegnsett
@@ -90268,12 +90268,12 @@ ba= nq
 ba= ns
 bf= Internasjonale informasjonssystemer
 so= REAL011820
-no= Studieretning
 nn= Informasjonssystem
 nn= Internasjonale informasjonssystem
 en= Information systems
 en= International information systems
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T11:04:37Z
 st= REAL020655
 st= REAL021916
 st= REAL024558
@@ -93002,10 +93002,8 @@ tis= 2019-02-28T19:28:25Z
 
 id= REAL010831
 te= Platinakatalysatorer
-ba= nk
-nn= Platinakatalysatorar
-en= Platinum catalysts
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T12:03:01Z
 
 id= REAL010832
 te= År 2000-problemet
@@ -93370,10 +93368,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010883
 te= Nanokuber
-ba= nk
-nn= Nanokubar
-en= Nanocubes
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:57:03Z
+fly= REAL002527
 
 id= REAL010884
 te= James Webb-teleskopet
@@ -94213,10 +94210,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010980
 te= Produktvurdering
-ba= ni
-nn= Produktvurdering
-en= Product evaluation
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T11:43:37Z
 
 id= REAL010981
 te= Økonomiske virkemidler
@@ -99373,9 +99368,8 @@ fly= REAL002675
 
 id= REAL011594
 te= Nordisk samarbeid
-ba= nb
-nn= Nordisk samarbeid
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T14:02:27Z
 
 id= REAL011595
 te= B-celler
@@ -101590,8 +101584,11 @@ id= REAL011832
 te= Partikkelanalyse
 ba= nk
 bf= Optisk partikkelanalyse
+bf= Partikkelstørrelsesanalyse
 nn= Partikkelanalyse
 nn= Optisk partikkelanalyse
+nn= Partikkelstorleiksanalyse
+en= Particle size analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011833
@@ -103350,10 +103347,9 @@ st= REAL028206
 
 id= REAL012039
 te= Gnuplot
-ba= nb
-nn= Gnuplot
-en= Gnuplot
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T10:45:50Z
+fly= REAL006425
 
 id= REAL012040
 te= Sansehager
@@ -104833,11 +104829,14 @@ te= Kommunikasjonsprotokoller
 ba= ni
 bf= Dataprotokoller
 bf= Iso-protokoller
+bf= Z39.50-1988
 so= REAL012227
 nn= Kommunikasjonsprotokollar
 nn= Dataprotokollar
 nn= Iso-protokollar
+nn= Z39.50-1988
 en= Communication protocols
+de= Kommunikasjonsprotokoll
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012227
@@ -118157,10 +118156,9 @@ tie= 2016-08-10T11:03:30Z
 
 id= REAL013381
 te= Maskinvaretesting
-ba= ni
-nn= Maskinvaretesting
-en= Hardware testing
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T10:50:34Z
+fly= REAL002197
 
 id= REAL013382
 te= Programtesting
