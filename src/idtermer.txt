@@ -2894,9 +2894,8 @@ tis= 2019-04-07T00:03:54Z
 
 id= REAL000334
 te= Tekniske termer
-ba= nc
-nn= Tekniske termar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T18:49:52Z
 
 id= REAL000335
 te= Knopper
@@ -2996,32 +2995,8 @@ fly= REAL013030
 
 id= REAL000349
 te= Ifip-komiteer
-ba= ni
-bf= Ifip tc10
-bf= Ifip tc2 wg2.7
-bf= Ifip tc3 wg3.2
-bf= Ifip tc8
-bf= Ifip tc8 wg8.1
-bf= Ifip tc8 wg8.2
-bf= Ifip tc9 wg9.5
-bf= Ifip tcs
-bf= Ifip wg 7.2
-bf= Ifip wg 8.4
-bf= Ifip wg5.11
-nn= Ifip-komitear
-nn= Ifip tc10
-nn= Ifip tc2 wg2.7
-nn= Ifip tc3 wg3.2
-nn= Ifip tc8
-nn= Ifip tc8 wg8.1
-nn= Ifip tc8 wg8.2
-nn= Ifip tc9 wg9.5
-nn= Ifip tcs
-nn= Ifip wg 7.2
-nn= Ifip wg 8.4
-nn= Ifip wg5.11
-en= Ifip committees
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T19:56:49Z
 
 id= REAL000350
 te= Nakenfrøete planter
@@ -4488,10 +4463,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000512
 te= Regioninndeling
-ba= nb
-ba= nq
-nn= Regioninndeling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T15:25:52Z
 
 id= REAL000513
 te= Functional requirements for bibliographic records
@@ -4834,6 +4807,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000553
 te= Demonstrasjonsforsøk
 bf= Knallforelesninger
+bf= Demonstrasjonseksperimenter
 so= REAL009965
 so= REAL002430
 so= REAL007999
@@ -4846,7 +4820,7 @@ nn= Knallførelesningar
 en= Scientific demonstration
 en= Demonstration experiments
 tio= 2014-08-25T00:00:00Z
-tie= 2017-03-10T11:03:05Z
+tie= 2019-04-16T17:39:24Z
 
 id= REAL000554
 te= Møll
@@ -6739,6 +6713,7 @@ ba= nc
 bf= Kalkbergarter
 bf= Krittstein
 so= REAL012168
+so= REAL008552
 nn= Kalkstein
 nn= Kalkbergartar
 nn= Kalkbergarter
@@ -8596,6 +8571,8 @@ bf= Røntgenspektra
 ut= REAL006030
 ut= REAL031327
 ut= REAL031326
+ut= REAL007101
+no= http://purl.obolibrary.org/obo/CHMO_0000297
 nn= Røntgenspektroskopi
 nn= Røntgenspekter
 nn= Røntgenspektrum
@@ -8605,7 +8582,7 @@ en= X-ray spectrometry
 en= Roentgen spectroscopy
 en= Roentgen spectrometry
 tio= 2014-08-25T00:00:00Z
-tie= 2019-03-27T19:35:35Z
+tie= 2019-04-16T19:49:11Z
 
 id= REAL000990
 te= Mikroskalakjemi
@@ -17570,9 +17547,9 @@ st= REAL025540
 
 id= REAL002048
 te= Simulatorer
-ba= nb
-nn= Simulatorar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T15:38:44Z
+fly= REAL011860
 
 id= REAL002049
 te= Dermatoksikologi
@@ -21092,10 +21069,9 @@ tis= 2019-04-15T14:13:31Z
 
 id= REAL002441
 te= Treffrangering
-ba= ni
-nn= Treffrangering
-en= Hit ranking
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T15:59:45Z
+fly= REAL006519
 
 id= REAL002442
 te= Fibrin
@@ -32364,8 +32340,11 @@ id= REAL003740
 te= Risikovurdering
 ba= nb
 ba= ngh
+bf= Ulykkesrisiko
 so= REAL003663
 nn= Risikovurdering
+nn= Ulukkesrisiko
+nn= Ulykkesrisiko
 en= Risk assessment
 tio= 2014-08-25T00:00:00Z
 tie= 2015-09-21T12:09:52Z
@@ -33965,10 +33944,9 @@ fly= REAL000213
 
 id= REAL003925
 te= Like-til-like nettverk
-ba= ni
-nn= Like-til-like nettverk
-en= Peer-to-peer networks
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T20:33:27Z
+fly= REAL013042
 
 id= REAL003926
 te= Små pattedyr
@@ -37489,7 +37467,9 @@ tie= 2018-03-21T20:17:45Z
 id= REAL004343
 te= Prosesskjemi
 ba= nk
+bf= Prosessutvikling
 nn= Prosesskjemi
+nn= Prosessutvikling
 en= Process chemistry
 tio= 2014-08-25T00:00:00Z
 st= REAL027927
@@ -40508,10 +40488,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004709
 te= Vernetiltak
-ba= nk
-ba= nb
-nn= Vernetiltak
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T16:28:32Z
 
 id= REAL004710
 te= Magnetiske målinger
@@ -56118,6 +56096,7 @@ te= Søkemotorer
 ba= ni
 bf= Google-søk
 bf= Søkemaskiner
+bf= Treffrangering
 nn= Søkjemotorar
 nn= Søkjemaskiner
 nn= Søkemaskinar
@@ -56125,8 +56104,10 @@ nn= Søkemaskiner
 nn= Søkemotorar
 nn= Søkjemaskinar
 nn= Google-søk
+nn= Treffrangering
 en= Search engines
 en= Google Search
+en= Hit ranking
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-20T06:40:55Z
 
@@ -58535,10 +58516,11 @@ tie= 2019-02-12T14:11:11Z
 id= REAL006805
 te= Utforskning
 ba= nb
+bf= Utforsking
 so= REAL002323
 nn= Utforsking
 tio= 2014-08-25T00:00:00Z
-tie= 2018-10-02T18:35:17Z
+tie= 2019-04-16T16:10:19Z
 
 id= REAL006806
 te= Strukturbiologi
@@ -61158,11 +61140,19 @@ tio= 2014-08-25T00:00:00Z
 tie= 2016-01-21T13:01:26Z
 
 id= REAL007101
-te= Røntgenanalyse
+te= Røntgenmikroanalyse
 ba= nk
 ba= nc
+ak= XMPS
+ot= REAL000989
+no= http://purl.obolibrary.org/obo/CHMO_0000306
 nn= Røntgenanalyse
+en= X-ray microprobe spectroscopy
+en= X-ray micro-probe spectrometry
+en= X-ray microanalysis
+en= X-ray microprobe spectrometry
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T19:36:38Z
 st= REAL015769
 
 id= REAL007102
@@ -62460,7 +62450,6 @@ tio= 2014-08-25T00:00:00Z
 id= REAL007261
 te= Objektorienterte klienter
 ba= ni
-so= REAL009322
 nn= Objektorienterte klientar
 en= Objectoriented clients
 tio= 2014-08-25T00:00:00Z
@@ -67216,10 +67205,8 @@ tis= 2018-08-06T11:34:57Z
 
 id= REAL007821
 te= Organisasjonsmessige påvirkninger
-ba= ni
-nn= Organisasjonsmessige påverknader
-nn= Organisasjonsmessige påverknadar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T19:25:38Z
 
 id= REAL007822
 te= Traner
@@ -70446,9 +70433,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008204
 te= Prosessutvikling
-ba= nk
-nn= Prosessutvikling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T15:25:15Z
+fly= REAL004343
 
 id= REAL008205
 te= Ferritin
@@ -73407,7 +73394,6 @@ ba= nk
 nn= Studietilhøve
 nn= Studieforhold
 tio= 2014-08-25T00:00:00Z
-st= REAL031960
 
 id= REAL008540
 te= Moduli
@@ -73527,9 +73513,11 @@ fly= REAL003528
 id= REAL008552
 te= Kalk
 ba= nc
+so= REAL000770
 nn= Kalk
 en= Lime
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T15:21:21Z
 
 id= REAL008554
 te= Finnhvaler
@@ -80185,10 +80173,8 @@ st= REAL020753
 
 id= REAL009322
 te= Objektorienterte tjenere
-ba= ni
-nn= Objektorienterte tenarar
-en= Objectoriented servers
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T20:24:05Z
 
 id= REAL009323
 te= Dekomponering
@@ -81220,9 +81206,8 @@ tie= 2015-08-07T15:03:42Z
 
 id= REAL009451
 te= Vektormodeller
-ba= ni
-nn= Vektormodellar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T20:24:59Z
 
 id= REAL009452
 te= Fler-dimensjoner
@@ -81625,10 +81610,8 @@ tie= 2018-10-05T19:48:25Z
 
 id= REAL009505
 te= Brukeransvar
-ba= ni
-nn= Brukaransvar
-en= User responsibility
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T20:24:42Z
 
 id= REAL009506
 te= Strandøkologi
@@ -84553,10 +84536,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009844
 te= Miljøinformasjon
-ba= nb
-nn= Miljøinformasjon
 tio= 2014-08-25T00:00:00Z
-st= REAL026587
+tis= 2019-04-16T18:59:01Z
 
 id= REAL009845
 te= Anvendt teknologi
@@ -85167,10 +85148,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009913
 te= Flerbrukerkontroll
-ba= ni
-nn= Fleirbrukarkontroll
-en= Multi user control
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T20:26:06Z
 
 id= REAL009914
 te= Pyridinforbindelser
@@ -88834,11 +88813,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010305
 te= Ulykkesrisiko
-ba= nk
-ba= nb
-nn= Ulukkesrisiko
-nn= Ulykkesrisiko
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T16:00:46Z
+fly= REAL003740
 
 id= REAL010306
 te= Filsystemer
@@ -88957,16 +88934,8 @@ tie= 2015-02-03T00:00:00Z
 
 id= REAL010321
 te= Web-domener
-ba= ni
-bf= Vevområder
-nn= Vevdomene
-nn= Vev-domene
-nn= Vev-område
-nn= Web-domene
-nn= Web-område
-nn= Webdomene
-en= Web domains
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T20:26:15Z
 
 id= REAL010322
 te= Kjemiske analyser
@@ -97102,10 +97071,9 @@ fly= REAL002839
 
 id= REAL011335
 te= Like-til-like systemer
-ba= ni
-nn= Like-til-like system
-en= Peer-to-peer systems
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T20:33:33Z
+fly= REAL013042
 
 id= REAL011336
 te= Sosiale prosesser
@@ -101103,9 +101071,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011778
 te= Lærerressurser
-ba= nk
-nn= Lærarressursar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T18:56:13Z
 
 id= REAL011779
 te= Kystplanter
@@ -101853,7 +101820,9 @@ ba= ni
 ba= nk
 ba= ne
 ba= nf
+bf= Simulatorer
 nn= Simulering
+nn= Simulatorar
 tio= 2014-08-25T00:00:00Z
 st= REAL029769
 
@@ -114478,13 +114447,20 @@ tis= 2018-07-16T16:54:28Z
 
 id= REAL013042
 te= Like-til-like
-bf= P2p
 bf= Peer-to-peer
+bf= Like-til-like nettverk
+bf= Like-til-like systemer
+bf= Likemannsnettverk
+ak= P2P
 nn= Like-til-like
-nn= P2P
 nn= Peer-to-peer
+nn= Like-til-like nettverk
+nn= Like-til-like system
 en= Peer-to-peer
+en= Peer-to-peer networks
+en= Peer-to-peer systems
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T20:34:00Z
 
 id= REAL013043
 te= Likevektsteorier
@@ -114537,8 +114513,8 @@ st= REAL023058
 
 id= REAL013050
 te= Logaritmisk barrieremetode
-nn= Logaritmisk barrieremetode
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T20:35:28Z
 
 id= REAL013051
 te= Luminiserende organer
@@ -114554,11 +114530,15 @@ tis= 2018-07-19T13:44:57Z
 id= REAL013053
 te= Læringsmiljøer
 bf= Læringsarenaer
+bf= Studieforhold
 nn= Læringsmiljø
 nn= Læringsarenaer
 nn= Læringsarenaar
+nn= Studietilhøve
+nn= Studieforhold
 tio= 2014-08-25T00:00:00Z
 st= REAL018990
+st= REAL031960
 
 id= REAL013054
 te= Læringsteknologier
