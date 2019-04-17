@@ -918,3 +918,14 @@ en= Flash cards
 tio= 2018-04-11T11:19:52Z
 tie= 2018-04-11T11:29:48Z
 
+id= REAL032114
+te= Kursmateriell
+bf= Kurskompendier
+bf= Kursmateriale
+nn= Kursmateriell
+nn= Kurskompendium
+nn= Kursmateriale
+en= Course materials
+tio= 2019-04-17T10:24:00Z
+tie= 2019-04-17T10:29:49Z
+
