@@ -1,6 +1,13 @@
 {
-  "REAL006805": {
-    "prefLabel": "Exploration",
+  "REAL013776": {
+    "prefLabel": "Hostmanship",
     "altLabel": []
+  },
+  "REAL009173": {
+    "prefLabel": "Timetables",
+    "altLabel": [
+      "Timetable construction",
+      "Timetable problem"
+    ]
   }
 }

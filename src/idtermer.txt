@@ -5271,10 +5271,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000597
 te= Parallell simulering
-ba= ni
-nn= Parallell simulering
-en= Parallel simulation
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T20:46:11Z
 
 id= REAL000598
 te= Ferskvannsundersøkelser
@@ -19239,9 +19237,15 @@ tis= 2019-04-15T14:06:45Z
 id= REAL002229
 te= Video
 ba= ni
+bf= Digital video
+bf= E-video
 nn= Video
+nn= Digital video
+nn= E-video
 en= Video
+en= Digital video
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T18:38:13Z
 
 id= REAL002230
 te= Seksuell utvikling
@@ -21708,10 +21712,8 @@ fly= REAL004418
 
 id= REAL002511
 te= Objektorienterte strukturer
-ba= ni
-nn= Objektorienterte strukturar
-en= Objectoriented structures
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T19:49:09Z
 
 id= REAL002512
 te= Borehullstabilitet
@@ -29391,9 +29393,11 @@ st= REAL028766
 id= REAL003398
 te= Automatisk programmering
 ba= ni
+ut= REAL012851
 nn= Automatisk programmering
 en= Automatic programming
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T16:45:35Z
 
 id= REAL003399
 te= Lagesild
@@ -29955,10 +29959,8 @@ tie= 2014-11-12T00:00:00Z
 
 id= REAL003465
 te= Talekompresjon
-ba= ni
-nn= Talekompresjon
-en= Speech compression
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T20:29:24Z
 
 id= REAL003466
 te= Luftputefartøyer
@@ -38487,15 +38489,10 @@ tis= 2018-03-02T20:06:12Z
 
 id= REAL004462
 te= Prosesskontroll
-ba= ni
-ba= nk
-so= REAL008334
-ot= REAL013024
-ut= REAL008512
-nn= Prosesskontroll
-en= Process control
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-17T16:37:33Z
+tis= 2019-04-17T17:18:20Z
+fly= REAL005436
 
 id= REAL004463
 te= Hyaluronan
@@ -40337,10 +40334,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004689
 te= Åpne nettverk
-ba= ni
-nn= Opne nettverk
-en= Open access networks
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T20:28:46Z
 
 id= REAL004690
 te= Dehydrering
@@ -41486,6 +41481,7 @@ ba= ns
 nn= Ergonomi
 en= Ergonomics
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T17:55:09Z
 
 id= REAL004824
 te= Optisk kommunikasjon
@@ -46507,7 +46503,13 @@ id= REAL005436
 te= Prosesstyring
 ba= ni
 ba= nk
+bf= Prosesskontroll
+so= REAL008334
+ot= REAL013024
+ut= REAL008512
 nn= Prosesstyring
+nn= Prosesskontroll
+en= Process control
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005437
@@ -54731,7 +54733,7 @@ en= Wide Area Information Service
 en= Wide Area Information Server
 en= WAIS
 tio= 2014-08-25T00:00:00Z
-tie= 2018-10-28T20:49:33Z
+tie= 2019-04-17T17:24:41Z
 st= REAL016623
 st= REAL018366
 st= REAL018986
@@ -58339,8 +58341,10 @@ id= REAL006779
 te= IT-drift
 ba= ni
 bf= Driftsmiljø
+bf= Drift (datasystemer)
 nn= It-drift
 nn= Driftsmiljø
+nn= Drift (datasystem)
 en= IT operations
 en= Information technology operations
 tio= 2014-08-25T00:00:00Z
@@ -62097,12 +62101,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007215
 te= Drift (datasystemer)
-ba= ni
-nn= Drift (datasystem)
-en= IT operations
-en= Information technology operations
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-04T00:00:00Z
+tis= 2019-04-17T20:47:40Z
+fly= REAL006779
 
 id= REAL007216
 te= Doping
@@ -71537,7 +71539,7 @@ ba= nm
 bf= Industrikontrollsystemer
 bf= Industrielle kontrollsystemer
 bf= Prosesskontrollsystemer
-so= REAL004462
+so= REAL005436
 ot= REAL013024
 nn= Kontrollsystem
 nn= Prosesskontrollsystem
@@ -73215,7 +73217,6 @@ tie= 2015-01-29T00:00:00Z
 id= REAL008512
 te= Statistisk prosesskontroll
 ba= nk
-ot= REAL004462
 nn= Statistisk prosesskontroll
 tio= 2014-08-25T00:00:00Z
 
@@ -75297,9 +75298,13 @@ id= REAL008743
 te= Videokommunikasjon
 ba= ni
 bf= Telekonferanser
+bf= Videokonferanser
 nn= Videokommunikasjon
 nn= Telekonferansar
+nn= Videokonferansar
 en= Teleconferences
+en= Videoconferencing
+en= Videotelephony
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008744
@@ -76167,10 +76172,9 @@ tie= 2018-08-28T16:43:04Z
 
 id= REAL008848
 te= Interaktiv video
-ba= ni
-nn= Interaktiv video
-en= Interactive video
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T18:37:52Z
+fly= REAL002229
 
 id= REAL008849
 te= Instabilitet
@@ -79206,10 +79210,8 @@ st= REAL026306
 
 id= REAL009202
 te= Vektorarkitektur
-ba= ni
-nn= Vektorarkitektur
-en= Vector architecture
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T20:12:07Z
 
 id= REAL009203
 te= Muskelarbeid
@@ -79490,8 +79492,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL009235
 te= Videokoding
 ba= ni
+so= REAL011800
+so= REAL011610
 nn= Videokoding
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T18:35:00Z
 
 id= REAL009236
 te= Strålingsfysikk
@@ -88892,11 +88897,9 @@ st= REAL029195
 
 id= REAL010309
 te= Videokonferanser
-ba= ni
-nn= Videokonferansar
-en= Videoconferencing
-en= Videotelephony
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T18:35:33Z
+fly= REAL008743
 
 id= REAL010310
 te= Sportegn
@@ -89705,10 +89708,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010414
 te= Heterogene databaser
-ba= ni
-nn= Heterogene databasar
-en= Heterogenous databases
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T19:25:55Z
 
 id= REAL010415
 te= Nitrogensyklus
@@ -89935,7 +89936,7 @@ te= Digitalt fjernsyn
 ba= ni
 bf= Digital-tv
 bf= Mhp
-so= REAL011257
+so= REAL002229
 nn= Digitalt fjernsyn
 nn= Digital-tv
 nn= Mhp
@@ -90636,10 +90637,8 @@ tis= 2017-07-25T11:08:16Z
 
 id= REAL010536
 te= Integrerte datasystemer
-ba= ngh
-nn= Integrerte datasystem
-en= Embedded computer systems
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T19:23:21Z
 
 id= REAL010537
 te= Magnethaler
@@ -90928,10 +90927,8 @@ tis= 2018-07-16T14:13:46Z
 
 id= REAL010575
 te= Systemkonfigurasjon
-ba= ni
-nn= Systemkonfigurasjon
-en= System configuration
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T19:22:04Z
 
 id= REAL010576
 te= Forvitring
@@ -91630,10 +91627,8 @@ st= REAL027683
 
 id= REAL010653
 te= Interaktiv programutvikling
-ba= ni
-nn= Interaktiv programutvikling
-en= Interactive software development
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T19:13:46Z
 
 id= REAL010654
 te= Optisk stereoisomeri
@@ -92564,13 +92559,14 @@ nn= Primærhelsetenesta
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010770
-te= System Network Architecture
+te= Systems Network Architecture
 ba= ni
 ak= SNA
-nn= System Network Architecture
-en= System Network Architecture
+nn= Systems Network Architecture
+en= Systems Network Architecture
+de= Nettverksarkitektur fra IBM
 tio= 2014-08-25T00:00:00Z
-tie= 2017-09-26T14:23:33Z
+tie= 2019-04-17T19:19:59Z
 
 id= REAL010771
 te= Eksponering
@@ -93828,11 +93824,26 @@ tio= 2014-08-25T00:00:00Z
 st= REAL028826
 
 id= REAL010930
-te= Skjulte tjenester
+te= Dypnettet
 ba= ni
+bf= Skjulte nettet
+bf= Det mørke nettet
+bf= Det skjulte nettet
+bf= Skjulte tjenester
+bf= Det dype nettet
+nn= Djupnettet
 nn= Skjulte tenester
+nn= Det djupe nettet
+nn= Det mørke nettet
+nn= Det skjulte nettet
+en= Deep web
+en= Darknet
 en= Hidden services
+en= Invisible web
+en= Hidden web
+de= Samlebetegnelse på nettsider som ikke er indeksert av søkemotorer som Google og Bing. Omfavner også nettsider som ikke er mulig å få tilgang til uten å være tilkoblet nettverk som Tor.
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T19:11:44Z
 
 id= REAL010931
 te= Satellittdata
@@ -94771,10 +94782,8 @@ tis= 2018-07-05T11:14:13Z
 
 id= REAL011053
 te= Talenettverk
-ba= ni
-nn= Talenettverk
-en= Speech networks
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T19:33:12Z
 
 id= REAL011054
 te= Arbeidsmåling
@@ -95329,12 +95338,11 @@ tis= 2017-08-23T17:06:49Z
 fly= REAL001005
 
 id= REAL011114
-te= Terminalarbeid
-ba= ni
-bf= Terminaler
-nn= Terminalarbeid
-nn= Terminalar
+te= Dataarbeid
+de= Arbeid ved dataskjerm/terminal
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T17:57:31Z
+tis= 2019-04-17T18:01:24Z
 
 id= REAL011115
 te= Finanskriser
@@ -96073,10 +96081,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011212
 te= Deduktiv programsyntese
-ba= ni
-nn= Deduktiv programsyntese
-en= Deductive program synthesis
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T16:45:11Z
 
 id= REAL011213
 te= Symmetriske rom
@@ -96374,10 +96380,8 @@ tis= 2018-03-26T17:16:09Z
 
 id= REAL011249
 te= Lagrangeinterpolasjon
-ba= ni
-nn= Lagrangeinterpolasjon
-en= Lagrange interpolation
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T18:17:34Z
 
 id= REAL011250
 te= Fyllitt
@@ -96449,12 +96453,9 @@ st= REAL023142
 
 id= REAL011257
 te= Digital video
-ba= ni
-bf= E-video
-nn= Digital video
-nn= E-video
-en= Digital video
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T18:37:12Z
+fly= REAL002229
 
 id= REAL011258
 te= Tyngdekraft
@@ -96812,10 +96813,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011297
 te= Videodatabaser
-ba= ni
-nn= Videodatabasar
-en= Video databases
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T18:19:26Z
 
 id= REAL011298
 te= Einer
@@ -97399,11 +97398,8 @@ st= REAL031716
 
 id= REAL011369
 te= Koding
-ba= ni
-ba= nm
-nn= Koding
-en= Coding
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T18:25:43Z
 
 id= REAL011370
 te= Forgrenede makromolekyler
@@ -97989,11 +97985,8 @@ st= REAL024505
 
 id= REAL011436
 te= Parallelle rekursive prosedyrer
-ba= ni
-ak= PRP
-nn= Parallelle rekursive prosedyrar
-en= Parallel recursive procedures
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T18:26:05Z
 
 id= REAL011437
 te= Creol
@@ -98617,10 +98610,8 @@ tie= 2015-06-15T10:37:23Z
 
 id= REAL011508
 te= Integrerte tjenester
-ba= ni
-nn= Integrerte tenester
-en= Integerated services
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T19:27:17Z
 
 id= REAL011509
 te= Mosix
@@ -99504,10 +99495,12 @@ id= REAL011610
 te= Videokomprimering
 ba= ni
 bf= Videokompresjon
+so= REAL009235
 nn= Videokomprimering
 nn= Videokompresjon
 en= Video compression
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T18:35:01Z
 
 id= REAL011611
 te= Ekstrapolasjon
@@ -101338,11 +101331,13 @@ id= REAL011800
 te= Videobehandling
 ba= ni
 bf= Videoprosessering
+so= REAL009235
 nn= Videohandsaming
 nn= Videobehandling
 nn= Videoprosessering
 en= Video processing
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T18:34:45Z
 
 id= REAL011801
 te= Plastider
@@ -108343,13 +108338,9 @@ st= REAL024105
 
 id= REAL012527
 te= Utforskende søking
-ba= ni
-bf= Eksplorativ søking
-so= REAL006381
-nn= Utforskande søking
-nn= Eksplorativ søking
-en= Exploratory search
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T17:24:22Z
+fly= REAL006381
 
 id= REAL012528
 te= Såpe
@@ -112422,10 +112413,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012851
 te= Induktiv programmering
+ot= REAL003398
 nn= Induktiv programmering
 en= Inductive programming
 tio= 2014-08-25T00:00:00Z
-tie= 2019-04-17T16:44:39Z
+tie= 2019-04-17T16:45:35Z
 
 id= REAL012853
 te= Iris
@@ -114243,7 +114235,6 @@ ba= nm
 bf= Styringsteknikk
 bf= Styreteknikk
 ut= REAL010170
-ut= REAL004462
 ut= REAL004579
 ut= REAL008334
 nn= Reguleringsteknikk
@@ -123219,20 +123210,24 @@ tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T10:32:54Z
 
 id= REAL013656
-te= Grafiske designverktøy
+te= Grafiske designprogrammer
 ba= ni
 bf= Adobe Illustrator
 bf= Adobe InDesign
 bf= Grafiske formgivingsverktøy
+bf= Grafiske designverktøy
+bf= Grafiske formgivingsprogrammer
+nn= Grafiske designprogrammer
 nn= Grafiske designverktøy
 nn= Adobe Illustrator
 nn= Adobe InDesign
 nn= Grafiske formgivingsverktøy
+en= Graphic design programs
 en= Graphic design tools
 en= Adobe Illustrator
 en= Adobe InDesign
 tio= 2014-08-25T00:00:00Z
-tie= 2019-02-24T10:38:43Z
+tie= 2019-04-17T19:41:16Z
 
 id= REAL013657
 te= Regneark
