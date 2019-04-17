@@ -4808,6 +4808,8 @@ id= REAL000553
 te= Demonstrasjonsforsøk
 bf= Knallforelesninger
 bf= Demonstrasjonseksperimenter
+bf= Naturfagseksperimenter
+bf= Naturfagsforsøk
 so= REAL009965
 so= REAL002430
 so= REAL007999
@@ -4819,6 +4821,7 @@ nn= Knallforelesningar
 nn= Knallførelesningar
 en= Scientific demonstration
 en= Demonstration experiments
+en= Science experiments
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-16T17:39:24Z
 
@@ -25273,10 +25276,23 @@ en= Phenotypes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002914
-te= Sporingsteknologi
-ba= nk
-nn= Sporingsteknologi
+te= Tracere
+bf= Tracerisotoper
+bf= Radioaktive tracere
+bf= Fluorescende tracere
+bf= Tracerteknikk
+nn= Tracere
+nn= Tracerisotopar
+nn= Tracerteknikk
+en= Tracers
+en= Radioactive tracers
+en= Radiotracers
+en= Radioactive labels
+en= Fluorescent tracers
+en= Tracer technology
+de= Radioaktiv isotop eller fluorescerende forbindelse som blandes med et annet stoff for å følge hvordan det omsettes
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-16T21:50:41Z
 
 id= REAL002915
 te= Brukergrensesnitt
@@ -58519,6 +58535,7 @@ ba= nb
 bf= Utforsking
 so= REAL002323
 nn= Utforsking
+en= Exploration
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-16T16:10:19Z
 
@@ -73654,10 +73671,8 @@ st= REAL030000
 
 id= REAL008565
 te= Skadevirkninger
-ba= nk
-nn= Skadeverknader
-nn= Skadeverknadar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-16T21:39:19Z
 
 id= REAL008566
 te= Integrerte kretser
@@ -131525,10 +131540,10 @@ tie= 2017-03-02T18:17:07Z
 
 id= REAL031837
 te= Naturfagseksperimenter
-bf= Naturfagsforsøk
-en= Science experiments
 tio= 2017-03-02T19:09:58Z
 tie= 2017-03-02T19:11:32Z
+tis= 2019-04-16T22:22:16Z
+fly= REAL000553
 
 id= REAL031841
 te= Hercynske fjellkjedefoldning
