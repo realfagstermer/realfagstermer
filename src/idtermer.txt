@@ -17140,10 +17140,13 @@ ba= ns
 bf= Kolloid
 bf= Kolloide løsninger
 bf= Kolloidkjemi
+bf= Kolloidale partikler
 nn= Kolloid
 nn= Kolloide løysingar
 nn= Kolloidkjemi
+nn= Kolloidale partiklar
 en= Colloids
+en= Colloidal particles
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-25T10:55:44Z
 st= REAL018992
@@ -28990,9 +28993,8 @@ st= REAL029541
 
 id= REAL003353
 te= Protolyse
-ba= nk
-nn= Protolyse
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:11:40Z
 
 id= REAL003354
 te= Fysikkens lover
@@ -40005,9 +40007,8 @@ tie= 2018-02-13T20:56:29Z
 
 id= REAL004648
 te= Polymerisasjonskontroll
-ba= nk
-nn= Polymerisasjonskontroll
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:09:23Z
 
 id= REAL004649
 te= Flerkulturell kommunikasjon
@@ -41033,8 +41034,11 @@ tis= 2017-04-03T12:55:47Z
 id= REAL004773
 te= Preparativ syntese
 ba= nk
+bf= Preparativ kjemi
 nn= Preparativ syntese
+nn= Preparativ kjemi
 en= Preparative synthesis
+en= Preparative chemistry
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004774
@@ -42908,10 +42912,8 @@ st= REAL026233
 
 id= REAL005000
 te= Seismisk facies
-ba= nc
-nn= Seismisk facies
-en= Seismic facies
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:50:05Z
 
 id= REAL005001
 te= Sentrosomer
@@ -43617,7 +43619,11 @@ ba= nc
 ba= ne
 ba= nf
 ba= ns
+bf= Kromatografiske metoder
+bf= Kromatometri
 nn= Kromatografi
+nn= Kromatografiske metodar
+nn= Kromatometri
 en= Chromatography
 tio= 2014-08-25T00:00:00Z
 st= REAL014458
@@ -50905,14 +50911,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005952
 te= Klynger
-ba= nk
-bf= Clustere
-nn= Klynger
-nn= Cluster
-nn= Klyngjer
-en= Clusters
 tio= 2014-08-25T00:00:00Z
 tie= 2014-11-12T00:00:00Z
+tis= 2019-04-18T19:27:00Z
+fly= REAL008262
 
 id= REAL005953
 te= Hvit støy
@@ -70870,10 +70872,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008251
 te= Preparativ kjemi
-ba= nk
-nn= Preparativ kjemi
-en= Preparative chemistry
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:10:40Z
+fly= REAL004773
 
 id= REAL008252
 te= Amineringsreaksjoner
@@ -70961,9 +70962,20 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008262
 te= Molekylklynger
 ba= nk
+bf= Klynger
+bf= Clustere
+bf= Klyngeteori
+bf= Clusterteori
 nn= Molekylklynger
 nn= Molekylklyngjer
+nn= Klynger
+nn= Cluster
+nn= Klyngjer
+nn= Klyngeteori
+nn= Clusterteori
+nn= Klyngjeteori
 en= Molecular clusters
+en= Clusters
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008263
@@ -75046,10 +75058,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008712
 te= Kolloidale partikler
-ba= nk
-nn= Kolloidale partiklar
-en= Colloidal particles
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:28:40Z
+fly= REAL002002
 
 id= REAL008713
 te= Studentutveksling
@@ -77109,10 +77120,13 @@ id= REAL008958
 te= Protonering
 ba= nk
 bf= Protonisering
+bf= Protonoverføring
 no= termwiki:http://www.termwiki.sprakradet.no/wiki/Protonering
 nn= Protonering
 nn= Protonisering
+nn= Protonoverføring
 en= Protonation
+en= Proton transfer
 de= prosess der man føyer proton til et atom, ion eller molekyl
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-05T20:53:29Z
@@ -79666,11 +79680,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009255
 te= Komplekse fluider
-ba= nk
-ba= nm
-nn= Komplekse fluid
-en= Complex fluids
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:32:55Z
 
 id= REAL009256
 te= Skuringsstriper
@@ -88058,11 +88069,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010218
 te= Immunisering
-ba= ne
-nn= Immunisering
-en= Immunization
-en= Immunisation
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:23:33Z
 
 id= REAL010219
 te= Jordomseilinger
@@ -88394,12 +88402,9 @@ tie= 2018-05-08T22:34:44Z
 
 id= REAL010256
 te= Klyngeteori
-ba= nk
-bf= Clusterteori
-nn= Klyngeteori
-nn= Clusterteori
-nn= Klyngjeteori
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:27:45Z
+fly= REAL008262
 
 id= REAL010257
 te= Occam
@@ -90867,10 +90872,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010565
 te= Rhodamin
-ba= nk
-nn= Rhodamin
-en= Rhodamine
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:13:35Z
 
 id= REAL010566
 te= Tekstilkonservering
@@ -95382,10 +95385,9 @@ tie= 2019-04-15T16:16:21Z
 
 id= REAL011119
 te= Protonoverføring
-ba= nk
-nn= Protonoverføring
-en= Proton transfer
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:12:51Z
+fly= REAL008958
 
 id= REAL011120
 te= Domenenavnstjener
@@ -100067,11 +100069,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011669
 te= Tørkeområder
-ba= ngh
-nn= Tørkeområde
-en= Arid areas
-en= Arid regions
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:56:28Z
+fly= REAL012691
 
 id= REAL011671
 te= Sulfidmineraler
@@ -101525,12 +101525,9 @@ st= REAL018016
 
 id= REAL011822
 te= Kromatografiske metoder
-ba= nk
-bf= Kromatometri
-nn= Kromatografiske metodar
-nn= Kromatometri
-en= Chromatography
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-18T19:39:26Z
+fly= REAL005083
 
 id= REAL011823
 te= Fluorerte etanoler
@@ -110496,12 +110493,15 @@ id= REAL012691
 te= Aride områder
 ba= ngh
 bf= Tørre områder
+bf= Tørkeområder
 nn= Aride område
 nn= Turre område
 nn= Tørre område
+nn= Tørkeområde
 en= Arid lands
 en= Arid environments
 en= Arid regions
+en= Arid areas
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012692
