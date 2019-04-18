@@ -4340,9 +4340,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000497
 te= Operatornormer
-ba= ni
-nn= Operatornormer
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T23:00:27Z
 
 id= REAL000498
 te= Cellegenetikk
@@ -8416,11 +8415,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000973
 te= Minnestruktur
-ba= ni
-bf= Lagerstruktur
-nn= Minnestruktur
-nn= Lagerstruktur
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T23:05:59Z
 
 id= REAL000974
 te= Vagus
@@ -15432,10 +15428,8 @@ tis= 2017-10-31T20:50:07Z
 
 id= REAL001790
 te= Monokrome bilder
-ba= ni
-nn= Monokrome bilete
-nn= Monokrome bilde
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:53:44Z
 
 id= REAL001791
 te= Farger
@@ -21284,10 +21278,8 @@ tis= 2017-09-26T12:29:16Z
 
 id= REAL002465
 te= Driftssikkerhet
-ba= nm
-nn= Driftstryggleik
-nn= Driftssikkerheit
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T23:23:08Z
 
 id= REAL002466
 te= Hegrer
@@ -40564,9 +40556,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004715
 te= Serieprosessorer
-ba= ni
-nn= Serieprosessorar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:59:22Z
 
 id= REAL004716
 te= Medisinsk utstyr
@@ -50337,10 +50328,8 @@ st= REAL027272
 
 id= REAL005885
 te= Interaktiv multimedia
-ba= ni
-nn= Interaktiv multimedia
-en= Interactive multimedia
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:55:22Z
 
 id= REAL005886
 te= Diskret kombinatorikk
@@ -51948,13 +51937,14 @@ ba= ni
 bf= Innføringsprosesser
 bf= Innføring av teknologi
 so= REAL009742
+so= REAL008415
 nn= Innføringsprosessar
 nn= Endringsprosessar
 nn= Innføring av teknologi
 en= Change processes
 en= Introduction of technology
 tio= 2014-08-25T00:00:00Z
-tie= 2019-04-16T13:35:42Z
+tie= 2019-04-17T22:17:06Z
 st= REAL026401
 
 id= REAL006073
@@ -60569,8 +60559,10 @@ tie= 2015-01-23T00:00:00Z
 id= REAL007035
 te= Nettverksflyt
 ba= ni
+so= REAL008270
 nn= Nettverksflyt
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T22:56:55Z
 
 id= REAL007036
 te= Mikrohabitater
@@ -71029,9 +71021,11 @@ tis= 2019-02-22T18:42:17Z
 id= REAL008270
 te= Trafikkanalyse
 ba= ni
+so= REAL007035
 nn= Trafikkanalyse
 en= Traffic analysis
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T22:56:54Z
 
 id= REAL008271
 te= Hjerneforskning
@@ -71344,9 +71338,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL008306
 te= Omstillinger
-ba= ns
-nn= Omstillingar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:16:57Z
+fly= REAL008415
 
 id= REAL008307
 te= Dataintegrasjon
@@ -72302,9 +72296,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL008415
 te= Omorganisering
 ba= ns
+bf= Omstrukturering
+bf= Omstillinger
+so= REAL006072
 nn= Omorganisering
+nn= Omstrukturering
+nn= Omstillingar
 tio= 2014-08-25T00:00:00Z
-tie= 2018-09-30T01:42:00Z
+tie= 2019-04-17T22:17:06Z
 
 id= REAL008416
 te= Måkefugler
@@ -77681,10 +77680,8 @@ fly= REAL002562
 
 id= REAL009027
 te= Protokollkonstruksjon
-ba= ni
-so= REAL002741
-nn= Protokollkonstruksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T23:03:00Z
 
 id= REAL009028
 te= Kvantitativ genetikk
@@ -78990,6 +78987,9 @@ nn= Tidtabellar
 nn= Tidtabellkonstruksjon
 nn= Timeplankonstruksjon
 nn= Timeplanproblemet
+en= Timetables
+en= Timetable construction
+en= Timetable problem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009174
@@ -79077,10 +79077,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009184
 te= Integraltabeller
-ba= nm
-nn= Integraltabellar
 tio= 2014-08-25T00:00:00Z
-st= REAL020188
+tis= 2019-04-17T23:16:12Z
 
 id= REAL009185
 te= Lavoisier
@@ -79836,9 +79834,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009273
 te= Diagonalisering
-ba= ni
-nn= Diagonalisering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:31:29Z
+fly= REAL012467
 
 id= REAL009274
 te= Kaolinitt
@@ -85860,9 +85858,12 @@ ba= ngh
 ba= nm
 ba= ns
 bf= Datanettverk
+bf= Høyhastighetsnett
 so= REAL009975
 nn= Datanett
 nn= Datanettverk
+nn= Snøggnett
+nn= Høghastigheitsnett
 en= Computer networks
 tio= 2014-08-25T00:00:00Z
 tie= 2015-05-18T07:51:14Z
@@ -92220,10 +92221,9 @@ st= REAL027467
 
 id= REAL010732
 te= Høyhastighetsnett
-ba= ni
-nn= Snøggnett
-nn= Høghastigheitsnett
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:33:15Z
+fly= REAL009980
 
 id= REAL010733
 te= Galoisteori
@@ -95194,9 +95194,8 @@ tis= 2018-05-08T22:48:58Z
 
 id= REAL011094
 te= Multimediatjenere
-ba= ni
-nn= Multimediatenarar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:55:05Z
 
 id= REAL011095
 te= Glasselektroder
@@ -95987,6 +95986,7 @@ bf= Symbolsk matematisk databehandling
 bf= Algebraisk databehandling
 bf= Symbolsk beregning
 bf= Algebraiske metoder
+bf= Matematisk databehandling
 nn= Symbolsk datahandsaming
 nn= Symbolsk databehandling
 nn= Symbolsk matematisk databehandling
@@ -95995,6 +95995,8 @@ nn= Algebraisk datahandsaming
 nn= Algebraisk databehandling
 nn= Symbolsk berekning
 nn= Algebraiske metodar
+nn= Matematisk datahandsaming
+nn= Matematisk databehandling
 en= Symbolic computation
 en= Algebraic computation
 en= Computer algebra
@@ -102094,9 +102096,8 @@ tis= 2018-07-26T12:53:01Z
 
 id= REAL011886
 te= Normalisering
-ba= ni
-nn= Normalisering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:57:20Z
 
 id= REAL011887
 te= Nitrater
@@ -105105,9 +105106,9 @@ st= REAL026496
 
 id= REAL012250
 te= Matematisk databehandling
-nn= Matematisk datahandsaming
-nn= Matematisk databehandling
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-17T22:36:48Z
+fly= REAL011198
 
 id= REAL012251
 te= Skredfare
@@ -107638,6 +107639,7 @@ en= Linear algebra
 ms= 15
 dw= 512.5
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-17T22:31:44Z
 st= REAL014762
 st= REAL024072
 
@@ -124827,6 +124829,7 @@ tie= 2019-04-17T13:20:49Z
 id= REAL013776
 te= Vertskap
 nn= Vertskap
+en= Hostmanship
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013777
