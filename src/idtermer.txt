@@ -2766,6 +2766,7 @@ id= REAL000317
 te= Begrenset variasjon
 ba= nm
 nn= Avgrensa variasjon
+en= Bounded variation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000318
@@ -8842,6 +8843,7 @@ id= REAL001016
 te= Læringssentre
 ba= ns
 nn= Læringssenter
+en= Learning centers
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001017
@@ -10245,6 +10247,7 @@ id= REAL001182
 te= Miljødata
 ba= nb
 nn= Miljødata
+en= Environmental data
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001183
@@ -13286,6 +13289,7 @@ id= REAL001533
 te= Interpolasjonsrom
 ba= nm
 nn= Interpolasjonsrom
+en= Interpolation spaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001534
@@ -14712,6 +14716,7 @@ id= REAL001703
 te= Paranormale fenomener
 ba= ns
 nn= Paranormale fenomen
+en= Paranormal phenomena
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001704
@@ -15591,6 +15596,8 @@ ba= ns
 bf= Varmluftballonger
 no= Usikker på om litteraturbelegget er varmluftballonger og/eller hydrogenballonger
 nn= Luftballongar
+en= Air balloons
+en= Hot air balloons
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-24T17:16:53Z
 st= REAL018693
@@ -16606,6 +16613,7 @@ id= REAL001935
 te= Laboratorieutstyr
 ba= nk
 nn= Laboratorieutstyr
+en= Laboratory equipment
 tio= 2014-08-25T00:00:00Z
 st= REAL014957
 st= REAL023639
@@ -19697,6 +19705,7 @@ id= REAL002289
 te= Stoppeproblemet
 ba= ni
 nn= Stoppeproblem
+en= Stopping problem
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002291
@@ -20388,6 +20397,8 @@ id= REAL002358
 te= Minimalisering
 ba= ni
 nn= Minimalisering
+en= Minification
+en= Minimization
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002359
@@ -28529,6 +28540,7 @@ nn= Skuleklassar
 nn= Skoleklassar
 nn= Skoleklasser
 nn= Skuleklasser
+en= School classes
 tio= 2014-08-25T00:00:00Z
 tie= 2014-12-04T00:00:00Z
 
@@ -33863,6 +33875,7 @@ te= Interplanetarisk plasma
 ba= na
 so= REAL012093
 nn= Interplanetarisk plasma
+en= Interplanetary plasma
 tio= 2014-08-25T00:00:00Z
 tie= 2017-02-17T21:19:12Z
 
@@ -35885,6 +35898,7 @@ bf= Luftskip
 bf= Luftfartøy
 nn= Luftfartøy
 nn= Luftskip
+en= Aircrafts
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-12T11:51:28Z
 st= REAL027441
@@ -38054,6 +38068,7 @@ id= REAL004415
 te= Militærvesen
 ba= ns
 nn= Militærvesen
+en= Military
 tio= 2014-08-25T00:00:00Z
 st= REAL016001
 st= REAL023822
@@ -39951,6 +39966,7 @@ te= Vindusprogrammering
 ba= ni
 so= REAL010757
 nn= Vindaugsprogrammering
+en= Window programming
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-24T10:23:22Z
 
@@ -41764,6 +41780,7 @@ id= REAL004861
 te= Teknisk dokumentasjon
 ba= ni
 nn= Teknisk dokumentasjon
+en= Technical documentation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004862
@@ -44305,6 +44322,8 @@ id= REAL005167
 te= Omt
 ba= ni
 nn= Omt
+en= OMT
+en= Object-modeling technique
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
 
@@ -44885,6 +44904,7 @@ id= REAL005233
 te= Tjenester
 ba= ns
 nn= Tenester
+en= Services
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005234
@@ -46093,6 +46113,7 @@ ba= nb
 ba= ne
 nn= Skular
 nn= Skolar
+en= Schools
 tio= 2014-08-25T00:00:00Z
 st= REAL019925
 
@@ -50265,6 +50286,8 @@ te= Språkteori
 ba= ni
 so= REAL013261
 nn= Språkteori
+en= Language theory
+en= Theories of language
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005878
@@ -51945,6 +51968,7 @@ nn= Endringsprosessar
 nn= Innføring av teknologi
 en= Change processes
 en= Introduction of technology
+en= Introduction process
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-17T22:17:06Z
 st= REAL026401
@@ -52081,6 +52105,7 @@ id= REAL006090
 te= Konversasjonsanalyse
 ba= ni
 nn= Konversasjonsanalyse
+en= Conversation analyses
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006091
@@ -54370,6 +54395,7 @@ id= REAL006345
 te= Hyperflater
 ba= nm
 nn= Hyperflater
+en= Hypersurfaces
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-30T16:37:35Z
 
@@ -57850,6 +57876,7 @@ te= Funksjonsrom
 ba= ni
 ba= nm
 nn= Funksjonsrom
+en= Function spaces
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006722
@@ -58751,6 +58778,7 @@ id= REAL006832
 te= Interplanetarisk rom
 ba= na
 nn= Interplanetarisk rom
+en= Interplanetary space
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006833
@@ -60563,6 +60591,8 @@ te= Nettverksflyt
 ba= ni
 so= REAL008270
 nn= Nettverksflyt
+en= Network flow
+en= Traffic flow
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-17T22:56:55Z
 
@@ -60896,6 +60926,7 @@ ba= na
 ba= nm
 ba= ns
 nn= Paradigme
+en= Paradigms
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007075
@@ -61283,6 +61314,7 @@ id= REAL007113
 te= Miljøaspekter
 ba= nb
 nn= Miljøaspekt
+en= Environmental aspects
 tio= 2014-08-25T00:00:00Z
 st= REAL018355
 
@@ -70465,6 +70497,8 @@ ba= ni
 bf= Strukturell analyse
 nn= Strukturert analyse
 nn= Strukturell analyse
+en= Structured analysis
+en= Structured design
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008204
@@ -70810,6 +70844,7 @@ id= REAL008243
 te= Generaliserte funksjoner
 ba= nm
 nn= Generaliserte funksjonar
+en= Generalized functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008244
@@ -71872,6 +71907,7 @@ id= REAL008368
 te= Multimediadatabaser
 ba= ni
 nn= Multimediadatabasar
+en= Multimedia databases
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008371
@@ -72314,6 +72350,8 @@ so= REAL006072
 nn= Omorganisering
 nn= Omstrukturering
 nn= Omstillingar
+en= Restructuring
+en= Reorganization
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-17T22:17:06Z
 
@@ -73668,6 +73706,7 @@ te= Tegnekunst
 ba= ni
 so= REAL009368
 nn= Teiknekunst
+en= Drawing
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008564
@@ -74232,6 +74271,7 @@ ba= ne
 ba= nm
 ba= ns
 nn= Medisinsk forsking
+en= Medical research
 tio= 2014-08-25T00:00:00Z
 st= REAL026293
 
@@ -75315,6 +75355,7 @@ nn= Videokonferansar
 en= Teleconferences
 en= Videoconferencing
 en= Videotelephony
+en= Video communication
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008744
@@ -77488,6 +77529,7 @@ id= REAL008999
 te= Programkvalitet
 ba= ni
 nn= Programkvalitet
+en= Software quality
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009000
@@ -79507,6 +79549,8 @@ ba= ni
 so= REAL011800
 so= REAL011610
 nn= Videokoding
+en= Video coding
+en= Video codecs
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-17T18:35:00Z
 
@@ -80658,6 +80702,7 @@ ba= ni
 bf= Optiske brytere
 nn= Optiske krinsar
 nn= Optiske brytarar
+en= Optical circuits
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009371
@@ -82498,6 +82543,7 @@ id= REAL009601
 te= Materiell kultur
 ba= ns
 nn= Materiell kultur
+en= Material culture
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009602
@@ -83656,6 +83702,7 @@ id= REAL009733
 te= Gruppealgebraer
 ba= nm
 nn= Gruppealgebraer
+en= Group algebras
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009735
@@ -86573,6 +86620,7 @@ id= REAL010057
 te= Medisinutdanning
 ba= ns
 nn= Medisinutdanning
+en= Medical education
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010058
@@ -87312,6 +87360,7 @@ id= REAL010137
 te= Kompakte grupper
 ba= nm
 nn= Kompakte grupper
+en= Compact groups
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010138
@@ -91509,6 +91558,7 @@ ba= nm
 ba= nq
 ba= ns
 nn= Miljø
+en= Environment
 tio= 2014-08-25T00:00:00Z
 st= REAL014348
 st= REAL014466
@@ -101508,6 +101558,7 @@ ba= ni
 so= REAL010493
 no= Studieretning
 nn= Systemarbeid
+en= Systems engineering
 tio= 2014-08-25T00:00:00Z
 st= REAL015666
 st= REAL020551
@@ -102953,6 +103004,7 @@ id= REAL011985
 te= Ytelse
 ba= ni
 nn= Yting
+en= Performance
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011986
@@ -103078,6 +103130,7 @@ te= Medisinsk ultralyd
 ba= ni
 nn= Medisinsk ultraljod
 nn= Medisinsk ultralyd
+en= Medical ultrasound
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012001
@@ -103508,6 +103561,7 @@ id= REAL012061
 te= Læringssystemer
 ba= ni
 nn= Læringssystem
+en= Learning systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012062
@@ -104815,6 +104869,7 @@ nn= Personalarbeid
 nn= Personalstyring
 nn= Personalforvalting
 nn= Personalforvaltning
+en= Human resource management
 tio= 2014-08-25T00:00:00Z
 tie= 2016-05-24T14:24:15Z
 st= REAL020904
@@ -112476,6 +112531,7 @@ fly= REAL006821
 id= REAL012859
 te= Interplanetariske magnetfelt
 nn= Interplanetariske magnetfelt
+en= Interplanetary magnetic fields
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012860
@@ -114570,6 +114626,7 @@ nn= Læringsarenaer
 nn= Læringsarenaar
 nn= Studietilhøve
 nn= Studieforhold
+en= Learning environments
 tio= 2014-08-25T00:00:00Z
 st= REAL018990
 st= REAL031960
@@ -127362,6 +127419,7 @@ st= REAL031248
 id= REAL013914
 te= Matforsyning
 nn= Matforsyning
+en= Food supply
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013915
@@ -128231,6 +128289,7 @@ st= REAL028064
 id= REAL013971
 te= Veistøv
 nn= Vegstøv
+en= Road dust
 tio= 2014-08-25T00:00:00Z
 
 id= REAL013972

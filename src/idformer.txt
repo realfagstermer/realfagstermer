@@ -288,6 +288,7 @@ id= REAL030096
 te= Løsningsforslag
 bf= Fasiter
 bf= Løsningsmanualer
+en= Solution manuals
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030097
