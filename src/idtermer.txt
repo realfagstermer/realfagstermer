@@ -5261,13 +5261,9 @@ fly= REAL012584
 
 id= REAL000596
 te= Journalføring
-ba= ns
-bf= Journalskriving
-nn= Journalføring
-nn= Journalskriving
-en= Journaling
-en= Journal writing
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T19:11:37Z
+fly= REAL013670
 
 id= REAL000597
 te= Parallell simulering
@@ -24167,18 +24163,9 @@ st= REAL025049
 
 id= REAL002788
 te= Grenserett
-ba= ngh
-bf= Grensespørsmål
-nn= Grenserett
-nn= Grensespørsmål
-en= Border law
-en= Border policy
-en= Border regulations
-en= Border issues
-en= Border conflicts
 tio= 2014-08-25T00:00:00Z
 tie= 2017-05-11T14:27:29Z
-st= REAL022245
+tis= 2019-04-20T19:26:32Z
 
 id= REAL002789
 te= Intelligens
@@ -26418,14 +26405,10 @@ fly= REAL008221
 
 id= REAL003050
 te= Fysiske metoder
-ba= nb
-ba= nc
-so= REAL004314
 no= Brukes i streng
-nn= Fysiske metodar
-en= Physical methods
 tio= 2014-08-25T00:00:00Z
 tie= 2018-05-09T18:38:48Z
+tis= 2019-04-20T19:07:57Z
 
 id= REAL003051
 te= Mikrobiell økologi
@@ -30577,12 +30560,15 @@ ba= nk
 ba= nb
 ba= nm
 ba= ns
+bf= Intelligente systemer
 ak= AI
 so= REAL001189
 so= REAL007657
 ut= REAL005669
 nn= Kunstig intelligens
+nn= Intelligente system
 en= Artificial intelligence
+en= Intelligent systems
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-22T17:49:39Z
 st= REAL018643
@@ -32503,12 +32489,16 @@ ba= nb
 ba= nm
 ba= ns
 bf= Universitetsutdanning
+so= REAL012220
 nn= Høgare utdanning
 nn= Høgre utdanning
 nn= Universitetsutdanning
 en= Higher education
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-20T19:02:05Z
 st= REAL026185
+st= REAL024931
+st= REAL026698
 
 id= REAL003752
 te= Fruktbarhet
@@ -33727,10 +33717,8 @@ st= REAL029028
 
 id= REAL003893
 te= Klassikere
-ba= nm
-nn= Klassikarar
-en= Classics
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T21:07:42Z
 
 id= REAL003894
 te= Parallellalgoritmer
@@ -34274,10 +34262,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003960
 te= Havrettskonvensjonen
-ba= nc
-nn= Havrettskonvensjonen
-en= United Nations Convention on the Law of the Sea
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T20:56:52Z
 
 id= REAL003961
 te= Litiumforbindelser
@@ -36584,12 +36570,9 @@ tis= 2019-04-09T15:10:16Z
 
 id= REAL004242
 te= Forskningssamarbeid
-ba= ngh
-nn= Forskingssamarbeid
-en= Research collaboration
 tio= 2014-08-25T00:00:00Z
-st= REAL026695
-st= REAL029057
+tis= 2019-04-20T19:25:44Z
+fly= REAL013965
 
 id= REAL004243
 te= Stepper
@@ -37255,7 +37238,6 @@ st= REAL022028
 id= REAL004314
 te= Fysiske enheter
 ba= nk
-so= REAL003050
 nn= Fysiske einingar
 en= Physical units
 tio= 2014-08-25T00:00:00Z
@@ -38197,15 +38179,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL004424
 te= Interferens
-ba= ni
-ba= nk
-ba= na
-ba= nb
-ba= nf
-nn= Interferens
-en= Interference
 tio= 2014-08-25T00:00:00Z
-st= REAL028524
+tis= 2019-04-20T21:07:10Z
 
 id= REAL004425
 te= Maskiner
@@ -38772,9 +38747,9 @@ st= REAL017523
 
 id= REAL004493
 te= Tensorregning
-ba= na
-nn= Tensorrekning
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T19:03:14Z
+fly= REAL005806
 
 id= REAL004494
 te= Jackson system design
@@ -42248,14 +42223,9 @@ st= REAL025687
 
 id= REAL004917
 te= Forskningsprogrammer
-ba= na
-ba= nb
-ba= ngh
-nn= Forskingsprogram
-en= Research programmes
 tio= 2014-08-25T00:00:00Z
-st= REAL017743
-st= REAL020020
+tis= 2019-04-20T19:04:47Z
+fly= REAL006010
 
 id= REAL004918
 te= Naturinngrep
@@ -44334,17 +44304,19 @@ bf= Vitenskapelig kommunikasjon
 bf= Vitenskapskommunikasjon
 bf= Forskningsformidling
 bf= Formidling
+bf= Kunnskapsformidling
 so= REAL013496
 ot= REAL013434
-ut= REAL008022
 nn= Vitskapsformidling
 nn= Vitskapleg kommunikasjon
 nn= Vitskapeleg kommunikasjon
 nn= Vitskapskommunikasjon
 nn= Forskingsformidling
 nn= Formidling
+nn= Kunnskapsformidling
 en= Science communication
 en= Research mediation
+en= Dissemination of knowledge
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-29T16:12:00Z
 
@@ -49701,6 +49673,7 @@ ba= na
 ba= nm
 nn= Tensoranalyse
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-20T19:03:21Z
 
 id= REAL005807
 te= Univac
@@ -51394,12 +51367,15 @@ ba= ns
 bf= Forsking
 bf= Forskningsarbeid
 bf= Forskningsprosjekter
+bf= Forskningsprogrammer
 so= REAL031771
 nn= Forsking
 nn= Forskingsarbeid
 nn= Forskingsprosjekt
+nn= Forskingsprogram
 en= Research
 en= Research projects
+en= Research programmes
 tio= 2014-08-25T00:00:00Z
 tie= 2017-10-26T19:01:44Z
 st= REAL014172
@@ -52289,13 +52265,9 @@ st= REAL022522
 
 id= REAL006107
 te= Samfunnsvitenskapelig metode
-ba= nm
-bf= Samfunnsvitenskapelige metoder
-nn= Samfunnsvitskapleg metode
-nn= Samfunnsvitskapeleg metode
-nn= Samfunnsvitskaplege metodar
-nn= Samfunnsvitskapelege metodar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T21:15:58Z
+fly= REAL013502
 
 id= REAL006108
 te= Sorg
@@ -65719,9 +65691,9 @@ tis= 2018-09-19T17:34:27Z
 
 id= REAL007641
 te= Samspill
-ba= nb
-nn= Samspel
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T21:16:23Z
+fly= REAL013674
 
 id= REAL007642
 te= Fiskeoljer
@@ -68933,10 +68905,9 @@ fly= REAL010181
 
 id= REAL008022
 te= Kunnskapsformidling
-ba= na
-nn= Kunnskapsformidling
-en= Dissemination of knowledge
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T21:09:17Z
+fly= REAL005168
 
 id= REAL008023
 te= Globuser
@@ -69736,15 +69707,9 @@ fly= REAL012721
 
 id= REAL008112
 te= Vitenskapelige betraktninger
-ba= nb
-bf= Vitenskapelig perspektiv
-nn= Vitskaplege betraktningar
-nn= Vitskapelege betraktningar
-en= Scientific considerations
-en= Scientific perspective
-en= Scientific viewpoint
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-15T19:45:12Z
+tis= 2019-04-20T21:24:26Z
 
 id= REAL008113
 te= Markedsanalyser
@@ -91524,11 +91489,14 @@ en= Mental functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010636
-te= Segmentering
+te= Bildesegmentering
 ba= ni
 ba= nk
+bf= Segmentering
+nn= Biletsegmentering
 nn= Segmentering
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-20T21:21:16Z
 
 id= REAL010637
 te= Deep space
@@ -96423,9 +96391,8 @@ st= REAL024844
 
 id= REAL011247
 te= Skipsinspeksjon
-ba= ni
-nn= Skipsinspeksjon
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T19:14:46Z
 
 id= REAL011248
 te= Temperaturnormaler
@@ -97765,10 +97732,9 @@ fly= REAL005338
 
 id= REAL011404
 te= Globale endringer
-ba= nb
-nn= Globale endringar
-en= Global changes
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T19:08:54Z
+fly= REAL012629
 
 id= REAL011405
 te= Utviklingsland
@@ -103299,10 +103265,9 @@ fly= REAL006873
 
 id= REAL012024
 te= Intelligente systemer
-ba= nf
-nn= Intelligente system
-en= Intelligent systems
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T19:10:29Z
+fly= REAL003530
 
 id= REAL012025
 te= Månebaser
@@ -104839,20 +104804,16 @@ fly= REAL012232
 
 id= REAL012219
 te= Tekniske høgskoler
-bf= Tekniske høyskoler
-so= REAL012220
-nn= Tekniske høgskular
-nn= Tekniske høgskolar
 tio= 2014-08-25T00:00:00Z
-st= REAL024931
-st= REAL026698
+tis= 2019-04-20T19:01:48Z
+fly= REAL003751
 
 id= REAL012220
 te= Høgskoler
 ba= nb
 ba= nq
 bf= Høyskoler
-so= REAL012219
+so= REAL003751
 nn= Høgskular
 nn= Høgskolar
 en= University colleges
@@ -109567,11 +109528,14 @@ ba= ngh
 bf= Globale miljøforandringer
 bf= Globale miljøproblemer
 bf= Global miljølære
+bf= Globale endringer
 nn= Globale miljøendringar
 nn= Global miljølære
 nn= Globale miljøforandringar
 nn= Globale miljøproblem
+nn= Globale endringar
 en= Global environmental change
+en= Global changes
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-16T00:00:00Z
 st= REAL021903
@@ -113968,9 +113932,8 @@ tie= 2019-03-18T18:59:03Z
 
 id= REAL012999
 te= Lagdelinger
-nn= Lagdelingar
-en= Stratification
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T21:11:33Z
 
 id= REAL013000
 te= Lagdelt strømning
@@ -115655,8 +115618,8 @@ tie= 2017-11-07T19:44:27Z
 
 id= REAL013163
 te= Tilrettelegging
-nn= Tilrettelegging
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T19:15:55Z
 
 id= REAL013164
 te= Tidsrekker
@@ -121100,8 +121063,14 @@ ba= ngh
 ba= nm
 ba= ns
 bf= Samfunnsvitenskaper
+bf= Samfunnsvitenskapelig metode
+bf= Samfunnsvitenskapelige metoder
 nn= Samfunnsvitskap
 nn= Samfunnsvitskapar
+nn= Samfunnsvitskapleg metode
+nn= Samfunnsvitskapeleg metode
+nn= Samfunnsvitskaplege metodar
+nn= Samfunnsvitskapelege metodar
 en= Social science
 en= Social sciences
 tio= 2014-08-25T00:00:00Z
@@ -123550,6 +123519,7 @@ nn= Elektronisk pasientjournal
 en= Patient journals
 en= Electronic patient journals
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-20T19:12:04Z
 
 id= REAL013671
 te= Interaksjonsdesign
@@ -123594,7 +123564,7 @@ nn= Økologisk samspel
 en= Ecological interactions
 en= Ecological interaction
 tio= 2014-08-25T00:00:00Z
-tie= 2019-03-01T13:00:32Z
+tie= 2019-04-20T21:16:31Z
 
 id= REAL013675
 te= Fenotypisk plastisitet
@@ -128198,9 +128168,14 @@ ba= ni
 ba= nb
 ba= nm
 ba= ns
+bf= Forskningssamarbeid
 so= REAL013966
 nn= Samarbeid
+nn= Forskingssamarbeid
+en= Research collaboration
 tio= 2014-08-25T00:00:00Z
+st= REAL026695
+st= REAL029057
 
 id= REAL013966
 te= Teamarbeid
