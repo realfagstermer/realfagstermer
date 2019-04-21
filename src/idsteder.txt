@@ -4393,6 +4393,7 @@ id= REAL031007
 te= Jorda
 ba= nc
 bf= Jorden
+bf= Verden
 en= Earth
 la= Tellus
 tio= 2015-02-20T13:08:04Z
@@ -4621,9 +4622,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031040
 te= Verden
-ba= nb
-ba= ns
 tio= 2015-02-20T13:08:04Z
+tis= 2019-04-20T21:40:33Z
+fly= REAL031007
 
 id= REAL031041
 te= Afghanistan

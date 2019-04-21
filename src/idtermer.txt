@@ -6248,10 +6248,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL000721
 te= Traktater
-ba= ne
-nn= Traktatar
 tio= 2014-08-25T00:00:00Z
-st= REAL020307
+tis= 2019-04-20T21:35:36Z
 
 id= REAL000722
 te= Ekteskapsproblemet
@@ -6654,9 +6652,8 @@ tis= 2018-07-19T18:51:21Z
 
 id= REAL000765
 te= Refraktorer
-ba= na
-nn= Refraktorar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T23:05:21Z
 
 id= REAL000766
 te= Lineære transformasjoner
@@ -9619,6 +9616,7 @@ id= REAL001106
 te= Tilstandsdiagrammer
 ba= ni
 nn= Tilstandsdiagram
+en= State diagrams
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001107
@@ -22094,7 +22092,9 @@ id= REAL002547
 te= Rekruttering
 ba= nb
 nn= Rekruttering
+de= I biologi, særlig marinbiologi, når en ung organisme knytter seg til en populasjon
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-20T23:00:54Z
 
 id= REAL002548
 te= Mikroøkonomi
@@ -26914,9 +26914,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003101
 te= Verkstedindustri
-ba= ni
-nn= Verkstadindustri
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T21:46:26Z
 
 id= REAL003102
 te= Elektrofysiologi
@@ -32496,8 +32495,8 @@ nn= Universitetsutdanning
 en= Higher education
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-20T19:02:05Z
-st= REAL026185
 st= REAL024931
+st= REAL026185
 st= REAL026698
 
 id= REAL003752
@@ -38123,9 +38122,8 @@ st= REAL029510
 
 id= REAL004419
 te= Storhusholdninger
-ba= nb
-nn= Storhushaldningar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T22:38:25Z
 
 id= REAL004420
 te= Esler
@@ -47645,11 +47643,8 @@ fly= REAL005612
 
 id= REAL005583
 te= Vitenskapelige teknikker
-ba= nb
-nn= Vitskaplege teknikkar
-nn= Vitskapelege teknikkar
 tio= 2014-08-25T00:00:00Z
-st= REAL031395
+tis= 2019-04-20T21:48:30Z
 
 id= REAL005584
 te= Modulteori
@@ -49774,10 +49769,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL005822
 te= Forskerrekruttering
-ba= ngh
-nn= Forskarrekruttering
-en= Researcher recruitment
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T23:01:26Z
 
 id= REAL005823
 te= Ioniserte gasser
@@ -68195,10 +68188,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL007943
 te= Wikipedia
-ba= ni
-nn= Wikipedia
-en= Wikipedia
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T21:27:15Z
 
 id= REAL007944
 te= Dioscorides
@@ -86341,9 +86332,8 @@ st= REAL021683
 
 id= REAL010030
 te= Relasjonsspråk
-ba= ni
-nn= Relasjonsspråk
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T22:53:25Z
 
 id= REAL010031
 te= Digitale kretser
@@ -91495,6 +91485,7 @@ ba= nk
 bf= Segmentering
 nn= Biletsegmentering
 nn= Segmentering
+en= Image segmentation
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-20T21:21:16Z
 
@@ -100419,9 +100410,11 @@ id= REAL011705
 te= Relasjonsdatabaser
 ba= ni
 ba= ns
+bf= Relasjonsmodeller
 ut= REAL008209
 ut= REAL008457
 nn= Relasjonsdatabasar
+nn= Relasjonsmodellar
 en= Relational databases
 tio= 2014-08-25T00:00:00Z
 tie= 2017-09-24T00:36:29Z
@@ -103855,9 +103848,9 @@ tie= 2019-02-24T09:53:28Z
 
 id= REAL012107
 te= Relasjonsmodeller
-ba= ni
-nn= Relasjonsmodellar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T22:54:47Z
+fly= REAL011705
 
 id= REAL012108
 te= Mikrobielle matter
@@ -104681,12 +104674,12 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012206
 te= Holdbarhet
-no= Mat. Brukes som underemneord. ml
 nn= Haldbarheit
 en= Storability
 en= Shelf life
+de= Maksimal lagringstid for mat
 tio= 2014-08-25T00:00:00Z
-tie= 2019-04-05T12:03:28Z
+tie= 2019-04-20T21:30:09Z
 
 id= REAL012207
 te= Legemiddelregning
@@ -116425,6 +116418,7 @@ ba= ngh
 bf= Ressursutnytting
 nn= Ressursutnytting
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-20T22:42:18Z
 
 id= REAL013236
 te= Gjenoppliving
@@ -116856,6 +116850,7 @@ ba= ns
 bf= Vitenskapsmenn
 bf= Vitenskapskvinner
 bf= Kvinnelige forskere
+bf= Vitenskapelig personale
 so= REAL013264
 so= REAL002815
 so= REAL010279
@@ -116864,9 +116859,12 @@ nn= Forskarar
 nn= Vitskapsmenn
 nn= Vitskapskvinner
 nn= Kvinnelege forskarar
+nn= Vitskapleg personale
+nn= Vitskapeleg personale
 en= Researchers
 tio= 2014-08-25T00:00:00Z
 tie= 2017-08-11T11:47:57Z
+st= REAL014809
 st= REAL015200
 st= REAL016695
 st= REAL018015
@@ -116887,6 +116885,7 @@ st= REAL027606
 st= REAL027941
 st= REAL028302
 st= REAL028867
+st= REAL029831
 st= REAL029902
 st= REAL029951
 
@@ -117121,10 +117120,9 @@ tie= 2016-11-16T11:17:50Z
 
 id= REAL013290
 te= Utnyttelse
-ba= nk
-bf= Utnytting
-nn= Utnytting
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-20T22:42:00Z
+fly= REAL013235
 
 id= REAL013291
 te= Rødrev
@@ -120133,7 +120131,6 @@ ba= ns
 nn= Mat
 en= Food
 tio= 2014-08-25T00:00:00Z
-st= REAL014115
 st= REAL017676
 st= REAL024601
 st= REAL026459
@@ -121370,21 +121367,9 @@ st= REAL028728
 
 id= REAL013513
 te= Vitenskapelig personale
-ba= fa
-ba= nb
-ba= nc
-ba= nm
-ba= ns
-nn= Vitskapleg personale
-nn= Vitskapeleg personale
 tio= 2014-08-25T00:00:00Z
-st= REAL014809
-st= REAL016418
-st= REAL019004
-st= REAL020527
-st= REAL026024
-st= REAL028718
-st= REAL029831
+tis= 2019-04-20T21:47:33Z
+fly= REAL013266
 
 id= REAL013514
 te= Den vitenskapelige revolusjon

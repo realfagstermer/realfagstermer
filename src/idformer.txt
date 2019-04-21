@@ -392,6 +392,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030110
 te= Tegneserier
+en= Comics
+en= Comic books
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030111
