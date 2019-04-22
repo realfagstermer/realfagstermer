@@ -2052,11 +2052,6 @@ real:c002539
   skos:exactMatch hume:c09552 ;
   skos:prefLabel "Development aid"@en, "Bistandsarbeid"@nb, "Bistandsarbeid"@nn .
 
-real:c002547
-  a skos:Concept ;
-  skos:exactMatch hume:c01516 ;
-  skos:prefLabel "Rekruttering"@nb, "Rekruttering"@nn .
-
 real:c002548
   a skos:Concept ;
   skos:exactMatch hume:c22371 ;

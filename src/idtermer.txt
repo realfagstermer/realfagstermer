@@ -3095,6 +3095,7 @@ id= REAL000360
 te= Programdokumentasjon
 ba= ni
 nn= Programdokumentasjon
+en= Software documentation
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000361
@@ -6206,6 +6207,7 @@ te= Prolegemidler
 ba= ne
 nn= Prolækjemiddel
 nn= Prolegemiddel
+en= Prodrugs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000716
@@ -19093,6 +19095,7 @@ id= REAL002208
 te= Programmeringsstiler
 ba= ni
 nn= Programmeringsstilar
+en= Programming styles
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002209
@@ -19612,6 +19615,7 @@ nn= Programdesign
 nn= Programutforming
 nn= Programvaredesign
 nn= Programvareutforming
+en= Program design
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-15T20:27:20Z
 
@@ -19709,6 +19713,7 @@ so= REAL013918
 so= REAL012657
 nn= Vitskaplege instrument
 nn= Vitskapelege instrument
+en= Scientific instruments
 tio= 2014-08-25T00:00:00Z
 tie= 2015-06-15T17:03:44Z
 st= REAL022754
@@ -22092,6 +22097,7 @@ id= REAL002547
 te= Rekruttering
 ba= nb
 nn= Rekruttering
+en= Recruitment
 de= I biologi, særlig marinbiologi, når en ung organisme knytter seg til en populasjon
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-20T23:00:54Z
@@ -25115,6 +25121,8 @@ ba= nf
 ba= nm
 ot= REAL013107
 nn= Vektoranalyse
+en= Vector calculus
+en= Vector analysis
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T17:39:48Z
 st= REAL027410
@@ -35386,6 +35394,7 @@ nn= Underprøvetaking
 nn= Omprøvetaking
 nn= Omsampling
 nn= Resampling
+en= Resampling
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004100
@@ -36789,6 +36798,7 @@ te= Reseptfrie legemidler
 ba= ne
 nn= Reseptfrie lækjemiddel
 nn= Reseptfrie legemiddel
+en= Over-the-counter drugs
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004261
@@ -38664,6 +38674,7 @@ id= REAL004483
 te= Religiøse sekter
 ba= ne
 nn= Religiøse sekter
+en= Religious sects
 tio= 2014-08-25T00:00:00Z
 
 id= REAL004484
@@ -43289,6 +43300,7 @@ id= REAL005044
 te= Produktutvikling
 ba= nk
 nn= Produktutvikling
+en= Product development
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005045
@@ -49921,6 +49933,7 @@ id= REAL005835
 te= Vektoralgebra
 ba= nm
 nn= Vektoralgebra
+en= Vector algebra
 tio= 2014-08-25T00:00:00Z
 
 id= REAL005836
@@ -59713,6 +59726,7 @@ ba= ni
 ba= nb
 ba= ns
 nn= Skriftleg kommunikasjon
+en= Written communication
 tio= 2014-08-25T00:00:00Z
 st= REAL014549
 st= REAL024865
@@ -60140,6 +60154,7 @@ te= Variasjonsanalyse
 ba= nb
 ba= nm
 nn= Variasjonsanalyse
+en= Variational analysis
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006983
@@ -66330,6 +66345,7 @@ te= Virtuelle observatorier
 ba= na
 ot= REAL004422
 nn= Virtuelle observatorium
+en= Virtual observatories
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T15:53:13Z
 
@@ -66810,6 +66826,7 @@ id= REAL007770
 te= Transcendentale funksjoner
 ba= nm
 nn= Transcendentale funksjonar
+en= Transcendental functions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL007771
@@ -70332,6 +70349,7 @@ id= REAL008187
 te= Ringdannelser
 ba= nk
 nn= Ringdanning
+en= Cyclization reactions
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008188
@@ -72106,6 +72124,8 @@ so= REAL031943
 so= REAL001277
 nn= Velferd
 nn= Sosial velferd
+en= Welfare
+en= Social welfare
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-20T11:23:19Z
 
@@ -82044,6 +82064,7 @@ id= REAL009556
 te= Syndromer
 ba= ne
 nn= Syndrom
+en= Syndromes
 tio= 2014-08-25T00:00:00Z
 
 id= REAL009557
@@ -88382,6 +88403,7 @@ id= REAL010253
 te= Programsemantikk
 ba= ni
 nn= Programsemantikk
+en= Software semantics
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010254
@@ -95668,6 +95690,7 @@ te= Rettssikkerhet
 ba= ns
 nn= Rettstryggleik
 nn= Rettssikkerheit
+en= Rule of law
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011160
@@ -116417,6 +116440,7 @@ ba= nb
 ba= ngh
 bf= Ressursutnytting
 nn= Ressursutnytting
+en= Resource exploitation
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-20T22:42:18Z
 
@@ -116455,6 +116479,9 @@ nn= Rettsvitskap
 nn= Jus
 nn= Juss
 nn= Rettslære
+en= Jurisprudence
+en= Legal theory
+en= Law
 tio= 2014-08-25T00:00:00Z
 st= REAL014296
 st= REAL024828
@@ -116467,6 +116494,7 @@ bf= Rettslige informasjonssystemer
 so= REAL013240
 nn= Rettsinformatikk
 nn= Rettslege informasjonssystem
+en= Legal informatics
 tio= 2014-08-25T00:00:00Z
 st= REAL020238
 
@@ -121390,6 +121418,7 @@ ba= na
 ut= REAL013514
 nn= Vitskaplege revolusjonar
 nn= Vitskapelege revolusjonar
+en= Scientific revolutions
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-02T19:12:45Z
 

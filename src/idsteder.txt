@@ -41,6 +41,7 @@ tio= 2014-08-25T00:00:00Z
 id= REAL031358
 te= Øvre Pasvik nasjonalpark
 nn= Øvre Pasvik nasjonalpark
+en= Øvre Pasvik national park
 tio= 2015-02-23T15:23:14Z
 tie= 2018-03-20T13:56:40Z
 
