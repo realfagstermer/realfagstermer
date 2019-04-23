@@ -82597,9 +82597,9 @@ id= REAL009611
 te= Ørretoppdrett
 ba= nb
 nn= Aureoppdrett
-en= Trout selective breeding
-en= Trout artificial selection
+en= Trout farming
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-23T10:38:06Z
 
 id= REAL009612
 te= Numerisk lineær algebra
@@ -108240,8 +108240,9 @@ te= Lakseoppdrett
 ba= nb
 ot= REAL004840
 nn= Lakseoppdrett
+en= Salmon farming
 tio= 2014-08-25T00:00:00Z
-tie= 2019-02-20T17:33:22Z
+tie= 2019-04-23T10:38:53Z
 st= REAL026891
 st= REAL028703
 
