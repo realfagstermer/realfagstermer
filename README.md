@@ -20,9 +20,11 @@ Tips:
 
 [![Throughput Graph](https://graphs.waffle.io/realfagstermer/realfagstermer/throughput.svg)](https://waffle.io/realfagstermer/realfagstermer/metrics)
 
-## Deltakere:
+## Bidragsytere
 
-Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
+(For å varsle alle: @realfagstermer/alle)
+
+Aktive deltakere fra Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 
 * [@BioHeidi](https://github.com/BioHeidi) :
   Heidi Konestabo, klassifiserer biovitenskap.
@@ -34,8 +36,6 @@ Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
   Gro Synnøve Nesland Lindgaard, klassifiserer litt innimellom katalogiseringen.
 * [@haraldse](https://github.com/haraldse) :
   Kirsten Borse Haraldsen, klassifiserer biovitenskap.
-* [@iloveyellow](https://github.com/iloveyellow) :
-  Solveig Isis Sørbø, tenker lure tanker om taksonomier
 * [@kyrretl](https://github.com/kyrretl) :
   Kyrre Traavik Låberg, biolog, utvikler Emnesøk.
 * [@starseekr](https://github.com/starseekr) :
@@ -49,19 +49,20 @@ Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 * Tone Charlotte Gadmar, klassifiserer kjemi.
 * Bente Kathrine Rasch, klassifiserer farmasi.
 
-Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
-* [@ken075](https://github.com/ken075) :
-  Kjersti Enerstvedt, klassifiserer geofag og teknologi.
+Aktive deltakere fra Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
+
+* [@beatekh](https://github.com/beatekh) :
+  Beate Krøvel Humberset, klassifiserer matematikk, informatikk og fysikk.
 * [@bubir](https://github.com/bubir) :
   Ingunn Rødland, klassifiserer kjemi.
+* [@ken075](https://github.com/ken075) :
+  Kjersti Enerstvedt, klassifiserer geofag og teknologi.
 * [@Caroline-A](https://github.com/Caroline-A) ; 
   Caroline Susanne Armitage, klassifiserer marinbiologi, delvis vikar for @Hypsibus.
 * [@Hypsibius](https://github.com/Hypsibius) :
   Hege Folkestad, klassifiserer biovitenskap.
-* [@beatekh](https://github.com/beatekh) :
-  Beate Krøvel Humberset, klassifiserer matematikk, informatikk og fysikk.
   
-Realfagstermers venner:
+Tidligere bidragsytere:
 
 * [@bibliomari](https://github.com/bibliomari) :
   Mari Lundevall, tidligere redaksjonsleder.
@@ -79,19 +80,45 @@ Realfagstermers venner:
   Simon Mitternacht, klassifiserte matematikk, informatikk og (teoretisk) fysikk (UiB).
 * [@mzyg](https://github.com/mzyg) :
   Marta Zygmuntowska, klassifiserte geofag, fysikk (anvendt) og teknologi (UiB)
+* [@iloveyellow](https://github.com/iloveyellow) :
+  Solveig Isis Sørbø, taksonomist
 
-For å varsle alle: @realfagstermer/alle
+### Prosjekt Realfagstermar på nynorsk
 
-## Prosjekt «Realfagstermar på nynorsk»
+Omsetjing til nynorsk ble ferdigstilt ved årsskiftet 2015/2016 av:
 
-Prosjektet ble ferdigstilt ved årsskiftet 2015/2016.
-
-Deltakarar:
 * [@mariaksv](https://github.com/mariaksv) : Maria Svendsen (biologi/kjemi)
 * [@jorgenem](https://github.com/jorgenem) : Jørgen Eriksson Midtbø (fysikk/matte)
 * [@totlevase](https://github.com/totlevase) : Vebjørn Sture (korrektur/nynorsk)
 
 Sjå [retningslinjer/diskusjon](https://github.com/realfagstermer/realfagstermer/wiki/Retningslinjer-for-nynorskomsetjing) og [eigen prosjektside](https://github.com/realfagstermer/prosjekt-nynorsk).
+
+### Prosjekt Kinderegg
+
+I perioden 2017-2019 har Realfagstermer blitt oversatt til engelsk, kategorisert og mappet til Wikidata med hjelp fra en rekke studenter:
+
+* Jeanette Viken ([@jeanetvi](https://github.com/jeanetvi))
+* Olav Bjerke ([@olavbje](https://github.com/olavbje))
+* Anja Maria Aardal ([@anjamaa](https://github.com/anjamaa))
+* Gunvor Evenrud ([@gunvorev](https://github.com/gunvorev))
+* Eirill Strand Hauge ([@eirillsh](https://github.com/eirillsh))
+* Jenny Marie Skytte Af Sätra ([@jennynnej](https://github.com/jennynnej))
+* Eirik Bager Sundmark ([@ebsundmark](https://github.com/ebsundmark))
+* Jakob Lindtorp ([@JakobUiO](https://github.com/JakobUiO))
+* Marit Sandberg ([@maritsan](https://github.com/maritsan))
+* Ole Andreas Hoel
+* Mirna Porobic ([@mirnap](https://github.com/mirnap))
+* Islam Hadjilah
+* Trine Høyås
+
+En bieffekt har vært generell kvalitetsheving av vokabularet gjennom at en rekke feil og sammenslåingskandidater har blitt oppdaget.
+Se [Prosjekt «Kinderegg»](https://github.com/realfagstermer/prosjekt-kinderegg) for mer om prosjektet.
+
+### Prosjekt Mapping mot Norsk WebDewey
+
+I perioden 2015-2019 har Humord og Realfagstermer blitt mappet til Norsk WebDewey.
+Som med Kinderegg-prosjektet har en bieffekt vært en generell kvalitetsheving av begge vokabular.
+Takk særlig til Hege Nenseth (@HegeNenseth), Kristine Aalrust Kristoffersen (@kaalrust) og Vibeke Stockinger Lundetræ (@vibekelundetrae) som har bidratt med mye på Realfagstermer-siden.
 
 ## Eksterne ressurser
 
