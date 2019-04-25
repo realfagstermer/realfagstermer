@@ -118,7 +118,7 @@ Se [Prosjekt «Kinderegg»](https://github.com/realfagstermer/prosjekt-kinderegg
 
 I perioden 2015-2019 har Humord og Realfagstermer blitt mappet til Norsk WebDewey.
 Som med Kinderegg-prosjektet har en bieffekt vært en generell kvalitetsheving av begge vokabular.
-Takk særlig til Hege Nenseth (@HegeNenseth), Kristine Aalrust Kristoffersen (@kaalrust) og Vibeke Stockinger Lundetræ (@vibekelundetrae) som har bidratt med mye på Realfagstermer-siden.
+Takk særlig til Hege Nenseth ([@HegeNenseth](https://github.com/HegeNenseth)), Kristine Aalrust Kristoffersen ([@kaalrust](https://github.com/kaalrust)) og Vibeke Stockinger Lundetræ ([@vibekelundetrae](https://github.com/vibekelundetrae)) som har bidratt med mye på Realfagstermer-siden.
 
 ## Eksterne ressurser
 
