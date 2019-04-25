@@ -1,24 +1,32 @@
 [![License](https://img.shields.io/github/license/realfagstermer/realfagstermer.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Build Status](https://travis-ci.org/realfagstermer/realfagstermer.svg?branch=master)](https://travis-ci.org/realfagstermer/realfagstermer)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/realfagstermer/realfagstermer.svg)]()
-[![Nye termforslag](https://img.shields.io/waffle/label/realfagstermer/realfagstermer/nytermforslag.svg
-)](https://github.com/realfagstermer/realfagstermer/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Anytermforslag)
 
+# Realfagstermers prosjektrom
 
-Realfagstermers prosjektrom
-==============
+Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjenester/emneord/realfagstermer.html).
+Vi bruker sakssystemet (*issue trackeren*) til GitHub for å diskutere og behandle nye termer og endringer.
 
-Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjenester/emneord/realfagstermer.html). Her tester vi *issue trackeren* til GitHub som saksbehandlingssystem for å diskutere og behandle nye termer og endringer.
+- [**→ Til termdiskusjonene**](https://github.com/realfagstermer/realfagstermer/issues)
 
-* [**→ Til termdiskusjonene**](https://github.com/realfagstermer/realfagstermer/issues)
+Sakene organiseres med etiketter (*labels*).
+Se [CONTRIBUTING.md](https://github.com/realfagstermer/realfagstermer/blob/master/CONTRIBUTING.md)
+for forklaring av de ulike etikettene.
 
-Tips:
-- Du [blir varslet](https://help.github.com/articles/about-notifications/) hver gang noen [nevner deg](https://github.com/blog/821). Du blir også varslet når det kommer nye innlegg i diskusjoner du har opprettet eller kommentert. Som standard får du varslinger på epost, men du kan endre dette [i innstillingene dine](https://github.com/settings/notifications).
- - Hvis du ønsker tilbakemeldinger fra bestemte personer, f.eks. fagreferenter i de-og-de fagene, er det lurt å [nevne dem](https://github.com/blog/821). Under finnes det en oversikt over hvem-er-hvem.
-- [Watch](https://help.github.com/articles/watching-repositories/ Watching repositories) : innebærer at du får en enorm mengde varsler om absolutt alle oppdateringer i alle saker. Det ønsker du mest sannsynlig ikke :)
-- Alle diskusjoner foregår i det samme rommet, men vi bruker etiketter (*labels*) for å organisering. Se [dette dokumentet](https://github.com/realfagstermer/realfagstermer/blob/master/CONTRIBUTING.md) for mer info.
+GitHub-tips for bidragsytere:
 
-[![Throughput Graph](https://graphs.waffle.io/realfagstermer/realfagstermer/throughput.svg)](https://waffle.io/realfagstermer/realfagstermer/metrics)
+- Du [blir varslet](https://help.github.com/articles/about-notifications/) hver gang noen
+  [nevner deg](https://github.com/blog/821).
+  Du blir også varslet når det kommer nye innlegg i diskusjoner du har opprettet eller kommentert.
+  Som standard får du varslinger på e-post, men du kan endre dette
+  [i innstillingene dine](https://github.com/settings/notifications).
+
+- Hvis du ønsker tilbakemeldinger fra bestemte personer, for eksempel fagansvarlige for bestemte fag,
+  kan det være lurt å [nevne dem](https://github.com/blog/821).
+  Under finnes det en oversikt over hvem som er hvem.
+
+- Funksjonaliteten *[watch](https://help.github.com/en/articles/watching-and-unwatching-repositories)*
+  gir varslinger om alle oppdateringer i alle saker og kan fort gi varslingsutmattelse.
 
 ## Bidragsytere
 
@@ -26,70 +34,70 @@ Tips:
 
 Aktive deltakere fra Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
 
-* [@BioHeidi](https://github.com/BioHeidi) :
+- [@BioHeidi](https://github.com/BioHeidi) :
   Heidi Konestabo, klassifiserer biovitenskap.
-* [@danmichaelo](https://github.com/danmichaelo) :
+- [@danmichaelo](https://github.com/danmichaelo) :
   Dan Michael O. Heggø, klassifiserer fysikk og materialvitenskap, utvikler Emnesøk.
-* [@edinab](https://github.com/edinab) :
+- [@edinab](https://github.com/edinab) :
   Edina Pozer Bue, klassifiserer geofag og meteorologi.
-* [@grosyn](https://github.com/grosyn) :
+- [@grosyn](https://github.com/grosyn) :
   Gro Synnøve Nesland Lindgaard, klassifiserer litt innimellom katalogiseringen.
-* [@haraldse](https://github.com/haraldse) :
+- [@haraldse](https://github.com/haraldse) :
   Kirsten Borse Haraldsen, klassifiserer biovitenskap.
-* [@kyrretl](https://github.com/kyrretl) :
+- [@kyrretl](https://github.com/kyrretl) :
   Kyrre Traavik Låberg, biolog, utvikler Emnesøk.
-* [@starseekr](https://github.com/starseekr) :
+- [@starseekr](https://github.com/starseekr) :
   Trude Westby, klassifiserer informatikk.
-* [@superLine](https://github.com/superLine) :
+- [@superLine](https://github.com/superLine) :
   Line Nybakk Akerholt, klassifiserer astrofysikk.
-* [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
+- [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
   Karoline Moe, klassifiserer matematikk.
-* [@violabibaluba](https://github.com/violabibaluba) :
+- [@violabibaluba](https://github.com/violabibaluba) :
   Viola Kuldvere, **redaksjonsleder**.
-* Tone Charlotte Gadmar, klassifiserer kjemi.
-* Bente Kathrine Rasch, klassifiserer farmasi.
+- Tone Charlotte Gadmar, klassifiserer kjemi.
+- Bente Kathrine Rasch, klassifiserer farmasi.
 
 Aktive deltakere fra Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
 
-* [@beatekh](https://github.com/beatekh) :
+- [@beatekh](https://github.com/beatekh) :
   Beate Krøvel Humberset, klassifiserer matematikk, informatikk og fysikk.
-* [@bubir](https://github.com/bubir) :
+- [@bubir](https://github.com/bubir) :
   Ingunn Rødland, klassifiserer kjemi.
-* [@ken075](https://github.com/ken075) :
+- [@ken075](https://github.com/ken075) :
   Kjersti Enerstvedt, klassifiserer geofag og teknologi.
-* [@Caroline-A](https://github.com/Caroline-A) ; 
+- [@Caroline-A](https://github.com/Caroline-A) :
   Caroline Susanne Armitage, klassifiserer marinbiologi, delvis vikar for @Hypsibus.
-* [@Hypsibius](https://github.com/Hypsibius) :
+- [@Hypsibius](https://github.com/Hypsibius) :
   Hege Folkestad, klassifiserer biovitenskap.
-  
+
 Tidligere bidragsytere:
 
-* [@bibliomari](https://github.com/bibliomari) :
+- [@bibliomari](https://github.com/bibliomari) :
   Mari Lundevall, tidligere redaksjonsleder.
-* [@ewinge](https://github.com/ewinge) :
+- [@ewinge](https://github.com/ewinge) :
   Erik Winge, utvikler Neo (og juridiske emneord, m.m.).
-* [@henriasv](https://github.com/henriasv) :
+- [@henriasv](https://github.com/henriasv) :
   Henrik Andersen Sveinsson, klar til å klassifisere fysikk ved behov.
-* [@jw-geo](https://github.com/jw-geo) :
+- [@jw-geo](https://github.com/jw-geo) :
   Johannes Wiest, student, klassifiserte geologi (UiB).
-* [@knuthe](https://github.com/knuthe) :
+- [@knuthe](https://github.com/knuthe) :
   Knut Hegna, klassifiserte informatikk (UiO), utviklet Roald og Sonja.
-* [@kristinran](https://github.com/kristinran) :
+- [@kristinran](https://github.com/kristinran) :
   Kristin Rangnes, klassifiserte geofag (UiO).
-* [@mittinatten](https://github.com/mittinatten) :
+- [@mittinatten](https://github.com/mittinatten) :
   Simon Mitternacht, klassifiserte matematikk, informatikk og (teoretisk) fysikk (UiB).
-* [@mzyg](https://github.com/mzyg) :
+- [@mzyg](https://github.com/mzyg) :
   Marta Zygmuntowska, klassifiserte geofag, fysikk (anvendt) og teknologi (UiB)
-* [@iloveyellow](https://github.com/iloveyellow) :
+- [@iloveyellow](https://github.com/iloveyellow) :
   Solveig Isis Sørbø, taksonomist
 
 ### Prosjekt Realfagstermar på nynorsk
 
 Omsetjing til nynorsk ble ferdigstilt ved årsskiftet 2015/2016 av:
 
-* [@mariaksv](https://github.com/mariaksv) : Maria Svendsen (biologi/kjemi)
-* [@jorgenem](https://github.com/jorgenem) : Jørgen Eriksson Midtbø (fysikk/matte)
-* [@totlevase](https://github.com/totlevase) : Vebjørn Sture (korrektur/nynorsk)
+- Maria Svendsen ([@mariaksv](https://github.com/mariaksv)): biologi/kjemi)
+- Jørgen Eriksson Midtbø ([@jorgenem](https://github.com/jorgenem)): fysikk/matte)
+- Vebjørn Sture ([@totlevase](https://github.com/totlevase)): korrektur/nynorsk)
 
 Sjå [retningslinjer/diskusjon](https://github.com/realfagstermer/realfagstermer/wiki/Retningslinjer-for-nynorskomsetjing) og [eigen prosjektside](https://github.com/realfagstermer/prosjekt-nynorsk).
 
@@ -97,19 +105,19 @@ Sjå [retningslinjer/diskusjon](https://github.com/realfagstermer/realfagstermer
 
 I perioden 2017-2019 har Realfagstermer blitt oversatt til engelsk, kategorisert og mappet til Wikidata med hjelp fra en rekke studenter:
 
-* Jeanette Viken ([@jeanetvi](https://github.com/jeanetvi))
-* Olav Bjerke ([@olavbje](https://github.com/olavbje))
-* Anja Maria Aardal ([@anjamaa](https://github.com/anjamaa))
-* Gunvor Evenrud ([@gunvorev](https://github.com/gunvorev))
-* Eirill Strand Hauge ([@eirillsh](https://github.com/eirillsh))
-* Jenny Marie Skytte Af Sätra ([@jennynnej](https://github.com/jennynnej))
-* Eirik Bager Sundmark ([@ebsundmark](https://github.com/ebsundmark))
-* Jakob Lindtorp ([@JakobUiO](https://github.com/JakobUiO))
-* Marit Sandberg ([@maritsan](https://github.com/maritsan))
-* Ole Andreas Hoel
-* Mirna Porobic ([@mirnap](https://github.com/mirnap))
-* Islam Hadjilah
-* Trine Høyås
+- Jeanette Viken ([@jeanetvi](https://github.com/jeanetvi))
+- Olav Bjerke ([@olavbje](https://github.com/olavbje))
+- Anja Maria Aardal ([@anjamaa](https://github.com/anjamaa))
+- Gunvor Evenrud ([@gunvorev](https://github.com/gunvorev))
+- Eirill Strand Hauge ([@eirillsh](https://github.com/eirillsh))
+- Jenny Marie Skytte Af Sätra ([@jennynnej](https://github.com/jennynnej))
+- Eirik Bager Sundmark ([@ebsundmark](https://github.com/ebsundmark))
+- Jakob Lindtorp ([@JakobUiO](https://github.com/JakobUiO))
+- Marit Sandberg ([@maritsan](https://github.com/maritsan))
+- Ole Andreas Hoel
+- Mirna Porobic ([@mirnap](https://github.com/mirnap))
+- Islam Hadjilah
+- Trine Høyås
 
 En bieffekt har vært generell kvalitetsheving av vokabularet gjennom at en rekke feil og sammenslåingskandidater har blitt oppdaget.
 Se [Prosjekt «Kinderegg»](https://github.com/realfagstermer/prosjekt-kinderegg) for mer om prosjektet.
