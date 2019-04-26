@@ -4,7 +4,17 @@
 
 # Realfagstermers prosjektrom
 
-Dette er et åpent prosjektrom for [Realfagstermer](http://www.ub.uio.no/om/tjenester/emneord/realfagstermer.html).
+Dette er et åpent prosjektrom for [Realfagstermer](https://www.bartoc.org/en/node/1696),
+et kontrollert emneordsvokabular som utvikles og brukes av Universitetsbiblioteket i Oslo
+og Universitetsbiblioteket i Bergen.
+Vokabularet har termer på bokmål, nynorsk og engelsk og har overganger til Tekord, Dewey og Wikidata.
+
+Søk i vokabularet via [Emnesøk](http://app.uio.no/ub/emnesok/?id=UREAL),
+[Skosmos](https://data.ub.uio.no/skosmos/realfagstermer/nb/)
+eller visuelt med [LodLive](http://data.ub.uio.no/lodlive).
+
+
+
 Vi bruker sakssystemet (*issue trackeren*) til GitHub for å diskutere og behandle nye termer og endringer.
 
 - [**→ Til termdiskusjonene**](https://github.com/realfagstermer/realfagstermer/issues)
@@ -127,12 +137,6 @@ Se [Prosjekt «Kinderegg»](https://github.com/realfagstermer/prosjekt-kinderegg
 I perioden 2015-2019 har Humord og Realfagstermer blitt mappet til Norsk WebDewey.
 Som med Kinderegg-prosjektet har en bieffekt vært en generell kvalitetsheving av begge vokabular.
 Takk særlig til Hege Nenseth ([@HegeNenseth](https://github.com/HegeNenseth)), Kristine Aalrust Kristoffersen ([@kaalrust](https://github.com/kaalrust)) og Vibeke Stockinger Lundetræ ([@vibekelundetrae](https://github.com/vibekelundetrae)) som har bidratt med mye på Realfagstermer-siden.
-
-## Eksterne ressurser
-
-* [Emnesøk](http://app.uio.no/ub/emnesok/?id=UREAL)
-* [LodLive](http://data.ub.uio.no/lodlive)
-
 
 ## Conversion
 
