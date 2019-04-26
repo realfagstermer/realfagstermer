@@ -6,7 +6,7 @@ import logging.config
 import yaml
 
 with open('logging.yml') as cfg:
-    logging.config.dictConfig(yaml.load(cfg))
+    logging.config.dictConfig(yaml.safe_load(cfg))
 
 logger = logging.getLogger()
 
