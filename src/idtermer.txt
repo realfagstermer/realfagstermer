@@ -1876,13 +1876,17 @@ ba= ni
 ba= nm
 bf= Beregnbarhet
 bf= Rekursjonsteori
-so= REAL003890
+bf= Rekursive funksjoner
+bf= Beregnbare funksjoner
 nn= Bereknelegheitsteori
 nn= Bereknelegheit
 nn= Rekursjonsteori
+nn= Rekursive funksjonar
+nn= Bereknelege funksjonar
 en= Computability theory
 en= Computability
 en= Recursion theory
+en= Computable functions
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-13T18:03:49Z
 
@@ -19584,12 +19588,8 @@ fly= REAL002527
 
 id= REAL002265
 te= Redesign
-ba= ni
-bf= Fire-prosjektet
-nn= Redesign
-nn= Fire-prosjektet
 tio= 2014-08-25T00:00:00Z
-st= REAL026501
+tis= 2019-04-26T18:03:24Z
 
 id= REAL002266
 te= Makromolekylære forbindelser
@@ -32235,8 +32235,9 @@ id= REAL003712
 te= Saltsmelter
 ba= nk
 nn= Saltsmeltar
-en= Molten slats
+en= Molten salts
 tio= 2014-08-25T00:00:00Z
+tie= 2019-04-26T16:01:52Z
 
 id= REAL003713
 te= Tjenesteorientert arkitektur
@@ -33788,12 +33789,10 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003890
 te= Beregnbare funksjoner
-ba= nm
-so= REAL000213
-nn= Bereknelege funksjonar
-en= Computable functions
 tio= 2014-08-25T00:00:00Z
 tie= 2019-02-13T18:03:48Z
+tis= 2019-04-26T18:08:56Z
+fly= REAL000213
 
 id= REAL003891
 te= Fangstkulturer
@@ -57209,9 +57208,8 @@ tie= 2019-02-23T18:39:59Z
 
 id= REAL006621
 te= Reelle variabler
-ba= nm
-nn= Reelle variablar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-26T18:04:10Z
 
 id= REAL006622
 te= Formalbeskrivelse
@@ -92470,9 +92468,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL010713
 te= Rekursive funksjoner
-ba= nm
-nn= Rekursive funksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-26T18:08:27Z
+fly= REAL000213
 
 id= REAL010714
 te= Protoplasma
