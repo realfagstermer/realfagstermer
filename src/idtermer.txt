@@ -7610,6 +7610,7 @@ id= REAL000879
 te= Rasjonale punkter
 ba= nm
 nn= Rasjonale punkt
+en= Rational points
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000880
@@ -52827,9 +52828,8 @@ fly= REAL006663
 
 id= REAL006148
 te= Markedsorientering
-ba= ns
-nn= Marknadsorientering
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-26T21:50:05Z
 
 id= REAL006150
 te= Molekylære mekanismer
@@ -129140,9 +129140,8 @@ st= REAL027011
 
 id= REAL014003
 te= Kulturelle aspekter
-nn= Kulturelle aspekt
-en= Cultural aspects
 tio= 2014-08-25T00:00:00Z
+tis= 2019-04-26T21:37:19Z
 
 id= REAL014004
 te= Politiske aspekter
@@ -134020,4 +134019,10 @@ nn= Molekylstråleepitaksi
 en= Molecular beam epitaxy
 tio= 2019-04-15T16:14:32Z
 tie= 2019-04-15T16:21:08Z
+
+id= REAL032115
+te= Nettkultur
+tio= 2019-04-26T21:46:09Z
+tie= 2019-04-26T21:47:54Z
+tis= 2019-04-26T21:49:25Z
 
