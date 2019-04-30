@@ -3396,11 +3396,6 @@ real:c004165
   skos:exactMatch hume:c12455 ;
   skos:prefLabel "Inspirasjon"@nb .
 
-real:c004176
-  a skos:Concept ;
-  skos:exactMatch hume:c15423 ;
-  skos:prefLabel "Rewriting"@en, "Omskrivning"@nb, "Omskriving"@nn .
-
 real:c004180
   a skos:Concept ;
   skos:closeMatch hume:c07842 ;
