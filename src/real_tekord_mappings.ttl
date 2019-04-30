@@ -2813,11 +2813,6 @@ real:c002846
   skos:exactMatch tekord:c09671 ;
   skos:prefLabel "Skeptisisme"@nb, "Skeptisisme"@nn .
 
-real:c002849
-  a skos:Concept ;
-  skos:exactMatch tekord:c10234 ;
-  skos:prefLabel "Stemmegjenkjenning"@nb, "Stemmegjenkjenning"@nn .
-
 real:c002851
   a skos:Concept ;
   skos:exactMatch tekord:c08191 ;
