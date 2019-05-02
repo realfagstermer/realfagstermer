@@ -66571,6 +66571,7 @@ id= REAL007710
 te= Ikke-lineær funksjonalanalyse
 ba= nm
 nn= Ikkje-lineær funksjonalanalyse
+en= Nonlinear functional analysis
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-11T00:00:00Z
 
@@ -105940,6 +105941,9 @@ nn= Ikkje-lineære dynamiske system
 nn= Ikkje-lineær mekanikk
 en= Nonlinear dynamics
 en= Nonlinear dynamic systems
+en= Nonlinear differential equations
+en= Non-linear dynamics
+en= Non-linear differential equations
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-30T22:11:23Z
 
@@ -112915,6 +112919,8 @@ st= REAL019674
 id= REAL012844
 te= Ikke-lineære operatorer
 nn= Ikkje-lineære operatorar
+en= Nonlinear operators
+en= Non-linear operators
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012845
@@ -116037,6 +116043,8 @@ nn= Ikkje-lineære bølgelikningar
 nn= Ikkje-lineær bølgjemekanikk
 nn= Ikkje-lineær bylgjemekanikk
 nn= Ikkje-lineær bølgemekanikk
+en= Nonlinear waves
+en= Non-linear waves
 tio= 2014-08-25T00:00:00Z
 tie= 2016-07-08T20:54:31Z
 
