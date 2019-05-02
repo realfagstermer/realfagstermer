@@ -15,6 +15,14 @@ en= Trysil watershed
 en= Trysil drainage system
 tio= 2014-08-25T00:00:00Z
 
+id= REAL009498
+te= Tropisk Afrika
+ba= nb
+nn= Tropisk Afrika
+en= Tropical Africa
+tio= 2014-08-25T00:00:00Z
+tie= 2017-09-12T19:25:26Z
+
 id= REAL010199
 te= Bergensfeltet
 ba= nc
