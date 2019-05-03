@@ -22151,7 +22151,10 @@ tio= 2014-08-25T00:00:00Z
 id= REAL002551
 te= Folder
 ba= nc
+bf= Foldinger
 nn= Foldar
+nn= Foldingar
+en= Folds
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002552
@@ -64082,10 +64085,9 @@ st= REAL027354
 
 id= REAL007431
 te= Foldinger
-ba= nc
-nn= Foldingar
-en= Folds
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-03T15:10:12Z
+fly= REAL002551
 
 id= REAL007432
 te= Stjerneatmosfærer
