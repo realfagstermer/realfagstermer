@@ -6170,9 +6170,8 @@ tie= 2015-02-24T13:59:22Z
 
 id= REAL000708
 te= Sydpol-prosjektet
-ba= ni
-nn= Sørpol-prosjektet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-07T18:13:44Z
 
 id= REAL000709
 te= Theta
@@ -6967,9 +6966,9 @@ tie= 2016-11-30T13:30:40Z
 
 id= REAL000796
 te= Romlige prosesser
-ba= nm
-nn= Romlege prosessar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-07T18:11:19Z
+fly= REAL011368
 
 id= REAL000797
 te= Severdigheter
@@ -10931,11 +10930,16 @@ st= REAL026254
 id= REAL001257
 te= Matkonservering
 ba= nb
+bf= Holdbarhet
 nn= Matkonservering
+nn= Haldbarheit
 en= Food preservation
 en= Food conservation
 en= Preservation of food
+en= Storability
+en= Shelf life
 tio= 2014-08-25T00:00:00Z
+tie= 2019-05-07T18:38:15Z
 
 id= REAL001258
 te= Vekstfaktorer
@@ -12639,12 +12643,18 @@ id= REAL001451
 te= Geodatasystemer
 ba= ngh
 bf= Geodata
+bf= Geoinformasjon
 so= REAL011172
 nn= Geodatasystem
 nn= Geodata
+nn= Geoinformasjon
 en= Geodata systems
 en= Geodata
+en= Geospatial data
+en= Geographic data and information
+en= Geoinformation
 tio= 2014-08-25T00:00:00Z
+tie= 2019-05-07T20:47:44Z
 st= REAL027933
 
 id= REAL001452
@@ -27122,10 +27132,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL003121
 te= Kartdata
-ba= nm
-nn= Kartdata
-en= Geospatial data
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-07T20:46:50Z
+fly= REAL001451
 
 id= REAL003122
 te= ASCII
@@ -40026,9 +40035,9 @@ tis= 2017-02-21T19:29:41Z
 
 id= REAL004639
 te= Verdensrekorder
-ba= nk
-nn= Verdsrekordar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-07T18:40:11Z
+fly= REAL005797
 
 id= REAL004640
 te= Moduler
@@ -49079,9 +49088,8 @@ tie= 2018-01-20T01:26:39Z
 
 id= REAL005720
 te= Kult-prosjektet
-ba= ni
-nn= Kult-prosjektet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-06T14:13:15Z
 
 id= REAL005721
 te= Fjærlus
@@ -49786,7 +49794,7 @@ nn= Konkurransar
 en= Contests
 en= Competitions
 tio= 2014-08-25T00:00:00Z
-tie= 2019-03-01T21:10:44Z
+tie= 2019-05-07T18:40:15Z
 st= REAL019338
 
 id= REAL005798
@@ -58277,9 +58285,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL006736
 te= Integrerbare funksjoner
-ba= nm
-nn= Integrerbare funksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-07T19:09:17Z
 
 id= REAL006737
 te= Makrellfiske
@@ -75054,7 +75061,6 @@ tio= 2014-08-25T00:00:00Z
 st= REAL014276
 st= REAL015012
 st= REAL015907
-st= REAL019118
 st= REAL022082
 st= REAL024055
 st= REAL024064
@@ -78748,9 +78754,8 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL009101
 te= Mjølner-prosjektet
-ba= ni
-nn= Mjølner-prosjektet
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-06T15:27:35Z
 
 id= REAL009102
 te= Flyktighet
@@ -97876,9 +97881,11 @@ te= Romlig statistikk
 ba= nb
 ba= nm
 bf= Romlig analyse
+bf= Romlige prosesser
 so= REAL007909
 nn= Romleg statistikk
 nn= Romleg analyse
+nn= Romlege prosessar
 en= Spatial statistics
 en= Spatial analysis
 tio= 2014-08-25T00:00:00Z
@@ -100586,7 +100593,6 @@ id= REAL011675
 te= Harmonisk analyse
 ba= na
 ba= nm
-so= REAL031979
 nn= Harmonisk analyse
 en= Harmonic analysis
 tio= 2014-08-25T00:00:00Z
@@ -102958,7 +102964,6 @@ bf= Diskret fouriertransformasjon
 ak= FFT
 ak= DTFT
 ak= FT
-so= REAL031979
 nn= Fouriertransformasjon
 nn= Diskret fouriertransformasjon
 en= Fourier transform
@@ -105184,12 +105189,11 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL012206
 te= Holdbarhet
-nn= Haldbarheit
-en= Storability
-en= Shelf life
 de= Maksimal lagringstid for mat
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-20T21:30:09Z
+tis= 2019-05-07T18:38:11Z
+fly= REAL001257
 
 id= REAL012207
 te= Legemiddelregning
@@ -125432,16 +125436,14 @@ tio= 2014-08-25T00:00:00Z
 id= REAL013775
 te= Språktester
 no= Trenger til bruk for TOEFL test
-nn= Språktestar
-en= Test of language
 tio= 2014-08-25T00:00:00Z
 tie= 2019-04-17T13:20:49Z
+tis= 2019-05-06T15:16:46Z
 
 id= REAL013776
 te= Vertskap
-nn= Vertskap
-en= Hostmanship
 tio= 2014-08-25T00:00:00Z
+tis= 2019-05-06T11:45:06Z
 
 id= REAL013777
 te= Sorte hull
@@ -132932,13 +132934,9 @@ tie= 2018-03-02T22:50:57Z
 
 id= REAL031979
 te= Sfærisk-harmonisk transformasjon
-ak= SHT
-so= REAL011675
-so= REAL011921
-nn= Sfærisk-harmonisk transformasjon
-en= Spherical Harmonic Transform
 tio= 2018-03-07T16:00:33Z
 tie= 2018-03-07T16:01:59Z
+tis= 2019-05-07T18:06:09Z
 
 id= REAL031980
 te= Strålingstoleranse
@@ -134095,10 +134093,12 @@ tie= 2019-04-03T18:53:21Z
 id= REAL032105
 te= Informasjonsarkitektur
 bf= Informasjonsmodellering
+nn= Informasjonsarkitektur
 nn= Informasjonsmodellering
+en= Information architecture
 en= Information modeling
 tio= 2019-04-04T16:34:05Z
-tie= 2019-04-04T16:34:10Z
+tie= 2019-05-06T13:49:41Z
 
 id= REAL032106
 te= Programmeringsmønstre
