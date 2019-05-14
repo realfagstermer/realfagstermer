@@ -5804,11 +5804,6 @@ real:c007412
   skos:exactMatch hume:c28873 ;
   skos:prefLabel "Fruktdyrking"@nb, "Fruktdyrking"@nn .
 
-real:c007414
-  a skos:Concept ;
-  skos:exactMatch hume:c05097 ;
-  skos:prefLabel "Magic"@en, "Magi"@nb, "Magi"@nn .
-
 real:c007419
   a skos:Concept ;
   skos:closeMatch hume:c25341 ;
@@ -9019,11 +9014,6 @@ real:c011469
   a skos:Concept ;
   skos:closeMatch hume:c04405 ;
   skos:prefLabel "Aeronautics"@en, "Aeronautikk"@nb, "Aeronautikk"@nn .
-
-real:c011475
-  a skos:Concept ;
-  skos:exactMatch hume:c07289 ;
-  skos:prefLabel "Magicians"@en, "Magikere"@nb, "Magikarar"@nn .
 
 real:c011479
   a skos:Concept ;

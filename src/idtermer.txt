@@ -67781,9 +67781,15 @@ st= REAL028242
 id= REAL007846
 te= Struktur
 ba= nf
+bf= Strukturer
 nn= Struktur
+nn= Strukturar
 tio= 2014-08-25T00:00:00Z
 st= REAL022753
+st= REAL017111
+st= REAL026492
+st= REAL027122
+st= REAL028797
 
 id= REAL007847
 te= Almebark
@@ -90181,13 +90187,15 @@ en= True lizards
 tio= 2014-08-25T00:00:00Z
 
 id= REAL010413
-te= Quantitative structure-activity relationship
+te= Kvantitativ struktur-aktivitetsforhold
 ba= nk
 ak= QSAR
-nn= Kvantitativ struktur-aktivitets-relasjon
+so= REAL032121
+nn= Kvantitativ struktur-aktivitetsforhold
 en= Quantitative structure–activity relationship
 en= QSAR
 tio= 2014-08-25T00:00:00Z
+tie= 2019-05-13T22:58:08Z
 
 id= REAL010414
 te= Heterogene databaser
@@ -100337,21 +100345,9 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL011644
 te= Strukturer
-ba= nk
-ba= nb
-ba= ne
-ba= nf
-ba= ngh
-ba= nm
-ba= nq
-ba= ns
-nn= Strukturar
 tio= 2014-08-25T00:00:00Z
-st= REAL017111
-st= REAL017807
-st= REAL026492
-st= REAL027122
-st= REAL028797
+tis= 2019-05-13T23:02:05Z
+fly= REAL007846
 
 id= REAL011645
 te= Kobbergruver
@@ -134245,4 +134241,14 @@ en= Coral reef snakes
 la= Hydrophiinae
 tio= 2019-05-02T14:28:01Z
 tie= 2019-05-02T14:29:26Z
+
+id= REAL032121
+te= Struktur-aktivitetsforhold
+ak= SAR
+so= REAL010413
+nn= Struktur-aktivitetsforhold
+en= Structure–activity relationship
+en= Structure/activity relationship
+tio= 2019-05-13T22:54:13Z
+tie= 2019-05-13T23:01:42Z
 
