@@ -323,8 +323,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030250
 te= Sør-Trøndelag
-en= Sør-Trøndelag
 tio= 2015-02-20T13:08:04Z
+tis= 2019-05-21T18:06:21Z
+fly= REAL030266
 
 id= REAL030251
 te= Fennoskandia
@@ -410,7 +411,11 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030266
 te= Trøndelag
+bf= Sør-Trøndelag
+bf= Nord-Trøndelag
 en= Trønderlag
+en= Sør-Trøndelag
+en= Nord-Trøndelag
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030267
@@ -2854,8 +2859,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030716
 te= Sør-Afrika (område)
-en= Southern Africa
 tio= 2015-02-20T13:08:04Z
+tis= 2019-05-21T17:49:41Z
+fly= REAL031060
 
 id= REAL030717
 te= Sørkedalen
@@ -2875,9 +2881,11 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030720
 te= Sør-Afrika
+so= REAL031060
 en= South Africa
 en= Republic of South Africa
 tio= 2015-02-20T13:08:04Z
+tie= 2019-05-21T17:51:54Z
 
 id= REAL030721
 te= Sølna
@@ -3094,8 +3102,9 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030761
 te= Nord-Trøndelag
-en= Nord-Trøndelag
 tio= 2015-02-20T13:08:04Z
+tis= 2019-05-21T18:06:45Z
+fly= REAL030266
 
 id= REAL030762
 te= Nord-Fron
@@ -4741,6 +4750,8 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031060
 te= Sørlige Afrika
+bf= Sør-Afrika (område)
+so= REAL030720
 en= Southern Africa
 tio= 2015-02-20T13:08:04Z
 
