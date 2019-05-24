@@ -3296,6 +3296,8 @@ real:c012329  skos:closeMatch  wd:Q1396 .
 
 real:c010331  skos:closeMatch  wd:Q420168 .
 
+real:c001337  skos:closeMatch  wd:Q7936191 .
+
 real:c005072  skos:closeMatch  wd:Q486598 .
 
 real:c000243  skos:closeMatch  wd:Q780486 .
