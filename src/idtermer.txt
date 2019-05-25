@@ -27074,6 +27074,7 @@ te= Utemiljø
 ba= ngh
 ba= nq
 nn= Utemiljø
+en= Outdoor environment
 tio= 2014-08-25T00:00:00Z
 
 id= REAL003115
