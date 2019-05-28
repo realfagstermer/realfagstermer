@@ -4750,10 +4750,10 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL031060
 te= Sørlige Afrika
-bf= Sør-Afrika (område)
 so= REAL030720
 en= Southern Africa
 tio= 2015-02-20T13:08:04Z
+tie= 2019-05-28T18:16:32Z
 
 id= REAL031061
 te= Sørnesset
