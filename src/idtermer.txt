@@ -134284,3 +134284,10 @@ en= Ecosystem services
 tio= 2019-05-21T18:48:34Z
 tie= 2019-05-21T18:51:33Z
 
+id= REAL032124
+te= Algebraisk statistikk
+nn= Algebraisk statistikk
+en= Algebraic statistics
+tio= 2019-06-24T19:36:04Z
+tie= 2019-06-24T19:36:30Z
+
