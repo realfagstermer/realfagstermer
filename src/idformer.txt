@@ -132,10 +132,12 @@ te= Bildeverk
 bf= Bilder
 bf= Billedverk
 bf= Billedverker
+no= Verk med overvekt av bilder. For barnebøker, bruk Bildebøker.
 en= Pictorial works
 en= Images
 en= Pictures
 tio= 2015-02-20T13:08:04Z
+tie= 2019-06-25T17:05:09Z
 
 id= REAL030076
 te= Brev
