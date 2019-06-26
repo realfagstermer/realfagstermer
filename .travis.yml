@@ -1,4 +1,5 @@
 # http://about.travis-ci.org/docs/user/languages/python/
+dist: xenial
 language: python
 python:
   - "3.6"
