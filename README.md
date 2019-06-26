@@ -52,6 +52,8 @@ Aktive deltakere fra Universitetsbiblioteket i Oslo, sortert alfabetisk etter br
   Edina Pozer Bue, klassifiserer geofag og meteorologi.
 - [@grosyn](https://github.com/grosyn) :
   Gro Synnøve Nesland Lindgaard, klassifiserer litt innimellom katalogiseringen.
+- [@jessiclo](https://github.com/jessiclo) :
+  Jessica Lönn-Stensrud, mikrobiolog.
 - [@haraldse](https://github.com/haraldse) :
   Kirsten Borse Haraldsen, klassifiserer biovitenskap.
 - [@kyrretl](https://github.com/kyrretl) :
