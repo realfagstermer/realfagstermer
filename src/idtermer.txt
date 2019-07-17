@@ -134280,3 +134280,23 @@ en= Algebraic statistics
 tio= 2019-06-24T19:36:04Z
 tie= 2019-06-24T19:36:30Z
 
+id= REAL032125
+te= Skjeggkre
+nn= Skjeggkre
+en= Gray silverfish
+en= Long-tailed silverfish
+la= Ctenolepisma longicaudata
+tio= 2019-07-17T14:31:19Z
+tie= 2019-07-17T14:32:14Z
+
+id= REAL032126
+te= Quorum sensing
+bf= Quorum-sansning
+bf= Quorum-sansing
+no= github:#1595
+nn= Quorum sensing
+nn= Quorum-sansing
+en= Quorum sensing
+tio= 2019-07-17T14:37:58Z
+tie= 2019-07-17T14:49:34Z
+
