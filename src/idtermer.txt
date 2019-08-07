@@ -134300,3 +134300,15 @@ en= Quorum sensing
 tio= 2019-07-17T14:37:58Z
 tie= 2019-07-17T14:49:34Z
 
+id= REAL032127
+te= Gurkemeie
+bf= Kurkuma
+nn= Gurkemeie
+nn= Kurkuma
+en= Turmeric
+en= Indian saffron
+la= Curcuma longa L.
+de= Krydder- og medisinplante. Inneholder virkestoffet curcumin
+tio= 2019-08-07T11:25:52Z
+tie= 2019-08-07T11:29:45Z
+
