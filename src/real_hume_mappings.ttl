@@ -4753,11 +4753,6 @@ real:c006162
   skos:exactMatch hume:c00570 ;
   skos:prefLabel "Holism"@en, "Holisme"@nb, "Holisme"@nn .
 
-real:c006172
-  a skos:Concept ;
-  skos:exactMatch hume:c28152 ;
-  skos:prefLabel "Varslere"@nb, "Varslarar"@nn .
-
 real:c006184
   a skos:Concept ;
   skos:closeMatch hume:c20855 ;
