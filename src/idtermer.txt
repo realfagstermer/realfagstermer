@@ -2465,10 +2465,9 @@ tis= 2018-03-08T19:33:12Z
 
 id= REAL000276
 te= Flydesign
-ba= nm
-nn= Flydesign
-en= Aircraft design
 tio= 2014-08-25T00:00:00Z
+tis= 2019-08-22T16:55:11Z
+fly= REAL001476
 
 id= REAL000277
 te= Kjemiske produkter
@@ -12893,15 +12892,20 @@ en= Polyphenols
 tio= 2014-08-25T00:00:00Z
 
 id= REAL001476
-te= Flyteknikk
+te= Luftfartsteknikk
 ba= nf
 ba= nm
 ba= ns
 bf= Aeronautikk
+bf= Flyteknikk
+nn= Luftfartsteknikk
 nn= Flyteknikk
 nn= Aeronautikk
 en= Aeronautics
+en= Aerospace engineering
+en= Aircraft design
 tio= 2014-08-25T00:00:00Z
+tie= 2019-08-22T16:55:39Z
 st= REAL014382
 st= REAL017721
 st= REAL020111
@@ -17701,11 +17705,6 @@ st= REAL019800
 st= REAL023002
 st= REAL024866
 st= REAL026229
-
-id= REAL002059
-te= Xenolitter
-tio= 2014-08-25T00:00:00Z
-tis= 2019-04-09T17:01:30Z
 
 id= REAL002060
 te= Uorganiske materialer
@@ -41755,6 +41754,7 @@ ba= nm
 nn= Algebraiske strukturar
 en= Algebraic structures
 tio= 2014-08-25T00:00:00Z
+tie= 2019-08-22T15:57:11Z
 
 id= REAL004837
 te= Fast tilstand
@@ -42979,9 +42979,9 @@ fly= REAL007085
 
 id= REAL004982
 te= Flykonstruksjoner
-ba= nm
-nn= Flykonstruksjonar
 tio= 2014-08-25T00:00:00Z
+tis= 2019-08-22T16:55:32Z
+fly= REAL001476
 
 id= REAL004983
 te= Transgene dyr
@@ -47919,10 +47919,11 @@ tio= 2014-08-25T00:00:00Z
 tis= 2018-03-26T18:19:19Z
 
 id= REAL005588
-te= Vulkanske xenolitter
+te= Xenolitter
 ba= nc
-nn= Vulkanske xenolittar
+nn= Xenolitter
 tio= 2014-08-25T00:00:00Z
+tie= 2019-08-22T17:22:56Z
 
 id= REAL005589
 te= Flodhester
@@ -57559,12 +57560,13 @@ en= General-purpose language
 tio= 2014-08-25T00:00:00Z
 
 id= REAL006661
-te= Atomstrukturer
+te= Atomstruktur
 ba= nk
 ba= ns
-nn= Atomstrukturar
-en= Atomic structures
+nn= Atomstruktur
+en= Atomic structure
 tio= 2014-08-25T00:00:00Z
+tie= 2019-08-22T18:32:31Z
 
 id= REAL006662
 te= Plasmateorier
@@ -104797,9 +104799,8 @@ fly= REAL004246
 
 id= REAL012158
 te= Flerdimensjonale objekter
-ba= ni
-nn= Fleirdimensjonale objekt
 tio= 2014-08-25T00:00:00Z
+tis= 2019-08-22T16:50:15Z
 
 id= REAL012159
 te= Mobile nett
@@ -107743,11 +107744,9 @@ tie= 2016-12-19T14:50:10Z
 
 id= REAL012429
 te= Ordnede algebraiske strukturer
-nn= Ordna algebraiske strukturar
-en= Ordered algebraic structures
-ms= 06
-dw= 511.33
 tio= 2014-08-25T00:00:00Z
+tis= 2019-08-22T15:56:57Z
+fly= REAL004836
 
 id= REAL012430
 te= Robotsyn
@@ -124018,12 +124017,12 @@ st= REAL016744
 st= REAL017054
 
 id= REAL013659
-te= Databaseverktøy
+te= Microsoft Access
 ba= ngh
-bf= Microsoft Access
-nn= Databaseverktøy
 nn= Microsoft Access
+en= Microsoft Access
 tio= 2014-08-25T00:00:00Z
+tie= 2019-08-22T16:47:14Z
 
 id= REAL013660
 te= Embryologi
@@ -134419,4 +134418,20 @@ te= Mikrobiologer
 ot= REAL005620
 tio= 2019-08-19T16:48:10Z
 tie= 2019-08-19T16:48:10Z
+
+id= REAL032130
+te= Elkraftteknikk
+bf= Energiteknikk
+nn= Elkraftteknikk
+nn= Energiteknikk
+en= Power engineering
+en= Electric power engineering
+en= Power systems engineering
+tio= 2019-08-22T15:38:46Z
+tie= 2019-08-22T15:46:54Z
+
+id= REAL032131
+te= Biomedisinsk instrumentering
+tio= 2019-08-22T20:36:41Z
+tie= 2019-08-22T20:36:41Z
 
