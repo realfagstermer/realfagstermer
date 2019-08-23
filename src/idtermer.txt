@@ -5223,6 +5223,7 @@ id= REAL000587
 te= Opsjoner
 ba= nm
 nn= Opsjonar
+en= Options
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000588
@@ -18234,6 +18235,8 @@ id= REAL002110
 te= Raviner
 ba= ngh
 nn= Ravinar
+en= Ravines
+en= Gullies
 tio= 2014-08-25T00:00:00Z
 
 id= REAL002111
@@ -44624,6 +44627,7 @@ ba= nb
 ba= nq
 ba= ns
 nn= Buskar
+en= Bushes
 tio= 2014-08-25T00:00:00Z
 st= REAL014582
 st= REAL015527
@@ -47922,6 +47926,7 @@ id= REAL005588
 te= Xenolitter
 ba= nc
 nn= Xenolitter
+en= Xenoliths
 tio= 2014-08-25T00:00:00Z
 tie= 2019-08-22T17:22:56Z
 
@@ -104310,6 +104315,7 @@ id= REAL012087
 te= Dspråk
 ba= ni
 nn= Dspråk
+en= D
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012088

@@ -2414,7 +2414,7 @@ real:c008033  skos:closeMatch  wd:Q7481320 .
 
 real:c004108  skos:closeMatch  wd:Q671224 .
 
-real:c002110  skos:closeMatch  wd:Q1361400 .
+real:c002110  skos:closeMatch  wd:Q2042028 .
 
 real:c013102  skos:closeMatch  wd:Q4812187 .
 
@@ -7073,6 +7073,8 @@ real:c006922  skos:closeMatch  wd:Q1672722 .
 real:c004684  skos:closeMatch  wd:Q2880775 .
 
 real:c010847  skos:closeMatch  wd:Q843438 .
+
+real:c005588  skos:closeMatch  wd:Q488640 .
 
 real:c007826  skos:closeMatch  wd:Q771486 .
 
@@ -11956,9 +11958,9 @@ real:c011923  skos:closeMatch  wd:Q5750455 .
 
 real:c007758  skos:closeMatch  wd:Q877517 .
 
-real:c002929  skos:closeMatch  wd:Q4188 .
-
 real:c008902  skos:closeMatch  wd:Q306786 .
+
+real:c002929  skos:closeMatch  wd:Q4188 .
 
 real:c000931  skos:closeMatch  wd:Q1007122 .
 
@@ -16455,6 +16457,8 @@ real:c013849  skos:closeMatch  wd:Q901559 .
 real:c004246  skos:closeMatch  wd:Q2043698 .
 
 real:c010409  skos:closeMatch  wd:Q597330 .
+
+real:c013659  skos:closeMatch  wd:Q80689 .
 
 real:c004056  skos:closeMatch  wd:Q906377 .
 
