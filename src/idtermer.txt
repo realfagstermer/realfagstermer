@@ -106005,7 +106005,6 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012281
 te= Differensligninger
 tio= 2014-08-25T00:00:00Z
-tis= 2018-10-23T16:14:01Z
 
 id= REAL012282
 te= Evolusjonsligninger
@@ -134440,4 +134439,35 @@ id= REAL032131
 te= Biomedisinsk instrumentering
 tio= 2019-08-22T20:36:41Z
 tie= 2019-08-22T20:36:41Z
+
+id= REAL032132
+te= Flekksteinbit
+bf= Leopardfisk
+bf= Kotelettfisk
+nn= Flekksteinbit
+nn= Leopardfisk
+nn= Kotelettfisk
+en= Spotted wolffish
+la= Anarhichas minor
+tio= 2019-09-05T18:40:56Z
+tie= 2019-09-05T18:42:45Z
+
+id= REAL032133
+te= Bukkehornkløver
+en= Fenugreek
+la= Trigonella foenum-graecum
+tio= 2019-09-05T20:59:28Z
+tie= 2019-09-05T21:00:35Z
+
+id= REAL032134
+te= Deklarativ programmering
+bf= Deklarative programmeringsspråk
+bf= Deklarative programspråk
+nn= Deklarativ programmering
+nn= Deklarative programmeringsspråk
+nn= Deklarative programspråk
+en= Declarative programming
+en= Declarative programming languages
+tio= 2019-09-05T21:08:28Z
+tie= 2019-09-05T21:10:20Z
 
