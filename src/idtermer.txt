@@ -106003,8 +106003,14 @@ en= Elliptic equations
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012281
-te= Differensligninger
+te= Rekurrensrelasjoner
+bf= Differensligninger
+nn= Rekurrensrelasjonar
+nn= Differenslikningar
+en= Recurrence relations
+en= Difference equations
 tio= 2014-08-25T00:00:00Z
+tie= 2019-09-05T21:19:41Z
 
 id= REAL012282
 te= Evolusjonsligninger
@@ -134470,4 +134476,16 @@ en= Declarative programming
 en= Declarative programming languages
 tio= 2019-09-05T21:08:28Z
 tie= 2019-09-05T21:10:20Z
+
+id= REAL032136
+te= EE-avfall
+bf= Elektronikkavfall
+bf= Elektronisk avfall
+bf= Elektrisk avfall
+bf= E-avfall
+bf= Elektrisk og elektronisk avfall
+en= Electronic waste
+en= E-waste
+tio= 2019-09-05T21:28:08Z
+tie= 2019-09-05T21:30:46Z
 
