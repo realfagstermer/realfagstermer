@@ -49602,10 +49602,11 @@ ba= nk
 ba= nc
 ba= nf
 ba= nm
+so= REAL032143
 nn= Strøyming
 en= Flow
 tio= 2014-08-25T00:00:00Z
-tie= 2019-03-26T22:34:15Z
+tie= 2019-09-18T12:38:07Z
 st= REAL029622
 
 id= REAL005770
@@ -62931,6 +62932,7 @@ ba= nm
 ba= ns
 bf= Porøse materialer
 bf= Porøse stoffer
+so= REAL032143
 ut= REAL011476
 nn= Porøse medium
 nn= Porøse materiale
@@ -62939,7 +62941,7 @@ en= Porous mediums
 en= Porous media
 en= Porous materials
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-25T10:28:23Z
+tie= 2019-09-18T12:37:59Z
 
 id= REAL007275
 te= Drikkevann
@@ -134555,3 +134557,17 @@ en= Stochastic thermodynamics
 de= Forskningsfelt under statistisk mekanikk som bruker stokastiske variabler i studiet av ikke-likevektsdynamikken i mikroskopiske systemer som kolloidale partikler, biopolymerer (som DNA, RNA, proteiner), enzymer, molekylære motorer osv.
 tio= 2019-09-17T18:45:38Z
 tie= 2019-09-17T18:48:13Z
+
+id= REAL032143
+te= Strømning i porøse medier
+bf= Strømning i porøse materialer
+so= REAL007274
+so= REAL005769
+nn= Strøyming i porøse medium
+nn= Strøyming i porøse materiale
+en= Flow in porous media
+en= Fluid flow through porous media
+en= Flow in porous materials
+tio= 2019-09-18T12:30:27Z
+tie= 2019-09-18T12:37:39Z
+
