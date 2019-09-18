@@ -31065,7 +31065,7 @@ te= Kretsteori
 ba= ni
 ba= nf
 nn= Krinsteori
-en= Circuit heory
+en= Circuit theory
 tio= 2014-08-25T00:00:00Z
 tie= 2018-11-30T11:16:01Z
 st= REAL014434
@@ -134446,6 +134446,7 @@ tie= 2019-08-13T22:24:44Z
 id= REAL032129
 te= Mikrobiologer
 ot= REAL005620
+nn= Mikrobiologer
 tio= 2019-08-19T16:48:10Z
 tie= 2019-08-19T16:48:10Z
 
@@ -134464,6 +134465,7 @@ tie= 2019-09-16T23:07:41Z
 
 id= REAL032131
 te= Biomedisinsk instrumentering
+nn= Biomedisinsk instrumentering
 tio= 2019-08-22T20:36:41Z
 tie= 2019-08-22T20:36:41Z
 
@@ -134553,9 +134555,3 @@ en= Stochastic thermodynamics
 de= Forskningsfelt under statistisk mekanikk som bruker stokastiske variabler i studiet av ikke-likevektsdynamikken i mikroskopiske systemer som kolloidale partikler, biopolymerer (som DNA, RNA, proteiner), enzymer, molekylære motorer osv.
 tio= 2019-09-17T18:45:38Z
 tie= 2019-09-17T18:48:13Z
-
-id= REAL032142
-te= stastistisk mekanikk
-tio= 2019-09-17T18:45:43Z
-tie= 2019-09-17T18:45:47Z
-
