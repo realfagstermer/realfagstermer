@@ -14,23 +14,23 @@ ubo:Topic
     mads:Topic ;
   rdfs:label "Innholdsbeskrivende emne"@nb ,
     "Topic"@en ;
-  rdfs:description "A topical subject senso stricto."@en .
+  rdfs:description "Topical subject senso stricto."@en .
 
-ubo:Place
+ubo:Geographic
   a owl:Class ;
   rdfs:subClassOf skos:Concept ,
     mads:Geographic ;
-  rdfs:label "Sted"@nb ,
-    "Place"@en ;
-  rdfs:description "A geographic place or feature."@en .
+  rdfs:label "Geografisk"@nb ,
+    "Geographic"@en ;
+  rdfs:description "Geographic place or feature."@en .
 
-ubo:Time
+ubo:Temporal
   a owl:Class ;
   rdfs:subClassOf skos:Concept ,
     mads:Temporal ;
-  rdfs:label "Tidsperiode"@nb ,
-    "Time period"@en ;
-  rdfs:description "A temporal entity."@en .
+  rdfs:label "Kronologisk"@nb ,
+    "Chronological"@en ;
+  rdfs:description "Epoch, time period or other chronological entity."@en .
 
 ubo:GenreForm
   a owl:Class ;
@@ -38,7 +38,21 @@ ubo:GenreForm
     mads:GenreForm ;
   rdfs:label "Form/sjanger"@nb ,
     "Form/genre"@en ;
-  rdfs:description "A genre or form."@en .
+  rdfs:description "Genre or form."@en .
+
+ubo:LinkingTerm
+  a owl:Class ;
+  rdfs:subClassOf skos:Concept ;
+  rdfs:label "Knuteterm"@nb ,
+    "Linking term"@en ;
+  rdfs:description "Concept that form part of the hierarchy, but are not used for indexing."@en .
+
+ubo:SplitNonPreferredTerm
+  a owl:Class ;
+  rdfs:subClassOf skos:Concept ;
+  rdfs:label "Generell se-henvisning"@nb ,
+    "Split non-preferred term"@en ;
+  rdfs:description "Complex concept that refers to two or more other concepts that should be used in place of this concept when indexing."@en .
 
 ubo:CompoundConcept
   a owl:Class ;
@@ -46,7 +60,7 @@ ubo:CompoundConcept
     mads:ComplexSubject ;
   rdfs:label "Emnestreng"@nb ,
     "Compound concept"@en ;
-  rdfs:description "A concept composed of two or more concepts from the same vocabulary."@en .
+  rdfs:description "Concept composed of two or more concepts from the same vocabulary."@en .
 
 ubo:VirtualCompoundConcept
   a owl:Class ;
@@ -54,7 +68,15 @@ ubo:VirtualCompoundConcept
     mads:ComplexSubject ;
   rdfs:label "Virtuell emnestreng"@nb ,
     "Virtual compound concept"@en ;
-  rdfs:description "A compound concept used as a search guide, but indexed as separate concepts."@en .
+  rdfs:description "Compound concept used as a search guide, but indexed as separate concepts."@en .
+
+ubo:plusUseTerm
+  a owl:DatatypeProperty ;
+  rdfs:domain ubo:SplitNonPreferredTerm ;
+  rdfs:range skos:Concept ;
+  rdfs:label "Bruk+"@nb ,
+    "Use+"@en ;
+  rdfs:description "Compound equivalence relation"@en .
 
 ubo:elementSymbol
   a owl:DatatypeProperty ;
