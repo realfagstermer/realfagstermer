@@ -8916,14 +8916,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL001021
 te= Iskemi
 ba= ne
-bf= Iskemisk hjertesykdom
 bf= Manglende blodtilførsel
 nn= Iskemi
-nn= Iskemisk hjartesjukdom
 en= Ischemia
 en= Ischaemia
 tio= 2014-08-25T00:00:00Z
-tie= 2019-05-13T14:59:48Z
+tie= 2019-09-28T16:56:09Z
 
 id= REAL001022
 te= Elektrotermisk atomisering
@@ -44380,6 +44378,8 @@ id= REAL005149
 te= Geokronologi
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-27T09:05:22Z
+tis= 2018-03-19T12:10:28Z
+fly= REAL004887
 
 id= REAL005150
 te= Amaryllis
