@@ -134636,3 +134636,12 @@ en= Sport physiology
 tio= 2019-09-25T13:59:57Z
 tie= 2019-09-25T14:01:02Z
 
+id= REAL032146
+te= Løkslekta
+bf= Allium
+nn= Laukslekta
+en= Allium
+la= Allium
+tio= 2019-10-22T22:35:15Z
+tie= 2019-10-22T22:35:52Z
+
