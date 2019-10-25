@@ -134645,3 +134645,26 @@ la= Allium
 tio= 2019-10-22T22:35:15Z
 tie= 2019-10-22T22:35:52Z
 
+id= REAL032147
+te= Weil-formodningen om Tamagawa-tall
+tio= 2019-10-25T17:15:07Z
+tie= 2019-10-25T17:15:07Z
+
+id= REAL032148
+te= Weil-formodningene
+bf= Weilformodningene
+de= Fire formodninger fremsatt av André Weil i 1949
+tio= 2019-10-25T17:15:45Z
+tie= 2019-10-25T17:55:38Z
+
+id= REAL032149
+te= Taniyama–Shimura–Weil-formodningen
+bf= Taniyama–Shimura-formodningen
+tio= 2019-10-25T17:20:33Z
+tie= 2019-10-25T17:25:49Z
+
+id= REAL032150
+te= Hasse–Weil-formodningen
+tio= 2019-10-25T17:27:47Z
+tie= 2019-10-25T17:27:47Z
+
