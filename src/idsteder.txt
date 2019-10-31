@@ -5041,3 +5041,15 @@ te= Donetsbassenget
 tio= 2019-09-05T21:23:38Z
 tie= 2019-09-05T21:23:38Z
 
+id= REAL032151
+te= Rauland
+de= fjellbygd og turområde i Telemark
+tio= 2019-10-31T16:41:08Z
+tie= 2019-10-31T16:44:25Z
+
+id= REAL032152
+te= Lesja
+de= kommune i Oppland
+tio= 2019-10-31T16:44:51Z
+tie= 2019-10-31T16:45:35Z
+
