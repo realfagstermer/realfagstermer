@@ -5053,3 +5053,11 @@ de= kommune i Oppland
 tio= 2019-10-31T16:44:51Z
 tie= 2019-10-31T16:45:35Z
 
+id= REAL032153
+te= Røyken
+nn= Røyken
+en= Røyken
+de= kommune i Buskerud
+tio= 2019-11-01T12:24:56Z
+tie= 2019-11-01T12:25:26Z
+
