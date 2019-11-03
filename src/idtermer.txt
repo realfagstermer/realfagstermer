@@ -71376,17 +71376,17 @@ en= Shock waves
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008261
-te= Tjenesteutvikling
+te= Tjenesteutforming
 ba= ni
 bf= Tjenestedesign
-bf= Tjenesteutforming
+bf= Tjenesteutvikling
+nn= Tenesteutforming
 nn= Tenesteutvikling
 nn= Tenestedesign
-nn= Tenesteutforming
-en= Service development
 en= Service design
+en= Service development
 tio= 2014-08-25T00:00:00Z
-tie= 2019-09-25T12:16:05Z
+tie= 2019-11-02T20:04:48Z
 
 id= REAL008262
 te= Molekylklynger
@@ -134667,4 +134667,20 @@ id= REAL032150
 te= Hasse–Weil-formodningen
 tio= 2019-10-25T17:27:47Z
 tie= 2019-10-25T17:27:47Z
+
+id= REAL032154
+te= Turisthytter
+bf= DNT-hytter
+nn= Turisthytter
+nn= DNT-hytter
+en= Hiking cabins
+en= DNT cabins
+en= Mountain lodges
+en= Trekking Association cabins
+en= Mountain huts
+en= Mountain hostels
+en= Alpine huts
+en= Mountain shelters
+tio= 2019-11-03T01:05:17Z
+tie= 2019-11-03T01:15:13Z
 
