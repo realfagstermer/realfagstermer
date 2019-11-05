@@ -1408,6 +1408,7 @@ st= REAL014226
 st= REAL019517
 st= REAL021618
 st= REAL022355
+st= REAL032174
 
 id= REAL000161
 te= Lidelser
@@ -2704,6 +2705,7 @@ st= REAL022136
 st= REAL023458
 st= REAL024735
 st= REAL031474
+st= REAL032185
 
 id= REAL000307
 te= Tekstgenerering
@@ -6671,6 +6673,7 @@ te= Havpattedyr
 tio= 2014-08-25T00:00:00Z
 tis= 2018-08-10T12:04:02Z
 fly= REAL000527
+st= REAL032173
 
 id= REAL000764
 te= Konform
@@ -12279,6 +12282,7 @@ en= History of spaceflight
 en= History of space flight
 tio= 2014-08-25T00:00:00Z
 st= REAL018368
+st= REAL032198
 
 id= REAL001408
 te= Berggrunnsgeologi
@@ -32625,6 +32629,7 @@ tie= 2019-04-20T19:02:05Z
 st= REAL024931
 st= REAL026185
 st= REAL026698
+st= REAL032176
 
 id= REAL003752
 te= Fruktbarhet
@@ -33049,6 +33054,7 @@ ba= na
 nn= Astrofotografering
 en= Astrophotography
 tio= 2014-08-25T00:00:00Z
+st= REAL032191
 
 id= REAL003804
 te= Polare vegetasjonssoner
@@ -33760,6 +33766,7 @@ tie= 2016-05-04T14:48:57Z
 st= REAL016962
 st= REAL017769
 st= REAL023331
+st= REAL032181
 
 id= REAL003882
 te= PHP
@@ -34055,9 +34062,12 @@ id= REAL003918
 te= Plasmadiagnostikk
 ba= na
 ba= nf
+so= REAL031897
+so= REAL004516
 nn= Plasmadiagnostikk
 en= Plasma diagnostics
 tio= 2014-08-25T00:00:00Z
+tie= 2019-11-05T14:44:44Z
 
 id= REAL003919
 te= Geriatri
@@ -34449,6 +34459,7 @@ en= Tits
 tio= 2014-08-25T00:00:00Z
 st= REAL014719
 st= REAL031542
+st= REAL032179
 
 id= REAL003967
 te= Tidsbestemmelse
@@ -34926,6 +34937,7 @@ tio= 2014-08-25T00:00:00Z
 st= REAL016843
 st= REAL018313
 st= REAL024837
+st= REAL032184
 
 id= REAL004031
 te= Geognosi
@@ -39073,11 +39085,12 @@ ba= na
 bf= Plasmastrømmer
 so= REAL032011
 so= REAL013339
+so= REAL003918
 nn= Plasmadynamikk
 nn= Plasmastraumar
 en= Plasma dynamics
 tio= 2014-08-25T00:00:00Z
-tie= 2018-07-18T17:20:17Z
+tie= 2019-11-05T14:44:45Z
 
 id= REAL004517
 te= Tensider
@@ -42963,6 +42976,9 @@ st= REAL029045
 st= REAL029562
 st= REAL029698
 st= REAL031926
+st= REAL032165
+st= REAL032166
+st= REAL032167
 
 id= REAL004976
 te= Valsing
@@ -50310,6 +50326,7 @@ nn= Dataspel
 en= Computer games
 tio= 2014-08-25T00:00:00Z
 tie= 2018-11-02T21:43:50Z
+st= REAL032190
 
 id= REAL005849
 te= Enzymatiske spaltinger
@@ -53672,6 +53689,7 @@ st= REAL023994
 st= REAL026570
 st= REAL028953
 st= REAL031120
+st= REAL032197
 
 id= REAL006244
 te= Fjellfugler
@@ -54529,6 +54547,7 @@ en= Selection
 tio= 2014-08-25T00:00:00Z
 st= REAL018677
 st= REAL026516
+st= REAL032196
 
 id= REAL006332
 te= Sfærisk astronomi
@@ -55687,6 +55706,7 @@ st= REAL031447
 st= REAL031516
 st= REAL031519
 st= REAL031695
+st= REAL032170
 
 id= REAL006446
 te= Elektronisk musikk
@@ -57948,6 +57968,7 @@ st= REAL029950
 st= REAL029986
 st= REAL030042
 st= REAL031097
+st= REAL032180
 
 id= REAL006695
 te= Lemen
@@ -59589,6 +59610,7 @@ id= REAL006888
 te= Turer
 tio= 2014-08-25T00:00:00Z
 tis= 2019-02-12T14:42:43Z
+st= REAL032182
 
 id= REAL006889
 te= Dataprogrammer
@@ -63214,6 +63236,7 @@ en= Sailing
 tio= 2014-08-25T00:00:00Z
 st= REAL022548
 st= REAL031262
+st= REAL032195
 
 id= REAL007307
 te= Dataprofesjonen
@@ -65827,6 +65850,7 @@ st= REAL020168
 st= REAL020827
 st= REAL028266
 st= REAL031524
+st= REAL032178
 
 id= REAL007616
 te= Fototropisme
@@ -68254,6 +68278,7 @@ st= REAL028430
 st= REAL028500
 st= REAL031565
 st= REAL031713
+st= REAL032171
 
 id= REAL007900
 te= Morener
@@ -71698,6 +71723,7 @@ ba= ns
 nn= Gen
 en= Genes
 tio= 2014-08-25T00:00:00Z
+st= REAL032172
 
 id= REAL008294
 te= Parallelle prosesser
@@ -88078,6 +88104,7 @@ tio= 2014-08-25T00:00:00Z
 tie= 2017-05-22T15:20:02Z
 st= REAL023597
 st= REAL031934
+st= REAL032200
 
 id= REAL010167
 te= Bielver
@@ -94888,6 +94915,7 @@ nn= Antropogeni
 en= Human evolution
 tio= 2014-08-25T00:00:00Z
 tie= 2017-07-31T17:26:30Z
+st= REAL032175
 
 id= REAL010985
 te= Moderne vitenskap
@@ -101597,6 +101625,7 @@ st= REAL023813
 st= REAL024915
 st= REAL026658
 st= REAL027729
+st= REAL032177
 
 id= REAL011766
 te= Smågnagere
@@ -104774,6 +104803,7 @@ en= Spacecrafts
 en= Spacecraft
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-12T11:50:50Z
+st= REAL032161
 
 id= REAL012150
 te= Elektronstruktur
@@ -112345,6 +112375,7 @@ tio= 2014-08-25T00:00:00Z
 tie= 2019-01-27T13:59:47Z
 st= REAL024911
 st= REAL028449
+st= REAL032162
 
 id= REAL012778
 te= Permutasjonsgeneratorer
@@ -118130,6 +118161,9 @@ de= Insektoverfamilie i ordenen årevinger
 tio= 2014-08-25T00:00:00Z
 st= REAL021125
 st= REAL031383
+st= REAL032188
+st= REAL032189
+st= REAL032194
 
 id= REAL013312
 te= Bietere
@@ -119414,6 +119448,7 @@ st= REAL031157
 st= REAL031200
 st= REAL031563
 st= REAL031921
+st= REAL032192
 
 id= REAL013406
 te= Bildekunst
@@ -122253,6 +122288,7 @@ st= REAL029808
 st= REAL029868
 st= REAL029957
 st= REAL031561
+st= REAL032164
 
 id= REAL013518
 te= Vitenskapssosiologi
@@ -126794,6 +126830,8 @@ st= REAL029905
 st= REAL029966
 st= REAL031279
 st= REAL031346
+st= REAL032186
+st= REAL032187
 
 id= REAL013828
 te= Systematikk
@@ -127863,6 +127901,7 @@ st= REAL031094
 st= REAL031590
 st= REAL031630
 st= REAL031828
+st= REAL032193
 
 id= REAL013890
 te= Melkesyrebakterier
@@ -129493,6 +129532,7 @@ st= REAL015945
 st= REAL022025
 st= REAL024689
 st= REAL028763
+st= REAL032156
 
 id= REAL014007
 te= Karbongruppen
@@ -132817,13 +132857,14 @@ tie= 2017-10-06T15:42:10Z
 id= REAL031897
 te= Langmuir-sonder
 bf= Langmuir-sensorer
+so= REAL003918
 ot= REAL011761
 nn= Langmuir-sondar
 nn= Langmuir-sensorar
 en= Langmuir probes
 de= instrument for å bestemme elektrontemperatur, elektrontetthet og elektrisk potensial til et plasma
 tio= 2017-10-13T19:36:39Z
-tie= 2017-10-13T19:40:03Z
+tie= 2019-11-05T14:44:26Z
 
 id= REAL031898
 te= Bertrands paradoks
@@ -132993,6 +133034,9 @@ en= Ski trips
 tio= 2018-01-22T15:19:26Z
 tie= 2018-01-22T15:20:52Z
 st= REAL031946
+st= REAL032157
+st= REAL032158
+st= REAL032159
 
 id= REAL031947
 te= Padling
@@ -134683,4 +134727,11 @@ en= Alpine huts
 en= Mountain shelters
 tio= 2019-11-03T01:05:17Z
 tie= 2019-11-03T01:15:13Z
+st= REAL032183
+
+id= REAL032155
+te= langmuirprober
+tio= 2019-11-05T14:44:09Z
+tie= 2019-11-05T14:44:14Z
+tis= 2019-11-05T14:44:52Z
 

@@ -5061,3 +5061,8 @@ de= kommune i Buskerud
 tio= 2019-11-01T12:24:56Z
 tie= 2019-11-01T12:25:26Z
 
+id= REAL032199
+te= Burkina Faso
+tio= 2019-11-05T15:28:09Z
+tie= 2019-11-05T15:28:09Z
+

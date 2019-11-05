@@ -368,6 +368,7 @@ st= REAL031168
 st= REAL031398
 st= REAL031558
 st= REAL031559
+st= REAL032160
 
 id= REAL030106
 te= Soppfloraer
@@ -407,6 +408,7 @@ bf= Turguider
 bf= Turhåndbøker
 tio= 2015-02-20T13:08:04Z
 st= REAL031254
+st= REAL032163
 
 id= REAL030112
 te= Utbredelseskart
@@ -456,6 +458,8 @@ bf= Flora
 en= Floras
 de= Se også "bestemmelseslitteratur" under de enkelte temaer, f.eks 'planter : bestemmelseslitteratur'
 tio= 2015-02-20T13:08:04Z
+st= REAL032168
+st= REAL032169
 
 id= REAL030120
 te= Kart
