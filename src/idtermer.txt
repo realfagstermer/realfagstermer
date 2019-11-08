@@ -114384,14 +114384,8 @@ fly= REAL011785
 
 id= REAL012960
 te= Beslutninger
-bf= Bedømming
-bf= Beslutningstakning
-nn= Avgjerder
-nn= Avgjerdstaking
-nn= Avgjersler
-nn= Bedømming
-nn= Dømming
 tio= 2014-08-25T00:00:00Z
+tis= 2019-11-08T16:28:46Z
 
 id= REAL012961
 te= Juleroser
@@ -134734,4 +134728,11 @@ te= langmuirprober
 tio= 2019-11-05T14:44:09Z
 tie= 2019-11-05T14:44:14Z
 tis= 2019-11-05T14:44:52Z
+
+id= REAL032201
+te= Designtenkning
+nn= Designtenking
+en= Design thinking
+tio= 2019-11-08T16:40:15Z
+tie= 2019-11-08T16:45:29Z
 
