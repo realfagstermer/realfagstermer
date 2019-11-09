@@ -71413,17 +71413,18 @@ en= Shock waves
 tio= 2014-08-25T00:00:00Z
 
 id= REAL008261
-te= Tjenesteutforming
+te= Tjenestedesign
 ba= ni
-bf= Tjenestedesign
 bf= Tjenesteutvikling
+bf= Tjenesteutforming
+so= REAL032201
+nn= Tenestedesign
 nn= Tenesteutforming
 nn= Tenesteutvikling
-nn= Tenestedesign
 en= Service design
 en= Service development
 tio= 2014-08-25T00:00:00Z
-tie= 2019-11-02T20:04:48Z
+tie= 2019-11-09T14:59:54Z
 
 id= REAL008262
 te= Molekylklynger
@@ -124335,9 +124336,11 @@ id= REAL013671
 te= Interaksjonsdesign
 ba= ni
 so= REAL002915
+so= REAL032201
 nn= Interaksjonsdesign
 en= Interaction design
 tio= 2014-08-25T00:00:00Z
+tie= 2019-11-09T14:54:33Z
 
 id= REAL013672
 te= Koevolusjon
@@ -134744,8 +134747,10 @@ tis= 2019-11-05T14:44:52Z
 
 id= REAL032201
 te= Designtenkning
+so= REAL013671
+so= REAL008261
 nn= Designtenking
 en= Design thinking
 tio= 2019-11-08T16:40:15Z
-tie= 2019-11-08T16:45:29Z
+tie= 2019-11-09T15:32:40Z
 
