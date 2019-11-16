@@ -7409,11 +7409,14 @@ tie= 2019-01-25T13:06:56Z
 tis= 2019-04-30T11:15:08Z
 
 id= REAL000854
-te= Bspråk
+te= B (programmeringsspråk)
 ba= ni
+bf= Bspråk
+nn= B (programmeringsspråk)
 nn= Bspråk
 en= B (programming language)
 tio= 2014-08-25T00:00:00Z
+tie= 2019-11-16T15:28:10Z
 
 id= REAL000855
 te= Musikkinstrumenter
@@ -59628,7 +59631,6 @@ id= REAL006888
 te= Turer
 tio= 2014-08-25T00:00:00Z
 tis= 2019-02-12T14:42:43Z
-st= REAL032182
 
 id= REAL006889
 te= Dataprogrammer
@@ -103513,20 +103515,21 @@ en= Writing systems
 tio= 2014-08-25T00:00:00Z
 
 id= REAL011964
-te= Cplusplus
+te= C++
 ba= ni
 ba= na
 ba= nf
-bf= C++
 bf= Cplusspluss
+bf= Cplusplus
 so= REAL013340
-nn= Cplusplus
 nn= C++
+nn= Cplusplus
 nn= Cplusspluss
 en= C++
 en= Cplusplus
 de= Programmeringsspråk
 tio= 2014-08-25T00:00:00Z
+tie= 2019-11-16T15:25:47Z
 
 id= REAL011966
 te= Evolusjonær økologi
@@ -104401,11 +104404,16 @@ tis= 2019-03-26T19:58:53Z
 fly= REAL008144
 
 id= REAL012087
-te= Dspråk
+te= D (programmeringsspråk)
 ba= ni
+bf= Dspråk
+nn= D (programmeringsspråk)
 nn= Dspråk
+en= D (programming language)
 en= D
+en= Dlang
 tio= 2014-08-25T00:00:00Z
+tie= 2019-11-16T15:27:12Z
 
 id= REAL012088
 te= Jordbrukshistorie
@@ -118582,19 +118590,22 @@ st= REAL026867
 st= REAL028019
 
 id= REAL013340
-te= Cspråk
+te= C (programmeringsspråk)
 ba= ni
 bf= Turbo c
 bf= C
 bf= C-språk
 so= REAL011964
+nn= C (programmeringsspråk)
 nn= Cspråk
 nn= C
 nn= C-språk
 nn= Turbo c
+en= C (programming language)
 en= C
 en= C language
 tio= 2014-08-25T00:00:00Z
+tie= 2019-11-16T15:24:49Z
 
 id= REAL013341
 te= Cr

@@ -407,8 +407,6 @@ bf= Turguide
 bf= Turguider
 bf= Turhåndbøker
 tio= 2015-02-20T13:08:04Z
-st= REAL031254
-st= REAL032163
 
 id= REAL030112
 te= Utbredelseskart
