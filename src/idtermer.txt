@@ -134781,8 +134781,3 @@ en= Reference assemblies
 tio= 2019-11-15T19:39:09Z
 tie= 2019-11-15T19:40:42Z
 
-id= REAL032203
-te= genomsekvensering
-tio= 2019-11-15T19:39:34Z
-tie= 2019-11-15T19:39:34Z
-
