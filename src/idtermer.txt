@@ -44874,6 +44874,7 @@ bf= Glykolipider
 bf= Glykoproteiner
 bf= Glykosaminoglykaner
 so= REAL032215
+so= REAL032216
 nn= Glykobiologi
 nn= Farmasøytisk glykobiologi
 nn= Molekylær glykobiologi
@@ -44885,7 +44886,7 @@ nn= Glykoprotein
 nn= Glykosaminoglykan
 en= Glycobiology
 tio= 2014-08-25T00:00:00Z
-tie= 2019-11-22T19:12:46Z
+tie= 2019-11-28T10:47:01Z
 
 id= REAL005198
 te= Motorola
@@ -134924,4 +134925,40 @@ nn= Glykolysering
 en= Glycosylation
 tio= 2019-11-22T15:49:23Z
 tie= 2019-11-22T15:49:43Z
+
+id= REAL032216
+te= Glykosylering
+bf= Glykosidering
+so= REAL005197
+no= github:#1623
+nn= Glykosylering
+nn= Glykosidering
+en= Glycosylation
+de= Reaksjon der sukker (karbohydrat, monosakkarider eller polysakkarider, glukose, galaktose etc.) hektes på proteiner, fett eller andre molekyler [BPL]
+tio= 2019-11-28T10:44:37Z
+tie= 2019-11-28T11:02:24Z
+
+id= REAL032217
+te= Tarer
+nn= Tarar
+en= Kelps
+la= Laminariales
+tio= 2019-11-28T11:02:56Z
+tie= 2019-11-28T11:03:09Z
+
+id= REAL032218
+te= Skiveprolaps
+bf= Prolaps av mellomvirvelskive
+bf= Diskusprolaps
+bf= Prolapsus disci intervertebralis
+no= github:#1621 mesh:D007405
+nn= Skiveprolaps
+nn= Prolaps av mellomvirvelskive
+nn= Diskusprolaps
+nn= Prolapsus disci intervertebralis
+en= Spinal disc herniation
+en= Intervertebral disc displacement
+en= Slipped disc
+tio= 2019-11-28T11:04:32Z
+tie= 2019-11-28T11:08:21Z
 
