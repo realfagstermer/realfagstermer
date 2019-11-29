@@ -11355,6 +11355,7 @@ id= REAL001298
 te= Silisiumforbindelser
 ba= nk
 ut= REAL005966
+ut= REAL032219
 nn= Silisiumsambindingar
 en= Silicon compounds
 tio= 2014-08-25T00:00:00Z
@@ -134961,4 +134962,13 @@ en= Intervertebral disc displacement
 en= Slipped disc
 tio= 2019-11-28T11:04:32Z
 tie= 2019-11-28T11:08:21Z
+
+id= REAL032219
+te= Silaner
+ot= REAL001298
+nn= Silanar
+en= Silanes
+de= Mettede silisiumhydrider
+tio= 2019-11-29T21:33:07Z
+tie= 2019-11-29T21:35:24Z
 
