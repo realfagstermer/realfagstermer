@@ -375,13 +375,13 @@ def task_stats():
                 'prefLabels': {'nb': 0, 'nn': 0, 'en': 0, 'la': 0},
                 'altLabels': {'nb': 0, 'nn': 0, 'en': 0, 'la': 0}
             },
-            'Time': {
+            'Temporal': {
                 'concepts': 0,
                 'terms': 0,
                 'prefLabels': {'nb': 0, 'nn': 0, 'en': 0, 'la': 0},
                 'altLabels': {'nb': 0, 'nn': 0, 'en': 0, 'la': 0}
             },
-            'Place': {
+            'Geographic': {
                 'concepts': 0,
                 'terms': 0,
                 'prefLabels': {'nb': 0, 'nn': 0, 'en': 0, 'la': 0},
@@ -393,12 +393,12 @@ def task_stats():
                 'prefLabels': {'nb': 0, 'nn': 0, 'en': 0, 'la': 0},
                 'altLabels': {'nb': 0, 'nn': 0, 'en': 0, 'la': 0}
             },
-            'CompoundConcept': {
+            'ComplexConcept': {
                 'concepts': 0,
                 'terms': 0,
                 'prefLabels': {}
             },
-            'VirtualCompoundConcept': {
+            'VirtualComplexConcept': {
                 'concepts': 0,
                 'terms': 0,
                 'prefLabels': {}
@@ -489,7 +489,7 @@ def task_stats():
 
             sumConceptsWithStrings += facets[facetName]['concepts']
 
-            if facetName is not 'CompoundConcept' and facetName is not 'VirtualCompoundConcept':
+            if facetName is not 'ComplexConcept' and facetName is not 'VirtualComplexConcept':
                 sumConcepts += facets[facetName]['concepts']
 
             facets[facetName]['terms'] = 0
