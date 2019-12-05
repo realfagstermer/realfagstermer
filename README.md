@@ -58,8 +58,7 @@ Aktive deltakere fra Universitetsbiblioteket i Oslo, sortert alfabetisk etter br
   Kirsten Borse Haraldsen, klassifiserer biovitenskap.
 - [@kyrretl](https://github.com/kyrretl) :
   Kyrre Traavik Låberg, biolog, utvikler Emnesøk.
-- [@starseekr](https://github.com/starseekr) :
-  Trude Westby, klassifiserer informatikk.
+- Trine Høyås, klassifiserer informatikk (UiO, 2019-).
 - [@superLine](https://github.com/superLine) :
   Line Nybakk Akerholt, klassifiserer astrofysikk.
 - [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
@@ -85,15 +84,11 @@ Aktive deltakere fra Universitetsbiblioteket i Bergen, sortert alfabetisk etter 
 Tidligere bidragsytere:
 
 - [@bibliomari](https://github.com/bibliomari) :
-  Mari Lundevall, tidligere redaksjonsleder.
-- [@ewinge](https://github.com/ewinge) :
-  Erik Winge, utvikler Neo (og juridiske emneord, m.m.).
-- [@henriasv](https://github.com/henriasv) :
-  Henrik Andersen Sveinsson, klar til å klassifisere fysikk ved behov.
+  Mari Lundevall, tidligere redaksjonsleder (UiO, –2016).
 - [@jw-geo](https://github.com/jw-geo) :
-  Johannes Wiest, student, klassifiserte geologi (UiB).
+  Johannes Wiest, student med prosjektstilling for å klassifisere geologi (UiB, 2016–2017).
 - [@knuthe](https://github.com/knuthe) :
-  Knut Hegna, klassifiserte informatikk (UiO), utviklet Roald og Sonja.
+  Knut Hegna, klassifiserte informatikk, utviklet Roald og Sonja (UiO, –2017).
 - [@kristinran](https://github.com/kristinran) :
   Kristin Rangnes, klassifiserte geofag (UiO).
 - [@mittinatten](https://github.com/mittinatten) :
@@ -102,6 +97,8 @@ Tidligere bidragsytere:
   Marta Zygmuntowska, klassifiserte geofag, fysikk (anvendt) og teknologi (UiB)
 - [@iloveyellow](https://github.com/iloveyellow) :
   Solveig Isis Sørbø, taksonomist
+- [@starseekr](https://github.com/starseekr) :
+  Trude Westby, klassifiserte informatikk (UiO, 2017–2019).
 
 ### Prosjekt Realfagstermar på nynorsk
 
