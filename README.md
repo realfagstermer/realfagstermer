@@ -58,7 +58,8 @@ Aktive deltakere fra Universitetsbiblioteket i Oslo, sortert alfabetisk etter br
   Kirsten Borse Haraldsen, klassifiserer biovitenskap.
 - [@kyrretl](https://github.com/kyrretl) :
   Kyrre Traavik Låberg, biolog, utvikler Emnesøk.
-- Trine Høyås, klassifiserer informatikk (UiO, 2019-).
+- [@Quether](https://github.com/Quether) :
+  Trine Høyås, klassifiserer informatikk (UiO, 2019-).
 - [@superLine](https://github.com/superLine) :
   Line Nybakk Akerholt, klassifiserer astrofysikk.
 - [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
@@ -126,7 +127,7 @@ I perioden 2017-2019 har Realfagstermer blitt oversatt til engelsk, kategorisert
 - Ole Andreas Hoel
 - Mirna Porobic ([@mirnap](https://github.com/mirnap))
 - Islam Hadjilah
-- Trine Høyås
+- Trine Høyås ([@Quether](https://github.com/Quether))
 
 En bieffekt har vært generell kvalitetsheving av vokabularet gjennom at en rekke feil og sammenslåingskandidater har blitt oppdaget.
 Se [Prosjekt «Kinderegg»](https://github.com/realfagstermer/prosjekt-kinderegg) for mer om prosjektet.
