@@ -85615,14 +85615,18 @@ te= Leppeblomstfamilien
 ba= nb
 ba= nq
 ba= ns
+bf= Leppeblomster
+ot= REAL032226
 nn= Leppeblomfamilien
+nn= Leppeblomar
+nn= Lepeblomar
+nn= Lepeblomfamilien
 en= Deadnettle family
 en= Mint family
-en= the deadnettle family
 en= Labiatae
 en= Lamiaceae
-en= the mint family
 tio= 2014-08-25T00:00:00Z
+tie= 2019-12-13T16:09:46Z
 st= REAL027911
 
 id= REAL009891
@@ -97951,15 +97955,18 @@ id= REAL011347
 te= Katastrofeberedskap
 ba= ns
 bf= Beredskapsplaner
+bf= Katastrofehåndtering
 nn= Katastrofevernebuing
 nn= Katastrofeberedskap
 nn= Vernebuingsplanar
 nn= Beredskapsplanar
+nn= Vernebuing
 en= Disaster management
 en= Contingency plans
 en= Emergency management
+en= Disaster preparedness
 tio= 2014-08-25T00:00:00Z
-tie= 2017-04-04T17:48:12Z
+tie= 2019-12-13T15:47:16Z
 
 id= REAL011348
 te= Organonitrogen
@@ -114512,9 +114519,11 @@ tie= 2017-01-06T00:06:34Z
 
 id= REAL012964
 te= Kapillærelektrokromatografi
+so= REAL032224
 nn= Kapillærelektrokromatografi
 en= Capillary electrochromatography
 tio= 2014-08-25T00:00:00Z
+tie= 2019-12-13T15:55:12Z
 
 id= REAL012965
 te= Kapillærsoneelektroforese
@@ -121161,7 +121170,9 @@ te= Toriske varieteter
 ba= nm
 nn= Toriske varietetar
 en= Toric varieties
+en= Torus embeddings
 tio= 2014-08-25T00:00:00Z
+tie= 2019-12-13T15:18:18Z
 
 id= REAL013459
 te= Enumerativ kombinatorikk
@@ -134978,4 +134989,70 @@ en= Silanes
 de= Mettede silisiumhydrider
 tio= 2019-11-29T21:33:07Z
 tie= 2019-11-29T21:35:24Z
+
+id= REAL032220
+te= Gresskarfamilien
+bf= Gresskar
+nn= Graskarfamilien
+nn= Graskar
+en= Cucurbits
+la= Cucurbitaceae
+tio= 2019-12-13T15:03:42Z
+tie= 2019-12-13T15:10:35Z
+
+id= REAL032221
+te= Torisk geometri
+nn= Torisk geometri
+en= Toric geometry
+tio= 2019-12-13T15:10:52Z
+tie= 2019-12-13T15:11:07Z
+
+id= REAL032223
+te= Desmider
+nn= Desmidar
+en= Desmids
+la= Desmidiales
+tio= 2019-12-13T15:25:08Z
+tie= 2019-12-13T15:25:29Z
+
+id= REAL032224
+te= Monolittiske materialer
+so= REAL012964
+no= Term brukt i kromatografi
+nn= Monolittiske materialar
+en= Monolithic materials
+en= Monolithic separation media
+en= Monoliths
+de= Kromatografisk pakkemateriale (sorbent)
+tio= 2019-12-13T15:50:48Z
+tie= 2019-12-13T15:59:19Z
+
+id= REAL032225
+te= Snylterotfamilien
+ot= REAL032226
+nn= Snylterotfamilien
+en= Broomrapes
+la= Orobanchaceae
+tio= 2019-12-13T16:00:11Z
+tie= 2019-12-13T16:05:37Z
+
+id= REAL032226
+te= Leppeblomstordenen
+ut= REAL009890
+ut= REAL032225
+nn= Leppeblomordenen
+nn= Lepeblomsterordenen
+nn= Leppeblomsterordenen
+nn= Lepeblomordenen
+la= Lamiales
+tio= 2019-12-13T16:04:25Z
+tie= 2019-12-13T16:09:35Z
+
+id= REAL032227
+te= Asterider
+nn= Asterider
+en= Asterids
+la= Asteridae
+tio= 2019-12-13T16:11:06Z
+tie= 2019-12-13T16:12:37Z
 

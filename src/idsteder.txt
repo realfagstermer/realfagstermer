@@ -5066,3 +5066,11 @@ te= Burkina Faso
 tio= 2019-11-05T15:28:09Z
 tie= 2019-11-05T15:28:09Z
 
+id= REAL032222
+te= Filefjell
+nn= Filefjell
+en= Filefjell
+de= fjellområde mellom Lærdal i Sogn og Vang i Valdres i Norge
+tio= 2019-12-13T15:19:24Z
+tie= 2019-12-13T15:19:55Z
+
