@@ -5043,12 +5043,14 @@ tie= 2019-09-05T21:23:38Z
 
 id= REAL032151
 te= Rauland
+en= Rauland
 de= fjellbygd og turområde i Telemark
 tio= 2019-10-31T16:41:08Z
 tie= 2019-10-31T16:44:25Z
 
 id= REAL032152
 te= Lesja
+en= Lesja
 de= kommune i Oppland
 tio= 2019-10-31T16:44:51Z
 tie= 2019-10-31T16:45:35Z
@@ -5063,6 +5065,7 @@ tie= 2019-11-01T12:25:26Z
 
 id= REAL032199
 te= Burkina Faso
+en= Burkina Faso
 tio= 2019-11-05T15:28:09Z
 tie= 2019-11-05T15:28:09Z
 
