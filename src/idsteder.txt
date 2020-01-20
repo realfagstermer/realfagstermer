@@ -2093,12 +2093,18 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030576
 te= Polarområdene
-bf= Polarområder
-bf= Polområder
 bf= Polare strøk
+bf= Polområdene
+bf= Polarregionene
+bf= Polregionene
+nn= Polarområda
+nn= Polare strok
+nn= Polområda
+nn= Polarregionane
+nn= Polregionane
 en= Polar regions
 tio= 2015-02-20T13:08:04Z
-tie= 2016-05-24T14:22:38Z
+tie= 2020-01-20T13:52:00Z
 
 id= REAL030577
 te= Paris
@@ -5076,4 +5082,13 @@ en= Filefjell
 de= fjellområde mellom Lærdal i Sogn og Vang i Valdres i Norge
 tio= 2019-12-13T15:19:24Z
 tie= 2019-12-13T15:19:55Z
+
+id= REAL032232
+te= Moldova
+bf= Republikken Moldova
+nn= Moldova
+en= Moldova
+en= Republic of Moldova
+tio= 2020-01-20T13:37:14Z
+tie= 2020-01-20T13:37:40Z
 
