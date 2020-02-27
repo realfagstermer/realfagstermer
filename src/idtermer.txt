@@ -133131,6 +133131,7 @@ tie= 2017-11-14T13:15:47Z
 
 id= REAL031911
 te= Stortare
+so= REAL032217
 nn= Stortare
 en= Tangle
 en= Cuvie
@@ -134993,6 +134994,7 @@ id= REAL032217
 te= Tarer
 bf= Tare
 so= REAL006200
+so= REAL031911
 ot= REAL013637
 nn= Tarar
 nn= Tare
@@ -135000,7 +135002,7 @@ en= Kelps
 en= Kelp
 la= Laminariales
 tio= 2019-11-28T11:02:56Z
-tie= 2020-02-26T13:36:19Z
+tie= 2020-02-27T16:17:54Z
 
 id= REAL032218
 te= Skiveprolaps
