@@ -135161,3 +135161,10 @@ en= Placenta
 tio= 2020-02-26T18:16:43Z
 tie= 2020-02-26T18:19:11Z
 
+id= REAL032235
+te= Aritmetisk geometri
+nn= Aritmetisk geometri
+en= Arithmetic geometry
+tio= 2020-02-28T10:54:35Z
+tie= 2020-02-28T11:05:48Z
+
