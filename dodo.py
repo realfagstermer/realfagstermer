@@ -16,13 +16,15 @@ from rdflib.graph import Graph, URIRef
 import csv
 import time
 import json
+import os
 import data_ub_tasks
 
+FUSEKI_HOST = os.environ.get('FUSEKI_HOST', 'localhost')
 config = {
     'dumps_dir': get_var('dumps_dir', '/opt/data.ub/www/default/dumps'),
     'dumps_dir_url': get_var('dumps_dir_url', 'http://data.ub.uio.no/dumps'),
     'graph': 'http://data.ub.uio.no/realfagstermer',
-    'fuseki': 'http://localhost:3031/ds',
+    'fuseki': 'http://%s:3031/ds' % FUSEKI_HOST,
     'basename': 'realfagstermer',
     'git_user': 'ubo-bot',
     'git_email': 'danmichaelo+ubobot@gmail.com',
@@ -165,7 +167,7 @@ def task_build_extras():
         marc21options = {
             'vocabulary_code': 'noubomn',
             'created_by': 'NO-TrBIB',
-            'include_extras': True,
+            'include_extras': 'complex',
             'include_memberships': True,
         }
         roald.export('dist/%s.ccmapper.marc21.xml' %
@@ -182,7 +184,7 @@ def task_build_extras():
         marc21options = {
             'vocabulary_code': 'noubomn',
             'created_by': 'NO-TrBIB',
-            'include_extras': False,
+            'include_extras': 'simple',
             'include_memberships': False,
         }
         roald.export('dist/%s.marc21.xml' %
