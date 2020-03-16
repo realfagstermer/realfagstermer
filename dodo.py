@@ -167,7 +167,7 @@ def task_build_extras():
         marc21options = {
             'vocabulary_code': 'noubomn',
             'created_by': 'NO-TrBIB',
-            'include_extras': 'complex',
+            'include_d9': 'complex',
             'include_memberships': True,
         }
         roald.export('dist/%s.ccmapper.marc21.xml' %
@@ -184,7 +184,7 @@ def task_build_extras():
         marc21options = {
             'vocabulary_code': 'noubomn',
             'created_by': 'NO-TrBIB',
-            'include_extras': 'simple',
+            'include_d9': 'simple',
             'include_memberships': False,
         }
         roald.export('dist/%s.marc21.xml' %
