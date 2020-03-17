@@ -5092,3 +5092,10 @@ en= Republic of Moldova
 tio= 2020-01-20T13:37:14Z
 tie= 2020-01-20T13:37:40Z
 
+id= REAL032236
+te= Tadsjikistan
+nn= Tadsjikistan
+en= Tajikistan
+tio= 2020-03-17T14:40:37Z
+tie= 2020-03-17T14:41:14Z
+
