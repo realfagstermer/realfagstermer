@@ -47219,8 +47219,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL005481
 te= Multiprosessering
 ba= ni
+bf= Flerprosessering
 nn= Multiprosessering
+en= Multiprocessing
 tio= 2014-08-25T00:00:00Z
+tie= 2020-05-22T14:36:11Z
 
 id= REAL005482
 te= Silrør
