@@ -75767,12 +75767,13 @@ bf= MR-tomografi
 bf= Magnettomografi
 ak= MRI
 ak= NMRI
+so= REAL032237
 nn= Magnetresonanstomografi
 nn= MR-tomografi
 nn= Magnettomografi
 en= Magnetic resonance imaging
 tio= 2014-08-25T00:00:00Z
-tie= 2017-09-25T09:45:07Z
+tie= 2020-05-27T15:23:07Z
 
 id= REAL008729
 te= Radixsortering
@@ -135170,4 +135171,18 @@ nn= Aritmetisk geometri
 en= Arithmetic geometry
 tio= 2020-02-28T10:54:35Z
 tie= 2020-02-28T11:05:48Z
+
+id= REAL032237
+te= Funksjonell magnetresonansavbildning
+bf= fMRI
+bf= Funksjonell MRI
+so= REAL008728
+nn= Funksjonell magnetresonansavbildning
+nn= Funksjonell MRI
+nn= fMRI
+en= Functional magnetic resonance imaging
+en= Functional MRI
+en= fMRI
+tio= 2020-05-27T15:21:53Z
+tie= 2020-05-27T15:22:50Z
 
