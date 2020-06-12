@@ -872,11 +872,12 @@ id= REAL030350
 te= Oslomarka
 so= REAL031380
 so= REAL031379
+so= REAL032243
 ut= REAL031380
 en= Oslomarka
 en= Marka, Oslo
 tio= 2015-02-20T13:08:04Z
-tie= 2015-03-23T13:28:27Z
+tie= 2020-06-12T17:28:09Z
 
 id= REAL030351
 te= Nordpolen
@@ -5098,4 +5099,15 @@ nn= Tadsjikistan
 en= Tajikistan
 tio= 2020-03-17T14:40:37Z
 tie= 2020-03-17T14:41:14Z
+
+id= REAL032238
+te= Solnhofen
+tio= 2020-06-12T13:37:07Z
+tie= 2020-06-12T13:37:07Z
+
+id= REAL032243
+te= Østensjøvannet
+so= REAL030350
+tio= 2020-06-12T17:26:06Z
+tie= 2020-06-12T17:28:07Z
 
