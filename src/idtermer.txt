@@ -56945,8 +56945,11 @@ te= Anvendt mikrobiologi
 ba= nk
 ba= nb
 nn= Bruksretta mikrobiologi
+nn= Industriell mikrobiologi
 en= Applied microbiology
+en= Industrial microbiology
 tio= 2014-08-25T00:00:00Z
+tie= 2020-06-24T17:21:47Z
 
 id= REAL006568
 te= Fiolinbygging
@@ -135275,4 +135278,11 @@ nn= Sialinsyrer
 en= Sialic acids
 tio= 2020-06-17T20:29:40Z
 tie= 2020-06-17T20:29:47Z
+
+id= REAL032247
+te= Industriell mikrobiologi
+tio= 2020-06-24T17:04:35Z
+tie= 2020-06-24T17:05:20Z
+tis= 2020-06-24T17:21:39Z
+fly= REAL006567
 
