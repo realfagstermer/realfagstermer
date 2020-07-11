@@ -135203,6 +135203,7 @@ tie= 2019-12-14T19:53:39Z
 
 id= REAL032229
 te= Morfologi (lingvistikk)
+en= Morphology (linguistics)
 tio= 2019-12-14T20:07:09Z
 tie= 2019-12-14T20:07:09Z
 

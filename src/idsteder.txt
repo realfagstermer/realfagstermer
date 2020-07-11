@@ -5045,6 +5045,7 @@ tie= 2018-09-21T14:20:11Z
 
 id= REAL032135
 te= Donetsbassenget
+en= Donets Basin
 tio= 2019-09-05T21:23:38Z
 tie= 2019-09-05T21:23:38Z
 
@@ -5102,12 +5103,14 @@ tie= 2020-03-17T14:41:14Z
 
 id= REAL032238
 te= Solnhofen
+en= Solnhofen
 tio= 2020-06-12T13:37:07Z
 tie= 2020-06-12T13:37:07Z
 
 id= REAL032243
 te= Østensjøvannet
 so= REAL030350
+en= Østensjøvannet
 tio= 2020-06-12T17:26:06Z
 tie= 2020-06-12T17:28:07Z
 
