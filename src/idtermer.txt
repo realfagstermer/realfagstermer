@@ -6638,9 +6638,14 @@ tie= 2019-01-26T17:52:55Z
 id= REAL000760
 te= Omprogrammering
 ba= ni
+bf= Reengineering av programvare
+so= REAL032253
 nn= Omprogrammering
-en= Reprogramming
+nn= Reengineering av programvare
+en= Software reengineering
+en= Reengineering
 tio= 2014-08-25T00:00:00Z
+tie= 2020-07-24T13:09:17Z
 
 id= REAL000761
 te= Hav
@@ -135412,4 +135417,18 @@ en= Middleboxes
 en= Middle boxes
 tio= 2020-07-10T21:35:26Z
 tie= 2020-07-10T21:38:34Z
+
+id= REAL032253
+te= Refaktorering
+bf= Omstrukturering av kode
+bf= Refaktorisering
+so= REAL000760
+nn= Refaktorering
+nn= Omstrukturisering av kode
+nn= Refaktorisering
+en= Refactoring
+en= Software refactoring
+en= Code refactoring
+tio= 2020-07-24T13:05:49Z
+tie= 2020-07-24T13:07:53Z
 
