@@ -135454,3 +135454,11 @@ en= Turing degree
 tio= 2020-08-19T10:13:41Z
 tie= 2020-08-19T10:26:08Z
 
+id= REAL032256
+te= Utslippshandel
+nn= Utsleppshandel
+en= Emissions trading
+de= Handel med CO2-kvoter
+tio= 2020-10-22T14:42:08Z
+tie= 2020-10-22T14:42:53Z
+
