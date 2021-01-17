@@ -135462,3 +135462,10 @@ de= Handel med CO2-kvoter
 tio= 2020-10-22T14:42:08Z
 tie= 2020-10-22T14:42:53Z
 
+id= REAL032257
+te= Kroniske sykdommer
+nn= Kroniske sjukdommar
+en= Chronic diseases
+tio= 2021-01-15T11:11:44Z
+tie= 2021-01-15T11:12:46Z
+
