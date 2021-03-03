@@ -1,5 +1,0 @@
-doit
-rdflib
-pyyaml
-git+git://github.com/realfagstermer/roald.git
-git+git://github.com/scriptotek/data_ub_tasks.git

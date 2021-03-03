@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "realfagstermer"
+version = "0.1.0"
+description = "Conversion scripts for Realfagstermer"
+authors = ["Dan Michael O. Heggo <d.m.heggo@ub.uio.no>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+doit = "^0.33.1"
+rdflib = "^5.0.0"
+PyYAML = "^5.4.1"
+roald = {git = "https://github.com/realfagstermer/roald.git"}
+data-ub-tasks = {git = "https://github.com/scriptotek/data_ub_tasks.git"}
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
