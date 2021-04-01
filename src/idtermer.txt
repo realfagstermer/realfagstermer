@@ -20853,15 +20853,18 @@ ba= ne
 ba= ns
 bf= Karsykdommer
 bf= Hjertesykdommer
+bf= Hjertemedisin
 nn= Hjarte- og karsjukdomar
 nn= Hjarte- og karsjukdommar
 nn= Hjartesjukdomar
 nn= Hjartesjukdommar
 nn= Karsjukdomar
 nn= Karsjukdommar
+nn= Hjartemedisin
 en= Cardiovascular diseases
 en= Cardiovascular disease
 en= CVD
+en= Heart medicine
 tio= 2014-08-25T00:00:00Z
 tie= 2020-07-10T19:49:00Z
 
@@ -66148,10 +66151,9 @@ tis= 2017-06-01T15:11:50Z
 
 id= REAL007630
 te= Hjertemedisin
-ba= ni
-nn= Hjartemedisin
-en= Heart medicine
 tio= 2014-08-25T00:00:00Z
+tis= 2021-03-31T21:53:15Z
+fly= REAL002398
 
 id= REAL007631
 te= Dagslys
@@ -135570,4 +135572,11 @@ en= Continuous integration
 en= Continuous delivery
 tio= 2021-03-31T21:22:19Z
 tie= 2021-03-31T21:27:29Z
+
+id= REAL032264
+te= Medisinsk overvåkning
+nn= Medisinsk overvåkning
+en= Medical monitoring
+tio= 2021-03-31T21:59:26Z
+tie= 2021-03-31T22:00:03Z
 
