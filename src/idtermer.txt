@@ -135580,3 +135580,14 @@ en= Medical monitoring
 tio= 2021-03-31T21:59:26Z
 tie= 2021-03-31T22:00:03Z
 
+id= REAL032265
+te= ʻOumuamua
+bf= Oumuamua
+no= github:#1668
+nn= ʻOumuamua
+nn= Oumuamua
+en= ʻOumuamua
+en= Oumuamua
+tio= 2021-06-17T15:22:18Z
+tie= 2021-06-17T15:22:50Z
+
