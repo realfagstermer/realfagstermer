@@ -40,36 +40,39 @@ GitHub-tips for bidragsytere:
 
 ## Bidragsytere
 
+(sortert alfabetisk etter brukernavn)
 (For å varsle alle: @realfagstermer/alle)
 
-Aktive deltakere fra Universitetsbiblioteket i Oslo, sortert alfabetisk etter brukernavn:
+Klassifikasjon/emneordsredaksjon:
+
+- [@grosyn](https://github.com/grosyn) :
+  Gro Synnøve Nesland
+- [@vibekelundetrae](https://github.com/vibekelundetrae) :
+  Vibeke Stockinger Lundetræ
+
+Fagpersoner Universitetsbiblioteket i Oslo:
 
 - [@BioHeidi](https://github.com/BioHeidi) :
-  Heidi Konestabo, klassifiserer biovitenskap.
+  Heidi Konestabo: biovitenskap
 - [@danmichaelo](https://github.com/danmichaelo) :
-  Dan Michael O. Heggø, klassifiserer fysikk og materialvitenskap, utvikler Emnesøk.
+  Dan Michael O. Heggø: fysikk og materialvitenskap
 - [@edinab](https://github.com/edinab) :
-  Edina Pozer Bue, klassifiserer geofag og meteorologi.
-- [@grosyn](https://github.com/grosyn) :
-  Gro Synnøve Nesland, klassifiserer litt innimellom katalogiseringen.
+  Edina Pozer Bue: geofag og meteorologi
 - [@jessiclo](https://github.com/jessiclo) :
-  Jessica Lönn-Stensrud, mikrobiolog.
+  Jessica Lönn-Stensrud: mikrobiologi
 - [@haraldse](https://github.com/haraldse) :
-  Kirsten Borse Haraldsen, klassifiserer biovitenskap.
+  Kirsten Borse Haraldsen: biovitenskap
 - [@kyrretl](https://github.com/kyrretl) :
-  Kyrre Traavik Låberg, biolog, utvikler Emnesøk.
+  Kyrre Traavik Låberg: adferdsbiologi
 - [@Quether](https://github.com/Quether) :
-  Trine Høyås, klassifiserer informatikk (UiO, 2019-).
+  Trine Høyås: informatikk
 - [@superLine](https://github.com/superLine) :
-  Line Nybakk Akerholt, klassifiserer astrofysikk.
+  Line Nybakk Akerholt: astrofysikk.
 - [@TorgunnKarolineMoe](https://github.com/TorgunnKarolineMoe) :
-  Karoline Moe, klassifiserer matematikk.
-- [@violabibaluba](https://github.com/violabibaluba) :
-  Viola Kuldvere, **redaksjonsleder**.
-- Tone Charlotte Gadmar, klassifiserer kjemi.
-- Bente Kathrine Rasch, klassifiserer farmasi.
+  Karoline Moe: matematikk.
+- Tone Charlotte Gadmar: kjemi.
 
-Aktive deltakere fra Universitetsbiblioteket i Bergen, sortert alfabetisk etter brukernavn:
+Fagpersoner Universitetsbiblioteket i Bergen:
 
 - [@beatekh](https://github.com/beatekh) :
   Beate Krøvel Humberset, klassifiserer matematikk, informatikk og fysikk.
@@ -77,8 +80,6 @@ Aktive deltakere fra Universitetsbiblioteket i Bergen, sortert alfabetisk etter 
   Ingunn Rødland, klassifiserer kjemi.
 - [@ken075](https://github.com/ken075) :
   Kjersti Enerstvedt, klassifiserer geofag og teknologi.
-- [@Caroline-A](https://github.com/Caroline-A) :
-  Caroline Susanne Armitage, klassifiserer marinbiologi, delvis vikar for @Hypsibus.
 - [@Hypsibius](https://github.com/Hypsibius) :
   Hege Folkestad, klassifiserer biovitenskap.
 
@@ -100,6 +101,11 @@ Tidligere bidragsytere:
   Solveig Isis Sørbø, taksonomist
 - [@starseekr](https://github.com/starseekr) :
   Trude Westby, klassifiserte informatikk (UiO, 2017–2019).
+- Bente Kathrine Rasch, klassifiserer farmasi.
+- [@Caroline-A](https://github.com/Caroline-A) :
+  Caroline Susanne Armitage, klassifiserer marinbiologi, delvis vikar for @Hypsibus.
+- [@violabibaluba](https://github.com/violabibaluba) :
+  Viola Kuldvere
 
 ### Prosjekt Realfagstermar på nynorsk
 
