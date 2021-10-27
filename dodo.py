@@ -79,14 +79,14 @@ def task_fetch_extras():
         'name': None
     }
     for file in [
-        {'remote': 'https://mapper.biblionaut.net/export/real_tekord_mappings.ttl',
-            'local': 'src/real_tekord_mappings.ttl'},
-        {'remote': 'https://mapper.biblionaut.net/export/real_agrovoc_mappings.ttl',
-            'local': 'src/real_agrovoc_mappings.ttl'},
-        {'remote': 'https://lambda.biblionaut.net/export/real_hume_mappings.ttl',
-            'local': 'src/real_hume_mappings.ttl'},
-        {'remote': 'https://lambda.biblionaut.net/export/ccmapper_mappings.ttl',
-            'local': 'src/ccmapper_mappings.ttl'},
+        #{'remote': 'https://mapper.biblionaut.net/export/real_tekord_mappings.ttl',
+        #    'local': 'src/real_tekord_mappings.ttl'},
+        #{'remote': 'https://mapper.biblionaut.net/export/real_agrovoc_mappings.ttl',
+        #    'local': 'src/real_agrovoc_mappings.ttl'},
+        #{'remote': 'https://lambda.biblionaut.net/export/real_hume_mappings.ttl',
+        #    'local': 'src/real_hume_mappings.ttl'},
+        #{'remote': 'https://lambda.biblionaut.net/export/ccmapper_mappings.ttl',
+        #    'local': 'src/ccmapper_mappings.ttl'},
         {'remote': 'https://data.ub.uio.no/dumps/msc-ubo.mappings.nt',
             'local': 'src/msc-ubo.mappings.nt'},        # {'remote': 'https://rawgit.com/realfagstermer/prosjekt-kinderegg/master/categories_and_mappings.ttl',
         #     'local': 'src/categories_and_mappings.ttl'},
