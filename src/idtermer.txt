@@ -134982,10 +134982,17 @@ tio= 2019-10-25T17:15:45Z
 tie= 2019-10-25T17:55:38Z
 
 id= REAL032149
-te= Taniyama–Shimura–Weil-formodningen
+te= Modularitetsteoremet
 bf= Taniyama–Shimura-formodningen
+bf= Taniyama–Shimura–Weil-formodningen
+nn= Modularitetsteoremet
+nn= Taniyama–Shimura–Weil-førehandstrua
+nn= Taniyama–Shimura-førehandstrua
+en= Modularity theorem
+en= Taniyama–Shimura–Weil conjecture
+en= Taniyama-Shimura theorem
 tio= 2019-10-25T17:20:33Z
-tie= 2019-10-25T17:25:49Z
+tie= 2021-10-28T08:29:14Z
 
 id= REAL032150
 te= Hasse–Weil-formodningen
@@ -135579,3 +135586,22 @@ nn= Medisinsk overvåkning
 en= Medical monitoring
 tio= 2021-03-31T21:59:26Z
 tie= 2021-03-31T22:00:03Z
+
+id= REAL032267
+te= Euklidsk geometri
+nn= Euklidsk geometri
+en= Euclidean geometry
+tio= 2021-10-28T16:38:59Z
+tie= 2021-10-28T16:39:14Z
+
+id= REAL032268
+te= Soppmygg
+nn= Soppmygg
+en= Fungus gnat
+la= Mycetophilidae
+la= Exechiini
+la= Allodia
+la= Allodia Winnertz
+tio= 2021-10-28T16:55:47Z
+tie= 2021-10-28T16:57:45Z
+
