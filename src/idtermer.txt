@@ -135703,3 +135703,12 @@ en= Environmental DNA
 tio= 2021-11-05T09:22:16Z
 tie= 2021-11-05T09:28:34Z
 
+id= REAL032279
+te= Fotokjemisk internalisering
+ak= PCI
+nn= Fotokjemisk internalisering
+en= Photochemical internalization
+de= Fotokjemisk internalisering (engelsk:Photochemical internalization, forkortet PCI) er en unik fotokjemisk metode for frigjøring av molekyler eller virus fra endosomer og/eller lysosomer til cellens cytosol. Slike molekyler/virus (som regel makromolekyler) tas opp i celler ved endocytose og er for store til å transporteres eller diffunderes direkte gjennom plasmamembranen eller membranen til den endocytiske vesikkelen (endosom/lysosom). Dette fører til enzymatisk degradering av molekylene i sene endosomer og lysosomer, noe som medfører til at en rekke terapeutiske molekyler blir hindret i å utføre sin biologiske funksjon. Ved hjelp av PCI kan man derfor fotokjemisk ødelegge membranen til endocytiske vesikler som resulterer i at medikamentet frigjøres til cytosol eller cellekjernen hvor det kan virke. (Wikipedia)
+tio= 2021-11-26T14:04:09Z
+tie= 2021-11-26T14:25:50Z
+
