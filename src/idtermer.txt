@@ -135712,3 +135712,13 @@ de= Fotokjemisk internalisering (engelsk:Photochemical internalization, forkorte
 tio= 2021-11-26T14:04:09Z
 tie= 2021-11-26T14:25:50Z
 
+id= REAL032280
+te= Bølgekinematikk
+nn= Bølgjekinematikk
+nn= Bylgjekinematikk
+nn= Bølgekinematikk
+en= Wave kinematics
+de= "Bølgekinematikk beskriver hvordan bølgepartikler eller dråper i en bølge beveger seg." (Wikipedia) 
+tio= 2022-01-04T13:31:12Z
+tie= 2022-01-04T13:48:30Z
+
