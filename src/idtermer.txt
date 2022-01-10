@@ -85121,14 +85121,17 @@ tio= 2014-08-25T00:00:00Z
 tis= 2019-01-27T13:53:02Z
 
 id= REAL009825
-te= CO2-lagring
+te= CO2-håndtering
 ba= nc
+bf= CO2-lagring
+bf= CO2-fangst
+ak= CCS
 so= REAL009964
-nn= CO2-lagring
-en= Carbon storage
+nn= CO2-handtering
 en= Carbon capture and storage
+en= Carbon storage
 tio= 2014-08-25T00:00:00Z
-tie= 2018-08-17T14:16:55Z
+tie= 2022-01-10T15:17:54Z
 
 id= REAL009826
 te= Portretter
@@ -135718,7 +135721,7 @@ nn= Bølgjekinematikk
 nn= Bylgjekinematikk
 nn= Bølgekinematikk
 en= Wave kinematics
-de= "Bølgekinematikk beskriver hvordan bølgepartikler eller dråper i en bølge beveger seg." (Wikipedia) 
+de= "Bølgekinematikk beskriver hvordan bølgepartikler eller dråper i en bølge beveger seg." (Wikipedia)
 tio= 2022-01-04T13:31:12Z
 tie= 2022-01-04T13:48:30Z
 
