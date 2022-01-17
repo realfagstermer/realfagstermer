@@ -135736,3 +135736,11 @@ de= En fiskeart i perlemorsfiskfamilien. (SNL)
 tio= 2022-01-12T15:11:26Z
 tie= 2022-01-12T15:20:11Z
 
+id= REAL032284
+te= Sitkagran
+nn= Sitkagran
+en= Sitka spruce
+la= Picea sitchensis
+tio= 2022-01-17T12:12:09Z
+tie= 2022-01-17T12:30:39Z
+
