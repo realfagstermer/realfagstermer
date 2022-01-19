@@ -135744,3 +135744,15 @@ la= Picea sitchensis
 tio= 2022-01-17T12:12:09Z
 tie= 2022-01-17T12:30:39Z
 
+id= REAL032285
+te= Covid-19
+bf= Coronapandemien
+bf= Koronapandemien
+bf= Koronaviruset SARS-CoV-2
+nn= Covid-19
+en= Covid-19
+en= Corona pandemic
+en= Coronavirus pandemic
+tio= 2022-01-19T12:04:45Z
+tie= 2022-01-19T12:08:02Z
+
