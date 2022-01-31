@@ -135756,3 +135756,11 @@ en= Coronavirus pandemic
 tio= 2022-01-19T12:04:45Z
 tie= 2022-01-19T12:08:02Z
 
+id= REAL032286
+te= Matematisk epidemiologi
+nn= Matematisk epidemiologi
+en= Mathematical epidemiology
+dw= 614.4015118
+tio= 2022-01-31T10:54:25Z
+tie= 2022-01-31T10:57:43Z
+
