@@ -135791,3 +135791,11 @@ en= del Pezzo surfaces
 tio= 2022-02-02T15:30:16Z
 tie= 2022-02-02T15:31:01Z
 
+id= REAL032291
+te= Kombinatorisk lappeteppe
+bf= Kombinatorisk lappverk
+nn= Kombinatorisk lappeteppe
+en= Combinatorial patchwork
+tio= 2022-02-04T09:21:19Z
+tie= 2022-02-04T09:24:35Z
+
