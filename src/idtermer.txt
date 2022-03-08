@@ -21722,14 +21722,13 @@ bf= Datasimulering
 no= Hvis fokuset er på metodeutvikling, bruk Numeriske metoder
 nn= Numerisk modellering
 nn= Numerisk simulering
-nn= Computer simulation
 nn= Datasimulering
 en= Numerical modelling
 en= Numerical modeling
 en= Numerical simulation
 en= Computer simulation
 tio= 2014-08-25T00:00:00Z
-tie= 2018-08-05T22:01:36Z
+tie= 2022-03-08T11:32:38Z
 
 id= REAL002498
 te= Infrarøde spektra
@@ -85130,8 +85129,9 @@ so= REAL009964
 nn= CO2-handtering
 en= Carbon capture and storage
 en= Carbon storage
+dw= 546.6812
 tio= 2014-08-25T00:00:00Z
-tie= 2022-01-10T15:17:54Z
+tie= 2022-03-08T11:10:38Z
 
 id= REAL009826
 te= Portretter
@@ -135753,8 +135753,9 @@ nn= Covid-19
 en= Covid-19
 en= Corona pandemic
 en= Coronavirus pandemic
+dw= 616.2414
 tio= 2022-01-19T12:04:45Z
-tie= 2022-01-19T12:08:02Z
+tie= 2022-03-08T12:31:39Z
 
 id= REAL032286
 te= Matematisk epidemiologi
@@ -135798,4 +135799,13 @@ nn= Kombinatorisk lappeteppe
 en= Combinatorial patchwork
 tio= 2022-02-04T09:21:19Z
 tie= 2022-02-04T09:24:35Z
+
+id= REAL032294
+te= Landskapsfotografi
+bf= Landskapsfoto
+bf= Landskapsfotografering
+nn= Landskapsfotografi
+en= Landscape photography
+tio= 2022-03-08T14:00:47Z
+tie= 2022-03-08T14:03:27Z
 
