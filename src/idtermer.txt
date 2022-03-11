@@ -102595,10 +102595,9 @@ tis= 2017-05-12T13:14:51Z
 
 id= REAL011845
 te= Chemoton
-ba= nb
-nn= Chemoton
-en= Chemoton
 tio= 2014-08-25T00:00:00Z
+tis= 2022-03-11T14:10:33Z
+fly= REAL012117
 
 id= REAL011846
 te= Metamorfose
@@ -104795,8 +104794,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012117
 te= Protoceller
 ba= nb
+bf= Chemoton
 nn= Protoceller
+nn= Chemoton
 en= Protocells
+en= Chemoton
 tio= 2014-08-25T00:00:00Z
 
 id= REAL012118
@@ -121584,11 +121586,13 @@ tio= 2014-08-25T00:00:00Z
 
 id= REAL013482
 te= Ingefærfamilien
+ut= REAL032295
 nn= Ingefærfamilien
 en= Ginger
 la= Zingiberaceae
 dw= 584.39
 tio= 2014-08-25T00:00:00Z
+tie= 2022-03-11T13:55:06Z
 
 id= REAL013483
 te= Legemiddelovervåking
@@ -135808,4 +135812,22 @@ nn= Landskapsfotografi
 en= Landscape photography
 tio= 2022-03-08T14:00:47Z
 tie= 2022-03-08T14:03:27Z
+
+id= REAL032295
+te= Bananer
+bf= Banan
+bf= Kokebanan
+bf= Melbanan
+bf= Matbanan
+bf= Plantain
+ot= REAL013482
+nn= Bananar
+en= Bananas
+en= Plantain
+en= Cooking banana
+la= Musaceae
+dw= 641.34772
+dw= 641.34773
+tio= 2022-03-11T13:51:28Z
+tie= 2022-03-11T14:00:00Z
 
