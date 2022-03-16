@@ -135831,3 +135831,20 @@ dw= 641.34773
 tio= 2022-03-11T13:51:28Z
 tie= 2022-03-11T14:00:00Z
 
+id= REAL032296
+te= Stata
+nn= Stata
+en= Stata
+de= Programvare
+dw= 005.3
+tio= 2022-03-16T12:54:39Z
+tie= 2022-03-16T13:00:04Z
+
+id= REAL032297
+te= Symmetriske tensorer
+nn= Symmetriske tensorar
+en= Symmetric tensors
+dw= 516.353
+tio= 2022-03-16T15:42:15Z
+tie= 2022-03-16T15:45:11Z
+
