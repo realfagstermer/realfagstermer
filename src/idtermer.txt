@@ -135848,3 +135848,13 @@ dw= 516.353
 tio= 2022-03-16T15:42:15Z
 tie= 2022-03-16T15:45:11Z
 
+id= REAL032298
+te= Formrekonstruksjon
+bf= Rekonstruksjon
+nn= Formrekonstruksjon
+nn= Rekonstruksjon
+en= Geometry reconstruction
+dw= 006.69
+tio= 2022-03-17T13:08:25Z
+tie= 2022-03-17T13:10:40Z
+
