@@ -60548,11 +60548,13 @@ st= REAL019399
 id= REAL006973
 te= Fire-mangfoldigheter
 ba= nm
+bf= 4-mangfoldigheter
 nn= Fire-mangfald
 nn= 4-mangfald
 en= Four-manifolds
 en= 4-manifolds
 tio= 2014-08-25T00:00:00Z
+tie= 2022-03-18T09:19:15Z
 
 id= REAL006974
 te= Kalkulasjon
@@ -135857,4 +135859,31 @@ en= Geometry reconstruction
 dw= 006.69
 tio= 2022-03-17T13:08:25Z
 tie= 2022-03-17T13:10:40Z
+
+id= REAL032299
+te= Floer-homologi
+nn= Floer-homologi
+en= Floer homology
+dw= 516.36
+tio= 2022-03-18T08:47:39Z
+tie= 2022-03-18T09:00:52Z
+
+id= REAL032300
+te= Organoider
+nn= Organoidar
+en= Organoids
+de= Kunstige organer til bruk i laboratorieforsøk, bestående av små selvorganiserte tredimensjonale strukturer, dyrket frem av stamceller som etterligner celletyper i organer. Brukes bl.a. innen testing av medikamenter.
+dw= 543.65
+tio= 2022-03-18T09:30:54Z
+tie= 2022-03-18T12:24:12Z
+
+id= REAL032301
+te= Tre-mangfoldigheter
+bf= 3-mangfoldigheter
+nn= Tre-mangfald
+nn= 3-mangfald
+en= Three-manifolds
+en= 3-manifolds
+tio= 2022-03-18T10:25:50Z
+tie= 2022-03-18T10:27:15Z
 
