@@ -1148,8 +1148,11 @@ tio= 2015-02-20T13:08:04Z
 
 id= REAL030401
 te= Great Barrier Reef
+so= REAL032293
 en= Great Barrier Reef
+dw= 994.3
 tio= 2015-02-20T13:08:04Z
+tie= 2022-03-23T09:01:30Z
 
 id= REAL030402
 te= Drammen
@@ -5127,9 +5130,10 @@ tie= 2021-06-17T15:22:50Z
 
 id= REAL032293
 te= Korallhavet
+so= REAL030401
 nn= Korallhavet
 en= Coral Sea
 dw= 551.461476
 tio= 2022-02-04T12:07:25Z
-tie= 2022-03-08T10:35:45Z
+tie= 2022-03-23T08:57:48Z
 
