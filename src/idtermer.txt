@@ -34542,6 +34542,8 @@ ba= nb
 ba= nq
 ba= ns
 ot= REAL008283
+ut= REAL032302
+ut= REAL032303
 nn= Jordbrukslandskap
 en= Agricultural landscapes
 tio= 2014-08-25T00:00:00Z
@@ -135886,4 +135888,27 @@ en= Three-manifolds
 en= 3-manifolds
 tio= 2022-03-18T10:25:50Z
 tie= 2022-03-18T10:27:15Z
+
+id= REAL032302
+te= Terrassering
+bf= Terrasse
+ot= REAL003964
+nn= Terrassering
+en= Terracing
+de= Anlegg eller formasjon av et område som en rekke trappeformete terrasser.
+dw= 631.455
+tio= 2022-03-24T10:19:07Z
+tie= 2022-03-24T13:19:20Z
+
+id= REAL032303
+te= Chinampaer
+bf= Chinampasdyrking
+bf= Chinampas
+ot= REAL003964
+nn= Chinampaar
+en= Chinampas
+de= Øyer i sjøer eller våtmarker som det dyrkes på.
+dw= 630.98
+tio= 2022-03-24T13:22:27Z
+tie= 2022-03-24T13:34:18Z
 
