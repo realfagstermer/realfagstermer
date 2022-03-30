@@ -113652,9 +113652,12 @@ tio= 2014-08-25T00:00:00Z
 id= REAL012879
 te= Påvirkning
 ba= nb
-no= Har du tenkt å bruke dette emneordet? Kan du prøve å finne et som er mer presist (eventuelt foreslå et nytt)? Mari
+bf= Innflytelse
+bf= Påvirking
 nn= Påverknad
+en= Influence
 tio= 2014-08-25T00:00:00Z
+tie= 2022-03-30T13:38:28Z
 
 id= REAL012880
 te= Radioaktivt nedfall
