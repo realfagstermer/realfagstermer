@@ -4,23 +4,6 @@ ba= ns
 en= 1970s
 tio= 2015-02-20T13:08:04Z
 
-id= REAL030179
-te= Barokken
-ba= na
-en= Baroque
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030180
-te= Opplysningstiden
-ba= nk
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030181
-te= Renessansen
-ba= ne
-en= Renaissance
-tio= 2015-02-20T13:08:04Z
-
 id= REAL030182
 te= 1500-tallet
 ba= ns
@@ -75,83 +58,12 @@ en= 18th century
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:03:07Z
 
-id= REAL030188
-te= Folkevandringstiden
-ba= nb
-en= Migration Period
-en= The Barbarian Invasions
-en= Völkerwanderung
-en= The Migration Period
-de= Periode i Europas historie, ca 400 - 600 e.Kr. [UBO]
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030189
-te= Middelalderen
-ba= nc
-bf= Mellomalder
-bf= Mellomalderen
-en= Middle Ages
-en= Medieval Period
-de= Periode i Europas historie ca 500-ca 1500. Brukes også om tilsvarende periode i ikke-europeisk historie/kulturhistorie [UBO]
-tio= 2015-02-20T13:08:04Z
-tie= 2016-05-24T14:32:01Z
-
-id= REAL030190
-te= Antikken
-ba= fa
-ba= ns
-en= Classical antiquity
-de= Antikken, den klassiske oldtid, betegnelse for epoken som var dominert av den gresk-romerske kulturkretsen, fra ca. 500 f.Kr. til ca. 500 e.Kr. [SNL]
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030191
-te= Etterkrigstiden
-ba= nb
-en= Post-war period
-en= Postwar period
-de= Tiden etter den andre verdenskrig og fram til århundreskiftet [UBO]
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030192
-te= Mellomkrigstiden
-ba= ns
-en= Interwar period
-de= Tiden mellom de to verdenskriger, 1918-39 [SNL]
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030193
-te= Romersk oldtid
-ba= nb
-bf= Romersk antikk
-bf= Romersk periode
-bf= Romersk tid
-en= Roman antiquity
-de= Periode i Europas historie, ca 700 f.Kr. - 500 e.Kr. [UBO]
-tio= 2015-02-20T13:08:04Z
-
 id= REAL030194
 te= 1900-tallet
 ba= ns
 bf= 20. århundre
 bf= Tjuende århundre
 en= 20th century
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030195
-te= Bronsealder
-ba= ns
-en= Bronze age
-de= Ca 1500 - 500 f.Kr. [UBO]
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030196
-te= Jernalder
-ba= ns
-en= Iron Age
-tio= 2015-02-20T13:08:04Z
-
-id= REAL030197
-te= Oldtiden
 tio= 2015-02-20T13:08:04Z
 
 id= REAL030198
@@ -166,17 +78,3 @@ bf= 15. århundre
 en= 15th century
 tio= 2015-02-20T13:08:04Z
 tie= 2015-08-19T19:02:51Z
-
-id= REAL031782
-te= Første verdenskrig
-bf= Verdenskrigen 1914-1918
-nn= Første verdskrig
-nn= Verdskrigen 1914-1918
-en= World War I
-en= First World War
-en= Great War
-en= World War 1914-1918
-en= World War One
-tio= 2016-12-20T12:51:37Z
-tie= 2016-12-20T12:53:52Z
-
