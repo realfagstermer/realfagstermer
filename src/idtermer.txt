@@ -7548,9 +7548,11 @@ tio= 2014-08-25T00:00:00Z
 id= REAL000869
 te= Pingviner
 ba= nb
+ut= REAL007556
 nn= Pingvinar
 en= Penguins
 tio= 2014-08-25T00:00:00Z
+tie= 2022-04-07T15:00:01Z
 st= REAL014793
 st= REAL024511
 
@@ -27308,9 +27310,12 @@ tis= 2019-03-27T10:55:17Z
 id= REAL003129
 te= Agaver
 ba= nb
+ot= REAL032306
 nn= Agavar
 en= Agaves
+de= Planteslekt i agavefamilien <SNL>
 tio= 2014-08-25T00:00:00Z
+tie= 2022-04-07T15:09:58Z
 
 id= REAL003130
 te= Funksjonslære
@@ -65569,11 +65574,14 @@ tie= 2019-04-15T16:36:21Z
 st= REAL023442
 
 id= REAL007556
-te= Adeliepingviner
+te= Adeliepingvin
 ba= nb
-nn= Adeliepingvinar
+ot= REAL000869
+nn= Adeliepingvin
 en= Adelie penguin
+de= Fugleart i slekten børstehalepingviner <SLN>
 tio= 2014-08-25T00:00:00Z
+tie= 2022-04-07T15:00:01Z
 
 id= REAL007557
 te= A-vitamin
@@ -109522,6 +109530,9 @@ bf= Åbor
 bf= Europeisk abbor
 bf= Eurasisk abbor
 bf= Tryte
+so= REAL031689
+so= REAL032304
+so= REAL012549
 ot= REAL031689
 nn= Åbor
 nn= Europeisk åbor
@@ -109530,20 +109541,22 @@ en= River perch
 en= European perch
 en= Eurasian perch
 la= Perca fluviatilis
+de= Fiskeart i abborfamilien <SNL>
 tio= 2014-08-25T00:00:00Z
-tie= 2016-05-30T14:10:32Z
+tie= 2022-04-07T14:46:59Z
 
 id= REAL012549
 te= Abborfisker
 ba= nb
 so= REAL012548
+so= REAL032304
 ut= REAL031689
 nn= Åborfiskar
 en= Perch-like fishes
 la= Perchiformes
-de= Den største underordenen av piggfinnefisker. Omfatter omkring 84 familier (bl.a. abborfamilien) og flere tusen arter.
+de= Den største underordenen av piggfinnefisker. Omfatter omkring 84 familier (bl.a. abborfamilien) og flere tusen arter. <Wikipedia>
 tio= 2014-08-25T00:00:00Z
-tie= 2016-05-30T14:12:36Z
+tie= 2022-04-07T14:52:06Z
 
 id= REAL012550
 te= Krassere
@@ -132035,14 +132048,17 @@ tie= 2016-05-27T19:27:25Z
 
 id= REAL031689
 te= Abborer
+so= REAL012548
+so= REAL032304
 ot= REAL012549
 ut= REAL012548
 nn= Åborar
 en= Perches
 en= Yellow perches
 la= Perca
+de= Fiskeslekt i abborfamilien
 tio= 2016-05-30T14:05:25Z
-tie= 2016-05-30T14:09:19Z
+tie= 2022-04-07T10:46:34Z
 
 id= REAL031690
 te= Leirskred
@@ -136016,3 +136032,19 @@ en= World War 1914-1918
 en= World War One
 tio= 2016-12-20T12:51:37Z
 tie= 2016-12-20T12:53:52Z
+
+id= REAL032304
+te= Abborfamilien
+so= REAL012548
+so= REAL031689
+so= REAL012549
+de= Fiskefamilie i ordenen piggfinnefisker <SNL>
+tio= 2022-04-07T10:41:45Z
+tie= 2022-04-07T14:50:51Z
+
+id= REAL032306
+te= Agavefamilien
+ut= REAL003129
+tio= 2022-04-07T15:09:58Z
+tie= 2022-04-07T15:09:58Z
+

@@ -951,3 +951,10 @@ en= Abstracts
 tio= 2019-09-05T23:03:02Z
 tie= 2019-09-05T23:03:25Z
 
+id= REAL032305
+te= Biografiske oppslagsverker
+nn= Biografiske oppslagsverk
+en= Biographical reference works
+tio= 2022-04-07T11:26:19Z
+tie= 2022-04-07T11:27:26Z
+
