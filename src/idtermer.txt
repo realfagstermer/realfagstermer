@@ -63899,10 +63899,11 @@ te= Nanosystemer
 ba= nf
 so= REAL002527
 so= REAL012457
+so= REAL032307
 nn= Nanosystem
 en= Nanosystems
 tio= 2014-08-25T00:00:00Z
-tie= 2019-02-28T18:59:08Z
+tie= 2022-05-02T13:13:37Z
 
 id= REAL007369
 te= Giraffamilien
@@ -128824,6 +128825,7 @@ ba= ni
 bf= Nettsky
 bf= Skysystemer
 bf= Nettskytjenester
+bf= Skydatabehandling
 so= REAL003034
 so= REAL012450
 so= REAL003145
@@ -128833,8 +128835,9 @@ nn= Skytenester
 nn= Nettskytenester
 en= Cloud computing
 en= Cloud systems
+dw= 004.36
 tio= 2014-08-25T00:00:00Z
-tie= 2019-04-17T13:15:39Z
+tie= 2022-05-02T13:47:19Z
 
 id= REAL013935
 te= Statistisk inferens
@@ -136047,4 +136050,21 @@ te= Agavefamilien
 ut= REAL003129
 tio= 2022-04-07T15:09:58Z
 tie= 2022-04-07T15:09:58Z
+
+id= REAL032307
+te= Nanogeovitenskap
+so= REAL007368
+nn= Nanogeovitskap
+en= Nanogeoscience
+de= Studiet av nanoskalafenomener i geologiske systemer.
+tio= 2022-05-02T13:13:08Z
+tie= 2022-05-02T13:30:18Z
+
+id= REAL032308
+te= Kantdatabehandling
+bf= Kantenheter
+bf= Tåkedatabehandling
+nn= Kantdatabehandling
+tio= 2022-05-02T13:48:16Z
+tie= 2022-05-02T13:49:28Z
 
