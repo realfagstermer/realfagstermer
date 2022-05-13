@@ -128833,11 +128833,12 @@ nn= Skysystem
 nn= Nettsky
 nn= Skytenester
 nn= Nettskytenester
+nn= Skydatabehandling
 en= Cloud computing
 en= Cloud systems
 dw= 004.36
 tio= 2014-08-25T00:00:00Z
-tie= 2022-05-02T13:47:19Z
+tie= 2022-05-13T09:35:15Z
 
 id= REAL013935
 te= Statistisk inferens
@@ -136065,6 +136066,18 @@ te= Kantdatabehandling
 bf= Kantenheter
 bf= Tåkedatabehandling
 nn= Kantdatabehandling
+en= Edge computing
+en= Fog computing
+dw= 004.36
 tio= 2022-05-02T13:48:16Z
-tie= 2022-05-02T13:49:28Z
+tie= 2022-05-13T09:43:56Z
+
+id= REAL032309
+te= Strekkodeassistert legemiddeladministrering
+ak= SALA
+ak= BCMA
+nn= Strekkodeassistert legemiddeladministrering
+en= Barcode Medication Administration
+tio= 2022-05-13T11:16:03Z
+tie= 2022-05-13T11:19:26Z
 
