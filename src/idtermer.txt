@@ -37140,10 +37140,15 @@ tis= 2017-11-22T14:28:40Z
 id= REAL004268
 te= Fremmedstoffer
 ba= nb
+bf= Xenobiotikum
+bf= Xenobiotika
 nn= Framandstoff
 en= Undesirable substances
 en= Food contaminants
+en= Xenobiotic
+en= Xenobiotics
 tio= 2014-08-25T00:00:00Z
+tie= 2022-05-18T08:45:57Z
 
 id= REAL004269
 te= Grunnleggende metode
