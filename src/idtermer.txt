@@ -40924,7 +40924,6 @@ en= Cosmonautics
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-09T15:05:35Z
 st= REAL019342
-st= REAL031185
 
 id= REAL004722
 te= Eksperimentalteknikk
@@ -53828,7 +53827,6 @@ st= REAL023739
 st= REAL023994
 st= REAL026570
 st= REAL028953
-st= REAL031120
 st= REAL032197
 
 id= REAL006244
@@ -64383,7 +64381,6 @@ nn= Stjerneatmosfærar
 en= Stellar atmospheres
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-03T15:17:15Z
-st= REAL018178
 
 id= REAL007433
 te= Wide Area Information Service
@@ -78999,7 +78996,6 @@ nn= Akvatisk mikrobiologi
 en= Aquatic microbiology
 tio= 2014-08-25T00:00:00Z
 st= REAL020350
-st= REAL021069
 
 id= REAL009094
 te= Statistisk programvare
@@ -88521,7 +88517,6 @@ nn= Lego
 en= Lego
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-02T15:45:23Z
-st= REAL031206
 
 id= REAL010180
 te= Allometri
@@ -100292,7 +100287,6 @@ tio= 2014-08-25T00:00:00Z
 tie= 2018-09-20T06:32:36Z
 st= REAL019084
 st= REAL020034
-st= REAL031171
 
 id= REAL011598
 te= Væskefysikk
@@ -119704,9 +119698,7 @@ st= REAL029944
 st= REAL031093
 st= REAL031157
 st= REAL031200
-st= REAL031563
 st= REAL031921
-st= REAL032192
 
 id= REAL013406
 te= Bildekunst
@@ -122442,7 +122434,6 @@ nn= Den vitskapelege revolusjonen
 en= Scientific revolution
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-02T19:12:45Z
-st= REAL031259
 
 id= REAL013515
 te= Vitenskapelige revolusjoner
@@ -124093,7 +124084,6 @@ en= Extraterrestrial intelligent life
 en= Extraterrestrial intelligence
 tio= 2014-08-25T00:00:00Z
 tie= 2018-07-23T20:55:09Z
-st= REAL031260
 
 id= REAL013639
 te= Ekstraterrestrisk liv
