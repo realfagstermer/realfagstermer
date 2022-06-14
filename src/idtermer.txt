@@ -679,7 +679,6 @@ en= Fragmentation
 en= Clonal growth
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-14T11:39:57Z
-st= REAL031551
 
 id= REAL000071
 te= Graftransformasjoner
@@ -128158,9 +128157,7 @@ st= REAL024706
 st= REAL025430
 st= REAL025948
 st= REAL026152
-st= REAL026201
 st= REAL028410
-st= REAL028702
 st= REAL031201
 
 id= REAL013940
