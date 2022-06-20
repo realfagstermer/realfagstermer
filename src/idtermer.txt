@@ -6233,11 +6233,13 @@ en= Conditioning
 tio= 2014-08-25T00:00:00Z
 
 id= REAL000719
-te= Coxeter
+te= Coxetergrupper
 ba= nm
-nn= Coxeter
+nn= Coxetergrupper
 en= Coxeter groups
+dw= 512.2
 tio= 2014-08-25T00:00:00Z
+tie= 2022-06-20T14:36:57Z
 
 id= REAL000720
 te= Kloakkdyr
@@ -8359,7 +8361,6 @@ st= REAL020684
 st= REAL022894
 st= REAL023787
 st= REAL029443
-st= REAL031132
 st= REAL031268
 st= REAL031539
 
@@ -62258,7 +62259,6 @@ ba= ns
 nn= Grupper
 en= Groups
 tio= 2014-08-25T00:00:00Z
-st= REAL022777
 st= REAL027061
 st= REAL028129
 
@@ -97882,7 +97882,6 @@ st= REAL024551
 st= REAL026485
 st= REAL026666
 st= REAL028162
-st= REAL031444
 
 id= REAL011377
 te= Matematisk modellering
