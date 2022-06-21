@@ -29634,9 +29634,11 @@ id= REAL003429
 te= Kaffe
 ba= nk
 ba= ne
+so= REAL032315
 nn= Kaffi
 en= Coffee
 tio= 2014-08-25T00:00:00Z
+tie= 2022-06-21T14:29:47Z
 st= REAL031256
 
 id= REAL003430
@@ -52958,11 +52960,12 @@ ba= nc
 ba= ne
 ba= nf
 ba= ns
+so= REAL032313
 nn= Aminosyrer
 en= Amino acids
 tio= 2014-08-25T00:00:00Z
+tie= 2022-06-21T11:56:11Z
 st= REAL016140
-st= REAL021025
 
 id= REAL006174
 te= Membranproteiner
@@ -61757,9 +61760,11 @@ ba= nk
 ba= nb
 ba= ne
 ba= nq
+so= REAL032314
 nn= Arsenikk
 en= Arsenic trioxide
 tio= 2014-08-25T00:00:00Z
+tie= 2022-06-21T14:01:49Z
 
 id= REAL007148
 te= Økologisk mikrobiologi
@@ -74937,7 +74942,6 @@ en= Poisoning
 tio= 2014-08-25T00:00:00Z
 tie= 2018-03-28T11:02:52Z
 st= REAL016422
-st= REAL022723
 
 id= REAL008668
 te= Hjortejakt
@@ -135282,4 +135286,31 @@ en= Stellar magnetism
 dw= 523.82
 tio= 2022-06-13T10:36:10Z
 tie= 2022-06-13T10:37:57Z
+
+id= REAL032313
+te= Aminosyresyntese
+so= REAL006173
+nn= Aminosyresyntese
+en= Amino acid synthesis
+de= De biokjemiske prosessene som aminosyrer lages ved hjelp av. - Wikipedia (eng.)
+tio= 2022-06-21T11:54:11Z
+tie= 2022-06-21T11:56:55Z
+
+id= REAL032314
+te= Arsenikkforgiftning
+so= REAL007147
+nn= Arsenikkforgifting
+en= Arsenic poisoning
+dw= 615.925715
+tio= 2022-06-21T13:54:42Z
+tie= 2022-06-21T14:01:12Z
+
+id= REAL032315
+te= Kaffeproduksjon
+so= REAL003429
+nn= Kaffiproduksjon
+en= Coffee production
+de= Prosessindustrien som bearbeider kaffeplantens frukt til ferdig kaffe. - Wikipedia (eng.)
+tio= 2022-06-21T14:25:08Z
+tie= 2022-06-21T14:27:39Z
 
