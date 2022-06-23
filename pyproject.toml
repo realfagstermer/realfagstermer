@@ -10,7 +10,7 @@ python = "^3.8"
 doit = "^0.33.1"
 rdflib = "^6.0.0"
 PyYAML = "^5.4.1"
-roald = {git = "https://github.com/realfagstermer/roald.git"}
+roald = {git = "https://github.com/uio-library/roald-converters.git"}
 data-ub-tasks = {git = "https://github.com/scriptotek/data_ub_tasks.git"}
 
 [tool.poetry.dev-dependencies]
