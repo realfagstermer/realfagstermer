@@ -135314,3 +135314,18 @@ de= Prosessindustrien som bearbeider kaffeplantens frukt til ferdig kaffe. - Wik
 tio= 2022-06-21T14:25:08Z
 tie= 2022-06-21T14:27:39Z
 
+id= REAL032316
+te= Bakteriekommunikasjon
+nn= Bakteriekommunikasjon
+en= Bacterial communication
+tio= 2022-06-23T12:47:49Z
+tie= 2022-06-23T12:48:57Z
+
+id= REAL032317
+te= Observasjonsastronomi
+nn= Observasjonsastronomi
+en= Observational astronomy
+de= Observasjonsastronomi er den grenen av astronomien som tilegnes observasjon av astronomiske objekter. (Wikipedia)
+tio= 2022-06-23T13:09:02Z
+tie= 2022-06-23T13:14:59Z
+
