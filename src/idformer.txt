@@ -37,8 +37,6 @@ bf= Kvasivitenskap
 bf= Psevdovitenskap
 en= Pseudoscience
 tio= 2014-08-25T00:00:00Z
-st= REAL028789
-st= REAL031452
 
 id= REAL013494
 te= Polemikk
@@ -175,7 +173,6 @@ id= REAL030080
 te= Farmakopeer
 en= Pharmacopoeias
 tio= 2015-02-20T13:08:04Z
-st= REAL031476
 
 id= REAL030081
 te= Felthåndbøker
@@ -354,14 +351,6 @@ id= REAL030105
 te= Science fiction
 en= Science fiction
 tio= 2015-02-20T13:08:04Z
-st= REAL031080
-st= REAL031082
-st= REAL031083
-st= REAL031084
-st= REAL031144
-st= REAL031145
-st= REAL031398
-st= REAL032160
 
 id= REAL030106
 te= Soppfloraer
@@ -449,8 +438,6 @@ bf= Flora
 en= Floras
 de= Se også "bestemmelseslitteratur" under de enkelte temaer, f.eks 'planter : bestemmelseslitteratur'
 tio= 2015-02-20T13:08:04Z
-st= REAL032168
-st= REAL032169
 
 id= REAL030120
 te= Kart
@@ -464,7 +451,6 @@ bf= Populærlitteratur
 en= Popular science
 tio= 2015-02-20T13:08:04Z
 tie= 2016-09-09T10:56:41Z
-st= REAL031556
 
 id= REAL030122
 te= Samlete verker
