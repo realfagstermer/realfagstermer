@@ -227,7 +227,6 @@ nn= Industriverksemd
 en= Industry
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-16T00:00:00Z
-st= REAL024581
 
 id= REAL000029
 te= Vassdragsforvaltning
@@ -275,7 +274,6 @@ nn= Tekstil
 nn= Tekstilar
 en= Textiles
 tio= 2014-08-25T00:00:00Z
-st= REAL031869
 
 id= REAL000034
 te= Matematiske tegn
@@ -530,9 +528,6 @@ ba= ns
 nn= Økosystem
 en= Ecosystems
 tio= 2014-08-25T00:00:00Z
-st= REAL014822
-st= REAL016057
-st= REAL019621
 
 id= REAL000063
 te= Cytogenetikk
@@ -10146,7 +10141,6 @@ ba= ngh
 nn= Is
 en= Ice
 tio= 2014-08-25T00:00:00Z
-st= REAL014298
 
 id= REAL001266
 te= Snoker
@@ -10609,9 +10603,6 @@ en= Ecology
 en= Ecological processes
 tio= 2014-08-25T00:00:00Z
 tie= 2019-03-07T16:12:18Z
-st= REAL016231
-st= REAL023346
-st= REAL028308
 
 id= REAL001316
 te= Utgravinger
@@ -24248,8 +24239,6 @@ nn= Generell fysikk
 en= Physics
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-07T16:00:53Z
-st= REAL026422
-st= REAL031296
 
 id= REAL003068
 te= Borater
@@ -37849,7 +37838,6 @@ ba= ns
 nn= Stjerner
 en= Stars
 tio= 2014-08-25T00:00:00Z
-st= REAL029437
 
 id= REAL004814
 te= Aluminiumsilikater
@@ -39501,8 +39489,6 @@ ba= ns
 nn= Toksikologi
 en= Toxicology
 tio= 2014-08-25T00:00:00Z
-st= REAL019992
-st= REAL022543
 
 id= REAL005036
 te= Hamskifte
@@ -41076,7 +41062,6 @@ ba= ngh
 nn= Vassressursar
 en= Water resources
 tio= 2014-08-25T00:00:00Z
-st= REAL021004
 
 id= REAL005235
 te= Domenenavn
@@ -47794,7 +47779,6 @@ nn= Juks
 nn= Ureielegheit
 en= Cheating
 tio= 2014-08-25T00:00:00Z
-st= REAL019500
 
 id= REAL006094
 te= Oksygenelektroder
@@ -50989,7 +50973,6 @@ ba= ns
 nn= Tenner
 en= Teeth
 tio= 2014-08-25T00:00:00Z
-st= REAL018079
 
 id= REAL006501
 te= Distribusjonskoeffisient
@@ -56883,7 +56866,6 @@ nn= Prosessteknikk
 en= Chemical engineering
 tio= 2014-08-25T00:00:00Z
 tie= 2015-10-19T11:26:23Z
-st= REAL022097
 
 id= REAL007246
 te= Strukturerte data
@@ -71812,7 +71794,6 @@ nn= Viltpleie
 nn= Viltstell
 en= Wildlife management
 tio= 2014-08-25T00:00:00Z
-st= REAL020901
 
 id= REAL009146
 te= Flyt
@@ -72553,7 +72534,6 @@ nn= Saltvatn
 en= Seawater
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-04T14:19:00Z
-st= REAL028235
 
 id= REAL009243
 te= Fotolyse
@@ -77416,7 +77396,6 @@ nn= Preservering
 en= Conservation
 en= Preservation
 tio= 2014-08-25T00:00:00Z
-st= REAL014689
 
 id= REAL009873
 te= Paleoseanografi
@@ -89694,7 +89673,6 @@ en= Atlantic cod
 la= Gadus morhua
 tio= 2014-08-25T00:00:00Z
 tie= 2019-08-16T11:51:14Z
-st= REAL031699
 
 id= REAL011451
 te= Fuglefjell
@@ -91185,7 +91163,6 @@ nn= Fiske
 nn= Makrellfiske
 en= Fishing
 tio= 2014-08-25T00:00:00Z
-st= REAL019924
 
 id= REAL011642
 te= Alkener
@@ -91911,7 +91888,6 @@ en= Tissue cultures
 en= Cell cultures
 en= Callus cultures
 tio= 2014-08-25T00:00:00Z
-st= REAL015654
 
 id= REAL011737
 te= Luftforurensning
@@ -108404,7 +108380,6 @@ nn= Generell kjemi
 en= Chemistry
 tio= 2014-08-25T00:00:00Z
 tie= 2017-03-07T16:06:30Z
-st= REAL027750
 
 id= REAL013434
 te= Kommunikasjon
@@ -112717,8 +112692,6 @@ nn= Utdøydde arter
 nn= Utdøydde organismar
 en= Extinct species
 tio= 2014-08-25T00:00:00Z
-st= REAL019904
-st= REAL028985
 
 id= REAL013808
 te= Alkalibergarter
@@ -112865,7 +112838,6 @@ nn= Sopp
 en= Fungi
 la= Fungi
 tio= 2014-08-25T00:00:00Z
-st= REAL020555
 
 id= REAL013818
 te= Mykoser
@@ -112991,8 +112963,6 @@ nn= Plantar
 en= Plants
 tio= 2014-08-25T00:00:00Z
 tie= 2015-02-23T08:46:28Z
-st= REAL018102
-st= REAL031700
 
 id= REAL013827
 te= Fisker
@@ -114324,9 +114294,6 @@ en= Vulnerable species
 en= Threatened species
 tio= 2014-08-25T00:00:00Z
 tie= 2019-01-23T16:04:09Z
-st= REAL021644
-st= REAL025430
-st= REAL025948
 
 id= REAL013940
 te= Rastergrafikk
@@ -121338,9 +121305,9 @@ te= Kaffeproduksjon
 so= REAL003429
 nn= Kaffiproduksjon
 en= Coffee production
-de= Prosessindustrien som bearbeider kaffeplantens frukt til ferdig kaffe. - Wikipedia (eng.)
+de= Prosessindustrien som bearbeider kaffeplantens frukt til ferdig kaffe. <Wikipedia (eng.)>
 tio= 2022-06-21T14:25:08Z
-tie= 2022-06-21T14:27:39Z
+tie= 2022-06-28T09:16:34Z
 
 id= REAL032316
 te= Bakteriekommunikasjon
@@ -121356,4 +121323,12 @@ en= Observational astronomy
 de= Observasjonsastronomi er den grenen av astronomien som tilegnes observasjon av astronomiske objekter. (Wikipedia)
 tio= 2022-06-23T13:09:02Z
 tie= 2022-06-23T13:14:59Z
+
+id= REAL032318
+te= Tekstilkjemi
+nn= Tekstilkjemi
+en= Textile chemistry
+de= Gren av kjemien som anvender kjemi for å forstå tekstiler og deres materialer. <Internetchemistry.com>
+tio= 2022-06-28T13:41:59Z
+tie= 2022-06-28T13:55:34Z
 
