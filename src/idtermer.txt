@@ -44761,8 +44761,6 @@ en= Organic compounds
 en= Organic molecules
 tio= 2014-08-25T00:00:00Z
 tie= 2018-10-02T15:51:11Z
-st= REAL015395
-st= REAL015528
 
 id= REAL005715
 te= Oppfinnelser
@@ -82205,9 +82203,11 @@ id= REAL010477
 te= Stereokjemi
 ba= nk
 ba= ne
+bf= Organisk stereokjemi
 nn= Stereokjemi
 en= Stereochemistry
 tio= 2014-08-25T00:00:00Z
+tie= 2022-06-29T09:43:14Z
 
 id= REAL010478
 te= Mobil kommunikasjon
@@ -107869,7 +107869,6 @@ ba= ns
 nn= Astronomi
 en= Astronomy
 tio= 2014-08-25T00:00:00Z
-st= REAL031200
 
 id= REAL013406
 te= Bildekunst
@@ -109253,7 +109252,6 @@ nn= Tid
 en= Time
 tio= 2014-08-25T00:00:00Z
 tie= 2018-09-20T08:42:20Z
-st= REAL021674
 
 id= REAL013509
 te= Listestrukturer
