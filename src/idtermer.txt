@@ -44662,7 +44662,6 @@ ba= ns
 nn= Planetar
 en= Planets
 tio= 2014-08-25T00:00:00Z
-st= REAL031129
 
 id= REAL005705
 te= X.500
