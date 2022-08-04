@@ -121329,3 +121329,20 @@ de= Gren av kjemien som anvender kjemi for å forstå tekstiler og deres materia
 tio= 2022-06-28T13:41:59Z
 tie= 2022-06-28T13:55:34Z
 
+id= REAL032320
+te= ECT
+bf= Elektrokonvulsiv behandling
+bf= Elektrosjokkbehandling
+nn= ECT
+nn= Elektrokonvulsiv behandling
+nn= Elektrosjokkbehandling
+en= ECT
+en= Electroconvulsive therapy
+en= Electroshock therapy
+en= Electrocution therapy
+en= Shock therapy
+de= Elektrokonvulsiv behandling (ECT) er en behandling mot enkelte psykiske lidelser hvor det brukes en lav dose strøm. <SNL>
+dw= 616.89122
+tio= 2022-08-04T13:08:29Z
+tie= 2022-08-04T13:16:34Z
+
