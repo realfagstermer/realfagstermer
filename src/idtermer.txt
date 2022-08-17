@@ -23420,7 +23420,10 @@ tie= 2018-03-02T21:38:53Z
 
 id= REAL002959
 te= Syntetiske polymerer
+nn= Syntetiske polymerar
+en= Synthetic polymers
 tio= 2014-08-25T00:00:00Z
+tie= 2022-08-17T10:35:29Z
 tis= 2019-02-23T18:50:05Z
 
 id= REAL002960
@@ -121345,4 +121348,11 @@ de= Elektrokonvulsiv behandling (ECT) er en behandling mot enkelte psykiske lide
 dw= 616.89122
 tio= 2022-08-04T13:08:29Z
 tie= 2022-08-04T13:16:34Z
+
+id= REAL032321
+te= Kontrollert syntese
+nn= Kontrollert syntese
+en= Controlled synthesis
+tio= 2022-08-17T10:52:54Z
+tie= 2022-08-17T10:54:18Z
 
