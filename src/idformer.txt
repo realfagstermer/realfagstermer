@@ -226,9 +226,11 @@ id= REAL030087
 te= Historie
 bf= Historisk fremstilling
 bf= Historisk framstilling
-en= History
+nn= Historisk framstilling
 en= Historical presentation
+en= Historical description
 tio= 2015-02-20T13:08:04Z
+tie= 2022-08-25T09:25:54Z
 
 id= REAL030088
 te= Humor

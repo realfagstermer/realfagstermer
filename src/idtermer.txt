@@ -23420,8 +23420,6 @@ tie= 2018-03-02T21:38:53Z
 
 id= REAL002959
 te= Syntetiske polymerer
-nn= Syntetiske polymerar
-en= Synthetic polymers
 tio= 2014-08-25T00:00:00Z
 tie= 2022-08-17T10:35:29Z
 tis= 2019-02-23T18:50:05Z
