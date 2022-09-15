@@ -115321,6 +115321,7 @@ fly= REAL003145
 
 id= REAL014035
 te= Tingenes internett
+ak= IoT
 so= REAL002127
 so= REAL013920
 nn= Tingveven
@@ -115328,8 +115329,9 @@ nn= IoT
 nn= Tingternett
 nn= WoT
 en= Internet of things
+en= IoT
 tio= 2014-08-25T00:00:00Z
-tie= 2019-04-17T14:02:16Z
+tie= 2022-09-15T08:00:17Z
 
 id= REAL014036
 te= Testing
