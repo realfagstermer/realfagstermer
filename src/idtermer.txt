@@ -120581,7 +120581,7 @@ no= github:#1656
 nn= DNA-polymerasar
 en= DNA polymerases
 tio= 2020-06-17T20:17:21Z
-tie= 2020-06-17T20:25:59Z
+tie= 2022-09-28T14:18:55Z
 
 id= REAL032246
 te= Sialinsyrer
@@ -121103,9 +121103,8 @@ ot= REAL003964
 nn= Chinampaar
 en= Chinampas
 de= Øyer i sjøer eller våtmarker som det dyrkes på.
-dw= 630.98
 tio= 2022-03-24T13:22:27Z
-tie= 2022-03-24T13:34:18Z
+tie= 2022-09-28T13:23:34Z
 
 id= REAL030179
 te= Barokken
