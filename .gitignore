@@ -8,3 +8,5 @@ dumps/
 dist/
 realfagstermer.github.io
 realfagstermer.json
+.env
+/env

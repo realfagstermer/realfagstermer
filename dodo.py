@@ -4,6 +4,8 @@
 import logging
 import logging.config
 import yaml
+import re
+import paramiko
 
 with open('logging.yml') as cfg:
     logging.config.dictConfig(yaml.safe_load(cfg))
@@ -55,7 +57,8 @@ def task_fetch_from_bibsys_sftp():
         sftp = paramiko.SFTPClient.from_transport(transport)
         sftp.chdir('/home')
         files = sorted(sftp.listdir())
-        latest_file = files.pop()
+        real_files = [f for f in files if f.startswith('REAL')]
+        latest_file = real_files.pop()
         def save_latest_file():
             return {'latest_file': latest_file}
         task.value_savers.append(save_latest_file)
@@ -69,10 +72,11 @@ def task_fetch_from_bibsys_sftp():
         sftp = paramiko.SFTPClient.from_transport(transport)
         sftp.chdir('/home')
         files = sorted(sftp.listdir())
-        latest_file = files.pop()
+        real_files = [f for f in files if f.startswith('REAL')]
+        latest_file = real_files.pop()
 
         # Cleanup old files
-        for other_file in files:
+        for other_file in real_files:
             sftp.remove(other_file)
 
         # Fetch latest file
@@ -537,7 +541,7 @@ def task_stats():
 
             sumConceptsWithStrings += facets[facetName]['concepts']
 
-            if facetName is not 'ComplexConcept' and facetName is not 'VirtualComplexConcept':
+            if facetName != 'ComplexConcept' and facetName != 'VirtualComplexConcept':
                 sumConcepts += facets[facetName]['concepts']
 
             facets[facetName]['terms'] = 0
