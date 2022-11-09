@@ -89,7 +89,7 @@ SPARQLWrapper = "*"
 type = "git"
 url = "https://github.com/scriptotek/data_ub_tasks.git"
 reference = "master"
-resolved_reference = "4ee5c56eecb3116c5dd735064a10da5aaa622e9c"
+resolved_reference = "b539e923e33ac837102070ccf07ec144f2f98e09"
 
 [[package]]
 name = "doit"

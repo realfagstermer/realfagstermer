@@ -151,7 +151,13 @@ def task_build_core():
 
     def build(task):
         logger.info('Building new core dist')
-        roald = Roald()
+        roald = Roald(mail_config={
+            'domain': os.getenv('MAIL_DOMAIN'),
+            'apikey': os.getenv('MAIL_APIKEY'),
+            'sender': os.getenv('MAIL_SENDER'),
+            'reply': os.getenv('MAIL_REPLY'),
+            'recipients': os.getenv('MAIL_RECIPIENTS').split(','),
+        })
 
         roald.load('src/realfagstermer.marc21.xml', format='marc21', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
         roald.set_uri_format('http://data.ub.uio.no/%s/c{id}' % config['basename'], 'REAL')
