@@ -39,7 +39,7 @@ DOIT_CONFIG = {
     'default_tasks': [
         'fetch_core:src/sonja_todo.json',
         'git-push',
-        'build-solr-json',
+        #'build-solr-json',
         'publish-dumps',
         'fuseki',
         'stats',
