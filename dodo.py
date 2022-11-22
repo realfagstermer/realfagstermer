@@ -597,7 +597,7 @@ def task_stats():
         t0 = time.time()
 
         g = Graph()
-        g.load('dist/realfagstermer.complete.ttl', format='turtle')
+        g.parse('dist/realfagstermer.complete.ttl', format='turtle')
 
         s = json.load(open('realfagstermer.github.io/_data/stats.json', 'r'))
         current = stats_from_graph(g)
