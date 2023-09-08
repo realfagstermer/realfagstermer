@@ -244,7 +244,7 @@ def task_build_extras():
             'include_memberships': False,
         }
         roald.export('dist/%s.marc21.xml' %
-                     config['basename'], format='marc21', **marc21options)
+                     config['basename'], format='roald2', **marc21options)
         logger.info('Wrote dist/%s.marc21.xml', config['basename'])
 
         # 3) RDF (core + mappings)
@@ -285,7 +285,6 @@ def task_build_extras():
             '%s.scheme.ttl' % config['basename']
         ],
         'targets': [
-            'dist/%s.marc21.xml' % config['basename'],
             'dist/%s.ccmapper.marc21.xml' % config['basename'],
             'dist/%s.complete.ttl' % config['basename'],
             'dist/%s.complete.nt' % config['basename'],
