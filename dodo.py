@@ -105,16 +105,6 @@ def task_fetch_core():
     }
     yield data_ub_tasks.git_pull_task_gen(config)
     for file in [
-        {'remote': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idtermer.txt',
-            'local': 'src/idtermer.txt'},
-        {'remote': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idsteder.txt',
-            'local': 'src/idsteder.txt'},
-        {'remote': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idformer.txt',
-            'local': 'src/idformer.txt'},
-        {'remote': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idtider.txt',
-            'local': 'src/idtider.txt'},
-        {'remote': 'https://app.uio.no/ub/emnesok/data/ureal/rii/idstrenger.txt',
-            'local': 'src/idstrenger.txt'},
         {'remote': 'https://raw.githubusercontent.com/scriptotek/data_ub_ontology/master/ub-onto.ttl',
             'local': 'src/ub-onto.ttl'},
         {'remote': 'https://raw.githubusercontent.com/realfagstermer/prosjekt-kinderegg/master/sonja_todo.json',
@@ -170,17 +160,6 @@ def task_build_core():
             # 'src/nynorsk.ttl'
         ]
 
-        # 1) MARC21
-        # marc21options = {
-        #     'vocabulary_code': 'noubomn',
-        #     'created_by': 'NO-TrBIB',
-        #     'mappings_from': ['src/lambda.rdf']
-        # }
-        # roald.export('dist/%s.marc21.xml' %
-        #              config['basename'], format='marc21', **marc21options)
-        # logger.info('Wrote dist/%s.marc21.xml', config['basename'])
-
-        # 2) RDF (core)
         roald.export('dist/%s.ttl' % config['basename'],
                      format='rdfskos',
                      include=includes
@@ -236,18 +215,7 @@ def task_build_extras():
         roald.load('src/ccmapper_mappings.ttl', format='skos')  # Mappings from CCMapper
         roald.load('src/msc-ubo.mappings.nt', format='skos')  # MSC mappings
 
-        # 1) MARC21 for Alma and general use
-        marc21options = {
-            'vocabulary_code': 'noubomn',
-            'created_by': 'NO-TrBIB',
-            'include_d9': 'simple',
-            'include_memberships': False,
-        }
-        roald.export('dist/%s.marc21.xml' %
-                     config['basename'], format='roald2', **marc21options)
-        logger.info('Wrote dist/%s.marc21.xml', config['basename'])
-
-        # 3) RDF (core + mappings)
+        # 2) RDF (core + mappings)
         prepared = roald.prepare_export(format='rdfskos',
             include=[
                 '%s.scheme.ttl' % config['basename'],
@@ -270,11 +238,6 @@ def task_build_extras():
             build,
         ],
         'file_dep': [
-            'src/idtermer.txt',
-            'src/idsteder.txt',
-            'src/idformer.txt',
-            'src/idtider.txt',
-            'src/idstrenger.txt',
             'src/real_tekord_mappings.ttl',
             'src/real_agrovoc_mappings.ttl',
             'src/real_hume_mappings.ttl',
