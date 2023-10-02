@@ -295,7 +295,6 @@ def task_build_mappings():
 def task_build_json():
     return data_ub_tasks.gen_solr_json(config, 'realfagstermer')
 
-
 def task_elasticsearch():
     return data_ub_tasks.gen_elasticsearch(config, 'realfagstermer')
 

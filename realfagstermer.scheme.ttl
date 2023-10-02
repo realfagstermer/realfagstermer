@@ -21,8 +21,9 @@
 realfagstermer: a skos:ConceptScheme, void:Dataset, sd:Graph ;
     rdfs:label "Realfagstermer"@nb ;
     dcterms:title "Realfagstermer"@nb ;
-    dcterms:description "Realfagstermer is a controlled, pre-coordinated subject headings vocabulary covering mainly the natural sciences, mathematics and informatics."@en,
-        "Realfagstermer er et kontrollert, pre-koordinert emneordsvokabular som i hovedsak dekker naturvitenskap, matematikk og informatikk."@nb ;
+    dcterms:description "Realfagstermer is a controlled subject headings vocabulary covering mainly the natural sciences, mathematics and informatics."@en,
+        "Realfagstermer er et kontrollert emneordsvokabular som i hovedsak dekker naturvitenskap, matematikk og informatikk."@nb,
+	"Realfagstermer er eit kontrollert emneordsvokabular som i hovudsak dekker naturvitenskap, matematikk og informatikk."@nn ;
     dcterms:publisher library:k ;
     dcterms:creator library:k ;
     dcterms:contributor library:d ;
