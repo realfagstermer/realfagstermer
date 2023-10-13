@@ -291,8 +291,6 @@ def task_build_mappings():
             'dist/%s-%s.mappings.nt' % (config['basename'], mapping_set['target']),
             src_uri
         )
-
-
 def task_build_json():
     return data_ub_tasks.gen_solr_json(config, 'realfagstermer')
 
