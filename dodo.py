@@ -292,6 +292,7 @@ def task_build_mappings():
             src_uri
         )
 
+
 def task_build_json():
     return data_ub_tasks.gen_solr_json(config, 'realfagstermer')
 
