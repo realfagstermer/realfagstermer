@@ -291,6 +291,7 @@ def task_build_mappings():
             'dist/%s-%s.mappings.nt' % (config['basename'], mapping_set['target']),
             src_uri
         )
+
 def task_build_json():
     return data_ub_tasks.gen_solr_json(config, 'realfagstermer')
 
@@ -316,6 +317,9 @@ def task_publish_dumps():
         '%s-msc-ubo.mappings.nt' % config['basename'],
     ])
 
+#
+# This line: force update
+#
 
 def task_fuseki():
     return data_ub_tasks.fuseki_task_gen(config, ['dist/%(basename)s.complete.ttl'])
