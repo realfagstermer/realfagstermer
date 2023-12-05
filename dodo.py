@@ -317,11 +317,6 @@ def task_publish_dumps():
         '%s-msc-ubo.mappings.nt' % config['basename'],
     ])
 
-#
-# This line: force update
-# Come on, let's go update
-#
-
 def task_fuseki():
     return data_ub_tasks.fuseki_task_gen(config, ['dist/%(basename)s.complete.ttl'])
 

@@ -18,7 +18,7 @@ if [ -n "$RUBYENV" ]; then
 fi
 
 git fetch origin
-if [ -n "$(git log HEAD..origin/master --oneline)" ]; then
-  git pull --force
-  s-put http://localhost:3030/ds/data http://data.ub.uio.no/realfagstermer dist/realfagstermer.ttl
-fi
+#if [ -n "$(git log HEAD..origin/master --oneline)" ]; then
+git pull --force
+s-put http://localhost:3030/ds/data http://data.ub.uio.no/realfagstermer dist/realfagstermer.ttl
+#fi
