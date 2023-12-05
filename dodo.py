@@ -260,6 +260,7 @@ def task_build_extras():
             '%s.scheme.ttl' % config['basename']
         ],
         'targets': [
+            'dist/%s.marc21.xml' % config['basename'],
             'dist/%s.ccmapper.marc21.xml' % config['basename'],
             'dist/%s.complete.ttl' % config['basename'],
             'dist/%s.complete.nt' % config['basename'],
