@@ -192,12 +192,24 @@ def task_build_extras():
     def build(task):
         logger.info('Building extras')
         roald = Roald()
-        roald.load('src/realfagstermer.marc21.xml', format='marc21', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
+       # This code is used to force updates.
+        roald.load('src/realfagstermer.marc21.xml', format='roald2', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
+       # This is the code that we actually want.
+       # roald.load('src/realfagstermer.marc21.xml', format='marc21', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
         roald.set_uri_format('http://data.ub.uio.no/%s/c{id}' % config['basename'], 'REAL')
 
         roald.load('src/categories_and_mappings.ttl', format='skos')  # From soksed
         roald.load('src/real_hume_mappings.ttl', format='skos')  # mappings from mymapper
-
+        # 0) MARC21 for general use, reintroduced
+        marc21options = {
+            'vocabulary_code': 'noubomn',
+            'created_by': 'NO-TrBIB',
+            'include_d9': 'simple',
+            'include_memberships': False,
+        }
+        roald.export('dist/%s.marc21.xml' %
+        config['basename'], format='marc21', **marc21options)
+        logger.info('Wrote dist/%s.marc21.xml', config['basename'])
         # 1) MARC21 with $9 fields for CCMapper
         marc21options = {
             'vocabulary_code': 'noubomn',
