@@ -319,6 +319,7 @@ def task_publish_dumps():
 
 #
 # This line: force update
+# Come on, let's go update
 #
 
 def task_fuseki():
