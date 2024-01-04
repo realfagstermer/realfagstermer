@@ -157,7 +157,7 @@ def task_build_core():
         includes = [
             '%s.scheme.ttl' % config['basename'],
             'src/ub-onto.ttl',
-            # 'src/nynorsk.ttl'
+          #  'src/nynorsk.ttl'
         ]
 
         roald.export('dist/%s.ttl' % config['basename'],
@@ -181,7 +181,7 @@ def task_build_core():
         ],
         'targets': [
             '%s.json' % config['basename'],
-            # 'dist/%s.marc21.xml' % config['basename'],
+            #'dist/%s.marc21.xml' % config['basename'],
             'dist/%s.ttl' % config['basename'],
         ]
     }
@@ -193,9 +193,9 @@ def task_build_extras():
         logger.info('Building extras')
         roald = Roald()
        # This code is used to force updates.
-        roald.load('src/realfagstermer.marc21.xml', format='roald2', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
+       # roald.load('src/realfagstermer.marc21.xml', format='roald2', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
        # This is the code that we actually want.
-       # roald.load('src/realfagstermer.marc21.xml', format='marc21', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
+        roald.load('src/realfagstermer.marc21.xml', format='marc21', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
         roald.set_uri_format('http://data.ub.uio.no/%s/c{id}' % config['basename'], 'REAL')
 
         roald.load('src/categories_and_mappings.ttl', format='skos')  # From soksed
