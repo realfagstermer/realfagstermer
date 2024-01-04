@@ -148,8 +148,10 @@ def task_build_core():
             'reply': os.getenv('MAIL_REPLY'),
             'recipients': os.getenv('MAIL_RECIPIENTS').split(','),
         })
-
-        roald.load('src/realfagstermer.marc21.xml', format='marc21', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
+        # The following line must be commented out.
+        roald.load('src/realfagstermer.marc21.xml', format='roald2', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
+        # The following line is the correct version of the line above.
+        #roald.load('src/realfagstermer.marc21.xml', format='marc21', language='nb', vocabulary_code='noubomn', id_validator=re.compile('REAL\d{5,}'))
         roald.set_uri_format('http://data.ub.uio.no/%s/c{id}' % config['basename'], 'REAL')
         roald.save('%s.json' % config['basename'])
         logger.info('Wrote %s.json', config['basename'])
